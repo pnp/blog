@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/SampleData.png
 tags: []
-type: "trending"
+type: regular
 ---
 
 By visiting [Developer Program - Microsoft

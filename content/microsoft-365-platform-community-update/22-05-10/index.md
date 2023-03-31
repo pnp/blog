@@ -44,7 +44,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 19th of April - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 
@@ -52,14 +52,14 @@ Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms
 * 1st of May - [Jasey Waegebaert](https://github.com/Jwaegebaert) (MI group) | Jwaegebaert - [Style your command bar with formatting magic](https://pnp.github.io/blog/post/style-command-bar-with-formatting-magic/)
 * 29th of April - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - [CLI for Microsoft 365 v5.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-2/)
 * 27th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese  - [How to rename files in SharePoint with Power Automate](https://pnp.github.io/blog/post/how-to-rename-files-in-sharepoint-with-power-automate/)
-* 25th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 platform community blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
+* 25th of April - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - [New Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/post/new-community-blog-platform/)
 * 19th of April - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth - [PnP PowerShell v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
 
 ### Community call recording blog posts
 
 * 6th of May - [Viva Connections & SharePoint Framework Community Call – 5th of May, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-05-05/)
 * 4th of May - [Microsoft 365 Platform Community Call - 3rd of May, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-05-03/)
-* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-developer-community-call/2022-04-28/)
+* 28th of April - [Microsoft 365 & Power Platform Development Community call - 28th of April, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-04-28/)
 * 27th of April - [Microsoft 365 Platform Community Call - 26th of April, 2022](https://pnp.github.io/blog/microsoft-365-platform-community-call/2022-04-26/)
 * 21st of April - [Viva Connections & SharePoint Framework Community Call – 21st of March, 2022](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2022-04-21/)
 * 20th of April - [Power Platform Community Call – April 2022](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2022/)

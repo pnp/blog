@@ -1,4 +1,4 @@
-# Microsoft 365 Platform Community Blog
+# Microsoft 365 and Power Platform Community Blog
 
 The [Microsoft 365 Community](https://aka.ms/m365pnp) is the virtual home for everyone who wants to extend Microsoft 365 beyond the standard. We want to share knowledge, learn from each other and achieve more together.
 
@@ -30,9 +30,9 @@ We want to let our community grow and get new people involved, so we want to als
 
 Appreciating people from all backgrounds and with different expertise will ensure inclusiveness and improve our ability to step outside of our comfort zones and respect diverse perspectives. Learning that there is no pecking order of power users, makers, and developers but that we will be most successful when we focus on a better together approach will make a huge difference.
 
-## How can you contribute to Microsoft 365 Platform Community blog?
+## How can you contribute to the Microsoft 365 and Power Platform Community Blog?
 
-You can create articles in the Microsoft 365 platform community blog by submitting them with a Pull request, please read our [Contributing guidelines](CONTRIBUTING.md) on how to do this.
+You can create articles in the Microsoft 365 and Power Platform Community Blog by submitting them with a Pull request, please read our [Contributing guidelines](CONTRIBUTING.md) on how to do this.
 
 After you contributed, we want to celebrate your contributions - which is why we partnered up with Credly in our [Recognition Program](https://pnp.github.io/recognitionprogram/) to provide you badges as a token of appreciation. Please opt-in (only one time) so we get you registered. You will get your badge shortly after your contribution.
 

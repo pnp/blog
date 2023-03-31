@@ -29,18 +29,18 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior 
 
 ## View Video Segments
 
-* Excel add-in User Pattern: Open in Excel [1:12] (https://youtu.be/KxaE0SLk-lM?t=72)
-* Use Linq to XML in Office.js Add-ins [9:27] (https://youtu.be/KxaE0SLk-lM?t=567)
-* Office Add-ins community engagement update[31:00] (https://youtu.be/KxaE0SLk-lM?t=1860)
-* Outlook add-in API update: REST decommission and Mailbox v1.12 scope [42:05] (https://youtu.be/KxaE0SLk-lM?t=2525)
+* Excel add-in User Pattern: Open in Excel [1:12](https://youtu.be/KxaE0SLk-lM?t=72)
+* Use Linq to XML in Office.js Add-ins [9:27](https://youtu.be/KxaE0SLk-lM?t=567)
+* Office Add-ins community engagement update[31:00](https://youtu.be/KxaE0SLk-lM?t=1860)
+* Outlook add-in API update: REST decommission and Mailbox v1.12 scope [42:05](https://youtu.be/KxaE0SLk-lM?t=2525)
 * Q&A [59:17](https://youtu.be/KxaE0SLk-lM?t=3557)
 
 ## Topic summaries
 
-* **Excel add-in user pattern – Open in Excel .** In the Open in Excel pattern, reduce steps for sourcing, installing, and using an add-in from 6 to 3. See when and how to use pattern along with benefits for users and developers. User can export data from any system to Excel.The Excel JavaScript add-in integrates your service with Excel by maintaining a connection between system data and your add-in.
-* **Use Linq to XML in Office.js Add-ins.** To support Office.js Add-ins, presenter has developed two TypeScript libraries (linq-to-xml and linq-to-ooxml) to handle Open XML markup. The code enables pure functional transformations of Office Open XML documents in Office.js Add-ins. In the Linq samples shown, see how to use capabilities from the libraries to transform a Word document that contains a massive number of content controls. 
-* **Office Add-ins Community engagement update** Pros/cons of locations to share your Office.js ideas, improvements, and feature suggestions. Linda had three asks: 1.) Provide feedback and other suggestions on using GitHub issues vs. discussions, 2.) Tag @lindalu-MSFT on your ideas previously submitted to [Tech Communities ideas forum](https://aka.ms/m365dev-suggestions) to ensure transfer, and 3.) Are you interested in participating in a User Research session about customer support channels? [Contact Linda](mailto:lindalu@microsoft.com)        
-* **Outlook add-in API update: REST decommission and Mailbox 1.12 scope** Updates since February regarding Outlook v2.0 REST API decommission. Mailbox v1.12 adds two big event-based features: Smart Alerts (onMessageSend and onAppointmentSend) and New Compose events (onMessageCompose and onAppointmentOrganizer). The features are available in preview for Windows and Outlook on the web. Q&A at end of demo addresses when you can still use the REST API, solution for mobile, and using REST in OnPrem.
+* **Excel add-in user pattern – Open in Excel.**  In the Open in Excel pattern, reduce steps for sourcing, installing, and using an add-in from 6 to 3. See when and how to use pattern along with benefits for users and developers. User can export data from any system to Excel.The Excel JavaScript add-in integrates your service with Excel by maintaining a connection between system data and your add-in.
+* **Use Linq to XML in Office.js Add-ins.**  To support Office.js Add-ins, presenter has developed two TypeScript libraries (linq-to-xml and linq-to-ooxml) to handle Open XML markup. The code enables pure functional transformations of Office Open XML documents in Office.js Add-ins. In the Linq samples shown, see how to use capabilities from the libraries to transform a Word document that contains a massive number of content controls. 
+* **Office Add-ins Community engagement update.**  Pros/cons of locations to share your Office.js ideas, improvements, and feature suggestions. Linda had three asks: 1.) Provide feedback and other suggestions on using GitHub issues vs. discussions, 2.) Tag @lindalu-MSFT on your ideas previously submitted to [Tech Communities ideas forum](https://aka.ms/m365dev-suggestions) to ensure transfer, and 3.) Are you interested in participating in a User Research session about customer support channels? [Contact Linda](mailto:lindalu@microsoft.com)        
+* **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.**  Updates since February regarding Outlook v2.0 REST API decommission. Mailbox v1.12 adds two big event-based features: Smart Alerts (onMessageSend and onAppointmentSend) and New Compose events (onMessageCompose and onAppointmentOrganizer). The features are available in preview for Windows and Outlook on the web. Q&A at end of demo addresses when you can still use the REST API, solution for mobile, and using REST in OnPrem.
   
 ## Call to action
 
@@ -171,25 +171,25 @@ Try creating a web worker that runs the timer. This would put it on a separate t
 ## Additional Resources
 
 * **Excel add-in user pattern: Open in Excel**
-    *[Open Excel from your web page and embed your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel)
-    *[Deploy add-ins in the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-    *[Configure your Office Add-in to use a shared JavaScript runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
-    * Feedback - [Open in Excel pattern proposal feedback](https://forms.office.com/r/14KL0MjPfJ)
+    - [Open Excel from your web page and embed your Office Add-in](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel)
+    - [Deploy add-ins in the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
+    - [Configure your Office Add-in to use a shared JavaScript runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
+    - Feedback - [Open in Excel pattern proposal feedback](https://forms.office.com/r/14KL0MjPfJ)
 * **Use Linq to XML in Office.js Add-ins**
-    * Github Sample repo - [OpenXmlDev/linq-to-xml](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office Videos/Add In Calls/2022-08-10-OfficeAdd-ins/OpenXmlDev / linq-to-xml)
-    * npm - [LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-xml)
-    * Github Sample repo - [OpenXmlDev/linq-to-ooxml](https://github.com/OpenXmlDev/linq-to-ooxml)
-    * npm - [OOXML Namespace-Related Classes for LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-ooxml)
-    * Github sample repo- [OpenXmlDev/inq-add-in](https://github.com/OpenXmlDev/linq-add-in)
-  **Outlook Add-in API update: REST decommission and Mailbox 1.12 scope **
-    *[REST API Add-in verification request](https://aka.ms/RESTCheck)
-    *[Add-ins for Outlook mobile](https://docs.microsoft.com/office/dev/add-ins/outlook/outlook-mobile-addins)
-    *[On-Premises Architectural Requirements for the REST API](https://techcommunity.microsoft.com/t5/exchange-team-blog/on-premises-architectural-requirements-for-the-rest-api/ba-p/605609)
+    - Github Sample repo - [OpenXmlDev/linq-to-xml](https://github.com/OpenXmlDev/linq-to-xml)
+    - npm - [LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-xml)
+    - Github Sample repo - [OpenXmlDev/linq-to-ooxml](https://github.com/OpenXmlDev/linq-to-ooxml)
+    - npm - [OOXML Namespace-Related Classes for LINQ to XML for TypeScript](https://www.npmjs.com/package/@openxmldev/linq-to-ooxml)
+    - Github sample repo- [OpenXmlDev/inq-add-in](https://github.com/OpenXmlDev/linq-add-in)
+  **Outlook Add-in API update: REST decommission and Mailbox 1.12 scope**
+    - [REST API Add-in verification request](https://aka.ms/RESTCheck)
+    - [Add-ins for Outlook mobile](https://docs.microsoft.com/office/dev/add-ins/outlook/outlook-mobile-addins)
+    - [On-Premises Architectural Requirements for the REST API](https://techcommunity.microsoft.com/t5/exchange-team-blog/on-premises-architectural-requirements-for-the-rest-api/ba-p/605609)
     
 
 ## Stay connected
 
-* See the full blog post at [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
+* See the full blog post at [Microsoft 365 and Power Platform Community Blog](https://aka.ms/m365pnp/blog)
 * [Follow @microsoft365dev on Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Platform Community on YouTube](https://aka.ms/m365/videos)
 * Invites to all [Microsoft 365 Developer Community calls](https://aka.ms/M365DevCalls)

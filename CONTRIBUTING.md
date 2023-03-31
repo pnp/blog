@@ -111,7 +111,7 @@ You will now want to (kindly) ask the repository maintainers to pull in your cha
 * Select **Create pull request**
 * If needed, you can commit more files and changes
 
-A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/).
+A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/).
 
 This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
 
