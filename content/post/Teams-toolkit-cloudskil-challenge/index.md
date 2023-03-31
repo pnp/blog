@@ -38,7 +38,6 @@ Don't miss this incredible opportunity to enhance your skills and join the Micro
 
 I can't wait to see what you create! 
 
-
 ## How to get started
 
 - Complete the learnpath [aka.ms/LearnTeamsToolkit](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df)
