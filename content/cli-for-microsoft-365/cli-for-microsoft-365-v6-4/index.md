@@ -14,244 +14,270 @@ tags:
 type: regular
 ---
 
-We've just published a new minor version of the CLI for Microsoft 365 with new commands for working with and managing Microsoft 365 and SharePoint Framework projects on any platform.
+We've published a new minor version of CLI for Microsoft 365. 
 
-## Manage Microsoft 365 and SharePoint Framework projects on any platform
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform tool. It helps you manage your Microsoft 365 tenant and SharePoint Framework projects. No matter which operating system or shell you use.
 
-CLI for Microsoft 365 is a cross-platform CLI that allows you to manage various configuration settings of Microsoft 365 and SharePoint Framework projects no matter which operating system or shell you use.
+> Read the [release notes](https://aka.ms/cli-m365/notes) in full for all new features and improvements.
+ 
+## What's new
 
-While building solutions for Microsoft 365 expands beyond the Windows operating system, managing many platform settings is possible only through PowerShell on Windows. As more and more users work on non-Windows machines, it's inconvenient for them to use a Windows virtual machine to configure their tenants. With the CLI for Microsoft 365, you can configure your tenant no matter which operating system you use. Additionally, using CLI for Microsoft 365, you can manage your SharePoint Framework projects.
+We've added new commands in this release. This section gives an overview of the new functionality.
 
-## New version of CLI for Microsoft 365 – v6.4
+### Retrieve a member from Microsoft Planner Roster
 
-Following our monthly release cadence, we've released a new version of the CLI for Microsoft 365 with some new capabilities. February was no exception. We had a ton of improvements and no fewer than 33 new commands. Here are a few of the most noteworthy additions.
+Rosters are a new type of container that you can use to manage access to Planner plans without the need for a Microsoft 365 group.
 
-> For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v630).
-
-## Added new Azure AD commands
-
-Working with Azure AD is one of the things for which the CLI for Microsoft 365 is often used. In this release we've introduced a series of new commands for managing users.
-
-To create a new user, run:
+To retrieve a specific user by their user name from a given roster, use:
 
 ```sh
-m365 aad user add --displayName "John Doe" --userName "john.doe@contoso.com" --password "SomePassw0rd" --forceChangePasswordNextSignIn
+m365 planner roster member get --rosterId tYqYlNd6eECmsNhN_fcq85cAGAnd --userName john.doe@contoso.com
 ```
 
-To delete a user, run:
+### Manage Power Automate Flow ownership
+
+Flows in Power Automate let you share your flows with others as owners or users. Owners can change flows, whereas users can run or execute flows.
+
+We've released three new commands in this release to manage the ownership of Power Automate Flows.
+
+To list the owners of a Power Automate Flow created by another user in by it's name, use:
 
 ```sh
-m365 aad user remove --name john.doe@contoso.com
+m365 flow owner list --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72 --asAdmin
 ```
 
-To list license details of a specific user, run:
+To add a new user as an owner of a Power Automate Flow by their username, use: 
 
 ```sh
-m365 aad user license list --userName john.doe@contoso.com
+m365 flow owner ensure --userName "john.doe@contoso.com" --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72 --roleName CanEdit
 ```
 
-Here's a list of all new Azure AD commands for this release:
-
-- [aad license list](https://pnp.github.io/cli-microsoft365/cmd/aad/license-list)
-- [aad user add](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-add)
-- [aad user remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-remove)
-- [aad user license list](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-list)
-- [aad user license add](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-add)
-- [aad user license remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-remove)
-- [aad user recyclebinitem clear](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-clear)
-- [aad user recyclebinitem list](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-list)
-- [aad user recyclebinitem remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-remove)
-- [aad user recyclebinitem restore](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-recyclebinitem-restore)
-
-## Added new Planner Commands
-
-In this release, another series of Microsoft Planner commands are introduced. With these commands you can manage Planner Roster. Rosters are a new type of container that you can use to manage access to planner plans without the need for a Microsoft 365 group.
-
-To create a new Microsoft Planner Roster, run: 
+To remove a user as an owner of a Power Automate Flow by their username, use:
 
 ```sh
-m365 planner roster add
+m365 flow owner remove --userName john.doe@contoso.com --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72
 ```
 
-To give a user access to a Microsoft Planner Roster, run: 
+Also to adding specific users, we've also included support for adding a group as an owner.
+
+To add a group as an owner of a Power Automate Flow by its id, use:
 
 ```sh
-m365 planner roster member add --rosterId tYqYlNd6eECmsNhN_fcq85cAGAnd --userName john.doe@contoso.com
+m365 flow owner ensure --groupId 8d4d9f32-1ab0-4f81-9054-efbb1759e8e6 --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72 --roleName CanEdit
 ```
 
-To list all users having access to a Microsoft Planner Roster, run: 
+To remove a group as an owner of a Power Automate Flow by its id, use:
 
 ```sh
-m365 planner roster member list --rosterId tYqYlNd6eECmsNhN_fcq85cAGAnd
+m365 flow owner remove --groupId "5c241023-2ba5-4ea8-a516-a2481a3e6c51" --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --name 72f2be4a-78c1-4220-a048-dbf557296a72
 ```
 
-Here's a list of all new Planner commands for this release:
+### Create Microsoft Purview retention events
 
-- [planner roster add](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-add)
-- [planner roster get](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-get)
-- [planner roster remove](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-remove)
-- [planner roster member add](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-member-add)
-- [planner roster member list](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-member-list)
-- [planner roster member remove](https://pnp.github.io/cli-microsoft365/cmd/planner/roster/roster-member-remove)
+When you keep content, the retention period is often based on the age of the content. For example, you might keep documents for seven years after they're created and then delete them.  when you configure retention labels, you can also base a retention period on when a specific type of event occurs. The event triggers the start of the retention period. All content with a retention label applied for that type of event get the label's retention actions enforced on them.
 
+We've added a new command in this release to create new retention events to trigger the start of a retention period.
 
-## Added new Compliance Commands
-
-The last few releases we introduced a lot of new commands around managing and applying Microsoft 365 Purview retention labels. This release we're expanding on that. We've introduced new commands for managing event-based retention labels and for accessing the audit log within your tenant.
-
-To list all SharePoint audit logs for the past 24 hours, run:
+To create a retention event to start retention at the end of 2022 for all employee documents that have a label and have the Asset ID `EmployeeNr1234`, use:
 
 ```sh
-m365 purview auditlog list --contentType SharePoint
+m365 purview retentionevent add --displayName 'Employee information expiration' --description 'Employee documents expired due to offboarding' --eventType 'CustomRetentionTime' --triggerDateTime '2022-12-31' --assetIds 'ComplianceAssetId:EmployeeNr1234'
 ```
 
-To create a retention event type, run:
+### Retrieve tenant scoped SharePoint Online Application Customizers
+
+SharePoint Online Tenant Application Customizers are a type of SharePoint Framework (SPFx) extension. They allow developers to adding custom scripts or HTML to the header or footer of every page in a SharePoint site collection. A tenant scoped customization applies to all sites and subsites within the tenant.
+
+To retrieve a tenant scoped Application Customizer by its title, use:
 
 ```sh
-m365 purview retentioneventtype add --displayName 'Contract Expiry' --description 'A retention event type to start a retention period based on the date that a contract expired.'
+m365 spo tenant applicationcustomizer get --title 'Some customizer'
 ```
 
-To list all retention event types, run:
+### Ensure a user on a SharePoint Online site
+
+When attempting to add a user to a SharePoint Online site that is already a member you will recieve an error.
+
+We've added a new command in this release to check whether the specified user name is a member of the site. If the user is not a member of the site, it adds it as a member.
+
+To ensure a user on a site, use:
 
 ```sh
-m365 purview retentioneventtype list
+m365 spo user ensure --webUrl https://contoso.sharepoint.com/sites/project --userName john.doe@contoso.com
 ```
 
-To list all retention events, run:
+### Manage SharePoint Online ListView Command Sets
+
+ListView Command Sets are a feature in SharePoint Online that allow you to add custom actions to the command bar in a list or library.
+
+We've added four new commands to this release to manage ListView Command Sets on SharePoint Online sites.
+
+To remove a ListView Command Set by its title on a specified SharePoint Onlin site, use:
 
 ```sh
-m365 purview retentionevent list
+m365 spo commandset remove --title 'Some customizer' --webUrl https://contoso.sharepoint.com/sites/sales
 ```
 
-Here's a list of all new Compliance commands for this release:
-
-- [purview auditlog list](https://pnp.github.io/cli-microsoft365/cmd/purview/auditlog/auditlog-list)
-- [purview retentionevent get](https://pnp.github.io/cli-microsoft365/cmd/purview/retentionevent/retentionevent-get)
-- [purview retentionevent list](https://pnp.github.io/cli-microsoft365/cmd/purview/retentionevent/retentionevent-list)
-- [purview retentionevent remove](https://pnp.github.io/cli-microsoft365/cmd/purview/retentionevent/retentionevent-remove)
-- [purview retentioneventtype add](https://pnp.github.io/cli-microsoft365/cmd/purview/retentioneventtype/retentioneventtype-add)
-- [purview retentioneventtype get](https://pnp.github.io/cli-microsoft365/cmd/purview/retentioneventtype/retentioneventtype-get)
-- [purview retentioneventtype list](https://pnp.github.io/cli-microsoft365/cmd/purview/retentioneventtype/retentioneventtype-list)
-- [purview retentioneventtype remove](https://pnp.github.io/cli-microsoft365/cmd/purview/retentioneventtype/retentioneventtype-remove)
-- [purview retentioneventtype set](https://pnp.github.io/cli-microsoft365/cmd/purview/retentioneventtype/retentioneventtype-set)
-
-## Added new SharePoint commands
-
-The CLI for Microsoft 365 has a lot of commands for managing and accessing SharePoint. In this release, more commands were introduced that make managing SharePoint easier. The main subjects are Application Customizers, Sharing Links and Navigation:
-
-To add an application customizer to a SharePoint site, run:
+To update the title and location of a ListView Command Set
+Updates the title and location of a ListView Command Set on the sales site.
 
 ```sh
-m365 spo applicationcustomizer add --title 'Some customizer' --clientSideComponentId 799883f5-7962-4384-a10a-105adaec6ffc --webUrl https://contoso.sharepoint.com/sites/sales
+m365 spo commandset set --clientSideComponentId 799883f5-7962-4384-a10a-105adaec6ffc --newTitle 'Some new title' --location Both --webUrl https://contoso.sharepoint.com/sites/sales --scope Site
 ```
 
-To remove all sharing links from a file, run:
+To retrieve a ListView Command Set by it's title from a SharePoint Online site, use:
 
 ```sh
-m365 spo file sharinglink clear --webUrl https://contoso.sharepoint.com/sites/demo --fileUrl '/sites/demo/Shared Documents/document.docx'
+m365 spo commandset get --title "Some customizer" --webUrl https://contoso.sharepoint.com/sites/sales
 ```
 
-To update the title and intended audience of a navigation node, run:
+To retrieve a list of ListView Command Sets from a SharePoint Online site, use:
 
 ```sh
-m365 spo navigation node set --webUrl https://contoso.sharepoint.com/sites/marketing --id 2209 --title "Pictures" --audienceIds "61f78c73-f71a-471e-a3b9-15daa936e200,9524e6b4-e663-44fe-b179-210c963e37e7,c42b8756-494d-4141-a575-45f01320e26a"
+m365 spo commandset list --webUrl https://contoso.sharepoint.com/sites/sales
 ```
 
-Here's a list of all new SharePoint commands for this release:
+To add a ListView Command Set to a list on a SharePoint Online site, use: 
 
-- [spo tenant applicationcustomizer add](https://pnp.github.io/cli-microsoft365/cmd/spo/tenant/tenant-applicationcustomizer-add)
-- [spo applicationcustomizer add](https://pnp.github.io/cli-microsoft365/cmd/spo/applicationcustomizer/applicationcustomizer-add)
-- [spo file sharinglink clear](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-sharinglink-clear)
-- [spo file sharinglink set](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-sharinglink-set)
-- [spo navigation node get](https://pnp.github.io/cli-microsoft365/cmd/spo/navigation/navigation-node-get)
-- [spo navigation node set](https://pnp.github.io/cli-microsoft365/cmd/spo/navigation/navigation-node-set)
-
-## Making SharePoint Framework Development easier
-
-Granting permissions in SharePoint Framework projects can be a bother. Developers need to deploy the package before the permissions are visible on the API access page of the SharePoint admin dashboard. This process takes a lot of small steps. In this release we introduce a new command to make this process easier. You can now grant consent to all API permissions that are included in your SPFx project. No need to execute multiple gulp commands. No need to leave VS Code. 
-
-You can now simply run:
-
-```sh 
-m365 spfx project permissions grant
+```sh
+m365 spo commandset add --title 'Some customizer' --clientSideComponentId 799883f5-7962-4384-a10a-105adaec6ffc --listType List --webUrl https://contoso.sharepoint.com/sites/sales
 ```
 
-## Another step in implementing CLI for Microsoft 365 context
+## What's changed
 
-In our previous releases, we have taken the first steps to creating a CLI context. This allows you to save time by storing default values for options that you often use. For example, if you're working with a specific site collection, you can save the URL of the site collection in the context, and CLI for Microsoft 365 will automatically use it when you run a command that requires the URL of the site collection. This way, you don't have to specify the URL of the site collection every time you run a command. In this release, we created an extra command to work with the CLI context. Note this is still a work in progress. We allow managing context settings but don't apply them to commands just yet.
+We've updated some existing commands with new functionality. Here is an overview of the new functionality.
 
-To list all options added to the context, run:
+### Improvements to Power Platform commands
+
+In this release we've made an internal change to our existing Power Platform commands.
+
+The change does not change any of the command options, however it does introduce an additional permission that you may need to consent to.
+
+If you have scripts that are using Power Platform commands and they stop working, it is highly likely that it will be due to this change. 
+
+To resolve the issue, you need to consent to the additional permission,PowerApps Service, that have been added to the PnP Management Shell Azure AD application.
+
+To review and re-consent CLI for Microsoft 365 permissions, use:
 
 ```sh
-m365 context option list
+m365 cli reconsent
 ```
 
-## Listing Power Automate flow runs
+> Read the [pull request](https://github.com/pnp/cli-microsoft365/pull/4460) for more details on this change.
 
-Aside from new commands, we implemented a ton of enhancements and bugfixes. One we want to call out here is the command to list flow runs. It's now possible to list flow runs by status and within a time range.
+### Add link-less navigation nodes to SharePoint Online navigation
 
-To get a list of all currently running instances of a Power Automate flow, run:
+SharePoint Online supports the ability to create navigation nodes called Labels that don't need you to provide a URL.
 
-```sh
-m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --status Running
-```    
+We've updated the `spo navigation node add` command to support the creation of Label navigation nodes. 
 
-To list runs of the specified Microsoft Flow between a specific time range, run:
+To create a label (or linkless navigation node), use:
 
 ```sh
-m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --triggerStartTime 2023-01-21T18:19:00Z --triggerEndTime 2023-01-22T00:00:00Z
-```    
+m365 spo navigation node add --webUrl https://contoso.sharepoint.com/sites/team-a --location TopNavigationBar --title About
+```
+
+### List Power Automate Flow runs for a flow created by another user
+
+Before the `flow run list` command only returned runs for Flows that were create by the logged in user. 
+
+In this release, we've extended the command to support returning runs for Flows created by other users with an `--asAdmin` option.
+
+To list Power Automate Flow runs for a flow created by another user, use:
+
+```sh
+m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --asAdmin
+```
+
+### Create tasks with more detail in Microsoft To Do 
+
+The Microsoft Graph endpoint that we use for creating tasks has been updated with new properties.
+
+In this release we have extended the `todo task add` command with new options:
+
+- Status
+- Categories
+- Start Date Time
+- Completed Date Time
+
+To create a new task, setting categories, a completed date and time, a start date and Time and a task status, use:
+
+```sh
+m365 todo task add --title "New task" --listName "My task list" --categories "Red category,Important" --completedDateTime 2023-12-01 --startDateTime 2023-12-01 --status "notStarted"
+```
+
+### Turn on or off the Viva Connections start experience on a SharePoint Online Home Site
+
+In this release we have extended the `spo homeset set` command to now give the ability to turn on or off the Viva Connections start experience.
+
+To turn on the Viva Connections start experience on a SharePoint Online Home Site, use:
+
+```sh
+m365 spo homesite set --siteUrl https://contoso.sharepoint.com/sites/comms --vivaConnectionsDefaultStart $true
+```
+
+### Upgrade SharePoint Framework projects to v1.17.0-beta.3
+
+In this release we've updated the `spfx project upgrade` command to provide support for upgrading your projects to the latest preview version of SharePoint Framework.
+
+To upgrade your project to the latest preview version, use:
+
+```sh
+m365 spfx project upgrade --preview
+```
 
 ## What's next
 
 Here are some things that we are currently working on.
 
-### Power Platform 
+### More commands
 
-We're currently busy implementing a new commands for managing the owners of a Power Automate flow. Things like listing, adding and removing owners.
+We are always looking to add more commands to CLI for Microsoft 365. 
 
-### Microsoft 365 Purview
+We are busy implementing commands across several Microsoft 365 services, such as Power Platform, SharePoint Online and Microsoft Purview.
 
-We're currently busy implementing the last of a series of commands around retention labels. Aside from that, work is also being done to build new commands to manage threat assessments and sensitivity labels. 
+If you have any ideas or suggestions for new commands, please let us know by creating a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) in the GitHub Issues list, or reaching out to us on our [community Discord server](https://aka.ms/cli-m365/discord) to discuss.
 
-### Manage SPFx extensions
+### Improvements to our community Discord server
 
-In the upcoming weeks, we'll keep working to create more commands to add, set, list, and remove SPFx extensions such as ListView Command Sets or Application Customizers.
+We recently launched a community Discord server for CLI for Microsoft 365. 
+
+We've seen a huge amount of engagement and activity on the server. So much so, that we've decided to make it is where we want to focus and grow the CLI for Microsoft 365 community.
+
+We've made it easier for you to get help, share and find content related to CLI for Microsoft 365.
+
+- Have a question about CLI for Microsoft 365? Create a thread in the `#ask-for-help` channel.
+- Have you seen or created an article related to CLI for Microsoft 365? Share it in the `#articles` channel.
+- Have you seen or created a video related to CLI for Microsoft 365? Share it in the `#videos` channel.
+- Want to have chat about CLI for Microsoft 365? Use the `#chat` channel.
+
+We are looking at other ways in which we can use Discord. So expect to see a lot more changes and activity over the coming months.
+
+If you aren't already a member, join today: [aka.ms/cli-m365/discord](https://aka.ms/cli-m365/discord)
+
+If you are, thank you for being an amazing part of this community.
 
 ## Contributors
 
 This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
+- [alanc-msft](https://github.com/alanc-msft)
+- [Garry Trinder](https://github.com/garrytrinder)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Patrick Lamber](https://github.com/plamber)
-- [Rabia Williams](https://github.com/rabwill)
 - [Reshmee Auckloo](https://github.com/reshmee011)
+- [Smita Nachan](https://github.com/SmitaNachan)
+- [Valeras Narbutas](https://github.com/ValerasNarbutas)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
 
-### High fives
-
-CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users who provide us with feedback. High fives to the following people who took the time to share their feedback and ideas for improvement with us (in alphabetical order):
-
-- [Carl Henrik Lunde](https://github.com/chlunde)
-- [hsicilia](https://github.com/hsicilia)
-- [Pol Van Dingenen](https://github.com/Cyhexy)
-- [Trygvi Zachariassen Laksafoss](https://github.com/TrygviZL)
-
-### Discussions
-
-CLI for Microsoft 365 is constantly growing and evolving. We're always looking for ways to improve. There are still many areas not covered by the CLI as well as many amazing ideas for unique features the tool might provide. Your feedback will help us make the right decisions in which areas we should focus on. If you want to help out please do join the currently open [discussions](https://github.com/pnp/cli-microsoft365/discussions)
-
-What else could we simplify? Let us know what you think by helping out with one of our [open issues](https://github.com/pnp/cli-microsoft365/issues) or chime in on our [discussions](https://github.com/pnp/cli-microsoft365/discussions)!
-
-## Try it today
+## Try it today!
 
 Get the latest release of CLI for Microsoft 365 from npm by executing:
 
@@ -259,10 +285,16 @@ Get the latest release of CLI for Microsoft 365 from npm by executing:
 npm i -g @pnp/cli-microsoft365
 ```
 
-Alternatively, you can get the latest release from Docker by executing:
+Or, you can get the latest release from Docker by executing:
 
 ```bash
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 
-If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365). If you see any room for improvement, please, don't hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/discussions), [Discord](https://discord.com/invite/7rfW4kg6B5), or [Twitter](https://twitter.com/climicrosoft365).
+## Need more info?
+
+If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365).
+
+## Get in touch!
+
+If you see any room for improvement, please, don't hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://discord.com/invite/7rfW4kg6B5), or [Twitter](https://twitter.com/climicrosoft365).
