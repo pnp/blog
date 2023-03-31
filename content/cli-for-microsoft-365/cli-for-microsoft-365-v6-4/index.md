@@ -40,7 +40,7 @@ Flows in Power Automate let you share your flows with others as owners or users.
 
 We've released three new commands in this release to manage the ownership of Power Automate Flows.
 
-To list the owners of a Power Automate Flow created by another user by it's name, use:
+To list the owners of a Power Automate Flow created by another user by its name, use:
 
 ```sh
 m365 flow owner list --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72 --asAdmin
