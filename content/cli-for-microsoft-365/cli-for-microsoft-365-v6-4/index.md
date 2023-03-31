@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SharePoint Framework (SPFx)
-type: regular
+type: popular
 ---
 
 We've published a new minor version of CLI for Microsoft 365. 
@@ -40,7 +40,7 @@ Flows in Power Automate let you share your flows with others as owners or users.
 
 We've released three new commands in this release to manage the ownership of Power Automate Flows.
 
-To list the owners of a Power Automate Flow created by another user in by it's name, use:
+To list the owners of a Power Automate Flow created by another user by it's name, use:
 
 ```sh
 m365 flow owner list --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72 --asAdmin
@@ -58,7 +58,7 @@ To remove a user as an owner of a Power Automate Flow by their username, use:
 m365 flow owner remove --userName john.doe@contoso.com --environmentName Default-c5a5d746-3520-453f-8a69-780f8e44917e --flowName 72f2be4a-78c1-4220-a048-dbf557296a72
 ```
 
-Also to adding specific users, we've also included support for adding a group as an owner.
+Also to add specific users, we've included support for adding a group as an owner.
 
 To add a group as an owner of a Power Automate Flow by its id, use:
 
@@ -86,7 +86,7 @@ m365 purview retentionevent add --displayName 'Employee information expiration' 
 
 ### Retrieve tenant scoped SharePoint Online Application Customizers
 
-SharePoint Online Tenant Application Customizers are a type of SharePoint Framework (SPFx) extension. They allow developers to adding custom scripts or HTML to the header or footer of every page in a SharePoint site collection. A tenant scoped customization applies to all sites and subsites within the tenant.
+SharePoint Online Tenant Application Customizers are a type of SharePoint Framework (SPFx) extension. They allow developers to add custom scripts or HTML to the header or footer of every page in a SharePoint site collection. A tenant scoped customization applies to all sites and subsites within the tenant.
 
 To retrieve a tenant scoped Application Customizer by its title, use:
 
@@ -96,7 +96,7 @@ m365 spo tenant applicationcustomizer get --title 'Some customizer'
 
 ### Ensure a user on a SharePoint Online site
 
-When attempting to add a user to a SharePoint Online site that is already a member you will recieve an error.
+When attempting to add a user to a SharePoint Online site that is already a member you will receive an error.
 
 We've added a new command in this release to check whether the specified user name is a member of the site. If the user is not a member of the site, it adds it as a member.
 
@@ -108,11 +108,11 @@ m365 spo user ensure --webUrl https://contoso.sharepoint.com/sites/project --use
 
 ### Manage SharePoint Online ListView Command Sets
 
-ListView Command Sets are a feature in SharePoint Online that allow you to add custom actions to the command bar in a list or library.
+ListView Command Sets are a feature in SharePoint Online that allows you to add custom actions to the command bar in a list or library.
 
 We've added four new commands to this release to manage ListView Command Sets on SharePoint Online sites.
 
-To remove a ListView Command Set by its title on a specified SharePoint Onlin site, use:
+To remove a ListView Command Set by its title on a specified SharePoint Online site, use:
 
 ```sh
 m365 spo commandset remove --title 'Some customizer' --webUrl https://contoso.sharepoint.com/sites/sales
@@ -125,7 +125,7 @@ Updates the title and location of a ListView Command Set on the sales site.
 m365 spo commandset set --clientSideComponentId 799883f5-7962-4384-a10a-105adaec6ffc --newTitle 'Some new title' --location Both --webUrl https://contoso.sharepoint.com/sites/sales --scope Site
 ```
 
-To retrieve a ListView Command Set by it's title from a SharePoint Online site, use:
+To retrieve a ListView Command Set by its title from a SharePoint Online site, use:
 
 ```sh
 m365 spo commandset get --title "Some customizer" --webUrl https://contoso.sharepoint.com/sites/sales
@@ -155,7 +155,7 @@ The change does not change any of the command options, however it does introduce
 
 If you have scripts that are using Power Platform commands and they stop working, it is highly likely that it will be due to this change. 
 
-To resolve the issue, you need to consent to the additional permission,PowerApps Service, that have been added to the PnP Management Shell Azure AD application.
+To resolve the issue, you need to consent to the additional permission, PowerApps Service, that has been added to the PnP Management Shell Azure AD application.
 
 To review and re-consent CLI for Microsoft 365 permissions, use:
 
@@ -179,7 +179,7 @@ m365 spo navigation node add --webUrl https://contoso.sharepoint.com/sites/team-
 
 ### List Power Automate Flow runs for a flow created by another user
 
-Before the `flow run list` command only returned runs for Flows that were create by the logged in user. 
+Before the `flow run list` command only returned runs for Flows that were created by the logged in user. 
 
 In this release, we've extended the command to support returning runs for Flows created by other users with an `--asAdmin` option.
 
@@ -208,7 +208,7 @@ m365 todo task add --title "New task" --listName "My task list" --categories "Re
 
 ### Turn on or off the Viva Connections start experience on a SharePoint Online Home Site
 
-In this release we have extended the `spo homeset set` command to now give the ability to turn on or off the Viva Connections start experience.
+In this release we have extended the `spo homesite set` command to now give the ability to turn on or off the Viva Connections start experience.
 
 To turn on the Viva Connections start experience on a SharePoint Online Home Site, use:
 
@@ -242,7 +242,7 @@ If you have any ideas or suggestions for new commands, please let us know by cre
 
 We recently launched a community Discord server for CLI for Microsoft 365. 
 
-We've seen a huge amount of engagement and activity on the server. So much so, that we've decided to make it is where we want to focus and grow the CLI for Microsoft 365 community.
+We've seen a huge amount of engagement and activity on the server. So much so, that we've decided to make it where we want to focus and grow the CLI for Microsoft 365 community.
 
 We've made it easier for you to get help, share and find content related to CLI for Microsoft 365.
 

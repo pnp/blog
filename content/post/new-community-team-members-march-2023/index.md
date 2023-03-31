@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/new-team-members-march-2023.png
 tags: []
-type: popular
+type: regular
 draft: false
 ---
 
