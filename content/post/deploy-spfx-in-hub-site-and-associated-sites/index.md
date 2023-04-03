@@ -1,10 +1,10 @@
 ---
 title: "Deploying and Installing SharePoint Framework (SPFx) using PowerShell Hub Site and Associated Sites"
-date: 2023-03-27T10:00:00.000Z
+date: 2023-04-03T07:00:00.000Z
 author: Reshmee Auckloo
 githubname: reshmee011
 categories:
-  - SPFx
+  - Communiy Post
 images:
   - images/example.png
 tags:
