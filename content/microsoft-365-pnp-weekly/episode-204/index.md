@@ -71,9 +71,10 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Announcing SharePoint Framework 1.17 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-release-candidate/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Create a Teams tab and Outlook Add-in with a Hello World project](https://devblogs.microsoft.com/microsoft365dev/create-a-teams-tab-and-outlook-add-in-with-a-hello-world-project/) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
 * [Build once, deploy efficiently, connect across Microsoft 365](https://devblogs.microsoft.com/microsoft365dev/build-once-deploy-efficiently-connect-across-microsoft-365/) - [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver
-* [Microsoft Graph Developer Proxy v0.6 with monitoring, rate limiting and paging guidance]() - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
+* [Microsoft Graph Developer Proxy v0.6 with monitoring, rate limiting and paging guidance](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-6-monitoring-rate-limiting-paging-guidance/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Announcing the Hack Together: Microsoft Graph and .NET winners](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hack-together-microsoft-graph-and-net-winners/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Introducing Microsoft Viva Connections for Education](https://techcommunity.microsoft.com/t5/education-blog/introducing-microsoft-viva-connections-for-education/ba-p/3774464) - [Jethro Seghers](https://twitter.com/jseghers) (Microsoft) | @jseghers
+* [Modern controls coming to canvas apps](https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-to-canvas-apps/) - Yogesh Gupta (Microsoft)
 
 ## Microsoft events
 
@@ -100,8 +101,6 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
-* [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
-* [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [CollabDays Montreal](https://www.collabdays.org/2023-montreal/) - April 28, 2023 - Montreal, Canada
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA
