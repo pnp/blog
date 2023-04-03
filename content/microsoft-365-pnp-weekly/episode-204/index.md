@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 204"
 summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around integrating apps across clouds, opinions on AI and ChatGPT, the driving force behind Luise’s ability to do so much, plus 23 articles/videos."
-date: 2023-03-27T02:00:01-00:00
+date: 2023-04-04T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -46,7 +46,7 @@ Also, we showcased xx articles/videos published by Microsoft and the community i
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, March 27, 2023.
+This session was recorded on Monday, April 3, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube Wi4t4aMGXyQ >}}
