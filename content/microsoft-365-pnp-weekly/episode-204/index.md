@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 204"
-summary: "Netherlands-based Microsoft MVP and CTO at Rencore - Erwin van Hunen, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Erwin’s new role at Rencore, his involvement in the community including the creation of PnP PowerShell, plus 29 articles/videos."
+summary: "Sweden-based Microsoft MVP and CTO at Rencore - Erwin van Hunen, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Erwin’s new role at Rencore, his involvement in the community including the creation of PnP PowerShell, plus 29 articles/videos."
 date: 2023-04-03T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -13,18 +13,18 @@ videos:
 draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Netherlands-based Microsoft MVP and CTO at Rencore - [Erwin van Hunen](https://twitter.com/erwinvanhunen) \| @erwinvanhunen
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Sweden-based Microsoft MVP and CTO at Rencore - [Erwin van Hunen](https://twitter.com/erwinvanhunen) | @erwinvanhunen
 
 ## Topics discussed in this session
 
-* Erwin's involvement with PnP efforts since 2014 – PnP PowerShell creator, maintainer, nurturer.
-* His new role as CTO at Rencore and his latest musical work. 
-* Why did Erwin create PnP PowerShell and hand it to the community?
-* Reviewing the latest release of PowerShell v2 (v2.1.1) – what’s changed, why drop PowerShell 5 support, how install the latest PowerShell.
-* How is PowerShell more than just a tool?
-* Where will PowerShell go in the next 3 years.
+* Erwin's involvement with [PnP](https://aka.ms/community/home) efforts since 2014 – PnP PowerShell creator, maintainer, nurturer.
+* His new role as CTO at [Rencore](https://rencore.com/) and his latest [musical work](https://www.youtube.com/@ErwinvanHunen). 
+* Why did Erwin create [PnP PowerShell](https://pnp.github.io/powershell/) and hand it to the community?
+* Reviewing the [latest release of PnP PowerShell v2](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v2-1-1/) (v2.1.1) – what’s changed, why drop PowerShell 5 support, how install the latest PowerShell.
+* How is PnP PowerShell more than just a tool?
+* Where will PnP PowerShell go in the next 3 years.
 * What are the advantages delivered by open-source projects over out-of-box? Does quality suffer?
-* What are the 5 things that make PowerShell and CLI for Microsoft 365 so successful?
+* What are the 5 things that make PnP PowerShell and [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) so successful?
 * How to not let the product you created and that people depend, not overwhelm you?
 * Product vs Project Management
 
