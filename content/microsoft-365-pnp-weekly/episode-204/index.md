@@ -1,46 +1,50 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 204"
-summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion around integrating apps across clouds, opinions on AI and ChatGPT, the driving force behind Luise’s ability to do so much, plus 23 articles/videos."
-date: 2023-04-04T02:00:01-00:00
+summary: "Sweden-based Microsoft MVP and CTO at Rencore - Erwin van Hunen, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Erwin’s new role at Rencore, his involvement in the community including the creation of PnP PowerShell, plus 29 articles/videos."
+date: 2023-04-03T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-203-promo.png
+- images/pnp-weekly-204-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=Wi4t4aMGXyQ
-draft: true
+- https://www.youtube.com/watch?v=QdiXfSD6mmo
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Sweden-based Microsoft MVP and CTO at Rencore - [Erwin van Hunen](https://twitter.com/erwinvanhunen) | @erwinvanhunen
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Erwin's involvement with [PnP](https://aka.ms/community/home) efforts since 2014 – PnP PowerShell creator, maintainer, nurturer.
+* His new role as CTO at [Rencore](https://rencore.com/) and his latest [musical work](https://www.youtube.com/@ErwinvanHunen). 
+* Why did Erwin create [PnP PowerShell](https://pnp.github.io/powershell/) and hand it to the community?
+* Reviewing the [latest release of PnP PowerShell v2](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v2-1-1/) (v2.1.1) – what’s changed, why drop PowerShell 5 support, how install the latest PowerShell.
+* How is PnP PowerShell more than just a tool?
+* Where will PnP PowerShell go in the next 3 years.
+* What are the advantages delivered by open-source projects over out-of-box? Does quality suffer?
+* What are the 5 things that make PnP PowerShell and [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) so successful?
+* How to not let the product you created and that people depend, not overwhelm you?
+* Product vs Project Management
 
-Also, we showcased xx articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 29 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Luise** – planning for ESPC23 in Amsterdam.
-* **Waldek** – announcing winners of Virtual Hack Together on March 29th (Wednesday). New releases of Microsoft Graph Developer Proxy and CLI for Microsoft 365 due out this week. Kicking off a new initiative around Microsoft Graph.
-* **Vesa** – releasing SPFx v1.17 (RC) on March 28th (Tuesday). Attention to community calls and actions.
+* **Erwin** – onboarding himself as CTO - learning and communicating with his new team.
+* **Waldek** – retrospective on Virtual Hack Together process and winners, shipped Microsoft Graph Developer Proxy and CLI for Microsoft 365 last week, new ideas for these products this week. Also, starting to prepare things for Microsoft Build.
+* **Vesa** – releasing SPFx v1.17 (GA) on April 4th (Tuesday) and more.
 
 ## Agenda items
 
-[00:00](https://youtu.be/Wi4t4aMGXyQ?t=0) – Intro
+[00:00](https://youtu.be/QdiXfSD6mmo?t=0) – Intro
 
-[01:27](https://youtu.be/Wi4t4aMGXyQ?t=87) – Interview
+[02:08](https://youtu.be/QdiXfSD6mmo?t=128) – Interview
 
-[46:55](https://youtu.be/Wi4t4aMGXyQ?t=2815) – Weekly Articles
+[49:44](https://youtu.be/QdiXfSD6mmo?t=2961) – Weekly Articles
 
-[1:10:52](https://youtu.be/Wi4t4aMGXyQ?t=4252) – Closing
+[1:15:14](https://youtu.be/QdiXfSD6mmo?t=4514) – Closing
 
 ## Action requested
 
@@ -49,9 +53,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday, April 3, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube Wi4t4aMGXyQ >}}
+    {{< youtube QdiXfSD6mmo >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-e56dm-13ca5ec >}}
+    {{< podbean pb-2jgsw-13d3aee >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -59,7 +63,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Welcome to the new era of Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/27/welcome-to-the-new-era-of-microsoft-teams/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
+* [Welcome to the new era of Microsoft Teams](https://www.microsoft.com/microsoft-365/blog/2023/03/27/welcome-to-the-new-era-of-microsoft-teams/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
 * [Introducing the new Microsoft Teams, now in preview](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-the-new-microsoft-teams-now-in-preview/ba-p/3774406) - Anupam Pattnaik (Microsoft)
 * [Enable the new Microsoft Teams toggle for your organization](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/enable-the-new-microsoft-teams-toggle-for-your-organization/ba-p/3781345) - Shaloo Singh (Microsoft)
 * [Avatars for Microsoft Teams in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/avatars-for-microsoft-teams-in-public-preview/ba-p/3774421) - Avery Salumbides (Microsoft)
@@ -74,7 +78,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Microsoft Graph Developer Proxy v0.6 with monitoring, rate limiting and paging guidance](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-6-monitoring-rate-limiting-paging-guidance/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Announcing the Hack Together: Microsoft Graph and .NET winners](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hack-together-microsoft-graph-and-net-winners/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Introducing Microsoft Viva Connections for Education](https://techcommunity.microsoft.com/t5/education-blog/introducing-microsoft-viva-connections-for-education/ba-p/3774464) - [Jethro Seghers](https://twitter.com/jseghers) (Microsoft) | @jseghers
-* [Modern controls coming to canvas apps](https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-to-canvas-apps/) - Yogesh Gupta (Microsoft)
+* [Modern controls coming to canvas apps](https://powerapps.microsoft.com/blog/modern-controls-coming-to-canvas-apps/) - Yogesh Gupta (Microsoft)
 
 ## Microsoft events
 
@@ -89,7 +93,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [How to add and remove owners from a Power Automate flow with CLI Microsoft 365](https://pnp.github.io/blog/post/how-to-add-or-remove-owners-from-a-power-automate-flow-with-cli-microsoft365/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * [Create a stack trace in Power Automate flows](https://sharepains.com/2023/03/31/create-a-stack-trace-in-power-automate-flows/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Mocking API Responses Made Easy with Graph Developer Proxy](https://kunjsangani.com/2023/04/mocking-api-responses-made-easy-with-graph-developer-proxy/) - [Kunj Sangani](https://twitter.com/sanganikunj) (LTIMindtree) | @sanganikunj
-* [The joys of hiding content from Microsoft Search](https://ms365thinking.blogspot.com/2023/03/the-joys-of-hiding-content-from.html) - [Kasper Larsen](https://twitter.com/kasperbolarsen) (Fellowmind ) | @kasperbolarsen
+* [The joys of hiding content from Microsoft Search](https://ms365thinking.blogspot.com/2023/03/the-joys-of-hiding-content-from.html) - [Kasper Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) | @kasperbolarsen
 * [Microsoft 365: A Tale of Online Security – Chapter 1](https://helloitsliam.com/2023/03/28/microsoft-365-a-tale-of-online-security-chapter-1/) - [Liam Cleary](https://twitter.com/helloitsliam) (SharePlicity) | @helloitsliam
 * [What’s new for Microsoft Viva – March 2023](https://teams.handsontek.net/2023/04/03/whats-new-microsoft-viva-march-2023/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
 * [Episode #243 - Using Bicep in Azure DevOps Pipelines](https://www.youtube.com/watch?v=XPg39MzQYYE) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
