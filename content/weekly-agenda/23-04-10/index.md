@@ -58,16 +58,10 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Microsoft Syntex - Overview of model types](https://www.youtube.com/watch?v=6aOnuG4QJJA)
 * [Build AI integration for Microsoft 365 using ChatGPT and SPFx solution](https://www.youtube.com/watch?v=NAJO-RXrnSg) by [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre
 
-We also released a new 17 video long video series focused on the SharePoint add-in model modernization.
+Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Transform SharePoint Add-in model solutions to modern development patterns](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXJLA29Q0Xk7psbAUqzQZwe)
-
-
-Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
-
-* [Power Platform Connections Ep 7 - Dian Taylor](https://www.youtube.com/watch?v=5GEEhSSgMDo) - [Dian Taylor](https://twitter.com/d365goddess) (RSM US LLP) | @d365goddess, [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII & [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
-* [Power Platform Connections Ep 6 - Shane Young](https://www.youtube.com/watch?v=v6mifi35_SQ) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows, [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII & [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
-* [Transform SharePoint Add-in model solutions to modern development patterns](https://www.youtube.com/watch?v=DwZAm-SA5Ew) - [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness, Matt MacLaurin (Microsoft) & Anthony Uitz (Microsoft)
+* [Power Platform Connections Ep Eight - Hugo Bernier](https://www.youtube.com/watch?v=HuKLj12NMk0) - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [App Opener: create custom security roles for model-driven apps](https://www.youtube.com/watch?v=qkGxlW9_Huo) 
 
 ---
 
