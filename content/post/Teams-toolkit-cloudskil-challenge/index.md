@@ -25,7 +25,7 @@ It is an amazing opportunity to take your app development skills to the next lev
 ## Join us!
 
 - Complete the learnpath [aka.ms/LearnTeamsToolkit](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df)
-Join us from April 12 to April 26 and participate in the challenge to complete the Teams Toolkit learn path on . Not only will you enhance your knowledge and capabilities, but you will also be eligible to win fab prizes such as Azure credits and Microsoft Gift Cards.💃
+Join us from April 12 to April 26 and participate in the challenge to complete the Teams Toolkit learn path on . Not only will you enhance your knowledge and capabilities, but you will also be eligible to win fab prizes. The following prizes will be awarded: Ten (10) Grand Prize winners. Each winner will receive the choice of either a $100 digital gift card or $100 Azure credits. Approximate Retail Value (ARV) $1000.
 
 By completing the learn path, you will learn how to leverage Teams Toolkit, covered by five modules:
 
