@@ -129,7 +129,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 ---|---|---
 [SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17 (GA)  
 [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.13 (GA)| v3.14 to be released April 17, 2023 
-[CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.3 (GA), v6.5 (Beta)|
+[CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.5 (GA)
 [Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.6 (Preview)| v0.7 to be released April 26, 2023 
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.13.0 (GA), v2.9.0|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.12.0 (GA), v2.7.0|
