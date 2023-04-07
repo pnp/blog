@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 10th of April 2023 week
-date: 2023-04-05T13:43:44.260Z
+date: 2023-04-07T02:40:44.260Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -29,9 +29,8 @@ This is the agenda for the following week:
 Demos this time
 
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Announcing Teams toolkit cloud skill challenge
-* Houssem Ayadi - Hack together winner - Using Microsoft Graph and Azure Form Recognizer for optimize productivity
 * [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev – Introduction to Microsoft Teams Toolkit v5 - New features and capabilities
-
+* Houssem Ayadi - Hack together winner - Using Microsoft Graph and Azure Form Recognizer for optimize productivity
 
 ### Microsoft 365 & Power Platform Community Call - 13th of April
 
@@ -43,20 +42,35 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos: 
 
-* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0 - A SharePoint document generator as Microsoft 365 app as Microsoft Teams native app 
+* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 - A SharePoint document generator as Microsoft 365 app build as Microsoft Teams native app 
 * Phiwayinkosi Khanya Dludlu - Build a training request solution with Power Platform
-* [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent - List Formatting Magic
+* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Magic
 
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [From Epilepsy to MVP - Empowerment using the Power Platform](https://www.youtube.com/watch?v=dAsX4VbBU7Q) by [Daniel Christian](https://twitter.com/dchristian19) | @dchristian19
+* [The Viva Connections mobile - Access your company digital resources from any device](https://www.youtube.com/watch?v=0mpo4kjIep0)
+* [Add chat capability to Microsoft Teams app using Teams JavaScript client library](https://www.youtube.com/watch?v=DSU5ve4uccM) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Microsoft Syntex - Create a content center](https://www.youtube.com/watch?v=frho3sG2bD8)
 * [Boost your conversations in Microsoft Teams with Chat GPT AI and Power Virtual Agents](https://www.youtube.com/watch?v=H39ALF85lx0) by [Dewain Robinson](https://twitter.com/Dewain76) (Microsoft) | @Dewain76
 * [Viva Connections gives you access to your company digital workspace directly from Teams](https://www.youtube.com/watch?v=8xKZ9w6W66k)
 * [Get started building apps for Microsoft Teams using Teams Toolkit for VS Code](https://www.youtube.com/watch?v=tOoEnTqlG60) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Microsoft Syntex - Overview of model types](https://www.youtube.com/watch?v=6aOnuG4QJJA)
 * [Build AI integration for Microsoft 365 using ChatGPT and SPFx solution](https://www.youtube.com/watch?v=NAJO-RXrnSg) by [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre
+
+Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
+
+* [Hack Together: Microsoft Graph and .NET winners](https://www.youtube.com/watch?v=kZouZLaJtc0)
+* [Microsoft Teams Apps can now run in the Microsoft 365 app](https://www.youtube.com/watch?v=sc3ZohtS5gM)
+* [Build once, deploy efficiently, connect across Microsoft 365 - Virtual event](https://www.youtube.com/watch?v=asW6bpu0RNs)
+* [Unified Store on Outlook: Discover and acquire add-ins and extended Teams Apps in one-stop shop](https://www.youtube.com/watch?v=tkvy5CjjqYM)
+* [Bring your Microsoft Teams apps to Microsoft 365 and Outlook mobile apps](https://www.youtube.com/watch?v=Ss3DEDBdmFc)
+* [Outlook Extensions: Deep dive into unified app manifest (evolution of Teams app manifest)](https://www.youtube.com/watch?v=0iZlWuH0_AA)
+* [Introducing the latest capabilities in the Teams JS client library](https://www.youtube.com/watch?v=1UJimJmXmvw)
+* [Message extensions and link unfurling extended to Outlook](https://www.youtube.com/watch?v=37R4vK9-JjQ)
+* [Microsoft 365 Admin Center: The ultimate unified app management experience](https://www.youtube.com/watch?v=9EZfgfNWsbQ)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
@@ -69,6 +83,7 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [License management capabilities for Independent Software Vendors’ (ISV) SaaS apps in Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/license-management-capabilities-for-independent-software-vendors-isv-saas-apps-in-microsoft-teams/) - Chandrika Duggirala
 * [Build a developer assist dashboard using Teams Toolkit for Visual Studio Code v5.0 pre-release](https://devblogs.microsoft.com/microsoft365dev/build-a-developer-assist-dashboard-using-teams-toolkit-for-visual-studio-code-v5-0-pre-release/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * [Announcing SharePoint Framework 1.17 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Skype for Business usage reports deprecation in Microsoft Graph production and beta endpoints](https://devblogs.microsoft.com/microsoft365dev/skype-for-business-usage-reports-deprecation-in-microsoft-graph-production-and-beta-endpoints/)
@@ -78,6 +93,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [CLI for Microsoft 365 v6.5](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-5/) - [Jasey Waegebaert](https://twitter.com/jwaegebaert) (GMI Group) | @jwaegebaert
 * [SharePoint Framework Updated in SharePoint Server Subscription Edition](https://pnp.github.io/blog/post/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Deploying and Installing SharePoint Framework (SPFx) using PowerShell Hub Site and Associated Sites](https://pnp.github.io/blog/post/deploy-spfx-in-hub-site-and-associated-sites/) by [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
 * [PnP PowerShell v2.1.1](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v2-1-1/) by [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
@@ -89,6 +105,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 6th of April, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-04-06/)
 * [Microsoft 365 & Power Platform Community Call - 4th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-04/)
 
 ---
