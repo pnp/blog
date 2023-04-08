@@ -34,7 +34,7 @@ This blog post shows how a Power Automate Cloud Flow can be used to produce docu
 
 ## Dataverse Processes
 
-Flows, Workflows and Business Rules are all stored on the Dataverse Process table. The Category choice column (option set attribute) distinguishes the different types:
+Flows, Workflows and Business Rules are all stored on the Process table in Dataverse. The Category choice column (option set attribute) distinguishes the different types:
 
 | Value|	Type|
 |--|--|
@@ -58,7 +58,7 @@ And Business Rules:
 
 ## Process Documentation Cloud Flow
 
-As Processes are managed as a Dataverse table, this table can be used in a Power Automate Flow to generate documentation.
+The Processes Dataverse table can be used in a Power Automate Flow to generate documentation and this is detailed below.
 
 The top-level view of the flow is:
 
@@ -91,7 +91,7 @@ The main filter selects just the workflows, business rules, actions, business pr
     </filter>
 ```
 
-The User who created the Process is used in the other filter condition:
+The User who created the Process is used in the linked filter condition on the User table:
 
 ``` xml
     <link-entity name='systemuser' from='systemuserid' to='createdby'>
@@ -101,7 +101,7 @@ The User who created the Process is used in the other filter condition:
     </link-entity>
 ```
 
-And the outputs are ordered into the order the documentation will be generated in, firstly by the Process's Primary Entity, then by Category and then by Name:
+And the outputs are sorted into the order the documentation will be generated in, firstly by the Process's Primary Entity, then by Category, and then by Name:
 
 ``` xml
     <order attribute='primaryentity' />
@@ -111,7 +111,12 @@ And the outputs are ordered into the order the documentation will be generated i
 
 ### Variables
 
+The first two variable as set:
 
+- Empty string
+- Blamk Integer
+
+![Variables](images/Variables.png)
 
 ### Apply to each Process
 
@@ -145,3 +150,6 @@ Being aware that the descriptions are used in Markdown-based documentation opens
 
 ## Acknowledgements
 
+Carl
+
+Matt - his project
