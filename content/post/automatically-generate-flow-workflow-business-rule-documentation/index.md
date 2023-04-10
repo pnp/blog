@@ -133,7 +133,9 @@ The Contents varaibles are initialised to include the Table of Contents and the 
 
 The flow then loops through the Processes to generate the documentation. 
 
-The key elements of the logic for the Apply to each are:
+![Apply to each](images/ApplyToEach.png)
+
+The key elements of the logic for the **Apply to each** are:
 
 - Separate branches for the table-related Processes, non-table-related Processes and draft Processes
 - Adding headings to structure the contents
@@ -159,13 +161,24 @@ Finally, the Markdown contents is written to OneDrive. This could be replaced wi
 
 ## Output
 
+Examples of the outputs are:
 
+### Business Rules
+
+![User Story](images/Tables.png)
+
+### Flows
+
+![Flows](images/Flows.png)
 
 ---
 
 ## Taking it further - Azure DevOps Wiki and Work Items
 
-The flow on its own gives significant benefits for documenting and understanding the processes across Dataverse.
+The flow on its own gives significant benefits for documenting and understanding the processes across Dataverse, particularly on a large project.
+
+Taking advantage of further features of DevOps Wikis gives further benefits, particularly including DevOps Work Item references to Descriptions using '#{_Work Item Number_}', such as #12345 to reference Work Item 12345.
+
 
 
 ---
