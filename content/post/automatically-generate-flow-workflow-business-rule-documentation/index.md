@@ -113,19 +113,47 @@ And the outputs are sorted into the order the documentation will be generated in
 
 The first two variable as set:
 
-- Empty string
-- Blamk Integer
+- Current Table = Empty string
+- Current Process = Integer (Blank) 
+
+The Contents varaibles are initialised to include the Table of Contents and the formatted Date/Time. The Table of Contents is an Azure DevOps specific extention to markdown, and can be removed for other systems. There are separate variable for the:
+
+- Table related processes:
+	- Business Rules
+  - Business Process Flows
+  - Workflows
+- Non-Table related processes:
+	- Actions
+  - Flows
+- Draft processes - these are included in a simple table for reference
 
 ![Variables](images/Variables.png)
 
 ### Apply to each Process
 
+The flow then loops through the Processes to generate the documentation. 
 
-Form (can't use expand query in List)
+The key elements of the logic for the Apply to each are:
+
+- Separate branches for the table-related Processes, non-table-related Processes and draft Processes
+- Adding headings to structure the contents
+- Switch branches for the individual Process categories so that category specific content can be included - for example, if workflow logging is on
+- Conditions for different situations, such as if there isn't a description, so that this can be highlighted
+- For Business Rules, getting the name of the Entity Form the rules applies to (note: this can't use expand query in original list as the Form Id isn't valid for FetchXML)
+- Adding details of the Process
+- Providing warnings if logging is currently turned on
+
+The full detail of the logic is available in the flow, which includes notes on the Flow steps, and the Visio which was generated using the Flow Visio Builder by Carl Cookson.
+
+### Compose steps for the Markdown content
+
+After the end of the Apply to each loop, there are separate compose steps so that the contents are available should the output to OneDrive fail.  
 
 ### Save Content to OneDrive
 
+Finally, the Markdown contents is written to OneDrive. This could be replaced with SharePoint if desired.
 
+![Output to OneDrive](images/OutputToOneDrive.png)
 
 ---
 
