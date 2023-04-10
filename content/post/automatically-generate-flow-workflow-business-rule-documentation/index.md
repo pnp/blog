@@ -159,7 +159,7 @@ Finally, the Markdown contents is written to OneDrive. This could be replaced wi
 
 ---
 
-## Output
+## Outputs
 
 Examples of the outputs are:
 
@@ -179,18 +179,31 @@ The flow on its own gives significant benefits for documenting and understanding
 
 Taking advantage of further features of DevOps Wikis gives further benefits, particularly including DevOps Work Item references to Descriptions using '#{_Work Item Number_}', such as #12345 to reference Work Item 12345.
 
+![Details with DevOps Reference](images/DetailsWithRef.png)
 
+Gives:
+
+![Flow Description with DevOps Reference](images/FlowWithRef.png)
+
+### Advantages
+
+This has big advantages:
+
+- The User Stories, Features and other Azure DevOps Work Items can be referenced in the Process descriptions
+- The documentation for the individual Processes will contain links that can be selected to open the work item
+- The Wiki Search feature can be used to find all automation linked to a work items 
 
 ---
 
-## Tips for Process Descriptions
+## Solution and Visio
 
-Being aware that the descriptions are used in Markdown-based documentation opens the possibility of exploiting Markdown features:
+
 
 ---
 
 ## Acknowledgements
 
-Carl
+[Carl Cookson](https://twitter.com/LinkeD365) for encouraging me to write this blog post and providing his set of [documentation tools on the XrmToolBox](https://linked365.blog/tags/my-tools/).
 
-Matt - his project
+PnP for hosting this (Markdown-based) blog platform.
+
