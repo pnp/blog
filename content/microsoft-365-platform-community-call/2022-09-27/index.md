@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 27th of September, 2022"  
+title: "Microsoft 365 Platform Community Call - 27th of September, 2022"
 summary: "Two demos - Build a productivity dashboard by using Teams Toolkit for Visual Studio, and Latest status and the next investments areas for SharePoint Framework. Registration open for Microsoft Ignite and Microsoft Teams App Camp training. Delivered 6 articles, 2 podcasts."
 date: 2022-09-27 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -118,4 +118,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 27th of September 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

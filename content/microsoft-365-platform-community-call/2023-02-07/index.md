@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 7th of February, 2023"  
+title: "Microsoft 365 Platform Community Call - 7th of February, 2023"
 summary: "Demos - Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams; Turn text to images in Microsoft Teams using OpenAI DALL-E 2 and Teams Toolkit for VS Code; and Power Pages Data workspace is now solution aware."
 date: 2023-02-07T04:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -148,4 +148,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 7th of February 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

@@ -303,4 +303,4 @@ _“Sharing is caring”_
 
 _Microsoft 365 PnP team, Microsoft - 22nd of April 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

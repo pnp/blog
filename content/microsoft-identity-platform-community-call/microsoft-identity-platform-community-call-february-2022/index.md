@@ -47,4 +47,4 @@ Then presenter will step through 4 scenarios for accessing Azure resources witho
 *   Recurrent Invite  [https://aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar)
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

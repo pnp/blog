@@ -62,4 +62,4 @@ The following topics are covered in this month’s community call.  Demo:  **A
 *   Next call – April 14th at 09:00am PST
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

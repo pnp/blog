@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 20th of September, 2022"  
+title: "Microsoft 365 Platform Community Call - 20th of September, 2022"
 summary: "Two demos - Introduction to SharePoint Online Admin APIs on Microsoft Graph and Getting started with Teams Toolkit for Visual Studio. Registration is now open for Microsoft Ignite – October 12-14, 2022. Delivered 4 articles and PnP Weekly this week."
 date: 2022-09-20 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -110,4 +110,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 *Microsoft 365 Platform Community team, Microsoft - 20th of September 2022*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
