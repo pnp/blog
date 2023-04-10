@@ -3,40 +3,52 @@
 {{- $sort := .Get "sort" | default "asc" }}
 {{- $icon := .Get "icon" | default "" }}
 {{- if and (not $icon) (eq (len $icon) 0) }}
-{{- $icon = "paperclip" }}
+  {{- $icon = "paperclip" }}
 {{- end }}
 {{- $icon = trim $icon " " }}
 
-<h2 id="{{ $title | urlize }}" class="heading-anchor">{{ $title }} <a
-        class="anchor-link" href="#{{ $title | urlize }}"
-        aria-labelledby="{{ $title | urlize  }}"></a></h2>
-    <ul class="box-content attachments-files">
-        {{- $filesName := "files" }}
-        {{- if ne .Page.File.BaseFileName "index" }}
-        {{- $filesName = printf "%s.files" .Page.File.BaseFileName }}
-        {{- end}}
+{{- $filesName := "files" }}
+{{- if ne .Page.File.BaseFileName "index" }}
+  {{- $filesName = printf "%s.files" .Page.File.BaseFileName }}
+{{- end}}
 
-        {{- $fileLink := printf "%s/%s" (.Page.Language.ContentDir | default "content") .Page.File.Dir }}
-        {{- $fileLink = replace (replace $fileLink "\\" "/") "content/" "" }}
-        {{- $fileDir := printf "%s/%s" (.Page.Language.ContentDir | default "content") .Page.File.Dir }}
-        {{- $fileDir = replace $fileDir "\\" "/" }}
-        {{- $pattern := .Get "pattern" | default "" }}
-        {{- range sort (readDir (printf "%s%s" $fileDir $filesName) ) "Name" $sort }}
-        {{- if findRE $pattern .Name}}
+{{- $fileLink := printf "%s/%s" (.Page.Language.ContentDir | default "content") .Page.File.Dir }}
+{{- $fileLink = replace (replace $fileLink "\\" "/") "content/" "" }}
+{{- $fileDir := printf "%s/%s" (.Page.Language.ContentDir | default "content") .Page.File.Dir }}
+{{- $fileDir = replace $fileDir "\\" "/" }}
+{{- $pattern := .Get "pattern" | default "" }}
+
+{{ if fileExists $filesName }}
+  <h2 id="{{ $title | urlize }}" class="heading-anchor">
+    {{ $title }}&nbsp;
+    <a class="anchor-link"
+      href="#{{ $title | urlize }}"
+      aria-labelledby="{{ $title | urlize  }}"></a>
+  </h2>
+  <ul class="box-content attachments-files">
+    {{- range sort (readDir (printf "%s%s" $fileDir $filesName) ) "Name" $sort }}
+      {{- if findRE $pattern .Name}}
         {{- $size := .Size }}
         {{- $unit := "B" }}
+
         {{- if ge $size 1024 }}
-        {{- $size = div $size 1024 }}
-        {{- $unit = "KB" }}
+          {{- $size = div $size 1024 }}
+          {{- $unit = "KB" }}
         {{- end }}
+
         {{- if ge $size 1024 }}
-        {{- $size = div $size 1024 }}
-        {{- $unit = "MB" }}
+          {{- $size = div $size 1024 }}
+          {{- $unit = "MB" }}
         {{- end }}
+
         {{- $unitsymbol := $unit }}
-        <li><a href="{{ (printf "%s%s/%s" $fileLink $filesName .Name) | relURL }}">{{ if $icon }}<i class="fas fa-{{ $icon }} fa-fw"></i> {{ end }}{{.Name}}</a> ({{$size}}
-            {{$unitsymbol}})</li>
-        {{- end }}
-        {{- end }}
-    </ul>
-    {{- .Inner }}
+
+        <li>
+          <a href="{{ (printf "%s%s/%s" $fileLink $filesName .Name) | relURL }}">
+            {{ if $icon }}<i class="fas fa-{{ $icon }} fa-fw"></i> {{ end }}{{.Name}}</a> ({{$size}} {{$unitsymbol}})
+        </li>
+      {{- end }}
+    {{- end }}
+  </ul>
+  {{- .Inner }}
+{{ end }}
