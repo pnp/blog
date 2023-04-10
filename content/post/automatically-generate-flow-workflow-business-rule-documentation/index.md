@@ -64,7 +64,7 @@ And Business Rules:
 
 ## Process Documentation Cloud Flow
 
-The Processes table can be used in a Power Automate Flow to generate documentation from the descriptions and other columns.
+The Process table can be used in a Power Automate Flow to generate documentation from the descriptions and other columns.
 
 The top-level view of the flow is:
 
@@ -81,7 +81,7 @@ The trigger is manual, so it can be run as desired, and uses two parameters:
 
 ### List Processes for Documentation
 
-The key element of the flow is getting the details of the Processes that match the trigger parameters:
+The key element of the flow is getting the details of the processes that match the trigger parameters:
 
 ![List Processes](images/ListProcesses.png)
 
@@ -97,7 +97,7 @@ The main filter selects just the workflows, business rules, actions, business pr
     </filter>
 ```
 
-The user who created the Process is used in the linked filter condition on the User table:
+The user who created the process is used in the linked filter condition on the User table:
 
 ``` xml
     <link-entity name='systemuser' from='systemuserid' to='createdby'>
@@ -107,7 +107,7 @@ The user who created the Process is used in the linked filter condition on the U
     </link-entity>
 ```
 
-And the outputs are sorted into the order the documentation will be generated in, firstly by the Process's Primary Entity, then by Category, and then by Name:
+And the outputs are sorted into the order the documentation will be generated in, firstly by the process's primary entity, then by category, and then by name:
 
 ``` xml
     <order attribute='primaryentity' />
@@ -127,7 +127,7 @@ The variables that will contain the Markdown are initialised to include the Tabl
 
 ### Apply to each Process
 
-The flow then loops through the Processes to generate the documentation. 
+The flow then loops through the processes to generate the documentation. 
 
 ![Apply to each](images/ApplyToEach.png)
 
@@ -185,8 +185,8 @@ When the output Markdown is saved as an Azure DevOps Wiki page, this gives the i
 
 This has significant advantages:
 
-- The User Stories, Features and other Azure DevOps Work Items can be referenced in the respective Process descriptions
-- The documentation for the individual Processes will contain links that can be selected to open the work item
+- The User Stories, Features and other Azure DevOps Work Items can be referenced in the respective process descriptions
+- The documentation for the individual processes will contain links that can be selected to open the work item
 - Wiki search can be used to find all automation linked to an individual work item
 
 ---
