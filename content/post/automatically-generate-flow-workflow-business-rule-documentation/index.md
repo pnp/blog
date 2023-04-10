@@ -1,34 +1,40 @@
 ---
 title: "Automatically generate Flow, Workflow and Business Rule Documentation"
-date: 2023-04-10T08:40:00-04:00
+date: 2023-04-12T08:40:00-04:00
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/PostOverviewImage.png
 # don't change
 tags: []
 # don't change
 type: "regular"
 ---
 ## TL;DR
-
-How often do you find yourself writing documentation for Dynamics 365 Power Automate Flows and Business Rules?
-
-And on a large project, how do you to keep track of all the Dynamics 365 Power Automate Flows, Workflows, Business Rules, etc. and get an overview of what they relate to and what they do?
-
-This blog post shows how a Power Automate Cloud Flow can be used to produce documentation from Process Descriptions and link them to Azure DevOps work items.
+How often do you find yourself writing documentation for Dynamics 365 Power Automate Flows and Business Rules? And on a large project, how do you to keep track of all the Dynamics 365 Power Automate Flows, Workflows, Business Rules, etc. and get an overview of what they relate to and what they do? This post shows how a Power Automate Cloud Flow can be used to produce documentation from Process Descriptions and link them to Azure DevOps work items.
 
 ---
 
 ## Contents
 
 - [Dataverse Processes](#dataverse-processes)
--
--
--
+- [Process Documentation Cloud Flow](#process-documentation-cloud-flow)
+  - [Trigger](#trigger)
+  - [List Processes for Documentation](#list-processes-for-documentation)
+  - [Variables](#variables)
+  - [Apply to each Process](#apply-to-each-process)
+  - [Compose steps for the Markdown content](#compose-steps-for-the-markdown-content)
+  - [Save Content to OneDrive](#save-content-to-onedrive)
+- [Outputs](#outputs)
+  - [Business Rules](#business-rules)
+  - [Flows](#flows)
+- [Taking it further - Azure DevOps Wiki and Work Items](#taking-it-further---azure-devops-wiki-and-work-items)
+  - [Advantages](#advantages)
+- [Solution and Visio](#solution-and-visio)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -77,7 +83,7 @@ The trigger is manual and uses two parameters:
 
 The key element of the flow is getting the Processes that match the trigger parameters:
 
-![List Processses](images/ListProcesses.png)
+![List Processes](images/ListProcesses.png)
 
 The main filter selects just the workflows, business rules, actions, business process flows, and modern flows (Power Automate Cloud Flows):  
 
@@ -116,7 +122,7 @@ The first two variable as set:
 - Current Table = Empty string
 - Current Process = Integer (Blank) 
 
-The Contents varaibles are initialised to include the Table of Contents and the formatted Date/Time. The Table of Contents is an Azure DevOps specific extention to markdown, and can be removed for other systems. There are separate variable for the:
+The Contents variables are initialised to include the Table of Contents and the formatted Date/Time. The Table of Contents is an Azure DevOps specific extension to markdown, and can be removed for other systems. There are separate variables for the:
 
 - Table related processes:
 	- Business Rules
@@ -135,7 +141,7 @@ The flow then loops through the Processes to generate the documentation.
 
 ![Apply to each](images/ApplyToEach.png)
 
-The key elements of the logic for the **Apply to each** are:
+The **Apply to each** has too many Condition and Switch steps to explain in details. The key elements of the logic are:
 
 - Separate branches for the table-related Processes, non-table-related Processes and draft Processes
 - Adding headings to structure the contents
@@ -197,7 +203,9 @@ This has big advantages:
 
 ## Solution and Visio
 
+The solution and the Visio of the flow are available on GitHub.
 
+The solution is provided as unmanaged so that it can be adjusted to your needs.
 
 ---
 
