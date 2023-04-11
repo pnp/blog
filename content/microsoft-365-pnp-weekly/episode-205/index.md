@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 205"
-summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Erwin’s new role at Rencore, his involvement in the community including the creation of PnP PowerShell, plus 29 articles/videos."
-date: 2023-04-11T02:00:01-00:00
+summary: "US-based Principal Power Platform Advocacy Team Lead at Microsoft - April Dunnam, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on her role as a Cloud Advocate, people manager, developer, presenter, mentors, YouTube sensation, plus 18 articles/videos."
+date: 2023-04-10T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,50 +9,55 @@ images:
 - images/pnp-weekly-205-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=QdiXfSD6mmo
-draft: true
+- https://www.youtube.com/watch?v=XWlL1AaxM6E
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Principal Power Platform Advocacy Team Lead at Microsoft - [April Dunnam](https://twitter.com/aprildunnam) \| @aprildunnam
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* What is the role of a Cloud Advocate?
+* What’s your secret to balancing people management and application development?
+* On music, guitars and singing in a band.
+* What has changed as you have transitioned from being an individual contributor to a people manager?
+* What are the dynamics between the Cloud Advocates org and product engineering orgs and community customers?
+* Is YouTubing part of your job description and how do you come up with the topics?
+* How do you come up with topics for your job-job and your personal recordings?
+* About sharing on YouTube and on managing feedback - positive and negative.
+* What’s next on April’s plate? Personal technology interests?
+* Why are you involved with community and driving samples contributions?
+* What tips would you give to someone who’s about to start a career in tech?
+* How do you engage a potential mentor?
 
-Also, we showcased xx articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 18 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **April** – 
-* **Waldek** – 
-* **Vesa** – 
+* **April** – prepping for Microsoft Build – running a workshop on Integrating with Power Platform.
+* **Waldek** – just released a new version of CLI for Microsoft 365 last week, also prepping for Microsoft Build, and making plans for the next BIG thing.
+* **Vesa** – released SPFx v1.17 (GA) last week, prepping for MVP Summit, many sessions for Microsoft 365 Conference, and for ECS (European Collaboration Summit).
 
 ## Agenda items
 
-[00:00](https://youtu.be/QdiXfSD6mmo?t=0) – Intro
+[00:00](https://youtu.be/XWlL1AaxM6E?t=0) – Intro
 
-[02:08](https://youtu.be/QdiXfSD6mmo?t=128) – Interview
+[02:32](https://youtu.be/XWlL1AaxM6E?t=152) – Interview
 
-[49:44](https://youtu.be/QdiXfSD6mmo?t=2961) – Weekly Articles
+[42:04](https://youtu.be/XWlL1AaxM6E?t=2524) – Weekly Articles
 
-[1:15:14](https://youtu.be/QdiXfSD6mmo?t=4514) – Closing
+[1:12:02](https://youtu.be/XWlL1AaxM6E?t=4322) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, April 3, 2023.
+This session was recorded on Monday, April 6, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube QdiXfSD6mmo >}}
+    {{< youtube XWlL1AaxM6E >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-2jgsw-13d3aee >}}
+    {{< podbean pb-fn7za-13dd530 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -64,11 +69,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [OneNote: Your Digital Notebook, Reimagined with Copilot](https://techcommunity.microsoft.com/t5/microsoft-365-blog/onenote-your-digital-notebook-reimagined-with-copilot/ba-p/3788442) - Greg Mace (Microsoft)
 * [Microsoft 365 Admin Monthly Digest – March 2023](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-admin-monthly-digest-march-2023/ba-p/3784650) - Gabe Ho (Microsoft)
 * [SharePoint Roadmap Pitstop: March 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-march-2023/ba-p/3785694) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Build a developer assist dashboard using Teams Toolkit for Visual Studio Code v5.0 pre-release](https://devblogs.microsoft.com/microsoft365dev/build-a-developer-assist-dashboard-using-teams-toolkit-for-visual-studio-code-v5-0-pre-release/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft)
+* [Build a developer assist dashboard using Teams Toolkit for Visual Studio Code v5.0 pre-release](https://devblogs.microsoft.com/microsoft365dev/build-a-developer-assist-dashboard-using-teams-toolkit-for-visual-studio-code-v5-0-pre-release/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 * [Announcing SharePoint Framework 1.17 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Skype for Business usage reports deprecation in Microsoft Graph production and beta endpoints](https://devblogs.microsoft.com/microsoft365dev/skype-for-business-usage-reports-deprecation-in-microsoft-graph-production-and-beta-endpoints/) - Microsoft
-* [Improving the Azure OpenAI models in Power Automate to save people time](https://powerautomate.microsoft.com/en-us/blog/improving-the-azure-openai-models-in-power-automate-to-save-people-time/) - [Stephen Siciliano](https://twitter.com/iscsus) (Microsoft) | @iscsus
-* [What’s new: Power Apps March 2023 Feature Update](https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2023-feature-update/) - [Clay Wesener](https://twitter.com/ClayBWesener) (Microsoft) | @ClayBWesener
+* [Improving the Azure OpenAI models in Power Automate to save people time](https://powerautomate.microsoft.com/blog/improving-the-azure-openai-models-in-power-automate-to-save-people-time/) - [Stephen Siciliano](https://twitter.com/iscsus) (Microsoft) | @iscsus
+* [What’s new: Power Apps March 2023 Feature Update](https://powerapps.microsoft.com/blog/whats-new-power-apps-march-2023-feature-update/) - [Clay Wesener](https://twitter.com/ClayBWesener) (Microsoft) | @ClayBWesener
 * [Build once, deploy efficiently, connect across Microsoft 365 - YouTube Playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbZrxmWQEHDsu-rtHSiLfMJD) - Microsoft
 * [Transform SharePoint Add-in model solutions to modern development patterns - YouTube Playlist](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXJLA29Q0Xk7psbAUqzQZwe) - Microsoft & [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 
