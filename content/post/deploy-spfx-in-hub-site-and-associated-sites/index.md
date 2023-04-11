@@ -16,7 +16,7 @@ type: regular
 draft: false
 ---
 
-## Deploying and Installing SharePoint Framework (SPFx) using PnP PowerShell to Hub Site and Associated Sites
+## Deploying and Installing SharePoint Framework (SPFx) solutions using PnP PowerShell to Hub Site and Associated Sites
 
 [SharePoint Framework] (https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365. It provides a set of tools and libraries that developers can use to create client-side web parts, extensions, and other customizations.
 
