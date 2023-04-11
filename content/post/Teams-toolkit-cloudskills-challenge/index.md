@@ -12,7 +12,7 @@ tags:
   - Microsoft Teams
 
 type: regular
-draft: true
+draft: false
 ---
 
 👋 Hey, fellow developers!
