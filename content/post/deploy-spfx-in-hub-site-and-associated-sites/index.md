@@ -1,5 +1,5 @@
 ---
-title: "Deploying and Installing SharePoint Framework (SPFx) using PowerShell Hub Site and Associated Sites"
+title: "Deploying and Installing SharePoint Framework (SPFx) solutions using PnP PowerShell to Hub Site and Associated Sites"
 date: 2023-04-03T07:00:00.000Z
 author: Reshmee Auckloo
 githubname: reshmee011
