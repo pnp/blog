@@ -4,7 +4,9 @@ date: 2023-04-03T07:00:00.000Z
 author: Reshmee Auckloo
 githubname: reshmee011
 categories:
-  - Communiy Post
+  - Community Post
+  - SPFx
+  - PnP PowerShell
 images:
   - images/example.png
 tags:
@@ -146,5 +148,8 @@ Here's how the above snippet works:
 9. If a newer version of the package is available, update the package using `Update-PnPApp`.
 10. Export the site collection URL, package name, and package version to a CSV file for a record of what's updated
 
- 
+## Notes
+
+The code does not handle admin consent to app permissions. Global administrator is required to grant admin consent to app permissions.
+
 ![example.png](images/example.png)
