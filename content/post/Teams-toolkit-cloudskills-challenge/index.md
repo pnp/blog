@@ -63,3 +63,5 @@ When you register make sure to check **the official rules** link, and take the s
 
 - [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
 - [Teams Toolkit on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
+
+_🧡 sharing is caring_
