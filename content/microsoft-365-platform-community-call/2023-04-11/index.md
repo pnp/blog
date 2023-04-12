@@ -21,7 +21,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 ### New this week
 
 * Announcements
-    * Microsoft Teams toolkit cloud skill challenge, April 12th – 24th
+    * [Microsoft Teams toolkit cloud skills challenge](https://aka.ms/LearnteamsToolkit) | aka.ms/LearnTeamsToolkit - April 12th – 26th
     * Agenda set for next [Microsoft 365 & Power Platform weekly call](https://aka.ms/m365-dev-call) - Tuesday, April 18th, 8:00 am PT.
         * Latest news from Microsoft engineering on Microsoft 365 topics
         * **Srinivas Varukala** & **Rick Shire** – Building a Microsoft Teams Call queue scheduler solution for customers
@@ -60,7 +60,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 
 ### Announcement
 
-* **Announcing Microsoft Teams toolkit cloud skill challenge** – do you want to learn how to build apps for Microsoft Teams? Introducing a challenge hosted by Luise Freese (MVP) to help you achieve this very objective. 1. Register for the challenge, 2. work through the “Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code” Learning Path, and 3. submit the app you create to the challenge by the April 26th.
+* **Announcing Microsoft Teams toolkit cloud skills challenge** – do you want to learn how to build apps for Microsoft Teams? Introducing a challenge hosted by MVP [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese to help you achieve this very objective. 1. Register for the challenge, 2. work through the “Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code” Learning Path, and 3. become a contributor and have the chance to win a prize! 
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
