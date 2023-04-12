@@ -5,13 +5,12 @@ author: Reshmee Auckloo
 githubname: reshmee011
 categories:
   - Community Post
-  - SPFx
-  - PnP PowerShell
 images:
   - images/example.png
 tags:
   - SharePoint
   - SharePoint Framework (SPFx)
+  - PnP PowerShell
 type: regular
 draft: false
 ---
