@@ -83,4 +83,4 @@ Live from the Minnesota Microsoft Technology Center - latest updates and news on
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

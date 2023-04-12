@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 22nd of November, 2022"  
+title: "Microsoft 365 Platform Community Call - 22nd of November, 2022"
 summary: "Demos - Build your first Notification bot in C# for Microsoft Teams with Teams Toolkit for Visual Studio, What’s new for Microsoft Search Usage reports, and Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit. 11 documents, 2 conversations delivered."
 date: 2022-11-22 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -135,4 +135,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 22nd of November 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

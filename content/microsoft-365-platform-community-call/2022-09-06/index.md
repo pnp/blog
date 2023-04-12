@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 6th of September, 2022"  
+title: "Microsoft 365 Platform Community Call - 6th of September, 2022"
 summary: "Three demos - Latest on eDiscovery Premium APIs on Microsoft Graph. New features in SharePoint Framework 1.16 preview, and Introduction to Microsoft Graph X-Ray project.  Delivered 10 articles and 2 video/podcasts this week. Announced Microsoft Teams App Camp."
 date: 2022-09-06 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -136,5 +136,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 6th of September 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

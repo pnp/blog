@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 1st of November, 2022"  
+title: "Microsoft 365 Platform Community Call - 1st of November, 2022"
 summary: "Demos - Find meeting times for multiple people on Microsoft 365, Introduction to new SharePoint Pages Microsoft Graph API, and Getting started with styling your Power Pages. Five platform related articles and two in-depth conversations delivered this week."
 date: 2022-11-01 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -130,4 +130,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 1st of November 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

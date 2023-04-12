@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 10th of May, 2022"  
+title: "Microsoft 365 Platform Community Call - 10th of May, 2022"
 summary: "Demos this week - Extend your Teams Search Based Message Extension to Outlook and Getting started on using Azure Communication Services in your web site. Released Microsoft 365 Platform Community (PnP) – May 2022 update + articles, documents, videos, podcasts and more."
 date: 2022-05-10 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -110,4 +110,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 *Microsoft 365 Platform Community team, Microsoft - 10th of May 2022*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

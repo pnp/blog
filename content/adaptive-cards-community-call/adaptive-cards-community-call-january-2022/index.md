@@ -37,13 +37,13 @@ The following topics are covered in this month’s community call: **Adaptive Ca
 ## Referenced in this call
 
 *   Demo - [Solving reCaptcha v2 challenge with Power Automate Desktop](https://youtu.be/9pgC02Co2rQ) 
-    
+
 *   Demo - [Actionable Messages using Adaptive Cards - ultimate guide](https://youtu.be/x5IXd-g8OXw) 
-    
+
 *   YouTube Channel - [Tomasz Poszytek](https://www.youtube.com/c/TomaszPoszytek) 
-    
+
 *   Blog post – [Get started with Adaptive Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-started-with-adaptive-cards/ba-p/2048786) 
-    
+
 *   November Adaptive Cards Community call demo - Viva Connections + Adaptive Cards :handshake: - Emily Lynam (Microsoft), Max Kulakov (Microsoft), and Siddharth Gulati (Microsoft) | @sidvaani – [00:45](https://youtu.be/_qDFDMUouxE?t=45)
 
 ## Resources in General
@@ -63,5 +63,3 @@ The following topics are covered in this month’s community call: **Adaptive Ca
 *   Blog - [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 *   Recurrent Invite - [https://aka.ms/adaptivecardscommunitycall](https://aka.ms/adaptivecardscommunitycall)
 *   Next call – February 10th at 09:00am PST
-
-{{< attachments >}}

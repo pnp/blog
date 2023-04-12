@@ -88,6 +88,3 @@ In this month’s community call the following topics were presented - Action.To
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
-
-{{< attachments >}}
-

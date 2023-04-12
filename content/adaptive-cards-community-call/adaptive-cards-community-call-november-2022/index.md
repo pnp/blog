@@ -77,4 +77,4 @@ Topics covered this month’s community call include **Adaptive Cards for Power 
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

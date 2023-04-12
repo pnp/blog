@@ -68,7 +68,7 @@ The focus in this month’s community call is **Building Windows 11 Widgets with
 
 * Twitter -
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​​
-* Recurrent Invite - <https://aka.ms/adaptivecardscommunitycall> 
+* Recurrent Invite - <https://aka.ms/adaptivecardscommunitycall>
 
 ## Learn more
 
@@ -76,4 +76,4 @@ The focus in this month’s community call is **Building Windows 11 Widgets with
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

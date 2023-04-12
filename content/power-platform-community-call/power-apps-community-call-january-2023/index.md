@@ -38,7 +38,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
         * [aMS Sophia Antipolis](https://communitydays.org/event/2023-02-07/ams-sophia-antipolis) (France), February 7, 2023 - [Register](https://sessionize.com/ams-sophia-2023/)
         * [WorkplaceDudes Summit](https://communitydays.org/event/2023-02-24/workplacedudes-summit) (Netherlands), February 24, 2023 - [Register](https://communitydays.org/event/2023-02-24/workplacedudes-summit)
     * Microsoft Power Platform Connectors: 924! – Build new or improve existing Independent Publisher Connector – [visit our wiki!](https://github.com/microsoft/PowerPlatformConnectors/wiki), Communicate with Jocelyn Panchal \| @JocelynP_PM \|\| linkedin.com/in/jocepan00/
-* Community Calls Conversations – continue the conversation - chat about demos anytime.  See links to chat pages in demo details.  
+* Community Calls Conversations – continue the conversation - chat about demos anytime.  See links to chat pages in demo details.
 
 ### Demo summaries
 
@@ -147,4 +147,4 @@ Request to present a demo during this call - aka.ms/PPCCDemoRequest
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

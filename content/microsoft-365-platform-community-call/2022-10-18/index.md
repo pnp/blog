@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 18th of October, 2022"  
+title: "Microsoft 365 Platform Community Call - 18th of October, 2022"
 summary: "Demos - Introduction to Microsoft Graph Search API and Build your first Command bot in C# for Microsoft Teams with Teams Toolkit for Visual Studio. Register for Microsoft Teams App Camp. Dig into latest announcements, articles and conversations."
 date: 2022-10-19 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -138,4 +138,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 18th of October 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

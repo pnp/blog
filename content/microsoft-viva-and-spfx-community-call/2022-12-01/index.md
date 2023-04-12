@@ -42,7 +42,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 
 ### Demos
 
-* **Create a useful People Search with PnP Modern Search Web Parts** – description to be added week of December 5th 
+* **Create a useful People Search with PnP Modern Search Web Parts** – description to be added week of December 5th
 * **Building Flight tracker solution with SPFx for Microsoft Teams, Microsoft Viva and SharePoint** – description to be added week of December 5th
 
 The host of this call is [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) @DavidWarnerII. Q&A takes place as always in chat throughout the call.
@@ -83,7 +83,7 @@ Everybody’s looking great today. Love your smiles and waves. Thank you for joi
 
 ## Demo references
 
-* **Create a useful People Search with PnP Modern Search Web Parts** – references to be added the week of December 5th 
+* **Create a useful People Search with PnP Modern Search Web Parts** – references to be added the week of December 5th
 * **Building Flight tracker solution with SPFx for Microsoft Teams, Microsoft Viva and SharePoint** – references to be added the week of December 5th
 
 Thank you for your great work. Samples are often showcased in Demos.
@@ -177,4 +177,4 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *Microsoft 365 PnP team, Microsoft - 1st of December 2022*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

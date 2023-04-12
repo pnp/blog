@@ -81,4 +81,4 @@ Topics covered in this month’s community call includes 2 demos:  **Make your 
 *   Next call March 16th at 08:00am PST | [https://aka.ms/powerappscommunitycall](https://aka.ms/powerappscommunitycall)
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

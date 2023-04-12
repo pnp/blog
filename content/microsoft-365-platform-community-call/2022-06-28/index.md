@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 28th of June, 2022"  
+title: "Microsoft 365 Platform Community Call - 28th of June, 2022"
 summary: "Three demos - Taking advantage of the Microsoft Graph Postman collections, Introduction on the Microsoft Viva Learning extensibility, and Introduction to Virtual Appointment Microsoft Graph API. Delivered 6 articles and 2 video/podcasts this week."
 date: 2022-06-29 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -127,5 +127,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 29th of June 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

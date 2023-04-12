@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 29th of November, 2022"  
+title: "Microsoft 365 Platform Community Call - 29th of November, 2022"
 summary: "Demos - Preview updates on Microsoft Graph toolkit v3.0, Scale access to Microsoft 365 data with Microsoft Graph Data Connect, and What’s new in the Microsoft Teams Toolkit – Fall, 2022. 5 articles and 1 in-depth conversations delivered."
 date: 2022-11-29 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -144,4 +144,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 *Microsoft 365 Platform Community team, Microsoft - 29th of November 2022*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

@@ -16,9 +16,9 @@ videos:
 
 ## Call summary
 
-TThis month’s in-depth topic: **Productivity Tips for working with Microsoft Graph and Graph PowerShell.** 
+TThis month’s in-depth topic: **Productivity Tips for working with Microsoft Graph and Graph PowerShell.**
 
-Review of current tools and documents for working efficiently with Microsoft Graph and Graph PowerShell. Microsoft 365 Dev Tenant, Graph Explorer, Graph API Reference Docs, Graph Filter (retrieves subset of a collection), Graph X-Ray (view Graph API and PowerShell log of actions), Graph Permissions Explorer (APIs and data objects), Graph PowerShell, Upgrading from Azure AD PowerShell to Graph PowerShell – using Graph cmdlets map, Graph PowerShell Conversion Analyzer and PowerShell Azure Migration Advisor.  Microsoft Presenter: [Merill Fernando](https://twitter.com/merill) - Senior Program Manager (Microsoft) \| @merill. 
+Review of current tools and documents for working efficiently with Microsoft Graph and Graph PowerShell. Microsoft 365 Dev Tenant, Graph Explorer, Graph API Reference Docs, Graph Filter (retrieves subset of a collection), Graph X-Ray (view Graph API and PowerShell log of actions), Graph Permissions Explorer (APIs and data objects), Graph PowerShell, Upgrading from Azure AD PowerShell to Graph PowerShell – using Graph cmdlets map, Graph PowerShell Conversion Analyzer and PowerShell Azure Migration Advisor.  Microsoft Presenter: [Merill Fernando](https://twitter.com/merill) - Senior Program Manager (Microsoft) \| @merill.
 
 This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Microsoft) \| @Nandeesh_Swami on January 19, 2023. Questions addressed live and in chat throughout the call.
 
@@ -28,16 +28,16 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 
 * Tool – [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) (Tenant) \| aka.ms/m365/devprogram
 * Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) \| aka.ms/ge
-* Tool – [[cmd.ms] the Microsoft Cloud command line!](https://cmd.ms/) 
+* Tool – [[cmd.ms] the Microsoft Cloud command line!](https://cmd.ms/)
 * Documentation - [Microsoft Graph REST API v1.0 endpoint reference](https://learn.microsoft.com/graph/api/overview?view=graph-rest-1.0) \| aka.ms/graphref
 * Documentation - [Use the \$filter query parameter](https://learn.microsoft.com/graph/filter-query-parameter) \| aka.ms/graphfilter
 * Site - [Graph X-Ray :Beta](https://graphxray.merill.net/) \| aka.ms/graphxray
-* Documentation - [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/) 
+* Documentation - [Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/)
 * Tool - [Microsoft Graph PowerShell](https://linktr.ee/graphpowershell) \| aka.ms/graphpowershell
 * Documentation - [Microsoft Graph PowerShell overview](https://learn.microsoft.com/powershell/microsoftgraph/overview) \| aka.ms/mgps
 * Documentation - [Find Azure AD and MSOnline cmdlets in Microsoft Graph PowerShell](https://learn.microsoft.com/powershell/microsoftgraph/azuread-msoline-cmdlet-map) \| aka.ms/graphpsmap
-* Tool - [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/) 
-* Toolkit – [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor) 
+* Tool - [Graph PowerShell Conversion Analyzer](https://graphpowershell.merill.net/)
+* Toolkit – [PSAzureMigrationAdvisor](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)
 
 ## Actions
 
@@ -50,7 +50,7 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 ## Resources in General
 
 * Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
+* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 
@@ -63,4 +63,4 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 * YouTube [https://aka.ms/M365DevYouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RzWmpNU2VPRmh6dXBad3hKMmxySjBaQVl6Z3xBQ3Jtc0trVjYyeXZlSXZiX0JydHlyeHdqcTRSUnczX2xrVDloOWhzeGVCYXFibjBiM1VpXzFOd2dZX2dJdlNYQWYtekcyWXZOTHp3VkdoU2JsdmNVQ3dtdkw2ZHF0cVdCS29TQmJ1Z3hoVmJyd3JtYlFxUW92WQ&q=https%3A%2F%2Faka.ms%2FM365DevYouTube)​ (Developer channel)
 * Blogs <https://aka.ms/m365pnp/blog>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

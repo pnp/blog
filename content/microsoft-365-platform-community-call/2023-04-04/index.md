@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 4th of April, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 4th of April, 2023"
 summary: "Demos: Build a Teams Meeting app with Live Share SDK - Who's Next sample, Latest on the Microsoft Graph Connectors, and Contributing to Microsoft Graph .NET SDK for improved batching, plus 10 articles, 3 conversations."
 date: 2023-04-04T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -154,4 +154,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 4th of April 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

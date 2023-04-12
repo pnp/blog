@@ -18,9 +18,9 @@ draft: false
 
 ## This month's agenda and presenters
 
-The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft  
-* **Update the ASP.NET server in Visual Studio.** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft. 
-* **Feedback request for Excel Add-in Auto install launch function.** [Yawei Zhu](https://www.linkedin.com/in/yaweizhu-henson/), Senior Product Manager, Microsoft. 
+The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft
+* **Update the ASP.NET server in Visual Studio.** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft.
+* **Feedback request for Excel Add-in Auto install launch function.** [Yawei Zhu](https://www.linkedin.com/in/yaweizhu-henson/), Senior Product Manager, Microsoft.
 * **Community spotlight.** Recognizing [Eric Legault](https://twitter.com/elegault), Senior Principal Software Architect, Eric Legault Consulting.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
@@ -35,18 +35,18 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Update the ASP.NET server in Visual Studio.** Learn how to update a task pane in an Excel Add-in to use a new ASP.NET Core project. When you create a new project in Visual Studio and choose the Excel Web Add-in, actually two projects are created – a web ASP.NET server and a sideloader.  Configure the solution to add a new ASP.NET Core project, update the sideload project to point to it, and update your manifest.  Add additional capabilities to the index page in the new project.  
-* **Feedback request for Excel add-in auto install launch function.** What if your office JS add-in can be discovered and safely auto installed and auto launched! Use scenario &mdash; one receives a file with elements created by an add-in used by the sender. We would greatly appreciate it if you would provide feedback about this proposed capability by selecting the survey link and answering three brief questions. Use it? Why? For what scenarios?  
-  
+* **Update the ASP.NET server in Visual Studio.** Learn how to update a task pane in an Excel Add-in to use a new ASP.NET Core project. When you create a new project in Visual Studio and choose the Excel Web Add-in, actually two projects are created – a web ASP.NET server and a sideloader.  Configure the solution to add a new ASP.NET Core project, update the sideload project to point to it, and update your manifest.  Add additional capabilities to the index page in the new project.
+* **Feedback request for Excel add-in auto install launch function.** What if your office JS add-in can be discovered and safely auto installed and auto launched! Use scenario &mdash; one receives a file with elements created by an add-in used by the sender. We would greatly appreciate it if you would provide feedback about this proposed capability by selecting the survey link and answering three brief questions. Use it? Why? For what scenarios?
+
 ## Call to action
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -56,15 +56,15 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## Q&A (Question & Answers)
 **Regarding the need to register functions called by add-in manifest ExecuteFunction using Office.actions.associate, if we're using an older copy of the office-js library will the requirement for the function to have been registered still apply? e.g. there was a bug introduced in office.js back in 2020 so we stuck to a version of the library from before that change, will such an add-in be impacted by the need to register functions?**
 
-Yes, this requirement will still apply on October 30th. Full details are in the blog post [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/) Using an older Office.js library will probably work because the associate command has been around a long time, but we're not 100% sure here. Can you please post this question to https://github.com/OfficeDev/office-js/issues where we can follow up? Especially let us know what bug is blocking you from using the latest office.js library. We'd prefer everyone can use the latest version! Thanks! 
+Yes, this requirement will still apply on October 30th. Full details are in the blog post [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/) Using an older Office.js library will probably work because the associate command has been around a long time, but we're not 100% sure here. Can you please post this question to https://github.com/OfficeDev/office-js/issues where we can follow up? Especially let us know what bug is blocking you from using the latest office.js library. We'd prefer everyone can use the latest version! Thanks!
 
-**Hi. Thanks for a good community! I especially enjoyed the April session where Onur Onder made a really good demonstration on some beta PowerPoint APIs and some nice features he developed in ScriptLab. I was just curious if these snippets were shared in a public gist to allow for a closer look. Would be really appreciated if that was the case. If I could make a wish for future content, I'm really curious to get some high-level pointers on how to develop a custom chart object. I'm inspired by ThinkCell (this is not Office.js as far as I understand) and MekkoChart (www.mekkographics.com) that have some nice chart elements and a few steps down the road I would like to make my own charts... Would be really good to go about it in the best way with some guidance from the real experts Thanks again!** 
+**Hi. Thanks for a good community! I especially enjoyed the April session where Onur Onder made a really good demonstration on some beta PowerPoint APIs and some nice features he developed in ScriptLab. I was just curious if these snippets were shared in a public gist to allow for a closer look. Would be really appreciated if that was the case. If I could make a wish for future content, I'm really curious to get some high-level pointers on how to develop a custom chart object. I'm inspired by ThinkCell (this is not Office.js as far as I understand) and MekkoChart (www.mekkographics.com) that have some nice chart elements and a few steps down the road I would like to make my own charts... Would be really good to go about it in the best way with some guidance from the real experts Thanks again!**
 
 Update (December 5, 2022): These were added to Script Lab. Open Script Lab in PowerPoint, then go to **Samples**. The new PowerPoint API samples are located in the **Shapes**, **Slide Management**, and **Text** sections.
 
 **When will Microsoft Word Forms API's will be added in office JS?**
 
-We currently do not have plans to add Microsoft Word Forms apis to Office JS. Currently the best way to do this would be to use the Forms connector in Power Automate. 
+We currently do not have plans to add Microsoft Word Forms apis to Office JS. Currently the best way to do this would be to use the Forms connector in Power Automate.
 
 **Hi! Is it possible to write Outlook add-in that will work with Gmail account to set email signature in Outlook using event-based activation as described in https://learn.microsoft.com/en-us/samples/officedev/pnp-officeaddins/outlook-add-in-set-signature/?**
 
@@ -91,8 +91,8 @@ We're sorry to hear you're experiencing an issue with developing an add-in on an
     * Samples - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
 * **Feedback request for Excel Add-in Auto install launch function**
     * Feedback - [What if your office JS add-in can be auto installed and auto launched](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxFri8-AP1RMhGrt_lYwo8BUMTcwNzBSU1dWM0paRE5HSTg1UkE4N1dMMS4u&wdLOR=c0D8EB527-F375-4499-8FE2-DA3B5029A060)
-    * Demo - [Excel add-in User Pattern – Open in Excel - Yawei Zhu](https://www.youtube.com/watch?v=0OKULxfib44&feature=youtu.be) 
-    
+    * Demo - [Excel add-in User Pattern – Open in Excel - Yawei Zhu](https://www.youtube.com/watch?v=0OKULxfib44&feature=youtu.be)
+
 
 ## Stay connected
 
@@ -103,4 +103,4 @@ We're sorry to hear you're experiencing an issue with developing an add-in on an
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on November 9th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

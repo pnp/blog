@@ -174,25 +174,25 @@ call.
 
 * Updates on Independent Publisher Connectors & GitLab Connector Demo
     * Documentation - [GitLab (Independent Publisher)
-        (Preview)](https://docs.microsoft.com/connectors/gitlabip/) 
+        (Preview)](https://docs.microsoft.com/connectors/gitlabip/)
     * Connector Repo –
-        [GitLab](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GitLab)        
+        [GitLab](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GitLab)
     * Requested connector - [Top Connector
-        Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)        
+        Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Documentation - [Independent publisher certification
-        process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)        
+        process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)
     * Documentation - [Create a custom connector from
-        scratch](https://docs.microsoft.com/connectors/custom-connectors/define-blank)        
+        scratch](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
 * List formatting magic - Discussion board formatting
     * Sample - [Board tag
-        format](https://github.com/pnp/List-Formatting/tree/master/view-samples/board-tag-format)        
+        format](https://github.com/pnp/List-Formatting/tree/master/view-samples/board-tag-format)
     * Samples - [List Formatting
-        Samples](https://pnp.github.io/List-Formatting/) 
+        Samples](https://pnp.github.io/List-Formatting/)
 * TeamsFx .NET - Introduction to Teams Explorer Sample
     * Tools - [Microsoft Teams Framework
-        (TeamsFx)](https://github.com/OfficeDev/TeamsFx) 
+        (TeamsFx)](https://github.com/OfficeDev/TeamsFx)
     * Tools -
-        [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) 
+        [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
     * Demo - [TeamsFx .NET - Current Updates - April
         2022](https://youtu.be/5yULqXWIz2M?t=801) – [Thomy
         Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg
@@ -206,7 +206,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool                                     
+[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|In progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA, v4.0.0-next(.2)|Planning v4.0.0 release in mid-May
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0, 1.6.0-next.1
@@ -221,7 +221,7 @@ PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.
 *   Microsoft 365 tenant – [Script Samples Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 *   [Microsoft Teams Samples Gallery](https://pnp.github.io/teams-dev-samples/) | aka.ms/teams-samples
 *   [Microsoft 365 Extensibility look book gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) | aka.ms/m365/extensibility
-*   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
+*   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)
 *   PnP Teams Quickstart | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
 *   Microsoft Teams Toolkit v3.x | [https://aka.ms/teams-toolkit](https://aka.ms/teams-toolkit)
 *   [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog) | aka.ms/m365pnp/blog
@@ -275,5 +275,4 @@ _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 29th of April 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}
