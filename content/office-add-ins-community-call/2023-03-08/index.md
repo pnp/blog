@@ -20,7 +20,7 @@ draft: false
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
-* **Word Extensibility APIs (Preview) - March 2023.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. 
+* **Word Extensibility APIs (Preview) - March 2023.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
 {{< youtube gmNSqNIG_SY >}}
@@ -46,7 +46,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Register for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contributor badges.
-* Follow channels in Twitter to see call agendas, important updates, and release announcements. 
+* Follow channels in Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -74,9 +74,9 @@ To learn more about the Word JavaScript API in preview, see [Word JavaScript pre
 **Last month, you asked for missing Outlook events so that ISVs can migrate their existing Outlook COM add-ins to the new web based add-ins. With that in mind, we are looking for the following: 1. The ability to display a dialog when a Compose, Reply, Reply All, or Forward is clicked. The customers want to either display a warning or in some cases (like the Compose) they want to force the user to select from a list of pre-defined subjects (this is for a help desk scenario). Other (mostly legal) customers want to see a very prominent prompt show up when clicking on Reply All. 2. The ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android. This is a frequent request from our customers and we need a roadmap from the Office team to know whether this is a planned feature or not, and what to tell our customers.**
 
 1. We already have the events you need. We recommend you use our existing events in the following manner:
-   * Trigger an event you can handle when users create new messages, reply, reply all, or forward. 
+   * Trigger an event you can handle when users create new messages, reply, reply all, or forward.
    * As part of the handler of that event, display a notification bar so the user can select from the predefined list of subjects.  
-   * When the notification bar is clicked, you can open a task pane from which the user can select and insert. 
+   * When the notification bar is clicked, you can open a task pane from which the user can select and insert.
    * To make sure that the user is actually changing the subject, add an OnSend event handler. After the user clicks “send” you can validate if the subject is compliant and stop the send until the user changes it.
 2. Regarding the ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android, this is in our backlog and is planned for implementation. 
 
@@ -102,7 +102,7 @@ We don't have any plans to support this in the near future. That being said if y
 ## General Resources
 
 * [Documentation](https://aka.ms/office-add-ins-docs)
-* Quick Starts: 
+* Quick Starts:
   * [Outlook](https://learn.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart)
   * [Excel](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery)
   * [Word](https://learn.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart)
@@ -128,4 +128,4 @@ We don't have any plans to support this in the near future. That being said if y
 * [Submit questions for next community call](https://aka.ms/officeaddinsform)
 * [Next community call – April 12th at 08:00am PT](https://aka.ms/officeaddinscommunitycall)
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

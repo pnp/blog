@@ -1,20 +1,21 @@
 ---
-title: "Deploying and Installing SharePoint Framework (SPFx) using PowerShell Hub Site and Associated Sites"
+title: "Deploying and Installing SharePoint Framework (SPFx) solutions using PnP PowerShell to Hub Site and Associated Sites"
 date: 2023-04-03T07:00:00.000Z
 author: Reshmee Auckloo
 githubname: reshmee011
 categories:
-  - Communiy Post
+  - Community Post
 images:
   - images/example.png
 tags:
   - SharePoint
   - SharePoint Framework (SPFx)
+  - PnP PowerShell
 type: regular
 draft: false
 ---
 
-## Deploying and Installing SharePoint Framework (SPFx) using PnP PowerShell to Hub Site and Associated Sites
+## Deploying and Installing SharePoint Framework (SPFx) solutions using PnP PowerShell to Hub Site and Associated Sites
 
 [SharePoint Framework] (https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365. It provides a set of tools and libraries that developers can use to create client-side web parts, extensions, and other customizations.
 
@@ -146,5 +147,8 @@ Here's how the above snippet works:
 9. If a newer version of the package is available, update the package using `Update-PnPApp`.
 10. Export the site collection URL, package name, and package version to a CSV file for a record of what's updated
 
- 
+## Notes
+
+The code does not handle admin consent to app permissions. Global administrator is required to grant admin consent to app permissions.
+
 ![example.png](images/example.png)

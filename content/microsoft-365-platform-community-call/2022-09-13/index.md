@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 13th of September, 2022"  
+title: "Microsoft 365 Platform Community Call - 13th of September, 2022"
 summary: "Three demos - Microsoft Graph Postman - Scripts and advanced functionality, Introduction to Microsoft Teams Toolkit, and Introduction to app camp training package for Microsoft Teams ISVs. Delivered 5 articles, 2 Microsoft Teams samples and PnP Weekly this week."
 date: 2022-09-13 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -125,4 +125,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 13th of September 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

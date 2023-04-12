@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 8th of November, 2022"  
+title: "Microsoft 365 Platform Community Call - 8th of November, 2022"
 summary: "Demos - Avoid throttling in SharePoint Online by using RateLimit headers in API calls and Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code. 11platform related articles and two in-depth conversations delivered this week."
 date: 2022-11-08 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -123,4 +123,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 8th of November 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

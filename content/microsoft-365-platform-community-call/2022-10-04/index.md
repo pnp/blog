@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 4th of October, 2022"  
+title: "Microsoft 365 Platform Community Call - 4th of October, 2022"
 summary: "Three demos - Introduction to Privacy APIs on Microsoft Graph, Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code, and Account Linking for Teams apps. Register for Microsoft Ignite and Microsoft Teams App Camp. Scan latest documents/recordings."
 date: 2022-10-04 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -135,4 +135,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 4th of October 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

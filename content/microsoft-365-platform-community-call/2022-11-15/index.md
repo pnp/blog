@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 15th of November, 2022"  
+title: "Microsoft 365 Platform Community Call - 15th of November, 2022"
 summary: "Demos - Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive) and Add Azure AD single sign-on to your Microsoft Teams bots using Teams Toolkit for Visual Studio Code.  2 documents, 1 interview and new date for App Camp Workshop this week."
 date: 2022-11-15 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -75,7 +75,7 @@ Thank you for joining once again. Awesome to have you on the call. Please keep t
     * Extension - [Microsoft Graph extension for .NET Interactive Notebooks](https://github.com/microsoftgraph/msgraph-dotnet-interactive-extension)
     * Tool - [.NET Interactive](https://github.com/dotnet/interactive)
 * **Add Azure AD single sign-on to your Microsoft Teams bots using Teams Toolkit for Visual Studio Code**
-    * Documentation – [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code) 
+    * Documentation – [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
     * Documentation – [Build command bot with JavaScript](https://learn.microsoft.com/microsoftteams/platform/sbs-gs-commandbot?tabs=vscode)
     * Documentation – [TeamsFx SDK](https://learn.microsoft.com/microsoftteams/platform/toolkit/teamsfx-sdk)
     * Repo – [Microsoft Teams Toolkit](https://github.com/OfficeDev/TeamsFx)
@@ -122,4 +122,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 15th of November 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

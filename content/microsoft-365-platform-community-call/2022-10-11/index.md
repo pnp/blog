@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 11th of October, 2022"  
+title: "Microsoft 365 Platform Community Call - 11th of October, 2022"
 summary: "Demos - Introduction to Records Management APIs on Microsoft Graph and Build your first Command bot for Microsoft Teams with Teams Toolkit for Visual Studio Code. Register for Microsoft Ignite and Microsoft Teams App Camp. Enjoy latest 9 articles and 1 conversation."
 date: 2022-10-11 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -139,4 +139,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 11th of October 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

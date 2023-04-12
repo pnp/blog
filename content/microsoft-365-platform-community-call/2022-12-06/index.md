@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 6th of December, 2022"  
+title: "Microsoft 365 Platform Community Call - 6th of December, 2022"
 summary: "Demo - Introduction to Microsoft Viva Toolkit to kickstart your Microsoft Viva extensibility. Announced SPFx Samples w/NVM training date, holiday community call structure, and Microsoft Graph Satisfaction Survey. Delivered 8 articles and 1 in-depth conversation in last 7 days."
 date: 2022-12-06 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -16,12 +16,12 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and demos.
 
 ### New this week
 
 * Announced
-    * More than 1300 Samples – [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) - aka.ms/m365/samples 
+    * More than 1300 Samples – [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) - aka.ms/m365/samples
     * Training date - PnP SPFx Samples w/ NVM \| Wednesday, January 25th, 9am PT \| 12pm ET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUNEE2SUdTOU1UOEtCTFU3MlM1SERDMlNVNi4u)
     * During the holiday season (December 20 – January 3), we will transform the calls to be as coffee & tea meetings with the community – without specific demos.
     * Microsoft Graph Satisfaction Survey **-** aka.ms/graph-satisfaction-survey
@@ -124,4 +124,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 6th of December 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

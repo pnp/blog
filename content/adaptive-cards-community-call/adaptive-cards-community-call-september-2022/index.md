@@ -34,8 +34,8 @@ In this month’s community call, updates on **Accessibility features in Adaptiv
 
 ## References
 
-* Demo - [How to add animated SVG's to Adaptive Cards](https://youtu.be/Yt4QcHjNr6A?t=2048) – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 
-* Blog post – [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-09-01/) 
+* Demo - [How to add animated SVG's to Adaptive Cards](https://youtu.be/Yt4QcHjNr6A?t=2048) – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94
+* Blog post – [Microsoft 365 & Power Platform Development Community call - 1st of September, 2022](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2022-09-01/)
 * Schema Explorer – [CaptionSource (Preview Feature)](https://adaptivecardsci.z5.web.core.windows.net/explorer/CaptionSource.html)
 * Samples - [Adaptive Card Design samples for Viva Connections](https://github.com/pnp/AdaptiveCards-Templates)
 * Sample (draft) - [Rendering array in data template](https://github.com/microsoft/AdaptiveCards/issues/7569#issuecomment-1167927785)
@@ -67,13 +67,10 @@ In this month’s community call, updates on **Accessibility features in Adaptiv
 
 * Twitter -
     [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​​
-* Recurrent Invite - <https://aka.ms/adaptivecardscommunitycall> 
+* Recurrent Invite - <https://aka.ms/adaptivecardscommunitycall>
 
 ## Learn more
 
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
-
-{{< attachments >}}
-git add

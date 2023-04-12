@@ -20,8 +20,8 @@ Office Add-ins developer platform community call - January 11, 2023
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
-* **Deploy Office Add-in that uses SSO to Azure App Service.** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft. 
-* **Feedback for WXP (Word, Excel or PowerPoint) add-ins.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. 
+* **Deploy Office Add-in that uses SSO to Azure App Service.** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft.
+* **Feedback for WXP (Word, Excel or PowerPoint) add-ins.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
 * **Outlook add-in preview API - prependOnSendAsync.** Yashvardan Joshi, Senior Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
@@ -39,7 +39,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Deploy Office Add-in that uses SSO to Azure App Service.** Follow the steps outlined in a recent article to create and deploy a single sign-on (SSO) Office Add-in to Microsoft Azure App Service. Create project, configure it to run SSO, app registration, install an Azure Extension in VS Code, create a new app service, update the manifest and package JSON, deploy the web app, create a new workbook in Excel, and test your new add-in.       
+* **Deploy Office Add-in that uses SSO to Azure App Service.** Follow the steps outlined in a recent article to create and deploy a single sign-on (SSO) Office Add-in to Microsoft Azure App Service. Create project, configure it to run SSO, app registration, install an Azure Extension in VS Code, create a new app service, update the manifest and package JSON, deploy the web app, create a new workbook in Excel, and test your new add-in.
 * **Feedback for WXP (Word, Excel or PowerPoint) add-ins.** Help us prioritize our work to make Office Add-ins better. Tell us about your user scenarios of Word, Excel, or PowerPoint add-ins. Review existing extensibility surveys on Auto install and auto launch add-ins for Word, Excel, and PowerPoint (to be done in a future call) and on Structured document content usage in Word add-ins.
 * **Outlook add-in preview API - prependOnSendAsync.** What is the Prepend on-Send API? Use cases (legal statements, images), API details (prepend text in html and plain text emails and in event invites), API parameters, manifest changes (permissions), demo (show photo inserted above text in sent mail, and in meeting invite) and documentation. In Preview for Win32 presently and coming soon for MAC and Outlook for Web.
 
@@ -47,14 +47,14 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 * Please let us know more about your user scenarios for Word, Excel, and PowerPoint add-ins so we can prioritize our work by completing our [Survey](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5oYVeF9pExPnSjEMUhVOIdUQTY1NFU4TEFQMUxRSE1VRlVDNUhXU1AwTy4u).
 * If you're interested in participating in a future User Research session about customer support channels, please let us know. Email [lindalu@microsoft.com](mailto:lindalu@microsoft.com?subject=[GitHub]%20Office%20Add-ins%20Developer%20User%20Research) with "Office Add-ins Developer User Research" as email subject.
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -139,4 +139,4 @@ So that we could help you further, please [open an issue on GitHub](https://gith
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on February 8th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

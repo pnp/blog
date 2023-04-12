@@ -216,7 +216,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *   You can download a recurrent invite from [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call). Welcome and join the discussion!
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
 
 _“Sharing is caring”_
 

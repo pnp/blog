@@ -123,7 +123,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 [SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.16.1 (GA)|v1.17 - Q1, 2023
 [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.12 (GA), v2.13 (GA)|v 3.12 to be released Feb 10th 2023
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.2 (GA), v5.9.0 GA|
-[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.4 (preview), v0.5.0 (beta.1)| 
+[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.4 (preview), v0.5.0 (beta.1)|
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.12.0 (GA), v2.9.0|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.11.0 (GA), v2.7.0|
 [Viva Connections Toolkit for VS Code](https://github.com/pnp/vscode-viva) | v0.3.2 (preview)|
@@ -207,4 +207,4 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *Microsoft 365 PnP team, Microsoft - 9th of February 2023*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

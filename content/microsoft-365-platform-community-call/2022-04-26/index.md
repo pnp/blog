@@ -106,5 +106,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 27th of April 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

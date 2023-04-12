@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 14th of February, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 14th of February, 2023"
 summary: "Two demos: Create an Azure Communication Services Resource and What's next for the Microsoft Graph Toolkit! 7 new articles and 2 new conversations released in last 7 days."
 date: 2023-02-14T04:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos.
 
 ### New this week
 
@@ -132,4 +132,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 14th of February 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
