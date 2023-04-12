@@ -20,11 +20,11 @@ Before we even get started talking about the list view threshold, let's make one
 
 > Microsoft lists is **not** a relational database!
 
-Now that we've got that out of the way this post will summarize my experiences working with large lists, some with upwards of 500k elements, without folders, it's more then possible - is it a good idea? - let's have a look.
+Now that we've got that out of the way this post will summarize my experiences working with large lists, some with upwards of 500k elements, without folders, it's more than possible - is it a good idea? - let's have a look.
 
 ## What is the list view threshold, and why it's there
 
-If you've worked with SharePoint as a dev for some time, you've eventually run into the issue of ["The number of items in this list exceeds the list view threshold"](https://learn.microsoft.com/en-us/sharepoint/troubleshoot/lists-and-libraries/items-exceeds-list-view-threshold), Microsoft has a few tips on it, the main one being "use modern" - well that doesn't help you when you're using the APIs, not even via Graph, so what do you do?
+If you've worked with SharePoint as a dev for some time, you've eventually run into the issue of ["The number of items in this list exceeds the list view threshold"](https://learn.microsoft.com/en-us/sharepoint/troubleshoot/lists-and-libraries/items-exceeds-list-view-threshold), Microsoft has a few tips on it, the main one being "use modern" - well that doesn't help you when you're using the APIs, not even via Graph API, so what do you do?
 
 Firstly, I want to address why it's there, I've seen a lot of people saying Microsoft should just remove the limit, you could do that on-premise, but I genuinely disagree with this stance, it's there for performance reasons, but also as a dev you should really stop and think "am I doing something wrong here" anytime you're fetching 5000 rows at once from a SharePoint list.
 
@@ -50,10 +50,10 @@ Both will leave me with the same result, but depending on how the rest of my dat
 
 They're evaluated left to right, so the two statements executing will look something like this:
 
-`Job title == 'Consultant' and Company == 'Evobis'` - Give me everyone with the job title 'Consultant' - **2 results** - of those, give the the once who work at 'Evobis' - **1 result**
+`Job title == 'Consultant' and Company == 'Evobis'` - Give me everyone with the job title 'Consultant' - **2 results** - of those, give the ones who work at 'Evobis' - **1 result**
 
 
-`Company == 'Evobis' and Job title == 'Consultant'` - Give the the once who work at 'Evobis' - **1 result** - of those, give me the once with the job title 'Consultant' - **1 result**
+`Company == 'Evobis' and Job title == 'Consultant'` - Give the the ones who work at 'Evobis' - **1 result** - of those, give me the ones with the job title 'Consultant' - **1 result**
 
 Now this is a fairly simple example, but if our list had more then 5001 people with the job title consultant, the first statement would actually fail, same goes the other way around.
 
@@ -65,19 +65,19 @@ Now we've talked a lot about filters in the above sections, once your list grows
 
 Most of the time if your list just grows slowly, SharePoint (Online) will actually automatically setup indexes for you, but in some cases I've found that to not work, so just set them up manually if you know you'll be using them.
 
-This is done by going to "list settings" under the columns press the "Indexed columns" link, "Create a new index" and you're off to the races, you'll be given the option to add a secondary column, here in theory this is supposed to improve performance when those two columns are queried together, but it does not change any of the limits, and from [my twitter feed](https://twitter.com/tanddant/status/1644069468476264456) it seems to be mostly theoretical.
+This is done by going to **list settings** under the columns press the **Indexed columns** link, **Create a new index** and you're off to the races, you'll be given the option to add a secondary column, here in theory this is supposed to improve performance when those two columns are queried together, but it does not change any of the limits, and from [my twitter feed](https://twitter.com/tanddant/status/1644069468476264456) it seems to be mostly theoretical.
 
 ## Dynamic data
 
 Now common for the two things above is that they hardly require any changes to your codebase, maybe a rewrite of your filter, but that should really be about it.
 
-If the above two do not solve your problems, maybe we're attacking the issue in the wrong way, if your app shows a long list of data you really should consider loading in more data as needed, for instance when I scroll to the bottom of the list, this can be done using paging, or better yet the [RenderListDataAsStream API](https://learn.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.list.renderlistdataasstream?view=sharepoint-csom), that's how the modern list views manage to show large lists (and also why you sometimes see the "load more" button on the page).
+If the above two do not solve your problems, maybe we're attacking the issue in the wrong way, if your app shows a long list of data you really should consider loading in more data as needed, for instance when I scroll to the bottom of the list, this can be done using paging, or better yet the [RenderListDataAsStream API](https://learn.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.list.renderlistdataasstream?view=sharepoint-csom), that's how the modern list views manage to show large lists (and also why you sometimes see the **load more** button on the page).
 
 This will not only allow you to show data from a very large list, but also really improve the user experience of your app, as you're no longer fetching all the data before showing it, but rather you're fetching it as you need it, this does of course mean that you have to do a bit more of code rewrite, so do be sure to test that the API does what you need it to before going down this route.
 
 ## Archive data
 
-Another option is to archive data - and here I'm not talking about having a "inactive" flag on your items, although that could actually work, I've seen it done as a "temporary" fix - a flow that sets a boolean on every list item at the start of every week, and every query to the list just has `Archived eq 0` but at this point you're already peeing your pants to stay warm, please don't actually do this unless it's very temporary.
+Another option is to archive data - and here I'm not talking about having a **inactive** flag on your items, although that could actually work, I've seen it done as a "temporary" fix - a flow that sets a boolean on every list item at the start of every week, and every query to the list just has `Archived eq 0` but at this point you're already peeing your pants to stay warm, please don't actually do this unless it's very temporary.
 
 The right solution is to move your data off to somewhere else, this could be an SQL instance, Dataverse, or even just a separate SharePoint list, it's important to realize that data has a lifetime, and while you might not want to delete the data, you should still archive it once it's no longer actively being worked on!
 
