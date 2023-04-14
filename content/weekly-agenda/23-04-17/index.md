@@ -40,9 +40,9 @@ Demos this time
 
 Demos: 
 
-* Demo 1 - To be announced
-* Demo 2 - To be announced
-* Demo 3 - To be announced
+* With Great Power (Apps) Comes Great Reusability [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
+* Copilot is the coworker you never knew you always needed
+[Shane Young](https://twitter.com/ShanesCows) | @ShanesCows
 
 
 Also: 📷 Picture Time with community in Together Mode!
