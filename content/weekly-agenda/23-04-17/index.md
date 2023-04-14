@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -40,9 +40,9 @@ Demos this time
 
 Demos: 
 
-* Item 1 - To be announced
-* Item 2 - To be announced
-* Item 3 - To be announced
+* Demo 1 - To be announced
+* Demo 2 - To be announced
+* Demo 3 - To be announced
 
 
 Also: 📷 Picture Time with community in Together Mode!
