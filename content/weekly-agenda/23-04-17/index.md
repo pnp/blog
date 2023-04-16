@@ -71,6 +71,7 @@ Demos:
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
 
 Topic:
+
 * Mastering Azure AD App Security: Safeguarding Service Principals for Smooth and Secure Automation
 
 ## New videos 
