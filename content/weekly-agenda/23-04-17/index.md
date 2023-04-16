@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 17th of April 2023 week
-date: 2023-04-13T07:34:54.573Z
+date: 2023-04-14T02:34:54.573Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -29,8 +29,8 @@ This is the agenda for the following week:
 Demos this time
 
 * [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev - Introduction to Microsoft Teams Toolkit v5 - New features and capabilities
-* Rohan Ankarigari Boda (Microsoft) - Microsoft Graph Hackathon - Building a command-line-interface tool designed to answer user queries using the Microsoft Graph API
 * [Srinivas Varukala](https://twitter.com/svarukala) | @svarukala & Rick Shire (Microsoft) - Building a Microsoft Teams Call queue scheduler solution for customers
+* Rohan Ankarigari Boda (Microsoft) - Microsoft Graph Hackathon - Building a command-line-interface tool designed to answer user queries using the Microsoft Graph API
 
 ### Power Platform monthly Community Call - 19th of April
 
@@ -40,6 +40,9 @@ Demos this time
 
 Demos: 
 
+* With Great Power (Apps) Comes Great Reusability [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
+* Copilot is the coworker you never knew you always needed
+[Shane Young](https://twitter.com/ShanesCows) | @ShanesCows
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -67,25 +70,31 @@ Demos:
 * Download the [recurring invite](https://aka.ms/IDDEVCommunityCall) or [join the call](https://aka.ms/IDDEVCommunityCall-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft identity platform community call](https://pnp.github.io/blog/categories/microsoft-identity-platform-community-call/)
 
-
 Topic:
+* Mastering Azure AD App Security: Safeguarding Service Principals for Smooth and Secure Automation
 
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Igniting a Power Automate Revolution: What Happens When Salespeople like to Click Buttons?](https://www.youtube.com/watch?v=LvDnl5FrxWo) by [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
+* [Create Pages and News from the SharePoint app bar](https://www.youtube.com/watch?v=bxi2H2cgH4o) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Harnessing the Power of OpenAI inside Power Virtual Agents](https://www.youtube.com/watch?v=kwmIpqJWV48) by [Matt Jimison](https://twitter.com/mjimison) (Takeda) |  @mjimison
-* [Microsoft Syntex - Apply a model to a document library](https://www.youtube.com/watch?v=rgZ0MMhdktI)
 * [Azure Communication Services extensibility with APIs and with Power Platform connectors](https://www.youtube.com/watch?v=-TPI293h0mY) by [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2 and  [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
 * [Debugging SharePoint Framework web parts directly in a site pages](https://www.youtube.com/watch?v=LT9KiovmGWU) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [Microsoft Syntex - Unstructured document processing](https://www.youtube.com/watch?v=NyotSarV7XQ)
 * [Introduction to the Copilot in Power Virtual Agents](https://www.youtube.com/watch?v=qRdbu7QYjhw) by [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft) | @GaryPretty
-* [External file requests for SharePoint document libraries](https://www.youtube.com/watch?v=iIoPZ1b1JA8)
+* [External file requests for SharePoint document libraries](https://www.youtube.com/watch?v=iIoPZ1b1JA8) by [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Integrate Azure Communication Services Calling into a React App](https://www.youtube.com/watch?v=ZyBNYblzISs) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 
+Syntex video series
+
+* [Microsoft Syntex - Import a training set](https://www.youtube.com/watch?v=8DKHsAUIfJA)
+* [Microsoft Syntex - Create and train a classifier](https://www.youtube.com/watch?v=MWSd1v7J6Gw)
+* [Microsoft Syntex - Apply a model to a document library](https://www.youtube.com/watch?v=rgZ0MMhdktI)
+* [Microsoft Syntex - Unstructured document processing](https://www.youtube.com/watch?v=NyotSarV7XQ)
+
+
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
-
-
 
 * [Join our Teams Toolkit Cloud Skills Challenge and win prizes!](https://www.youtube.com/shorts/2_WZSEpEYBw) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 * [Use Microsoft Teams apps before, during, and after a meeting](https://www.youtube.com/shorts/2nKyVRsprNs) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
@@ -94,7 +103,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 * [Power Platform Connections Ep Nine - Vesa Juvonen](https://www.youtube.com/watch?v=Qg4ZetD9iwM)
 * [Power Platform Connections Ep Eight - Hugo Bernier](https://www.youtube.com/watch?v=HuKLj12NMk0) - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [App Opener: create custom security roles for model-driven apps](https://www.youtube.com/watch?v=qkGxlW9_Huo) 
 
 ---
 
@@ -102,6 +110,7 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Updates to the Microsoft 365 Developer Program](https://devblogs.microsoft.com/microsoft365dev/updates-to-the-microsoft-365-developer-program/) by Kelly Bowen-McCombs (Microsoft)
 * [Enabling billing for Microsoft Teams APIs in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/enabling-billing-for-microsoft-teams-apis-in-microsoft-graph/) by Ajit Kalele (Microsoft) and Amit Oberoi (Microsoft)
 * [Deploy your ChatGPT based model securely using Microsoft Teams, Power Virtual Agent and Azure OpenAI](https://devblogs.microsoft.com/microsoft365dev/deploy-your-chatgpt-based-model-securely-using-microsoft-teams-power-virtual-agent-and-azure-openai/) by Alexis Kinzelin (Microsoft)
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/) by [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
@@ -121,6 +130,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 13th of April, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-04-13/)
 * [Microsoft 365 & Power Platform Community Call - 11th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-11/)
 
 ---
