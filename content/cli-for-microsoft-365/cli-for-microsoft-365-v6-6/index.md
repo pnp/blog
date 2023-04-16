@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SharePoint Framework (SPFx)
-type: popular
+type: regular
 ---
 
 We've published a new minor version of CLI for Microsoft 365. 
