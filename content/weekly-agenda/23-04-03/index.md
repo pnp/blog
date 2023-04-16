@@ -80,11 +80,11 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 * [Hack Together: Microsoft Graph and .NET winners](https://www.youtube.com/watch?v=kZouZLaJtc0)
 * [Build once, deploy efficiently, connect across Microsoft 365 - Virtual event](https://www.youtube.com/watch?v=asW6bpu0RNs)
-* [Teams Apps can now run in the Micrsoft 365 App](https://www.youtube.com/watch?v=sc3ZohtS5gM) - [Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora  & Pranathi Tupakula (Microsoft)
+* [Teams Apps can now run in the Microsoft 365 App](https://www.youtube.com/watch?v=sc3ZohtS5gM) - [Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora  & Pranathi Tupakula (Microsoft)
 * [Unified Store on Outlook: Discover and acquire add-ins and extended Teams Apps in one-stop shop](https://www.youtube.com/watch?v=tkvy5CjjqYM) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German & Kate Everett (Microsoft)
 * [Bring your Microsoft Teams apps to Microsoft 365 and Outlook mobile apps](https://www.youtube.com/watch?v=Ss3DEDBdmFc) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Outlook Extensions: Deep dive into unified app manifest (evolution of Teams app manifest)](https://www.youtube.com/watch?v=0iZlWuH0_AA) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
-* [New SDK capabilities](https://www.youtube.com/watch?v=1UJimJmXmvw) - [Kamal Shree]() (Microsoft) | @whatsupcoders & Adam Li (Microsfot)
+* [New SDK capabilities](https://www.youtube.com/watch?v=1UJimJmXmvw) - [Kamal Shree](https://twitter.com/whatsupcoders) (Microsoft) | @whatsupcoders & Adam Li (Microsoft)
 * [Message extensions and link unfurling extended to Outlook](https://www.youtube.com/watch?v=37R4vK9-JjQ) by [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac & Rishabh Agrawal (Microsoft)
 * [MAC for unified app management](https://www.youtube.com/watch?v=OgE72PGq6TM) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German & Snigdha Verma (Microsoft)
 
