@@ -1,43 +1,51 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 206"
-summary: "US-based Principal Power Platform Advocacy Team Lead at Microsoft - April Dunnam, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on her role as a Cloud Advocate, people manager, developer, presenter, mentors, YouTube sensation, plus 18 articles/videos."
-date: 2023-04-18T02:00:01-00:00
+summary: "UK-based Consultant, ECS organizer, and Microsoft MVP - Spencer Harbar, joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on infrastructure optimization, security and compliance priority, the European Collaboration Summit (ECS) plus 22 articles/videos."
+date: 2023-04-17T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-205-promo.png
+- images/pnp-weekly-206-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=XWlL1AaxM6E
-draft: true
+- https://www.youtube.com/watch?v=MihElXzOPAI
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Principal Power Platform Advocacy Team Lead at Microsoft - [April Dunnam](https://twitter.com/aprildunnam) \| @aprildunnam
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Consultant, ECS organizer, and Microsoft MVP - [Spencer Harbar](https://twitter.com/harbars) \| @harbars
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
+* Top business priorities in Europe today - Security and Compliance, migrating on-prem apps to the cloud, and projects that support remote workforce.
+* Cloud infrastructure benefits – secure, trusted with the incredibly powerful threat modeling and vulnerability assessment tools that companies would be hard pressed to acquire/implement on their own.
+* Challenge - smaller company’s low code solutions logic is not documented which slows cloud migration.
+* Strategies for accelerating enterprise technology adoption – infrastructure maturity, previous migration experience, addressing the Air gaps.
+* How enterprises are maximizing/scaling their cloud investments.
+* Why go to the European Collaboration Summit in May?
+
+## Referenced during conversation
+
+* [European Collaboration Summit](https://www.collabsummit.eu/) - May 22-24, 2023 - Duesseldorf, Germany
+* [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 Also, we showcased 22 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Waldek** – just released a new version of CLI for Microsoft 365 last week, also prepping for Microsoft Build, and making plans for the next BIG thing.
-* **Vesa** – released SPFx v1.17 (GA) last week, prepping for MVP Summit, many sessions for Microsoft 365 Conference, and for ECS (European Collaboration Summit).
+* **Spencer** – ongoing prepping for European Collaboration Summit
+* **Waldek** – making plans for the next BIG thing, stay tuned for more updates. MVP Summit this week. Microsoft Build and ECS in a month. Working on new capabilities for Microsoft Graph Developer Proxy and for CLI for Microsoft 365.
+* **Vesa** – prepping for multiple conferences, MVP Summit virtual session moderator this week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/XWlL1AaxM6E?t=0) – Intro
+[00:00](https://youtu.be/MihElXzOPAI?t=0) – Intro
 
-[02:32](https://youtu.be/XWlL1AaxM6E?t=152) – Interview
+[01:55](https://youtu.be/MihElXzOPAI?t=115) – Interview
 
-[42:04](https://youtu.be/XWlL1AaxM6E?t=2524) – Weekly Articles
+[33:43](https://youtu.be/MihElXzOPAI?t=2023) – Weekly Articles
 
-[1:12:02](https://youtu.be/XWlL1AaxM6E?t=4322) – Closing
+[55:17](https://youtu.be/MihElXzOPAI?t=3317) – Closing
 
 ## Action requested
 
@@ -46,9 +54,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Friday 14th of April and on Monday 17th of April 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube XWlL1AaxM6E >}}
+    {{< youtube MihElXzOPAI >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-fn7za-13dd530 >}}
+    {{< podbean pb-8xezu-13e666e >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -60,7 +68,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Deploy your ChatGPT based model securely using Microsoft Teams, Power Virtual Agent and Azure OpenAI](https://devblogs.microsoft.com/microsoft365dev/deploy-your-chatgpt-based-model-securely-using-microsoft-teams-power-virtual-agent-and-azure-openai/) - Alexis Kinzelin (Microsoft)
 * [Enabling billing for Microsoft Teams APIs in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/enabling-billing-for-microsoft-teams-apis-in-microsoft-graph/) - Ajit Kalele (Microsoft) & Amit Oberoi (Microsoft)
 * [Updates to the Microsoft 365 Developer Program](https://devblogs.microsoft.com/microsoft365dev/updates-to-the-microsoft-365-developer-program/) - Kelly Bowen-McCombs (Microsoft)
-* [Create a Custom Connector for your Web API from within Visual Studio](https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/) - Marcel Ferreira (Microsoft)
+* [Create a Custom Connector for your Web API from within Visual Studio](https://powerapps.microsoft.com/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/) - Marcel Ferreira (Microsoft)
 
 ## Microsoft Events
 
