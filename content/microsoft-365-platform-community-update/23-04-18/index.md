@@ -19,7 +19,7 @@ tags:
   - Power Apps
   - Power Automate
 type: epic
-draft: true
+draft: false
 ---
 
 Microsoft 365 & Power Platform Community March 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
