@@ -1,6 +1,6 @@
 ---
 title: 'CLI for Microsoft 365: Spring Cleaning Initiative'
-date: 2023-04-14T17:00:00.000Z
+date: 2023-04-17T21:00:00.000Z
 author: "Albert-Jan Schot"
 githubname: appieschot
 categories:
@@ -32,6 +32,6 @@ You can earn the three tier badges, you will receive stars ⭐ for each tier you
 
 ## How do I get started
 
-Visit the [GitHub repository](https://github.com/pnp/cli-microsoft365/issues?q=is%3Aopen+label%3A%22spring+cleaning%22+label%3A%22help+wanted%22+)] if you're seeking an enjoyable and fulfilling way to contribute to the CLI for Microsoft 365 community. The "spring cleaning" issues are a great place to start, with many of them labeled "help wanted" and "spring cleaning" just waiting for you to lend a hand. By tackling these tasks, you'll be giving back to the community while earning yourself a sense of accomplishment. So, flex those scrubbing muscles and get to work on these outstanding issues! 💪
+Visit the [GitHub repository](https://github.com/pnp/cli-microsoft365/issues?q=is%3Aopen+label%3A%22spring+cleaning%22+label%3A%22help+wanted%22+) if you're seeking an enjoyable and fulfilling way to contribute to the CLI for Microsoft 365 community. The "spring cleaning" issues are a great place to start, with many of them labeled "help wanted" and "spring cleaning" just waiting for you to lend a hand. By tackling these tasks, you'll be giving back to the community while earning yourself a sense of accomplishment. So, flex those scrubbing muscles and get to work on these outstanding issues! 💪
 
 If you are not yet sure on how to get started or are looking for friends to hang out with make sure to join or new [community discord server](https://aka.ms/cli-m365/discord) to have a chat!
