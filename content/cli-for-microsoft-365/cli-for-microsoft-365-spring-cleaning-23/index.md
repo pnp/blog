@@ -18,11 +18,11 @@ Are you a fan of the CLI for Microsoft 365 tool? Looking to give back to the ope
 
 ## Spring Cleaning: what it is all about
 
-Most of us are familiar with spring cleaning; as it refers to the process of thoroughly cleaning and organizing a space, typically performed during the spring season. And of course in  the context of software development it is no different. Spring cleaning usually involves tackling long-standing issues or tasks that have been ignored or postponed. It is an opportunity to address potential accumulated technical debt, resolve bugs, and enhance the overall quality of the codebase. So we decided to take this opportunity to clean up the CLI for Microsoft 365 codebase and make it even better than before. And we do need your help for that 🧼!
+Most of us are familiar with spring cleaning; as it refers to the process of thoroughly cleaning and organizing a space, typically performed during the spring season. And of course in the context of software development it is no different. Spring cleaning usually involves tackling long-standing issues or tasks that have been ignored or postponed. It is an opportunity to address potential accumulated technical debt, resolve bugs, and enhance the overall quality of the codebase. So we decided to take this opportunity to clean up the CLI for Microsoft 365 codebase and make it even better than before. And we do need your help for that 🧼!
 
 ## Badges?
 
-Helping out is great, but what can we offer? The [M365 Platform & Power Platform Community Recognition Program](https://pnp.github.io/recognitionprogram/) is the place to be if you want to get recognized for your contributions to the community. And we are proud to be announce that by helping us out with some spring cleaning you can earn some badges as well! 🏆.
+Helping out is great, but what can we offer? The [M365 Platform & Power Platform Community Recognition Program](https://pnp.github.io/recognitionprogram/) is the place to be if you want to get recognized for your contributions to the community. And we are proud to announce that by helping us out with some spring cleaning you can earn some badges as well! 🏆.
 
 You can earn the three tier badges, you will receive stars ⭐ for each tier you complete:
 
