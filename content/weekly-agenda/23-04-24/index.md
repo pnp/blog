@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 24th of April 2023 week
-date: 2023-04-14T02:34:54.573Z
+date: 2023-04-21T02:34:54.573Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
