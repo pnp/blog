@@ -132,6 +132,58 @@ Thank you for your great work. Samples are often showcased in Demos.
 [PnP SPFx Generator](https://github.com/pnp/generator-spfx)|v1.16.0|v1.17.0 on the way
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.8.0 (GA), v3.23.0 (GA)|
 
+## Links in this call
+
+* Microsoft 365 & Power Platform community videos - aka.ms/community/videos
+* LinkedIn group for discussions and updates - aka.ms/community/Li
+* Open-source assets –
+    * github.com/pnp
+    * github.com/officedev
+    * github.com/sharepoint
+    * github.com/microsoftgraph
+* Unified Sample gallery - aka.ms/community/samples
+* Product sample galleries
+    * aka.ms/teams-samples
+    * aka.ms/spfx-webparts
+    * aka.ms/spfx-extensions
+    * aka.ms/powerplatform-samples
+    * aka.ms/list-formatting
+* One place for Open-source initiatives and samples - aka.ms/community/home
+* Microsoft 365 & Power Platform community calls - aka.ms/community/calls
+* Community call agendas - aka.ms/community/meetup
+* Request to Present - aka.ms/community/request/demo
+* Invite (ics) for the Microsoft 365 & Power Platform call - aka.ms/community/ms-speakers-call-invite
+* Learn how to get started in the open-source PnP community! – aka.ms/sharing-is-caring
+* Community Recognition Program – aka.ms/community/recognition
+* Project Specific
+    * SharePoint Framework
+        * Release notes - learn.microsoft.com/sharepoint/dev/spfx/roadmap
+        * Repo - github.com/SharePoint/sp-dev-docs
+    * PnPjs Client-side Libraries
+        * Repo/Docs – pnp.github.io/pnpjs
+        * nightly builds – npm install @pnp/sp@v3nightly –save
+    * CLI for Microsoft 365
+        * Repo – github.com/cli-microsoft365
+        * CLI community on Discord aka.ms/cli-m365/discord
+        * Twitter @climicrosoft365
+        * Documentation - aka.ms/cli-m365/
+    * Microsoft Graph Developer Proxy – aka.ms/graph/proxy/download
+    * Reusable SPFx Controls
+        * Release notes - pnp.github.io/sp-dev-fx-property-controls/about/release-notes/
+        * Documentation - sharepoint.github.io/sp-dev-fx-property-controls
+        * Twitter - @M365PnPControls
+    * React Property Controls –
+        * Release notes - pnp.github.io/sp-dev-fx-property-controls/about/release-notes/
+        * Documentation - sharepoint.github.io/sp-dev-fx-controls-react
+        * Twitter - @M365PnPControls
+    * Viva Connections Toolkit for Visual Studio Code
+        * Repo - aka.ms/viva/vscode
+    * PnP Modern Search
+        * Documentation - aka.ms/pnp-search
+        * Repo - github.com/microsoft-search/pnp-modern-search/releases
+* All community calls – aka.ms/community/calls
+* Feedback on this call - aka.ms/community/calls/feedback
+* Follow us on Twitter for updates - @m365pnp, and @Microsoft365Dev
 
 ## General Resources
 
