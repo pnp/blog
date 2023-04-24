@@ -29,10 +29,10 @@ In this month’s community call the focus is on the newly released Teams Toolki
 
 *  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards** – key v4 capabilities called out - scenario-based app creation, run your Teams apps on Office and Outlook, create an app from sample, side-by-site edit-render experience (when Adaptive Cards VS Code extension installed), select to uncomment/activate commented out functionality, and test your app in Run and Debug mode. New capabilities are used in a scenario-based timer trigger app that delivers Adaptive Card notifications in Teams.
 
- 
+
 ## Demo references
 
-*  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards**  
+*  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards**
     * Tenant – [Microsoft 365 Developer Tenant](https://developer.microsoft.com/microsoft-365/dev-program)
     * Documentation - [Get started](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-overview?WT.mc_id=m365-66412-timura)
     * Documentation - [Teams Toolkit Overview](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-66412-timura)
@@ -42,8 +42,8 @@ In this month’s community call the focus is on the newly released Teams Toolki
 
 ## Other references
 
-* Video - [Handling multi-user responses for Adaptive Cards in Microsoft Teams](<https://youtu.be/V0iTtOYcP6w>) - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) 
-* Playlist - [Tomasz Poszytek’s Adaptive Cards videos](https://www.youtube.com/playlist?list=PLaHN-sDizNyXdxiWTp96pLuu4S1i8RpCF) [TomaszPoszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek 
+* Video - [Handling multi-user responses for Adaptive Cards in Microsoft Teams](<https://youtu.be/V0iTtOYcP6w>) - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft)
+* Playlist - [Tomasz Poszytek’s Adaptive Cards videos](https://www.youtube.com/playlist?list=PLaHN-sDizNyXdxiWTp96pLuu4S1i8RpCF) [TomaszPoszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 
 ## Actions
 
@@ -82,5 +82,4 @@ In this month’s community call the focus is on the newly released Teams Toolki
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

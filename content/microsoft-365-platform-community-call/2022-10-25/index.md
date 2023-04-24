@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 25th of October, 2022"  
+title: "Microsoft 365 Platform Community Call - 25th of October, 2022"
 summary: "Demos - Extend Microsoft Teams apps to Office and Outlook Mobile, General Availability of Power Pages - Getting started, and Using your SPFx solutions also in Microsoft Teams, Outlook and in the Microsoft 365 app. Register for 30 Days of Microsoft Graph Challenge."
 date: 2022-10-25 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -139,4 +139,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 25th of October 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

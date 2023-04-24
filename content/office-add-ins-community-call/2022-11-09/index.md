@@ -21,7 +21,7 @@ draft: false
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
 * **Working with Partial Documents in PowerPoint.** [John Teichman](https://www.linkedin.com/in/john-teichman-04b3581/), Principal Product Manager, Microsoft [Onur Onder](https://www.linkedin.com/in/onur-onder-5b315311/), Senior Software Engineer, Microsoft.
-* **Content control enhancements in Word Online.** [Maja Damjanić](https://www.linkedin.com/in/majadamjanic/), Senior Product Manager, Microsoft. 
+* **Content control enhancements in Word Online.** [Maja Damjanić](https://www.linkedin.com/in/majadamjanic/), Senior Product Manager, Microsoft.
 * **Search Bar for Office Add-ins.** [Adrian Wu](https://www.linkedin.com/in/adrian-tsung-han-wu-53462582/), Senior Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
@@ -36,19 +36,19 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Work with partial documents in PowerPoint.** Large files laden with graphics and videos are often broken up for faster download. This presentation explains capabilities and implications for add-ins developers working with partial documents including error handling, impacted APIs, and office.js API calls that may return errors. In Preview.     
-* **Content control enhancements in Word Online.** This presentation covers new and upcoming enhancements to content controls in Word including those created via UI and programmatically (Word for Windows) and those created with Rich Text in Office.js (Word Online). What’s new and in the pipeline.   
+* **Work with partial documents in PowerPoint.** Large files laden with graphics and videos are often broken up for faster download. This presentation explains capabilities and implications for add-ins developers working with partial documents including error handling, impacted APIs, and office.js API calls that may return errors. In Preview.
+* **Content control enhancements in Word Online.** This presentation covers new and upcoming enhancements to content controls in Word including those created via UI and programmatically (Word for Windows) and those created with Rich Text in Office.js (Word Online). What’s new and in the pipeline.
 * **Search Bar for Office Add-ins.** Learn how users can use TellMe to search for installed add-ins from the search box in Word, Excel and PowerPoint documents. Supports user installed add-ins and admin deployed add-ins.
 
 ## Call to action
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -58,7 +58,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## Q&A (Question & Answers)
 **We'd also love an update on [GitHub issue](https://github.com/OfficeDev/office-js/issues/2955) - Outlook OWA UI has been updated for some users and there is no way for them to open add-ins in compose mode. Major issue.**
 
-We've assigned the issue to the Outlook team for further investigation. 
+We've assigned the issue to the Outlook team for further investigation.
 
 **Hi, anyone working on Outlook add-in - SSO with .Net Core - adding Authentication in Middleware. and adding redirect URI? This works in Outlook on Windows but fails in Outlook on the web.**
 
@@ -76,7 +76,7 @@ We will pass on this feedback to the team.
 
 We are planning to roll out support for Plain Text content controls editing soon.
 
-**To be clear, we are still not able to create the Content Controls in Word Online?** 
+**To be clear, we are still not able to create the Content Controls in Word Online?**
 
 That's correct. Creating content controls in Word on the web still isn't possible. They need to be created with via the Word desktop client or the JS API.
 
@@ -106,7 +106,7 @@ This is one of the things we are considering. We would love to hear more of your
 * **Search Bar for Office Add-ins**
    * Documentation - [Automatically open a task pane when an add-in is installed](https://learn.microsoft.com/office/dev/add-ins/develop/automatically-open-on-installation#configure-default-task-pane)
 
-    
+
 
 ## Stay connected
 
@@ -117,4 +117,4 @@ This is one of the things we are considering. We would love to hear more of your
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on December 14th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

@@ -16,8 +16,8 @@ draft: false
 
 ## Call summary
 
-* **Word APIs update.** Get to know more about Word JavaScript API online-only features, including a preview of the Fields API and the six-month roadmap. Yun Wang, Principal Product Manager (Microsoft) 
-* **Outlook add-ins updates.** Find out what's coming to Outlook add-ins, including the REST service decommission, shared folders support, and a pre-beta look at the item multi-select capability. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/), Software Engineer (Microsoft) 
+* **Word APIs update.** Get to know more about Word JavaScript API online-only features, including a preview of the Fields API and the six-month roadmap. Yun Wang, Principal Product Manager (Microsoft)
+* **Outlook add-ins updates.** Find out what's coming to Outlook add-ins, including the REST service decommission, shared folders support, and a pre-beta look at the item multi-select capability. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/), Software Engineer (Microsoft)
 * **SSO samples update.** Learn about updates to the SSO NodeJS token handling sample and how you can retrieve an access token securely. [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut
 * **Community spotlight.** recognizes [Maarten van Stam](http://twitter.com/aafvstam)
 * **Community panels.** Join us to share your feedback on how we can provide you with a better Office Add-ins development experience
@@ -28,7 +28,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 ## Agenda
 
 * Word API update. Yun Wang, Principal Product Manager (Microsoft), [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
-* Outlook add-ins update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), @juaneloBalmor and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/),  Software Engineer (Microsoft), [6:11](https://www.youtube.com/watch?v=COic6ghBWsU&t=371s) 
+* Outlook add-ins update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), @juaneloBalmor and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/),  Software Engineer (Microsoft), [6:11](https://www.youtube.com/watch?v=COic6ghBWsU&t=371s)
 * SSO samples update. [David Chesnut] (http://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut, [23:38] (https://www.youtube.com/watch?v=COic6ghBWsU&t=1418s)
 * Community spotlight. [42:40](https://www.youtube.com/watch?v=COic6ghBWsU&t=2560s)
 * Community panels, [43:14](https://www.youtube.com/watch?v=COic6ghBWsU&t=2594s)
@@ -37,21 +37,21 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 ## Topic summaries
 
 * **Microsoft Word JavaScript API online-only requirement set update.**  GA feature areas available only for Word on the web. Feature areas include support for comments, track changes, and footnotes/endnotes (Insert, GetCollection, Navigate, and Operate objects). Additionally, Fields APIs (web-only Preview) to get collections of fields, Paragraph, Range, Table, and TableRow objects and Navigate fields. Feature candidates for next GA release.
-* **Outlook Add-ins Updates.** 1) REST Decommission update: APIs impacted, key dates for add-ins using REST, and Microsoft Graph calls plus issues reporting; 2) Support for Shared Folders: delegates and shared Mailbox in Exchange OnPrem is in Beta! (Win32 16.0.15505.20000), and 3) Support for item multi-select (Beta coming soon). For example, select three e-mails and retrieve information from all three simultaneously.  
+* **Outlook Add-ins Updates.** 1) REST Decommission update: APIs impacted, key dates for add-ins using REST, and Microsoft Graph calls plus issues reporting; 2) Support for Shared Folders: delegates and shared Mailbox in Exchange OnPrem is in Beta! (Win32 16.0.15505.20000), and 3) Support for item multi-select (Beta coming soon). For example, select three e-mails and retrieve information from all three simultaneously.
 * **SSO samples update.** token handling in SSO NodeJS sample has been updated to not return a middle-tier token back to the client. Step through the logic of the three scenarios addressed in this sample: SSO with OBO (successful flow), SSO fails, and must use MSAL (fallback flow), and the SSO token expired flow. Tips on extending this sample along with security notes.
 
 
 ## Actions
 
 * Give us feedback on what you need from code samples. Join the Teams call. [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-join), July 27th, 8:00 AM PT,  <https://aka.ms/officeaddinsamples-call>
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges
-* See call agendas and summaries, and release announcements. Follow us on Twitter. 
+* See call agendas and summaries, and release announcements. Follow us on Twitter.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -94,7 +94,7 @@ If you need more capabilities, please create an idea request with more details a
 
 We have a web add-in as well, which is backed/interacts with a server, but we are not yet in a position to completely switch away from COM; we use 3rd party DLLs, which are getting harder and harder to come by in 32-bit format.**
 
-We unfortunately can't disclose user information regarding bitness. That said, for a modern add-in, customers using 32-bit Office may not make a heavy impact. 
+We unfortunately can't disclose user information regarding bitness. That said, for a modern add-in, customers using 32-bit Office may not make a heavy impact.
 
 
 **Can someone speak to support for Visio?**
@@ -107,7 +107,7 @@ We'd love to discuss your use case with you further. Please contact Yun Wang at 
 
 **Is there planned support for onSelectionChanged() for the Word API in Content Controls? I am curious about when it will work with the production release of the API.**
 
-There will be more content control support going forward, but there are currently no production plans for it this year. However, we'd like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release. 
+There will be more content control support going forward, but there are currently no production plans for it this year. However, we'd like to further discuss your use case with you to help us reprioritize and see if we could push forward for another release.
 
 **Any idea if "run on startup" will be available in all platforms for Word API? I see it depends on shared execution which is broken in Word?**
 
@@ -153,10 +153,10 @@ The Office Add-ins platform team engages at the following locations.
 For Q&A (either location works):
 https://aka.ms/office-addins-dev-questions
 Tags: [office-js-dev] [office-addins-dev]
-https://stackoverflow.com 
+https://stackoverflow.com
 Tags: [office-js] [outlook-web-addins] [office-scripts]
 
-For any products please create an issue at: https://github.com/OfficeDev/office-js 
+For any products please create an issue at: https://github.com/OfficeDev/office-js
 
 **Thank you for the PowerPoint preview APIs and the progress being made there! Are there plans to continue extending the functionality such that eventually everything on a slide can be read and updated?**
 
@@ -165,7 +165,7 @@ We encourage you to try and test the current preview APIs and provide us with yo
 
 **Any plans to support the onSelectionChanged event in the Outlook Javascript Add-in APIs? In our Word and Excel Add-ins we have buttons that dynamically update according to user selection, but we can't do this in Outlook yet.**
 
-There currently aren't any plans on our roadmap to support this event in our Outlook JavaScript APIs. It would be great if you could add this as a new feature request at https://aka.ms/m365dev-suggestions so we could further investigate this. 
+There currently aren't any plans on our roadmap to support this event in our Outlook JavaScript APIs. It would be great if you could add this as a new feature request at https://aka.ms/m365dev-suggestions so we could further investigate this.
 Microsoft 365 Developer Platform - Microsoft Tech Community
 
 ## References
@@ -195,4 +195,4 @@ Microsoft 365 Developer Platform - Microsoft Tech Community
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on August 10th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

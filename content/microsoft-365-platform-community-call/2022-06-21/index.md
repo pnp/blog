@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 21st of June, 2022"  
+title: "Microsoft 365 Platform Community Call - 21st of June, 2022"
 summary: "Two demos - Using the Microsoft Graph PowerShell SDK for common operations and Get started with UI Library for Azure Communication Services. Delivered 8 new articles/documents this week. Introduced Microsoft Community Initiative to build a unified Microsoft Cloud Community."
 date: 2022-06-22 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -123,5 +123,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 22nd of June 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

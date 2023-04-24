@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 31st of January, 2023"  
+title: "Microsoft 365 Platform Community Call - 31st of January, 2023"
 summary: "Two demos - Introduction to Microsoft Viva Home experience and Introduction to Azure Communication Services. Delivered 8 articles, 2 Teams platform updates, and 3 conversations in the last 7 days!"
 date: 2023-01-31T04:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos.
 
 ### New this week
 
@@ -151,4 +151,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 31st of January 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

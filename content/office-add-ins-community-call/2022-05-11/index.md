@@ -47,7 +47,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 * Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-call) – June 15, 8:00 am PT \| aka.ms/officeaddinsamples-call
 * Sign up for the PnP Recognition Program and earn contribution badges – <https://pnp.github.io/recognitionprogram/>
-* See call agendas and summaries, and release announcements. Follow us on Twitter – 
+* See call agendas and summaries, and release announcements. Follow us on Twitter –
     * <https://twitter.com/microsoft365dev>
     * <https://twitter.com/m365pnp>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -194,4 +194,4 @@ Yes, this should work. We do have customers who have implemented a service middl
 * Submit questions for next community call – <https://aka.ms/officeaddinsform>
 * Next community call – June 8th at 08:00am PT – <https://aka.ms/officeaddinscommunitycall>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
