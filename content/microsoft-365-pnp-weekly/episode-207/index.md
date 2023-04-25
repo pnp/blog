@@ -33,7 +33,7 @@ In this installment of the weekly discussion revolving around the latest news an
 ## Referenced during conversation
 
 * Shoutout to Hugo, David and Stefan Bauer for positively influencing Chandani’s experience with this special PnP community.
-* Recipe for Pani Coodne
+* Recipe for [Panipuri](https://en.wikipedia.org/wiki/Panipuri)
 
 Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
 
