@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 207"
-summary: ", joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on  plus 19 articles/videos."
-date: 2023-04-17T02:00:01-00:00
+summary: "India-based Cloud Consultant and Microsoft 365 Developer MVP - Chandani Prajapati (Rapid Circle) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on a journey with community, contributions aligned to talents, travel, cooking, MVP Summit reflections, plus 19 articles/videos."
+date: 2023-04-24T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,46 +9,48 @@ images:
 - images/pnp-weekly-207-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=MihElXzOPAI
-draft: true
+- https://www.youtube.com/watch?v=8dF6_yDiqMY
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined 
-
-Chandani Prajapati (Rapid Circle) - https://twitter.com/Chandani_SPD
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by India-based Cloud Consultant and Microsoft 365 Developer MVP - [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) \| @Chandani_SPD 
 
 ## Topics discussed in this session
 
-* item
-* item
-* item
-* item
-* item
-* item
-
+* Vesa and Waldek’s thoughts on how the Microsoft MVP Summit changed over time.
+* Chandani’s favorite travel destination to date and favorite recipe.
+* On being a developer at Rapid Circle.
+* How did Chandani become a SPFx developer?
+* What does it mean to be a Microsoft MVP?
+* Chandani’s fascinating journey with Community.
+* Using your talents to address both personal and community needs.
+* Why continue to contribute?
+* Why do certain companies encourage their people to contribute to open-source?
+* Raising the bar by working collaboratively in the open as opposed to working alone to reinvent the wheel.
+* The impact of Chandani’s latest contributions to the SharePoint Starter Kit.
+* Tips on how to start contributing – yes you are good enough to contribute.
+ 
 ## Referenced during conversation
 
-Callout Huge, David and Stefan Bauer
-
-* item
-* item
+* Shoutout to Hugo, David and Stefan Bauer for positively influencing Chandani’s experience with this special PnP community.
+* Recipe for Pani Coodne
 
 Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Waldek** – making plans for the next BIG thing, stay tuned for more updates. MVP Summit this week. Microsoft Build and ECS in a month. Working on new capabilities for Microsoft Graph Developer Proxy and for CLI for Microsoft 365.
-* **Vesa** – prepping for multiple conferences, MVP Summit virtual session moderator this week.
+* **Waldek** – silence before storm week. Final work and release notes on updates for Microsoft Graph Developer Proxy and CLI for Microsoft 365 to be released next week. Continued planning for the next BIG thing, stay tuned for more updates. Prepping for Microsoft Build and ECS.
+* **Vesa** – quickly - conference prep, conference prep, conference pred. Microsoft 365 Conference next week, then onto ECS (European Collaboration Summit) and Build.
 
 ## Agenda items
 
-[00:00](https://youtu.be/MihElXzOPAI?t=0) – Intro
+[00:00](https://youtu.be/8dF6_yDiqMY?t=0) – Intro
 
-[01:55](https://youtu.be/MihElXzOPAI?t=115) – Interview
+[07:43](https://youtu.be/8dF6_yDiqMY?t=463) – Interview
 
-[33:43](https://youtu.be/MihElXzOPAI?t=2023) – Weekly Articles
+[35:00](https://youtu.be/8dF6_yDiqMY?t=2100) – Weekly Articles
 
-[55:17](https://youtu.be/MihElXzOPAI?t=3317) – Closing
+[52:40](https://youtu.be/8dF6_yDiqMY?t=3160) – Closing
 
 ## Action requested
 
@@ -57,9 +59,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday 24th of April 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube MihElXzOPAI >}}
+    {{< youtube 8dF6_yDiqMY >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-8xezu-13e666e >}}
+    {{< podbean pb-7pw9n-13ef317 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -73,7 +75,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [New Azure AD app name for Microsoft Graph PowerShell SDK and CLI](https://devblogs.microsoft.com/microsoft365dev/new-azure-ad-app-name-for-microsoft-graph-powershell-sdk-and-cli/) - Carol Mbasinge Kigoonya (Microsoft)
 * [OData property changes to callRecords change notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-callrecords-change-notifications-in-microsoft-graph/) - Matthew McGrath (Microsoft)
 * [Teams Toolkit for Visual Studio Code Update – April 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-april-2023/) - Junjie Li (Microsoft)
-* [Unblock Viva deployment and adoption in your organization](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/unblock-viva-deployment-and-adoption-in-your-organization/ba-p/3801774)
+* [Unblock Viva deployment and adoption in your organization](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/unblock-viva-deployment-and-adoption-in-your-organization/ba-p/3801774) - NachoMSFT (Microsoft)
 * [Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/) - Brian DeHamer (Microsoft) & Philip Harrison (Microsoft)
 
 ## Microsoft Events
@@ -89,7 +91,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [SharePoint 2013 workflow retirement - the end of an era](http://jopx.blogspot.com/2023/04/sharepoint-2013-workflow-retirement-end.html) - [Joris Poelmans](https://twitter.com/jopxtwits) (RealDolmen) | @jopxtwits
 * [Using the on-behalf-of flow in Azure PowerShell Functions](https://www.blimped.nl/using-the-on-behalf-of-flow-in-azure-powershell-functions/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
 * [Extend Graph SDK with oData filter generated from LINQ expression](https://mgwdevcom.wordpress.com/2023/04/21/extend-graph-sdk-with-odata-filter-generated-from-linq-expression/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
-* [Microsoft 365 PnPjs - Release 3.14.0](https://twitter.com/m365pnpjs/status/1648097513679773696)
+* [Microsoft 365 PnPjs - Release 3.14.0](https://twitter.com/m365pnpjs/status/1648097513679773696) - Microsoft
 * [Teams spatial audio, Outlook video messaging - #281](https://www.messagecentershow.com/e/spatial-audio-in-teams-meetings-281/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Episode #246 - What’s new in SharePoint Framework 1.17.1](https://www.youtube.com/watch?v=E2nb7pjYqVU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps Collections Introduction](https://www.youtube.com/watch?v=4zM-Oyhpc3U) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
