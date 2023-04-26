@@ -43,7 +43,7 @@ m365 spo applicationcustomizer get --clientSideComponentId 7096cded-b83d-4eab-96
 
 ### Clearing the SharePoint site recycle bin
 
-Working with the recycle bin programmatically has become easier as well. You can now clear a site recycle bin with a simple one liner.
+Working with the recycle bin programmatically has become easier as well. You can now clear a site recycle bin with a simple one-liner.
 
 Clear all items from the first-stage recycle bin:
 
