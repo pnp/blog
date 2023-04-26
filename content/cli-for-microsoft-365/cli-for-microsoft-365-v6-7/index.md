@@ -112,8 +112,6 @@ m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --firstName 
 ```
 
 - [aad user set](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-set/)
-
-
 ### And there's more
 
 We've been working tirelessly to enhance our capabilities. How about support for non-public clouds? We've now got it! How about getting extra information when listing flow runs? It's now included.
