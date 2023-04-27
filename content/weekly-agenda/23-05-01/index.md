@@ -20,54 +20,51 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform weekly call - 25th of April
+### Microsoft 365 & Power Platform weekly call - 2nd of May
 
-* Tuesday, 25th of April 2023, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 2nd of May 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 & Power Platform Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos this time
 
-* Stuart McCarthy (Microsoft)  and Marcus Castro  (Microsoft)  - Why build Power Platform solutions in Teams?
-* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 - Microsoft Graph Hackathon - Winner demo #4
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Bring your existing projects to Teams Toolkit for Visual Studio Code
+* Marcus Castro (Microsoft) - Power Platform Solutions in Microsoft Teams – Example scenario deep dive
+* [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs - Build Outlook Add-ins using Teams Toolkit for Visual Studio Code
+
 
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-### Microsoft 365 & Power Platform Community Call - 27th of April
+### Viva Connections & SharePoint Framework Community Call - 4th of May
 
-Typically demos here are from the community by the community. You are welcome to demo here 👋
-
-* Thursday, 27th of April, 2023, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 4th of May 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
-* Kevin Dibb (Chemours) - Group voicemail app to ease voice mail distribution
-* [Tobias Fenster](https://twitter.com/tobiasfenster) (4PS Germany) | @tobiasfenster - Task management and Timeboxing within the Microsoft ecosystem, driven by a Power Automate flow
+* Daniel Turley (Avanade) - SPFx framework at Microsoft - Accelerator Domain Models
+* [Kunj Balkrishna Sangani](https://twitter.com/sanganikunj) (LTIMindtree) | @sanganikunj - Building Conversation search experience for Microsoft Teams with SPFx
+* [Dan Toft](https://twitter.comn/tanddant) (Evobis) | @tanddant- Replicating the Quick Links web part for extensibility
+
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Microsoft Syntex - Model usage analytics](https://www.youtube.com/watch?v=1viF9kvuQ2g)
-* [Building advance interactive world map for business information with SPFx](https://www.youtube.com/watch?v=MtrXZtjJeRo) by [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
-* [Exposing business data in Microsoft 365 using Azure Data API builder and SPFx](https://www.youtube.com/watch?v=Fyw29llMzf4) by [Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb and [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-* [Deploying the Azure Communications Services Application to Azure](https://www.youtube.com/watch?v=JYs5CPyu2Io) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-* [Quality Assurance with Power Platform Pipelines using Power Apps](https://www.youtube.com/watch?v=IrBr-9UE_5Y) by [Nati Turtledove](https://twitter.com/NatiTurts) | @NatiTurts
+* [Have fun with DALL-E generated art in your Microsoft Teams conversations](https://www.youtube.com/watch?v=9uAr7hnciu0) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
+* [Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=ynTXOv-qjys) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+* [SharePoint Framework v1.17 release - what's new and what's available](https://www.youtube.com/watch?v=yUnGKDD3Ylc) by [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
+* [Viva Connections extension with user presence status using Microsoft Graph Presence API and SPFx](https://www.youtube.com/watch?v=ONPb2fgL0jU) by [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat
 
 
 Syntex video series
 
-* [Microsoft Syntex - Model usage analytics](https://www.youtube.com/watch?v=1viF9kvuQ2g)
-* [Microsoft Syntex - Apply a retention label](https://www.youtube.com/watch?v=pocWjJJeu3U)
-* [Create and train an extractor](https://www.youtube.com/watch?v=98REOwNZD0Y)
-* [Microsoft Syntex - Import a training set](https://www.youtube.com/watch?v=8DKHsAUIfJA)
-* [Microsoft Syntex - Create and train a classifier](https://www.youtube.com/watch?v=MWSd1v7J6Gw)
-* [Microsoft Syntex - Apply a model to a document library](https://www.youtube.com/watch?v=rgZ0MMhdktI)
-* [Microsoft Syntex - Unstructured document processing](https://www.youtube.com/watch?v=NyotSarV7XQ)
+* [Microsoft Syntex - Leverage taxonomy in unstructured document processing models](https://www.youtube.com/watch?v=qVD9Suvu2CE)
+* [Creating contracts management solution in Microsoft 365 with SharePoint Syntex](https://www.youtube.com/watch?v=knt91OekOZg)
+
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
@@ -78,8 +75,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Main Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=8UzIuHfXD4s)
-* [Power Platform Connections Ep 10 - Vivian Voss](https://www.youtube.com/watch?v=3qc18mvb22c)
+* [Power Platform Connections Ep 11 - Chris Huntingford](https://www.youtube.com/watch?v=0uo-lZckCJQ)
+* [Managed Environments New Features – Microsoft Official](https://www.youtube.com/watch?v=tqVtDspgXII) by [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
 
 ---
 
@@ -87,18 +84,16 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Teams Toolkit for Visual Studio Code Update – April 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-april-2023/) by Junjie Lie (Microsoft)
-* [OData property changes to callRecords change notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-callrecords-change-notifications-in-microsoft-graph/) by Matthew McGrath (Microsoft)
+* [Microsoft Graph .NET SDK: New organization name for NuGet packages](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-net-sdk-new-organization-name-for-nuget-packages/) by [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
+* [Supercharge your Teams app development: New integration for Teams Toolkit & Developer Portal](https://devblogs.microsoft.com/microsoft365dev/supercharge-your-teams-app-development-new-integration-for-teams-toolkit-developer-portal/)
+* [https://devblogs.microsoft.com/microsoft365dev/supercharge-your-teams-app-development-new-integration-for-teams-toolkit-developer-portal/](https://devblogs.microsoft.com/microsoft365dev/new-azure-ad-app-name-for-microsoft-graph-powershell-sdk-and-cli/)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [CLI for Microsoft 365: Spring Cleaning Initiative](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-spring-cleaning-23/) by [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-* [Microsoft 365 PnP Weekly - Episode 206 woth Spencer Harbar](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-206/)
-* [CLI for Microsoft 365 v6.6](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-6/) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
-* [Connect Power Virtual Agents Teams Bot with Azure DevOps](https://pnp.github.io/blog/post/connect-power-virtual-agents-with-devops/) by [Sohil Bhalla](https://github.com/sohilbhalla/) | sohilbhalla
+* [Microsoft 365 PnP Weekly - Episode 207](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-207/) with [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
 
 ---
 
@@ -106,10 +101,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Power Platform Community Call – April 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2023/)
-* [Microsoft 365 & Power Platform Community Call - 18th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-18/)
-* [Microsoft 365 & Power Platform Development Community call - 13th of April, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-04-13/)
-* [Microsoft 365 & Power Platform Community Call - 11th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-11/)
+* [Microsoft 365 & Power Platform Community Call - 25th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-25/)
+* [Viva Connections & SharePoint Framework Community Call – 20th of April, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-04-20/)
 
 ---
 
@@ -142,8 +135,6 @@ We would also love to see you in the [Microsoft 365 Conference](https://m365conf
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
-* [CollabDays Montreal](https://www.collabdays.org/2023-montreal/) - April 28, 2023 - Montreal, Canada
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA
 * [CollabDays Poland 2023](https://www.communitydays.org/event/2023-05-13/collabdays-poland-2023) - May 13, 2023 - Warsaw, Poland
 * [M365 Community Day - Phoenix](https://www.communitydays.org/event/2023-05-13/m365-community-day-phoenix) - May 13-14, 2023 - Hybrid - Tempe, AZ, USA
