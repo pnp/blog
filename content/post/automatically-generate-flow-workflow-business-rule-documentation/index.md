@@ -9,12 +9,18 @@ categories: ["Community post"]
 images:
 - images/PostOverviewImage.png
 # don't change
-tags: []
+
+tags: ["Power Automate"]
+
+
 # don't change
 type: "regular"
 ---
+
 ## TL;DR
 How often do you find yourself writing documentation for Dynamics 365 Power Automate Flows and Business Rules? And on a large project, how do you to keep track of all the Dynamics 365 Power Automate Flows, Workflows, Business Rules, etc. and get an overview of what they relate to and what they do? This post shows how a Power Automate Cloud Flow can be used to produce documentation from Process Descriptions and link them to Azure DevOps work items.
+
+The files created by the flow are Markdown files, the common format for Wiki pages, including those in Azure DevOps Wikis. 
 
 ---
 
@@ -131,7 +137,9 @@ The flow then loops through the processes to generate the documentation.
 
 ![Apply to each](images/ApplyToEach.png)
 
-The **Apply to each** has too many Condition and Switch steps to explain in details. The key elements are:
+
+The **Apply to each** has too many Condition and Switch steps to explain in detail. The key elements are:
+
 
 - Separate branches for the table related processes, non-table related processes, and draft processes
 - Adding headings to structure the contents
@@ -173,7 +181,9 @@ Examples of the outputs are:
 
 The flow on its own gives significant benefits for documenting and understanding the processes across Dataverse, particularly on a large project.
 
-Taking advantage of further features of DevOps Wikis gives further benefits, particularly by **including DevOps Work Item references to Descriptions** using '#{_Work Item Number_}', such as #12345 to reference Work Item 12345.
+
+Taking advantage of further features of DevOps Wikis gives additional benefits, particularly by **including DevOps Work Item references to Descriptions** using '#{_Work Item Number_}', such as #12345 to reference Work Item 12345.
+
 
 ![Details with DevOps Reference](images/DetailsWithRef.png)
 

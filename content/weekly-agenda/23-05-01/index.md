@@ -1,17 +1,17 @@
 ---
-title: Weekly Agenda - 24th of April 2023 week
-date: 2023-04-21T02:34:54.573Z
+title: Weekly Agenda - 1st of May 2023 week
+date: 2023-04-27T07:03:03.662Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda17.png
+  - images/weeklyagenda18.png
 tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -28,9 +28,9 @@ This is the agenda for the following week:
 
 Demos this time
 
-* Stuart McCarthy (Microsoft)  and Marcus Castro  (Microsoft)  - Why build Power Platform solutions in Microsoft Teams?
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Bring your existing projects to Microsoft Teams Toolkit for Visual Studio Code
-* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 - Microsoft Graph Hackathon winner - Magic Note app to plan the day efficiently with AI & MS Graph
+* Stuart McCarthy (Microsoft)  and Marcus Castro  (Microsoft)  - Why build Power Platform solutions in Teams?
+* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 - Microsoft Graph Hackathon - Winner demo #4
+* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Bring your existing projects to Teams Toolkit for Visual Studio Code
 
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -45,19 +45,19 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos: 
 
-* Kevin Dibb (Chemours) - Creating a group voicemail app for Microsoft Teams for easy voice mail distribution
+* Kevin Dibb (Chemours) - Group voicemail app to ease voice mail distribution
 * [Tobias Fenster](https://twitter.com/tobiasfenster) (4PS Germany) | @tobiasfenster - Task management and Timeboxing within the Microsoft ecosystem, driven by a Power Automate flow
 
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Editing Site Headers in Power Pages](https://www.youtube.com/watch?v=-tv3pMmvgiw) - [Hugo Bernier](https://github.com/bernierh) (Microsoft) | @bernierh 
 * [Microsoft Syntex - Model usage analytics](https://www.youtube.com/watch?v=1viF9kvuQ2g)
 * [Building advance interactive world map for business information with SPFx](https://www.youtube.com/watch?v=MtrXZtjJeRo) by [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
 * [Exposing business data in Microsoft 365 using Azure Data API builder and SPFx](https://www.youtube.com/watch?v=Fyw29llMzf4) by [Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb and [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Deploying the Azure Communications Services Application to Azure](https://www.youtube.com/watch?v=JYs5CPyu2Io) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin and [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * [Quality Assurance with Power Platform Pipelines using Power Apps](https://www.youtube.com/watch?v=IrBr-9UE_5Y) by [Nati Turtledove](https://twitter.com/NatiTurts) | @NatiTurts
+
 
 Syntex video series
 
@@ -69,6 +69,7 @@ Syntex video series
 * [Microsoft Syntex - Apply a model to a document library](https://www.youtube.com/watch?v=rgZ0MMhdktI)
 * [Microsoft Syntex - Unstructured document processing](https://www.youtube.com/watch?v=NyotSarV7XQ)
 
+
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * [University College London student project: Remote Physiotherapy with MIcrosoft Teams UCL Motioninput](https://www.youtube.com/watch?v=TMwtRaCgwp0) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
@@ -77,7 +78,6 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Satellite Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IS1yhTDbBeE)
 * [Main Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=8UzIuHfXD4s)
 * [Power Platform Connections Ep 10 - Vivian Voss](https://www.youtube.com/watch?v=3qc18mvb22c)
 
@@ -87,7 +87,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [New Azure AD app name for Microsoft Graph PowerShell SDK and CLI](https://devblogs.microsoft.com/microsoft365dev/new-azure-ad-app-name-for-microsoft-graph-powershell-sdk-and-cli/) - Carol Mbasinge Kigoonya (Microsoft)
 * [Teams Toolkit for Visual Studio Code Update – April 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-april-2023/) by Junjie Lie (Microsoft)
 * [OData property changes to callRecords change notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-callrecords-change-notifications-in-microsoft-graph/) by Matthew McGrath (Microsoft)
 
@@ -107,9 +106,10 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Viva Connections & SharePoint Framework Community Call – 20th of April, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-04-20/)
 * [Power Platform Community Call – April 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-april-2023/)
 * [Microsoft 365 & Power Platform Community Call - 18th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-18/)
+* [Microsoft 365 & Power Platform Development Community call - 13th of April, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-04-13/)
+* [Microsoft 365 & Power Platform Community Call - 11th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-11/)
 
 ---
 
