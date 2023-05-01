@@ -7,7 +7,7 @@ githubname: LuiseFreese
 categories:
   - Community post
 images:
-  - images/lego-laptop.jpg
+  - images/iron-man-lego.jpg
 tags:
   - Microsoft Teams
 type: popular
