@@ -56,7 +56,7 @@ Also, [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrin
 
 If you did the learning path and now want to build something cool using it, we would love to feature you - in this blog, in the Sample Solution Gallery at [adoption.microsoft.com](https://adoption.microsoft.com) and of course in our [community calls](https://pnp.github.io/#community) - where community shares what they've built.
 
-Want to demo? [Let's get you scheduled!](https://aka.ms/community/request/demo) and we'll get you scheduled!
+Want to demo? [Let's get you scheduled!](https://aka.ms/community/request/demo)
 
 ## Learn more
 
