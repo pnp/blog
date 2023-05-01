@@ -1,7 +1,7 @@
 ---
-title: Teams Toolkit Cloud Skills Challenge
-description: "Join the Teams Toolkit Cloud Skills Challenge, learn how to build apps for Teams and win prizes!"
-date: 2023-04-10T07:30:58.941Z
+title: Teams Toolkit Cloud Skills Challenge - the winners
+description: Announcing the winner of the Teams Toolkit cloud skills challenge hosted by Luise Freese!
+date: 2023-05-01T19:46:41.615Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
@@ -10,58 +10,57 @@ images:
   - images/lego-laptop.jpg
 tags:
   - Microsoft Teams
-
 type: popular
 draft: true
 ---
 
-👋 Hey, fellow developers!
+## We love you 3000! 🤖 
 
-You like to #NeverStopLearning and feel that #SharingIsCaring? Then this here is exactly for you! Today, I have the great honor to announce the Teams Toolkit Cloud Skills challenge, which I host for you.
+On April 10, we announced the [Teams Toolkit Cloud Skill challenge](https://pnp.github.io/blog/post/teams-toolkit-cloudskills-challenge/) - today, we are very happy to announce the 10 winners of either a $100 digital gift card or $100 Azure credits.
 
-It is an amazing opportunity to take your app development skills to the next level!
+We are overwhelmed by the amazing feedback we received from the developer community for both the Teams Toolkit and the learning path.
 
-## Join us!
+## The winners 
 
-- Join us from April 12 to April 26 and participate in the challenge to complete the learn path [aka.ms/LearnTeamsToolkit](https://aka.ms/LearnTeamsToolkit).
+* Bill Brockbank
+* Mervat Mohamed Kamel 
+* Harry Bamber 
+* Valeras Narbutas
+* Sana Graich 
+* Troy Taylor | @troystaylor
+* Rasha Abd ElGalil Othmanm 
+* Dalila Yahia Djoghlal
+* Vishal Gupta
+* Rasha Matwally Gaber
 
-Not only will you enhance your skills to develop apps for Teams, but you will also be eligible to win fab prizes. The following prizes will be awarded: Ten (10) Grand Prize winners. Each winner will receive the choice of either a $100 digital gift card or $100 Azure credits. Approximate Retail Value (ARV) $1000.
+All winners will be formally notified via email. 
 
-By completing the learn path, you will learn how to leverage Teams Toolkit, a Visual Studio Code extension to build apps for Teams, covered by five modules:
+## You missed the challenge?
 
-- [Get started building apps for Microsoft Teams by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/modules/teams-toolkit-vsc-introduction/)
-- [Build a bot by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/modules/teams-toolkit-vsc-create-bot/)
-- [Build a Microsoft Teams tab app by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/modules/teams-toolkit-vsc-tab-app/)
-- [Add chat to a Microsoft Teams app by using the Teams JavaScript client library](https://learn.microsoft.com/training/modules/teams-toolkit-vsc-integrate-chat/)
-- [Deploy a Microsoft Teams app to Azure by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/modules/teams-toolkit-vsc-deploy-apps/)
+Of course you can still learn about how to build apps for Microsoft Teams with Teams Toolkit! It is way easier, faster, and streamlined as you could possibly think of. 
 
-With that, they provide a comprehensive and in-depth experience that covers everything you need to know to get started building apps for Teams.
+Start your journey here: [Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/paths/m365-teams-toolkit-vsc/)
 
-With Teams Toolkit, you can streamline the app development process and make the most of the platform's features, including creating bots that can automate tasks, developing tabs that can display information from external services, and building message extensions that enable users to interact with external services from within Teams.
+Also, we will cover Teams Toolkit at upcoming [#MSBuild conference](https://build.microsoft.com/en-US/sessions?search=Teams+toolkit):
 
-## Contributing
+* [From web services to Teams apps using Teams Toolkit v5.0](https://build.microsoft.com/en-US/sessions/e5152be8-46ae-4b51-8c18-6b01416cb261?source=sessions)
+* [https://build.microsoft.com/en-US/sessions/e5152be8-46ae-4b51-8c18-6b01416cb261?source=sessions](https://build.microsoft.com/en-US/sessions/83150524-082e-48fb-8a3d-025bbefb7b4b?source=sessions)
+* [Learn Live: Build a bot and Teams tab app with Teams Toolkit for Visual Studio Code](https://build.microsoft.com/en-US/sessions/2d0bc66d-0c6b-4afe-956c-77df6988241f?source=sessions)
+* [Copilot + Teams: How to start building intelligent, collaborative apps](https://build.microsoft.com/en-US/sessions/1bf0b282-fd10-49fe-9851-24cbf3ab15cf?source=sessions)
+* [From idea to app in 15 minutes using Teams Toolkit and GitHub Copilot](https://build.microsoft.com/en-US/sessions/17e0391f-9541-4141-a698-99b85bafa540?source=sessions)
+* [Beyond 280 M users: How to bring your Teams app to Outlook and Microsoft 365](https://build.microsoft.com/en-US/sessions/24df6246-0f64-4e44-999c-397834c62103?source=sessions)
 
-What's more, once you completed the challenge, you will have the opportunity to contribute to the community by creating samples and getting featured on [adoption.microsoft.com](https://adoption.microsoft.com/sample-solution-gallery/). This way, you can showcase your skills, help others, and become a recognized member of the community.
+Also, [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder published an entire video series: [Learn how to develop apps for Microsoft Teams](https://pnp.github.io/blog/post/learn-develop-apps-microsoft-teams/) and teaches you step-by-step how to build tabs, bots and more. 
 
-Don't miss this incredible opportunity to enhance your skills and join the Teams Toolkit Cloud Skills Challenge.
+## Want to build something cool with Teams Toolkit?
 
-I can't wait to see what you create! 
+If you did the learning path and now want to build something cool using it, we would love to feature you - in this blog, in the Sample Solution Gallery at [adoption.microsoft.com](https://adoption.microsoft.com) and of course in our [community calls](https://pnp.github.io/#community) - where community shares what they've built.
 
-## How to get started
-
-- Register for the challenge and complete the learn path [aka.ms/LearnTeamsToolkit](https://aka.ms/LearnTeamsToolkit)
-- Post on Twitter or LinkedIn about it using the hashtag #LearnTeamsToolkit
-- Tag me [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
-
-## Registration house-keeping
-
-When you register make sure to check **the official rules** link, and take the survey. This will make you compliant for winning prizes. Once the survey form is filled out, select the check box to agree to the rules and proceed to register by selecting the **Continue** button.
-
-![ a GIF to show how to correctly register for the cloud skills challenge](./images/rules.gif)
+Want to demo? [Let's get you scheduled!](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ## Learn more
 
-- [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
-- [Teams Toolkit on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
+* [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?pivots=visual-studio-code)
+* [Teams Toolkit on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 
 _🧡 sharing is caring_
