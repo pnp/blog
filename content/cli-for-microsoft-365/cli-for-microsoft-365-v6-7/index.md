@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v6.7
-date: 2023-05-02T17:00:00.000Z
+date: 2023-05-02T08:00:00.000Z
 author: Martin Lingstuyl
 githubname: martinlingstuyl
 categories:
@@ -108,10 +108,23 @@ You could already update user information for Azure AD users. We've made managin
 Update multiple properties of a user:
 
 ```sh
-m365 aad user set --userPrincipalName steve@contoso.onmicrosoft.com --firstName John --lastName Doe --jobTitle "Sales Manager" --companyName Contoso --department Sales --officeLocation "New York"
+m365 aad user set --userPrincipalName john@contoso.onmicrosoft.com --firstName John --lastName Doe --jobTitle "Sales Manager" --companyName Contoso --department Sales --officeLocation "New York"
+```
+
+Update a user with a manager:
+
+```sh
+m365 aad user set --userName "john@contoso.onmicrosoft.com" --managerUserName "adele@contoso.com"
 ```
 
 - [aad user set](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-set/)
+
+### Enhanced prompts
+
+When you run a command using the CLI for Microsoft 365, and forget to add a required option, the CLI can prompt you to enter a value for that option. (Tip: To use this feature, you'll need to [set the config key](https://pnp.github.io/cli-microsoft365/cmd/cli/config/config-set/) `prompt` to `true`, as it's `false` by default.) But some commands may have options where at least one is required. For example, the user has to define either a userName or an id, but not both. We've enhanced the prompt feature to include these situations. Here's a gif of how that works in practice:
+
+![cli-prompts](./images/cli-prompts.gif) 
+
 ### And there's more
 
 We've been working tirelessly to enhance our capabilities. How about support for non-public clouds? We've now got it! How about getting extra information when listing flow runs? It's now included.
@@ -123,6 +136,14 @@ Take a look at our release notes below for the full rundown of everything we've 
 ## What's next
 
 Here are some things that we are currently working on.
+
+### 🌶️ CLI assistant
+
+In the previous release, we introduced a chat-based search tool, powered by Mendable, to make it easier to find out how you can achieve your aims using the CLI for Microsoft 365. But we are not stopping there. We're currently in the process of integrating this same chat-based experience to the CLI itself! You will be able to ask your questions to this new CLI assistent without even leaving your terminal! The assistent will search the documentation for you and explain how you can achieve your scenario, it will also list links to the sources where it found what its saying, for a seamless switching to the CLI for Microsoft 365 website in the browser.
+
+![cli-assistent](./images/cli-assistent.gif)
+
+🥁 You'll just need to wait a little bit for this functionality to be released.
 
 ### More commands and enhancements
 
@@ -136,12 +157,14 @@ If you have any ideas or suggestions for new commands, please let us know by cre
 
 This release wouldn't be possible without the help of (in alphabetical order):
 
+- [Adam Wójcik](https://github.com/Adam-it)
 - [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
+- [Nicolas Scamara](https://github.com/nickscamara)
 - [Saurabh K. Tripathi](https://github.com/Saurabh7019)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
