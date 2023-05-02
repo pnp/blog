@@ -29,7 +29,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## View video segments
 
 * Introduction [00:00](https://youtu.be/yvJ8n6GaO2s?t=0)
-* Word Extensibility Update for April 2023  [00:46](https://youtu.be/yvJ8n6GaO2s?t=46)
+* Word Extensibility Update for April 2023 [00:46](https://youtu.be/yvJ8n6GaO2s?t=46)
 * Top 5 AppSource Validation Errors during December 2022 to February 2023 [11:13](https://youtu.be/yvJ8n6GaO2s?t=673)
 * Q&A [20:00](https://youtu.be/yvJ8n6GaO2s?t=1200)
 * Resources [24:37](https://youtu.be/yvJ8n6GaO2s?t=1477)
