@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 1st of May 2023 week
-date: 2023-04-27T07:03:03.662Z
+date: 2023-04-28T07:02:02.662Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -54,6 +54,7 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Kiota SDK generator is now available - What you need to know!](https://www.youtube.com/watch?v=pMCPLWewwyc) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
 * [Have fun with DALL-E generated art in your Microsoft Teams conversations](https://www.youtube.com/watch?v=9uAr7hnciu0) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 * [Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=ynTXOv-qjys) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [SharePoint Framework v1.17 release - what's new and what's available](https://www.youtube.com/watch?v=yUnGKDD3Ylc) by [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
@@ -62,10 +63,9 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Syntex video series
 
+* [Microsoft Syntex - Push custom content types to hub sites](https://www.youtube.com/watch?v=24oDaEfS85w)
 * [Microsoft Syntex - Leverage taxonomy in unstructured document processing models](https://www.youtube.com/watch?v=qVD9Suvu2CE)
 * [Creating contracts management solution in Microsoft 365 with SharePoint Syntex](https://www.youtube.com/watch?v=knt91OekOZg)
-
-
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -93,6 +93,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [https://pnp.github.io/blog/post/learn-develop-apps-microsoft-teams/](https://pnp.github.io/blog/post/learn-develop-apps-microsoft-teams/) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [Microsoft 365 PnP Weekly - Episode 207](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-207/) with [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
 
 ---
@@ -101,6 +102,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 27th of April, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-04-27/)
 * [Microsoft 365 & Power Platform Community Call - 25th of April, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-04-25/)
 * [Viva Connections & SharePoint Framework Community Call – 20th of April, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-04-20/)
 
