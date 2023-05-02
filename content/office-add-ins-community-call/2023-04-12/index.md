@@ -65,7 +65,7 @@ You can use your preferred framework to develop an Excel add-in. To learn more, 
 
 **When will the FileInsertBase64 be released into full production?**
 
-TWe're estimating the FileInsertBase64 method to be released in production in two or three months.
+We're estimating the FileInsertBase64 method to be released in production in the third quarter of this calendar year (July-Sept 2023).
 
 
 
