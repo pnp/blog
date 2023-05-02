@@ -49,7 +49,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Register for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contributor badges.
-* Follow channels in Twitter to see call agendas, important updates, and release announcements.
+* Follow channels on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
