@@ -139,7 +139,7 @@ Here are some things that we are currently working on.
 
 ### 🌶️ CLI assistant
 
-In the previous release, we introduced a chat-based search tool, powered by Mendable, to make it easier to find out how you can achieve your aims using the CLI for Microsoft 365. But we are not stopping there. We're currently in the process of integrating this same chat-based experience to the CLI itself! You will be able to ask your questions to this new CLI assistent without even leaving your terminal! The assistent will search the documentation for you and explain how you can achieve your scenario, it will also list links to the sources where it found what its saying, for a seamless switching to the CLI for Microsoft 365 website in the browser.
+In the previous release, we introduced a chat-based search tool, powered by Mendable, to make it easier to find out how you can achieve your aims using the CLI for Microsoft 365. But we are not stopping there. We're currently in the process of integrating this same chat-based experience into the CLI itself! You will be able to ask your questions to this new CLI assistant without even leaving your terminal! The assistant will search the documentation for you and explain how you can achieve your scenario, it will also list links to the sources where it found what it's saying, for a seamless switch to the CLI for Microsoft 365 website in the browser.
 
 ![cli-assistent](./images/cli-assistent.gif)
 
