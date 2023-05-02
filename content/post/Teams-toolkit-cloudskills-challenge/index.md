@@ -11,7 +11,7 @@ images:
 tags:
   - Microsoft Teams
 
-type: popular
+type: regular
 draft: false
 ---
 
