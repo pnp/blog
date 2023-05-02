@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – April 12th, 2023"
-summary: "This month's community call topics include:  Word Extensibility Update – April 2023 presented by Yun Wang, Principal Product Manager at Microsoft and Top 5 AppSource Validation Errors (December 2022-February 2023) presented by Elizabeth Samuel, Senior Technical Writer at Microsoft. Five questions are formally addressed in this month’s Q&A, other questions addressed in chat throughout call. The call was hosted by Preethika Kiruveedula, Product Manager at Microsoft. Recorded on April 12, 2023.."
+summary: "Topics include:  Word Extensibility Update presented by Yun Wang, Principal Product Manager at Microsoft and Top 5 AppSource Validation Errors presented by Elizabeth Samuel, Senior Technical Writer at Microsoft. Call hosted by Preethika Kiruveedula, Product Manager at Microsoft. Recorded on April 12, 2023."
 date: 2023-04-12T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
