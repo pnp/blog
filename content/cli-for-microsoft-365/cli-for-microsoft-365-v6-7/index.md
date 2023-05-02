@@ -159,12 +159,13 @@ This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
 - [Ganesh Sanap](https://github.com/ganesh-sanap)
+- [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Nicolas Scamara](https://github.com/nickscamara)
+- [Nicolas Camara](https://github.com/nickscamara)
 - [Saurabh K. Tripathi](https://github.com/Saurabh7019)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
