@@ -37,7 +37,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Word Extensibility Updates - April 2023.** Results and insights from 2 surveys. Structured document content usage in Word add-ins. Questions on types of content controls, control events, and types of fields used. New capabilities highlighted - plain text content control API, new fields, and six events in preview. Auto launching add-ins. This survey assessed an understanding of auto launch for add-ins and scenarios where add-ins should be automatically launched and automatically installed. 
+* **Word Extensibility Updates - April 2023.** Results and insights from two surveys. Structured document content usage in Word add-ins. Questions on types of content controls, control events, and types of fields used. New capabilities highlighted: plain text content control API, new fields, and six events in preview. Auto launching add-ins. This survey assessed an understanding of auto launch for add-ins and scenarios where add-ins should be automatically launched and automatically installed. 
 * **Top 5 AppSource Validation Errors December 2022 - February 2023.** The presenter focuses on causes and how to avoid top AppSource validation errors affecting Office Add-ins’ submissions and she highlights supporting AppSource policies. In the last 3 months, top validation errors included: App does not work on Office for Mac, functionality doesn’t work as described, Outlook add-in doesn’t work on Safari, privacy policy unavailable or insufficient, and app provides insufficient value.     
 
 ## Call to action
