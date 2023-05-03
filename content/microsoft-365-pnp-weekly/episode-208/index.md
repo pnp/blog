@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 208"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on a journey with community, contributions aligned to talents, travel, cooking, MVP Summit reflections, plus 19 articles/videos."
-date: 2023-04-24T02:00:01-00:00
+summary: "Paris-based Microsoft Principal Product Manager for Teams Toolkit - David Rousset joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on change at Microsoft, releasing an open-source project - Babylon.js, managing across time zones, work on Teams Toolkit, plus 14 articles/videos."
+date: 2023-05-01T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,63 +9,57 @@ images:
 - images/pnp-weekly-208-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=8dF6_yDiqMY
-draft: true
+- https://www.youtube.com/watch?v=6Lj4qMoZP8c
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
-
-David Rousset
-Principal Product Manager
-Paris, France
-https://twitter.com/davrous
-
-Babylon.js
-https://twitter.com/babylonjs
-David's friend in the Babylon.js side - David Catuhe (Microsoft)
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Paris, France-based Principal Product Manager - [David Rousset](https://twitter.com/davrous) (Microsoft) \| @davrous
 
 ## Topics discussed in this session
 
-* item
-* item
-* item
-* item
-* item
-* item
-* item
+* How did David come to join and graduate up through the ranks at Microsoft?
+* How Microsoft has changed in 23 years.
+* David’s role as Principal Product Manager for Teams Toolkit.
+* Managing teams that span multiple time zones – US, China, Europe
+* The partnership with David Catuhe to create and distribute an open-source project – Babylon,js, now used in many Microsoft products.
+* Open-source – transition from complainers to contributors.
+* Why use the Teams toolkit and what is the call to action?
+* Prep activities for upcoming Microsoft Build conference.
  
 ## Referenced during conversation
 
-* Shoutout to Hugo, David and Stefan Bauer for positively influencing Chandani’s experience with this special PnP community.
-* Recipe for [Panipuri](https://en.wikipedia.org/wiki/Panipuri)
+* Babylon.js - Babylon.js <https://twitter.com/babylonjs>
+* David's friend in the Babylon.js side - [David Catuhe](https://twitter.com/deltakosh) (Microsoft) \|@deltakosh
+* [Teams Live Share SDK](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-live-share-overview)
 
-Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 14 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Waldek** – silence before storm week. Final work and release notes on updates for Microsoft Graph Developer Proxy and CLI for Microsoft 365 to be released next week. Continued planning for the next BIG thing, stay tuned for more updates. Prepping for Microsoft Build and ECS.
-* **Vesa** – quickly - conference prep, conference prep, conference pred. Microsoft 365 Conference next week, then onto ECS (European Collaboration Summit) and Build.
+* **David** – for Microsoft Build (May 23-25, 2023), prepping to GA Microsoft Teams Toolkit, supporting products that leverage Toolkit and presenting a session on Teams Live Share SDK.
+* **Waldek** – just released updated versions of Microsoft Graph Developer Proxy and CLI for Microsoft 365. Continuing planning for the next BIG thing. Prepping presentations and demos for Microsoft Build and ECS.
+* **Vesa** – in Las Vegas at the Microsoft 365 Conference this week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/8dF6_yDiqMY?t=0) – Intro
+[00:00](https://youtu.be/6Lj4qMoZP8c?t=0) – Intro
 
-[07:43](https://youtu.be/8dF6_yDiqMY?t=463) – Interview
+[01:14](https://youtu.be/6Lj4qMoZP8c?t=74) – Interview
 
-[35:00](https://youtu.be/8dF6_yDiqMY?t=2100) – Weekly Articles
+[42:18](https://youtu.be/6Lj4qMoZP8c?t=2538) – Weekly Articles
 
-[52:40](https://youtu.be/8dF6_yDiqMY?t=3160) – Closing
+[56:16](https://youtu.be/6Lj4qMoZP8c?t=3376) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday 24th of April 2023.
+This session was recorded on Friday 28th of April 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 8dF6_yDiqMY >}}
+    {{< youtube 6Lj4qMoZP8c >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-7pw9n-13ef317 >}}
+    {{< podbean pb-w7dk6-13f8aaa >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -76,7 +70,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [What’s new for security in the new Microsoft Teams?](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-for-security-in-the-new-microsoft-teams/ba-p/3804261) - Andrey Belenko (Microsoft)
 * [Introducing cloud.microsoft: a unified domain for Microsoft 365 apps and services](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-cloud-microsoft-a-unified-domain-for-microsoft-365/ba-p/3804961) - Microsoft
 * [Cloud Policy service adds the ability to apply policies to everyone](https://techcommunity.microsoft.com/t5/microsoft-365-blog/cloud-policy-service-adds-the-ability-to-apply-policies-to/ba-p/3799377) - Chris Hopkins (Microsoft)
-* [Microsoft Graph .NET SDK: New organization name for NuGet packages](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-net-sdk-new-organization-name-for-nuget-packages/) - [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsot) | @maisarissi_msft
+* [Microsoft Graph .NET SDK: New organization name for NuGet packages](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-net-sdk-new-organization-name-for-nuget-packages/) - [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 * [Supercharge your Teams app development: New integration for Teams Toolkit & Developer Portal](https://devblogs.microsoft.com/microsoft365dev/supercharge-your-teams-app-development-new-integration-for-teams-toolkit-developer-portal/) - Ji Dong (Microsoft)
 * [Learn how to develop apps for Microsoft Teams](https://pnp.github.io/blog/post/learn-develop-apps-microsoft-teams/) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
 * [New useful managed propertie to use in Microsoft Search](https://www.techmikael.com/2023/04/new-useful-managed-properties-to-use-in.html) - [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @mikaelsvenson
