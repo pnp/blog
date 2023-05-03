@@ -10,7 +10,7 @@ images:
   - images/iron-man-lego.jpg
 tags:
   - Microsoft Teams
-type: popular
+type: regular
 draft: false
 ---
 
