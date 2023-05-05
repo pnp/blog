@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of May 2023 week
-date: 2023-05-03T18:00:54.811Z
+date: 2023-05-05T02:00:54.811Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,8 +10,7 @@ images:
 tags: []
 type: trending
 videos:
-  - https://www.youtube.com/watch?v=WEOeKXcCZvY
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -54,6 +53,8 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [List Formatting - Convert data into graphical information](https://www.youtube.com/watch?v=5wxlN0wlO_g) - [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* [With Great Power (Apps) Comes Great Reusability](https://www.youtube.com/watch?v=vET3pNSyUA8) - [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
 * [Productivity Studio: SPFx accelerators used in Microsoft to speed up SPFx development cycle](https://www.youtube.com/watch?v=aMzfCvYmktM) by Daniel Turley (Avanade)
 * [Build a Teams Meeting app with Live Share SDK - Who's Next sample](https://www.youtube.com/watch?v=anTDluFV-U8) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Contributing to Microsoft Graph .NET SDK for improved batching](https://www.youtube.com/watch?v=E3SkCZS5ii4) by [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
@@ -62,6 +63,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+* [Power Platform Connections Ep 12 - MVP Summit Special](https://www.youtube.com/watch?v=PnR0L0VMhlc)
 * [SAP - What is it? With Holger Bruchelt](https://www.youtube.com/watch?v=k_bi5411Bzk)
 
 ---
@@ -89,6 +91,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 4th of May, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-05-04/)
 * [Microsoft 365 & Power Platform Community Call - 2nd of May, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-05-02/)
 
 ---
