@@ -1,63 +1,73 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 209"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a , plus 19 articles/videos."
+summary: "Belgium-based Microsoft MVP and Microsoft 365 Consultant - Milan Holemans (VanRoey.be) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on development - Power Apps vs SPFx, contributing to PnP community, being a maintainer, plus 19 articles/videos."
 date: 2023-05-08T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-208-promo.png
+- images/pnp-weekly-209-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=6Lj4qMoZP8c
-draft: true
+- https://www.youtube.com/watch?v=6aJUj4JrQqI
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Paris, France-based Principal Product Manager - [David Rousset](https://twitter.com/davrous) (Microsoft) \| @davrous
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium-based Microsoft MVP and Microsoft 365 Consultant - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/) (VanRoey.be)
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* Milan’s work at VanRoey - digitizing and automating processes.
+* Working as a CLI for Microsoft 365 Maintainer.
+* Power Platform usage in general.
+* Power Apps or SPFx? Usage decision criteria.
+* Are you a general Microsoft 365 Developer or product (Teams, SharePoint, Graph…) specialized developer. Why?
+* How did Milan get to be a Microsoft 365 Developer?
+* Why did Milan join the PnP community and lately become a CLI for Microsoft 365 Maintainer?
+* Overcoming the initial challenge of contributing to a PnP Repo, then to many Repos and then what drew you to the CLI for Microsoft 365 Repo? What are your tips to others on contributing in GitHub?
+* Thoughts on the transition from being a user/contributor on outside to maintainer on the inside.
+* Why do you spend time being a maintainer?
+* What recently released Microsoft 365 capability, not including capabilities you learned about at MVP Summit, most interests you?
+* Vesa’s summary on what things were generating the most excitement at the Microsoft 365 Conference in Las Vegas last week.
  
 ## Referenced during conversation
 
-* [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
-* reference
-* reference
+* Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
+* Tool – [Docusaurus](https://docusaurus.io/)
+* Tool – [MkDocs](https://www.mkdocs.org/)
+* Article - [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/) \| [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm and Kristen Womack (Microsoft)
+* Event - European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
+* Article - [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/)
+* Article - [Microsoft outlines plans to refresh SharePoint's UX and add Copilot AI capabilities](https://www.directionsonmicrosoft.com/blog/2023-05-02/microsoft-outlines-plans-refresh-sharepoints-ux-and-add-copilot-ai-capabilities)
 
 Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Milan** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Milan** – working on next release of CLI for Microsoft 365 - v6.8 and on document migration.
+* **Waldek** – last week announced Microsoft Graph Early Adopter recognition program (recognize people who provide product feedback). On Wednesday, May 10, we’re announcing a really cool Dev focused activity that will take place the first 2 weeks of June. Completing presentations to be delivered at European Collaboration Summit in Düsseldorf, Germany later this month.
+* **Vesa** – releasing a new version of SPFx (v.1.17.2) on May 10. Community coordination activities and catching up after being in Las Vegas last week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/6Lj4qMoZP8c?t=0) – Intro
+[00:00](https://youtu.be/6aJUj4JrQqI?t=0) – Intro
 
-[01:14](https://youtu.be/6Lj4qMoZP8c?t=74) – Interview
+[05:45](https://youtu.be/6aJUj4JrQqI?t=345) – Interview
 
-[42:18](https://youtu.be/6Lj4qMoZP8c?t=2538) – Weekly Articles
+[46:25](https://youtu.be/6aJUj4JrQqI?t=2785) – Weekly Articles
 
-[56:16](https://youtu.be/6Lj4qMoZP8c?t=3376) – Closing
+[1:04:36](https://youtu.be/6aJUj4JrQqI?t=3876) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Friday 28th of April 2023.
+This session was recorded on Monday 8th of May 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 6Lj4qMoZP8c >}}
+    {{< youtube 6aJUj4JrQqI >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-w7dk6-13f8aaa >}}
+    {{< podbean pb-9xtah-1402897 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -65,9 +75,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft articles
 
-* [Welcome to the new era of SharePoint and OneDrive in Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/02/welcome-to-the-new-era-of-sharepoint-and-onedrive-in-microsoft-365/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
-* [Microsoft 365 innovations across AI, payments, and collaboration tools help small and medium businesses grow](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/01/microsoft-365-innovations-across-ai-payments-and-collaboration-tools-help-small-and-medium-businesses-grow/) - Brenna Robinson (Microsoft)
-* [The Future of Customer Support: Creativity in Customer Support | An Interview with ChatGPT](https://techcommunity.microsoft.com/t5/microsoft-365-blog/the-future-of-customer-support-creativity-in-customer-support-an/ba-p/3807145)
+* [Welcome to the new era of SharePoint and OneDrive in Microsoft 365](https://www.microsoft.com/microsoft-365/blog/2023/05/02/welcome-to-the-new-era-of-sharepoint-and-onedrive-in-microsoft-365/) - [Jeff Teper](https://twitter.com/jeffteper) (Microsoft) | @jeffteper
+* [Microsoft 365 innovations across AI, payments, and collaboration tools help small and medium businesses grow](https://www.microsoft.com/microsoft-365/blog/2023/05/01/microsoft-365-innovations-across-ai-payments-and-collaboration-tools-help-small-and-medium-businesses-grow/) - Brenna Robinson (Microsoft)
+* [The Future of Customer Support: Creativity in Customer Support | An Interview with ChatGPT](https://techcommunity.microsoft.com/t5/microsoft-365-blog/the-future-of-customer-support-creativity-in-customer-support-an/ba-p/3807145) - Ross Smith (Microsoft)
 * [Microsoft Lists: Easier, Better, Faster, Stronger](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-lists-easier-better-faster-stronger/ba-p/3806075) - Lincoln DeMaris (Microsoft)
 * [New era in content management and security in SharePoint, OneDrive, and Teams](https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-era-in-content-management-and-security-in-sharepoint/ba-p/3806083) - [Sesha Mani](https://twitter.com/SeshaManiS) (Microsoft) | @SeshaManiS
 * [What’s New in Microsoft Teams | April 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2023/ba-p/3809297) - Steven Stein (Microsoft)
@@ -76,7 +86,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/) - Kristen Womack (Microsoft) & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Microsoft Graph Data Connect pricing updates](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-data-connect-pricing-updates/) - Microsoft
 * [Microsoft Graph Developer Proxy v0.7 with extended configuration options and improved simulating throttling](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-7-extended-configuration-options-improved-simulating-throttling/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm & [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
-* [What’s new: Power Apps April 2023 Feature Update](https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-april-2023-feature-update/) - [Clay Wesener](https://twitter.com/ClayBWesener) (Microsoft) | @ClayBWesener
+* [What’s new: Power Apps April 2023 Feature Update](https://powerapps.microsoft.com/blog/whats-new-power-apps-april-2023-feature-update/) - [Clay Wesener](https://twitter.com/ClayBWesener) (Microsoft) | @ClayBWesener
 
 ## Community articles
 
