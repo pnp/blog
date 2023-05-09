@@ -75,7 +75,7 @@ We are excited to announce new community contributor program for all the active 
 ![Unfied Sample Gallery Promo](images/sample-gallery-promo.png)
 
 All of the cool samples for Microsoft 365 and Power Platform are listed in the unified sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples). This is one centralized location to find samples from Microsoft and community.
-x*
+
 > No reason to start from scratch - see what's available and take advantage of the contributions and samples from the community and Microsoft
 
 
