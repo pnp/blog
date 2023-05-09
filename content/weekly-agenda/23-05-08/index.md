@@ -63,6 +63,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+
 * [Power Platform Connections Ep 12 - MVP Summit Special](https://www.youtube.com/watch?v=PnR0L0VMhlc)
 * [SAP - What is it? With Holger Bruchelt](https://www.youtube.com/watch?v=k_bi5411Bzk)
 
