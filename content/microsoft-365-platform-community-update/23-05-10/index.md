@@ -94,29 +94,32 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 ### Community people
 
 * [Abderahman Moujahid](https://github.com/Abderahman88) | Abderahman88
+* Abdul Wahab (Dynamics Technology Systems)
 x* [Abhijeet Jadhav](https://twitter.com/jadhav_jeet) | @jadhav_jeet
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
 x* [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 * [alex MacLachlan](https://github/com/alex-mcla) | alex-mcla
 * [Aman Panjwani](https://twitter.com/aman_p17) | @aman_p17
 * [Anand Ragav](https://twitter.com/anandVragav) (Ericsson) | @anandVragav
-x* [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
+* [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 x* [Andrew Koltyakov](https://twitter.com/andrewkoltyakov) (ARVO Systems) | @Andrewkoltyakov
 * [Angelo Gulisano](https://twitter.com/angelog1908) (Npo Sistemi) | @angelog1908
 x* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 x* [Ariel Kropp](https://github.com/arielkropp) | arielkropp
 * [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
-x* [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
+* [Beau Cameron](https://twitter.com/Beau__Cameron) (Aerie Consulting) | @Beau\_\_Cameron
 x* [Chad Eiserloh](https://github.com/c-eiser13) (hubley) | c-eiser13
-x* [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
-x* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
+* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Christian Nesmark](https://github.com/cnesmark) | cnesmark
 * [Dan Toft](tanddant) (Evobis) | @tanddant
-x* [Daniel Christian](https://twitter.com/dchristian19) | @dchristian19
+* [Daniel Christian](https://twitter.com/dchristian19) | @dchristian19
 x* [Daniel Pastoor](https://github.com/danielpastoor) (Puur ICT) | danielpastoor
 x* [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
+* Daniel Turley (Avanade)
 * [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
 x* [Divya Akula](https://github.com/divya-akula) (Tarento) | divya-akula
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
@@ -131,9 +134,10 @@ x* [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
 * [Ganesh Sanap](https://twitter.com/ganeshsanap20) | @GaneshSanap20
 * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 x* [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
-x* [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
+* [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
 x* [Gretchun Kim](https://github.com/gretchunkim) (Crowell & Moring LLP) | gretchunkim
 x* [Hal Hostetler](https://twitter.com/TVWizard) | https://twitter.com/TVWizard
+* [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
 x* [Hilton Giesenow](https://github.com/HiltonGiesenow) (Experts Inside) | @HiltonGiesenow
 x* [Jake Stanger](https://twitter.com/cakestanger) | @cakestanger
 * [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
@@ -142,12 +146,14 @@ x* [Jake Stanger](https://twitter.com/cakestanger) | @cakestanger
 * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 x* [Josef Benda](https://github.com/SmarterJB) (Smarter Business Solutions GmbH) | SmarterJB
 * [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
-x* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen
+* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen
+* [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
 x* [Keith Craigo](https://twitter.com/KeithCraigo) | @KeithCraigo
+* Kevin Dibb (Chemours)
 x* [Konrad Kolodziejak](https://github.com/wilecoyotegenius) (Capgemini) | wilecoyotegenius
-x* [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
+* [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
 * [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
-x* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
+* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 x* [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
 * [lilealdai](https://github.com/lilealdai) | liledai
 x* [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
@@ -160,8 +166,9 @@ x* [Marijn Somers](https://twitter.com/marijnsomers) | @marijnsomers
 * [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 x* [Martin Loitzl](https://twitter.com/mloitzl) (LiveTiles) | @mloitzl
 x* [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
+* [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard 
 x* [Matt Collins-Jones](https://twitter.com/D365Geek) (Capgemini) | @D365Geek
-x* [Matt Jimison](https://twitter.com/mjimison) (Takeda) |  @mjimison
+* [Matt Jimison](https://twitter.com/mjimison) (Takeda) |  @mjimison
 x* [Michał Dzienisiewicz](https://github.com/Dzieni) | Dzieni
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 x* [Michał Dzienisiewicz](https://github.com/Dzieni) | Dzieni
@@ -174,7 +181,7 @@ x* [msjennywu](https://github.com/msjennywu) | msjennywu
 x* [Mustafa Toroman](https://twitter.com/toromust) | @toromust
 x* [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
 * [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
-x* [Nati Turtledove](https://twitter.com/NatiTurts) | @NatiTurts
+* [Nati Turtledove](https://twitter.com/NatiTurts) | @NatiTurts
 x* [Nello D'Andrea](https://twitter.com/NelloDAndrea) (Die Mobiliar) | @NelloDAndrea
 * [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre
 * [Nicolas](https://github.com/nickscamara) | nickscamara
@@ -194,25 +201,28 @@ x* [reusto](https://github.com/reusto) | reusto
 * [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
 x* [Rishabh Shukla](https://github.com/rishabhshukla12) | rishabhshukla12
 x* [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
-x* [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
-x* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev_srg
-x* [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
+* [Sergej Schwabauer](https://github.com/SPFxAppDev) (Aurum) | SPFxAppDev
+* [Sergei Sergeev](https://twitter.com/sergeev_srg) | @Sergeev_srg
+* [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
 x* [Sharon Weaver](https://www.twitter.com/sharoneweaver) (Smarter Consulting) | @Sharoneweaver
 x* [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me
 x* [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
 * [Sohil Bhalla](https://github.com/sohilbhalla/) | sohilbhalla
 * [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 * [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) | @Stephanbisser
+* [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
 x* [Steve Beaugé](https://github.com/stevebeauge) (Solutions pour SharePoint) | stevebeauge
 x* [Takashi Shinohara](https://github.com/karamem0) (Avanade) | @karamem0
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan_k
 * [Thomas Gölles](https://twitter.com/thomyg) (Solvion) | @Thomyg
-* [Valeras Narbutas](https://twitter.com/ValerasNarbutas) | @ValerasNarbutas
+* [Tobias Fenster](https://twitter.com/tobiasfenster) (4PS Germany) | @tobiasfenster
+* [Todd Klindt](https://twitter.com/toddklindt) | @ToddKlindt
 * [Tomi Tavela](https://twitter.com/tavikukko) (Staffbase) | @tavikukko
+* [Valeras Narbutas](https://twitter.com/ValerasNarbutas) | @ValerasNarbutas
 * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 x* [walcivar](https://github.com/walcivar) | walcivar
 x* [wilmeralcivar](https://github.com/wilmeralcivar) | wilmeralcivar
-x* [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat
+* [Yves Habersaat](https://twitter.com/yhabersaat) | @yhabersaat
 
 ### Companies
 
@@ -254,36 +264,43 @@ Here are the companies, which provided support the community initiative for this
 Here’s the list of Microsoft people who have been closely involved with the Microsoft 365 Platform community work during last month.
 
 x* Adam Li (Microsoft)
+* Ajit Kalele (Microsoft)
 * [Alejandro Lopez](https://twitter.com/soyalejolopez) (Microsoft) | @soyalejolopez
 * [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
+* Alexis Kinzelin (Microsoft)
+* Amit Oberoi (Microsoft)
 x* Andrew Friedman (Microsoft)
 x* Anthony Uitz (Microsoft)
 * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 x* Ashok Obhan (Microsoft)
-x* [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* Avadhesh Dubey (Microsoft)
+* [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 x* [Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora
 * [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 x* [Bill Baer](https://twitter.com/billbaer) (Microsoft) | @billbaer
-x* [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 x* [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 x* Brijesh Bharadwaj (Microsoft)
+* Carol Mbasinge Kigoonya (Microsoft)
 x* Catherine Chuaga (Microsoft)
-x* [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
-x* Chandrika Duggirala
+* [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
+* Chandrika Duggirala
 x* [Chuck Edmonson](https://github.com/chuckedmonson) (Microsoft) | chuckedmonson
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
-x* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-x* [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
+* [Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb
 * [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
 x* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
-x* [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+* [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 x* [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
-x* [Dewain Robinson](https://twitter.com/dewain76) (Microsoft) | @dewain76
+* [Dewain Robinson](https://twitter.com/dewain76) (Microsoft) | @dewain76
 x* [Dian Taylor](https://twitter.com/d365goddess) (RSM US LLP) | @d365goddess
 x* [Eoin O'Brien](https://github.com/eoinobrien) (Microsoft) | eoinobrien
+* Eric Scherlinger (Microsoft)
 * [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-x* [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft)
+* [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft)
 x* [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 x* Gino Buzzelli (Microsoft)
 x* Gloria Sánchez (Microsoft) 
@@ -292,38 +309,42 @@ x* [Jason Johnston](https://twitter.com/JasonJohMSFT) (Microsoft) | @JasonJohMSF
 x* [Jens Haile](https://twitter.com/hailender) (Microsoft) | @hailender
 * [Jethro Seghers](https://github.com/jesegher) (Microsoft) | jesegher
 x* [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
-x* Junjie Lie (Microsoft)
-x* [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
+* Junjie Lie (Microsoft)
+* [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
 x* John Nguyen (Microsoft)
 x* [Jose Barreto](https://twitter.com/josebarreto) (Microsoft) | @josebarreto
 x* Kate Everett (Microsoft)
+* Kelly Bowen-McCombs (Microsoft)
+* Kristen Womack (Microsoft)
 * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 x* [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
 * [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
-x* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
-x* [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
+* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
+* [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 x* [Marco Rocca](https://twitter.com/marco_r_73) (Microsoft) | @marco_r_73
 * [Marcus Vinicius Castro](https://github.com/marcus-castro-sp) (Microsoft) | marcus-castro-sp
-x* [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
+* [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
 x* Masako Kodama (Microsoft)
+* Matthew McGrath (Microsoft)
 x* [Merill Fernando](https://twitter.com/merill) (Microsoft) | @merill
 * [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 x* [Musale Martin](https://twitter.com/m4musale) (Microsoft) | @m4musale
 x* [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny
 * [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
-x* [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
+* [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
 x* Pranathi Tupakula (Microsoft)
 x* [Pranita Padalwar](https://www.linkedin.com/in/pranita-padalwar-46a01120/) (Microsoft)
-x* [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
+* [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 * [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
-x* Rajdeep Chanda (Microsoft)
+* Rajdeep Chanda (Microsoft)
 x* [Rick Kirkham](https://github.com/Rick-Kirkham) (Microsoft) | Rick-Kirkham
-x* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 x* Snigdha Verma (Microsoft)
+* Stuart McCarthy (Microsoft) 
 x* Swapna Ninan (Microsoft)
 x* Tarkan Sevilmis (Microsoft)
-x* [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
-x* [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac
+* [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
+* [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 x* [Wajeed Shaikh](https://github.com/Wajeed-msft) | Wajeed-msft
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm

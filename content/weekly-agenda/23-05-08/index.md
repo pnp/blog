@@ -59,6 +59,8 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Build a Teams Meeting app with Live Share SDK - Who's Next sample](https://www.youtube.com/watch?v=anTDluFV-U8) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Contributing to Microsoft Graph .NET SDK for improved batching](https://www.youtube.com/watch?v=E3SkCZS5ii4) by [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
 * [App Camp - Extend your Azure solution in Microsoft Teams](https://www.youtube.com/watch?v=PpxBTGKxRn8) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+
+
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 
