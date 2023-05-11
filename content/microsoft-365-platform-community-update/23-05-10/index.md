@@ -125,11 +125,8 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [dhiabedoui](https://github.com/dhiabedoui) | dhiabedoui
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
-* [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
-* [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield
-* [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Rencore) | @Erwinvanhunen
-* [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee) | franzinifabio
-* [Franck Cornu](https://twitter.com/FranckCornu) | @FranckCornu
+* [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
+* [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
 * [Ganesh Sanap](https://twitter.com/ganeshsanap20) | @GaneshSanap20
 * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 * [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed
