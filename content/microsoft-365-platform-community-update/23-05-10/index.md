@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 & Power Platform Community (PnP) - April 2023 update
-date: 2023-05-10T04:55:34.255Z
+date: 2023-05-11T02:55:34.255Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
