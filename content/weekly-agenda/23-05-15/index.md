@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 15th of May 2023 week
-date: 2023-05-05T02:00:54.811Z
+date: 2023-05-12T02:00:54.811Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos:
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -27,11 +27,9 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen- Latest on building Microsoft Viva extensibility with SPFx
 * Supriti Bhan (Microsoft) - Introduction to Live Share SDK for Microsoft Teams apps
 * [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @svarukala & Rick Shire (Microsoft) - Building a Microsoft Teams Call queue scheduler solution for customers
-
-
+* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen- Latest on building Microsoft Viva extensibility with SPFx
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -46,7 +44,6 @@ Demos:
 * Aaryan Arora - Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate
 * [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2 - ChatGPT - but with YOUR data in Power Apps
 * [Elaiza Benitez](https://twitter.com/benitezhere) | @benitezhere - Low code tips for fields in Power Pages
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -72,7 +69,7 @@ Demos:
 
 Topic:
 
-* 
+* To be defined
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 
@@ -80,6 +77,7 @@ Topic:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Using Microsoft Graph and Azure Form Recognizer for optimizing productivity](https://www.youtube.com/watch?v=OLKfkeXtlCE) by  Houssem Ayadi and Aziz Gassara 
 * [Latest on the Microsoft Graph Connectors](https://www.youtube.com/watch?v=V2v6-PL4_Vo) by Rajdeep Chanda (Microsoft)
 * [A SharePoint document generator as Microsoft 365 app with SPFxz](https://www.youtube.com/watch?v=P5DolLyE3E8) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Copilot is the coworker you never knew you always needed](https://www.youtube.com/watch?v=QtEyV0p709U) by [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
@@ -88,9 +86,13 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-
 * [David Warner - Power Platform Connections Ep 13](https://www.youtube.com/watch?v=Gn1mP04t1SY)
 * [SAP – Power Platform, SAP and the User Experience](https://www.youtube.com/watch?v=E4xb5wWpdgg)
+
+
+Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
+
+* [Join the Microsoft #TeamsGlobalHack](https://www.youtube.com/shorts/TCjWqcQkj7w)
 
 ---
 
@@ -119,6 +121,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 11th of May, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-05-11/)
 * [Microsoft 365 & Power Platform Community Call - 9th of May, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-05-09/)
 
 ---
@@ -136,7 +139,6 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
 ![together-221201.png](images/community-recognization-program.png)
-
 
 ---
 
