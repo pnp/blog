@@ -43,7 +43,9 @@ Demos this time
 
 Demos: 
 
-* 
+* Aaryan Arora - Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate
+* [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2 - ChatGPT - but with YOUR data in Power Apps
+* [Elaiza Benitez](https://twitter.com/benitezhere) | @benitezhere - Low code tips for fields in Power Pages
 
 
 Also: 📷 Picture Time with community in Together Mode!
