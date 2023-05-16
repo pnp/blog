@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 210"
-summary: "Belgium-based Microsoft MVP and Microsoft 365 Consultant - Milan Holemans (VanRoey.be) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on development - Power Apps vs SPFx, contributing to PnP community, being a maintainer, plus 19 articles/videos."
-date: 2023-05-08T02:00:01-00:00
+summary: "UK-based Cloud Developer Advocate at Microsoft - Garry Trinder joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on the Microsoft Cloud Developer Advocate’s role, Microsoft Teams Global Hack in June, ECS, plus 17 articles/videos."
+date: 2023-05-15T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,59 +9,52 @@ images:
 - images/pnp-weekly-210-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=6aJUj4JrQqI
-draft: true
+- https://www.youtube.com/watch?v=82hh0vUWO5U
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium-based Microsoft MVP and Microsoft 365 Consultant - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/) (VanRoey.be)
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Cloud Developer Advocate at Microsoft - [Garry Trinder](https://twitter.com/garrytrinder)  \| @garrytrinder
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-* Item
+* What is a Cloud Developer Advocate’s role and how do you get to become one?
+* HackTogether: The Microsoft Teams Global Hack – who, what, why, how, when.
+* What’s happening at the European Collaboration Summit 2023, next week?
  
 ## Referenced during conversation
 
-* Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
-* Tool – [Docusaurus](https://docusaurus.io/)
-* Tool – [MkDocs](https://www.mkdocs.org/)
-* Article - [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/) \| [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm and Kristen Womack (Microsoft)
-* Event - European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
-* Article - [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/)
-* Article - [Microsoft outlines plans to refresh SharePoint's UX and add Copilot AI capabilities](https://www.directionsonmicrosoft.com/blog/2023-05-02/microsoft-outlines-plans-refresh-sharepoints-ux-and-add-copilot-ai-capabilities)
+* [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| Register at: aka.ms/hack-together-teams
+* European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
+* [Microsoft Build 2023](https://build.microsoft.com/home) – May 23 – 25 – Seattle/Virtual - [Register](https://register.build.microsoft.com/)
 
-Also, we showcased 19 articles/videos published by Microsoft and the community in the last week.
+Also, we showcased 17 articles/videos published by Microsoft and the community in the last week.
 
 ## This week
 
-* **Milan** – working on next release of CLI for Microsoft 365 - v6.8 and on document migration.
-* **Waldek** – last week announced Microsoft Graph Early Adopter recognition program (recognize people who provide product feedback). On Wednesday, May 10, we’re announcing a really cool Dev focused activity that will take place the first 2 weeks of June. Completing presentations to be delivered at European Collaboration Summit in Düsseldorf, Germany later this month.
-* **Vesa** – releasing a new version of SPFx (v.1.17.2) on May 10. Community coordination activities and catching up after being in Las Vegas last week.
+* **Garry** – prepping for ECS and Hackathon
+* **Waldek** – prepping for ECS and Hackathon
+* **Vesa** – prepping for ECS and Hackathon
 
 ## Agenda items
 
-[00:00](https://youtu.be/6aJUj4JrQqI?t=0) – Intro
+[00:00](https://youtu.be/82hh0vUWO5U?t=0) – Intro
 
-[05:45](https://youtu.be/6aJUj4JrQqI?t=345) – Interview
+[01:06](https://youtu.be/82hh0vUWO5U?t=66) – Interview
 
-[46:25](https://youtu.be/6aJUj4JrQqI?t=2785) – Weekly Articles
+[36:47](https://youtu.be/82hh0vUWO5U?t=2207) – Weekly Articles
 
-[1:04:36](https://youtu.be/6aJUj4JrQqI?t=3876) – Closing
+[49:52](https://youtu.be/82hh0vUWO5U?t=2292) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday 8th of May 2023.
+This session was recorded on Monday 15th of May 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 6aJUj4JrQqI >}}
+    {{< youtube 82hh0vUWO5U >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-9xtah-1402897 >}}
+    {{< podbean pb-gxea7-140c76c >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -73,15 +66,14 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [“Jeff Teper is your Copilot” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/jeff-teper-is-your-copilot-the-intrazone-podcast/ba-p/3815807) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Coordination is the key to spontaneity with these features in Outlook on the web and Teams](https://techcommunity.microsoft.com/t5/microsoft-365-blog/coordination-is-the-key-to-spontaneity-with-these-features-in/ba-p/3814143) - Lars Johnson (Microsoft)
 * [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/) - Mengke Li (Microsoft) & Adriana Wood (Microsoft)
-* [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility]() - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
+* [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-2-for-microsoft-365-extensibility/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
 * [Microsoft Teams apps now available in public preview in the Microsoft 365 iOS app](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-apps-now-available-in-public-preview-in-the-microsoft-365-ios-app/) - Sheena Makker (Microsoft)
 * [Building Go applications with the Microsoft Graph Go SDK, now generally available](https://devblogs.microsoft.com/microsoft365dev/building-go-applications-with-the-microsoft-graph-go-sdk/) - [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 * [David Warner - Power Platform Connections Ep 13](https://www.youtube.com/watch?v=Gn1mP04t1SY) - [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII & [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
-* 
 
 ## Community articles
 
-* [Viva Round The World](https://www.vivaexplorers.com/vivaroundtheworld)
+* [Viva Round The World](https://www.vivaexplorers.com/vivaroundtheworld) - Viva Explorers
 * [TGIWE 01 – News for Web and Microsoft 365 developers](https://n8d.at/tgiwe-01-news-for-web-and-microsoft-365-developers) - [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
 * [SharePoint best practices on PnP Provisioning Templates](https://mmsharepoint.wordpress.com/2023/05/11/sharepoint-best-practices-on-pnp-provisioning-templates/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Size your Power Apps with Height and Width in SharePoint webparts](https://sharepains.com/2023/05/12/size-power-apps-height-webparts/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
