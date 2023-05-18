@@ -10,7 +10,7 @@ tags: ["SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Three demos - Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate, ChatGPT - but with YOUR data in Power Apps, and Low code tips for fields in Power Pages, 8 docs, 3 samples, 3 conversations delivered."
 videos:
-- https://www.youtube.com/watch?v=VmebEiL_kv8
+- https://www.youtube.com/watch?v=WGXzKFn1zkM
 ---
 
 ## Call summary
@@ -62,31 +62,31 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 * **ChatGPT - but with YOUR data in Power Apps** – get better factual information from CharGPT by injecting curated information from an internal datasource. How create that data source? Vecrtorize data by calling OpenAI Embeddings endpoint. See how to call ChatGPT (via a connector) and add context (your data) to the query. ChatGPT goes beyond standard search return with clear recommendations – it’s math! You will understand the math behind the scenes after seeing this demo. Community call conversation [aka.ms/May17-Demo2](https://aka.ms/May17-Demo2)
 * **Low code tips for fields in Power Pages** – tips for using Power Automate to streamline repetitive tasks on Power Pages including formatting the site date and time (create new site setting), making a lookup column appear as a dropdown (Basic Forms), prepopulating a field (Form Metadata), formatting a phone number field using Regex (Form Metadata with validation and message), adding helper text (Form Metadata – Description/Instructions) and more. Community call conversation [aka.ms/May17-Demo3](https://aka.ms/May17-Demo3)
 
-{{< youtube VmebEiL_kv8 >}}
+{{< youtube WGXzKFn1zkM >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/VmebEiL_kv8?t=0) – Intro
+[00:00](https://youtu.be/WGXzKFn1zkM?t=0) – Intro
 
-[01:37](https://youtu.be/VmebEiL_kv8?t=97) – Power Platform News & Learn Updates – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
+[01:37](https://youtu.be/WGXzKFn1zkM?t=97) – Power Platform News & Learn Updates – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
 
-[04:12](https://youtu.be/VmebEiL_kv8?t=252) – Latest Power Apps Samples – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
+[04:12](https://youtu.be/WGXzKFn1zkM?t=252) – Latest Power Apps Samples – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
 
-[05:26](https://youtu.be/VmebEiL_kv8?t=326) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
+[05:26](https://youtu.be/WGXzKFn1zkM?t=326) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[09:27](https://youtu.be/VmebEiL_kv8?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[09:27](https://youtu.be/WGXzKFn1zkM?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[11:34](https://youtu.be/VmebEiL_kv8?t=694) – Together mode picture
+[11:34](https://youtu.be/WGXzKFn1zkM?t=694) – Together mode picture
 
-[12:47](https://youtu.be/VmebEiL_kv8?t=767) – Demo - Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate – Aaryan Arora
+[12:47](https://youtu.be/WGXzKFn1zkM?t=767) – Demo - Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate – Aaryan Arora
 
-[21:20](https://youtu.be/VmebEiL_kv8?t=1280) – Demo - ChatGPT - but with YOUR data in Power Apps – [Robin Rosengrün](https://twitter.com/power_r2) (EnBW) \| @power_r2
+[21:20](https://youtu.be/WGXzKFn1zkM?t=1280) – Demo - ChatGPT - but with YOUR data in Power Apps – [Robin Rosengrün](https://twitter.com/power_r2) (EnBW) \| @power_r2
 
-[35:01](https://youtu.be/VmebEiL_kv8?t=2101) – Demo - Low code tips for fields in Power Pages – Elaiza Benitez
+[35:01](https://youtu.be/WGXzKFn1zkM?t=2101) – Demo - Low code tips for fields in Power Pages – Elaiza Benitez
 
-[56:23](https://youtu.be/VmebEiL_kv8?t=3383) – Resources
+[56:23](https://youtu.be/WGXzKFn1zkM?t=3383) – Resources
 
-[57:17](https://youtu.be/VmebEiL_kv8?t=3437) – Closing
+[57:17](https://youtu.be/WGXzKFn1zkM?t=3437) – Closing
 
 ## Together mode
 
