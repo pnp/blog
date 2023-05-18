@@ -160,7 +160,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 * [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard 
 * [Matt Jimison](https://twitter.com/mjimison) (Takeda) |  @mjimison
-* [Matteo Serpi](https://github.com/srpmtt) | srpmtt
+* [Matteo Serpi](https://github.com/srpmtt) (Avanade) | srpmtt
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
 * [Michał Romiszewski](https://twitter.com/romiszewski) | @romiszewski
 * [Miguel Angel García](https://twitter.com/miangama) | @Miangama
