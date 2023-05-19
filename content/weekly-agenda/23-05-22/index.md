@@ -1,6 +1,6 @@
 ---
-title: Weekly Agenda - 21st of May 2023 week
-date: 2023-05-12T02:00:54.811Z
+title: Weekly Agenda - 22nd of May 2023 week
+date: 2023-05-19T02:00:54.811Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos:
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -54,6 +54,7 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Exploring the depths of undocumented admin REST API through an SPFx solution](https://www.youtube.com/watch?v=zljDrizd6ZM) by [Michaël Maillot](https://twitter.com/@michael_maillot) (onepoint) | @michael_maillot 
 * [Microsoft Learn Independent Publisher Power Platform Connector](https://www.youtube.com/watch?v=r2pv7b9fssw) by [Sean Kelly](https://twitter.com/@SeanKe11y) (HCLTech) |@SeanKe11y
 * [Using dynamic SVGs with List Formatting for SharePoint and Microsoft Lists](https://www.youtube.com/watch?v=2mxoa9gZ-5E) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Application Lifecycle Management (ALM) for Cloud Flows](https://www.youtube.com/watch?v=YOpOaNxeaFI) by Chris Garty (Microsoft) 
@@ -90,13 +91,13 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Microsoft 365 PnP Weekly - Episode 210](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-210/) with [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 
 
-
 ---
 
 ## Last week's community call recordings
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 18th of May, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-05-18/)
 * [Power Platform Community Call – May 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-may-2023/)
 * [Microsoft 365 & Power Platform Community Call - 16th of May, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-05-16/)
 
