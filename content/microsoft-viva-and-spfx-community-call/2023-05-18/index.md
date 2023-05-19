@@ -8,7 +8,7 @@ images:
 - images/recording-18th-may.png
 tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
-summary: "Demos: Introduction to updated SharePoint Starter Kit v3, Creating custom SPFx components for Microsoft Viva Connections for Education, and SPFx framework at Microsoft - Accelerator Domain Models​. Released: SPFx v1.17.2, PnPjs v3.15, CLI v6.8, Viva Connections Toolkit v0.5.2, and 2 conversations."
+summary: "Demos: Introduction to updated SharePoint Starter Kit v3, Creating custom SPFx components for Microsoft Viva Connections for Education, and SPFx framework at Microsoft - Accelerator Domain Models.  Released: SPFx, PnPjs, CLI, Viva Toolkit"
 videos:
 - https://www.youtube.com/watch?v=2K_bwiObELg
 draft: false
