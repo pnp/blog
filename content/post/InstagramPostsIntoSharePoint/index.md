@@ -99,7 +99,7 @@ You must then enter this user token in the **Instagram Basic Display (Independen
 Power Apps to create a gallery and add swiping effect using a slider control and use a button for diplaying the captions 
 [How to build a curved gallery in Power Apps](https://www.m365princess.com/blogs/build-curved-gallery-power-apps/)
 
-![Power Apps](images/InstagramPowerApps.png)
+![Power Apps](images/InstagramPowerApps.gif)
 
 [More details of the apps](https://github.com/pnp/powerapps-samples/tree/main/samples/instagram-basic-display)
 
