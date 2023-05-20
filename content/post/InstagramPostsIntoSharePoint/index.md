@@ -44,52 +44,52 @@ To create the connection to the **Instagram Basic Display (IndependentPublisher)
 
 Step 1
 Go to developers.facebook.com and sign in to your Facebook account. Click on the "My Apps" button on the top right.
-![Step 1](./assets/usertoken-step1.png)
+![Step 1](./images/usertoken-step1.png)
 
 Step 2 
 Click on the "Create App" button.
-![Step 2](./assets/usertoken-step2.png)
+![Step 2](./images/usertoken-step2.png)
 
 Step 3
 Select either "Consumer" or "None" as your application type.
-![Step 3](./assets/usertoken-step3.png)
+![Step 3](./images/usertoken-step3.png)
 
 Step 4
 Give your application a name, enter your contact email, and create your app.
-![Step 4](./assets/usertoken-step4.png)
+![Step 4](./images/usertoken-step4.png)
 
 Step 5
 Re-enter your Facebook account password
-![Step 5](./assets/usertoken-step5.png)
+![Step 5](./images/usertoken-step5.png)
 
 Step 6
 Click on the "Set Up" button in the "Instagram Basic Display" box.
-![Step 6](./assets/usertoken-step6.png)
+![Step 6](./images/usertoken-step6.png)
 
 Step 7
 Click on "Create New App" and click on "Create App" from the pop up to create a new instagram app id.
-![Step 7](./assets/usertoken-step7.png)
+![Step 7](./images/usertoken-step7.png)
 
 Step 8
 Save your changes. In the "User Token Generator" section, click on the "Add or Remove Instagram Testers" button, and follow the instructions.
-![Step 8](./assets/usertoken-step8.png)
+![Step 8](./images/usertoken-step8.png)
 
 Step 9
 Click on the link "apps and websites" link to manage instagram tester invitations and click on accept.
-![Step 9](./assets/usertoken-step9.png)
-![Step 10](./assets/usertoken-step10.png)
+![Step 9](./images/usertoken-step9.png)
+![Step 10](./images/usertoken-step10.png)
 
 Step 11
 Click on "Basic Display", click on "Generate Token" under "User Token Generator" and from the pop up click on "continue as <testername>".
-![Step 11](./assets/usertoken-step11.png)
+![Step 11](./images/usertoken-step11.png)
 
 Step 12
 Click on "Allow" from the pop up to authorise the app to retrieve profile and media information about the instagram user.
-![Step 12](./assets/usertoken-step12.png)
+![Step 12](./images/usertoken-step12.png)
 
 Step 13
 Copy the user token to be used on the webpart.
-![Step 13](./assets/usertoken-step13.png)
+![Step 13](./images/usertoken-step13.png)
 
 You must then enter this user token in the **Instagram Basic Display (IndependentPublisher)**  connector to display the instagram feeds from the user.
 
@@ -122,7 +122,7 @@ Create a list with the following details
 
 ### Power Automate
 
-![power automate flow](assets/GetInstagramMedia.png)
+![power automate flow](images/GetInstagramMedia.png)
 
 The flow runs on a schedule to retrieve the most recent 25 posts to push to a SharePoint list.
 
@@ -133,8 +133,8 @@ Import the solution flow
 * From the toolbar, select **Import**
 * In the **Import package** page, select **Upload** and choose the `.zip` file containing the sample flow.
 * Select **Import**
-* Create the connections for InstagramBasicDisplay (enter the access token) and SharePoint InstagramFeed-fed15 [Connections](./assets/ImportSolution_connectionReference_3.png) 
-* Update list and Site Url environment variables [Site Url](./assets/ImportSolution_SiteUrl_10.png) and [list](./assets/ImportSolution_list_11.png)
+* Create the connections for InstagramBasicDisplay (enter the access token) and SharePoint InstagramFeed-fed15 [Connections](./images/ImportSolution_connectionReference_3.png) 
+* Update list and Site Url environment variables [Site Url](./images/ImportSolution_SiteUrl_10.png) and [list](./images/ImportSolution_list_11.png)
 
 ### View Formatting
 
@@ -155,8 +155,7 @@ However I noticed there are more random CDN(s) Instagram uses. It might be worth
 
 * Format the view and copy and paste the JSON provided.
 
-
-'''json
+```json
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",
   "schema": "https://developer.microsoft.com/json-schemas/sp/view-formatting.schema.json",
@@ -253,7 +252,7 @@ However I noticed there are more random CDN(s) Instagram uses. It might be worth
     ]
   }
 }
-'''
+```
 
 ## Conclusion
 
