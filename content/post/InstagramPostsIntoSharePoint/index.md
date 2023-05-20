@@ -44,52 +44,52 @@ To create the connection to the **Instagram Basic Display (IndependentPublisher)
 
 ### Generate your user access token. 
 
-- Step 1
+- Step 1 :
 Go to developers.facebook.com and sign in to your Facebook account. Click on the "My Apps" button on the top right.
 ![Step 1](./images/usertoken-step1.png)
 
-- Step 2 
+- Step 2 :
 Click on the "Create App" button.
 ![Step 2](./images/usertoken-step2.png)
 
-- Step 3
+- Step 3 :
 Select either "Consumer" or "None" as your application type.
 ![Step 3](./images/usertoken-step3.png)
 
-- Step 4
+- Step 4 :
 Give your application a name, enter your contact email, and create your app.
 ![Step 4](./images/usertoken-step4.png)
 
-- Step 5
+- Step 5 :
 Re-enter your Facebook account password
 ![Step 5](./images/usertoken-step5.png)
 
-- Step 6
+- Step 6 :
 Click on the "Set Up" button in the "Instagram Basic Display" box.
 ![Step 6](./images/usertoken-step6.png)
 
-- Step 7
+- Step 7 :
 Click on "Create New App" and click on "Create App" from the pop up to create a new instagram app id.
 ![Step 7](./images/usertoken-step7.png)
 
-- Step 8
+- Step 8 :
 Save your changes. In the "User Token Generator" section, click on the "Add or Remove Instagram Testers" button, and follow the instructions.
 ![Step 8](./images/usertoken-step8.png)
 
-- Step 9
+- Step 9 :
 Click on the link "apps and websites" link to manage instagram tester invitations and click on accept.
 ![Step 9](./images/usertoken-step9.png)
 ![Step 10](./images/usertoken-step10.png)
 
-- Step 11
+- Step 11 :
 Click on "Basic Display", click on "Generate Token" under "User Token Generator" and from the pop up click on "continue as <testername>".
 ![Step 11](./images/usertoken-step11.png)
 
-- Step 12
+- Step 12 :
 Click on "Allow" from the pop up to authorise the app to retrieve profile and media information about the instagram user.
 ![Step 12](./images/usertoken-step12.png)
 
-- Step 13
+- Step 13 :
 Copy the user token to be used on the webpart.
 ![Step 13](./images/usertoken-step13.png)
 
