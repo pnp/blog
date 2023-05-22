@@ -1,5 +1,5 @@
 ---
-title: "Instagram Basic Display API in Power Platform"
+title: "Display instagram posts into SharePoint using Instagram Basic Display Independent Publisher Connector"
 date: 2023-05-20T18:40:00-00:00
 author: "Reshmee Auckloo"
 githubname: reshmee011
@@ -259,3 +259,12 @@ However I noticed there are more random CDN(s) Instagram uses. It might be worth
 ## Conclusion
 
 The Instagram Basic Display Independent Publisher Connector can be used in Power Apps and Power Automate. With its ability to retrieve public photos, videos and albums from Instagram accounts, you can create engaging and visually appealing applications that will delight your users. To get started with the Instagram Basic Display Independent Publisher Connector, create a connection in Power Automate or Power Apps and start exploring the possibilities.
+
+## References
+
+[SPFx web part by Buse Kara](https://medium.com/arfitect/instagram-feed-in-spfx-web-part-61f76fe1ded4)
+[View formatting by Andre Lage] (https://github.com/pnp/List-Formatting/tree/master/view-samples/chevron-shape-format)
+[Step by Step guide by Tomasz Poszytek](https://poszytek.eu/en/microsoft-en/office-365-en/powerautomate-en/independent-publisher-connector-step-by-step/)
+[Curved Gallery by Luise Freese](https://www.m365princess.com/blogs/build-curved-gallery-power-apps/)
+[Instagram Basic Display Independent Publisher connector](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/InstagramBasicDisplay)
+[Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/)
