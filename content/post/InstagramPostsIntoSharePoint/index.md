@@ -124,19 +124,8 @@ Create a list with the following details
 
 ### Power Automate
 
+Use the "Get Feed with Instagram Basic Display" template to create the scheduled flow to retrieve the most recent 25 posts to push to a SharePoint list with the above fields.
 ![power automate flow](images/GetInstagramMedia.png)
-
-The flow runs on a schedule to retrieve the most recent 25 posts to push to a SharePoint list.
-
-Import the solution flow
-
-* [Download](./images/InstagramFeed.zip) the `.zip` from the `solution` folder
-* Browse to [Power Automate](https://flow.microsoft.com/manage/environments) and select the environment where you wish to import the sample
-* From the toolbar, select **Import**
-* In the **Import package** page, select **Upload** and choose the `.zip` file containing the sample flow.
-* Select **Import**
-* Create the connections for InstagramBasicDisplay (enter the access token) and SharePoint InstagramFeed-fed15 [Connections](./images/ImportSolution_connectionReference_3.png) 
-* Update list and Site Url environment variables [Site Url](./images/ImportSolution_SiteUrl_10.png) and [list](./images/ImportSolution_list_11.png)
 
 ### View Formatting
 
