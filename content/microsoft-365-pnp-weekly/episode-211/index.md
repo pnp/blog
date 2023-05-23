@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 211"
-summary: "Belgium-based consultant - Elio Struyf (Struyf Consulting) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss on dev tool development, work in Google world, opportunities for Partners in Microsoft 365. No articles this episode."
+summary: "Belgium-based consultant - Elio Struyf (Struyf Consulting) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss dev tool development, work in Google world, opportunities for Partners in Microsoft 365 and more. No articles in this episode."
 date: 2023-05-22T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
