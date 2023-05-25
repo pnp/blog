@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda20.png
 tags: []
-type: trending
+type: regular
 videos:
 draft: false
 ---
