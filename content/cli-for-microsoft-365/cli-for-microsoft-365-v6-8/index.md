@@ -160,7 +160,7 @@ To update a lot of items as quick as possible, run:
 m365 spo listitem batch set --filePath "C:\Path\To\Csv\CsvFile.csv" --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List"
 ```
 
-Remove an item from first-stage recycle bin:
+Remove an item from the first-stage recycle bin:
 
 ```sh
 m365 spo site recyclebinitem remove --siteUrl https://contoso.sharepoint.com/sites/sales --ids "06ca4fe4-3048-4b76-bd41-296fed4c9881"
