@@ -215,7 +215,7 @@ m365 spo term list --termGroupName "DMS" --termSetName "Business process" --webU
 To get a list of term sets of a global term group, without being a SharePoint admin, run:
 
 ```sh
-m365 spo term set list --termGroupName "DMS" --webUrl https://contoso.sharepoint.com/sites/project-x
+m365 spo term set list --termGroupName "DMS" --webUrl "https://contoso.sharepoint.com/sites/project-x"
 ```
 
 To get a list of terms of a local (site-specific) term set, run:
