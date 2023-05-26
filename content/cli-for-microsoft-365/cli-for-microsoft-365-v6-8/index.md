@@ -24,7 +24,7 @@ We've published a new minor version of CLI for Microsoft 365.
 
 ### 🌶️ Chili, our AI-based docs assistant
 
-Context-switching is sometimes called one of the big productivity killers. And yet, working with a commandline interface will often make us want to open the project website or search the web in order to find out how something works. We recently added an AI-based search engine to our documentation site to make searching our site better. This AI-assistent is powered by Mendable, a chat-based search tool. In this release we bring the AI-based search engine to the CLI. You can now get answers on specific questions without leaving the terminal.
+Context-switching is sometimes called one of the big productivity killers. And yet, working with a command line interface will often make us want to open the project website or search the web in order to find out how something works. We recently added an AI-based search engine to our documentation site to make searching our site better. This AI assistant is powered by Mendable, a chat-based search tool. In this release, we bring the AI-based search engine to the CLI. You can now get answers to specific questions without leaving the terminal.
 
 Ask chili a question by running:
 
