@@ -96,7 +96,7 @@ m365 pa app consent set --environment '4be50206-9576-4237-8b17-38d8aadfaa36' --n
 
 ### Working with Purview Information Protection
 
-In this release we started implementing some commands for working with sensitivity labels in Microsoft Purview. 
+In this release, we started implementing some commands for working with sensitivity labels in Microsoft Purview. 
 
 To get a list of sensitivity labels, execute:
 
