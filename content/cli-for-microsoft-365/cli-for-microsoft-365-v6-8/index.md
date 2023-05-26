@@ -16,7 +16,7 @@ type: popular
 
 We've published a new minor version of CLI for Microsoft 365. 
 
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool. It helps you manage your Microsoft 365 tenant and SharePoint Framework projects. No matter which operating system or shell you use. This release is again brimming with new features and enhancements. We've added no less than **18 new commands** for managing multiple Microsoft 365. We've also added **40+ enhancements** to existing commands. This is also the release in which we added 🌶️ chili, our AI-based docs assistant and built an entire new site for the CLI for Microsoft 365. Interested? Read on for more details.
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool. It helps you manage your Microsoft 365 tenant and SharePoint Framework projects. No matter which operating system or shell you use. This release is again brimming with new features and enhancements. We've added no less than **18 new commands** for managing multiple Microsoft 365. We've also added **40+ enhancements** to existing commands. This is also the release in which we added 🌶️ chili, our AI-based docs assistant and built an entirely new site for the CLI for Microsoft 365. Interested? Read on for more details.
 
 > Read the [release notes](https://aka.ms/cli-m365/notes) in full for all new features and improvements.
  
