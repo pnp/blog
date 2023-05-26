@@ -74,7 +74,7 @@ m365 app permission add --applicationPermission 'https://graph.microsoft.com/Use
 
 A new command has been added with which you can manage Planner Rosters. Rosters are a new type of container that you can use to manage access to Planner plans without the need for a Microsoft 365 group. You can now list plans that are contained in Microsoft Planner Rosters.
 
-To list all Planner plans contained in a Roster where the current logged in user is member of, run:
+To list all Planner plans contained in a Roster where the currently logged-in user is a member, run:
 
 ```sh
 m365 planner roster plan list
