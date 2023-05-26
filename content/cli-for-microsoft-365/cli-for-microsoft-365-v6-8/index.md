@@ -256,7 +256,7 @@ m365 aad user add --displayName "Adele Vance" --userName "adele.vance@contoso.co
 
 ### 🌍 One more thing: We've launched a new website!!
 
-Updating our website was a thing we wanted to do for quite some time now. We've swapped to using a new static site generator: Docusaurus. It's been a major thing in terms of development time and discussions internally. But if we've done our job well, the changes should be minimal. 🤞 Of course, you may notice some styling changes... 😊some things have shifted slightly. We also temporarily dropped the search bar. (We'll get it back in due time!) But in the meantime we fortunately have our AI-assistent, so you can still search for answers to your questions.
+Updating our website was a thing we wanted to do for quite some time now. We've swapped to using a new static site generator: Docusaurus. It's been a major thing in terms of development time and discussions internally. But if we've done our job well, the changes should be minimal. 🤞 Of course, you may notice some styling changes... 😊some things have shifted slightly. We also temporarily dropped the search bar. (We'll get it back in due time!) But in the meantime, we fortunately have our AI assistant, so you can still search for answers to your questions.
 
 We hope to hear your feedback on this one! Do drop us a comment using one of the available channels!
 
