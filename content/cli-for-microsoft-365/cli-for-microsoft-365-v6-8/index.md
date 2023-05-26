@@ -41,7 +41,7 @@ Or just type `m365?` and hit enter.
  
 ### Setting up the CLI
 
-Some people use the CLI for Microsoft 365 interactively. Other people use it to build scripts that can run automomously. The new `m365 setup` command is a wizard-style command that helps you configure the CLI for Microsoft 365 for your needs. It will ask you a series of questions and based on your answers, it will configure the CLI for Microsoft 365 for you. It also has a few flags to quickly configure the CLI according to some presets based on best practices.
+Some people use the CLI for Microsoft 365 interactively. Other people use it to build scripts that can run autonomously. The new `m365 setup` command is a wizard-style command that helps you configure the CLI for Microsoft 365 for your needs. It will ask you a series of questions and based on your answers, it will configure the CLI for Microsoft 365 for you. It also has a few flags to quickly configure the CLI according to some presets based on best practices.
 
 To configure the CLI using the setup wizard, run:
 
