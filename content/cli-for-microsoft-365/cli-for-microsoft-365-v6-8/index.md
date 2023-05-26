@@ -26,7 +26,7 @@ We've published a new minor version of CLI for Microsoft 365.
 
 Context-switching is sometimes called one of the big productivity killers. And yet, working with a command line interface will often make us want to open the project website or search the web in order to find out how something works. We recently added an AI-based search engine to our documentation site to make searching our site better. This AI assistant is powered by Mendable, a chat-based search tool. In this release, we bring the AI-based search engine to the CLI. You can now get answers to specific questions without leaving the terminal.
 
-Ask chili a question by running:
+Ask Chili a question by running:
 
 ```sh
 m365? "how can I upgrade my SPFx project?"
