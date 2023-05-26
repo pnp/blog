@@ -237,7 +237,7 @@ The following commands were impacted:
 
 ### Updating Azure AD Users
 
-You could already update user information for Azure AD users. In the previous release we added a lot of well-known options, like job title and office location. We've now extended this to any property, even if it's unknown to the CLI for Microsoft 365.
+You could already update user information for Azure AD users. In the previous release, we added a lot of well-known options, like job title and office location. We've now extended this to any property, even if it's unknown to the CLI for Microsoft 365.
 
 To update the employee hire date of a user, run:
 
