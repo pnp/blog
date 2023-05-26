@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 29th of May 2023 week
-date: 2023-05-25T09:36:43.058Z
+date: 2023-05-26T02:36:43.058Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -45,10 +45,13 @@ Demos:
 * [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo - Building a custom Instagram Feed experience with SPFx
 * [Valeras Narbutas](https://twitter.com/ValerasNarbutas) | @ValerasNarbutas- Using reusable IFramePanel control in your SPFx solutions
 
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building a command-line-interface tool designed to answer user queries using Microsoft Graph API](https://www.youtube.com/watch?v=bY_48_0yRu4) by Rohan Ankarigari Boda
 * [Introduction to Microsoft Teams Toolkit v5 - New features and capabilities](https://www.youtube.com/watch?v=j_ixFGdNrRE) by [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
 * [Build a training request solution with Power Platform](https://www.youtube.com/watch?v=_zt_O2_JBDY) by Phiwayinkosi Khanya Dludlu
 * [Power Platform Integrations / Connectors LABs Call - 8th of March, 2023](https://www.youtube.com/watch?v=cOlwOaAbD3s) by [Jocelyn Panchal - Power Platform Connections Ep 14](https://www.youtube.com/watch?v=zFFTeYiKFTw) by [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) | @JocelynP_PM
@@ -105,6 +108,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 * [Microsoft 365 PnP Weekly - Episode 211](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-211/) with [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 
+**Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
+
 ---
 
 ## Last week's community call recordings
@@ -136,11 +141,17 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 * [DYNUG Spring Conference](https://www.communitydays.org/event/2023-05-31/dynug-spring-conference) - May 31, 2023 - Oslo, Norway
+* [Viva Around the World 2023](https://www.communitydays.org/event/2023-06-02/viva-round-the-world-2023) - Virtual
 * [CollabDays Netherlands](https://www.communitydays.org/event/2023-06-10/collabdays-netherlands-2023) - June 10, 2023 - Utrecht, Netherlands
 * [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
+* [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
 * [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
+* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
+* [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom
+* [Dynamics 365 Bootcamp CX Summit](https://www.communitydays.org/event/2023-06-23/dynamics-365-bootcamp-cx-summit) - June 23-24, 2023 - Brussels, Belgium
+* [CollabDays Zagreb](https://www.communitydays.org/event/2023-07-01/collabdays-zagreb) - July 1, 2023 - Zagreb, Croatio
 * [365 EduCon Seattle](https://365educon.com/Seattle/) – August 21-25, 2023 - Seattle, WA, USA
 * [Metaverse One 2023](https://www.communitydays.org/event/2023-09-20/metaverse-one-2023) - September 20, 2023 - Virtual
 * [South Coast Summit 2023](https://www.southcoastsummit.com/) - October 13-14, 2023 - Farnborough, United Kingdom
