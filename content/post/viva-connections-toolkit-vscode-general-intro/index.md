@@ -1,6 +1,6 @@
 ---
 title: "Use Viva Connections Toolkit for VS Code to boost your productivity with SharePoint Framework projects"
-date: 2023-05-20T02:44:24+06:00
+date: 2023-06-08T02:44:24+06:00
 # post thumb
 images:
   - images/main.png
@@ -19,7 +19,7 @@ type: "regular"
 ## TL;DR
 
 >The TL;DR (and only this 😉) was AI generated and it's aim is to provide PnP Weekly team quick context of the artice.
->Emoji count: 
+>Emoji count: 17
 
 This article is about Viva Connections Toolkit which is a Visual Studio Code extension that helps boost productivity in developing and managing SharePoint Framework solutions. It provides a welcome experience to help set up your workspace and offers a step-by-step flow to create new projects. The extension also provides helpful tasks and actions, such as upgrading and validating your solution. You can also connect to your Microsoft 365 tenant and deploy solutions directly to the App Catalog. The extension is made possible by the work of the PnP community and is open to contributions.
 
