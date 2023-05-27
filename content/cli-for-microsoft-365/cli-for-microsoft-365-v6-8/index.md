@@ -151,7 +151,7 @@ m365 spo tenant commandset remove --title "Some command set"
 To update the properties of a ListView Command Set that is deployed tenant-wide, run:
 
 ```sh
-m365 spo tenant commandset  set --id 3  --clientSideComponentProperties '{ "someProperty": "Some value" }'
+m365 spo tenant commandset set --id 3  --clientSideComponentProperties '{ "someProperty": "Some value" }'
 ```
 
 To update a lot of items as quick as possible, run:
