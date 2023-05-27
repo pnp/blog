@@ -16,7 +16,7 @@ type: popular
 
 We've published a new minor version of CLI for Microsoft 365. 
 
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool. It helps you manage your Microsoft 365 tenant and SharePoint Framework projects. No matter which operating system or shell you use. This release is again brimming with new features and enhancements. We've added no less than **18 new commands** for managing multiple Microsoft 365. We've also added **40+ enhancements** to existing commands. This is also the release in which we added 🌶️ chili, our AI-based docs assistant and built an entirely new site for the CLI for Microsoft 365. Interested? Read on for more details.
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool. It helps you manage your Microsoft 365 tenant and SharePoint Framework projects. No matter which operating system or shell you use. This release is again brimming with new features and enhancements. We've added no less than **18 new commands** for managing multiple Microsoft 365 services. We've also added **40+ enhancements** to existing commands. This is also the release in which we added 🌶️ chili, our AI-based docs assistant. Besides that, we built an entirely new documentation site for the CLI for Microsoft 365. Interested? Read on for more details.
 
 > Read the [release notes](https://aka.ms/cli-m365/notes) in full for all new features and improvements.
  
@@ -24,7 +24,7 @@ We've published a new minor version of CLI for Microsoft 365.
 
 ### 🌶️ Chili, our AI-based docs assistant
 
-Context-switching is sometimes called one of the big productivity killers. And yet, working with a command line interface will often make us want to open the project website or search the web in order to find out how something works. We recently added an AI-based search engine to our documentation site to make searching our site better. This AI assistant is powered by Mendable, a chat-based search tool. In this release, we bring the AI-based search engine to the CLI. You can now get answers to specific questions without leaving the terminal.
+Context-switching is sometimes called one of the big productivity killers. And yet, working with a command line interface will often make us want to open the project website or search the web in order to find out how something works. We recently added an AI-based search engine to our documentation site to make searching our site more convenient. This AI assistant is powered by Mendable. In this release, we bring the AI-based search engine to the CLI. You can now get answers to specific questions without leaving your terminal.
 
 Ask Chili a question by running:
 
@@ -34,9 +34,9 @@ m365? "how can I upgrade my SPFx project?"
 
 Or just type `m365?` and hit enter.
 
-![cli-assistent](./images/cli-assistent.gif)
+![cli-assistant](./images/cli-assistant.gif)
 
-- [CLI assistent (chili)](https://pnp.github.io/cli-microsoft365/user-guide/chili/)
+- [CLI assistant (chili)](https://pnp.github.io/cli-microsoft365/user-guide/chili/)
 - [Check out **Mendable**](https://www.mendable.ai/)
  
 ### Setting up the CLI
@@ -204,7 +204,7 @@ m365 teams meeting transcript list --meetingId MSo1N2Y5ZGFjYy03MWJmLTQ3NDMtYjQxM
 
 ### Working with the SharePoint Term Store
 
-We've shipped several enhancements that are very useful when working the SharePoint Term Store. You no longer need to be a SharePoint administrator to manage the term store. If you only have permissions as a term store administrator, you can manage terms, term sets and term groups in the global term store using the CLI for Microsoft 365. Aside from the global term store you can now also manage term stores on site collections. For both scenario's you'll need to use the new `--webUrl` option that's added to every command. The CLI for Microsoft 365 will now connect to the global or local term store, using the site you've specified. 
+We've shipped several enhancements that are very useful when working with the SharePoint Term Store. You no longer need to be a SharePoint administrator to manage the term store. If you only have permissions as a term store administrator, you can manage terms, term sets and term groups in the global term store using the CLI for Microsoft 365. Aside from the global term store, you can now also manage site collection term stores. For both scenarios you'll need to use the new `--webUrl` option that's added to every command. The CLI for Microsoft 365 will now connect to the global or local term store, using the site you've specified. 
 
 To get a list of terms of a global term set, without being a SharePoint admin, run:
 
@@ -237,7 +237,7 @@ The following commands were impacted:
 
 ### Updating Azure AD Users
 
-You could already update user information for Azure AD users. In the previous release, we added a lot of well-known options, like job title and office location. We've now extended this to any property, even if it's unknown to the CLI for Microsoft 365.
+You could already update user information for Azure AD users. In the previous release, we added a lot of well-known options, like 'job title' and 'office location'. We've now extended this to any property, even if it's unknown to the CLI for Microsoft 365.
 
 To update the employee hire date of a user, run:
 

@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SharePoint Framework (SPFx)
-type: popular
+type: regular
 ---
 
 We've published a new minor version of CLI for Microsoft 365. 
@@ -141,7 +141,7 @@ Here are some things that we are currently working on.
 
 In the previous release, we introduced a chat-based search tool, powered by Mendable, to make it easier to find out how you can achieve your aims using the CLI for Microsoft 365. But we are not stopping there. We're currently in the process of integrating this same chat-based experience into the CLI itself! You will be able to ask your questions to this new CLI assistant without even leaving your terminal! The assistant will search the documentation for you and explain how you can achieve your scenario, it will also list links to the sources where it found what it's saying, for a seamless switch to the CLI for Microsoft 365 website in the browser.
 
-![cli-assistent](./images/cli-assistent.gif)
+![cli-assistant](./images/cli-assistant.gif)
 
 🥁 You'll just need to wait a little bit for this functionality to be released.
 
