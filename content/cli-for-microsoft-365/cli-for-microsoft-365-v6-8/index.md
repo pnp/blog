@@ -118,7 +118,7 @@ m365 purview sensitivitylabel policysettings list
 
 - [purview sensitivitylabel list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-list/)
 - [purview sensitivitylabel get](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-get/)
-- [purview sensitivitylabel policysettings list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-policysettings-list//)
+- [purview sensitivitylabel policysettings list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-policysettings-list/)
 
 ### Managing SharePoint
 
