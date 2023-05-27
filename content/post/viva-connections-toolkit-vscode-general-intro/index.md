@@ -45,7 +45,7 @@ Let’s go over creating a new SPFx extension to check it in action 😎.
 
 Who wants to start from scratch if you may kick off a new solution based on an SPFx web part or extension, ACE sample, or ACE scenario? And you may do that without leaving the VS Code 🚀. The extension provides samples galleries that are populated with the awesome work done by the [PnP Community](https://pnp.github.io/) 🤩. You may browse and pick the sample you are interested in and create a new project based on it, all without the need to leave the context of your work and with a single click.
 
-Check out how easy it is to create a new project based on a web part sample.
+Check out how easy it is to create a new project based on a web part sample 👇.
 
 ![create new project based on SPFx web part sample](images/create-base-on-spfx-webpart.gif)
 
@@ -57,17 +57,17 @@ The first one are the same tasks that are provided by Gulp which allow you to cl
 
 ![tasks](images/tasks.png)
 
-What’s even cooler is the actions section. Here among many helpful features, like the possibility to show a scenario or sample gallery described before, some may provide extremely useful, even for someone experienced in SharePoint framework development.
+What’s even cooler is the actions section 🤩. Here among many helpful features, like the possibility to show a scenario or sample gallery described before, some may provide extremely useful, even for someone experienced in SharePoint framework development.
 
 ![actions](images/actions.png)
 
-Upgrade solution action will check your current SharePoint framework project and if it does not use the latest version it will create an upgrade markdown file with guidance on how to modify your solution to upgrade it to the latest version of SPFx
+Upgrade solution action will check your current SharePoint framework project and if it does not use the latest version it will create an upgrade report as markdown file with guidance on how to modify your solution to upgrade it to the latest version of SPFx 👍
 
-<show a upgrade report> 
+![upgrade report](images/upgrade-report.png)
 
-The validate action detects the version of your project and runs checks and reports any issues in a markdown report. All this
+The validate action detects the version of your project and runs checks and reports any issues in a markdown report.
 
-<show a validate report>
+![validate report](images/validate-report.png)
 
 ## 🔌 Connect to your tenant
 
@@ -77,9 +77,9 @@ Probably in the previous chapter you also noticed the deploy solution action, th
 
 Additionally, when an SPFx project is opened the extension will check serve.json file and suggest updating it to set the initialPage property based on the currently logged-in tenant.
 
-## 👉 All the help you need in single place
+## 📚 All the help you need in single place
 
-Last but not least, the extension has a section with additional resources that might be helpful in SPFx development. To name a few we may find links to the [Microsoft Sample Solutions gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/?sortby=creationDateTime-true&keyword=&product=Viva&action=ajax_plugin_call_sample_solution_gallery), [Adaptive Card Designer](https://adaptivecards.io/designer/), [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer), and many documentation resources, and of course to the best community in the world.
+Last but not least, the extension has a section with additional resources that might be helpful in SPFx development. To name a few we may find links to the [Microsoft Sample Solutions gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/?sortby=creationDateTime-true&keyword=&product=Viva&action=ajax_plugin_call_sample_solution_gallery), [Adaptive Card Designer](https://adaptivecards.io/designer/), [Microsoft Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer), and many documentation resources, and of course to the best community in the world 😍.
 
 ![help and feedback](images/help-and-feedback.png)
 
@@ -93,10 +93,18 @@ As it was already pointed out in many parts of this article, this extension woul
 
 ![PnP community](images/parker-pnp.png)
 
-If you would like to participate the community welcomes everybody that wants to build and share feedback around Microsoft 365 & Power Platform. Join one of our [community calls](https://pnp.github.io/#community) to get started and be sure to visit https://aka.ms/community/home.
+If you would like to participate, the community welcomes everybody that wants to build and share feedback around Microsoft 365 & Power Platform. Join one of our [community calls](https://pnp.github.io/#community) to get started and be sure to visit 👉 https://aka.ms/community/home.
 
 ## 🙋 Wanna help out?
 
 Of course, we are open to contributions. If you would like to participate do not hesitate to visit our [GitHub repo](https://github.com/pnp/vscode-viva) and start a discussion or engage in one of many issues we have. Feedback (positive or negative) is also more than welcome.
 
 ## 🔗 Resources
+
+- [Download Viva Connections Toolkig at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
+- [Viva Connections Toolkig GitHub repo](https://github.com/pnp/vscode-viva)
+- [Microsoft 365 & Power Platform Community](https://pnp.github.io/#home)
+- [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
+- [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa)
+- [Overview of Viva Connections Extensibility](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/overview-viva-connections?WT.mc_id=m365-47395-cxa)
+- [Microsoft Learn – Extend Microsoft Viva Connections](https://learn.microsoft.com/en-us/training/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa)
