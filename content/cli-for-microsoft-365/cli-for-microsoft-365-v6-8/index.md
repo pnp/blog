@@ -122,7 +122,7 @@ m365 purview sensitivitylabel policysettings list
 
 ### Managing SharePoint
 
-We've added more commands for working with SharePoint. We've made it easier to manage Application Customizers, ListView Command Sets and items in the recycle bin. You can also update large amounts of list items.
+We've added more commands for working with SharePoint. We've made it easier to manage Application Customizers, ListView Command Sets, and items in the recycle bin. You can also update large amounts of list items.
 
 To remove an Application Customizer from a site, execute:
 
