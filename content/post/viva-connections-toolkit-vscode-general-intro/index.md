@@ -25,21 +25,25 @@ This article is about Viva Connections Toolkit which is a Visual Studio Code ext
 
 ## 🗒️ Quick intro
 
-[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code.
+[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code 🚀.
 
-All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with PnP samples, upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level.
+All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with PnP samples, upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
 ## 🏠 Effortless start - welcome experience
 
-Viva Connections Toolkit gets your back at the very beginning by providing a welcome experience that may be used before you even created your SPFx project! As we all know, everybody needs to set up their own workspace. When working with SharePoint framework you will need a proper Node version and NPM dependencies: Gulp, Yeoman, and [SharePoint generator](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/yeoman-generator-for-spfx-intro). This may seem simple but for someone new to this technology it’s easy to make mistakes, like installing the latest version of Node instead of the required one. Viva Connections Toolkit comes to the rescue by providing a dependencies check action to validate your workspace and if something is missing there is even a dedicated install dependencies action as well. That’s right, it’s as simple as a single button click.
+![welcome experience](images/welcome-experience.png)
 
-Let’s go over creating a new SPFx extension to check it in action.
+Viva Connections Toolkit gets your back at the very beginning by providing a welcome experience that may be used before you even created your SPFx project 🤯! As we all know, everybody needs to set up their own workspace. When working with SharePoint framework you will need a proper Node version and NPM dependencies: Gulp, Yeoman, and [SharePoint generator](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/yeoman-generator-for-spfx-intro). This may seem simple but for someone new to this technology it’s easy to make mistakes, like installing the latest version of Node instead of the required one. Viva Connections Toolkit comes to the rescue 🦸‍♂️ by providing a dependencies check action to validate your workspace and if something is missing there is even a dedicated install dependencies action as well. That’s right, it’s as simple as a single button click.
 
-<new project>
+![dependency check](images/dependency-check.png)
 
 After you set up your workspace it’s start to create a new project. Here the Viva Connection Toolkit provides a guided step-by-step flow using VS Code UI, yep, no need to use the terminal.
 
-Who wants to start from scratch if you may kick off a new solution based on an SPFx web part or extension, ACE sample, or ACE scenario? And you may do that without leaving the VS Code. The extension provides samples galleries that are populated with the awesome work done by the [PnP Community](https://pnp.github.io/). You may browse and pick the sample you are interested in and create a new project based on it, all without the need to leave the context of your work and with a single click.
+Let’s go over creating a new SPFx extension to check it in action 😎.
+
+![create new SPFx extension](images/create-a-new-project.gif)
+
+Who wants to start from scratch if you may kick off a new solution based on an SPFx web part or extension, ACE sample, or ACE scenario? And you may do that without leaving the VS Code 🚀. The extension provides samples galleries that are populated with the awesome work done by the [PnP Community](https://pnp.github.io/) 🤩. You may browse and pick the sample you are interested in and create a new project based on it, all without the need to leave the context of your work and with a single click.
 
 Check out how easy it is to create a new project based on a web part sample.
 
