@@ -154,7 +154,7 @@ To update the properties of a ListView Command Set that is deployed tenant-wide,
 m365 spo tenant commandset set --id 3  --clientSideComponentProperties '{ "someProperty": "Some value" }'
 ```
 
-To update a lot of items as quick as possible, run:
+To update a lot of items as quickly as possible, run:
 
 ```sh
 m365 spo listitem batch set --filePath "C:\Path\To\Csv\CsvFile.csv" --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List"
