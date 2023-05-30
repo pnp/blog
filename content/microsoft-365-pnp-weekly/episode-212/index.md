@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 212"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz to discuss "
-date: 2023-05-22T02:00:01-00:00
+summary: "UK-based Cloud Consultant and Microsoft MVP Leslie Crook (CloudWay) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Viva Explorers, Viva origami, Adakar change framework, approach to change management, plus 22 articles/videos."
+date: 2023-05-29T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,60 +9,62 @@ images:
 - images/pnp-weekly-212-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=3yC5YSpu6ok
-draft: true
+- https://www.youtube.com/watch?v=-8XeHw8IBBY
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by 
-
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Cloud Consultant, Viva Explorer Visionary and Microsoft MVP - [Leslie Crook](https://twitter.com/Lesley_wolan) (CloudWay) \| @Lesley_wolan
 
 ## Topics discussed in this session
 
-* item
-* item
-* item
-* item
-* item
-* item
-* item
-* item
-* item
-* item
+* The Host’s comments on ECS (European Collaboration Summit)
+* The 3 biggest challenges organizations are grappling with today.
+* Thoughts on how to approach change management – consider the Adkar change framework.
+* The Viva Explorers movement – a founding member’s perspective
+* Viva Explorer’s - Viva Round the World - a 24 hour virtual event on June 2nd, with 4 tracks and 80 presentations.
+* What are the top Viva go-dos? Start with Viva origami.
+* Viva does not mean all new equipment, it’s a business level abstraction layer on top of apps.
+* How does one get to be a change and adoption consultant?
  
 ## Referenced during conversation
 
-* European Collaboration Summit 2023 - https://www.collabsummit.eu/
-* Adis Jugo - https://twitter.com/adisjugo
-* Blog post around the Viva origami created by Leslie - [Viva origami. Making the complex, simple.](https://vivavisionary.uk/2022/10/18/viva-origami-making-the-complex-simple/)
-* Adkar Framework - https://www.prosci.com/methodology/adkar
-* [Viva Round The World](https://www.vivaexplorers.com/vivaroundtheworld) - Viva Explorers
+* ECS – European Collaboration Summit 2023 – <https://www.collabsummit.eu/>
+* Leslie’s origami – <https://vivavisionary.uk/2022/10/18/viva-origami-making-the-complex-simple/>
+* Adkar Framework - <https://www.prosci.com/methodology/adkar>
+* Viva Explorers - <https://www.vivaexplorers.com/>
+* Event - [Viva Round The World](https://www.vivaexplorers.com/vivaroundtheworld/) – virtual event – June 2
+* Microsoft Cloud Incentive MCI Workshop
+* Event - [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| aka.ms/hack-together-teams
 
-There was xxx articles or videos covered within this article created by Microsoft and community members.
+There were 22 articles or videos covered within this episode created by Microsoft and community members.
 
 ## This week
 
-* **Waldek** – 
-* **Vesa** – 
-* **Leslie** - 
+* **Leslie** – Microsoft Cloud Incentive Workshop follow up from customer meetings in Las Vegas.
+* **Waldek** – launching a virtual HackTogether on June 1 around building apps for Microsoft Teams.
+* **Vesa** – done with conference season for now. Focusing on Community activities.
+
 
 ## Agenda items
 
-[00:00](https://youtu.be/3yC5YSpu6ok?t=0) – Intro
+[00:00](https://youtu.be/-8XeHw8IBBY?t=0) – Intro
 
-[01:15](https://youtu.be/3yC5YSpu6ok?t=75) – Interview
+[07:40](https://youtu.be/-8XeHw8IBBY?t=460) – Interview
 
-[40:29](https://youtu.be/3yC5YSpu6ok?t=2429) – Closing
+[51:54](https://youtu.be/-8XeHw8IBBY?t=3114) – Articles
+
+[1:10:37](https://youtu.be/-8XeHw8IBBY?t=4237) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Wednesday 17th of May 2023.
+This session was recorded on Friday 26th of May 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 3yC5YSpu6ok >}}
+    {{< youtube -8XeHw8IBBY >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-2uy4b-141643c >}}
+    {{< podbean pb-twiq5-141eddb >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -77,9 +79,9 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Frontline workers using shared Android devices can use Outlook, Edge, Viva Engage, and Power Apps](https://techcommunity.microsoft.com/t5/microsoft-365-blog/frontline-workers-using-shared-android-devices-can-use-outlook/ba-p/3827772) - Christina Wu (Microsoft)
 * [Create and customize your org charts using new capabilities in Visio for the web](https://techcommunity.microsoft.com/t5/microsoft-365-blog/create-and-customize-your-org-charts-using-new-capabilities-in/ba-p/3815442) - Akshay Shahare (Microsoft)
 * [Microsoft Search: Connecting You to Knowledge and Expertise](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-search-connecting-you-to-knowledge-and-expertise/ba-p/3821892) - [Kathrine Hammervold](https://twitter.com/nonstopkat) (Microsoft) | @nonstopkat
-* [Empowering every developer with plugins for Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/23/empowering-every-developer-with-plugins-for-microsoft-365-copilot/) - Rajesh Jha (Microsoft)
+* [Empowering every developer with plugins for Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/blog/2023/05/23/empowering-every-developer-with-plugins-for-microsoft-365-copilot/) - Rajesh Jha (Microsoft)
 * [Build 2023: Building apps that bring together AI and collaboration](https://devblogs.microsoft.com/microsoft365dev/build-2023-building-apps-that-bring-together-ai-and-collaboration/) - Ben Summers (Microsoft)
-* [3 ways collaborative apps like Workday in Microsoft Teams boost engagement and productivity](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/15/3-ways-collaborative-apps-like-workday-in-microsoft-teams-boost-engagement-and-productivity/) - [Srini Raghavan](https://twitter.com/SriniRaghavan) (Microsoft) | @SriniRaghavan
+* [3 ways collaborative apps like Workday in Microsoft Teams boost engagement and productivity](https://www.microsoft.com/microsoft-365/blog/2023/05/15/3-ways-collaborative-apps-like-workday-in-microsoft-teams-boost-engagement-and-productivity/) - [Srini Raghavan](https://twitter.com/SriniRaghavan) (Microsoft) | @SriniRaghavan
 
 ## Videos
 
