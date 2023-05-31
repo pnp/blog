@@ -307,23 +307,14 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users who provide us with feedback. High fives to the following people who took the time to share their feedback and ideas for improvement with us (in alphabetical order):
 
 - [Aadit Ambadkar](https://github.com/Aadit-Ambadkar)
-- [Adam Wójcik](https://github.com/Adam-it)
 - [andrewjymoon](https://github.com/andrewjymoon)
 - [Andrew Connell](https://github.com/andrewconnell)
 - [dojcsakj](https://github.com/dojcsakj)
 - [doronyaary](https://github.com/doronyaary)
-- [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Gustavo Velez](https://github.com/gavdgavd)
-- [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Julie Turner](https://github.com/juliemturner)
-- [Martin Lingstuyl](https://github.com/martinlingstuyl)
-- [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Michael Milton](https://github.com/multimeric)
-- [Milan Holemans](https://github.com/milanholemans)
-- [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Siddharth Vaghasia](https://github.com/siddharth-vaghasia)
-- [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 ## Try it today!
 
