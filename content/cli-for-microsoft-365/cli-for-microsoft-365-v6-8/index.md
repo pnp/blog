@@ -6,7 +6,7 @@ githubname: martinlingstuyl
 categories:
   - CLI for Microsoft 365
 images:
-  - images/blog/cli-for-microsoft365/banner-cli-m365.png
+  - images/banner-cli-m365.png
 tags:
   - CLI for Microsoft 365
   - SharePoint
