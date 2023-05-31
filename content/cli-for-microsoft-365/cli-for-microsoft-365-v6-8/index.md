@@ -118,11 +118,11 @@ m365 purview sensitivitylabel policysettings list
 
 - [purview sensitivitylabel list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-list/)
 - [purview sensitivitylabel get](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-get/)
-- [purview sensitivitylabel policysettings list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-policysettings-list//)
+- [purview sensitivitylabel policysettings list](https://pnp.github.io/cli-microsoft365/cmd/purview/sensitivitylabel/sensitivitylabel-policysettings-list/)
 
 ### Managing SharePoint
 
-We've added more commands for working with SharePoint. We've made it easier to manage Application Customizers, ListView Command Sets and items in the recycle bin. You can also update large amounts of list items.
+We've added more commands for working with SharePoint. We've made it easier to manage Application Customizers, ListView Command Sets, and items in the recycle bin. You can also update large amounts of list items.
 
 To remove an Application Customizer from a site, execute:
 
@@ -151,10 +151,10 @@ m365 spo tenant commandset remove --title "Some command set"
 To update the properties of a ListView Command Set that is deployed tenant-wide, run:
 
 ```sh
-m365 spo tenant commandset  set --id 3  --clientSideComponentProperties '{ "someProperty": "Some value" }'
+m365 spo tenant commandset set --id 3  --clientSideComponentProperties '{ "someProperty": "Some value" }'
 ```
 
-To update a lot of items as quick as possible, run:
+To update a lot of items as quickly as possible, run:
 
 ```sh
 m365 spo listitem batch set --filePath "C:\Path\To\Csv\CsvFile.csv" --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List"
