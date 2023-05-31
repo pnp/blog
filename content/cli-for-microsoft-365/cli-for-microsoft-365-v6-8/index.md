@@ -285,6 +285,8 @@ If you have any ideas or suggestions for new commands, please let us know by cre
 This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
+- [Ashish Patel](https://github.com/Ashish0z)
+- [dojcsakj-openit](https://github.com/dojcsakj-openit)
 - [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
@@ -292,8 +294,10 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Nicolas Camara](https://github.com/nickscamara)
-- [Saurabh K. Tripathi](https://github.com/Saurabh7019)
+- [Rabia Williams](https://github.com/rabwill)
+- [Reshmee Auckloo](https://github.com/reshmee011)
+- [Saurabh Tripathi](https://github.com/Saurabh7019)
+- [Smita Nachan](https://github.com/SmitaNachan)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
@@ -302,10 +306,24 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users who provide us with feedback. High fives to the following people who took the time to share their feedback and ideas for improvement with us (in alphabetical order):
 
-- [Dakota Wray](https://github.com/DakotaWray2)
+- [Aadit Ambadkar](https://github.com/Aadit-Ambadkar)
+- [Adam Wójcik](https://github.com/Adam-it)
+- [andrewjymoon](https://github.com/andrewjymoon)
+- [Andrew Connell](https://github.com/andrewconnell)
+- [dojcsakj](https://github.com/dojcsakj)
 - [doronyaary](https://github.com/doronyaary)
-- [Joshua Probst](https://github.com/joshua-probst)
+- [Ganesh Sanap](https://github.com/ganesh-sanap)
+- [Gustavo Velez](https://github.com/gavdgavd)
+- [Jasey Waegebaert](https://github.com/Jwaegebaert)
+- [Julie Turner](https://github.com/juliemturner)
+- [Martin Lingstuyl](https://github.com/martinlingstuyl)
+- [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
+- [Michael Milton](https://github.com/multimeric)
+- [Milan Holemans](https://github.com/milanholemans)
+- [Nico De Cleyre](https://github.com/nicodecleyre)
+- [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Siddharth Vaghasia](https://github.com/siddharth-vaghasia)
+- [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 ## Try it today!
 
