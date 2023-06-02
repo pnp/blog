@@ -8,13 +8,9 @@ categories:
 images:
   - images/weeklyagenda21.png
 tags: []
-<<<<<<< HEAD
-type: trending
-=======
 type: regular
->>>>>>> 47995bffdfd913766dec51186b7c8098ae0a4a9d
 videos:
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
