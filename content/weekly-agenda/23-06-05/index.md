@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 5th of June 2023 week
-date: 2023-06-01T09:23:13.100Z
+date: 2023-06-02T02:23:13.100Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -28,7 +28,7 @@ This is the agenda for the following week:
 Demos this time
 
 * Marc Windl (Microsoft) - Scenarios and features of Microsoft Syntex Repository Services
-* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband - Introduction to Bot Framework powered Viva Connections cards
+* [Luca Bandinelli](https://github.com/lucaband) (Microsoft) - Introduction to Bot Framework powered Viva Connections cards
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Extend SPFx apps across Microsoft 365 - Contoso Retail
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -52,6 +52,7 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [The Canary in the coalmine or how to keep an eye on the SharePoint Search updates](https://www.youtube.com/watch?v=WWh6qF4UlJU) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) | @kasperbolarsen  
 * [Bring your existing projects to Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=xp8Mev6l3Qg) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Customizing your Viva Connections dashboard with partner offerings in AppSource](https://www.youtube.com/watch?v=8wvJRtt-Sdk) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Why build Power Platform Solutions in Microsoft Teams?](https://www.youtube.com/watch?v=AtW0kW-rzhU) by Stuart McCarthy (Microsoft) and Marcus Castro (Microsoft) 
@@ -67,6 +68,7 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
+* [Build conversational Teams apps with the AI library](https://www.youtube.com/watch?v=HWTTm58jg9A)
 * [Join the Microsoft #HackTogether #TeamsGlobalHack](https://www.youtube.com/shorts/j3BvIetfSkM)
 * [Join the Microsoft #TeamsGlobalHack](https://www.youtube.com/shorts/TCjWqcQkj7w)
 
@@ -76,6 +78,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Build your own app’s copilot on Microsoft Teams with the new Teams AI Library](https://devblogs.microsoft.com/microsoft365dev/build-your-own-apps-copilot-on-microsoft-teams-with-the-new-teams-ai-library/) by [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver, Joey Glocke (Microsoft) & [Ankit Govil](https://twitter.com/ankitgovil) (Microsoft) | @ankitgovil
+* [Announcing SharePoint Framework 1.17.3 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-3-for-microsoft-365-extensibility/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Microsoft Viva Connections solutions are now available in the Microsoft AppSource](https://devblogs.microsoft.com/microsoft365dev/viva-connections-solutions-are-now-available-in-the-microsoft-appsource/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Microsoft Graph Developer Proxy v0.8 with minimal permissions detection and improved simulating throttling](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-8-with-minimal-permissions-detection-and-improved-simulating-throttling/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Introducing Syntex repository services: Microsoft 365 superpowers for your app](https://devblogs.microsoft.com/microsoft365dev/introducing-syntex-repository-services-microsoft-365-superpowers-for-your-app/) by [Zach Rosenfield](https://twitter.com/Zrosenfield) (Microsoft) | @Zrosenfield
@@ -98,9 +102,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Viva Connections & SharePoint Framework Community Call – 1st of June, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-06-01/)
 * [Microsoft 365 & Power Platform Community Call - 30th of May, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-05-30/)
 * [Microsoft 365 & Power Platform Development Community call - 25th of May, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-05-25/)
-
 
 ---
 
