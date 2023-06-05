@@ -292,7 +292,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 * x[Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb
 * x[David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
-* x[ddematheu2](https://github.com/ddematheu2) | ddematheu2
+* [ddematheu2](https://github.com/ddematheu2) | ddematheu2
 * [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
