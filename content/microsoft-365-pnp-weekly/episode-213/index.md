@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 213"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Viva Explorers, Viva origami, Adakar change framework, approach to change management, plus xx articles/videos."
-date: 2023-06-06T02:00:01-00:00
+summary: "Portugal-based Developer, Architect, and Microsoft MVP - Rodrigo Pinto (Storm Technology Ltd) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on building cloud ready solutions for on-prem, on becoming an MVP, friendships beyond tech, plus 22 articles/videos."
+date: 2023-06-05T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,56 +9,57 @@ images:
 - images/pnp-weekly-213-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=-8XeHw8IBBY
-draft: true
+- https://www.youtube.com/watch?v=fMnzVDOINEU
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Cloud Consultant, Viva Explorer Visionary and Microsoft MVP - [Leslie Crook](https://twitter.com/Lesley_wolan) (CloudWay) \| @Lesley_wolan
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
 
 ## Topics discussed in this session
 
-* Item topic
-* Item topic
-* Item topic
-* Item topic
-* Item topic
-* Item topic
-* Item topic
+* The necessity of working in a creative space and favorite Marvel character!
+* Types of projects presently engaged.
+* Routes customers are taking as they migrate from on-prem to cloud.
+* Tips for building cloud ready solutions for on-prem.
+* Rodrigo’s MVP happy place and how he became part of the community.
+* Friendships that extend beyond tech.
+* Impressions on ECS.
+* Living “Sharing is Caring.”
+* Tips on how to get involved in the community.
  
 ## Referenced during conversation
 
 * ECS – European Collaboration Summit 2023 – <https://www.collabsummit.eu/>
 * Event - [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| aka.ms/hack-together-teams
 
-There were xx articles or videos covered within this episode created by Microsoft and community members.
+There were 22 articles or videos covered within this episode created by Microsoft and community members.
 
 ## This week
 
-* **Rodrigo** – 
-* **Waldek** – 
-* **Vesa** – 
-
+* **Rodrigo** - [Collabdays Netherlands](https://www.collabdays.org/2023-nl/) (Amsterdam) next week (Tips and tips on PnP PowerShell) , and [Colllabdays Central Europe](https://www.collabdays.org/2023-ce/) (Zürich) (Manage Azure Runbooks) the following week.
+* **Waldek** – focused on [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) - June 1 – 15th, organizing speakers to present on building apps for Teams with SPFx, AI, bots, etc.
+* **Vesa** – community calls, prepping for a week off next week.
 
 ## Agenda items
 
-[00:00](https://youtu.be/-8XeHw8IBBY?t=0) – Intro
+[00:00](https://youtu.be/fMnzVDOINEU?t=0) – Intro
 
-[07:40](https://youtu.be/-8XeHw8IBBY?t=460) – Interview
+[01:28](https://youtu.be/fMnzVDOINEU?t=88) – Interview
 
-[51:54](https://youtu.be/-8XeHw8IBBY?t=3114) – Articles
+[39:05](https://youtu.be/fMnzVDOINEU?t=2345) – Articles
 
-[1:10:37](https://youtu.be/-8XeHw8IBBY?t=4237) – Closing
+[52:38](https://youtu.be/fMnzVDOINEU?t=3158) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Friday 26th of May 2023.
+This session was recorded on Monday 5th of June 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube -8XeHw8IBBY >}}
+    {{< youtube fMnzVDOINEU >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-twiq5-141eddb >}}
+    {{< podbean pb-ptcmt-1428749 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -75,7 +76,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Microsoft Viva Connections solutions are now available in the Microsoft AppSource](https://devblogs.microsoft.com/microsoft365dev/viva-connections-solutions-are-now-available-in-the-microsoft-appsource/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
 * [Announcing SharePoint Framework 1.17.3 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-3-for-microsoft-365-extensibility/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
 * [Build your own app’s copilot on Microsoft Teams with the new Teams AI Library](https://devblogs.microsoft.com/microsoft365dev/build-your-own-apps-copilot-on-microsoft-teams-with-the-new-teams-ai-library/) - [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver, Joey Glocke (Microsoft) & [Ankit Govil](https://twitter.com/ankitgovil) (Microsoft) | @ankitgovil
-* [Teams AI library](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview?referrer=whats.new.rssfeed) - Microsoft
+* [Teams AI library](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview?referrer=whats.new.rssfeed) - Microsoft
 * [Deprecation of sha1Hash on OneDrive Personal](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-sha1hash-on-onedrive-personal/) - Microsoft
 
 ## Videos
