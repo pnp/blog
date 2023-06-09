@@ -1,0 +1,68 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.4",
+    "actions": [
+        {
+            "type": "Action.Submit",
+            "title": "Send",
+            "style": "positive"
+        }
+    ],
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "Recipient Email",
+            "wrap": true,
+            "weight": "Bolder"
+        },
+        {
+            "type": "Input.Text",
+            "placeholder": "name@website.com",
+            "id": "RecEmail",
+            "isRequired": true,
+            "style": "Email",
+            "regex": "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$",
+            "errorMessage": "Please enter a correct email address"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Subject",
+            "wrap": true,
+            "weight": "Bolder"
+        },
+        {
+            "type": "Input.Text",
+            "placeholder": "Email Subject",
+            "id": "Subject",
+            "isRequired": true
+        },
+        {
+            "type": "TextBlock",
+            "text": "Body",
+            "wrap": true,
+            "id": "bodyHeader"
+        },
+        {
+            "type": "Input.Text",
+            "placeholder": "Email Body",
+            "isRequired": true,
+            "id": "EmailBody",
+            "isMultiline": true,
+            "value": "Hi, "
+        },
+        {
+            "type": "TextBlock",
+            "text": "Attachments to Send",
+            "wrap": true,
+            "weight": "Bolder",
+            "separator": true
+        },
+        {
+            "type": "Container",
+            "items": [
+               @{variables('varAttachmentNames')}
+            ]
+        }
+    ]
+}

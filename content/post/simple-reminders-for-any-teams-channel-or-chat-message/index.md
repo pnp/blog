@@ -586,7 +586,6 @@ The adaptive card that reports the error if a user enters a date that is
 greater than 28 days:
  
  
-
 ```json
 {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
