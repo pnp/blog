@@ -43,7 +43,7 @@ NOTE: I'd love to develop a way to open up a new email tab with Outlook for the 
 
 2. They are then then asked to **\"Run Flow\"** 
 
-3. An Adaptive Card is sent to them via the Microsoft Teams Flow Bot where the user can input the **Receipient Email** (with Regex Validation), **Subject**, **Body** and a Dynamic Picklist of all the other files in the chosen folder. 😃 
+3. An Adaptive Card is sent to them via the Microsoft Teams Flow Bot where the user can input the **Recipient Email** (with Regex Validation), **Subject**, **Body** and a Dynamic Picklist of all the other files in the chosen folder. 😃 
 
 4. Once the user clicks **\"Send\"** the flow will verify that they actually selected any attachments and if so, send the email with the selected attachments via email from the user's mailbox.
 
@@ -65,7 +65,7 @@ NOTE: I'd love to develop a way to open up a new email tab with Outlook for the 
         "Library": "<Document Library>"
     }
 
-We can retreive these in our various actions just by referencing **variables('varSiteLibrary')['Site']** or **variables('varSiteLibrary')['Site']**
+We can retrieve these in our various actions just by referencing **variables('varSiteLibrary')['Site']** or **variables('varSiteLibrary')['Site']**
 
 ## Get parent the folder's path
  ![Set varFolderPath](images/Get_File_Properties_-_Folder.png)
@@ -249,7 +249,7 @@ So, to join these two together we Append each of these to the **AttachmentsArray
 ## Send an email
 We can now use the data we've gathered above to compose and send an email.
 
-An important point to mention is that to add the AttchmentsArray we need to select the **\"Switch to input entire array\"** toggle so that we can insert the combined Name and Content that we put together in **AttachmentsArray**
+An important point to mention is that to add the AttachmentsArray we need to select the **\"Switch to input entire array\"** toggle so that we can insert the combined Name and Content that we put together in **AttachmentsArray**
 ![Send an Email](images/Send_An_Email.png)
 
  
