@@ -74,9 +74,6 @@ Our blog was recently refactored to no longer post the powerpoint deck from the 
 
 It is not currently possible to develop a taskpane and content add-in in one add-in project. If you would like to submit a feature request with more information about your specific scenario go here [m365dev-suggestions](https://aka.ms/m365dev-suggestions).
 
-
-
-
 ## Resources related to to this blog's content
 
 * Feedback Repo: [Issues – OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues)
