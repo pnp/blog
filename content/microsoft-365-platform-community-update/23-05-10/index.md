@@ -311,7 +311,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Wajeed Shaikh](https://github.com/Wajeed-msft) | Wajeed-msft
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
+* c
 * [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 * [Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
 
