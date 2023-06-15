@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 12th of June 2023 week
-date: 2023-06-08T09:22:49.607Z
+date: 2023-06-09T02:22:49.607Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,11 +10,11 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
+
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 This is the agenda for the following week:
@@ -27,9 +27,9 @@ This is the agenda for the following week:
 
 Demos this time
 
-* Marc Windl (Microsoft) - How Microsoft Syntex Repository Services powers Microsoft Loop
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Exposing Microsoft Teams apps in Microsoft Viva with SPFx cards
 * Lan Li (Microsoft)  & Kishor Subedi (Miocrosoft) - Introduction to Power Automate Copilot
+* Marc Windl (Microsoft) - How Microsoft Syntex Repository Services powers Microsoft Loop
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -52,11 +52,12 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [SharePoint announcements: Interview with Adam Harmetz (May 2, 2023)](https://www.youtube.com/watch?v=HHrrflKlmVI) by [Adam Harmetz](https://twitter.com/adamharmetz) (Microsoft) | @adamharmetz  & [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
+* [How to automate the process to convert the rows of excel sheets into the rows of Dataverse](https://www.youtube.com/watch?v=RQqoufIKvks) by Abdul Wahab (Dynamics Technology Systems) 
 * [Building Conversation search experience for Microsoft Teams with SPFx](https://www.youtube.com/watch?v=3GRGQp4H6q8) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me and [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
 * [Power Platform Solutions in Microsoft Teams – Example scenario deep dive](https://www.youtube.com/watch?v=CZf8fJEu1tQ) by [Marcus Vinicius Castro](https://github.com/marcus-castro-sp) (Microsoft) | marcus-castro-sp
 * [Latest on using SharePoint Framework for Microsoft Teams extensibility](https://www.youtube.com/watch?v=qgi1TR16VBc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [Building a Magic Note app to plan the day efficiently with AI & Microsoft Graph](https://www.youtube.com/watch?v=K3aIDaQel20&t=1s) by [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
-
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
@@ -94,6 +95,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
+* [Microsoft 365 & Power Platform Development Community call - 8th of June, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-06-08/)
 * [Microsoft 365 & Power Platform Community Call - 6th of June, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-06-06/)
 
 ---
