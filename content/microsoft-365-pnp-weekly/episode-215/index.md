@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 215"
 summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on career growth, community connections, open-source contributions, staying up to date on technology and more."
-date: 2023-06-12T02:00:01-00:00
+date: 2023-06-20T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=RNLLJt9hLp8
-draft: false
+draft: true
 ---
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by India-based Microsoft 365 Consultant and MVP - [Smita Nachan](https://twitter.com/SmitaNachan) \| @SmitaNachan
@@ -49,7 +49,7 @@ There were xx articles or videos covered within this episode created by Microsof
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Thursday 8th of June and released on 13th of June, 2023.
+This session was recorded on Monday 19th of June and released on 20th of June, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube RNLLJt9hLp8 >}}
@@ -60,41 +60,34 @@ These videos and podcasts are published each week and are intended to be roughly
 
 ## Microsoft articles
 
-* 
-* --
-* [What’s New in Microsoft Teams | May 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2023/ba-p/3835500) - Steven Stein (Microsoft)
-* [Intelligent meeting recap in Teams Premium, now available](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/intelligent-meeting-recap-in-teams-premium-now-available/ba-p/3832541) - Meera Ajam (Microsoft)
-* [The Total Economic Impact of Microsoft Teams as a Platform](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-total-economic-impact-of-microsoft-teams-as-a-platform/ba-p/3838181) - David Walsh (Microsoft)
-* [SharePoint roadmap pitstop: May 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2023/ba-p/3834875) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [AMA for SharePoint, OneDrive, Lists, and Stream | June 14th 10am PT](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/ama-for-sharepoint-onedrive-lists-and-stream-june-14th-10am-pt/ba-p/3834646) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Microsoft 365 Admin Monthly Digest – May 2023](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-admin-monthly-digest-may-2023/ba-p/3832079) - Gabe Ho (Microsoft)
-* [Introducing Syntex repository services: Microsoft 365 superpowers for your app](https://devblogs.microsoft.com/microsoft365dev/introducing-syntex-repository-services-microsoft-365-superpowers-for-your-app/) - [Zach Rosenfield](https://twitter.com/Zrosenfield) (Microsoft) | @Zrosenfield
-* [Microsoft Graph Developer Proxy v0.8 with minimal permissions detection and improved simulating throttling](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-8-with-minimal-permissions-detection-and-improved-simulating-throttling/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm & [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder
-* [Microsoft Viva Connections solutions are now available in the Microsoft AppSource](https://devblogs.microsoft.com/microsoft365dev/viva-connections-solutions-are-now-available-in-the-microsoft-appsource/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
-* [Announcing SharePoint Framework 1.17.3 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-3-for-microsoft-365-extensibility/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @VesaJuvonen
-* [Build your own app’s copilot on Microsoft Teams with the new Teams AI Library](https://devblogs.microsoft.com/microsoft365dev/build-your-own-apps-copilot-on-microsoft-teams-with-the-new-teams-ai-library/) - [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver, Joey Glocke (Microsoft) & [Ankit Govil](https://twitter.com/ankitgovil) (Microsoft) | @ankitgovil
-* [Teams AI library](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview?referrer=whats.new.rssfeed) - Microsoft
-* [Deprecation of sha1Hash on OneDrive Personal](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-sha1hash-on-onedrive-personal/) - Microsoft
+* [Now in public preview: Collaborative notes in Microsoft Teams Meetings](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/now-in-public-preview-collaborative-notes-in-microsoft-teams/ba-p/3848533) - Alexis Johnston (Microsoft)
+* [How ISVs are driving customer retention by enabling unique experiences in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-isvs-are-driving-customer-retention-by-enabling-unique/ba-p/3842419) - Evan Westenberger (Microsoft)
+* [What’s New for Microsoft Teams Rooms and Teams Meetings at InfoComm 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-for-microsoft-teams-rooms-and-teams-meetings-at/ba-p/3843949) - Matt Taylor (Microsoft)
+* [Microsoft Viva Pulse available for public preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-pulse-available-for-public-preview/ba-p/3838338) - Tranissa Creme (Microsoft)
+* [“The SharePoint experience” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/the-sharepoint-experience-the-intrazone-podcast/ba-p/3848507) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
+* [Deploying Microsoft Viva Connections internally at Microsoft](https://www.microsoft.com/insidetrack/blog/deploying-microsoft-viva-connections-internally-at-microsoft/) - Keith Boyd (Microsoft)
+* [24 New Verified, 29 New Independent Publisher and 37 Updated Connectors available](https://powerautomate.microsoft.com/en-us/blog/24-new-verified-29-new-independent-publisher-and-37-updated-connectors-available/) - Amjed Ayoub (Microsoft)
+* [Run Your Enterprise on Power Platform with New Enterprise Application Templates](https://powerapps.microsoft.com/en-us/blog/run-your-enterprise-on-power-platform-with-new-enterprise-application-templates/) - [Ryan Cunningham](https://twitter.com/rc_says) (Microsoft) | @rc_says
+* [Announcing General Availability for Power Platform Customer-managed key (CMK)](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/) - Paul Liew (Microsoft)
+* [Fluid Framework 2.0 Alpha is now available](https://devblogs.microsoft.com/microsoft365dev/fluid-framework-2-0-alpha-is-now-available/) - Kashif Qureshi (Microsoft) & Nick Simons (Microsoft)
+* [What’s new for Office Add-ins: Announcements from Build 2023](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-announcements-from-build-2023/) - Microsoft
+* [Announcing Microsoft Graph Toolkit v3.0 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-graph-toolkit-v3-0-release-candidate/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
 
 ## Videos
 
-* - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
-* --
-* [Lewis Baybutt | Power Platform Connections Ep 15](https://www.youtube.com/watch?v=BOwTYzfxZvo) - [Lewis Baybutt](https://twitter.com/lowcodelewis) (ANS Group) | , [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII & [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
-* [Episode #250 - Microsoft Teams Toolkit v5.0 from Zero to Hero: Part 1](https://www.youtube.com/watch?v=fhny_U4PUYU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+* [Get A First Look At Power Automate Copilot!](https://www.youtube.com/watch?v=uKNL1y_9R9o) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+* [Say Goodbye to Emails: Simplify TPS Reports with Teams Adaptive Cards](https://www.youtube.com/watch?v=_O08-bbBVy4) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
+* [🤖 How to use AI in Power Apps aka Copilot](https://www.youtube.com/watch?v=qvQhMScIxuk) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @delucagiulian
+* [Episode #251 - Microsoft Teams Toolkit v5.0 from Zero to Hero: Part 2](https://www.youtube.com/watch?v=nP95bYEO4mE) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 
 ## Community articles
 
-* []
-* --
-* [CLI for Microsoft 365 v6.8](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-8/) -  [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
-* [Viva Connections Toolkit for Visual Studio Code](https://github.com/pnp/vscode-viva/releases/tag/v1.0.0) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-* [Deleting File Versions to reduce the SharePoint Storage Consumption](https://ms365thinking.blogspot.com/2023/05/deleting-file-versions-to-reduce.html) - [Kasper Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) | @kasperbolarsen
-* [Weekly Update 5 May 2023 – Viva Connections in AppSource, Teams AI Library, Graph Dev Proxy v0.8, ACS Windows SDK](https://blog.thoughtstuff.co.uk/2023/06/weekly-update-5-may-2023-viva-connections-in-appsource-teams-ai-library-graph-dev-proxy-v0-8-acs-windows-sdk/) - [Tom Morgan](https://twitter.com/tomorgan) (CloudInteract) | @tomorgan
-* [Custom Result Types in Microsoft Search](https://searchexplained.com/custom-result-types-in-microsoft-search/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-* [OneDrive simplified sharing, Connections news notifications, Teams work hours and location - #287](https://www.messagecentershow.com/e/onedrive-simplified-sharing-287/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-* [Microsoft 365 Developer News from Microsoft Build 2023](https://www.andrewconnell.com/blog/microsoft-365-developer-news-from-build-2023/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
-
+* [Use Viva Connections Toolkit for VS Code to boost your productivity with SharePoint Framework projects](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-general-intro/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
+* [CLI for Microsoft 365 and PnP Powershell VS Code extensions](https://pnp.github.io/blog/post/cli-for-microsoft365-and-pnp-powershell-vs-code-extensions/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
+* [TGIWE 02 – Another Friday – finally, a new article](https://n8d.at/tgiwe02-another-friday-finally-a-new-article) - [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
+* [Configuring the CLI for Microsoft 365 in Azure Functions](https://www.blimped.nl/configuring-the-cli-for-microsoft-365-in-azure-functions) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
+* [Microsoft Search Roadmap Updates – June 2023](https://searchexplained.com/microsoft-search-roadmap-updates-202306/) - Oleg Petryk (Search Explained)
+* [Performance of the Graph API, REST API and Web Services with SharePoint and Power Automate](https://sharepains.com/2023/06/13/performance-of-the-graph-api/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 
 ## Upcoming events
 
