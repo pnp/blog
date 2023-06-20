@@ -15,6 +15,8 @@ draft: false
  
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London-based Europe Workplace Value Realization Lead and Microsoft MVP - [Zoe Wilson](https://twitter.com/SharePoint_Zoe) (Avanade) \| @SharePoint_Zoe
 
+PnP Weekly is now on summer holiday until end of August.  Enjoy your summer/winter for the next 2 months.  We will return with Episode 216.    
+
 ## Topics discussed in this session
 
 * How Zoe’s role differs from a delivery consultant’s role.
