@@ -1,49 +1,57 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 215"
-summary: " joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on career growth, community connections, open-source contributions, staying up to date on technology and more."
-date: 2023-06-20T02:00:01-00:00
+summary: "London-based Europe Workplace Value Realization Lead - Zoe Wilson (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on Viva Explorer community, Viva modules, event speaker training, preparing for Copilot and generative AI, plus 22 articles/videos."
+date: 2023-06-19T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-214-promo.png
+- images/pnp-weekly-215-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=RNLLJt9hLp8
-draft: true
+- https://www.youtube.com/watch?v=r0hdyHBL6Vs
+draft: false
 ---
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by India-based Microsoft 365 Consultant and MVP - [Smita Nachan](https://twitter.com/SmitaNachan) \| @SmitaNachan
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London-based Europe Workplace Value Realization Lead and Microsoft MVP - [Zoe Wilson](https://twitter.com/SharePoint_Zoe) (Avanade) \| @SharePoint_Zoe
 
 ## Topics discussed in this session
 
-* Item
-* Item
-* Item
-* Item
-* Item
-
+* How Zoe’s role differs from a delivery consultant’s role.
+* Talk of value realization and business process optimization.
+* Tips for staying up to date on products.
+* How do you/Avanade come up with an offering for customers?
+* IT vs Business Decision making.
+* Favorite productivity hack you can do on Microsoft 365?
+* Community work and specifically about the Viva Explorer program.
+* What is special about Viva and what Viva modules would you recommend to a customer?
+* What is the one thing we should fix at Microsoft?
+* Tips for people to get started on presenting at events. Mentorships and sponsorships.
+* Tips to women considering/building a career in IT?
+* How should customers prepare for Copilot and generative AI?
  
 ## Referenced during conversation
 
-* Item
-* Item
+* Viva Explorers - <https://www.vivaexplorers.com/>
+* Video - [Momentum building example!](https://www.youtube.com/watch?v=GA8z7f7a2Pk)
 
-There were xx articles or videos covered within this episode created by Microsoft and community members.  Since this episode was recorded only 2 days after Episode 213, the show hosts decided to deliver a larger collection of articles in upcoming Episode 215. 
+There were 22 articles or videos covered within this episode produced by Microsoft and community members.  
 
 ## This week
 
-* **Zoe** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Zoe** – leading Workplace Value Realization + Copilot and Generative AI perspectives for Avanade = spending much time advocating with clients and educating colleagues on preparing for these topics.
+* **Waldek** – reviewing a bunch of cool apps submitted during HackTogether: The Microsoft Teams Global Hack that ended June 15th.
+* **Vesa** – back from vacation, catching up on things and reviewing Hacks, national holiday – Midsummer on Friday.
 
 ## Agenda items
 
-[00:00](https://youtu.be/RNLLJt9hLp8?t=0) – Intro
+[00:00](https://youtu.be/r0hdyHBL6Vs?t=0) – Intro
 
-[01:31](https://youtu.be/RNLLJt9hLp8?t=91) – Interview
+[01:58](https://youtu.be/r0hdyHBL6Vs?t=118) – Interview
 
-[40:22](https://youtu.be/RNLLJt9hLp8?t=2422) – Closing
+[47:54](https://youtu.be/r0hdyHBL6Vs?t=2874) – Articles
+
+[1:19:27](https://youtu.be/r0hdyHBL6Vs?t=4227) – Closing
 
 ## Action requested
 
@@ -52,9 +60,9 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday 19th of June and released on 20th of June, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube RNLLJt9hLp8 >}}
+    {{< youtube r0hdyHBL6Vs >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-b4sx3-1430cf4 >}}
+    {{< podbean pb-x9kti-14397ae >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -66,9 +74,9 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Microsoft Viva Pulse available for public preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-pulse-available-for-public-preview/ba-p/3838338) - Tranissa Creme (Microsoft)
 * [“The SharePoint experience” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/the-sharepoint-experience-the-intrazone-podcast/ba-p/3848507) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Deploying Microsoft Viva Connections internally at Microsoft](https://www.microsoft.com/insidetrack/blog/deploying-microsoft-viva-connections-internally-at-microsoft/) - Keith Boyd (Microsoft)
-* [24 New Verified, 29 New Independent Publisher and 37 Updated Connectors available](https://powerautomate.microsoft.com/en-us/blog/24-new-verified-29-new-independent-publisher-and-37-updated-connectors-available/) - Amjed Ayoub (Microsoft)
-* [Run Your Enterprise on Power Platform with New Enterprise Application Templates](https://powerapps.microsoft.com/en-us/blog/run-your-enterprise-on-power-platform-with-new-enterprise-application-templates/) - [Ryan Cunningham](https://twitter.com/rc_says) (Microsoft) | @rc_says
-* [Announcing General Availability for Power Platform Customer-managed key (CMK)](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/) - Paul Liew (Microsoft)
+* [24 New Verified, 29 New Independent Publisher and 37 Updated Connectors available](https://powerautomate.microsoft.com/blog/24-new-verified-29-new-independent-publisher-and-37-updated-connectors-available/) - Amjed Ayoub (Microsoft)
+* [Run Your Enterprise on Power Platform with New Enterprise Application Templates](https://powerapps.microsoft.com/blog/run-your-enterprise-on-power-platform-with-new-enterprise-application-templates/) - [Ryan Cunningham](https://twitter.com/rc_says) (Microsoft) | @rc_says
+* [Announcing General Availability for Power Platform Customer-managed key (CMK)](https://powerapps.microsoft.com/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/) - Paul Liew (Microsoft)
 * [Fluid Framework 2.0 Alpha is now available](https://devblogs.microsoft.com/microsoft365dev/fluid-framework-2-0-alpha-is-now-available/) - Kashif Qureshi (Microsoft) & Nick Simons (Microsoft)
 * [What’s new for Office Add-ins: Announcements from Build 2023](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-announcements-from-build-2023/) - Microsoft
 * [Announcing Microsoft Graph Toolkit v3.0 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-graph-toolkit-v3-0-release-candidate/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
