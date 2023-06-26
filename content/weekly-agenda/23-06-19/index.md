@@ -1,17 +1,16 @@
 ---
-title: Weekly Agenda - 12th of June 2023 week
-date: 2023-06-09T02:22:49.607Z
+title: Weekly Agenda - 19th of June 2023 week
+date: 2023-06-18T02:24:34.407Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda24.png
+  - images/weeklyagenda25.png
 tags: []
 type: regular
 videos: null
 draft: false
-
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -19,31 +18,50 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform weekly call - 13th of June
+### Microsoft 365 & Power Platform weekly call - 20th of June
 
-* Tuesday, 13th of June, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 120th of June, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 & Power Platform Community blog - Microsoft 365 & Power Platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
 Demos this time
 
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Exposing Microsoft Teams apps in Microsoft Viva with SPFx cards
-* Lan Li (Microsoft)  & Kishor Subedi (Miocrosoft) - Introduction to Power Automate Copilot
-* Marc Windl (Microsoft) - How Microsoft Syntex Repository Services powers Microsoft Loop
+* Lan Li (Microsoft) & Kishor Subedi (Microsoft) - Deep dive into science behind Power Automate Copilot
+* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - Introduction to Microsoft Graph Toolkit v3
+
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-### Viva Connections & SharePoint Framework Community Call - 15th of June
+### Power Platform monthly Community Call - 21st of June
 
-* Thursday, 15th of June 7:00 AM PT / 2:00 PM GMT
+* Wednesday, 21st of June, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
+
+Demos: 
+
+* Cracking the Code: Demystifying the Data Outputs in Power Automat – [Cat Schneider](https://twitter.com/YerAWizardCat) (Endsight) | @YerAWizardCat
+* Dataverse security tips and tricks – [Chris Huntingford](https://twitter.com/ThatPlatformGuy) (ANS Group)| @ThatPlatformGuy
+* How to Prepare for Microsoft Power Platform Certifications - [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+### Microsoft 365 & Power Platform Community Call - 22nd of June
+
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Thursday, 22nd of June, 2023, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
-* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells - Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph Pages API
-* Daniel Turley (Avanade) - SPFx framework at Microsoft - Accelerator Live Update Feature
-* Marcus Castro (Microsoft) - Viva Connections + Stage View in Teams
+* Samir Daoudi (Logisam) –  Create and Publish your first PVA in less than 30 mins 
+* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen – Trimming SharePoint file versions to reduce Storage costs
+* [Todd Klindt](https://twitter.com/toddklindt) (Sympraxis Consulting) | @ToddKlindt - Using ChatGPT (or your favorite AI) to speed up PowerShell Development 
+
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled! 
 
@@ -52,20 +70,21 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [SharePoint announcements: Interview with Adam Harmetz (May 2, 2023)](https://www.youtube.com/watch?v=HHrrflKlmVI) by [Adam Harmetz](https://twitter.com/adamharmetz) (Microsoft) | @adamharmetz  & [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [How to automate the process to convert the rows of excel sheets into the rows of Dataverse](https://www.youtube.com/watch?v=RQqoufIKvks) by Abdul Wahab (Dynamics Technology Systems) 
-* [Building Conversation search experience for Microsoft Teams with SPFx](https://www.youtube.com/watch?v=3GRGQp4H6q8) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me and [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
-* [Power Platform Solutions in Microsoft Teams – Example scenario deep dive](https://www.youtube.com/watch?v=CZf8fJEu1tQ) by [Marcus Vinicius Castro](https://github.com/marcus-castro-sp) (Microsoft) | marcus-castro-sp
-* [Latest on using SharePoint Framework for Microsoft Teams extensibility](https://www.youtube.com/watch?v=qgi1TR16VBc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Building a Magic Note app to plan the day efficiently with AI & Microsoft Graph](https://www.youtube.com/watch?v=K3aIDaQel20&t=1s) by [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
+* [Validating PowerShell parameters with SharePoint Information](https://www.youtube.com/watch?v=eMIdEBtQwhI) by [Todd Klindt](https://twitter.com/toddklindt) (Sympraxis Consulting) | @ToddKlindt
+* [Latest on building Microsoft Viva extensibility with SharePoint Framework](https://www.youtube.com/watch?v=YVpKxCSTEkc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [ChatGPT - but with YOUR data in Power Apps](https://www.youtube.com/watch?v=KjZYTPM4tqc) by [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
+* [Introduction to Live Share SDK for Microsoft Teams apps](https://www.youtube.com/watch?v=9y7Nrkc0Kvw) by Supriti Bhan (Microsoft)
+* [Build Outlook Add-ins using Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=6QES0WObuUM) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Share your community story with us!](https://www.youtube.com/watch?v=PsdcJar1B7A) by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
+* [Angeliki Patsiavou | Power Platform Connections Ep 16](https://www.youtube.com/watch?v=XZLOECXotPE) with [Angeliki Patsiavou](https://twitter.com/a_patsiavou) (Avanade) | @a_patsiavou
+
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Teams App Camp New Adventure](https://www.youtube.com/shorts/MfW2Y_CgXZk) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [How partners are bringing AI and Copilot into Microsoft Teams](https://www.youtube.com/watch?v=JVqwONt--G8)
+
 
 ---
 
@@ -73,18 +92,19 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Announcing Teams App Camp: New Adventure](https://devblogs.microsoft.com/microsoft365dev/announcing-teams-app-camp-new-adventure/) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* [HackTogether: the Microsoft Teams Global Hack keynote recap and what’s coming](https://devblogs.microsoft.com/microsoft365dev/hacktogether-the-microsoft-teams-global-hack-keynote-recap-and-whats-coming/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-* [Deprecation of sha1Hash on OneDrive Personal](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-sha1hash-on-onedrive-personal/)
+* [Fluid Framework 2.0 Alpha is now available](https://devblogs.microsoft.com/microsoft365dev/fluid-framework-2-0-alpha-is-now-available/) by Kashif Qureshi (Microsoft) and Nick Simons (Microsoft)
+* [Announcing Microsoft Graph Toolkit v3.0 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-graph-toolkit-v3-0-release-candidate/) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+* [What’s new for Office Add-ins: Announcements from Build 2023](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-announcements-from-build-2023/)
+* [HackTogether: the Microsoft Teams Global Hack week 1 recap and what’s next](https://devblogs.microsoft.com/microsoft365dev/hacktogether-the-microsoft-teams-global-hack-week-1-recap-and-whats-next/) by  [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs and  [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Use Viva Connections Toolkit for VS Code to boost your productivity with SharePoint Framework projects](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-general-intro/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-* [Microsoft 365 & Power Platform Community (PnP) - May 2023 update](https://pnp.github.io/blog/microsoft-365-platform-community-update/23-06-06/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Microsoft 365 PnP Weekly - Episode 213](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-213/) by [Rodrigo Pinto](https://twitter.com/scoutmanpt) (Storm Technology Ltd) | @ScoutmanPt
+* [Microsoft 365 PnP Weekly - Episode 214](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-214/) with [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan
+* [CLI for Microsoft 365 and PnP Powershell VS Code extensions](https://pnp.github.io/blog/post/cli-for-microsoft365-and-pnp-powershell-vs-code-extensions/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+
 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
@@ -95,8 +115,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 8th of June, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-06-08/)
-* [Microsoft 365 & Power Platform Community Call - 6th of June, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-06-06/)
+* [Viva Connections & SharePoint Framework Community Call – 15th of June, 2023](https://pnp.github.io/blog/microsoft-viva-and-spfx-community-call/2023-06-15/)
+* [Microsoft 365 & Power Platform Community Call - 13th of June, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-06-13/)
+
 
 ---
 
@@ -120,11 +141,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
-* [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
-* [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
-* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
-* [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 * [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom
 * [Dynamics 365 Bootcamp CX Summit](https://www.communitydays.org/event/2023-06-23/dynamics-365-bootcamp-cx-summit) - June 23-24, 2023 - Brussels, Belgium
