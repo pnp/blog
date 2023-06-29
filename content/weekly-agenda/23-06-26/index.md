@@ -103,7 +103,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call - 22nd of June, 2023](https://pnp.github.io/blog/microsoft-365-and-power-platform-development-community-call/2023-06-22/)
 * [Power Platform Community Call – June 2023](https://pnp.github.io/blog/power-platform-community-call/power-apps-community-call-june-2023/)
 * [Microsoft 365 & Power Platform Community Call - 20th of June, 2023](https://pnp.github.io/blog/microsoft-365-platform-community-call/2023-06-20/)
 
