@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 26th of June 2023 week
-date: 2023-06-22T09:41:05.452Z
+date: 2023-06-23T02:41:05.452Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,10 +10,11 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
+
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 This is the agenda for the following week:
@@ -55,6 +56,7 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [What Three Words - Power Platform Custom Connector](https://www.youtube.com/watch?v=ZOGdd5xUVHY) by [Matt Beard](https://twitter.com/Mattybeard) (Data8 Ltd) | @Mattybeard
 * [Replicating the Quick Links web part for extensibility](https://www.youtube.com/watch?v=yAvHmzszzGk) by [Dan Toft](tanddant) (Evobis) | @tanddant
 * [Integrating Power Apps with Azure Machine Learning & Open AI using Power Automate](https://www.youtube.com/watch?v=A2evuHKlFxM) by Aaryan Arora
 * [Latest on the SharePoint site templates - Site creation and template updates](https://www.youtube.com/watch?v=VaWIQ6fmN8w) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
@@ -63,7 +65,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Pages - Enterprise Security & Trust Deep Dive](https://www.youtube.com/watch?v=jU-VCI2g8fo
+* [Power Pages - Enterprise Security & Trust Deep Dive](https://www.youtube.com/watch?v=jU-VCI2g8fo)
 * [Purchase Orders Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=cmHWhALIRsY)
 * [Requisition Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=5AdsO-qJ8O0)
 * [Vendor Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=pifzGJ9nx0c)
@@ -81,6 +83,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Breaking change: Enum property addition to teamworkdevices in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/breaking-change-enum-property-addition-to-teamworkdevices-in-microsoft-graph/) by Abhishek Agrawal (Microsoft)
+* [Announcing public preview of Bot Framework powered Viva Connections extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-public-preview-of-bot-framework-powered-viva-connections-extensibility/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [New Microsoft Graph APIs for managing Microsoft Teams webinars](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-graph-apis-for-managing-microsoft-teams-webinars/) by Sheri Mehmood (Microsoft) and Annie Wang (Microsoft)
 * [HackTogether: the Microsoft Teams Global Hack ends, but the developer journey continues!](https://devblogs.microsoft.com/microsoft365dev/hacktogether-the-microsoft-teams-global-hack-ends-but-the-developer-journey-continues/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
