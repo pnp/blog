@@ -22,7 +22,7 @@ Introducing the latest release of CLI for Microsoft 365
  
 ## What's new
 
-Our CLI for Microsoft 365 now features **8 impressive new commands**, giving you unrivaled control over various Microsoft 365 services. From SharePoint Application Customizers to sensitivity labels and Azure Active Directory, these additions expand your command-line horizons. Get ready to elevate your productivity and dive into a world of possibilities!
+Our CLI for Microsoft 365 now features **8 new commands**, giving you control over various Microsoft 365 services. From SharePoint Application Customizers to sensitivity labels and Azure Active Directory. Get ready to elevate your productivity and dive into a world of possibilities!
 
 ### SharePoint Management
 
@@ -92,9 +92,9 @@ m365 aad sp list --displayName "My custom service principal" --tag "WindowsAzure
 
 ## What's changed
 
-Hold on tight because we've got even more in store for you! Brace yourself for over **90 meticulously crafted enhancements** that have been woven into the very fabric of our existing commands. These upgrades have been carefully tailored to deliver a seamless experience, whether you're a seasoned CLI user or a fresh adopter. Get ready to dive into a world of improved navigation, enhanced error handling, and an abundance of refactoring goodness. 
+Hold on tight because we've got even more in store for you! Brace yourself for over **90 enhancements** that have been added to the very fabric of our existing commands. These upgrades have been carefully tailored to deliver a seamless experience, whether you're a seasoned CLI user or a fresh adopter. Get ready to dive into a world of improved navigation, enhanced error handling, and an abundance of refactoring goodness. 
 
-With these tweaks at your disposal, your workflow will be streamlined and your productivity will soar to unimaginable heights. Prepare to be amazed!
+With these tweaks at your disposal, your workflow will be streamlined and your productivity will soar to unimaginable heights.
 
 ### Introducing our New Website with Docusaurus 🦖
 
@@ -102,11 +102,9 @@ We're thrilled to announce that we've given our website a long-awaited makeover!
 
 We can't wait to hear your thoughts and feedback on our new website! Feel free to share your experience and leave us a comment on [Discord](https://aka.ms/cli-m365/discord). We value your input and look forward to continuously improving our online presence based on your valuable insights.
 
-### **MAJOR**: SharePoint Framework Projects v1.17.3 Support
+### **MAJOR**: SharePoint Framework Projects v1.17.3 & v1.17.4 Support
 
-Calling all SharePoint Framework enthusiasts! We're thrilled to share some exhilarating news that will surely brighten your day. Our latest update brings support for SPFx `v1.17.3` to three of our most popular commands: `spfx project upgrade`, `spfx project doctor`, and `spfx doctor`.
-
-This means you can now harness the full power of the latest features and enhancements in SharePoint Framework with utmost ease. With just a few clicks, you can upgrade your projects and unlock a whole new realm of possibilities. It's time to elevate your workflow and take your projects to new heights!
+Calling all SharePoint Framework enthusiasts! We're thrilled to share some exciting news that will brighten your day. Our latest update brings support for not only SPFx `v1.17.3` but also `v1.17.4` to three of our most popular commands: `spfx project upgrade`, `spfx project doctor`, and `spfx doctor`.
 
 Here are the commands to get you started:
 
@@ -122,7 +120,7 @@ m365 spfx doctor --output text
 m365 spfx project doctor --output md
 ```
 
-Don't miss out on this opportunity to leverage the cutting-edge capabilities of SPFx `v1.17.3`. Upgrade your projects now and experience the remarkable advancements firsthand.
+Don't miss out on this opportunity to leverage the capabilities of SPFx `v1.17.3` & `v1.17.4`. Upgrade your projects now and experience the remarkable advancements firsthand.
 
 For more information, check out the documentation for each command:
 
@@ -132,11 +130,11 @@ For more information, check out the documentation for each command:
 
 ### Embracing the Power of async/await in our Codebase
 
-We're excited to unveil a major undertaking that has consumed our efforts for quite some time: the comprehensive refactoring of our codebase to embrace the asynchronous programming model using **async/await**. This substantial change marks a significant milestone in our journey, as it brings enhanced performance and reliability to our commands.
+We're excited to unveil a major undertaking that has consumed our efforts for quite some time: the refactoring of our codebase to embrace the asynchronous programming model using **async/await**. This change marks a milestone in our journey, as it makes our code more readable and easier to work with.
 
-With the foundational groundwork already laid by refactoring the core aspects of our commands, we are now diligently removing all remaining promises to achieve a fully async/await codebase. This meticulous process ensures that our commands operate seamlessly, taking full advantage of the benefits offered by async/await.
+With the groundwork already laid by refactoring the core aspects of our commands, we are now changing all remaining promises to achieve a fully async/await codebase. This process ensures that our commands operate seamlessly, taking full advantage of the benefits offered by async/await. This refactoring demonstrates the remarkable power of community and the cherished principle of `sharing is caring`, as it has involved an immense amount of work accomplished within a relatively short span of time.
 
-We're thrilled to present you with an improved experience that harnesses the power of asynchronous programming. [Stay tuned](https://github.com/pnp/cli-microsoft365/issues/3618) as we continue to refine and optimize our codebase, delivering even greater efficiency and reliability to our valued users.
+We're thrilled to present you with an improved experience that harnesses the power of asynchronous programming. [Stay tuned](https://github.com/pnp/cli-microsoft365/issues/3618) as we continue to refine and optimize our codebase, delivering even greater efficiency and readability to our valued users.
 
 ### Filter Flows by Sharing Status with 'flow list' Command
 
@@ -157,7 +155,7 @@ m365 flow list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --
 
 ### Explore the Extensive Enhancements
 
-Our dedication to enhancing our capabilities knows no bounds. We've poured our heart and soul into this release, and the results are truly remarkable.
+We've poured our heart and soul into this release, and the results are truly remarkable.
 
 For a comprehensive overview of everything we've accomplished, dive into our release notes below. It's an exciting read that showcases the extent of our hard work. We're eager to hear about your experiences and insights, so don't hesitate to share them with us.
 
@@ -171,7 +169,7 @@ Curious about what lies ahead? We're excited to share some of our ongoing projec
 
 ### Expanding Command Arsenal
 
-Our relentless pursuit of empowering your Microsoft 365 experience continues. We're actively working on introducing more commands to CLI for Microsoft 365. From Power Platform to SharePoint Online, we're exploring various services to enhance your command-line capabilities. Additionally, we're dedicated to refactoring our codebase to embrace the power of async/await, further improving performance and reliability.
+Our relentless pursuit of empowering your Microsoft 365 experience continues. We're actively working on introducing more commands to CLI for Microsoft 365. From Power Platform to SharePoint Online, we're exploring various services to enhance your command-line capabilities. Additionally, we're dedicated to refactoring our codebase to embrace the power of async/await, further improving performance and readability.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 
@@ -197,11 +195,11 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 - [Smita Nachan](https://github.com/SmitaNachan)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
-We express our deepest gratitude for the time and effort you have invested in CLI for Microsoft 365, propelling its progress and enriching its capabilities. Your contributions have played a significant role in advancing this project and empowering users worldwide. Thank you for your unwavering commitment and valuable assistance!
+We express our deepest gratitude for the time and effort you have invested in CLI for Microsoft 365, improving its progress and enriching its capabilities. Your contributions have played a significant role in advancing this project and empowering users worldwide. Thank you for your commitment and valuable assistance!
 
 ### High fives
 
-We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your active engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
+We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
 
 - [Adam](https://github.com/adam13hylo)
 - [Alex Terentiev](https://github.com/AJIXuMuK)
