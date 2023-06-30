@@ -21,7 +21,7 @@ During this time, all the other calls will continue to be happening normally bas
 * [Monthly Office Add-ins community call](https://aka.ms/officeaddinscommunitycall) - Second Wednesday each month at 8 AM PT
 * [Monthly Power Platform community call](https://aka.ms/powerplatformcommunitycall) - Third Wednesday each month at 8 AM PT
 
-All community calls are recorded and published at the [Microsoft 365 & Power Platform Community YouTube channel](). Subscribe and stay up to date on the latest demos and updates.
+All community calls are recorded and published at the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w). Subscribe and stay up to date on the latest demos and updates.
 
 ## Frequently asked questions
 
