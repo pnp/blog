@@ -1,6 +1,6 @@
 ---
-title: "Community call schedules - July-August 2023"
-date: 2023-06-30T00:08:00+01:00
+title: "Community call schedules - July-August 2022"
+date: 2022-07-13T00:08:00+01:00
 author: "Vesa Juvonen"
 githubname: vesajuvonen
 categories: ["Community post","Microsoft 365 platform call"]
