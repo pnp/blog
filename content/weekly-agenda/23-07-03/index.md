@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda27.png
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
@@ -111,6 +111,10 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
+<<<<<<< HEAD
+* [365 EduCon Seattle](https://365educon.com/Seattle/) – August 21-25, 2023 - Seattle, WA, USA
+* [Metaverse One 2023](https://www.communitydays.org/event/2023-09-20/metaverse-one-2023) - September 20, 2023 - Virtual
+=======
 * [Microsoft Community Days](https://www.communitydays.org/event/2023-07-07/microsoft-community-days-healthcare-edition) - Healthcare Edition - July 7, 2023 - Bulington, MA, USA
 * [DUG Northeast Regional meetup in Arlington VA](https://www.communitydays.org/event/2023-07-18/dug-northeast-regional-meetup-in-arlington-va) - July 18-19, 2023 - Arlington, VA, USA
 * [M365 Community Days NYC 2023](https://www.communitydays.org/event/2023-07-29/m365-community-days-nyc-2023) - July 29-30, 2023 - New York, USA
@@ -126,6 +130,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [CollabDays - National Museum of Computing - Bletchley Park](https://www.communitydays.org/event/2023-09-27/collabdays-national-museum-of-computing-bletchley-park) - September 27, 2023 - Bletchley, UK
 * [AMS Montpellier 2023](https://www.communitydays.org/event/2023-09-28/ams-montpellier-2023) - September 28, 2023 - Montpellier, France
 * [Microsoft 365 Ottawa](https://www.communitydays.org/event/2023-09-29/microsoft-365-ottawa) - September 29-30 - Ottawa, Canada
+>>>>>>> bbe43f3e50c25969c565422cb83a5ba18c2dbd8d
 * [South Coast Summit 2023](https://www.southcoastsummit.com/) - October 13-14, 2023 - Farnborough, United Kingdom
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
