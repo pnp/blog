@@ -98,7 +98,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Abhijeet Jadhav](https://twitter.com/jadhav_jeet) | @jadhav_jeet
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 * [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
-* [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
+* [Aimery Thomas](https://twitter.com/aimery_thomas)  (Avanade) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 * [Alex MacLachlan](https://github/com/alex-mcla) | alex-mcla
 * [Aleksandr Sapozhkov](https://github.com/shurick81) (Rillion AB) | shurick81
@@ -126,7 +126,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Gizzelle Akin](https://twitter.com/gizzelleakin) | @gizzelleakin
-* [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
+* [Harminder Singh](https://twitter.com/Harminder_Sethi) (Nagarro) | @Harminder_Sethi
 * [Ganesh Sanap](https://twitter.com/ganeshsanap20) | @GaneshSanap20
 * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 * [Geetha Sivasailam](https://twitter.com/gsived) (Artis Consulting) | @GSiVed

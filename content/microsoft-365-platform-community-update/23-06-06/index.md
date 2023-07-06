@@ -111,7 +111,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Chris Lizon](https://github.com/ChrisLizon) | ChrisLizon
 * [Christian Nesmark](https://github.com/cnesmark) | cnesmark
 * [Dan Toft](tanddant) (Evobis) | @tanddant
-* Daniel Turley (Avanade)
+* Daniel y (Avanade)
 * [David Elsner](https://github.com/web265p3) (HF Mixing Group) | web265p3
 * [Dayana Hristova](https://github.com/makarovv) (glueckkanja-gab) | makarovv
 * [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
