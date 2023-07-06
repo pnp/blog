@@ -2,7 +2,7 @@
 title: Weekly Agenda - 10th of July 2023 week
 date: 2023-06-29T10:53:14.133Z
 author: Luise Freese
-githubname: Luise Freese
+githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
