@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda28.png
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
@@ -77,7 +77,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [PnP PowerShell v2.2.0](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v2-2-0/) by [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 * [CLI for Microsoft 365 v6.9](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-9/) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 * [Community call schedules - July-August 2023](https://pnp.github.io/blog/post/2023-07-call-summer-schedule/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
