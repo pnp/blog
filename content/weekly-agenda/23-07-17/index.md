@@ -36,6 +36,23 @@ Demos:
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled! 
 
+
+### Power Platform monthly Community Call - 19th of July
+
+* Wednesday, 19th of July, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
+
+Demos: 
+
+* [Michael Roth](https://twitter.com/michaelroth42) (Avanade) | @MichaelRoth42- Dataverse Environment Permissions for Power Platform
+* [Lewis Baybutt](https://twitter.com/lowcodelewis) | @lowcodelewis - Using Microsoft Graph and various broader ecosystems to improve UX with contextual data
+* [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese - Pushing the Platform with the Power of Docusign & Automate
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
@@ -52,7 +69,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 * [BT Group's generative AI pilot explores new possibilities with Microsoft](https://www.youtube.com/watch?v=_kMtoFkXwUo)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
-
 
 ---
 
