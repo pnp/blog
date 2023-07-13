@@ -6,7 +6,7 @@ author: "Nandeesh Swami"
 githubname: Nandeeshswami
 categories: ["Microsoft identity platform community call"]
 images:
-- images/recording-06152023.png
+- images/recording-2023-06-15.png
 type: "regular"
 summary: "Latest changes in token customization that include the addition of token issuance policy with editor and added custom claims providers. Demos of capabilities plus Q&A throughout call."
 videos:
