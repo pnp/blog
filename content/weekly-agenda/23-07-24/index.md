@@ -8,8 +8,8 @@ categories:
 images:
   - images/weeklyagenda30.png
 tags: []
-type: regular
-videos: null
+type: trending
+videos: nullgit
 draft: false
 ---
 
