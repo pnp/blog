@@ -12,13 +12,13 @@ description: "With the Viva Connections Toolkit extension, you can create and ma
 summary: ""
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SPFx", "SharePoint FrameWork", "Adaptive Card", "Viva"]
+tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva"]
 type: "regular" 
 ---
 
 ## TL;DR
 
->The TL;DR (and only this 😉) was AI generated and it's aim is to provide PnP Weekly team quick context of the artice.
+>The TL;DR (and only this 😉) was AI generated and it's aim is to provide PnP Weekly team quick context of the article.
 >Emoji count: 17
 
 This article is about Viva Connections Toolkit which is a Visual Studio Code extension that helps boost productivity in developing and managing SharePoint Framework solutions. It provides a welcome experience to help set up your workspace and offers a step-by-step flow to create new projects. The extension also provides helpful tasks and actions, such as upgrading and validating your solution. You can also connect to your Microsoft 365 tenant and deploy solutions directly to the App Catalog. The extension is made possible by the work of the PnP community and is open to contributions.
@@ -101,8 +101,8 @@ Of course, we are open to contributions. If you would like to participate do not
 
 ## 🔗 Resources
 
-- [Download Viva Connections Toolkig at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
-- [Viva Connections Toolkig GitHub repo](https://github.com/pnp/vscode-viva)
+- [Download Viva Connections Toolkit at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
+- [Viva Connections Toolkit GitHub repo](https://github.com/pnp/vscode-viva)
 - [Microsoft 365 & Power Platform Community](https://pnp.github.io/#home)
 - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 - [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa)
