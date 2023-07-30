@@ -13,7 +13,7 @@ tags:
   - SharePoint Framework (SPFx)
   - Power Apps
   - Planner
-  - Azure AD
+  - Microsoft Teams
 type: popular
 ---
 
@@ -23,11 +23,15 @@ Introducing the latest release of CLI for Microsoft 365
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
 
+## What's new
+
+In this minor release, we added a couple of new commands and enhancements to the existing functionality. Check out some of the awesome stuff added and be sure to try them out.
+
 ### Power Apps Management
 
 We've introduced a new command that allows you to list all permissions of a Power App as well as an additional command to modify the app owner. Check out the details below:
 
-To lists all permissions of a Power Apps app simply run:
+To lists all permissions of a Power App simply run:
 
 ```sh
 m365 pa app permission list --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0
@@ -39,7 +43,7 @@ You may also filter the results to only a given role by doing:
 m365 pa app permission list --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --roleName CanEdit
 ```
 
-In order to set a new owner for a Power Apps app and remove the previous owner, all you need to do is:
+In order to set a new owner for a Power App and remove the previous owner, all you need to do is:
 
 ```sh
 m365 pa app owner set --environmentName Default-716eb9fb-bf79-4be9-b0c7-900824fcbe25 --appName 7ab97923-4a4d-4467-b030-12071d2b810b --userName john.doe@contoso.com
@@ -62,7 +66,7 @@ m365 teams chat member add --chatId 19:8b081ef6-4792-4def-b2c9-c363a1bf41d5_5031
 
 For more information check out:
 
-- [m365 aad sp list](https://pnp.github.io/cli-microsoft365/cmd/aad/sp/sp-list/)
+- [m365 teams chat member add](https://pnp.github.io/cli-microsoft365/cmd/teams/chat/chat-member-add)
 
 ### SharePoint Framework Projects v1.18.0-beta.1 Support
 
