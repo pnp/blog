@@ -19,7 +19,7 @@ type: popular
 
 Introducing the latest release of CLI for Microsoft 365
 
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project. You may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), and many many more. The list keeps on growing and growing. In this minor release, we introduced new commands as well as a tone of improvements.
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project. You may manage OneDrive, Planner, Power Apps and Automate, Teams, Yammer, SharePoint (of course), and many many more. The list keeps on growing and growing. In this minor release, we introduced new commands as well as a tonne of improvements.
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
 
@@ -31,7 +31,7 @@ In this minor release, we added a couple of new commands and enhancements to the
 
 We've introduced a new command that allows you to list all permissions of a Power App as well as an additional command to modify the app owner. Check out the details below:
 
-To lists all permissions of a Power App simply run:
+To lists all permissions of a Power App, simply run:
 
 ```sh
 m365 pa app permission list --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0
@@ -49,7 +49,7 @@ In order to set a new owner for a Power App and remove the previous owner, all y
 m365 pa app owner set --environmentName Default-716eb9fb-bf79-4be9-b0c7-900824fcbe25 --appName 7ab97923-4a4d-4467-b030-12071d2b810b --userName john.doe@contoso.com
 ```
 
-For more information check out:
+For more information, check out:
 
 - [m365 pa app owner set](https://pnp.github.io/cli-microsoft365/cmd/pa/app/app-owner-set/)
 - [m365 pa app permission list](https://pnp.github.io/cli-microsoft365/cmd/pa/app/app-permission-list/)
@@ -64,7 +64,7 @@ To add a member by UPN to a Teams chat and share chat history until a specific p
 m365 teams chat member add --chatId 19:8b081ef6-4792-4def-b2c9-c363a1bf41d5_5031bb31-22c0-4f6f-9f73-91d34ab2b32d@unq.gbl.spaces --userName john.doe@contoso.com --visibleHistoryStartDateTime 2023-05-03T12:00:00Z
 ```
 
-For more information check out:
+For more information, check out:
 
 - [m365 teams chat member add](https://pnp.github.io/cli-microsoft365/cmd/teams/chat/chat-member-add)
 
@@ -104,7 +104,7 @@ We've also taken the first steps to refactor our codebase to centralize the shar
 
 ### What else
 
-If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6100-beta) to find out more.
+If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6100) to find out more.
 
 ## Upcoming Changes
 
