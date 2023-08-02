@@ -128,7 +128,7 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 - [Garry Trinder](https://github.com/garrytrinder)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
-- [Matthijs Verbeeck](https://github.com/MathijsVerbeeck)
+- [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
