@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 7th of August 2023 week
+title: Weekly Agenda - 14th of August 2023 week
 date: 2023-08-04T13:14:11.888Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda32.png
+  - images/weeklyagenda33.png
 tags: []
-type: regular
+type: trending
 videos: null
 draft: false
 ---
@@ -19,19 +19,19 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform Community Call - 10th of August
+### Microsoft 365 & Power Platform Community Call - 3rd of August
 
 Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-* Thursday, 10th of August, 2023, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 17th of August, 2023, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
-* Daniel Turley (Avanade) - SPFx at Microsoft - Accelerator Services Framework
-* Rishabh Shukla - Building Invoice Generator solution with SPFx with automatic file creation
-* [Ejaz Hussain](https://twitter.com/ejazhussain_) (Content + Cloud) | @ejazhussain_ - Building SPFx solution to manage your Azure DevOps projects with OpenAI integration
+* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 - A Teams Tab enabling file conversions with Microsoft Graph
+* John Aziz (Udacity) - Automate Business Email Management Using AI Builder and Power Apps
+* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting T8ipps & Tricks
 
 
 
@@ -42,26 +42,26 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Outlook Add-ins Build 2023 Announcements](https://www.youtube.com/watch?v=_MP3nOjByEE&t=14s)
-* [How to Prepare for Microsoft Power Platform Certifications](https://www.youtube.com/watch?v=lWj6Ujj9C1Q&t=3s) by [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
-* [Introduction to Microsoft Graph Toolkit v3](https://www.youtube.com/watch?v=QJwfnTDr0S4&t=5s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-* [Exposing Microsoft Teams apps in Microsoft Viva with SPFx cards](https://www.youtube.com/watch?v=MN0d6O3SyBQ) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-* [Dataverse security tips and tricks](https://www.youtube.com/watch?v=yAcZWSvR0WE&t=9s) by [Chris Huntingford](https://twitter.com/thatplatformguy) (ANS Group) | @thatplatformguy
-* [Build your own Documentation Website with DocFX on SharePoint](https://www.youtube.com/watch?v=1g5G-YHGOG0) by [Martin Heusser](https://twitter.com/mozzeph) (Houlihan Lokey) | @mozzeph
-* [ntroduction to Power Automate Copilot](https://www.youtube.com/watch?v=ss8PaRGbUkM) by Kishor Subedi (Microsoft) and Lan Li (Microsoft) 
+* [Microsoft Viva Connections + Stage View in Microsoft Teams](https://www.youtube.com/watch?v=qs23Al_N0G0) by Marcus Castro (Microsoft)
+* [Create and Publish your first Power Virtual Agent in less than 15 mins](https://www.youtube.com/watch?v=AeVro3y7BxE)
+* [Outlook Add-ins Build 2023 Announcements](https://www.youtube.com/watch?v=_MP3nOjByEE&t=14s) by [Samir Daoudi](https://twitter.com/daoudi_samir) (LogiSam) | @daoudi_samir
+* [Viva Topics - What's next? - Summer 2023](https://www.youtube.com/watch?v=a_uMohnyXcE&t=9s) by Naomi Moneypenny (Microsoft), Eric Gradel (Microsoft), Akash Ravi (Microsoft), Maeneka Grewal (Microsoft)
+* [Viva Topics - What's new? - Summer 2023](https://www.youtube.com/watch?v=HEDoNbY8vDI) by Naomi Moneypenny (Microsoft), Eric Gradel (Microsoft), Akash Ravi (Microsoft), Maeneka Grewal (Microsoft)
+* [Cracking the Code: Demystifying the Data Outputs in Power Automate](https://www.youtube.com/watch?v=w5MVrWZPDec&t=1s) by [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
+* [SPFx framework at Microsoft - Accelerator Live Update Feature](https://www.youtube.com/watch?v=n7BO9EI1jVU&t=8s) by Daniel Turley (Avanade)
+* [Outlook Add-ins Build 2023 Announcements](https://www.youtube.com/watch?v=_MP3nOjByEE&t=37s) by [Juan Balmori](https://twitter.com/juaneloBalmori) (Microsoft) | @juaneloBalmori
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Hear from Stephen Siciliano, Vice President of Power Automate](https://www.youtube.com/watch?v=G69YcKe9Bm4)
-* [Power Automate Copilot: Automating loan process](https://www.youtube.com/watch?v=lp2ILioVhmg)
-* [Welcome to Power Automate week!](https://www.youtube.com/watch?v=w0i0ypuQa0U)
-* [Power Apps Week Recap](https://www.youtube.com/watch?v=WDHdo-kGCr4) by  [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-* [Hear from Ryan Cunningham Vice President of Power Apps](https://www.youtube.com/watch?v=tY7MH31dhdU)
+* [Power Pages Copilot Natural Language to website](https://www.youtube.com/watch?v=wf3ONsQENt0&t=15s)
+* [Power Pages Week Launch](https://www.youtube.com/watch?v=XnA1xi1QYlg) by [Heather Cook](https://twitter.com/heddanewman) (Microsoft ) | @heddanewman
+* [Check out Microsoft's SAP Procurement solution template for Power Platform](https://www.youtube.com/watch?v=jZgCgs3GlNc) 
+* [Power Automate Week Recap](https://www.youtube.com/watch?v=AhsrTriR-E8)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Microsoft 365 Copilot, the next generation of intelligent apps](https://www.youtube.com/watch?v=NaA1VXZk1ps)
-* [Launching Teams AI samples in minutes with the Teams Toolkit](https://www.youtube.com/watch?v=oj3jr9OJfR0&t=48s)
+* [Build message extensions for Teams and Outlook with Teams Toolkit](https://www.youtube.com/watch?v=UmldVe3ZcFo) by  [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @girlie_mac and Sai Deepthi Kovvuru (Microsoft)
+* [How to turn your existing Teams message extension into a plugin](https://www.youtube.com/watch?v=RtYhXs5MHHY&t=87s)
 
 ---
 
@@ -69,16 +69,11 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Bring your data into Microsoft 365 with Microsoft Graph connectors](https://devblogs.microsoft.com/microsoft365dev/bring-your-data-into-microsoft-365-with-microsoft-graph-connectors/) by Dorine Rassaian (Microsoft), Mounika Narayanan (Microsoft), and Renima Malhotra (Microsoft)
-* [Profile card properties path and permission changes in Microsoft Graph (beta)](https://devblogs.microsoft.com/microsoft365dev/profile-card-properties-path-and-permission-changes-in-microsoft-graph-beta/) by Ruth Waithera (Microsoft)
-* [Microsoft 365 Developer Proxy v0.10 with support for batching and improved $select guidance](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-proxy-v0-10-with-support-for-batching-and-improved-select-guidance/) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+* [AI pair programming: Build a product inventory app with GitHub, Copilot, and Teams Toolkit](https://devblogs.microsoft.com/microsoft365dev/ai-pair-programming-build-a-product-inventory-app-with-github-copilot-and-teams-toolkit/) by  [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
-
-* [Viva Connections Toolkit pre-release v1.1.2 - Quick update and recap on our progress of v2 roadmap](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-1-1-2-prerelease/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-* [CLI for Microsoft 365 v6.10](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-10/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
@@ -89,8 +84,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call August 3rd, 2023](https://www.youtube.com/watch?v=sfWgp92HbVk&t=3142s)
-* [Viva Connections and SharePoint Framework community call 27th of July 2023](https://www.youtube.com/watch?v=LaBE1HYWTgk)
+* [Office Add-ins community call – July 2023](https://www.youtube.com/watch?v=JGlF8yfrTlY&t=67s)
+
 
 ---
 
