@@ -1,6 +1,6 @@
 ---
 # this is the title
-title: "Boosting productivity combining ChatGPT in MS Teams"
+title: "Boost productivity By combining ChatGPT AND MS Teams"
 # this is the publishing date of your article, usually this should match "now"
 date: 2023-08-14T06:00:00-04:00
 # This is your name
