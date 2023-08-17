@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda33.png
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
@@ -72,6 +72,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+* [Power Pages Copilot Natural Language to website](https://www.youtube.com/watch?v=wf3ONsQENt0&t=15s)
 * [Hear from Sangya Singh, Vice President of Power Pages](https://www.youtube.com/watch?v=hl_973JuZwA)
 * [Power Pages Copilot Natural Language to website](https://www.youtube.com/watch?v=wf3ONsQENt0)
 * [Power Pages Week Launch](https://www.youtube.com/watch?v=XnA1xi1QYlg) by [Heather Cook](https://twitter.com/heddanewman) (Microsoft ) | @heddanewman
