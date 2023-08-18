@@ -19,6 +19,21 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
+### Microsoft 365 & Power Platform weekly call - 22nd of August
+
+* Tuesday, 22nd of August 2023, 8:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=MX8OVvsAK0s&list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
+
+Demos this time
+
+* [Robert Schouten](https://twitter.com/rfjschouten) (Rapid Circle) | @rfjschouten, Shrusti Shah (Rapid Circle), [Maarten Visser](https://twitter.com/mvisser) (Rapid Circle) | @mvisser - Live Patient Review - HackTogether: Microsoft Teams Global Hack Grand Winner
+* Luca Bandinelli (Microsoft) & [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev - Introduction to new features and capabilities within SPFx 1.18
+* [John Miller](https://twitter.com/jmillerdev) (Microsoft) | @jmillerdev - What's new in Teams Toolkit for Visual Studio 2022
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+
 ### Viva Connections & SharePoint Framework Community Call - 24th of August
 
 * Thursday, 24th of August 7:00 AM PT / 2:00 PM GMT
@@ -38,6 +53,7 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Build SPFx extension to track SharePoint usage with Google Analytics](https://www.youtube.com/watch?v=ticKaqk8mjk) by [Samir Daoudi](https://twitter.com/daoudi_samir) (LogiSam) | @daoudi_samir
 * [Introduction to new Microsoft Graph Toolkit Search Components](https://www.youtube.com/watch?v=bBuBgFQAXqM&t=2s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx](https://www.youtube.com/watch?v=l9S2oc2Svz4&t=5s) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph Pages API](https://www.youtube.com/watch?v=66MPYTjLtFM) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
@@ -73,8 +89,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft Power Platform community call – August 2023](https://www.youtube.com/watch?v=8fHZs-W2qg4&t=374s)
-
+* [Microsoft 365 & Power Platform Development Community call August 17th, 2023](https://www.youtube.com/watch?v=qtKKQkk__G8)
+* [Microsoft Power Platform community call – August 2023](https://www.youtube.com/watch?v=8fHZs-W2qg4)
 
 
 ---
