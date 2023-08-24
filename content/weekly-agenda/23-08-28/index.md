@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 21st of August 2023 week
-date: 2023-08-17T12:19:26.353Z
+title: Weekly Agenda - 28th of August 2023 week
+date: 2023-08-04T13:14:11.888Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda34.png
+  - images/weeklyagenda35.png
 tags: []
-type: regular
+type: trending
 videos: null
 draft: false
 ---
@@ -19,32 +19,33 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform weekly call - 22nd of August
+### Microsoft 365 & Power Platform weekly call - 29th of August
 
-* Tuesday, 22nd of August 2023, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 29th of August 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=MX8OVvsAK0s&list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Robert Schouten](https://twitter.com/rfjschouten) (Rapid Circle) | @rfjschouten, Shrusti Shah (Rapid Circle), [Maarten Visser](https://twitter.com/mvisser) (Rapid Circle) | @mvisser - Live Patient Review - HackTogether: Microsoft Teams Global Hack Grand Winner
-* Luca Bandinelli (Microsoft) & [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev - Introduction to new features and capabilities within SPFx 1.18
-* [John Miller](https://twitter.com/jmillerdev) (Microsoft) | @jmillerdev - What's new in Teams Toolkit for Visual Studio 2022
+* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford - Connecting Teams with your customers through the power of Azure Communications Services
+* Stuart Baxter (Kerv Digital) - Build a simple solution to assign security roles to Dataverse users
+* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells- Using OpenAI function calling with Microsoft Graph in Microsoft Teams bot
+
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 
-### Viva Connections & SharePoint Framework Community Call - 24th of August
+### Viva Connections & SharePoint Framework Community Call - 31st of August
 
-* Thursday, 24th of August 7:00 AM PT / 2:00 PM GMT
+* Thursday, 31st of August 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos this time
 
-* Daniel Turley (Avanade) - SPFx at Microsoft - Accelerator Tooling
-* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells - Creating a Personal Assistant with SPFx using OpenAI Function Calling and Microsoft Graph
-* [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh - Improving your SPFx development process with environment variables
+* [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan, [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan, [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj, and [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me - Knowledge Quest Teams Bot - HackTogether: Microsoft Teams Global Hack AI Winner
+* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Bring your existing Microsoft Teams .NET app to Teams Toolkit in Visual Studio 2022 
+* Luca Bandinelli (Microsoft) & Nick Pape (Microsoft) - Introduction to new Viva Connection Advance Card Designer functionality
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -53,22 +54,23 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Build SPFx extension to track SharePoint usage with Google Analytics](https://www.youtube.com/watch?v=ticKaqk8mjk) by [Samir Daoudi](https://twitter.com/daoudi_samir) (LogiSam) | @daoudi_samir
-* [Introduction to new Microsoft Graph Toolkit Search Components](https://www.youtube.com/watch?v=bBuBgFQAXqM&t=2s) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
-* [Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx](https://www.youtube.com/watch?v=l9S2oc2Svz4&t=5s) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-* [Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph Pages API](https://www.youtube.com/watch?v=66MPYTjLtFM) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
-* [Using ChatGPT (or your favorite AI) to speed up PowerShell Development](https://www.youtube.com/watch?v=J_M5vcIdzZ4) by [Todd Klindt](https://twitter.com/toddklindt) | @ToddKlindt
+* [Building my dashboard solution to aggregate relevant daily information with SPFx](https://www.youtube.com/watch?v=gGOp_ShHQ7c&t=43s) by  [João J. Mendes](https://twitter.com/joaojmendes) | @Joaojmendes and [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
+* [Pushing the Platform with the Power of Docusign & Automate](https://www.youtube.com/watch?v=CLQTIDZZOL4&t=4s) by  [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese 
+* [New card template options for Viva Connections in SPFx 1.18 release](https://www.youtube.com/watch?v=rheAG6qEdJc&t=13s) by [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
+* [Improving Power Apps UX with contextual data using Microsoft Graph and more](https://www.youtube.com/watch?v=HfHJUQkpjec) by  [Lewis Baybutt](https://twitter.com/lowcodelewis) | @lowcodelewis
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Virtual Agents Copilot: Generative Actions](https://www.youtube.com/watch?v=l-FQXSrboIg)
-* [Welcome to Power Virtual Agents Week](https://www.youtube.com/watch?v=6UweUrIrNPU) by [Kendra Springer](https://twitter.com/KendraSpringer) (Microsoft) | @Kendra Springer
-* [Certified Public Accountant transforms accounting processes using Power Automate and Generative AI](https://www.youtube.com/watch?v=dSoCR3ZPNhY)
-* [Power Pages Week Recap](https://www.youtube.com/watch?v=vdripgVGGqc) by [Heather Cook](https://twitter.com/heddanewman) (Microsoft ) | @heddanewman
+* [Dataverse integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE) by [Scott Sewell](https://twitter.com/ScottSewell) (Microsoft) | @Scott Sewell
+* [Welcome to Power BI Week!](https://www.youtube.com/watch?v=xDbNlvJJO6o)
+* [Power Virtual Agents Week Recap](https://www.youtube.com/watch?v=d_LzD6hppJc)  by [Kendra Springer](https://twitter.com/KendraSpringer) (Microsoft) | @Kendra Springer  
+
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
+* [What's new with Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=vKOIQJKqUgA) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [How to get the most out of the new features of Teams Toolkit!](https://www.youtube.com/watch?v=kv4BEjM-RXc) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 ---
 
@@ -76,6 +78,7 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Send Teams activity notifications using new resource-specific consent permissions](https://devblogs.microsoft.com/microsoft365dev/send-microsoft-teams-activity-feed-notifications-using-resource-specific-content-permissions/) by Luyao Wang (Microsoft)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
@@ -89,9 +92,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/m365/calls.
 
-* [Microsoft 365 & Power Platform Development Community call August 17th, 2023](https://www.youtube.com/watch?v=qtKKQkk__G8)
-* [Microsoft Power Platform community call – August 2023](https://www.youtube.com/watch?v=8fHZs-W2qg4)
-
+* [Microsoft 365 & Power Platform weekly call – 22nd of August, 2023](https://www.youtube.com/watch?v=3VR5u5FVk4k&t=1267s)
+* [Teams Toolkit for Visual Studio Code update with new AI chat bot template](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-with-new-ai-chat-bot-template/) by   Junjie Li (Microsoft)
+* [New Teams Toolkit for Visual Studio release with exciting features for .NET developers](https://devblogs.microsoft.com/microsoft365dev/new-teams-toolkit-for-visual-studio-release-with-exciting-features-for-net-developers/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 ---
 
@@ -115,7 +118,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [365 EduCon Seattle](https://365educon.com/Seattle/) – August 21-25, 2023 - Seattle, WA, USA
 * [Metaverse One 2023](https://www.communitydays.org/event/2023-09-20/metaverse-one-2023) - September 20, 2023 - Virtual
 * [South Coast Summit 2023](https://www.southcoastsummit.com/) - October 13-14, 2023 - Farnborough, United Kingdom
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
