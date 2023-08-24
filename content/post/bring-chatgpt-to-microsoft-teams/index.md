@@ -1,8 +1,8 @@
 ---
 # this is the title
-title: "Boost productivity By combining ChatGPT AND MS Teams"
+title: "Boost productivity by combining ChatGPT and Microsoft Teams"
 # this is the publishing date of your article, usually this should match "now"
-date: 2023-08-14T06:00:00-04:00
+date: 2023-08-23T06:00:00-04:00
 # This is your name
 author: "Sohil Bhalla"
 # This is your GitHub name
@@ -20,11 +20,9 @@ type: "regular"
 
 ## Overview
 
-ChatGPT is a form of generative AI — a tool that lets users enter prompts to receive humanlike images, text or videos that are created by AI.
-
-ChatGPT is similar to the automated chat services found on customer service websites, as people can ask it questions or request clarification to ChatGPT’s replies.
-
-ChatGPT is a very powerful tool which can help an individual or an organization to boost their productivity.
+* ChatGPT is a form of generative AI — a tool that lets users enter prompts to receive humanlike images, text or videos that are created by AI.
+* ChatGPT is similar to the automated chat services found on customer service websites, as people can ask it questions or request clarification to ChatGPT’s replies.
+* ChatGPT is a very powerful tool which can help an individual or an organization to boost their productivity.
 
 In this blog I am going to talk about how can we bring ChatGPT in our daily conversations in MS Teams without loosing the context and be more productive.
 
@@ -32,13 +30,13 @@ In this blog I am going to talk about how can we bring ChatGPT in our daily conv
 
 Below are the components that are involved in bridging ChatGPT and MS Teams.
 
-1. MS Teams
+1. Microsoft Teams
 2. Power Automate
 3. Custom Connector to ChatGPT
 
 ## Implementation
 
-## ChatGPT Custom Connector
+### ChatGPT Custom Connector
 
 In order to bridge the gap between MS Teams and ChatGPT, we will build a Power Automate which will get triggered from the MS Teams based on some action and which further will call ChatGPT api using custom connector to fetch the response and post it back to teams.
 
@@ -103,7 +101,7 @@ Now if I test my connector by typing hello in the content, I get the response as
 ```
 The content in the response is what we are going to use in the power automate.
 
-## Power Automate
+### Power Automate
 
 I am using a trigger in the power automate as “When keywords are mentioned”.
 
