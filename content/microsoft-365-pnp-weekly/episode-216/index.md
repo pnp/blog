@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 216"
-summary: "London-based Europe Workplace Value Realization Lead - Chris Kent (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on, plus 20 articles/videos."
+summary: "London-based Europe Workplace Value Realization Lead - Tennessee based Senior Platform Architect and Microsoft MVP Chris Kent (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on, plus 20 articles/videos."
 date: 2023-06-29T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -15,30 +15,44 @@ draft: false
 
 installment
  
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by  - [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Tennessee based Senior Platform Architect and Microsoft MVP [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent.
 
 ## Topics discussed in this session
 
-* Item
+* Chris's current role and day to day work
+* Changing the role from partner side to the customer
+* Chris's history on the partner ecosystem
+* Long term deployment support vs short term project delivery
+* How AI is changing the work and projects
+* Examples of AI projects Chris has been recently doing
+* Value what AI provides for the enterprise workers
+* Challenges with AI and automatically generated content
+* Considerations of evaluating the Return of Investments (ROI) with AI projects
+* How to determine which tool to use when within Microsoft 365 and Power Platform - "Chris's rules"
+* Value of community and open-source - why get involved?
  
 ## Referenced during conversation
 
-* Item 
-* Item 
+* [Microsoft List Formatting samples](https://pnp.github.io/List-Formatting/)
+* [SPFx - SharePoint Framework](https://aka.ms/spfx)
+* [Intelligent meeting recap in Teams Premium, now available](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/intelligent-meeting-recap-in-teams-premium-now-available/ba-p/3832541)
+* [Vasa ship](https://en.wikipedia.org/wiki/Vasa_(ship))
+* [SP Formatter](https://microsoftedge.microsoft.com/addons/detail/sp-formatter/eenbldkdgbfcfachaccldfgiajgjmjhi?hl=en-US) on helping for List Formatting creation
+* [Microsoft 365 & Power Platform public community calls](https://aka.ms/community/calls) - Join the next one - Everyone is welcome!
 
 There were 20 articles or videos covered within this episode produced by Microsoft and community members.  
 
 ## This week
 
-* **Chris** – 
-* **Waldek** – 
-* **Vesa** – 
+* **Chris** – Power Automate integration project with OpenAI to automate page creation in SharePoint - creating dynamically knowledge base for AI usage
+* **Waldek** – Planning, planning and planning. New versions of CLI for Microsoft 365 and Microsoft 365 Developer proxy.
+* **Vesa** – SPFx 1.18 release candidate and future work on the Viva Connections side
 
 ## Agenda items
 
 [00:00](https://youtu.be/bf72dcDGm8E?t=0) – Intro
 
-[01:58](https://youtu.be/bf72dcDGm8E?t=118) – Interview
+[01:58](https://youtu.be/bf72dcDGm8E?t=187) – Interview
 
 [47:54](https://youtu.be/bf72dcDGm8E?t=2874) – Articles
 
