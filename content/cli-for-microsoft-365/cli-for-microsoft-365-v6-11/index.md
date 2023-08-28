@@ -62,7 +62,7 @@ m365 pa app permission remove --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --t
 
 ### CLI config management
 
-You may configure CLI for Microsoft 365 to meet your personal preferences. Thanks to that you may for example configure how CLI should behave in case a URL is returned or what should be the default output mode or configure CLI to prompt for missing values in required options or so much much more that if you haven't you should definetly [give it a check](https://pnp.github.io/cli-microsoft365/user-guide/configuring-cli). In this release, we added a command that allows you to have a quick overview of all self-set configurations.
+You may configure CLI for Microsoft 365 to meet your personal preferences. Thanks to that you may for example configure how CLI should behave in case a URL is returned or what should be the default output mode, or configure CLI to prompt for missing values in required options, or so much much more that if you haven't, you should definitely [give it a check](https://pnp.github.io/cli-microsoft365/user-guide/configuring-cli). In this release, we added a command that allows you to have a quick overview of all self-set configurations.
 
 To list all self-set configuration keys with their value, simply run:
 
@@ -102,7 +102,7 @@ For more information, check out the documentation for each command:
 
 ### SharePoint Framework Projects v1.18.0-beta.5 Support
 
-Staying up to date is crucial if you want to be prepared for wants coming but upgrading an SPFx solution may sometimes not be a fair fight. Luckily for you, CLI for Microsoft 365 has a couple of commands that may save you a lot of time. In this release, we added the support for SPFx `v1.18.0-beta.5` to three of our most popular commands: `spfx project upgrade`, `spfx project doctor`, and `spfx doctor`.
+Staying up to date is crucial if you want to be prepared for what’s coming but upgrading an SPFx solution may sometimes not be a fair fight. Luckily for you, CLI for Microsoft 365 has a couple of commands that may save you a lot of time. In this release, we added the support for SPFx `v1.18.0-beta.5` to three of our most popular commands: `spfx project upgrade`, `spfx project doctor`, and `spfx doctor`.
 
 Here are the commands to get you started:
 
@@ -126,7 +126,7 @@ For more information, check out the documentation for each command:
 
 ### Extended SPO file copy command
 
-In this release we also improved the `spo file copy` command with two new options. One of them is definetly worth checking as it allows to clear the author and created date. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/5340) to find out more.
+In this release, we also improved the `spo file copy` command with two new options. One of them is definitely worth checking as it allows to clear the author and created date. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/5340) to find out more.
 
 ### New contributing guidance
 
@@ -136,7 +136,7 @@ Not so long ago we migrated our docs to a new fresh framework adding a couple of
 
 In this minor release, we continue our work on refactoring the code base to embrace the asynchronous programming model using **async/await**. All this would not have been possible without our awesome contributors and their dedication to CLI for Microsoft 365. Just have a look at the [list](https://github.com/pnp/cli-microsoft365/issues/3618) to get a feeling of the amount of work already done and what is left.
 
-We've also taken the first steps to refactor our codebase to centralize the shared code in util functions. This refactor will bring a performance boost to the tool as well as allows easier integration and testing. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/4531) to go over the details.
+We've also taken the first steps to refactor our codebase to centralize the shared code in util functions. This refactor will bring a performance boost to the tool as well as allow easier integration and testing. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/4531) to go over the details.
 
 ### What else
 
