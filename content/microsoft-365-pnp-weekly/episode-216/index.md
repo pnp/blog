@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 216"
 summary: "Tennessee based Senior Platform Architect and Microsoft MVP Chris Kent (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on, plus 20 articles/videos."
-date: 2023-06-29T02:00:01-00:00
+date: 2023-08-29T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
