@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 216"
-summary: "London-based Europe Workplace Value Realization Lead - Tennessee based Senior Platform Architect and Microsoft MVP Chris Kent (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on, plus 20 articles/videos."
+summary: "Tennessee based Senior Platform Architect and Microsoft MVP Chris Kent (Avanade) joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on, plus 20 articles/videos."
 date: 2023-06-29T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -13,9 +13,7 @@ videos:
 draft: false
 ---
 
-installment
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Tennessee based Senior Platform Architect and Microsoft MVP [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent.
+We are back from summer break with episode 216 - or is it season 8, episode 1? In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Tennessee based Senior Platform Architect and Microsoft MVP [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent.
 
 ## Topics discussed in this session
 
@@ -67,46 +65,38 @@ This session was recorded on Monday 19th of June and released on 20th of June, 2
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube bf72dcDGm8E >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-x9kti-14397ae >}}
+    {{< podbean pb-g938k-14906ef >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
 ## Microsoft articles
 
-* 
-* --
-* [Now in public preview: Collaborative notes in Microsoft Teams Meetings](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/now-in-public-preview-collaborative-notes-in-microsoft-teams/ba-p/3848533) - Alexis Johnston (Microsoft)
-* [How ISVs are driving customer retention by enabling unique experiences in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-isvs-are-driving-customer-retention-by-enabling-unique/ba-p/3842419) - Evan Westenberger (Microsoft)
-* [What’s New for Microsoft Teams Rooms and Teams Meetings at InfoComm 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-for-microsoft-teams-rooms-and-teams-meetings-at/ba-p/3843949) - Matt Taylor (Microsoft)
-* [Microsoft Viva Pulse available for public preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-pulse-available-for-public-preview/ba-p/3838338) - Tranissa Creme (Microsoft)
-* [“The SharePoint experience” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/the-sharepoint-experience-the-intrazone-podcast/ba-p/3848507) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Deploying Microsoft Viva Connections internally at Microsoft](https://www.microsoft.com/insidetrack/blog/deploying-microsoft-viva-connections-internally-at-microsoft/) - Keith Boyd (Microsoft)
-* [24 New Verified, 29 New Independent Publisher and 37 Updated Connectors available](https://powerautomate.microsoft.com/blog/24-new-verified-29-new-independent-publisher-and-37-updated-connectors-available/) - Amjed Ayoub (Microsoft)
-* [Run Your Enterprise on Power Platform with New Enterprise Application Templates](https://powerapps.microsoft.com/blog/run-your-enterprise-on-power-platform-with-new-enterprise-application-templates/) - [Ryan Cunningham](https://twitter.com/rc_says) (Microsoft) | @rc_says
-* [Announcing General Availability for Power Platform Customer-managed key (CMK)](https://powerapps.microsoft.com/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/) - Paul Liew (Microsoft)
-* [Fluid Framework 2.0 Alpha is now available](https://devblogs.microsoft.com/microsoft365dev/fluid-framework-2-0-alpha-is-now-available/) - Kashif Qureshi (Microsoft) & Nick Simons (Microsoft)
-* [What’s new for Office Add-ins: Announcements from Build 2023](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-announcements-from-build-2023/) - Microsoft
-* [Announcing Microsoft Graph Toolkit v3.0 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-microsoft-graph-toolkit-v3-0-release-candidate/) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
-
-## Videos
-
-* 
-* --
-* [Get A First Look At Power Automate Copilot!](https://www.youtube.com/watch?v=uKNL1y_9R9o) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
-* [Say Goodbye to Emails: Simplify TPS Reports with Teams Adaptive Cards](https://www.youtube.com/watch?v=_O08-bbBVy4) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-* [🤖 How to use AI in Power Apps aka Copilot](https://www.youtube.com/watch?v=qvQhMScIxuk) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @delucagiulian
-* [Episode #251 - Microsoft Teams Toolkit v5.0 from Zero to Hero: Part 2](https://www.youtube.com/watch?v=nP95bYEO4mE) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+* [Save costs and drive efficiency with next-generation AI on the frontline with Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2023/08/09/save-costs-and-drive-efficiency-with-next-generation-ai-on-the-frontline-with-microsoft-teams/) - [Nicole Herskowitz](https://twitter.com/nicolelamb) (Microsoft) | @nicolelamb
+* [Supercharge brand content with the Typeface AI app for Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/supercharge-brand-content-with-the-typeface-ai-app-for-microsoft/ba-p/3907848) - [Srini Raghavan](https://twitter.com/SriniRaghavan) (Microsoft) | @SriniRaghavan
+* [Updated content for the SharePoint Web UI kit!](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/updated-content-for-the-sharepoint-web-ui-kit/ba-p/3905250) - Jason Blackheart (Microsoft)
+* [“Viva Connections adoption best practices” 🎙 – The Intrazone podcast]() -  [Liz Sundet](https://twitter.com/percusn) (Microsoft) | @percusn & Luis Enrique Torres (Microsoft)
+* [New Office Add-ins entry point available online](https://devblogs.microsoft.com/microsoft365dev/new-office-add-ins-entry-point-available-online/) - Skylar Pan (Microsoft)
+* [Send Teams activity notifications using new resource-specific consent permissions](https://devblogs.microsoft.com/microsoft365dev/send-microsoft-teams-activity-feed-notifications-using-resource-specific-content-permissions/) - Luyao Wang (Microsoft)
+* [Teams Toolkit for Visual Studio Code update with new AI chat bot template](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-with-new-ai-chat-bot-template/) - Junjie Li (Microsoft)
+* [New Teams Toolkit for Visual Studio release with exciting features for .NET developers](https://devblogs.microsoft.com/microsoft365dev/new-teams-toolkit-for-visual-studio-release-with-exciting-features-for-net-developers/) - Yu Zhang (Microsoft) & [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
+* [Integrate OpenAI, Communication, and Organizational Data Features into a Line of Business App](https://learn.microsoft.com/en-us/microsoft-cloud/dev/tutorials/openai-acs-msgraph?WT.mc_id=m365-94501-dwahlin) - Microsoft
 
 ## Community articles
 
-* 
-* --
-* [Use Viva Connections Toolkit for VS Code to boost your productivity with SharePoint Framework projects](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-general-intro/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-* [CLI for Microsoft 365 and PnP Powershell VS Code extensions](https://pnp.github.io/blog/post/cli-for-microsoft365-and-pnp-powershell-vs-code-extensions/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-* [TGIWE 02 – Another Friday – finally, a new article](https://n8d.at/tgiwe02-another-friday-finally-a-new-article) - [Stefan Bauer](https://twitter.com/StfBauer) (N8D) | @StfBauer
-* [Configuring the CLI for Microsoft 365 in Azure Functions](https://www.blimped.nl/configuring-the-cli-for-microsoft-365-in-azure-functions) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
-* [Microsoft Search Roadmap Updates – June 2023](https://searchexplained.com/microsoft-search-roadmap-updates-202306/) - Oleg Petryk (Search Explained)
-* [Performance of the Graph API, REST API and Web Services with SharePoint and Power Automate](https://sharepains.com/2023/06/13/performance-of-the-graph-api/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
+* [Quick tip: customizing the SharePoint site search experience](https://www.blimped.nl/quick-tip-customizing-the-sharepoint-site-search-experience/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
+* [Use Teams Toolkit for Visual Studio (C# & Blazor) to create a Teams Tab using SSO for Microsoft Graph](https://mmsharepoint.wordpress.com/2023/08/15/use-teams-toolkit-for-visual-studio-c-blazor-to-create-a-teams-tab-using-sso-for-microsoft-graph/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Dealing with external sharing inside SharePoint Framework (SPFx)](https://mmsharepoint.wordpress.com/2023/08/07/dealing-with-external-sharing-inside-sharepoint-framework-spfx/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [How to save Microsoft Forms Responses with Attachments to SharePoint Lists?](https://www.c-sharpcorner.com/article/how-to-save-microsoft-forms-responses-with-attachments-to-sharepoint-lists2/) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
+* [End-to-End Test Microsoft 365 Solutions with Playwright](https://www.eliostruyf.com/test-microsoft-365-solutions-playwright/) - [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @eliostruyf
+* [A Purview disposition review infographic](https://joannecklein.com/2023/08/10/a-purview-disposition-review-infographic/) - [Joanne C Klein](https://twitter.com/JoanneCKlein) (NexNovus Consulting Inc.) | @JoanneCKlein
+* [Video: Taking Your Line of Business Apps to the Next Level with OpenAI and GPT Models, Communication and Organizational Data](https://blog.codewithdan.com/video-taking-your-line-of-business-apps-to-the-next-level-openai-and-gpt-models-communication-and-organizational-data/?utm_source=rss&utm_medium=rss&utm_campaign=video-taking-your-line-of-business-apps-to-the-next-level-openai-and-gpt-models-communication-and-organizational-data) - [Dan Wahlin](https://twitter.com/danwahlin) (Microsoft) | @danwahlin
+
+## Videos
+
+* [Episode #259 - Handling Throttling Exceptions with Microsoft Graph Toolkit in SharePoint Framework](https://www.youtube.com/watch?v=P32ovV6xkjk) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
+* [Power Automate: Compare two lists and find what's missing](https://www.youtube.com/watch?v=G0GEdtn83pU) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+* [Different types of Power Apps users](https://www.youtube.com/watch?v=845-xtT8y_0) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
+* [Power Hour: Power Apps Named Formulas](https://www.youtube.com/watch?v=qlaJrag6pm0) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @WonderLaura & Joelle Jobson (IW Mentor)
 
 ## Upcoming events
 
