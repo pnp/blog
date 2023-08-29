@@ -50,11 +50,11 @@ There were 20 articles or videos covered within this episode produced by Microso
 
 [00:00](https://youtu.be/bf72dcDGm8E?t=0) – Intro
 
-[01:58](https://youtu.be/bf72dcDGm8E?t=187) – Interview
+[03:07](https://youtu.be/bf72dcDGm8E?t=187) – Interview
 
-[47:54](https://youtu.be/bf72dcDGm8E?t=2874) – Articles
+[44:55](https://youtu.be/bf72dcDGm8E?t=2695) – Articles
 
-[1:19:27](https://youtu.be/bf72dcDGm8E?t=4227) – Closing
+[1:04:24](https://youtu.be/bf72dcDGm8E?t=3864) – Closing
 
 ## Action requested
 
