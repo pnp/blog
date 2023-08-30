@@ -189,6 +189,19 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 
 We express our deepest gratitude for the time and effort you have invested in CLI for Microsoft 365, improving its progress and enriching its capabilities. Your contributions have played a significant role in advancing this project and empowering users worldwide. Thank you for your commitment and valuable assistance!
 
+### High fives
+
+We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
+
+- [alpozz](https://github.com/alpozz)
+- [Albert-Jan Schot](https://github.com/appieschot)
+- [Brian Frick](https://github.com/frick-brian)
+- [Ganesh Sanap](https://github.com/ganesh-sanap)
+- [Garry Trinder](https://github.com/garrytrinder)
+- [Stefan Rauchegger](https://github.com/smadep)
+
+Your feedback has been instrumental in shaping the direction of CLI for Microsoft 365, and we are grateful for your involvement in making our platform even better. Your active participation and valuable insights continue to drive innovation and enhance the user experience for all. Thank you for being an essential part of our community!
+
 ## Get Started Today!
 
 Experience the power of CLI for Microsoft 365 by getting the latest release from npm:
