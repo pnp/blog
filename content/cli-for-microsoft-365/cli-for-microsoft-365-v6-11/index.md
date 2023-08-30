@@ -21,6 +21,16 @@ Introducing the latest release of CLI for Microsoft 365
 
 > Explore the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6110) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
 
+## Last minor release before v7
+
+Before we will have a deep dive on what's added in this release it's worth mentioning that the v7 release is just around the corner. We are planning to go live next month so be sure you prepare yourself in advance. You may check out the [upgrade guidance](https://github.com/pnp/cli-microsoft365/blob/v7/docs/docs/v7-upgrade-guidance.mdx) directly in the repo today.
+
+You may also install the upcoming release and give it a try:
+
+```sh
+npm i -g @pnp/cli-microsoft365@seven
+```
+
 ## What's new
 
 In this minor release, we added a couple of new commands and enhancements to the existing functionality. Check out some of the awesome stuff added and be sure to try them out.
@@ -126,7 +136,15 @@ For more information, check out the documentation for each command:
 
 ### Extended the 'spo file copy' command
 
-In this release, we also improved the `spo file copy` command with two new options. One of them is definitely worth checking as it allows to clear the author and created date. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/5340) to find out more.
+In this release, we also improved the `spo file copy` command with two new options. One of them is definitely worth checking as it allows to clear the author and created date. Let's check it out in action.
+
+To copy a file by site-relative URL to a document library in another site collection and clear the author and created date simply run:
+
+```sh
+m365 spo file copy --webUrl https://contoso.sharepoint.com/sites/project --sourceUrl "/Shared Documents/Document.pdf" --targetUrl "/sites/IT/Shared Documents" --resetAuthorAndCreated
+```
+
+Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/5340) to find out more.
 
 ### New contributing guidance
 
