@@ -37,17 +37,17 @@ In this minor release, we added a couple of new commands and enhancements to the
 
 ### Power Apps management
 
-In the last release we introduced a couple of new commands that allowed you to manage Power Apps and we are not slowing down. In this release, we added two more commands to give you more control over permission management.
+In the last release we introduced a couple of new commands that allowed you to manage Power Apps apps and we are not slowing down. In this release, we added two more commands to give you more control over permission management.
 
 The first one is the `pa app permission ensure` command that will allow you to assign or update permissions to a Power Apps app. Let's check out what is possible.
 
-For example to add a co-owner permissions for a security group to a Power Apps app simply run:
+For example to add co-owner permissions for a security group to a Power Apps app simply run:
 
 ```sh
 m365 pa app permission ensure --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --groupName Developers --roleName CanEdit
 ```
 
-Or to share a Power Apps app with everyone in the tenant type:
+Or to share a Power Apps app with everyone in the tenant, use:
 
 ```sh
 m365 pa app permission ensure --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --roleName CanView --tenant
@@ -55,7 +55,7 @@ m365 pa app permission ensure --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --r
 
 We also introduced a new command that allows you to remove permissions to a Power Apps app.
 
-Thanks to that you may for example remove permissions of a specific user for a specific app by simply:
+Thanks to that, you may for example remove permissions of a specific user for a specific app by running:
 
 ```sh
 m365 pa app permission remove --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --userName john.doe@contoso.com 
@@ -72,7 +72,7 @@ m365 pa app permission remove --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --t
 
 ### CLI config management
 
-You may configure CLI for Microsoft 365 to meet your personal preferences. Thanks to that you may for example configure how CLI should behave in case a URL is returned or what should be the default output mode, or configure CLI to prompt for missing values in required options, or so much much more that if you haven't, you should definitely [give it a check](https://pnp.github.io/cli-microsoft365/user-guide/configuring-cli). In this release, we added a command that allows you to have a quick overview of all self-set configurations.
+You may configure CLI for Microsoft 365 to meet your personal preferences. Thanks to that you may, for example, configure how CLI should behave in case a URL is returned or what should be the default output mode, or configure CLI to prompt for missing values in required options, or so much much more that if you haven't, you should definitely [give it a check](https://pnp.github.io/cli-microsoft365/user-guide/configuring-cli). In this release, we added a command that allows you to have a quick overview of all self-set configurations.
 
 To list all self-set configuration keys with their value, simply run:
 
@@ -86,9 +86,9 @@ For more information, check out:
 
 ### Add a CI/CD pipeline to your SPFx project with ease
 
-I will be honest this is one of my personal favorites. Who wouldn't want some kind of flow that will automagically build, package, and deploy your solution after adding a new feature to your code base? In the IT world, we use workflows (pipelines) for exactly that. We added a new command that will generate a YAML GitHub workflow for a given SPFx project which will give you a huge head start in creating a good quality CI/CD flow. Let's check out what's possible.
+I will be honest, this is one of our personal favorites. Who wouldn't want some kind of flow that will automatically build, package, and deploy your solution after adding a new feature to your code base? In the IT world, we use workflows (pipelines) for exactly that. We added a new command that will generate a YAML GitHub workflow for a given SPFx project, giving you a huge head start in creating a good quality CI/CD flow. Let's check out what's possible.
 
-To add a GitHub workflow for a SharePoint Framework project with an application login method triggered on push to main you only need to run:
+To add a GitHub workflow for a SharePoint Framework project that uses an application login and triggers for every push to the `main` branch, you should run:
 
 ```sh
 m365 spfx project github workflow add 
@@ -100,7 +100,7 @@ To do the same but with user login method just run:
 m365 spfx project github workflow add --manuallyTrigger --loginMethod "user"
 ```
 
-And if you want to have a CI/CD pipeline to deploy your app to a Site level app catalog just run:
+And if you want to have a CI/CD pipeline to deploy your app to a site level app catalog just run:
 
 ```sh
 m365 spfx project github workflow add --scope "sitecollection" --siteUrl "https://some.sharepoint.com/sites/someSite"
@@ -148,7 +148,7 @@ Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/534
 
 ### New contributing guidance
 
-Not so long ago we migrated our docs to a new static site generator adding a couple of awesome features along the way like AI search powered by [Mendable](https://www.mendable.ai/). In this release, we worked on adding more valuable content and added a new section with contributing guidance to the CLI for Microsoft 365. How to add a new command? How to add unit tests? How to add a new script sample? All that and much much more will become super clear after [checking out our docs](https://pnp.github.io/cli-microsoft365/contribute/contributing-guide).
+Not so long ago we migrated our docs to a new static site generator adding a couple of awesome features along the way like AI search powered by [Mendable](https://www.mendable.ai/). In this release, we worked on adding more valuable content and added a new section with contributing guidance to the CLI for Microsoft 365. How to add a new command? How to add unit tests? How to add a new script sample? All that and much much more will become super clear after checking out our [contribute section](https://pnp.github.io/cli-microsoft365/contribute/contributing-guide).
 
 ### The fun never stops, improving our codebase
 
