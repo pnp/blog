@@ -19,13 +19,13 @@ Introducing the latest release of CLI for Microsoft 365
 
 [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project. You may manage OneDrive, Planner, Power Apps and Automate, Teams, Viva Engage (Yammer), SharePoint (of course), and many many more. The list keeps on growing and growing. In this minor release, we introduced new commands as well as a tonne of improvements.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+> Explore the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6110) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
 
 ## What's new
 
 In this minor release, we added a couple of new commands and enhancements to the existing functionality. Check out some of the awesome stuff added and be sure to try them out.
 
-### Power Apps Management
+### Power Apps management
 
 In the last release we introduced a couple of new commands that allowed you to manage Power Apps and we are not slowing down. In this release, we added two more commands to give you more control over permission management.
 
@@ -100,7 +100,7 @@ For more information, check out the documentation for each command:
 
 - [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/)
 
-### SharePoint Framework Projects v1.18.0-beta.5 Support
+### SharePoint Framework Projects v1.18.0-beta.5 support
 
 Staying up to date is crucial if you want to be prepared for what’s coming but upgrading an SPFx solution may sometimes not be a fair fight. Luckily for you, CLI for Microsoft 365 has a couple of commands that may save you a lot of time. In this release, we added the support for SPFx `v1.18.0-beta.5` to three of our most popular commands: `spfx project upgrade`, `spfx project doctor`, and `spfx doctor`.
 
@@ -124,17 +124,17 @@ For more information, check out the documentation for each command:
 - [spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/)
 - [spfx project doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-doctor/)
 
-### Extended SPO file copy command
+### Extended the 'spo file copy' command
 
 In this release, we also improved the `spo file copy` command with two new options. One of them is definitely worth checking as it allows to clear the author and created date. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/5340) to find out more.
 
 ### New contributing guidance
 
-Not so long ago we migrated our docs to a new fresh framework adding a couple of awesome features along the way like AI search powered by [Mendable](https://www.mendable.ai/). In this release, we worked on adding more valuable content and added a new section with contributing guidance to the CLI for Microsoft 365. How to add a new command? How to add unit tests? How to add a new script sample? All that and much much more will become super clear after [checking out our docs](https://pnp.github.io/cli-microsoft365/contribute/contributing-guide).
+Not so long ago we migrated our docs to a new static site generator adding a couple of awesome features along the way like AI search powered by [Mendable](https://www.mendable.ai/). In this release, we worked on adding more valuable content and added a new section with contributing guidance to the CLI for Microsoft 365. How to add a new command? How to add unit tests? How to add a new script sample? All that and much much more will become super clear after [checking out our docs](https://pnp.github.io/cli-microsoft365/contribute/contributing-guide).
 
-### The fun never stops, improving our Codebase
+### The fun never stops, improving our codebase
 
-In this minor release, we continue our work on refactoring the code base to embrace the asynchronous programming model using **async/await**. All this would not have been possible without our awesome contributors and their dedication to CLI for Microsoft 365. Just have a look at the [list](https://github.com/pnp/cli-microsoft365/issues/3618) to get a feeling of the amount of work already done and what is left.
+In this minor release, we continued our work on refactoring the code base to embrace the asynchronous programming model using **async/await**. All this would not have been possible without our awesome contributors and their dedication to CLI for Microsoft 365. Just have a look at the [list](https://github.com/pnp/cli-microsoft365/issues/3618) to get a feeling of the amount of work already done and what is left.
 
 We've also taken the first steps to refactor our codebase to centralize the shared code in util functions. This refactor will bring a performance boost to the tool as well as allow easier integration and testing. Check out the [related issue](https://github.com/pnp/cli-microsoft365/issues/4531) to go over the details.
 
@@ -142,11 +142,11 @@ We've also taken the first steps to refactor our codebase to centralize the shar
 
 If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6110) to find out more.
 
-## Upcoming Changes
+## Upcoming changes
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-### Expanding Command Arsenal
+### Expanding command arsenal
 
 Our relentless pursuit of empowering your Microsoft 365 experience continues. We're actively working on introducing more commands to CLI for Microsoft 365. From Power Platform to SharePoint Online, we're exploring various services to enhance your command-line capabilities. Additionally, we're dedicated to refactoring our codebase to embrace the power of async/await, further improving performance and readability.
 
