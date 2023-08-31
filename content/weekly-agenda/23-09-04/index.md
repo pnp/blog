@@ -1,16 +1,16 @@
 ---
-title: Weekly Agenda - 28th of August 2023 week
-date: 2023-08-24T13:14:11.888Z
+title: Weekly Agenda - 4th of September 2023 week
+date: 2023-08-31T19:36:19.906Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda35.png
+  - images/weeklyagenda36.png
 tags: []
-type: regular
+type: trending
 videos: null
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -19,32 +19,32 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform weekly call - 29th of August
+### Microsoft 365 & Power Platform weekly call - 5th of September
 
-* Tuesday, 29th of August 2023, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 5th of September 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=MX8OVvsAK0s&list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan, [Smita Nachan](https://twitter.com/smitanachan) | @SmitaNachan, [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj, and [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me - Knowledge Quest Teams Bot - HackTogether: Microsoft Teams Global Hack AI Winner
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Bring your existing Microsoft Teams .NET app to Teams Toolkit in Visual Studio 2022 
-* Luca Bandinelli (Microsoft) & Nick Pape (Microsoft) - Introduction to new Viva Connection Advance Card Designer functionality
+* [Dan Toft](https://twitter.com/tanddant) (Evobis) | @tanddant and [Jeppe Spanggaard](https://twitter.com/jeppesc11) (Evobis)  | @jeppesc11 - Guest User Overview - HackTogether: Microsoft Teams Global Hack Productivity Winner 
+* Irene Wang (Microsoft) - Add actions to files with custom actions across Microsoft 365 
+* [Marcel Ferreira](htts://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira - Create a Power App from your ASP.NET API - Visual Studio + Power Platform
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 31st of August
+### Viva Connections & SharePoint Framework Community Call - 7th of September
 
-* Thursday, 31st of August 7:00 AM PT / 2:00 PM GMT
+* Thursday, 7th of September 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos this time
 
-* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford - Connecting Teams with your customers through the power of Azure Communications Services
-* Stuart Baxter (Kerv Digital) - Build a simple solution to assign security roles to Dataverse users
-* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells- Using OpenAI function calling with Microsoft Graph in Microsoft Teams bot
+* Nishkalank Bezawada (Tietoevry) - Harnessing a Power Automate Flow Dashboard Web Part
+* [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-You) | @martinlingstuyl - Deploying SPFx apps with Azure DevOps pipelines
+* [Steve Corey](https://twitter.com/stevecorey365) (Quisitive) | @SteveCorey365 - Confirming Terms & Conditions using SPFx Extensions
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -53,25 +53,25 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Introduction to Power Automate Chrome Extension](https://www.youtube.com/watch?v=RKAHmiyEHvk) by Michał Kornet (Logamic) 
-* [Building my dashboard solution to aggregate relevant daily information with SPFx](https://www.youtube.com/watch?v=gGOp_ShHQ7c&t=43s) by  [João J. Mendes](https://twitter.com/joaojmendes) | @Joaojmendes and [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* [Pushing the Platform with the Power of Docusign & Automate](https://www.youtube.com/watch?v=CLQTIDZZOL4&t=4s) by  [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese 
-* [New card template options for Viva Connections in SPFx 1.18 release](https://www.youtube.com/watch?v=rheAG6qEdJc&t=13s) by [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
-* [Improving Power Apps UX with contextual data using Microsoft Graph and more](https://www.youtube.com/watch?v=HfHJUQkpjec) by  [Lewis Baybutt](https://twitter.com/lowcodelewis) | @lowcodelewis
+* [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
+* [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o&t=1100s)
+* [Microsoft 365 PnP Weekly – Episode 216 – Chris Kent (Takeda)](https://www.youtube.com/watch?v=bf72dcDGm8E&t=2699s) with [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4&t=57s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g&t=6s) by Daniel Turley (Avanade)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Dataverse integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE) by [Scott Sewell](https://twitter.com/ScottSewell) (Microsoft) | @Scott Sewell
-* [Welcome to Power BI Week!](https://www.youtube.com/watch?v=xDbNlvJJO6o)
-* [Power Virtual Agents Week Recap](https://www.youtube.com/watch?v=d_LzD6hppJc)  by [Kendra Springer](https://twitter.com/KendraSpringer) (Microsoft) | @Kendra Springer  
-
+* [Hear from Nirav Shah, Vice President of Dataverse](https://www.youtube.com/watch?v=4GkY5ZITavM) by Nirav Shah (Microsoft)
+* [Accessing SharePoint and SQL data in Dataverse with Virtual Tables](https://www.youtube.com/watch?v=OYmr9OWe6ps) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+* [Welcome to Dataverse Week!](https://www.youtube.com/watch?v=7lMvk3YIIwM) by [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
+* [Hear from Kim Manis, Director of Product for Power BI and Microsoft Fabric](https://www.youtube.com/watch?v=43DjWdQDQJY) by Kim Manis (Microsoft)
+ 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [First steps toward a unified Microsoft 365 app model](https://www.youtube.com/watch?v=SAWjXdy2Rxs) by [Rabia Williams](https://twitter.com/williamsrabia) | @williamsrabia & [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* [What's new with Teams Toolkit for Visual Studio](https://www.youtube.com/watch?v=vKOIQJKqUgA) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
-* [How to get the most out of the new features of Teams Toolkit!](https://www.youtube.com/watch?v=kv4BEjM-RXc) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [Building dynamic 3D worlds in a collaborative way using Microsoft Teams AI](https://www.youtube.com/watch?v=181D9lk7DRc)
 
 ---
 
@@ -79,14 +79,19 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Send Teams activity notifications using new resource-specific consent permissions](https://devblogs.microsoft.com/microsoft365dev/send-microsoft-teams-activity-feed-notifications-using-resource-specific-content-permissions/) by Luyao Wang (Microsoft)
-* [Teams Toolkit for Visual Studio Code update with new AI chat bot template](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-with-new-ai-chat-bot-template/) by Junjie Li (Microsoft)
-* [New Teams Toolkit for Visual Studio release with exciting features for .NET developers](https://devblogs.microsoft.com/microsoft365dev/new-teams-toolkit-for-visual-studio-release-with-exciting-features-for-net-developers/) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [Microsoft 365 Developer Proxy v0.11 with improved $select guidance](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-proxy-v0-11-with-improved-select-guidance/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
+* [Adaptive Card-based Loop components are now in preview](https://devblogs.microsoft.com/microsoft365dev/adaptive-card-based-loop-components-are-now-in-preview/) by Shubham Chauhan (Microsoft)
+* [Restarting billing on Teams Chat Export APIs; new API enhancements](https://devblogs.microsoft.com/microsoft365dev/restarting-billing-on-teams-chat-export-apis-new-api-enhancements/) by Srisudha Mahadevan (Microsoft)
+* [New Office Add-ins entry point available online](https://devblogs.microsoft.com/microsoft365dev/new-office-add-ins-entry-point-available-online/) by Skylar Pan (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
+
+* [CLI for Microsoft 365 v6.11](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-11/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [Microsoft 365 PnP Weekly - Episode 216](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-216/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Boost productivity by combining ChatGPT and Microsoft Teams](https://pnp.github.io/blog/post/bring-chatgpt-to-microsoft-teams/) by [Sohil Bhalla](https://github.com/sohilbhalla/) (Codeless Technology B.V.) | sohilbhalla
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -96,8 +101,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections and SharePoint Framework community call 24th of August 2023](https://www.youtube.com/watch?v=Sxrnc7gSw4A)
-* [Microsoft 365 & Power Platform weekly call – 22nd of August, 2023](https://www.youtube.com/watch?v=3VR5u5FVk4k&t=1267s)
+* [Microsoft 365 & Power Platform weekly call – 29th of August, 2023](https://www.youtube.com/watch?v=daNMXXtYfPM&t=2801s)
+
 
 ---
 
