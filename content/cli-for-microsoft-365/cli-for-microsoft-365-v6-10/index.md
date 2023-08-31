@@ -14,7 +14,7 @@ tags:
   - Power Apps
   - Planner
   - Microsoft Teams
-type: popular
+type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
