@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 4th of September 2023 week
-date: 2023-08-31T19:36:19.906Z
+date: 2023-09-01T02:36:19.906Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -23,7 +23,7 @@ This is the agenda for the following week:
 
 * Tuesday, 5th of September 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=MX8OVvsAK0s&list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
@@ -37,8 +37,8 @@ Demos this time
 ### Viva Connections & SharePoint Framework Community Call - 7th of September
 
 * Thursday, 7th of September 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
+* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
+* If you can't make it this time, you can see the call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXdcwfcHGsGr78nHWLRsv1x)
 
 Demos this time
 
@@ -59,6 +59,14 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Microsoft 365 PnP Weekly – Episode 216 – Chris Kent (Takeda)](https://www.youtube.com/watch?v=bf72dcDGm8E&t=2699s) with [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4&t=57s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g&t=6s) by Daniel Turley (Avanade)
+* [Using Power Apps for Change Management](https://www.youtube.com/watch?v=Hd5uT0YjNco) by [Azim Zicar​](https://twitter.com/AzimZicar) (Zicar Consultancy)  @AzimZicar
+* [The Power Platform Global AI Hack](https://www.youtube.com/watch?v=UKHmPlQ6KdA)
+* [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
+* [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o)
+* [Microsoft 365 PnP Weekly – Episode 216 – Chris Kent (Takeda)](https://www.youtube.com/watch?v=bf72dcDGm8E) with [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g) by Daniel Turley (Avanade)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -68,7 +76,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 * [Welcome to Dataverse Week!](https://www.youtube.com/watch?v=7lMvk3YIIwM) by [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
 * [Hear from Kim Manis, Director of Product for Power BI and Microsoft Fabric](https://www.youtube.com/watch?v=43DjWdQDQJY) by Kim Manis (Microsoft)
  
-
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * [Building dynamic 3D worlds in a collaborative way using Microsoft Teams AI](https://www.youtube.com/watch?v=181D9lk7DRc)
@@ -101,8 +108,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development Community call August 31st, 2023](https://www.youtube.com/watch?v=gAqUr9wa2_0)
 * [Microsoft 365 & Power Platform weekly call – 29th of August, 2023](https://www.youtube.com/watch?v=daNMXXtYfPM&t=2801s)
-
 
 ---
 
