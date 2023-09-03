@@ -9,7 +9,7 @@ images:
   - images/weeklyagenda30.png
 tags: []
 type: trending
-videos: nullgit
+videos: null
 draft: false
 ---
 
@@ -46,7 +46,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Scenarios and features of Microsoft Syntex Repository Services](https://www.youtube.com/watch?v=qmL74v0lX9I&t=4s) by Marc Windle (Microsoft)
 * [Extend SPFx apps across Microsoft 365 - Contoso Retail scenario](https://www.youtube.com/watch?v=_FkUpF5TnLk&t=3s) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Building a custom Instagram Feed experience with SPFx](https://www.youtube.com/watch?v=_OU1dhtO9D4&t=6s) by [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
-* [Multi-geo support for site discovery with Microsoft Graph](https://www.youtube.com/watch?v=b7uU8ggmzmA&t=7s) by Diksha Upadhyay (Microsoft)  
+* [Multi-geo support for site discovery with Microsoft Graph](https://www.youtube.com/watch?v=b7uU8ggmzmA&t=7s) by Diksha Upadhyay (Microsoft)
 
 
 
@@ -64,7 +64,7 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
 * [Teams Toolkit for Visual Studio Code Update – July 2023](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-july-2023/) by Junjie Lie (Microsoft)
-* [Breaking changes in the Microsoft Graph list channels API (beta) ](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-in-the-microsoft-graph-list-channels-api-beta/) by Sumit Gupta (Microsoft)
+* [Breaking changes in the Microsoft Graph list channels API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-in-the-microsoft-graph-list-channels-api-beta/) by Sumit Gupta (Microsoft)
 * [Keep your app top of mind and top of chat with message extensions in Microsoft Teams and Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/keep-your-app-top-of-mind-and-top-of-chat-with-message-extensions-in-microsoft-teams-and-microsoft-365-copilot/) by Daniel Carrasco (Microsoft)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
