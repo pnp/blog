@@ -53,6 +53,12 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
+* [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o&t=1100s)
+* [Microsoft 365 PnP Weekly – Episode 216 – Chris Kent (Takeda)](https://www.youtube.com/watch?v=bf72dcDGm8E&t=2699s) with [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4&t=57s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g&t=6s) by Daniel Turley (Avanade)
 * [Using Power Apps for Change Management](https://www.youtube.com/watch?v=Hd5uT0YjNco) by [Azim Zicar​](https://twitter.com/AzimZicar) (Zicar Consultancy)  @AzimZicar
 * [The Power Platform Global AI Hack](https://www.youtube.com/watch?v=UKHmPlQ6KdA)
 * [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 

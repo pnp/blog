@@ -41,7 +41,6 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* 
 * [Tracking workflow runs and errors using Power Automate and SharePoint](https://www.youtube.com/watch?v=NPF2QQEkCj0) by [Jonathan Weaver](https://twitter.com/j_weaver74)​ (WaterOne) \| @j_weaver74
 * [Latest on using SPFx on building extensibility for SharePoint](https://www.youtube.com/watch?v=rwvF1qqgb_M) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [How Microsoft Syntex Repository Services powers Microsoft Loop](https://www.youtube.com/watch?v=OIRd65liVP0) by Mark Windle (Microsoft)
