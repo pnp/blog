@@ -60,7 +60,7 @@ There were 20 articles or videos covered within this episode produced by Microso
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday 19th of June and released on 20th of June, 2023.
+This session was recorded on Thursday 24th of August and released on 28th of August, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube bf72dcDGm8E >}}

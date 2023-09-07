@@ -56,6 +56,10 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
 * [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o&t=1100s)
+* [Level up your Power Apps Canvas with Enhanced component properties](https://www.youtube.com/watch?v=jiTvxYAqJjM) by [Nicolò Ferranti](https://twitter.com/nicoloferranti) (Avanade) | @nicoloferranti
+* [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
+* [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o&t=1100s) by Sara Cummings & [Vesa Juvonen](https://twitter.com/theChrisKent) (Microsoft) | @vesajuvonen
 * [Microsoft 365 PnP Weekly – Episode 216 – Chris Kent (Takeda)](https://www.youtube.com/watch?v=bf72dcDGm8E&t=2699s) with [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4&t=57s) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g&t=6s) by Daniel Turley (Avanade)
@@ -68,14 +72,13 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Microsoft Teams App Camp New Adventure!](https://www.youtube.com/watch?v=JelcnNCtzm4) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [SharePoint Framework at Microsoft - Reusable Accelerator Components](https://www.youtube.com/watch?v=UCtk12L_i4g) by Daniel Turley (Avanade)
 
-
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Hear from Nirav Shah, Vice President of Dataverse](https://www.youtube.com/watch?v=4GkY5ZITavM) by Nirav Shah (Microsoft)
 * [Accessing SharePoint and SQL data in Dataverse with Virtual Tables](https://www.youtube.com/watch?v=OYmr9OWe6ps) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 * [Welcome to Dataverse Week!](https://www.youtube.com/watch?v=7lMvk3YIIwM) by [Phil Topness](https://twitter.com/topness) (Microsoft) | @topness
 * [Hear from Kim Manis, Director of Product for Power BI and Microsoft Fabric](https://www.youtube.com/watch?v=43DjWdQDQJY) by Kim Manis (Microsoft)
- 
+
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * [Building dynamic 3D worlds in a collaborative way using Microsoft Teams AI](https://www.youtube.com/watch?v=181D9lk7DRc)
@@ -109,7 +112,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft 365 & Power Platform Development Community call August 31st, 2023](https://www.youtube.com/watch?v=gAqUr9wa2_0)
-* [Microsoft 365 & Power Platform weekly call – 29th of August, 2023](https://www.youtube.com/watch?v=daNMXXtYfPM&t=2801s)
+* [Microsoft 365 & Power Platform weekly call – 29th of August, 2023](https://www.youtube.com/watch?v=daNMXXtYfPM)
 
 ---
 
@@ -133,10 +136,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Metaverse One 2023](https://www.communitydays.org/event/2023-09-20/metaverse-one-2023) - September 20, 2023 - Virtual
-* [Dynamics User Group Ohio Regional Meetup](https://www.communitydays.org/event/2023-08-22/dynamics-user-group-ohio-regional-meetup) - August 23-24, 2023 - Dublin, OH, USA
-* [Microsoft AI Day](https://www.communitydays.org/event/2023-09-01/microsoft-ai-day) - September 1, 2023 - Toronto, Canada
-* [MCT MVP West Africal Summit 2023](https://www.communitydays.org/event/2023-09-04/mct-mvp-west-africa-summit-2023) - September 4-9, 2023 - Abuja, Nigeria
 * [Microsoft 365 Summer Soiree in Vancouver](https://www.communitydays.org/event/2023-09-07/microsoft-365-summer-soiree-in-vancourver) - September 8, 2023 - Vancouver, Canada
 * [CollabDays Finland](https://www.collabdays.org/2023-finland/) - September 9, 2023 - Helsinki, Finland
 * [SEF 2023](https://www.communitydays.org/event/2023-09-11/sef-2023) - September 11-12, 2023 - Stockholm, Sweden
