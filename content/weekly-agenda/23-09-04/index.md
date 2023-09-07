@@ -53,6 +53,9 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
+* [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Introducing new SharePoint news for email feature](https://www.youtube.com/watch?v=JbQLQWYjz7o&t=1100s)
 * [Level up your Power Apps Canvas with Enhanced component properties](https://www.youtube.com/watch?v=jiTvxYAqJjM) by [Nicolò Ferranti](https://twitter.com/nicoloferranti) (Avanade) | @nicoloferranti
 * [Using Microsoft Graph API to create a web part report from SharePoint](https://www.youtube.com/watch?v=YE2irU74vNc&t=1s) by [Aimery Thomas](https://twitter.com/aimery_thomas) (Avanade) | @aimery_thomas 
 * [Referencing Content Types in List Formatting definitions](https://www.youtube.com/watch?v=I_7G32GKlCc&t=5s) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
