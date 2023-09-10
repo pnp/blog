@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 11th of September 2023 week
-date: 2023-09-01T02:36:19.906Z
+date: 2023-09-10T02:36:19.906Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -27,19 +27,17 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Integrate OpenAI, Communication, and Organizational Data Features into a Line of Business App
 * Yurii Moroziuk (Gunvor) - DocAssistant - HackTogether: Microsoft Teams Global Hack Community Winner
+* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Integrate OpenAI, Communication, and Organizational Data Features into a Line of Business App
 * Alin Sirbu  (Microsoft) & Nate Tennant (Microsoft) - Automating business processes with custom Power Automate Flows in List Templates
 
-
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 14th of September
 
 * Thursday, 14th of September 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
@@ -49,20 +47,22 @@ Demos this time
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
+---
 
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building an Azure App Management solution with SPFx using Microsoft Graph APIs](https://www.youtube.com/watch?v=WCwUP4BKe-g) by Diksha Bhura (Microsoft)
 * [Building no-code poll application with list formatting](https://www.youtube.com/watch?v=Qwx_BtYOGjw) by  [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
-* [https://www.youtube.com/watch?v=zkOrqpXh-pE&t=865s](https://www.youtube.com/watch?v=0j_9cYkQpc0&t=32s) by [Michael Roth](https://twitter.com/michaelroth42) (Avanade) | @MichaelRoth42
-* [Microsoft 365 PnP Weekly – Episode 217 – Dan Toft (Evobis)](https://www.youtube.com/watch?v=WtoR_GNlGak&t=2719s) with [Dan Toft](tanddant) (Evobis) | @tanddant
-* [[Dan Toft](tanddant) (Evobis) | @tanddant](https://www.youtube.com/watch?v=NCJUMZjCh2U&t=10s) by [Dan Toft](tanddant) (Evobis) | @tanddant
+* [Dataverse Environment Permissions for Power Platform](https://www.youtube.com/watch?v=0j_9cYkQpc0) by [Michael Roth](https://twitter.com/michaelroth42) (Avanade) | @MichaelRoth42
+* [Microsoft 365 PnP Weekly – Episode 217 – Dan Toft (Evobis)](https://www.youtube.com/watch?v=WtoR_GNlGak&) with [Dan Toft](tanddant) (Evobis) | @tanddant
+* [Build easily forms with the custom JSON Form Builder Web Part](https://www.youtube.com/watch?v=NCJUMZjCh2U) by [Dan Toft](tanddant) (Evobis) | @tanddant
+* [Level up your Power Apps Canvas with Enhanced component properties](https://www.youtube.com/watch?v=jiTvxYAqJjM) by [Nicolò Ferranti](https://twitter.com/nicoloferranti)  (Avanade) | @nicoloferranti
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Charles Lamanna is ready for MPPC23!](https://www.youtube.com/watch?v=ENn5wT873wo)
-* [Dataverse Week Recap](https://www.youtube.com/watch?v=2s_m0S4u5Ds)
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
@@ -87,10 +87,12 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 ---
 
-## Last week's community call recordings
+## Last community call recordings published last week
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Power Platform ProDev Office Hours August 2023](https://www.youtube.com/watch?v=087s487jlUQ)
+* [Viva Connections and SharePoint Framework community call 7th of September 2023](https://www.youtube.com/watch?v=gksDdjg-4g8)
 * [Office Add-ins community call – August 2023](https://www.youtube.com/watch?v=zkOrqpXh-pE&t=865s)
 * [Microsoft 365 & Power Platform weekly call – 5th of September, 2023](https://www.youtube.com/watch?v=nfH9epR5Pwk&t=2429s)
 
