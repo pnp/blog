@@ -121,7 +121,12 @@ Read more about this feature in [project wiki](https://github.com/pnp/vscode-viv
 
 From setting up workspace to writing code, managing your project and finally deploying and setting up a CI/CD pipeline for your project. Viva Connections Toolkit aims to boost your SPFx development to the next level 🚀. 
 
-The VS Code extension is still quite young so be sure to give it a try, provide feedback, and be on the lookout for the awesome new things that are about to come in the future. We are constantly looking forward to and working on the backlog for the next major (v3.0) release. If you have a suggestion or idea you would like to share, then be sure to join the [discussion on GitHub]( https://github.com/pnp/vscode-viva/discussions/75) and leave a comment 👍.
+The VS Code extension is still quite young so be sure to give it a try, provide feedback, and be on the lookout for the awesome new things that are about to come in the future. We are constantly looking forward and working on the backlog for the next major (v3.0) release. If you have a suggestion or idea you would like to share, then be sure to join the [discussion on GitHub](https://github.com/pnp/vscode-viva/discussions/75) and leave a comment 👍. Some things we already consider are:
+
+- Improve the DevOps features. Generating the GitHub yaml workflow is only the beginning. In the near future, we would like to extend this feature and give the possibility to generate a Azure DevOps pipeline as well as automate generating a self-signed certificate and AAD app needed for application authentication method
+- We are looking for different (nicer) ways to scaffold a new SPFx project or pipeline. Instead of the current question-and-answer approach we would like to present a create form in the editor area of VS Code.
+- All of us work a bit differently when it comes to SPFx. Some use PnP JS, some fast-serve some use other tools or npm packages that they usually install in every new solution. We are looking for ways to define you own project template which will allow you to automate or your customization and apply it on a fresh new SPFx project.
+- many many more so be one the look out and check out our [GitHub Discussion]((https://github.com/pnp/vscode-viva/discussions/75))
 
 ## 👍 Power of the community
 
