@@ -26,12 +26,19 @@ State Management with Hooks: React hooks, such as useState and useEffect, simpli
 
 ## Implementation
 
-**1. **Create project** 
-**2. **Convert a class component to a functional component**
-   1) Modify the declaration from a class to an object.
-   1) Delete the render() method
-   1) Exclude the usage of the 'this' keyword, considering it's a function component.
-   1) Export the object.
+**1. Create a SPFx project** 
+
+  - To create a new webpart, refer to [this](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part) article.
+
+  - It will inquire with a series of questions, as depicted below:
+
+  ![Project Setup](./images/project-setup.png)
+
+**2. Convert a class component to a functional component**
+   - Modify the declaration from a class to an object.
+   - Delete the render() method
+   - Exclude the usage of the 'this' keyword, considering it's a function component.
+   - Export the object.
 
 Let's see an example that illustrates the process of converting a class component into a functional component..
    
@@ -118,9 +125,9 @@ const ReactHooksDemo: React.FunctionComponent<IReactHooksDemoProps> = (props: IR
 export default ReactHooksDemo;
 ```
 **4. Explore SPFx lifecycle in functional component**
-   1. **componentDidMount**: This lifecycle method is used for performing actions after the component is initially rendered. In a functional component, you can achieve this using the useEffect hook with an empty dependency array ([]).
-   2. **componentDidUpdate**:  To replicate the behavior of componentDidUpdate, you can include the specific state or prop variables in the dependency array of useEffect. This will make the effect run whenever those dependencies change.
-   3. **componentWillUnmount**:  To handle cleanup when the component is unmounted, return a function from the useEffect hook. This function will be called when the component is about to be removed from the DOM.
+   - **componentDidMount**: This lifecycle method is used for performing actions after the component is initially rendered. In a functional component, you can achieve this using the useEffect hook with an empty dependency array ([]).
+   - **componentDidUpdate**:  To replicate the behavior of componentDidUpdate, you can include the specific state or prop variables in the dependency array of useEffect. This will make the effect run whenever those dependencies change.
+   - **componentWillUnmount**:  To handle cleanup when the component is unmounted, return a function from the useEffect hook. This function will be called when the component is about to be removed from the DOM.
 
 Let's delve into an example that demonstrates the SharePoint Framework's lifecycle using React hooks.
 
