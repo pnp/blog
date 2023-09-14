@@ -189,7 +189,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Martin Heusser](https://twitter.com/mozzeph) (Houlihan Lokey) | @mozzeph
 * [Martin Loitzl](https://github.com/mloitzl) (Swiss Life) | mloitzl
-* [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
+* [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuyl
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
 * [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard 
 * x[Matt Collins-Jones](https://twitter.com/D365Geek) (Capgemini) \| @D365Geek
