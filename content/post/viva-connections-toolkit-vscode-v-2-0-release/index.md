@@ -1,5 +1,5 @@
 ---
-title: "Viva Connections Toolkit v2.0 release"
+title: "Viva Connections Toolkit v2.0.0 release"
 date: 2023-09-15T08:00:00.000Z
 # post thumb
 images:
