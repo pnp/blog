@@ -43,7 +43,9 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos: 
 
-* to be announced asap
+* [Norm Young](https://twitter.com/stormin_30) (Avepoint) | @stormin_30 - Managing Dynamics locked fields using Power Automate and Adaptive Cards in Microsoft Teams
+* [Mary Myers](https://twitter.com/MaryMyers_WM) (WorldMax) | @MaryMyers_WM - Bring Chat GPT to your Enterprise Resource Planning with Power Automate
+* [Sara Lagerquist](https://twitter.com/lagerquistsara) (CRM-Konsulterna) | @lagerquistsara - Opening Custom Pages using JavaScript and Model Driven Apps
 
 Also: 📷 Picture Time with community in Together Mode!
 
