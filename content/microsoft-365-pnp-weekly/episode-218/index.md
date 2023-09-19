@@ -6,10 +6,10 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-217-promo.png
+- images/pnp-weekly-218-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=WtoR_GNlGak
+- https://www.youtube.com/watch?v=8C7hWf8_qvE
 draft: false
 ---
 
@@ -43,13 +43,13 @@ There were 17 articles or videos covered within this episode produced by Microso
 
 ## Agenda items
 
-[00:00](https://youtu.be/WtoR_GNlGak?t=0) – Intro
+[00:00](https://youtu.be/8C7hWf8_qvE?t=0) – Intro
 
-[01:47](https://youtu.be/WtoR_GNlGak?t=107) – Interview
+[04:32](https://youtu.be/8C7hWf8_qvE?t=273) – Interview
 
-[46:24](https://youtu.be/WtoR_GNlGak?t=2695) – Articles
+[55:10](https://youtu.be/8C7hWf8_qvE?t=3310) – Articles
 
-[1:06:08](https://youtu.be/WtoR_GNlGak?t=3968) – Closing
+[1:12:22](https://youtu.be/8C7hWf8_qvE?t=3968) – Closing
 
 ## Action requested
 
@@ -57,10 +57,10 @@ Please remember to keep on providing us feedback on how we can help on this jour
 
 This session was recorded on Monday 4th of September and released on 5th of September, 2023.
 
-*   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube WtoR_GNlGak >}}
+*   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
+    {{< youtube 8C7hWf8_qvE >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-mcec8-1498b8c >}}
+    {{< podbean pb-5x85w-14ac31c >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
