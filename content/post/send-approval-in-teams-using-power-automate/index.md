@@ -3,19 +3,21 @@ title: "Send Approval In Microsoft Teams Using Power Automate"
 date: 2023-09-20T07:40:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories: ["Community post"]
+categories: 
+  - "Community post"
 images:
-- images/output.png
+  - images/output.png
 tags: ["Power Automate", "Microsoft Teams", "SharePoint"]
 type: "regular"
 draft: true
+
 ---
 
-## Introduction: ##
+## Introduction
 
 Microsoft Teams is like a digital office where teams in different places can talk and work together. But did you know you can make Teams even cooler by adding a super helper called Power Automate? Power Automate helps you do things automatically, which makes your work easier and faster. In this blog, we'll learn how to ask for permission or approval right inside Microsoft Teams using Power Automate. This makes decisions easier and teamwork better.
 
-## Why Use Approval Flows in Microsoft Teams? ##
+## Why Use Approval Flows in Microsoft Teams?
 
 - **Simplify Approvals**: Instead of relying on emails or third-party tools to request approvals, you can do it all within the Teams environment, making the process more straightforward for everyone involved.
 - **Real-time Collaboration**: With approval requests integrated into Teams, you can foster real-time collaboration. Approvers can discuss, ask questions, or provide feedback directly within the Teams chat, facilitating quicker decision-making.
@@ -25,23 +27,24 @@ Microsoft Teams is like a digital office where teams in different places can tal
 - **Easy Tracking**: Track the progress of your approval requests directly within the Teams interface, providing transparency and accountability.
 - **Mobile Access**: Access approval requests and provide responses on the go using the Microsoft Teams mobile app.
 
-## Implementation: ##
+## Implementation
 
 Let's examine a scenario in which when an employee requests time off, they initiate an entry in a SharePoint list, triggering an approval notification to be sent to their manager via Microsoft Teams.
 
-### 1. Create a SharePoint list (Travel Request) ###
+### 1. Create a SharePoint list (Travel Request)
 
 Construct a SharePoint list that mirrors the layout depicted in the provided image. Additionally, configure the **'Approval Status'** column to include the following choices: **'Pending,' 'Approved,' and 'Rejected'**.
 
 ![List Structure](./images/list-structure.png)
 
-### 2. Create a flow ###
+### 2. Create a flow
 
 Move to the **Power Automate > Click on Create a Flow> Select Automated flow**.
 
 Enter a **flow name** and select a trigger **When an item is created of SharePoint** as below,
 
 **Step 1: When an item is created**
+
 - **Site Address**: Choose the site from which you'd like to retrieve the item.
 - **List Name**: Choose the list from which you'd like to retrieve the item.
 

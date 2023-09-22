@@ -139,6 +139,9 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Saturday Coimbatore](https://www.communitydays.org/event/2023-10-07/m365-saturday-coimbatore) – October 7, 2023 – Coimbatore, India
 * [Knoxville M365 Community Day](https://www.communitydays.org/event/2023-10-13/knoxville-m365-community-day) – October 13, 2023 – Knoxville, TN, USA
 * [South Coast Summit 2023](https://www.southcoastsummit.com/) - October 13-14, 2023 - Farnborough, United Kingdom
+<<<<<<< HEAD
+* [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
+=======
 * [MN M365 IITH Bi-Annual Fall Workshop Day](https://www.communitydays.org/event/2023-10-13/mn-m365-11th-bi-annual-fall-workshop-day) - October 13-14, 2023 - Edina, MN, USA
 * [Collaboration Hero](https://www.communitydays.org/event/2023-10-17/collaboration-hero) - October 17-19, 2023 - Online
 * [AMS KL](https://www.communitydays.org/event/2023-10-19/ams-kl) - October 19, 2023 - Kuala Lumpur, Malaysia
@@ -152,6 +155,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
+>>>>>>> f3e54a8b140200a7722f6880b19152c863ddd5bf
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 * [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
