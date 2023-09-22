@@ -1,17 +1,14 @@
 ﻿---
-title: Send Approval In Microsoft Teams Using Power Automate
+title: "Send Approval In Microsoft Teams Using Power Automate"
 date: 2023-09-22T12:35:42.254Z
-author: Chandani Prajapati
+author: "Chandani Prajapati"
 githubname: chandaniprajapati
-categories:
-  - Community post
+categories: 
+  - "Community post"
 images:
   - images/output.png
-tags:
-  - Power Automate
-  - Microsoft Teams
-  - SharePoint
-type: regular
+tags: ["Power Automate", "Microsoft Teams", "SharePoint"]
+type: "regular"
 draft: false
 ---
 

@@ -5,12 +5,13 @@ author: "Reshmee Auckloo"
 githubname: reshmee011
 categories: ["Community post"]
 images:
-- images:images/ListViewFormatting.png
+- images:
+  - images/ListViewFormatting.png
 tags: ["Power Apps, ListViewFormatting, PowerAutomate"]
 type: "regular"
 ---
 
-# How to Use the Instagram Basic Display Connector in Power Apps and Power Automate
+## How to Use the Instagram Basic Display Connector in Power Apps and Power Automate
 
 Instagram is a popular social media platform with over 1 billion monthly active users. It is a great platform for sharing photos and videos, and many businesses use it to promote their products and services. With the **Instagram Basic Display (IndependentPublisher)** connector, you can now easily retrieve data from Instagram accounts and use it in Power Apps and Power Automate.
 
