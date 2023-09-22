@@ -9,6 +9,7 @@ images:
   - images/ListViewFormatting.png
 tags: ["Power Apps, ListViewFormatting, PowerAutomate"]
 type: "regular"
+draft: true
 ---
 
 ## How to Use the Instagram Basic Display Connector in Power Apps and Power Automate
