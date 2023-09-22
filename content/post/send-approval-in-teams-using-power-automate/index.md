@@ -10,6 +10,7 @@ images:
 tags: ["Power Automate", "Microsoft Teams", "SharePoint"]
 type: "regular"
 draft: true
+
 ---
 
 ## Introduction
