@@ -34,7 +34,7 @@ Let's examine a scenario in which when an employee requests time off, they initi
 
 Construct a SharePoint list that mirrors the layout depicted in the provided image. Additionally, configure the **'Approval Status'** column to include the following choices: **'Pending,' 'Approved,' and 'Rejected'**.
 
-![List Structure](./images/list-structure.png)
+![List Structure](/images/list-structure.png)
 
 ### 2. Create a flow
 
@@ -47,35 +47,35 @@ Enter a **flow name** and select a trigger **When an item is created of SharePoi
 - **Site Address**: Choose the site from which you'd like to retrieve the item.
 - **List Name**: Choose the list from which you'd like to retrieve the item.
 
-![When item is created](./images/when-item-is-created.png)
+![When item is created](/images/when-item-is-created.png)
 
 **Step 2: Create an approval**
 
 Customize the approval card to align with your specific requirements.
 
-![Create an approval](./images/create-an-approval.png)
+![Create an approval](/images/create-an-approval.png)
 
 **Step 3: Post card in a chat or channel**: 
 
 Choose a configuration (including Post in, Post as, Team, and Channel) that best fits your preferences and employ the Teams adaptive card within the adaptive card property.
 
-![Post card](./images/post-adaptive-card.png)
+![Post card](/images/post-adaptive-card.png)
 
 **Step 4: Wait for an approval** 
 
 Retrieve the approval ID from the 'Create an approval' action.
 
-![Wait for an approval](./images/wait-for-an-approval.png)
+![Wait for an approval](/images/wait-for-an-approval.png)
 
 **Step 5: Condition**
 
 Check the outcome whether it's approved or rejected, and then modify the status in the SharePoint list accordingly.
 
-![Condition](./images/condition-to-check-outcome.png)
+![Condition](/images/condition-to-check-outcome.png)
 
 In the end, our workflow will appear as follows:
 
-![Final flow](./images/final-flow.png)
+![Final flow](/images/final-flow.png)
 
 **Output:**
 
