@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -42,7 +42,7 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos this time
 
 * [Kevin McDonnell](https://twitter.com/kevmcdonk) (Avanade) | @kevmcdonk - Bringing third parties APIs to the Teams AI story
-* Matt Jimison (Takeda) - Creating a single custom connector for multiple Azure OpenAI Models
+* [Matt Jimison](https://twitter.com/mjimison) (Takeda) - Creating a single custom connector for multiple Azure OpenAI Models
 * [Anoop Tatti](https://twitter.com/anooptells) (Content + Cloud) | @anooptells - Building Microsoft Teams message extension for Stock data with OpenAI function calling feature
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -53,18 +53,19 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [What’s new in Teams Toolkit for Visual Studio 2022](https://www.youtube.com/watch?v=oHNFoq3jh4E&t=4s) by [John Miller](https://twitter.com/jmillerdev) (Microsoft) | @jmillerdev 
+* [Building Invoice Generator solution using SPFx with automatic file creation](https://www.youtube.com/watch?v=ypfDotPX5fQ) by Rishabh Shukla (Marsh McLennan)​
+* [What’s new in Teams Toolkit for Visual Studio 2022](https://www.youtube.com/watch?v=oHNFoq3jh4E) by [John Miller](https://twitter.com/jmillerdev) (Microsoft) | @jmillerdev 
 * [Getting started with Microsoft Lists - Create a list in Microsoft Teams](https://www.youtube.com/watch?v=xgZRdskWtqI)
-* [AI Mixtape: Tips & Tricks with Power Virtual Agent all the Way!​](https://www.youtube.com/watch?v=FTkXlW77kg0&t=9s) by [Ralph Rivas](https://twitter.com/bigpix2000) (Sogeti) | @bigpix2000
+* [AI Mixtape: Tips & Tricks with Power Virtual Agent all the Way!​](https://www.youtube.com/watch?v=FTkXlW77kg0) by [Ralph Rivas](https://twitter.com/bigpix2000) (Sogeti) | @bigpix2000
 * [Microsoft 365 PnP Weekly – Episode 218 – Kasper Larsen (Fellowmind)](https://www.youtube.com/watch?v=8C7hWf8_qvE)
 * [Create a team or communication site](https://www.youtube.com/watch?v=bsG_z51iqHI)
-* [Building SPFx solution to manage your Azure DevOps projects with OpenAI integration](https://www.youtube.com/watch?v=c3F4aFK64Vk&t=9s) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_
+* [Building SPFx solution to manage your Azure DevOps projects with OpenAI integration](https://www.youtube.com/watch?v=c3F4aFK64Vk) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_
 * [Get started with OneDrive at work](https://www.youtube.com/watch?v=PC6QNuk3WZY)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-
+* No new videos
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -85,6 +86,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [Viva Connections Toolkit v2.0.0 release](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-0-release/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -94,8 +96,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform weekly call – 19th of September, 2023](https://www.youtube.com/watch?v=p0OBGgWyieg&t=2266s)
-
+* [Viva Connections and SharePoint Framework community call 21st of September 2023](https://www.youtube.com/watch?v=z4_5_IQjYRQ)
+* [Microsoft 365 & Power Platform weekly call – 19th of September, 2023](https://www.youtube.com/watch?v=p0OBGgWyieg)
 
 ---
 
@@ -119,12 +121,12 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
-* [Microsoft Power Platform Conference](https://powerplatformconf.com/) - October 3-5, 2023 - Las Vegas, Nevada, USA
+* [Microsoft Power Platform Conference](https://powerplatformconf.com/) - October 3-5, 2023 - Las Vegas, NE, USA
+* [365 EduCon - Chicago](https://365educon.com/Chicago/index.php) - October 30 - November 3,  Chicago, IL, USA
+* [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/home) - November 14-17, 2023 - Seattle, WA, USA
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - April 30, May 1, May 2, 2023 - Orlando, Florida, USA
 
-
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [CollabDays - National Museum of Computing](https://www.communitydays.org/event/2023-09-27/collabdays-national-museum-of-computing-bletchley-park) - Bletchley Park - September 27, 2023 - Bletchley, UK
 * [AMS Montpellier 2023](https://www.communitydays.org/event/2023-09-28/ams-montpellier-2023) - September 28, 2023 - Montpellier, France
@@ -137,7 +139,19 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Saturday Coimbatore](https://www.communitydays.org/event/2023-10-07/m365-saturday-coimbatore) – October 7, 2023 – Coimbatore, India
 * [Knoxville M365 Community Day](https://www.communitydays.org/event/2023-10-13/knoxville-m365-community-day) – October 13, 2023 – Knoxville, TN, USA
 * [South Coast Summit 2023](https://www.southcoastsummit.com/) - October 13-14, 2023 - Farnborough, United Kingdom
-* [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
+* [MN M365 IITH Bi-Annual Fall Workshop Day](https://www.communitydays.org/event/2023-10-13/mn-m365-11th-bi-annual-fall-workshop-day) - October 13-14, 2023 - Edina, MN, USA
+* [Collaboration Hero](https://www.communitydays.org/event/2023-10-17/collaboration-hero) - October 17-19, 2023 - Online
+* [AMS KL](https://www.communitydays.org/event/2023-10-19/ams-kl) - October 19, 2023 - Kuala Lumpur, Malaysia
+* [AMS Singapore](https://www.communitydays.org/event/2023-10-21/ams-singapore-23) - October 21, 2023 - Manila, Philippines
+* [CollabDays Belgium 2023](https://www.collabdays.org/2023-belgium/) - October 21, 2023 - Brussels, Belgium
+* [CollabDays New England 2023](https://www.collabdays.org/2023-ne/) - October 21-22, 2023 - Burlington, MA, USA
+* [AMS Manila](https://www.communitydays.org/event/2023-10-24/ams-manila) - October 24, 2023 - Manila, Philippines
+* [CollabDays Barcelona 2023](https://www.collabdays.org/2023-barcelona/) - October 28, 2023 - Barcelona, Spain
+* [Community Days Mexico City 2023](https://www.communitydays.org/event/2023-11-02/community-days-mexico-city-2023)  November 2-3, 2023 - Mexico City, Mexico
+* [M365 Twin Cities](https://www.communitydays.org/event/2023-11-11/m365-twin-cities) - November 11-12, 2023 - Brooklyn Partk, MN, USA
+* [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
+* [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
+* [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 * [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
