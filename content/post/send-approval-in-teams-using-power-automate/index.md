@@ -8,6 +8,7 @@ images:
 - images/output.png
 tags: ["Power Automate", "Microsoft Teams", "SharePoint"]
 type: "regular"
+draft: true
 ---
 
 ## Introduction: ##
