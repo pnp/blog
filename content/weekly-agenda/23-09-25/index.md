@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 25th of September 2023 week
-date: 2023-09-21T02:36:19.906Z
+date: 2023-09-22T02:36:19.906Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
