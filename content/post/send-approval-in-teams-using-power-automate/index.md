@@ -12,7 +12,7 @@ tags:
   - Microsoft Teams
   - SharePoint
 type: regular
-draft: true
+draft: false
 ---
 
 ## Introduction
