@@ -9,11 +9,11 @@ images:
 - images/pnp-weekly-219-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=8C7hWf8_qvE
+- https://www.youtube.com/watch?v=J2mb0u9NYmI
 draft: true
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Michael Roth](https://twitter.com/MichaelRoth42) Power Platform consultant from Avanade.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Michael Roth](https://twitter.com/MichaelRoth42) Power Platform consultant from Avanade.
 
 ## In this episode
 
@@ -39,24 +39,24 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## Agenda items
 
-[00:00](https://youtu.be/8C7hWf8_qvE?t=0) – Intro
+[00:00](https://youtu.be/J2mb0u9NYmI?t=0) – Intro
 
-[04:32](https://youtu.be/8C7hWf8_qvE?t=273) – Interview
+[01:20](https://youtu.be/J2mb0u9NYmI?t=80) – Interview
 
-[55:10](https://youtu.be/8C7hWf8_qvE?t=3310) – Articles
+[42:02](https://youtu.be/J2mb0u9NYmI?t=2523) – Articles
 
-[1:12:22](https://youtu.be/8C7hWf8_qvE?t=3968) – Closing
+[1:15:41](https://youtu.be/J2mb0u9NYmI?t=4542) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday 4th of September and released on 5th of September, 2023.
+This session was recorded on Thursday 21st of September and Monday 25th of September. Session was published on 26th of September, 2023.
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 8C7hWf8_qvE >}}
+    {{< youtube J2mb0u9NYmI >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-5x85w-14ac31c >}}
+    {{< podbean pb-9jnmv-14b3c8c >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
