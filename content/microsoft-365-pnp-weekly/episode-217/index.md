@@ -90,7 +90,7 @@ These videos and podcasts are published each week and are intended to be roughly
 
 ## Videos
 
-* [The Power Platform Global AI Hack](https://www.youtube.com/watch?v=UKHmPlQ6KdA) - [Ryan Cunningham]() (Microsoft) | , [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam, [Gomolemo Mohapi](https://twitter.com/GomoMohapi) (Microsoft) | @GomoMohapi & [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz
+* [The Power Platform Global AI Hack](https://www.youtube.com/watch?v=UKHmPlQ6KdA) - [Ryan Cunningham](https://twitter.com/rc_says) (Microsoft) | @rc_says, [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam, [Gomolemo Mohapi](https://twitter.com/GomoMohapi) (Microsoft) | @GomoMohapi & [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz
 * [📂 How to color folders in SharePoint and Teams [Colorful Folders]](https://www.youtube.com/watch?v=wCN48_u2vC8) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @delucagiulian
 * [Power Apps Conditional Formatting and Dynamic Questionnaire](https://www.youtube.com/watch?v=kELpYoc-764) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
 * [Power Hour: Working with groups of people in flows](https://www.youtube.com/watch?v=-O7ivOuGwbE) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @WonderLaura
