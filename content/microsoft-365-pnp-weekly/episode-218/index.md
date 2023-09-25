@@ -105,8 +105,8 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
-* [Microsoft 365 Conference]() - April 
-* [European Collaboration Summit]() - May 
+* [Microsoft 365 Conference](https://m365conf.com/#!/) - April 30, May 1 & 2, 2023 - Orlando, FL, USA
+* [European Collaboration Summit](https://collabsummit.eu/) - May 14-16, 2023 - Wiesbaden, Germany
 
 ## Additional resources
 
