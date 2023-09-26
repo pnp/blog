@@ -45,7 +45,7 @@ Demos:
 
 Demos: 
 
-* [Michael Roth](https://twitter.com/michaelroth42) (Avanade) | @MichaelRoth42- Dataverse Environment Permissions for Power Platform
+* [Michael Roth](https://twitter.com/michaelroth42) (Avanade) | @MichaelRoth42 - Dataverse Environment Permissions for Power Platform
 * [Lewis Baybutt](https://twitter.com/lowcodelewis) | @lowcodelewis - Using Microsoft Graph and various broader ecosystems to improve UX with contextual data
 * [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese - Pushing the Platform with the Power of Docusign & Automate
 
@@ -60,7 +60,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Creating custom SPFx components for Microsoft Viva Connections for Education](https://www.youtube.com/watch?v=OfaDltpRMRw&t=8s) by [Jethro Seghers](https://github.com/jesegher) (Microsoft) | jesegher
 * [Microsoft Syntex - Freeform and structured document processing](https://www.youtube.com/watch?v=wIAYZOaXzm4&t=2s)
 * [Introduction to Microsoft Syntex Repository Services](https://www.youtube.com/watch?v=zmWuIdloIqQ&t=4s) by Marc Windle (Microsoft)
-* [Power Platform Custom Connector for ChatGPT](https://www.youtube.com/watch?v=mEmldgTDS6A&t=4s) by samir Daoudi (Logisam)
+* [Power Platform Custom Connector for ChatGPT](https://www.youtube.com/watch?v=mEmldgTDS6A&t=4s) by Samir Daoudi (Logisam)
 * [Viva Connections ACE to display Daily Insights based on ChatGPT OpenAI API](https://www.youtube.com/watch?v=Zgh1CQGmi00&t=5s) by [Siddharth Vaghasia](https://twitter.com/siddh_me) | @Siddh_me
 * [Pi Flows: PowerFx for Internet of Things](https://www.youtube.com/watch?v=2v2lKVC0Mlg&t=8s) by [Eswar Prakash](https://twitter.com/eswaratwork) (Resonate) | @eswaratwork
 

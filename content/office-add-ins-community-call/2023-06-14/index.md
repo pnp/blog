@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/ACLYugQ6xgA
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - June 14, 2023
@@ -28,15 +28,15 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## View video segments
 
-* Introduction [00:00](https://www.youtube.com/watch?v=ACLYugQ6xgA&t=0)
-* The New Outlook and Outlook Add-ins – overview [02:20](https://youtu.be/ACLYugQ6xgA?t=140)
-* Mailbox 1.13 rolling out to production – overview [11:05](https://youtu.be/ACLYugQ6xgA?t=665)
-* Mailbox 1.13 feature demo - Transition to New Outlook by using:  Item Multi Select + Context Free Commands – [harmin.ie](https://harman.ie)[13:10](https://youtu.be/ACLYugQ6xgA?t=790)
-* Mailbox 1.13 - features [16:26](https://youtu.be/ACLYugQ6xgA?t=986)  
-* Mailbox 1.13 feature demo – Transition to New Outlook by using :  AutoLaunch Event including FromChanged Event – [CodeTwo](https://www.codetwo.com/)[22:19](https://youtu.be/ACLYugQ6xgA?t=986)
-* Smart Alerts Best Practices – recap [26:11](https://youtu.be/ACLYugQ6xgA?t=986)
-* Q&A [38:51](https://youtu.be/ACLYugQ6xgA?t=986)
-* Closing [40:28](https://youtu.be/ACLYugQ6xgA?t=986)
+* Introduction [00:00](https://youtu.be/P5DolLyE3E8?t=0)
+* The New Outlook and Outlook Add-ins – overview [02:20](https://youtu.be/P5DolLyE3E8?t=53)
+* Mailbox 1.13 rolling out to production – overview [11:05](https://youtu.be/P5DolLyE3E8?t=107)
+* Mailbox 1.13 feature demo - Transition to New Outlook by using:  Item Multi Select + Context Free Commands – [harmin.ie](https://harman.ie)[13:10](https://youtu.be/P5DolLyE3E8?t=400)
+* Mailbox 1.13 - features [16:26](https://youtu.be/P5DolLyE3E8?t=508)  
+* Mailbox 1.13 feature demo – Transition to New Outlook by using :  AutoLaunch Event including FromChanged Event – [CodeTwo](https://www.codetwo.com/)[22:19]()
+* Smart Alerts Best Practices – recap [26:11](https://youtu.be/ACLYugQ6xgA?t=1571)
+* Q&A [38:51](https://youtu.be/ACLYugQ6xgA?t=2331)
+* Closing [40:28](https://youtu.be/ACLYugQ6xgA?t=2428)
 
 
 ## Call to action
