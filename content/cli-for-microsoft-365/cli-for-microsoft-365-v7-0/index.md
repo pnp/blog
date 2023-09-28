@@ -152,7 +152,7 @@ We're also implementing even more commands to work with Entra ID / Azure AD Grou
 
 This release wouldn't be possible without the help of (in alphabetical order):
 
-- [Adam W├│jcik](https://github.com/Adam-it)
+- [Adam Wójcik](https://github.com/Adam-it)
 - [dojcsakj](https://github.com/dojcsakj)
 - [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
