@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 2nd of October 2023 week
-date: 2023-09-28T07:04:30.117Z
+date: 2023-09-29T02:04:30.117Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -34,7 +34,7 @@ Demos this time
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### ### Viva Connections & SharePoint Framework Community Call - 5th of October
+### Viva Connections & SharePoint Framework Community Call - 5th of October
 
 * Thursday, 5th of October, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
@@ -44,7 +44,7 @@ Demos this time
 
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - SPFx patterns - Using Azure hosted middle tier in supported ways
 * [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Calling Azure OpenAI with data connector from an SPFx webpart
-
+* [Sergej Schwabauer](https://twitter.com/spfxappdev) (AURUM) | @spfxappdev - Quickly Generate List -Based Models Using a Single Command with SharePoint Framework
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -56,6 +56,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Introduction SPFx framework at Microsoft - Accelerator Tooling](https://www.youtube.com/watch?v=muDg6rWAhLM) by Daniel Turley (Avanade)
 * [Building a Microsoft Teams Tab enabling file conversions with Microsoft](https://www.youtube.com/watch?v=pciG6miBXf8) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Maturity Model for Microsoft 365 - September 2023](https://www.youtube.com/watch?v=msUi_oEz12w)
 * [Getting started with Microsoft Lists - Add or edit list items](https://www.youtube.com/watch?v=yufDQqExJO0)
@@ -100,6 +101,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development Community call September 28th, 2023](https://www.youtube.com/watch?v=T8H810otKhM)
 * [Microsoft Power Platform community call – September 2023](https://www.youtube.com/watch?v=Fsr4CBuoTSU)
 * [Microsoft 365 & Power Platform weekly call – 26th of September, 2023](https://www.youtube.com/watch?v=SKQyj2SmcL0)
 
