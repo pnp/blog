@@ -179,7 +179,6 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 CLI for Microsoft 365 wouldn't be where it is today if it weren't for our users who provide us with feedback. High fives to the following people who took the time to share their feedback and ideas for improvement with us (in alphabetical order):
 
-- [dojcsakj](https://github.com/dojcsakj)
 - [kanandb](https://github.com/kanandb)
 - [mmcveigh80](https://github.com/mmcveigh80)
 - [tohsumi-bebio](https://github.com/tohsumi-bebio)
