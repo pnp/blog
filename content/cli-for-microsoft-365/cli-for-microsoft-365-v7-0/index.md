@@ -171,7 +171,6 @@ This release wouldn't be possible without the help of (in alphabetical order):
 
 A warm welcome to this month's new contributors! (in alphabetical order):
 
-- [dojcsakj](https://github.com/dojcsakj)
 - [Michał Kornet](https://github.com/mkm17)
 
 Thank you all for the time you chose to spend on CLI for Microsoft 365 and for your help to advance it!
