@@ -164,7 +164,6 @@ This release wouldn't be possible without the help of (in alphabetical order):
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
-- [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Smita Nachan](https://github.com/SmitaNachan)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
