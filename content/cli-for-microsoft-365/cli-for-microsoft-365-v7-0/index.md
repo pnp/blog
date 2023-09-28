@@ -142,7 +142,7 @@ Here are some things that we are currently working on.
 
 The CLI for Microsoft 365 is a cross platform / cross shell tool. This has always been an important feature. However, many of our users are familiar and use PowerShell in their everyday life. To make the end-to-end experience for these users even better, we're working on some interesting ideas to allow the CLI for Microsoft 365 to work even better when used with PowerShell.
 
-We're currently [working this out](https://github.com/pnp/cli-microsoft365/issues/5470). We'd appreciate your feedback if this is of interest to you area.
+We're currently [working this out](https://github.com/pnp/cli-microsoft365/issues/5470). We'd appreciate your feedback if this is of interest to your area.
 
 #### Even more commands...
 
