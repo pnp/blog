@@ -61,7 +61,7 @@ We've also updated other SPFx-related commands to support SPFx v1.18.0.
 
 ### Improved interactivity using the CLI for Microsoft 365
 
-In our search for an even better user experience, we've had a good look at interactivity in the CLI for Microsoft 365. We've done a lot of work on it, and we're proud to finally present the results of those efforts! In the new version, the CLI for Microsoft 365 will (by default) prompt the user to select or enter extra information that's necessary for the command to run. This includes prompts for required options that the user forgot and requests to select an item from a result set, for example if the CLI for Microsoft 365 found multiple items with the same name.
+In our search for an even better user experience, we've had a good look at interactivity in the CLI for Microsoft 365. We've done a lot of work on it, and we're proud to finally present the results of those efforts! In the new version, the CLI for Microsoft 365 will (by default) prompt the user to select or enter extra information that's necessary for the command to run. This includes prompts for required options that the user forgot and requests to select an item from a result set, for example, if the CLI for Microsoft 365 found multiple items with the same name.
 
 Toggling this behavior on or off can be done as follows:
 
