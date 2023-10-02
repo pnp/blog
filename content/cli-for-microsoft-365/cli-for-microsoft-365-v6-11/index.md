@@ -17,7 +17,7 @@ type: regular
 
 Introducing the latest release of CLI for Microsoft 365
 
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project. You may manage OneDrive, Planner, Power Apps and Automate, Teams, Viva Engage (Yammer), SharePoint (of course), and many many more. The list keeps on growing and growing. In this minor release, we introduced new commands as well as a ton of improvements.
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command line tool based on Node.js that helps you manage many things around Microsoft 365 and your SPFx project. You may manage OneDrive, Planner, Power Apps and Automate, Teams, Viva Engage (Yammer), SharePoint (of course), and many many more. The list keeps on growing and growing. In this minor release, we introduced new commands as well as a tonne of improvements.
 
 > Explore the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v6110) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
 
