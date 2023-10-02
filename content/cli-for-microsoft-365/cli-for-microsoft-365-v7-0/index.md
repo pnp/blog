@@ -104,7 +104,12 @@ To remove an attachment from a list item, run:
 m365 spo listitem attachment remove --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List" --listItemId 147 --fileName "File1.jpg"
 ```
 
-To learn more about managing list item attachments, see the [list item attachment commands](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-attachment-list) in our docs.
+For more information, check out the documentation for each command: 
+
+- [m365 list item attachment add](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-attachment-add)
+- [m365 list item attachment get](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-attachment-get)
+- [m365 list item attachment set](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-attachment-set)
+- [m365 list item attachment remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-attachment-remove)
 
 ### Removing an Entra ID / Azure AD Group
 
@@ -116,7 +121,7 @@ To remove an Entra ID Group by display name, run:
 m365 aad group remove --displayName Developers
 ``` 
 
-To learn more about managing Entra ID Groups, see the [aad group commands](https://pnp.github.io/cli-microsoft365/cmd/aad/group/group-remove) in our docs.
+To learn more, see the [m365 aad group remove](https://pnp.github.io/cli-microsoft365/cmd/aad/group/group-remove) command documentation.
 
 ### Retrieving information about any tenant
 
@@ -128,7 +133,7 @@ To get tenant information for the Contoso tenant, run:
 m365 tenant info get --domainName contoso.com
 ```
 
-To learn more, see the [tenant info get](https://pnp.github.io/cli-microsoft365/cmd/tenant/info/info-get/) command documentation.
+To learn more, see the [m365 tenant info get](https://pnp.github.io/cli-microsoft365/cmd/tenant/info/info-get/) command documentation.
 
 ### Updates to our codebase
 
