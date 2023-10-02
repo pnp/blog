@@ -185,7 +185,7 @@ This release wouldn't be possible without the help of (in alphabetical order):
 
 ### New contributors
 
-A warm welcome to this month's new contributors! (in alphabetical order):
+A warm welcome to this month's new contributor!:
 
 - [Michał Kornet](https://github.com/mkm17)
 
