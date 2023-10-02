@@ -78,7 +78,7 @@ To learn more about configuring the CLI for Microsoft 365, also take a look at o
 ### Manage list item attachments stored in SharePoint
 
 Lists are one of the most powerful features of SharePoint, providing a flexible and customizable way to store and manage data. Whether you need to track tasks, manage contacts, or store documents, lists can help you do it all. 
-A part of working with lists is the ability to add attachments to list items, making it easy to keep all relevant information in one place. In this release we bring support for managing list attachments using the CLI for Microsoft 365. 
+A part of working with lists is the ability to add attachments to list items, making it easy to keep all relevant information in one place. In this release, we bring support for managing list attachments using the CLI for Microsoft 365. 
 
 To add a new attachment to a list item from a local file, run:
 
