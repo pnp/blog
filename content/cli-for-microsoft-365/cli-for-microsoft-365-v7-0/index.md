@@ -215,4 +215,4 @@ Alternatively, you can get the latest release from Docker by executing:
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 
-If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365). If you see any room for improvement, please, don't hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/discussions), [Discord](https://discord.com/invite/7rfW4kg6B5), or [Twitter](https://twitter.com/climicrosoft365).
+If you need more help getting started or want more details about the commands, architecture, or project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365). If you see any room for improvement, please, don't hesitate to reach out to us either on [Discord](https://discord.com/invite/7rfW4kg6B5), [GitHub](https://github.com/pnp/cli-microsoft365/discussions), or [X](https://twitter.com/climicrosoft365).
