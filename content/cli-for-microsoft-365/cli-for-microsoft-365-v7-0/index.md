@@ -134,9 +134,17 @@ To learn more, see the [tenant info get](https://pnp.github.io/cli-microsoft365/
 
 Version 7 also brings a lot of internal changes to our codebase. One important part of that is that we've moved to using ECMAScript Modules (ESM) instead of CommonJS modules. This may not seem directly relevant. But ESM is the standard module format for JavaScript, and offers a number of advantages over CommonJS, including better performance, improved debugging capabilities, and better support for tree-shaking and other optimization techniques. All this will improve the general experience of using the CLI for Microsoft 365. 
 
+For people who are [using the CLI programmatically](https://pnp.github.io/cli-microsoft365/user-guide/use-cli-api) this change is a big one, as it will require you to rewrite your own tooling to ESM as well.
+
 ### What's next
 
 Here are some things that we are currently working on.
+
+#### More commands...
+
+We're always implementing new commands. How about a command to [start a meeting in Microsoft Teams](https://github.com/pnp/cli-microsoft365/issues/1345)? Or a new command to [copy files](https://github.com/pnp/cli-microsoft365/issues/4623)? The Entra ID space is also extended with new functionality to [list group users](https://github.com/pnp/cli-microsoft365/issues/5469) and [new options](https://github.com/pnp/cli-microsoft365/issues/5424). 
+
+Last but not least, we're prepping new commands on working with external connections: [creating external items](https://github.com/pnp/cli-microsoft365/issues/5530), [adding urlToItem resolvers](https://github.com/pnp/cli-microsoft365/issues/5527) and more is to come here. External Connections are useful when indexing content for use by Microsoft Search and Microsoft 365 Copilot. Working with external connections was already possible, but because the scope has now broadened to Copilot as well, we're [considering a rename](https://github.com/pnp/cli-microsoft365/issues/5531). If you've got valuable input in this area, do let us know! We'd like to hear your opinion.
 
 #### Advanced integration with PowerShell
 
@@ -144,9 +152,12 @@ The CLI for Microsoft 365 is a cross platform / cross shell tool. This has alway
 
 We're currently [working this out](https://github.com/pnp/cli-microsoft365/issues/5470). We'd appreciate your feedback if this is of interest to your area.
 
-#### Even more commands...
+#### Adding support for using multiple identities
 
-We're also implementing even more commands to work with Entra ID / Azure AD Groups, the tenant recycle bin, files and loads of further changes and enhancements.
+Another interesting area that we're currently working on is adding support for signing in with multiple identities. This is especially interesting for people connecting to and working with multiple tenants, for example those working at companies in the IT services industry. Switching between identities should be easy and not force a user to go through the entire login flow, time and time again. 
+
+We've currently working out ideas on this. If you'd like to pitch in on how this should be built, do come in and [give us some feedback](https://github.com/pnp/cli-microsoft365/issues/3587).
+
 
 ## Contributors
 
