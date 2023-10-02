@@ -61,7 +61,7 @@ We've also updated other SPFx-related commands to support SPFx v1.18.0.
 
 ### Improved interactivity using the CLI for Microsoft 365
 
-In our search for an even better user experience, we've had a good look at interactivity in the CLI for Microsoft 365. We've done a lot of work on it, and we're proud to finally present the results of those efforts! In the new version, the CLI for Microsoft 365 will (by default) prompt the user to select or enter extra information that's necessary for the command to run. This includes prompts for required options that the user forgot and requests to select an item from a result set, for example if the CLI for Microsoft 365 found multiple items with the same name.
+In our search for an even better user experience, we've had a good look at interactivity in the CLI for Microsoft 365. We've done a lot of work on it, and we're proud to finally present the results of those efforts! In the new version, the CLI for Microsoft 365 will (by default) prompt the user to select or enter extra information that's necessary for the command to run. This includes prompts for required options that the user forgot and requests to select an item from a result set, for example, if the CLI for Microsoft 365 found multiple items with the same name.
 
 Toggling this behavior on or off can be done as follows:
 
@@ -78,7 +78,7 @@ To learn more about configuring the CLI for Microsoft 365, also take a look at o
 ### Manage list item attachments stored in SharePoint
 
 Lists are one of the most powerful features of SharePoint, providing a flexible and customizable way to store and manage data. Whether you need to track tasks, manage contacts, or store documents, lists can help you do it all. 
-A part of working with lists is the ability to add attachments to list items, making it easy to keep all relevant information in one place. In this release we bring support for managing list attachments using the CLI for Microsoft 365. 
+A part of working with lists is the ability to add attachments to list items, making it easy to keep all relevant information in one place. In this release, we bring support for managing list attachments using the CLI for Microsoft 365. 
 
 To add a new attachment to a list item from a local file, run:
 
@@ -148,7 +148,7 @@ Last but not least, we're prepping new commands on working with external connect
 
 #### Advanced integration with PowerShell
 
-The CLI for Microsoft 365 is a cross platform / cross shell tool. This has always been an important feature. However, many of our users are familiar and use PowerShell in their everyday life. To make the end-to-end experience for these users even better, we're working on some interesting ideas to allow the CLI for Microsoft 365 to work even better when used with PowerShell.
+The CLI for Microsoft 365 is a cross-platform / cross-shell tool. This has always been an important feature. However, many of our users are familiar with and use PowerShell in their everyday life. To make the end-to-end experience for these users even better, we're working on some interesting ideas to allow the CLI for Microsoft 365 to work even better when used with PowerShell.
 
 We're currently [working this out](https://github.com/pnp/cli-microsoft365/issues/5470). We'd appreciate your feedback if this is of interest to your area.
 
@@ -164,7 +164,7 @@ We've currently working out ideas on this. If you'd like to pitch in on how this
 This release wouldn't be possible without the help of (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
-- [[János Dojcsák](https://github.com/dojcsakj)](https://github.com/dojcsakj)
+- [János Dojcsák](https://github.com/dojcsakj)
 - [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
