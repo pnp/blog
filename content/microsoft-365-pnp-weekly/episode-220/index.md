@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=c6mj3wM3qyA
-draft: true
+draft: false
 ---
 
 In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Antonio Maio](https://twitter.com/AntonioMaio2) Managing Director with Protiviti.
