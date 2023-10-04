@@ -59,7 +59,7 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Wednesday 27th of September and Monday 2nd of October. Session was published on 3rd of October, 2023.
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube J2mb0u9NYmI >}}
+    {{< youtube c6mj3wM3qyA >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
     {{< podbean pb-dg2r7-14bd36c >}}
 
