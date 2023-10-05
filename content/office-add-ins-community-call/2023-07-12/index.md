@@ -20,29 +20,23 @@ draft: true
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
-* **Recap announcements made by the Add-ins org at Microsoft Build 2023.** The New Outlook and Outlook Add-ins, New features including Mailbox 1.13 and Smart Alerts learnings and best practices. Product demos delivered by partners – harman.ie and CodeTwo showing their products that incorporate Mailbox 1.13 features. Mailbox 1.13 is now in production, 7 features reviewed. Smart Alerts runs js-engine for Win32 and WebView for OWA.[Juan Balmori Labra](https://www.linkedin.com/in/juan-balmori-8443b532/), Principal Product Manager, Microsoft. 
+* **Top 5 AppSource Validation Errors March - May 2023.** Go over the top five most common appsource validation errors from the months of March to May 2023.[Elizabeth Samuel](https://github.com/elizabethsamuel-msft), Senior Technical Writer, Microsoft. 
 
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
-{{< youtube ACLYugQ6xgA >}}
+{{< youtube JGlF8yfrTlY >}}
 
 ## View video segments
 
-* Introduction [00:00](https://www.youtube.com/watch?v=ACLYugQ6xgA&t=0)
-* The New Outlook and Outlook Add-ins – overview [02:20](https://youtu.be/ACLYugQ6xgA?t=140)
-* Mailbox 1.13 rolling out to production – overview [11:05](https://youtu.be/ACLYugQ6xgA?t=665)
-* Mailbox 1.13 feature demo - Transition to New Outlook by using:  Item Multi Select + Context Free Commands – [harmin.ie](https://harman.ie)[13:10](https://youtu.be/ACLYugQ6xgA?t=790)
-* Mailbox 1.13 - features [16:26](https://youtu.be/ACLYugQ6xgA?t=986)  
-* Mailbox 1.13 feature demo – Transition to New Outlook by using :  AutoLaunch Event including FromChanged Event – [CodeTwo](https://www.codetwo.com/)[22:19](https://youtu.be/ACLYugQ6xgA?t=986)
-* Smart Alerts Best Practices – recap [26:11](https://youtu.be/ACLYugQ6xgA?t=986)
-* Q&A [38:51](https://youtu.be/ACLYugQ6xgA?t=986)
-* Closing [40:28](https://youtu.be/ACLYugQ6xgA?t=986)
+* Introduction [00:00](https://www.youtube.com/watch?v=JGlF8yfrTlY)
+* The New Outlook and Outlook Add-ins – overview [00:45](https://youtu.be/JGlF8yfrTlY?t=45)
+* Q&A [09:08](https://youtu.be/JGlF8yfrTlY?t=547)
+* Closing [15:06](https://youtu.be/JGlF8yfrTlY?t=908)
 
 
 ## Call to action
 
 * Fill out our Office Add-in Developer Experience Survey.
-    * [Office Add-in Developer Experience Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-0oJqQ4NUVOo6aMB4pZ11dUOFhXOVFJU0ZaOERYMzI5VzBSS0RDQ0dCQS4u)
 * Join a community panel – product focused add-in discussion groups.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
@@ -54,7 +48,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* [Next community call](https://aka.ms/officeaddinscommunitycall) on July 12th at 8:00 AM Pacific Time.
+* [Next community call](https://aka.ms/officeaddinscommunitycall) on August 9th at 8:00 AM Pacific Time.
 * Please complete the [Office add-in developing experience survey](https://forms.office.com/r/wmzCgccbPa).
 
 ## Q&A (Question & Answers)
