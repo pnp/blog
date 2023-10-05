@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/ACLYugQ6xgA
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - July 12, 2023
@@ -49,7 +49,6 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
 * [Next community call](https://aka.ms/officeaddinscommunitycall) on August 9th at 8:00 AM Pacific Time.
-* Please complete the [Office add-in developing experience survey](https://forms.office.com/r/wmzCgccbPa).
 
 ## Q&A (Question & Answers)
 
@@ -88,6 +87,7 @@ Yes, New Outlook (mentioned as One Outlook in previous calls) is an initiative t
 **We have a VSTO add-in deployed to 2000+ users. Now we built a office.js based add-in. How do we remove existing VSTO add-in after deploying new add-in? Is there any standard way?**
 
 There is no particular standard way, but here is a good starting point you should try: [Manage add-ins in the admin center - Microsoft 365 admin | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide).
+
 ## Resources related to to this blog's content
 
 * Feedback Repo: [Issues – OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues)
