@@ -10,10 +10,10 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=9YdU1v1dA18
-draft: true
+draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Sarah Haase](https://twitter.com/) Principal Product Manager, U.S. Bank.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Sarah Haase](https://twitter.com/sarahhaase) Principal Product Manager, U.S. Bank.
 
 ## In this episode
 
@@ -42,7 +42,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 [00:00](https://youtu.be/9YdU1v1dA18?t=0) – Intro
 
-[01:58](https://youtu.be/9YdU1v1dA18?t=118) – Interview with Sarah
+[01:57](https://youtu.be/9YdU1v1dA18?t=117) – Interview with Sarah
 
 [39:44](https://youtu.be/9YdU1v1dA18?t=2384) – Articles
 
@@ -57,7 +57,7 @@ This session was recorded on Tuesday 3rd of October and Friday 6th of October. S
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 9YdU1v1dA18 >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-dg2r7-14bd36c >}}
+    {{< podbean pb-f4zy5-14c5b11 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
