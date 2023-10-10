@@ -16,7 +16,7 @@ draft: false
 In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Sarah Haase](https://twitter.com/sarahhaase) Principal Product Manager, U.S. Bank.
 
 ## In this episode
-
+ 
 - Folders or metadata?
 - The importance of data classification to support findability
 - How culture influences collaboration and adoption
