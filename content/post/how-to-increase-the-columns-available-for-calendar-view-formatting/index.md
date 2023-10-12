@@ -30,7 +30,7 @@ To increase the columns available for a calendar view, you must add columns to t
 ### Method 1: Adding Columns via the "Edit View Columns Panel"
 
 1. Open the Calendar view in Microsoft Lists
-2. Select on the name of the view displayed in the command bar > **Add or remove fields**
+2. Select on the name of the view displayed in the command bar > Select **Add or remove fields**
 3. Select the columns to be used in the formatting and put a check mark
 4. Select **Apply** button
 
