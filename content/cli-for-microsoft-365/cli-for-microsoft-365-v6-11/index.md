@@ -12,7 +12,7 @@ tags:
   - SharePoint
   - SharePoint Framework (SPFx)
   - Power Apps
-type: popular
+type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
