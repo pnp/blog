@@ -19,7 +19,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 This is the agenda for the following week:
 
-### Microsoft 365 & Power Platform weekly call - 10th of October
+### Microsoft 365 & Power Platform weekly call - 17th of October
 
 * Tuesday, 17th of October 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
@@ -34,6 +34,21 @@ Demos this time
 
 
 Also: 📷 Picture Time with community in Together Mode!
+
+### Microsoft 365 & Power Platform weekly call - 18th of October
+
+* Tuesday, 18th of October 2023, 8:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
+
+Demos this time
+
+* Søren Lauszus Weber - Making your data work for you using Entity Field Mapping with Power Apps
+* [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton - The MPPC23 Chronicles: Conference Recap and Highlights
+* [Sara Lagerquist](https://twitter.com/lagerquistsara) | @lagerquistsara – Opening Custom Pages using JavaScript and Model Driven Apps
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
 
 ### Viva Connections & SharePoint Framework Community Call - 19th of October
 
