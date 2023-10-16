@@ -42,7 +42,7 @@ Demos this time
 
 Demos this time
 
-* [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard - What Three Words Custom Connector
+* [Matt Beard](https://twitter.com/mattybeard) (Data8) | @MattyBeard - What Three Words Custom Connector
 * Abdul Wahab (Dynamics Technology Systems) - How to automate converting the rows from Excel to Dataverse
 * [Todd Klindt](https://twitter.com/toddklindt) | @ToddKlindt - Validating PowerShell parameters with SharePoint Information
 
