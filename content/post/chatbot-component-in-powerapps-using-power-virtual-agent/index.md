@@ -5,7 +5,7 @@ author: "Anand Ragav"
 githubname: anandragav
 categories: ["Community post"]
 images:
-- images/image49.png
+- images/image1.png
 tags: ["PowerApps", "Power Virtual agents"]
 type: "regular"
 ---
