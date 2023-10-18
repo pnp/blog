@@ -22,9 +22,11 @@ Power Platform is powerful set of tools for designing, automating and improving 
 
 Good news is that there is a way how we can solve this problems. Power Platform solution can be our hero of a day. In this post I will describe what is solution, show two scenarios (with and without solution), describe what are common mistakes and show how to fix.
 
-# What is our hero of a day
+# What is our hero of a day:muscle:
 
-In simple terms <em>Solution</em> is a container where we can add all components belong to our application
+In simple terms, <em>Solution</em> is a container where we can add all components belong to our application. It can be Canvas app, Dataverse table, Power Automate flows, security roles and much, much more. What is more thanks to <em>Solution</em> we can realize process called Application Lifecycle management (ALM), which is core in each application development.
+
+
 
 
 Personally I like to think about solution as a folder on
