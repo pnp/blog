@@ -16,7 +16,7 @@ type: "regular"
 
 # Introduction
 
-Have you ever been in a situation that your Power Platform project should have only one element and you ended with one hundred elements or your admin told you that you have to migrate your tools to diffrent environment? If the answer is yes, you are in right place.:smiley:
+Have you ever been in a situation that your Power Platform project should have only one element:dizzy_face: and you ended with one hundred elements or your admin told you that you have to migrate your tools to diffrent environment? If the answer is yes, you are in right place.:smiley:
 
 Power Platform is powerful set of tools for designing, automating and improving processes, but it also create some development challenges. Usually to create even a simple solution we have to implement several elements. Other words more complex process results in more elements. Very often in big project when we don't follow some rules we lose the track what is going on.
 
