@@ -16,11 +16,11 @@ type: "regular"
 
 # Introduction
 
-Have you ever been in a situation that your Power Platform project should have only one element:dizzy_face: and you ended with one hundred elements or your admin told you that you have to migrate your tools to diffrent environment? If the answer is yes, you are in right place.:smiley:
+Have you ever been in a situation that your Power Platform project should have only one element and you ended up with one hundred elements:dizzy_face: or your admin told you that you have to migrate your tools to diffrent environment? If the answer is yes, you are in right place.:smiley:
 
-Power Platform is powerful set of tools for designing, automating and improving processes, but it also create some development challenges. Usually to create even a simple solution we have to implement several elements. Other words more complex process results in more elements. Very often in big project when we don't follow some rules we lose the track what is going on.
+Power Platform is powerful set of tools for designing, automating and improving processes, but it also creates some development challenges. Usually to create even a simple application we have to implement several elements. Other words more complex process results in more elements. Very often in big project when we don't follow some rules we lose the track what is going on. Additionaly migration each element one by one can lead to significant delays and frustration.:open_mouth: 
 
-Good news is that there is a way how we can solve this problems. Power Platform solution can be our hero of a day. In this post I will describe what is solution, show two scenarios (with and without solution), describe what are common mistakes and show how to fix.
+Good news is that there is a way how we can solve those problems. Power Platform solution can be our hero of a day. In this post I will describe what is solution, show two scenarios (with and without solution), describe what are common mistakes and show how to fix them.
 
 # What is our hero of a day:muscle:
 
