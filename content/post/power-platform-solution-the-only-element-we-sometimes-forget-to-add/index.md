@@ -20,10 +20,17 @@ Have you ever been in a situation that your Power Platform project should have o
 
 Power Platform is powerful set of tools for designing, automating and improving processes, but it also creates some development challenges. Usually to create even a simple application we have to implement several elements. Other words, more complex process results in more elements. Very often in big project when we don't follow some rules we lose the track what is going on. Adding migration between environments to the list of tasks can lead to significant delays and frustration.:open_mouth:
 
-Good news is that there is a way how we can solve those problems. Power Platform <em>solution</em> can improve application management and give us reliable tools boosting productivity. In this post I will describe what is <em>solution</em>, show two scenarios (with and without solution), describe what are common mistakes and show how to fix them.
+Good news is that there is a way how we can solve those problems. Power Platform <em>solution</em> can improve application management and give us reliable tools boosting productivity. In this post I will describe what is <em>solution</em>, show two scenarios (with and without <em>solution</em>), describe what are common mistakes and show how to fix them.
 
-# What is <em>Solution</em>:grey_question:
+# What is Solution:grey_question:
 
 In simple terms, <em>solution</em> is a container where we can add all components belong to our application. It can be Canvas app, Dataverse table, Power Automate flows, security roles and much, much more. What is more thanks to <em>solution</em> we can realize process called Application Lifecycle management (ALM), which is core in each application development.
 
 ...but that's not all. <em>Solution</em> also has some cool features like:
+- dfdf
+
+
+
+
+
+> Warning: To use solution in your project, environment with database is required!
