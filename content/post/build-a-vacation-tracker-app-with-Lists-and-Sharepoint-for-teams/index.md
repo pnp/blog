@@ -14,6 +14,7 @@ draft: false
 
 When it is summer or the holidays season, we know it is vacation time. A likely number one question would then be when everyone else in the team is going to be on vacation. And that means someone in the team is creating or re-using a tracker, usually made with excel, to track people’s vacation days. This is usually complimented with a quick round-the-table update in a team meeting or chat, and sometimes this is the only way the information is shared.
 
+
  
 ## Keep track of everyone’s vacation dates with smart lists
 
