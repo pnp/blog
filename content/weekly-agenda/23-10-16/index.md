@@ -35,9 +35,9 @@ Demos this time
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Microsoft 365 & Power Platform weekly call - 18th of October
+### Microsoft 365 & Power Platform monthly call - 18th of October
 
-* Tuesday, 18th of October 2023, 8:00 AM PT / 3:00 PM GMT
+* Wednesday, 18th of October 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 

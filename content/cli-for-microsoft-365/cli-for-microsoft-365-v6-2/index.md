@@ -54,7 +54,7 @@ More sharing link commands coming soon!
 
 ## Application permissions for Planner
 
-Eureka! Finally, we can use application permissions for Planner commands. This much-requested feature is currently rolling out in preview. Previously we showed a friendly error that told us that application permissions don't work for Planner commands, this check has now been removed. You are now free to experiment with our Planner commands with application permissions! You can do this quickly and easily by just creating a new application registration in Azure AD with Planner application permissions, logging in to the CLI with a [certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office-365/#log-in-using-a-certificate) or [secret](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office-365/#log-in-using-a-secret), and you are good to go!
+Eureka! Finally, we can use application permissions for Planner commands. This much-requested feature is currently rolling out in preview. Previously we showed a friendly error that told us that application permissions don't work for Planner commands, this check has now been removed. You are now free to experiment with our Planner commands with application permissions! You can do this quickly and easily by just creating a new application registration in Azure AD with Planner application permissions, logging in to the CLI with a [certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-microsoft-365/#log-in-using-a-certificate) or [secret](https://pnp.github.io/cli-microsoft365/user-guide/connecting-microsoft-365/#log-in-using-a-secret), and you are good to go!
 
 ## More compliance commands
 
