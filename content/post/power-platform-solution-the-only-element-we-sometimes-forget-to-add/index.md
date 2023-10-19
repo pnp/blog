@@ -16,7 +16,7 @@ type: "regular"
 
 # Introduction
 
-Have you ever been in a situation that your Power Platform project should have only one element and you ended up with one hundred elements:dizzy_face: or your admin told you that you have to migrate your tools to diffrent environment? If the answer is yes, you are in right place.:smiley:
+Have you ever been in a situation that your Power Platform project should have only one element and you ended up with one hundred elements:dizzy_face: or your admin told you that you have to migrate your tools to different environment? If the answer is yes, you are in right place.:smiley:
 
 Power Platform is powerful set of tools for designing, automating and improving processes, but it also creates some development challenges. Usually to create even a simple application we have to implement several elements. Other words, more complex process results in more elements. Very often in big project when we don't follow some rules we lose the track what is going on. Adding migration between environments to the list of tasks can lead to significant delays and frustration.:open_mouth:
 
@@ -26,11 +26,36 @@ Good news is that there is a way how we can solve those problems. Power Platform
 
 In simple terms, <em>solution</em> is a container where we can add all components belong to our application. It can be Canvas app, Dataverse table, Power Automate flows, security roles and much, much more. What is more thanks to <em>solution</em> we can realize process called Application Lifecycle management (ALM), which is core in each application development.
 
-...but that's not all. <em>Solution</em> also has some cool features like:
-- dfdf
+...but that's not all. <em>Solution</em> also has some intresting features like:
+- export and import - we can quickly publish solution with all application elements inside and move it to another environemnt. Package is downloaded as ziped file on local machine and can be also stored in some other repository.
+- versioning and history - each exported package have diffrent version which allow us easily to track changes. All modfication can be checked in solution history view with many additional information.
+- managed and unmanaged solutions:
+    - unmanaged - intended for development purpose and allowing components modification
+    - managed - designed for SIT/UAT/Production scenarios. Allow limited customization or don't allow customization at all.
+
+- publisher - 
+- pipelines -
+- solution checker - 
+- translations -
+- show dependencies -
+- Columns indexed for search -
+- environment variables - 
 
 
 
 
 
 > Warning: To use solution in your project, environment with database is required!
+
+
+
+
+
+# Summarry
+    Conclusion is ...
+
+## Sources
+
+<https://learn.microsoft.com/en-us/power-platform/alm/solution-concepts-alm>
+
+
