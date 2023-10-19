@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 16th of October 2023 week
-date: 2023-10-13T03:03:03.419Z
+date: 2023-10-12T16:42:53.419Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -27,13 +27,15 @@ This is the agenda for the following week:
 
 Demos this time
 
-* Nancy Handa (Microsoft) - Introduction to Viva Connections Announcements 
+
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Creating an Azure Communication Services Resource for your solution
+* Nancy Handa (Microsoft) - Introduction to Viva Connections Announcements 
 * Luyao Wang (Microsoft) - Teams Activity Notification APIs: Now supporting new RSC permissions!
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### Microsoft 365 & Power Platform weekly call - 18th of October
+### Microsoft 365 & Power Platform monthly call - 18th of October
 
 * Wednesday, 18th of October 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
@@ -47,6 +49,7 @@ Demos this time
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
+
 ### Viva Connections & SharePoint Framework Community Call - 19th of October
 
 * Thursday, 19th of October, 7:00 AM PT / 2:00 PM GMT
@@ -56,8 +59,9 @@ Demos this time
 Demos this time
 
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_- How to Securely Consume Azure Resources from SharePoint Framework with Azure API Management
-* [Nishkalank Bezawada](https://twitter.com/im_nishkalank) (Tietoevry) | @im_nishkalank - Managing SharePoint Webhook subscriptions using SPFx Webpart 
+* Nishkalank Bezawada (Tietoevry) - Managing SharePoint Webhook subscriptions using SPFx Webpart 
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh - Building cascading dropdowns in SPFx solutions
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -69,7 +73,6 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Deploying SPFx apps with Azure DevOps pipelines](https://www.youtube.com/watch?v=nyMB2Cygc3Y) by [Martin Lingstuyl​](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl 
 * [Getting started with Microsoft Viva Goals](https://www.youtube.com/watch?v=TA76ArtPOwg)
 * [Connecting Microsoft Teams with your customers through the power of Azure Communications Services](https://www.youtube.com/watch?v=xmhFuMr0VCo) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 * [Getting started with Microsoft Lists - Track information for your business](https://www.youtube.com/watch?v=NKQyuWMMlOw)
@@ -114,7 +117,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform Development Community call October 12th, 2023](https://www.youtube.com/watch?v=8O7sNuBShug)
 * [Microsoft 365 & Power Platform weekly call – 10th of October, 2023](https://www.youtube.com/watch?v=jNo-sG5v33g)
 
 
@@ -146,6 +148,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
+* [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [MN M365 IITH Bi-Annual Fall Workshop Day](https://www.communitydays.org/event/2023-10-13/mn-m365-11th-bi-annual-fall-workshop-day) - October 13-14, 2023 - Edina, MN, USA
 * [Collaboration Hero](https://www.communitydays.org/event/2023-10-17/collaboration-hero) - October 17-19, 2023 - Online
 * [AMS KL](https://www.communitydays.org/event/2023-10-19/ams-kl) - October 19, 2023 - Kuala Lumpur, Malaysia
@@ -161,7 +164,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!
