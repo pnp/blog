@@ -33,7 +33,7 @@ Demos this time
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### ### Microsoft 365 & Power Platform bi-weekly community Call - 12th of October
+### Microsoft 365 & Power Platform bi-weekly community Call - 12th of October
 
 * Thursday, 12th of October, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
