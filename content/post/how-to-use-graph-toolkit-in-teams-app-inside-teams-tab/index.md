@@ -78,7 +78,7 @@ Create a new page in a public folder as  `src\public\auth.html`. Copy below c
 <html>
     <head>
     <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/@microsoft/mgt/dist/bundle/mgt-loader.js"></script>
+    <script src="https://unpkg.com/@microsoft/mgt@2/dist/bundle/mgt-loader.js"></script>
     </head>
     <body>
     <script>
@@ -204,7 +204,7 @@ Go to teams and select **Apps** on the left panel and then select upload a custo
 
 ![thumbnail image 10 of blog post titled How to use Graph Toolkit in Teams App inside Teams Tab ](images/img_61d14d4b1bb1a.png)
 
-Select **Upload a custom app**, then **Upload for me and my teams**,  
+Select **Upload a custom app**, then **Upload for me and my teams**,
 Select the zip package at `D:\SP\samples\teamsapps\teams-graphtoolkit\package\teamsgraphtoolkit.zip`
 
 Note -This zip file will be updated everything you run gulp ngrok-serve, so you have to make sure you upload the latest zip package whenever you have a new ngrok url and also update the same in App Registration in Azure portal.
@@ -268,9 +268,9 @@ return (
                             <Login />
                         </div>
                         <div>
-                            My Meetings 
+                            My Meetings
                             <div>
-                            <Agenda ></Agenda>                            
+                            <Agenda ></Agenda>
                             </div>
                         </div>
                     </div>
@@ -326,7 +326,7 @@ In your `auth.html`, there would be below code
 <html>
     <head>
     <script src="https://unpkg.com/@microsoft/teams-js/dist/MicrosoftTeams.min.js" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/@microsoft/mgt/dist/bundle/mgt-loader.js"></script>
+    <script src="https://unpkg.com/@microsoft/mgt@2/dist/bundle/mgt-loader.js"></script>
     </head>
     <body>
     <script>

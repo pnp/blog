@@ -43,12 +43,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![220419-together-mode.gif](220426-together-mode.gif)
-
-Thank you for being part of this community and these calls. You make this community great!
-
 ## Actions
 
 * Mark your calendar for [Microsoft Tech Days](https://aka.ms/techdays/m365) | Thursday, May 5, 2022.
@@ -112,5 +106,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 27th of April 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

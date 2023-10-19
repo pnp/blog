@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 7th of June, 2022"  
+title: "Microsoft 365 Platform Community Call - 7th of June, 2022"
 summary: "Three demos - Migrate your SharePoint workflows to Power Automate with migration tooling (preview), TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office, and Send a SMS message with Azure Communication Services. New articles, updated samples."
 date: 2022-06-07 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -54,12 +54,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 * Demo - Send a SMS message with Azure Communication Services – [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin – [39:10](https://youtu.be/B4F0KY-qCUU?t=2350)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
-
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220607.gif)
-
-Thank you everyone for joining the call today. Awesome to see your faces. 
 
 ## Actions
 
@@ -129,5 +123,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 7th of June 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

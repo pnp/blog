@@ -6,7 +6,7 @@ githubname: yhabersaat
 categories: ["Community post"]
 images:
 - images/mgt-react-result-2.png
-tags: ["SharePoint framework (SPFx)", "Microsoft Graph toolkit"]
+tags: ["SharePoint framework (SPFx)", "Microsoft Graph Toolkit"]
 type: "regular"
 ---
 
@@ -154,7 +154,7 @@ workbench:
 That's it, you have configured a SPFx web part project with Microsoft
 Graph Toolkit and React. You can now integrate other components in your
 web part project without writing any line of code. And don't forget to
-look at the [Get](https://docs.microsoft.com/graph/toolkit/components/get) 
+look at the [Get](https://docs.microsoft.com/graph/toolkit/components/get)
 
 component which provides a great way to query any Microsoft Graph
 endpoint and display the results with a custom template you made for

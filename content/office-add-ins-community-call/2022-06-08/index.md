@@ -10,7 +10,7 @@ images:
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
-- https://www.youtube.com/watch?v=aIydcCxJFBo
+- https://www.youtube.com/watch?v=k9k70_QQZ-Q
 draft: false
 ---
 
@@ -27,7 +27,7 @@ This month's community call topics:
 
 The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
 
-{{< youtube aIydcCxJFBo >}}
+{{< youtube k9k70_QQZ-Q >}}
 
 ## Topic summaries
 
@@ -37,12 +37,12 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Agenda
 
-* Update – Microsoft roadmap for One Outlook – [Nikita Mittal](https://www.linkedin.com/in/nikita-mittal-92536648) – Senior Product Manager (Microsoft) – [1:23](https://www.youtube.com/watch?v=aIydcCxJFBo&t=83s)
-* Demo – Microsoft Outlook Smart Alerts – [Sam Ramon](https://github.com/samantharamon) – Technical Writer (Microsoft) – [7:35](https://www.youtube.com/watch?v=aIydcCxJFBo&t=455s) 
-* Demo – Using Blazor in a Microsoft Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam – [15:12](https://www.youtube.com/watch?v=aIydcCxJFBo&t=912s)
-* Community spotlight – [32:26](https://www.youtube.com/watch?v=aIydcCxJFBo&t=1946s)
-* Community panels – [33:10](https://www.youtube.com/watch?v=aIydcCxJFBo&t=1990s)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) – Senior Technical Writer (Microsoft) \| @davidchesnut – [36:26](https://www.youtube.com/watch?v=aIydcCxJFBo&t=2186s)
+* Update - Microsoft roadmap for One Outlook - Nikita Mittal - Senior Product Manager (Microsoft) – [1:23](https://youtu.be/k9k70_QQZ-Q?t=83)
+* Demo - Microsoft Outlook Smart Alerts - [Sam Ramon](https://github.com/samantharamon) - Technical Writer (Microsoft) – [7:35](https://youtu.be/k9k70_QQZ-Q?t=455)
+* Demo - Using Blazor in a Microsoft Excel add-in - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [15:12](https://youtu.be/k9k70_QQZ-Q?t=912)
+* Community Spotlight – [32:26](https://youtu.be/k9k70_QQZ-Q?t=1946)
+* Community Panels announced – [33:10](https://youtu.be/k9k70_QQZ-Q?t=1990)
+* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [36:26](https://youtu.be/k9k70_QQZ-Q?t=2186)
 
 ## Actions
 
@@ -54,7 +54,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges
-* See call agendas and summaries, and release announcements. Follow us on Twitter – 
+* See call agendas and summaries, and release announcements. Follow us on Twitter –
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -70,11 +70,11 @@ If you need more information, please let us know more about your scenario at eit
 
 **What plan is there for additional Events in Excel that will substantially improve its potential as a development platform? For example, Hyperlink clicked, Defined Name changed, Shape on-hover, etc.**
 
-These Excel events aren't on our roadmap. Please let us know more about your scenarios for these events by creating an idea request at https://aka.ms/m365dev-suggestions.
+These Excel events aren't on our roadmap. Please let us know more about your scenarios for these events by creating an idea request at <https://aka.ms/m365dev-suggestions>.
 
 **Any update on improving the Office Add-in Ideas Management system?**
 
-Yes, we are looking to move to GitHub, but the plan isn't finalized. For now, please continue submitting ideas at the current site at https://aka.ms/m365dev-suggestions. We'll provide an update on the next community call.
+Yes, we are looking to move to GitHub, but the plan isn't finalized. For now, please continue submitting ideas at the current site at <https://aka.ms/m365dev-suggestions>. We'll provide an update on the next community call.
 
 **Will One Outlook allow you to have multiple accounts at the same time (meaning, having folders on the left pane) like Outlook desktop does? Not having that capability in OWA is the biggest drawback of OWA.**
 
@@ -98,9 +98,9 @@ There is currently no plan to turn on One Outlook by default. We don't have a da
 
 * **COM add-in that, when the Exchange Server goes down, the add-in takes control of retrieving email from a backup email server and inserting that into the Outlook client until the server is available again. Again, going beyond what a web add-in can do.**
 
-We're aware that there are gaps in the features supported by web add-ins versus those supported by COM add-ins. Rest assured that we're working on making the web add-ins model richer. Regarding your first point, enabling security scenarios, including encryption, is at the top of our list. The team is working on extending our event-based approach to support this scenario. The plan is to have an event that will work upon message selection and an API to replace the contents of the message with the decrypted version, if the user has privileges. Your second sample is a scenario we're interested in exploring more. Please let us know more about this scenario by creating an idea request at https://aka.ms/m365dev-suggestions.
+We're aware that there are gaps in the features supported by web add-ins versus those supported by COM add-ins. Rest assured that we're working on making the web add-ins model richer. Regarding your first point, enabling security scenarios, including encryption, is at the top of our list. The team is working on extending our event-based approach to support this scenario. The plan is to have an event that will work upon message selection and an API to replace the contents of the message with the decrypted version, if the user has privileges. Your second sample is a scenario we're interested in exploring more. Please let us know more about this scenario by creating an idea request at <https://aka.ms/m365dev-suggestions>.
 
-**Can you please share your view on this limitation: https://github.com/OfficeDev/office-js/issues/2613. It might turn out to be a huge blocker for us.**
+**Can you please share your view on this limitation: <https://github.com/OfficeDev/office-js/issues/2613>. It might turn out to be a huge blocker for us.**
 
 Thank you for bringing this to our attention. We will follow up on this with our engineers, so that they can assist you further.
 
@@ -139,11 +139,11 @@ We're sorry to hear you've encountered an issue. Please open a [GitHub issue](ht
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
+* See the full blog post for this call in the Microsoft 365 and Power Platform Community Blog – <https://aka.ms/m365pnp/blog>
 * Follow us on Twitter – <https://twitter.com/microsoft365dev>
 * Microsoft 365 Platform Community on YouTube – <https://aka.ms/m365/videos>
 * All Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
 * Submit questions about add-ins development for our next community call – <https://aka.ms/officeaddinsform>
 * Next community call – July 13th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

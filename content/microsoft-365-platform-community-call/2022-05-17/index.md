@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 17th of May, 2022"  
+title: "Microsoft 365 Platform Community Call - 17th of May, 2022"
 summary: "Two demos - Integrate Microsoft Graph connector content on Office.com, and Your Microsoft 365 app within the fingertips of employees with Viva Connections. Announced new training - Writing for the Web, 5 articles, and 1 Teams bot sample."
 date: 2022-05-17 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -31,7 +31,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 ### Next week's call
 
-The call will start at the usual time.  We will cover 1 topic and 1 demo in the first 30 minutes, then we will switch over to the Satya Nadella's keynote at Microsoft Build 2022.  
+The call will start at the usual time.  We will cover 1 topic and 1 demo in the first 30 minutes, then we will switch over to the Satya Nadella's keynote at Microsoft Build 2022.
 
 ### Demos
 
@@ -49,12 +49,6 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 * Demo - Your Microsoft 365 app within the fingertips of employees with Viva Connections - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm and [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) \| @PaoloPia – [28:56](https://youtu.be/RLUiBdYncqU?t=1736)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
-
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220517-together-mode.gif)
-
-Thank you for joining us today or for viewing this session when you are able.  
 
 ## Actions
 
@@ -121,4 +115,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 17th of May 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

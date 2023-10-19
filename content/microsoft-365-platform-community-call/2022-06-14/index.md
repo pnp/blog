@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 14th of June, 2022"  
+title: "Microsoft 365 Platform Community Call - 14th of June, 2022"
 summary: "Three demos - Latest on deprecating basic auth for Exchange, Introduction to Microsoft Graph .Net SDK v5, and Introduction to Microsoft Graph Postman collection. Microsoft 365 Platform Community (PnP) - June 2022 update and 8 new documents/articles released."
 date: 2022-06-15 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -55,11 +55,6 @@ The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/together-mode-220614.gif)
-
-The auditorium is packed!  Thank you for joining the call today and for all you do for this Community.   
 
 ## Actions
 
@@ -137,5 +132,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 *Microsoft 365 Platform Community team, Microsoft - 15th of June 2022*
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

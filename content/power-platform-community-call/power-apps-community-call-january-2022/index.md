@@ -6,22 +6,22 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/PowerApps Thumb January 2022.png
-tags: [ "Extensions", "Microsoft 365", "Power Apps", "SharePoint"]
+tags: [ "SPFx Extensions", "Microsoft 365", "Power Apps", "SharePoint"]
 type: "regular"
 summary: "Topics covered in this month’s community call includes 2 demos:  Power Audio Player (Canvas app, modified audio control functionality, SharePoint list back-end) - Shadrack Inusah (DreamOval) and New Pay as you go Features (Public Preview -  Power Apps Premium environments with Azure subscription) - Kavishi Agarwal (Microsoft),  Recent Power Apps News and Community Contributions (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – Todd Baginski (Canviz) and learn about 5 new PnP Power Apps Samples – April Dunnam (Microsoft).  This call included the first ever Power Apps Community Call Quiz – using a Power App and played during the live call.   This call was hosted by Todd Baginski (Canviz). The call was recorded on January 19, 2022.  Questions addressed in chat throughout the call."
 ---
 
 ## Call summary
 
-Topics covered in this month’s community call includes 2 demos:  
-**Power Audio Player** (Canvas app, modified audio control functionality, SharePoint list back-end) - [Shadrack Inusah](https://twitter.com/kojo_shaddy) (DreamOval) and 
+Topics covered in this month’s community call includes 2 demos: 
+**Power Audio Player** (Canvas app, modified audio control functionality, SharePoint list back-end) - [Shadrack Inusah](https://twitter.com/kojo_shaddy) (DreamOval) and
 **New Pay as you go Features** (Public Preview -  Power Apps Premium environments with Azure subscription) - [Kavishi Agarwal](https://www.linkedin.com/in/kavishi-agarwal-28507a51/) (Microsoft),  
-**Recent Power Apps News and Community Contributions** (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) and 
+**Recent Power Apps News and Community Contributions** (Power Platform ALM Accelerator, Power Apps portals and Power Apps Ideas) – [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) and
 learn about **5 new PnP Power Apps Samples** – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft).  
 
 This call included the first ever **Power Apps Community Call Quiz** – using a Power App and played during the live call.   
 
-This call was hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). 
+This call was hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz).
 
 The call was recorded on January 19, 2022.  Questions addressed in chat throughout the call.   
 
@@ -39,15 +39,15 @@ Thank for attending the call or viewing it on demand. 
 ## Demos
 
 *   **Power Audio Player –** an integration of a Canvas app front-end with SharePoint list backend for images and audio files.  In fact, created the Power App Canvas app from within SharePoint.   App UI is composed of labels, icons, navigation, image containers, etc.  Used the layout template.  Modified out-of-box audio control to look and function differently.  Step through the code for the audio control buttons.        
-    
+
 *   **New Pay as you go Features –** in Public Preview - for premium Power Apps, pay only for what you use after you use it.   Link your Power Apps environment to an Azure Subscription.  The Subscription comes with base Dataverse capacity for Power Apps storage requirements and pay only for storage overages.  Manage Azure Subscription and Power Apps environment from admin portal where you can add/delete apps and get usage reports.      
 
 ## Recent News & Cool Stuff
 
 *   [Introducing the ALM Accelerator for Power Platform](https://powerapps.microsoft.com/blog/introducing-the-alm-accelerator-for-power-platform/)
-    
+
 *   [Power Apps portals: Introducing the portals search powered by Microsoft Dataverse search API (previe...](https://powerapps.microsoft.com/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/)
-    
+
 *   [Power Apps Ideas: New enhancements and increased capabilities](https://powerapps.microsoft.com/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/)
 
 
@@ -65,9 +65,9 @@ Thank for attending the call or viewing it on demand. 
 ## Referenced in this session
 
 *   D1:  Repo - [Power-Audio-Player--PowerApps-](https://github.com/KojoShaddy/Power-Audio-Player--PowerApps-) 
-    
+
 *   D2:  Documentation – [Preview: Pay-as-you-go plan](https://docs.microsoft.com/power-platform/admin/pay-as-you-go-overview) | aka.ms/powerplatformPAYG
-    
+
 *   D2:  Questions/Feedback – PowerPlatformPAYG@microsoft.com
 
 
@@ -96,4 +96,4 @@ Thank for attending the call or viewing it on demand. 
 
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

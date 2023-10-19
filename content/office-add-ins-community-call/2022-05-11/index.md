@@ -47,7 +47,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 * Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-call) – June 15, 8:00 am PT \| aka.ms/officeaddinsamples-call
 * Sign up for the PnP Recognition Program and earn contribution badges – <https://pnp.github.io/recognitionprogram/>
-* See call agendas and summaries, and release announcements. Follow us on Twitter – 
+* See call agendas and summaries, and release announcements. Follow us on Twitter –
     * <https://twitter.com/microsoft365dev>
     * <https://twitter.com/m365pnp>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -187,11 +187,11 @@ Yes, this should work. We do have customers who have implemented a service middl
 
 ## Stay connected
 
-* See the full blog post for this call in the Microsoft 365 platform community blog – <https://aka.ms/m365pnp/blog>
+* See the full blog post for this call in the Microsoft 365 and Power Platform Community Blog – <https://aka.ms/m365pnp/blog>
 * Twitter – [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​
 * Microsoft 365 Platform Community in YouTube – <https://aka.ms/m365/videos>
 * Link to all Microsoft Developer Community calls – <https://aka.ms/M365DevCalls>
 * Submit questions for next community call – <https://aka.ms/officeaddinsform>
 * Next community call – June 8th at 08:00am PT – <https://aka.ms/officeaddinscommunitycall>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

@@ -60,7 +60,7 @@ Here are the latest blog posts and announcements around Microsoft 365 developmen
 * 9th of February - [Client Secret expiration now limited to a maximum of two years](https://devblogs.microsoft.com/microsoft365dev/client-secret-expiration-now-limited-to-a-maximum-of-two-years/)
 * 8th of February - [Learn from the community: React web app and Azure QnA bot to centralize learning resources](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-react-web-app-and-azure-qna-bot-to-centralize-learning-resources/) - [Ayca Bas](https://twitter.com/aycabs) (Microsoft)- @aycabs
 
-### Microsoft 365 Platform Community Blog
+### Microsoft 365 and Power Platform Community Blog
 
 Latest community posts at [https://aka.ms/m365pnp/community/blog](https://aka.ms/m365pnp/community/blog)
 

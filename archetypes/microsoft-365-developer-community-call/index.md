@@ -4,7 +4,7 @@ summary: "INSERT SUMMARY HERE"
 date: {{ .Date }}
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
-categories: ["Microsoft 365 Developer Community Call"]
+categories: ["Microsoft 365 and Power Platform Development Community Call"]
 # Featured image
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
@@ -94,12 +94,6 @@ ADD SECTION INTRO
 Article:  [Getting started with PnP Script Samples](https://aka.ms/script-samples/getting-started) – aka.ms/script-samples/getting-started
 
 – Many thanks!
-
-## Together Mode!
-
-![Together mode](images/together-mode.gif)
-
-The pleasure of seeing everyone here is shared by all.  You are an awesome community.   
 
 ## Demos
 

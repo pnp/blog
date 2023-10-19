@@ -16,7 +16,7 @@ videos:
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this particular call, we highlighted recently announced and key existing resources as well as latest samples, project releases, news, community events and three demos.   
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this particular call, we highlighted recently announced and key existing resources as well as latest samples, project releases, news, community events and three demos.
 
 ### New this week
 
@@ -95,12 +95,6 @@ end of the call.
 
 Thank you for your creativity and work execution. Samples are often showcased in
 Demos.
-
-## Together Mode 
-   
-![220419-together-mode.gif](images/220419-together-mode.gif)
-
-Thank you for being part of this community and these calls. You make this community great!
 
 ## Actions
 
@@ -233,5 +227,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 PnP team, Microsoft - 20th of April 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}

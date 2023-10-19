@@ -5,7 +5,6 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
-- images/210826-together-mode.gif
 tags: []
 type: "regular"
 --- 
@@ -50,9 +49,7 @@ for contributing!  There was a formal demo and an informal sneak peek
 demo during this call.    The host of this call is [Patrick
 Rodgers](https://twitter.com/mediocrebowler) (Microsoft) |
 @mediocrebowler.  Q&A takes place in chat throughout the call.
-![210826-together-mode.gif](images/210826-together-mode.gif)
-Thank you everybody for being part of this call, the community, a tweet,
-a blog post, and the solution to your customer's needs.  
+
 
 ## Actions
 
@@ -283,7 +280,7 @@ slides.
 -   [Reusable controls
     webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) -
     Extends the out-of-the-box experience with open-source community
@@ -323,7 +320,7 @@ calls are used for the following objectives.
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

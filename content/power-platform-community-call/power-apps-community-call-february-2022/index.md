@@ -6,7 +6,7 @@ githubname: Tbag
 categories: ["Power Apps community call"]
 images:
 - images/PowerApps Thumb February 2022.png
-tags: [ "Extensions", "Microsoft 365", "Power Apps"]
+tags: [ "SPFx Extensions", "Microsoft 365", "Power Apps"]
 type: "regular"
 summary: "Topics covered in this month’s community call includes 2 demos:  Make your wishes come true with Power Apps (Good Deeds App - 3 Lists, 3 E-mail addresses and 2 Flows) - Pranav Khurana and Spice up your Power Apps with SVGs (options - ranging from static to interactive - for adding SVG graphics with little code to your Power Apps) - Robin Rosengrün  (EnBW).  Recent Power Apps News and Community Contributions (Power Apps and Power Apps Portals code releases and new Dataverse auditing features) – Todd Baginski (Canviz).   ACTION:  Please vote on What to call this call?   This call was hosted by Todd Baginski (Canviz). The call was recorded on February 16, 2022.  Questions addressed in chat throughout the call."
 videos:
@@ -81,4 +81,4 @@ Topics covered in this month’s community call includes 2 demos:  **Make your 
 *   Next call March 16th at 08:00am PST | [https://aka.ms/powerappscommunitycall](https://aka.ms/powerappscommunitycall)
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

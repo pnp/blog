@@ -60,11 +60,6 @@ previous report 2 weeks ago) 
 The host of this call is [David Warner
 II](https://twitter.com/DavidWarnerII) (Catapult Systems)
 @DavidWarnerII.  Q&A takes place as always in chat throughout the call.
-![211230-together-mode.gif](images/211230-together-mode.gif)
-
-[Check out the new ship shape seating situation.  Perfect for rocketing
-into the New Year!  Hang on, see you
-soon. ]
 
 ## Actions
 
@@ -360,7 +355,7 @@ slides.
 -   [Reusable controls
     webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
 
--   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+-   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 
 -   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) -
     Extends the out-of-the-box experience with open-source community
@@ -401,7 +396,7 @@ on-premises. Calls are used for the following objectives.
 
 -   SharePoint Framework engineering update from Microsoft
 -   Talk about PnP JavaScript Core libraries
--   Office 365 CLI Updates
+-   CLI for Microsoft 365 Updates
 -   SPFx reusable controls
 -   PnP SPFx Yeoman generator
 -   Share code samples and best practices

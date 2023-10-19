@@ -74,7 +74,7 @@ type: "regular"
 * upload all images for your article in this folder
 * in case you need some help on how markdown works, please see this article:
   
-[What's up with markdown?](content/post\what-s-up-with-markdown.md)
+[What's up with markdown?](content/post/what-s-up-with-markdown/index.md)
 
 We also put together some information about markdown and how to use it in our [Wiki](https://github.com/pnp/blog/wiki/Microsoft-365-blog-Markdown-reference)
 
@@ -111,7 +111,7 @@ You will now want to (kindly) ask the repository maintainers to pull in your cha
 * Select **Create pull request**
 * If needed, you can commit more files and changes
 
-A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 Platform Community blog](https://pnp.github.io/blog/).
+A maintainer will review your pull request and merge your changes soon so that your blog appears on the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/).
 
 This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
 

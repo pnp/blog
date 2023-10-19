@@ -4,28 +4,20 @@
   {{ "<!-- post-item -->" | safeHTML }}
   {{ range first 3 ( where site.RegularPages "Section" "!=" "dontshow" )}}
   {{ $resources:= .Resources }}
-  {{ $title:= .Title }}
+  {{ $title := .Title }}
   <article class="widget-card">
     <div class="d-flex">
-      {{ if .Params.images }}
-      <a href="{{ .Permalink }}">
-        {{ range first 1 .Params.images }}
-        {{ $imgPath:= . }}
-
-          {{ if fileExists (add `assets/` $imgPath) }}
-            {{ $img:= resources.Get $imgPath }}
-            {{ $imageXS:= $img.Fill "85x85 webp" }}
-            <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imageXS.RelPermalink}}" class="card-img-sm" loading="lazy" alt="post-thumb">
-          {{ else }}
-            {{ with $resources.GetMatch $imgPath }}
-              {{ $img:= . }}
-              {{ $imageXS:= $img.Fill "85x85 webp" }}
-              <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imageXS.RelPermalink}}" class="card-img-sm" loading="lazy" alt="post-thumb">
-            {{ else }}
-              <div class="image-fallback-sm"><span>{{$title | truncate 1}}</span></div>
-            {{ end }}
-          {{ end }}
-        {{ end }}</a>
+      {{ $thumbnail := partial "get-featured-image" . }}
+      {{ if $thumbnail }}
+        <a href="{{ .Permalink }}">
+          {{ partial "responsive-image" (dict
+              "image" $thumbnail
+              "fillSizes" (slice "85x85")
+              "altTitle" .Title
+              "cssImgOverride" "card-img-sm"
+            )
+          }}
+        </a>
       {{ else }}
         <div class="image-fallback-sm">
           <div class="image-fallback-sm"><span>{{.Title | truncate 1}}</span></div>

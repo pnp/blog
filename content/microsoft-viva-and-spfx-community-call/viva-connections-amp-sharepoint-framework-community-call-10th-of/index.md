@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
 images:
 - images/recording-10th-march.png
-tags: ["Adaptive Card Extensions", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["SPFx Adaptive Card Extensions", "Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 type: "regular"
 summary: "Latest news from Microsoft engineering on Microsoft 365 topics; Three demos: Siddharth Vaghasia -- My Emails Viva Connections Adaptive Card Extension, Yves Habersaat -- Getting started with Microsoft Graph Toolkit and SharePoint Framework, Paolo Pialorsi -- Using Microsoft Graph APIs in Viva Connection ACEs"
 videos:
@@ -34,7 +34,7 @@ Viva Connections & SharePoint Framework bi-weekly community call recording from 
     *   **CLI for Microsoft 365** – v5.1 preview
 *   2 ACE samples were delivered in the last two weeks!  Your contributions are greatly appreciated by members of this community.
 
-## Latest project updates 
+## Latest project updates
 
 (**Bold** indicates update from previous report 2 weeks ago) 
 
@@ -49,10 +49,6 @@ SharePoint Framework (SPFx)|v1.14 GA, **v1.15 Beta**|v1.15 GA in June 2022
 [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/)|v4.5.4, v3.23.0
 
 The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.  Q&A takes place as always in chat throughout the call.
-
-![thumbnail image 2 of blog post titled Viva Connections & SharePoint Framework Community Call – 10th of March, 2022 ](images/220310-together-mode.gif)
-
-Thank you for joining the call today and/or for viewing the recording.  Can anyone explain why seats in the middle are empty today?   You are not in an airplane.   Are the seats out of order?     
 
 ## Actions
 
@@ -77,11 +73,11 @@ Thank you for joining the call today and/or for viewing the recording.  Can any
 ## Demos
 
 *   **My Emails Viva Connections Adaptive Card Extension** – this Adaptive Card Extension (ACE) displays emails for the currently logged in user.  Walk through code to see how to get the current user’s email message from the Graph and render it in SPFx ACE Card View with previous and next buttons to navigate between emails.  Demonstrates how to modify Quick View to display email detail on click of any Email from Card View.   
-    
+
 *   **Getting started with Microsoft Graph Toolkit and SharePoint Framework** – use Microsoft Graph Toolkit (MGT) together with SharePoint Framework (SPFx) and custom templates to display agendas, files, tasks, messages and more.  Set up your environment - install mgt-spfx, mgt-spfx npm, and mgt React components packages.  Instantiate the SharePointProvider.  Finally, import selected MGT React components into your web part and grant permissions to SPO.   See how presenter uses GET component and renders results in custom templates.    
-    
+
 *   **Using Microsoft Graph APIs in Viva Connection ACEs** – learn how you can consume Microsoft Graph APIs within ACEs.  Use Graph in an ACE to read from and write to calendar.  Step through configuring webApiPermissionRequests in package-solution.json file, granting permissions via SPO Admin UI and consuming Microsoft Graph via SPFx context object (MSGraphClient) and binding the data to the UI of CardView(s) and/or QuickView(s).  Deploy solution with sppkg package with stated permissions requirements.  
-    
+
 
 ## SPFx extension samples
 
@@ -173,7 +169,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Reusable web part property controls](https://sharepoint.github.io/sp-dev-fx-property-controls/)
 *   [Reusable react controls for SharePoint Framework solutions](https://sharepoint.github.io/sp-dev-fx-controls-react/)
 *   [Reusable controls webcast](https://devblogs.microsoft.com/microsoft365dev/webcast-reusable-controls-for-your-sharepoint-framework-solutions/)
-*   [Office 365 CLI](https://sharepoint.github.io/office365-cli/)
+*   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365)
 *   [PnP SPFx Yeoman Generator](https://github.com/pnp/generator-spfx) \- Extends the out-of-the-box experience with open-source community capabilities
 *   [SharePoint Dev UserVoice](https://aka.ms/spdev-uservoice) \- for new feature requests
 
@@ -196,7 +192,7 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *   SharePoint Framework engineering update from Microsoft
 *   Talk about PnP JavaScript Core libraries
-*   Office 365 CLI Updates
+*   CLI for Microsoft 365 Updates
 *   SPFx reusable controls
 *   PnP SPFx Yeoman generator
 *   Share code samples and best practices
@@ -205,11 +201,10 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 *   Demonstrate SharePoint Framework in practice in Microsoft Viva, Microsoft Teams or SharePoint context
 *   You can download a recurrent invite from [https://aka.ms/spdev-spfx-call](https://aka.ms/spdev-spfx-call). Welcome and join the discussion!
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
 
 _“Sharing is caring”_
 
 * * *
 
 _Microsoft 365 PnP team, Microsoft - 11th of March 2022_
-

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 31st of May, 2022"  
+title: "Microsoft 365 Platform Community Call - 31st of May, 2022"
 summary: "Two demos - Latest on the Microsoft Graph developer portal updates and Microsoft Build 2022 - key announcements for Microsoft 365 platform. Highlighted 19 Microsoft 365 Platform related articles supporting announcements at Build."
 date: 2022-06-01 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -57,12 +57,6 @@ The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (
 * Update – Microsoft Build 2022 key announcements for Microsoft 365 platform –[Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft)\| @vesajuvonen – [30:12](https://youtu.be/3mOpF0OwOEM?t=1812)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
-
-## Together Mode 
-   
-![Attendees waving hands in Microsoft Teams together mode picture](images/220531-together-mode.gif)
-
-Thank you everyone for joining the call today. Awesome to see your faces. 
 
 ## Actions
 
@@ -133,5 +127,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 *Microsoft 365 Platform Community team, Microsoft - 1st of June 2022*
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}
