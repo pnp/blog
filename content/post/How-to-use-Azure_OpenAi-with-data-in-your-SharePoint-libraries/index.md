@@ -1,6 +1,6 @@
 ---
 title: "How to use a custom connector in Power Automate"
-date: 2023-10-23T07:25:00-05:00
+date: 2023-10-22T07:25:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
@@ -8,6 +8,7 @@ images:
 - images/lego-shock.png
 tags: ["SharePoint"]
 type: "regular"
+draft: false
 ---
 
 ## tl;dr
@@ -260,7 +261,7 @@ Following the Custom Connector wizard at [make.powerapps.com](https://make.power
 
 ![Test tab of connector](images/cc-test.png)
 
-Your connectir is now ready 🚀
+Your connector is now ready 🚀
 
 ## Conclusion
 
