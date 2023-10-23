@@ -1,5 +1,5 @@
 ---
-title: Weekly Agenda - 23th of October 2023 week
+title: Weekly Agenda - 23rd of October 2023 week
 date: 2023-10-20T02:42:53.419Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
