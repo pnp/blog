@@ -87,7 +87,7 @@ These videos and podcasts are published each week and are intended to be roughly
 
 * [Episode #262 - Handling Throttling Exceptions with Microsoft Graph SDK for .NET](https://www.youtube.com/watch?v=QzwHBrV5hzg) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [5 things every Power Apps beginner needs to know](https://www.youtube.com/watch?v=WZO2hgU8O4E) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-* [Power Platform Copilot Environment Setup](https://www.youtube.com/watch?v=KYym2M9YocQ) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
+* [Power Platform Copilot Environment Setup](https://www.youtube.com/watch?v=KYym2M9YocQ) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [How to use modern controls in Power Apps](https://www.youtube.com/watch?v=oDT4ZRLdWI4) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @delucagiulian
 
 ## Upcoming events
