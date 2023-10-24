@@ -1,5 +1,5 @@
 ---
-title: "How to use Azure OPenAi with your data in SharePoint libraries"
+title: "How to use Azure OpenAI with your data in SharePoint libraries"
 date: 2023-10-23T07:25:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
