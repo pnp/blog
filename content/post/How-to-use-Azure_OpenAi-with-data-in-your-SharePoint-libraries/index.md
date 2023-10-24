@@ -198,7 +198,7 @@ Following the Custom Connector wizard at [make.powerapps.com](https://make.power
 * **Host**: `<name-of-your-openai-service>.openai.azure.com`
 * **Base URL**: `/openai/deployments/<name-of-your-deployment>`
 
-![General tab of the connector](/images/cc-general.png)
+![General tab of the connector](images/cc-general.png)
 
 **Security:**
 
@@ -207,7 +207,7 @@ Following the Custom Connector wizard at [make.powerapps.com](https://make.power
 * **Parameter name**:  `api-key`
 * **Parameter location**: `Header`
 
-![Security tab of connector](/images/cc-security.png)
+![Security tab of connector](images/cc-security.png)
 
 **Definition**
 
