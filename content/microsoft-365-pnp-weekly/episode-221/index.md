@@ -84,7 +84,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Creating Colored Folders in SharePoint Online and OneDrive](https://ganeshsanapblogs.wordpress.com/2023/09/10/creating-colored-folders-in-sharepoint-online-and-onedrive/) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) (Cognizant) | @GaneshSanap20
 * [Microsoft 365 Audit Logs - Office 365 Management APIs - Search and list like a Pro](https://twitter.com/tomvideo2brain/status/1709574276204929188?s=20) - [Tom Wechsler](https://twitter.com/tomvideo2brain) (Wechsler Information Solution) | @tomvideo2brain
 * [Easily handle long-running operations using middleware in the Microsoft Graph JavaScript SDK](https://blog.mastykarz.nl/easily-handle-long-running-operations-middleware-microsoft-graph-javascript-sdk/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm & Majesty Uwagerikpe (Microsoft)
-* [Creating Teams Meetings and install Teams Meeting App with Microsoft Graph]() - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Creating Teams Meetings and install Teams Meeting App with Microsoft Graph](https://mmsharepoint.wordpress.com/2023/10/06/creating-teams-meetings-and-install-teams-meeting-app-with-microsoft-graph/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 
 ## Videos
 
