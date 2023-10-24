@@ -1,6 +1,6 @@
 ---
-title: "How to use a custom connector in Power Automate"
-date: 2023-10-22T07:25:00-05:00
+title: "How to use Azure OPenAi with your data in SharePoint libraries"
+date: 2023-10-23T07:25:00-05:00
 author: "Luise Freese"
 githubname: LuiseFreese
 categories: ["Community post"]
