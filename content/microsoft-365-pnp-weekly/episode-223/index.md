@@ -19,7 +19,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 - How to overcome your ego and be a learn-it-all?
 - Why you should consider working in the open?
-- Overcome your fears and start contributing to the community with these simple s
+- Overcome your fears and start contributing to the community with these simple steps
 
 ## References
 
