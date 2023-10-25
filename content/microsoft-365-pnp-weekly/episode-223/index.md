@@ -35,7 +35,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 [00:00](https://www.youtube.com/watch?v=IiF_6edUiFo&t=0s) – Intro
 
-[01:08](https://www.youtube.com/watch?v=IiF_6edUiFo&t=68s) – Interview with Bert
+[01:08](https://www.youtube.com/watch?v=IiF_6edUiFo&t=68s) – Interview with Luise
 
 [35:58](https://www.youtube.com/watch?v=IiF_6edUiFo&t=2158s) – Weekly articles
 
