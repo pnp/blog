@@ -1,6 +1,6 @@
 ---
 title: "Viva Connections Toolkit v2.1.0 release"
-date: 2023-10-26T08:00:00.000Z
+date: 2023-10-26T02:00:00.000Z
 # post thumb
 images:
   - images/main.png
