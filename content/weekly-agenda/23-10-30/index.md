@@ -1,6 +1,6 @@
 ---
-title: Weekly Agenda - 3th of October 2023 week
-date: 2023-10-20T02:42:53.419Z
+title: Weekly Agenda - 30th of October 2023 week
+date: 2023-10-27T02:42:53.419Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -55,6 +55,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Using your Azure Functions securely within your Microsoft 365 solutions](https://www.youtube.com/watch?v=uP2Fo9lh8bY) by [Nico De Cleyre](https://twitter.com/​NicoDeCleyre) (DCraftIT) | @​NicoDeCleyre
 * [Building Microsoft Teams bot for traffic details with OpenAI function calling](https://www.youtube.com/watch?v=VmCWPzW91W8) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Getting started with Microsoft Lists - Create or change the view of a list](https://www.youtube.com/watch?v=JvJu2ko_wac)
 * [Automating business processes with custom Power Automate Flows in List Templates](https://www.youtube.com/watch?v=0YuUTlGtO8A) by Alin Sirbu (Microsoft) & Nate Tennant (Microsoft)
@@ -102,6 +103,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development Community call October 26th, 2023](https://www.youtube.com/watch?v=VriV8z81InQ)
 * [Microsoft 365 & Power Platform weekly call – 24th of October, 2023](https://www.youtube.com/watch?v=5z9LvbDdcO4)
 
 ---
