@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - Azure Active Directory
   - SharePoint
-type: regular
+type: popular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
@@ -131,4 +131,4 @@ For additional guidance on getting started or to explore detailed information ab
 
 ## Stay Connected!
 
-We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://twitter.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
