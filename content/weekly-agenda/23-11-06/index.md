@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of November 2023 week
-date: 2023-11-02T02:42:53.419Z
+date: 2023-11-05T02:42:53.419Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -18,6 +18,8 @@ We want to give you a better overview on what's happening each week. This is a s
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 This is the agenda for the following week:
+
+---
 
 ### Microsoft 365 & Power Platform weekly call - 7th of November
 
@@ -32,6 +34,8 @@ Demos this time
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen - Import an existing SharePoint Framework solution and continue development with Teams Toolkit
 
 Also: 📷 Picture Time with community in Together Mode!
+
+---
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 9th of November
 
@@ -55,8 +59,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Quickly Generate List-Based Models Using a Single Command with SharePoint Framework](https://www.youtube.com/watch?v=urhHe_NlYvI) by [Sergej Schwabauer​](https://twitter.com/spfxappdev) (AURUM) | @spfxappdev
 * [Getting started with Microsoft Viva Goals - Collaborate](https://www.youtube.com/watch?v=-7fDGelocAA)
-* [Create a Power App from your existing APIs – Visual Studio Code + Power Platform](https://www.youtube.com/watch?v=DQlnTmOMOc0) by [Marcel Ferreira](https://twitter.com/marcel_ferreira ) (Microsoft) | @marcel_ferreira 
+* [Create a Power App from your existing APIs – Visual Studio Code + Power Platform](https://www.youtube.com/watch?v=DQlnTmOMOc0) by [Marcel Ferreira](https://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira 
 * [Getting started with Microsoft Lists - Edit a view of a list](https://www.youtube.com/watch?v=Xcd7IW3p8Fw)
 * [User Profile Photos in Microsoft 365 - Status and Roadmap Updates](https://www.youtube.com/watch?v=tvf9yAzPTRY) by [Kristin McLeod (Microsoft)](https://www.youtube.com/watch?v=5I5N1LVBJIU&t=18s)
 * [Getting started with SharePoint - Add or remove a news post](https://www.youtube.com/watch?v=M-_hXgMkUtg)
@@ -70,6 +75,7 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
+* [Using the Jira plugin with Microsoft Copilot](https://www.youtube.com/watch?v=86IUu53jUZY)
 * [Build your own custom Microsoft Graph Connector using Python](https://www.youtube.com/watch?v=bsa7DmR4TOA) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 ---
@@ -78,7 +84,7 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-
+* [Announcing public preview for Microsoft Adaptive Card Previewer](https://devblogs.microsoft.com/microsoft365dev/announcing-public-preview-for-microsoft-adaptive-card-previewer/) by Junjie Li (Microsoft)
 * [Introducing the Microsoft Graph Python SDK](https://devblogs.microsoft.com/microsoft365dev/introducing-the-microsoft-graph-python-sdk/) by Isaac Vargas Chacon (Microsoft)
 * [Eliminate digital drag: Move your organization into the modern work and generative AI fast lane](https://devblogs.microsoft.com/microsoft365dev/eliminate-digital-drag-move-your-organization-into-the-modern-work-and-generative-ai-fast-lane/) by Sebastian Holst (Microsoft)
 * [Microsoft Graph APIs for Microsoft Teams meeting transcripts now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-apis-for-microsoft-teams-meeting-transcripts-now-generally-available/) by Ayan Chakraborty (Microsoft)
@@ -101,6 +107,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 2nd of November 2023](https://www.youtube.com/watch?v=WQnYUbjclM4)
 * [Microsoft 365 & Power Platform weekly call – 31st of October, 2023](https://www.youtube.com/watch?v=SRcZTvJX5LY)
 
 ---
@@ -128,7 +135,10 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/home) - November 14-17, 2023 - Seattle, WA, USA
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
 * [Microsoft 365 Conference](https://m365conf.com/#!/) - April 30, May 1, May 2, 2023 - Orlando, Florida, USA
-* [European Cloud Summit](https://www.cloudsummit.eu/) - May 14-16, 2024 - Wiesbaden, Germany
+* [European Collaboration Summit](https://www.cloudsummit.eu/) - May 14-16, 2024 - Wiesbaden, Germany
+* [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference/) - June 11-13, 2024 - Brussels, Belgium
+* [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) - September 18-20 - Las Vegas, NV, USA
+
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
