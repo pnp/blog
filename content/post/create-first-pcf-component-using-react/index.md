@@ -69,19 +69,19 @@ Here are the key files and configurations involved in a React PCF component:
 
 ```pac solution init --publisher-name developer --publisher-prefix dev```
 
-![Init solution](init-solution.png)
+![Init solution](images/init-solution.png)
 
 - Once you've created the new project, go to the Solutions folder to locate the example component you made. To make sure this component is included when you build your project, use the "pac solution add-reference" command. This reference tells the project which code components to use when it's being put together. You can add references to several components in a single project.
 
 ```pac solution add-reference --path c:\downloads\mysamplecomponent```
 
-![Add reference](add-reference.png)
+![Add reference](images/add-reference.png)
 
 - To make a zip file from your project, first, go to the project folder. Then, use this command to build the project: "msbuild." This command also gets the extra stuff your project needs. You only need to use "/restore" the first time you build the project. After that, just use "msbuild" for every build.
 
 ```msbuild /t:build /restore```
 
-![Msbuild restore](restore-solution.png)
+![Msbuild restore](images/restore-solution.png)
 
 ## Deployment
 
@@ -90,7 +90,7 @@ Here are the key files and configurations involved in a React PCF component:
 - Choose "Import solution."
 - Add the zip file located at "solution/bin/debug/solution.zip".
 
-![Import solution](import-btn.png)
+![Import solution](images/import-btn.png)
 
 - Once the solution is successfully imported, click "Publish all customizations."
 - Now, you can add the component to your application.
@@ -101,19 +101,19 @@ Here are the key files and configurations involved in a React PCF component:
 - Start by either making a new canvas app or editing an existing one where you want to use the code component.
 - In the left panel, click on "Add" (+) and then choose "Get more components."
 
-![Insert tab](insert-tab.png)
+![Insert tab](images/insert-tab.png)
 
 - Click on the "Code" tab. Next, pick a component from the list, and then click on "Import."
 
-![Import component](import-component.png)
+![Import component](images/import-component.png)
 
 - In the left panel, click the plus (+) sign, open the "Code components" section, and then choose the component to include it in the app.
 
-![Custom component](custom-component.png)
+![Custom component](images/custom-component.png)
 
 ## Output
 
-![PCF output](pcf-output.png)
+![PCF output](images/pcf-output.png)
 
 ## Conclusion
 In this article, you've successfully crafted your initial PowerApps Component Framework (PCF) component with React. This guide has provided you with the know-how and expertise required to expand the capabilities of PowerApps by introducing custom components. Your potential for creating advanced PCF components tailored to your unique business requirements is boundless.
