@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 13th of November 2023 week
-date: 2023-11-09T09:54:10.349Z
+date: 2023-11-10T02:54:10.349Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -29,8 +29,8 @@ This is the agenda for the following week:
 
 Demos this time
 
-* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Signing In a User and Getting an Access Token for organizational data using Microsoft Graph Toolkit
 * Nancy Handa (Microsoft) - Introduction to new Viva Connection version 3.0
+* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Signing In a User and Getting an Access Token for organizational data using Microsoft Graph Toolkit
 * Daniel Kerridge (Velrada) - Power AI Hack Winner - Best AI Powered Solution
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -68,7 +68,6 @@ Demos this time
 * [Sumit Jadon](https://twitter.com/@CoolJadon) (Avanade)  | @CoolJadon - Bulk Update using SPFX Extension
 * [Lakshama Rao Duppala](https://twitter.com/dlrao) (Diaspark) | @dlrao - Building Adaptive Card extension (ACE) that shows weather information for office locations
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -79,6 +78,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Getting started with Adaptive Card-based Loop components](https://www.youtube.com/watch?v=cgAjzELvRY4) by Shubham Chauhan (Microsoft)
 * [Microsoft Viva Learning - Organize your learning journey](https://www.youtube.com/watch?v=eZ7b4ggRY8A)
 * [The MPPC23 Chronicles: Conference Recap and Highlights](https://www.youtube.com/watch?v=otnRg5AeO0A) by [Keith Atherton](https://twitter.com/MrKeithAtherton) | @MrKeithAtherton
 * [Getting started with OneDrive - Manage PC folder backup](https://www.youtube.com/watch?v=0xyywXnQpCU)
@@ -109,6 +109,7 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Write high quality code with the Microsoft Graph PHP SDK v2](https://devblogs.microsoft.com/microsoft365dev/write-high-quality-code-with-the-microsoft-graph-php-sdk-v2/) by Jessica Wu (Microsoft) & Isaac Vargas Chacon (Microsoft)
 * [Test and debug securely with Dev Tunnels](https://devblogs.microsoft.com/microsoft365dev/test-and-debug-securely-with-dev-tunnels/) by Carolina Uribe-Gosselin (Microsoft), Utsa Santhosh (Microsoft), Jason Ginchereau (Microsoft)
 * [Generate tailored Python and PHP API clients for any API with Kiota](https://devblogs.microsoft.com/microsoft365dev/generate-tailored-python-and-php-api-clients-for-any-api-with-kiota/) by Isaac Vargas Chacon (Microsoft) and Jessica Wu (Microsoft)
 * [Let’s build a custom Microsoft Graph connector](https://devblogs.microsoft.com/microsoft365dev/lets-build-a-custom-microsoft-graph-connector/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
@@ -120,6 +121,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [Creating Your First PowerApps Component Framework (PCF) Component with React](https://pnp.github.io/blog/post/create-first-pcf-component-using-react/) by [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 * [Microsoft 365 PnP Weekly - Episode 225](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-225/) with [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
 
 
@@ -131,6 +133,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development Community call November 9th, 2023](https://www.youtube.com/watch?v=knZZ4I20se4)
 * [Microsoft 365 & Power Platform weekly call – 7th of November, 2023](https://www.youtube.com/watch?v=MZdbD2ek0XI)
 
 ---
