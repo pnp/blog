@@ -48,7 +48,7 @@ User knows:
 - what is Power Platform solution and how to work with it,
 - basics about Dataverse tables design.
 
-#### 1. Go to ticket table settings
+#### 1. Go to ticket table properties
 ![dataverse-long-term-data-retention-screen-1.png](images/dataverse-long-term-data-retention-screen-1.png)
 
 #### 2. In advanced options section select <u>Enable long term retention</u> option
@@ -95,7 +95,7 @@ Now Retention Policy is up and runing!
 
 ## How to add Retention Policy to your solution
 
-Adding policy is not necessary step to create fully up and running tool, however using solutions is sign of a good design practices, especially in case of working with different environment. In a long term using solution gives a lot of benefits.
+Adding policy is not necessary step to create fully up and running tool, however using solution is sign of a good design practices, especially in case of working with different environment. In a long term using solution gives a lot of benefits.
  
 To add created policy to solution follow these steps:
 - find <b>RetentionConfig</b> item on the list (add existing -> more -> other -> RetentionConfig),
@@ -105,7 +105,7 @@ To add created policy to solution follow these steps:
 
 ## How to check policy status
 
-Implementing policy usually doesn't end work with Dataverse long term retention. Regulatories, admins or single user needs information what is going on on daily basis with data. Fortunately, Power Platform provides very user friendly interface to check it.
+Implementing policy usually doesn't end work with Dataverse long term retention. Regulatories, admins or single users need information what is going on on daily basis with data. Fortunately, Power Platform provides very user friendly interface to check it.
 
 First possible option is investigating policy logs. Each policy run is captured by the system and display such information as status, number of archived items and when policy was completed.
 ![dataverse-long-term-data-retention-screen-8.png](images/dataverse-long-term-data-retention-screen-8.png)
