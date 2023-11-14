@@ -34,7 +34,7 @@ Data retention policy is one of the most important concept in modern app develop
 - All processes are run in background (during off hours) to avoid performance impact.
 - There is no possibility to revert completed changes.
 - Dataverse retention policy is solution aware.
-- System administrator role is requiered to create new policy.
+- System administrator role is required to create new policy.
 - Policy can be run once, daily, weekly, monthly or yearly.
 
 ## Use case description
