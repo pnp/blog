@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -111,6 +111,7 @@ No new blog posts this time.
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 16th of November 2023](https://www.youtube.com/watch?v=n_rrVbZ4szU)
 * [Microsoft Power Platform community call – November 2023](https://www.youtube.com/watch?v=79eu6eWCPT0)
 * [Microsoft 365 & Power Platform weekly call – 14th of November, 2023](https://www.youtube.com/watch?v=q9laezIULGs)
 * [Office Add-ins community call – November 2023](https://www.youtube.com/watch?v=2LeK8X9RElU)
