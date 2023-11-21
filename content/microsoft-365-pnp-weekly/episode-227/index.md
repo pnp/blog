@@ -37,7 +37,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 [00:00](https://www.youtube.com/watch?v=rZY0HF9H610&t=0s) – Intro
 
-[01:08](https://www.youtube.com/watch?v=rZY0HF9H610&t=68s) – Interview with Nathalie
+[01:08](https://www.youtube.com/watch?v=rZY0HF9H610&t=68s) – Interview with Reshmee
 
 [39:43](https://www.youtube.com/watch?v=rZY0HF9H610&t=2383s) – Weekly articles
 
