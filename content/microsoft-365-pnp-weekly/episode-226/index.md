@@ -39,7 +39,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 [00:00](https://www.youtube.com/watch?v=AfzbmwTWoDE&t=0s) – Intro
 
-[01:37](https://www.youtube.com/watch?v=AfzbmwTWoDE&t=97s) – Interview with Nathalie
+[01:37](https://www.youtube.com/watch?v=AfzbmwTWoDE&t=97s) – Interview with Mike
 
 [45:39](https://www.youtube.com/watch?v=AfzbmwTWoDE&t=2739s) – Weekly articles
 
