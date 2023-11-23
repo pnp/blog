@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 27th of November 2023 week
-date: 2023-11-24T02:54:10.349Z
+date: 2023-11-23T09:54:10.349Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -9,8 +9,9 @@ images:
   - images/weeklyagenda48.png
 tags: []
 type: trending
-videos: null
-draft: true
+videos:
+  - https://www.youtube.com/watch?v=QcI2quaKaJo
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -57,6 +58,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building dynamic 3D worlds in a collaborative way using Microsoft Teams AI](https://www.youtube.com/watch?v=HyBo8m_l8wU) by [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
+* [Microsoft Viva Learning - Crowdsource your learning](https://www.youtube.com/watch?v=K185XDT3YyM)
+* [Building Microsoft Teams message extension for Stock data with OpenAI function calling feature](https://www.youtube.com/watch?v=1BgNy8dStaE) by [Anoop Tatti](https://twitter.com/anooptells) (Advania) | @anooptells
 * [Getting started with OneDrive - Use Storage Sense and OneDrive to manage disk space](https://www.youtube.com/watch?v=9yKbOxn4E0A)
 * [Use Azure Open AI and GPT prompts to generate completions for email and SMS messages](https://www.youtube.com/watch?v=688GYR0RKUU) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * [Getting started with SharePoint - Restore a shared library](https://www.youtube.com/watch?v=S1aQjx7RWd8)
@@ -71,7 +75,6 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Microsoft Ignite Copilot Highlights](https://www.youtube.com/watch?v=f2DVcAv7iVU)
-
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -105,6 +108,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform development community call - 23rd of November, 2023](https://www.youtube.com/watch?v=Kz77YMhd4vI)
 * [Microsoft 365 & Power Platform weekly call – 21st of November, 2023](https://www.youtube.com/watch?v=DN-x1gUhQFE)
 
 ---
@@ -122,6 +126,14 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
 ![together-221201.png](images/community-recognization-program.png)
+
+---
+
+## Microsoft 365 Conference at Orlando in April 2024
+
+We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Orlando in April 2024.
+
+{{< youtube QcI2quaKaJo >}}
 
 ---
 
