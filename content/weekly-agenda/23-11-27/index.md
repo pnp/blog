@@ -1,16 +1,16 @@
 ---
-title: Weekly Agenda - 20th of November 2023 week
-date: 2023-11-17T02:54:10.349Z
+title: Weekly Agenda - 27th of November 2023 week
+date: 2023-11-24T02:54:10.349Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda47.png
+  - images/weeklyagenda48.png
 tags: []
 type: trending
 videos: null
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -21,33 +21,31 @@ This is the agenda for the following week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 21st of November
+### Microsoft 365 & Power Platform weekly call - 28th of November
 
-* Tuesday, 21st of November 2023, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 28th of November 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Using Microsoft Graph to retrieve Files, Chats, and Sending Messages to Teams
-* Elliot Fraser (ClearBank) - Power AI Hack Winner - Grand Prize
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Debug API requests with Microsoft 365 Developer Proxy and Chrome DevTools
+* [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Using Microsoft Graph to retrieve emails and calendar events for your solution
+* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert -Introducing the Microsoft Graph Toolkit chat components
 
 Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 23rd of November
+### Microsoft 365 & Power Platform bi-weekly community Call - 30th of November
 
-* Thursday, 23rd of November, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 30th of November, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-* [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot - Running processes in the cloud with CLI for Microsoft 365
-* Naveen Rajdev (Velrada) - Create Dynamic Quicklinks and left Navigation in SharePoint
-* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting - Tips & Tricks
+* [Harminder Singh](https://twitter.com/Harminder_Sethi) (Navarro) | @Harminder_Sethi - Copy Path and Copy Name List view command set extensions
+* [Hugo Bernier](https://twitter.com/bernierh) (Takeda) | @Bernierh - SPFx and Graph Connectors - exposing external data in Microsoft 365
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -59,27 +57,28 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Getting started with Microsoft Viva Goals - Engage](https://www.youtube.com/watch?v=YHhqTc2Ltis)
-* [Building a SharePoint New Site Form Look-Alike with SPFx](https://www.youtube.com/watch?v=GOuCzp1ZpxE) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuyl
-* [Getting started with OneDrive - Delete and restore files in OneDrive](https://www.youtube.com/watch?v=PycVGYUWKa4)
-* [Use Azure OpenAI and GPT prompts to convert natural language to SQL](https://www.youtube.com/watch?v=LChXBuyCAeo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-* [Getting started with SharePoint - Sync your SharePoint files](https://www.youtube.com/watch?v=hTv9moLWYFY)
-* [Building a custom Tenant Wide Extensions Manager for easy extension configuration](https://www.youtube.com/watch?v=gOGFo9Stnho) by [Dan Toft](tanddant) (Evobis) | @tanddant
-* [Microsoft 365 PnP Weekly – Episode 226 – Mike Maadarani](https://www.youtube.com/watch?v=AfzbmwTWoDE)
-* [Making your data work for you using Entity Field Mapping with Power Apps](https://www.youtube.com/watch?v=Hy2PVIPCkxg)
+* [Getting started with OneDrive - Use Storage Sense and OneDrive to manage disk space](https://www.youtube.com/watch?v=9yKbOxn4E0A)
+* [Use Azure Open AI and GPT prompts to generate completions for email and SMS messages](https://www.youtube.com/watch?v=688GYR0RKUU) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [Getting started with SharePoint - Restore a shared library](https://www.youtube.com/watch?v=S1aQjx7RWd8)
+* [Calling Azure OpenAI with data connector from an SPFx web part](https://www.youtube.com/watch?v=JDfLyygXn0Q&) by [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez
+* [Microsoft 365 PnP Weekly – Episode 227 – Reshmee Auckloo](https://www.youtube.com/watch?v=rZY0HF9H610)
+* [Join the others in the community at Microsoft 365 Conference 2024 at Orlando](https://www.youtube.com/watch?v=QcI2quaKaJo)
+* [Using Community Hits & Copilot Tips with the Power Platform Prompts Repo](https://www.youtube.com/watch?v=8KJp2uhMoFg) by [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
+* [Power Platform Developer Office Hours - November 2023](https://www.youtube.com/watch?v=L9zxb-BgN3A)
+* [Opening Custom Pages using JavaScript and Model Driven Apps](https://www.youtube.com/watch?v=D_CTDIPUsUI) by [Sara Lagerquist](https://twitter.com/lagerquistsara) | @lagerquistsara
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Up Story - Francisco](https://www.youtube.com/watch?v=UecCChS669c)
-* [Power Up Story - Paulina](https://www.youtube.com/watch?v=z4JZXQ760WE)
+* [Microsoft Ignite Copilot Highlights](https://www.youtube.com/watch?v=f2DVcAv7iVU)
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Introduction to Copilot for Microsoft 365 for developers](https://www.youtube.com/watch?v=2OftQrc7PPQ)
-* [Using the Jira plugin with Microsoft Copilot](https://www.youtube.com/watch?v=-7GgPqCewc8)
-* [Why you should build a Microsoft Graph connector](https://www.youtube.com/watch?v=sD1HQtEM4uI)
+* [Build your first customer Graph connector for Copilot for Microsoft 365](https://www.youtube.com/watch?v=2oQ_6wXrwDQ) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
+* [Write a message extension for Teams and Copilot for Microsoft 365](https://www.youtube.com/watch?v=zK-L83cwJ8c) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Extend Copilot for Microsoft 365 with external data with Graph connectors](https://www.youtube.com/watch?v=17rAOh9313g) by [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
+* [Extend Copilot for Microsoft 365 using Teams message extensions](https://www.youtube.com/watch?v=vvNFCagkdcE) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 
 ---
 
@@ -87,20 +86,15 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Ignite 2023: Ushering in the era of Microsoft Copilot extensibility](https://devblogs.microsoft.com/microsoft365dev/ignite-2023-ushering-in-the-era-of-microsoft-copilot-extensibility/) by Ben Summers (Microsoft)
-* [Building the next era of AI: Teams AI Library and API message extensions | Ignite 2023](https://devblogs.microsoft.com/microsoft365dev/building-the-next-era-of-ai-teams-ai-library-and-api-message-extensions-ignite-2023/) by Joey Glocke (Microsoft)
-* [Introducing new chat components with the Microsoft Graph Toolkit](https://devblogs.microsoft.com/microsoft365dev/introducing-new-chat-components-with-the-microsoft-graph-toolkit/) by Sébastien Levert (Microsoft), Ricky Castaneda (Microsoft), Katya Trishina (Microsoft)
-* [Use Microsoft Graph connectors to securely bring external content into Microsoft 365](https://devblogs.microsoft.com/microsoft365dev/use-microsoft-graph-connectors-to-securely-bring-external-content-into-microsoft-365/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and Mounika Narayanan (Microsoft)
-* [Announcing general availability of Outlook rich notifications in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-outlook-rich-notifications-in-microsoft-graph/) by Cameron Parker (Microsoft)
-* [Item insights admin settings path and scope change in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/item-insights-admin-settings-path-and-scope-change-in-microsoft-graph/) by Jonas Lintvedt (Microsoft)
-
+* [Microsoft Graph CLI v1.0.0 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-cli-v1-0-0-is-now-generally-available/) by Carol Mbasinge Kigoonya (Microsoft)
+* [Link unfurling and search based message extensions in Outlook generally available](https://devblogs.microsoft.com/microsoft365dev/link-unfurling-and-search-based-message-extensions-in-outlook-now-generally-available/) by Namrata Khubchandani (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-No new blog posts this time. 
+* [Microsoft 365 PnP Weekly - Episode 227](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-227/)
 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
@@ -111,12 +105,7 @@ No new blog posts this time.
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections and SharePoint Framework community call 16th of November 2023](https://www.youtube.com/watch?v=n_rrVbZ4szU)
-* [Microsoft Power Platform community call – November 2023](https://www.youtube.com/watch?v=79eu6eWCPT0)
-* [Microsoft 365 & Power Platform weekly call – 14th of November, 2023](https://www.youtube.com/watch?v=q9laezIULGs)
-* [Office Add-ins community call – November 2023](https://www.youtube.com/watch?v=2LeK8X9RElU)
-* [Office Add-ins community call – October 2023](https://www.youtube.com/watch?v=c3aLpz3VEb4)
-* [Office Add-ins community call – September 2023](https://www.youtube.com/watch?v=XNykp7pLXgI)
+* [Microsoft 365 & Power Platform weekly call – 21st of November, 2023](https://www.youtube.com/watch?v=DN-x1gUhQFE)
 
 ---
 
@@ -150,7 +139,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 
-* [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [M365 Community Days Lagos 2023](https://www.communitydays.org/event/2023-12-09/m365-community-days-lagos-2023) - November 9, 2023 - Lagos, Nigeria
 * [M365 Community Day - Phoenix](https://www.communitydays.org/event/2024-01-13/m365-community-day-phoenix) - January 13-14, 2024 - Tempe, AZ, USA

@@ -142,7 +142,6 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Erwin van Hunen](https://twitter.com/erwinvanhunen) (Rencore) | @Erwinvanhunen
 * [Eswar Prakash](https://twitter.com/eswaratwork) (Resonate) | @eswaratwork
 * [Federico Sapia](https://twitter.com/X365Fede) | @X365Fede
-* [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
 * [Ganesh Sanap](https://twitter.com/ganeshsanap20) | @GaneshSanap20
 * [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Solutions) | @Gautamdsheth
 * [Geert de Kooter](https://twitter.com/gdekooter) | @gdekooter
@@ -150,7 +149,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Giacomo Pozzoni](https://github.com/jackpoz) (Stena Group IT) | jackpoz
 * x[Gretchun Kim](https://github.com/gretchunkim) (Crowell & Moring LLP) | gretchunkim
 * Guido Zambarda (PiaSys) | GuidoZam
-* [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
+* [Harminder Singh](https://twitter.com/Harminder_Sethi) (Navarro) | @Harminder_Sethi
 * x[Hilton Giesenow](https://github.com/HiltonGiesenow) | HiltonGiesenow
 * xHoussem Ayadi
 * [Hubert Lam](https://twitter.com/z3019494) | @z3019494
