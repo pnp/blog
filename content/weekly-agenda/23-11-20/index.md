@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -61,7 +61,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 * [Getting started with Microsoft Viva Goals - Engage](https://www.youtube.com/watch?v=YHhqTc2Ltis)
 * [Building a SharePoint New Site Form Look-Alike with SPFx](https://www.youtube.com/watch?v=GOuCzp1ZpxE) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuyl
-* * [Getting started with OneDrive - Delete and restore files in OneDrive](https://www.youtube.com/watch?v=PycVGYUWKa4)
+* [Getting started with OneDrive - Delete and restore files in OneDrive](https://www.youtube.com/watch?v=PycVGYUWKa4)
 * [Use Azure OpenAI and GPT prompts to convert natural language to SQL](https://www.youtube.com/watch?v=LChXBuyCAeo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [Getting started with SharePoint - Sync your SharePoint files](https://www.youtube.com/watch?v=hTv9moLWYFY)
 * [Building a custom Tenant Wide Extensions Manager for easy extension configuration](https://www.youtube.com/watch?v=gOGFo9Stnho) by [Dan Toft](tanddant) (Evobis) | @tanddant
@@ -111,6 +111,7 @@ No new blog posts this time.
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 16th of November 2023](https://www.youtube.com/watch?v=n_rrVbZ4szU)
 * [Microsoft Power Platform community call – November 2023](https://www.youtube.com/watch?v=79eu6eWCPT0)
 * [Microsoft 365 & Power Platform weekly call – 14th of November, 2023](https://www.youtube.com/watch?v=q9laezIULGs)
 * [Office Add-ins community call – November 2023](https://www.youtube.com/watch?v=2LeK8X9RElU)
