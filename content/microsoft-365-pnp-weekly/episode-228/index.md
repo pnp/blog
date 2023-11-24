@@ -10,7 +10,7 @@ images:
 tags: []
 videos:
 - https://www.youtube.com/watch?v=TUUKrohvz7Y
-draft: true
+draft: false
 ---
 
 In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Cat Schneider](https://twitter.com/YerAWizardCat) Business Apps MVP, Power Platform developer.
