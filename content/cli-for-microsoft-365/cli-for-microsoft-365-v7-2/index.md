@@ -24,27 +24,78 @@ Introducing the latest release of CLI for Microsoft 365
 
 ### Azure Active Directory
 
-With this release, we've introduced a new group of commands that allows you to manage 
+With this release, we've introduced a new group of commands that allows you to manage administrative units. An administrative unitis a Microsoft Entra resource that can be a container for other Microsoft Entra resources. It may contain only users, groups, or devices.
 
-List all group users from a group specified by ID.
-
-```sh
-m365 aad group user list --groupId 03cba9da-3974-46c1-afaf-79caa2e45bbe
-```
-
-List all group users from a group specified by name. For each one return the display name, e-mail address, and manager display name.
+To retrieve a list of administrative units
 
 ```sh
-m365 aad group user list --groupDisplayName Developers --properties "displayName,mail,manager/displayName"
+m365 aad administrativeunit list
 ```
 
-List all group members that are guest users.
+To create an administrative unit with a specific display name
 
 ```sh
-m365 aad group user list --groupDisplayName Developers --filter "userType eq 'Guest'"
+m365 aad administrativeunit add --displayName 'Marketing Division'
 ```
 
-- [m365 aad group user list](https://pnp.github.io/cli-microsoft365/cmd/aad/group/group-user-list)
+To get information about the administrative unit by its display name
+
+```sh
+m365 aad administrativeunit get --displayName 'Marketing Division'
+```
+
+To remove an administrative unit by it display name
+
+```sh
+m365 aad administrativeunit remove --displayName 'Marketing Division'
+```
+
+For more information check the following resources:
+- [m365 aad administrativeunit list](https://pnp.github.io/cli-microsoft365/cmd/aad/administrativeunit/administrativeunit-list)
+- [m365 aad administrativeunit add](https://pnp.github.io/cli-microsoft365/cmd/aad/administrativeunit/administrativeunit-add)
+- [m365 aad administrativeunit get](https://pnp.github.io/cli-microsoft365/cmd/aad/administrativeunit/administrativeunit-get)
+- [m365 aad administrativeunit remove](https://pnp.github.io/cli-microsoft365/cmd/aad/administrativeunit/administrativeunit-remove)
+
+### Customize profile card
+
+Thanks to a recent adjustment to MS Graph you may now use the profileCardProperty resource to show additional properties from Microsoft Entra ID on the profile card for a user either by: making additional attributes visible or adding custom attributes. In this minor release we introduced all commands that will allow you to manage profile card properties.
+
+To lists all profile card properties
+
+```sh
+m365 tenant people profilecardproperty list
+```
+
+To add a custom extension attribute Cost Center as a profile property to the profile cards properties
+
+```sh
+m365 tenant people profilecardproperty add --name customAttribute1 --displayName 'Cost Center'
+```
+
+To retrieve information about a specific profile card property
+
+```sh
+m365 tenant people profilecardproperty get --name customAttribute1
+```
+
+To update a custom extension attribute with translations
+
+```sh
+m365 tenant people profilecardproperty set --name customAttribute1 --displayName "Cost Center" --displayName-nl-NL "Kostencentrum" --displayName-de "Kostenstelle"
+```
+
+To removes the UPN as a profile property from the profile cards
+
+```sh
+m365 tenant people profilecardproperty remove --name UserPrincipalName
+```
+
+For more information check the following resources:
+- [m365 tenant people profilecardproperty list](https://pnp.github.io/cli-microsoft365/cmd/tenant/people/people-profilecardproperty-list)
+- [m365 tenant people profilecardproperty add](https://pnp.github.io/cli-microsoft365/cmd/tenant/people/people-profilecardproperty-add)
+- [m365 tenant people profilecardproperty get](https://pnp.github.io/cli-microsoft365/cmd/tenant/people/people-profilecardproperty-get)
+- [m365 tenant people profilecardproperty set](https://pnp.github.io/cli-microsoft365/cmd/tenant/people/people-profilecardproperty-set)
+- [m365 tenant people profilecardproperty remove](https://pnp.github.io/cli-microsoft365/cmd/tenant/people/people-profilecardproperty-remove)
 
 ## What's changed
 
