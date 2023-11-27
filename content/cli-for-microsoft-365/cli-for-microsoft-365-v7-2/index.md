@@ -24,7 +24,7 @@ Introducing the latest release of CLI for Microsoft 365
 
 ### Azure Active Directory
 
-With this release, we've introduced a new group of commands that allows you to manage administrative units. An administrative unitis a Microsoft Entra resource that can be a container for other Microsoft Entra resources. It may contain only users, groups, or devices.
+With this release, we've introduced a new group of commands that allows you to manage administrative units. An administrative unit is a Microsoft Entra resource that can be a container for other Microsoft Entra resources. It may contain only users, groups, or devices.
 
 To retrieve a list of administrative units
 
@@ -99,35 +99,49 @@ For more information check the following resources:
 
 ## What's changed
 
-### Improved documentation
+### Added support for upgrading SPFx projects to v1.18.2
 
-We're committed to providing you with the best possible experience when using CLI for Microsoft 365. That's why we've made some improvements to our documentation to help you get started and find the information you need. 
+SharePoint Framework (SPFx) allows you to build solutions for Microsoft Teams, Microsoft Viva, Outlook, the Microsoft 365 app and SharePoint. v1.18.2 of SPFx introduced a minor improvement which allows you to use the latest version of yeoman.
 
-The outputs of several commands have been added or adjusted to provide you with more detailed information. Additionally, we've updated the documentation of several commands to include more information and cross-references.
+To benefit from this you may upgrade your existing projects using the CLI for Microsoft 365.
 
-### SharePoint command improvements
+> Important: CLI for Microsoft 365 won't upgrade your project. Instead, it will provide you with a report that you can use to upgrade your project yourself.
 
-We've made some improvements to our SharePoint commands to enhance your experience and provide you with greater control over your SharePoint environment.
-
-You can now get the currently logged-in user using the `spo user get` command.
+To upgrade your SPFx projects to v1.18.2, run the following command:
 
 ```sh
-m365 spo user get --webUrl https://contoso.sharepoint.com/sites/project-x
+m365 spfx project upgrade --toVersion 1.18.2 --output md > report.md
 ```
 
-Besides this, there have been some minor improvements to other commands to provide you with a more clear error message.
+You can also request a more interactive report built on top of the [VSCode CodeTour extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour), by running:
 
-- [m365 spo user get](https://pnp.github.io/cli-microsoft365/cmd/spo/user/user-get)
+```sh
+m365 spfx project upgrade --toVersion 1.18.2 --output tour
+```
+
+We've also updated other SPFx-related commands to support SPFx v1.18.2 like the `doctor` command which allows you to validate correctness of a SharePoint Framework project.
+
+To validate if your project is correctly set up and save the findings in a Markdown file
+
+```sh
+m365 spfx project doctor --output md > "doctor-report.md"
+```
+
+### Enchacements to interactive mode
+
+CLI for Microsoft 365 is interactive by default. This means that you only need to type the command, hit enter and CLI will do the rest. It will ask for a minimal set of required information to execute the command. It will even help you determine the correct result from a list of found items. Now we extended this behavior with an addtional improvement. Till now you always needed to type the option value even if some only allowed specific values from a list of possible options. Now CLI will present you a list of possible choices fo you to select the wanted option. This means less typing and fewer mistakes. 
+
+![interactive-mode-improvement](./images/interactive-mode-improvement.png)
 
 ### And more...
 
-If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v710) to find out more.
+If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v720) to find out more.
 
 ## Upcoming changes
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 90 issues that are actively being developed and 66 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 90 issues that are actively being developed and 61 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 
@@ -137,18 +151,18 @@ Together, let's shape the future of CLI for Microsoft 365 and unlock even greate
 
 We want to extend our heartfelt appreciation to the incredible individuals who have made this release possible. Without their valuable contributions and dedication, CLI for Microsoft 365 wouldn't be where it is today. Let's give a round of applause to the following contributors (in alphabetical order):
 
+- [Aaron Junker](https://github.com/Aaron-Junker)
 - [Adam Wójcik](https://github.com/Adam-it)
-- [David Jackowiak](https://github.com/unkn0wn-root)
-- [Ganesh Sanap](https://github.com/ganesh-sanap)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
-- [János Dojcsák](https://github.com/dojcsakj)
+- [Joel Rodrigues](https://github.com/joelfmrodrigues)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
+- [Martin Machacek](https://github.com/MartinM85)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
+- [Reshmee Auckloo](https://github.com/reshmee011)
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
-- [Smita Nachan](https://github.com/SmitaNachan)
-- [Vedant L Iyangar](https://github.com/vlakshminarayanan)
+- [Tobias Maestrini](https://github.com/tmaestrini)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 We express our deepest gratitude for the time and effort you have invested in CLI for Microsoft 365, improving its progress and enriching its capabilities. Your contributions have played a significant role in advancing this project and empowering users worldwide. Thank you for your commitment and valuable assistance!
@@ -157,10 +171,7 @@ We express our deepest gratitude for the time and effort you have invested in CL
 
 We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
 
-- [Aaron Junker](https://github.com/Aaron-Junker)
-- [Brugh](https://github.com/brugh)
-- [Carsten Behring](https://github.com/behrica)
-- [Martin Machacek](https://github.com/MartinM85)
+- //TODO
 
 ## Get Started Today!
 
