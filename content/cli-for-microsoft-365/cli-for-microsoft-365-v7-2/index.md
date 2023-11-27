@@ -58,9 +58,9 @@ For more information check the following resources:
 
 ### Customize profile card
 
-Thanks to a recent adjustment to MS Graph you may now use the profileCardProperty resource to show additional properties from Microsoft Entra ID on the profile card for a user either by: making additional attributes visible or adding custom attributes. In this minor release we introduced all commands that will allow you to manage profile card properties.
+Thanks to a recent adjustment to MS Graph you may now use the profileCardProperty resource to show additional properties from Microsoft Entra ID on the profile card for a user either by: making additional attributes visible or adding custom attributes. In this minor release, we introduced all commands that will allow you to manage profile card properties.
 
-To lists all profile card properties
+To list all profile card properties
 
 ```sh
 m365 tenant people profilecardproperty list
@@ -84,7 +84,7 @@ To update a custom extension attribute with translations
 m365 tenant people profilecardproperty set --name customAttribute1 --displayName "Cost Center" --displayName-nl-NL "Kostencentrum" --displayName-de "Kostenstelle"
 ```
 
-To removes the UPN as a profile property from the profile cards
+To remove the UPN as a profile property from the profile cards
 
 ```sh
 m365 tenant people profilecardproperty remove --name UserPrincipalName
@@ -101,7 +101,7 @@ For more information check the following resources:
 
 ### Added support for upgrading SPFx projects to v1.18.2
 
-SharePoint Framework (SPFx) allows you to build solutions for Microsoft Teams, Microsoft Viva, Outlook, the Microsoft 365 app and SharePoint. v1.18.2 of SPFx introduced a minor improvement which allows you to use the latest version of yeoman.
+SharePoint Framework (SPFx) allows you to build solutions for Microsoft Teams, Microsoft Viva, Outlook, the Microsoft 365 app and SharePoint. v1.18.2 of SPFx introduced a minor improvement that allows you to use the latest version of yeoman.
 
 To benefit from this you may upgrade your existing projects using the CLI for Microsoft 365.
 
@@ -119,7 +119,7 @@ You can also request a more interactive report built on top of the [VSCode CodeT
 m365 spfx project upgrade --toVersion 1.18.2 --output tour
 ```
 
-We've also updated other SPFx-related commands to support SPFx v1.18.2 like the `doctor` command which allows you to validate correctness of a SharePoint Framework project.
+We've also updated other SPFx-related commands to support SPFx v1.18.2 like the `doctor` command which allows you to validate the correctness of a SharePoint Framework project.
 
 To validate if your project is correctly set up and save the findings in a Markdown file
 
@@ -127,9 +127,9 @@ To validate if your project is correctly set up and save the findings in a Markd
 m365 spfx project doctor --output md > "doctor-report.md"
 ```
 
-### Enchacements to interactive mode
+### Enhancements to interactive mode
 
-CLI for Microsoft 365 is interactive by default. This means that you only need to type the command, hit enter and CLI will do the rest. It will ask for a minimal set of required information to execute the command. It will even help you determine the correct result from a list of found items. Now we extended this behavior with an addtional improvement. Till now you always needed to type the option value even if some only allowed specific values from a list of possible options. Now CLI will present you a list of possible choices fo you to select the wanted option. This means less typing and fewer mistakes. 
+CLI for Microsoft 365 is interactive by default. This means that you only need to type the command, hit enter and CLI will do the rest. It will ask for a minimal set of required information to execute the command. It will even help you determine the correct result from a list of found items. Now we extended this behavior with an additional improvement. Till now you always needed to type the option value even if some only allowed specific values from a list of possible options. Now CLI will present you a list of possible choices for you to select the wanted option. This means less typing and fewer mistakes. 
 
 ![interactive-mode-improvement](./images/interactive-mode-improvement.png)
 
