@@ -171,7 +171,13 @@ We express our deepest gratitude for the time and effort you have invested in CL
 
 We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
 
-- //TODO
+- [brugh](https://github.com/brugh)
+- [sergey-ovsiannikov](https://github.com/sergey-ovsiannikov)
+- [David Barratt](https://github.com/davidbarratt)
+- [Garry Trinder](https://github.com/garrytrinder)
+- [Gustavo Velez](https://github.com/gavdgavd)
+- [Jacky Lam](https://github.com/jackylamhk)
+- [Paul](https://github.com/paul-gladoon)
 
 ## Get Started Today!
 
