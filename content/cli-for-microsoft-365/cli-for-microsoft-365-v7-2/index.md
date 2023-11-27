@@ -16,13 +16,13 @@ type: popular
 
 Introducing the latest release of CLI for Microsoft 365
 
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces a number of new administrative commands as well as a tone of awesome improvements.
+[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces a number of new administrative commands as well as a ton of awesome improvements.
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
  
 ## What's new
 
-### Azure Active Directory
+### Microsoft Entra
 
 With this release, we've introduced a new group of commands that allows you to manage administrative units. An administrative unit is a Microsoft Entra resource that can be a container for other Microsoft Entra resources. It may contain only users, groups, or devices.
 
