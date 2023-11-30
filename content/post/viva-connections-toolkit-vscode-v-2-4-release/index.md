@@ -22,7 +22,7 @@ type: "regular"
 
 All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with [PnP samples](https://pnp.github.io/#samples), upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
-In this minor release the team focused on developing features that will allow seamless cooparation between Viva Connections Toolkit with Teams Toolkit.
+In this minor release, the team focused on developing features that will allow seamless cooperation between Viva Connections Toolkit and with Teams Toolkit.
 
 Check out the full list of updates in this release 👇:
 
@@ -30,40 +30,40 @@ Check out the full list of updates in this release 👇:
 - 👉 Added Teams Toolkit support
 - 👉 Refactored help and feedback section to tree view adding new links to Teams Toolkit and ACE previewer
 - 👉 Added ACE previewer checker to suggest this extension when ACE component is present in the project
-- 👉 Modified CI/CD GitHub generate workflow action to present list of site level app catalogs
-- 👉 Updated dependencies validation to check for latest version of yo
+- 👉 Modified CI/CD GitHub generate workflow action to present a list of site-level app catalogs
+- 👉 Updated dependencies validation to check for the latest version of yo
 
 Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a bit more detail 👇
 
 ## 🤝 Viva Connection Toolkit and Teams Toolkit - better together
 
-[Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) is a widley used VS Code extension that aims to help your in develop solutions which will allow you to extend Microsoft Teams. Viva Connection Toolkit aim is to boost your productivity in SharePoint Framework solutions that may be used to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook and Microsoft365.com. Among many awesome functionalities, Teams Toolkit allows you to create a project to extend Teams Tab with SPFx project, and that's where both of those extensions may cooparate.
+[Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) is a widely used VS Code extension that aims to help you develop solutions that will allow you to extend Microsoft Teams. Viva Connection Toolkit aim is to boost your productivity in SharePoint Framework solutions that may be used to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com. Among many awesome functionalities, Teams Toolkit allows you to create a project to extend Teams Tab with SPFx project, and that's where both of those extensions may cooperate.
 
 ![better together](images/betterTogether.png)
 
-The team has refactored almost all extensions functionalities allowing Viva Connections Toolkit undertand Teams Toolkit solution when an SPFx component is used. Viva Connections Toolkit will check the 'src' folder of a Teams Toolkit solution for a SPFx project and execute all of it's checks, validation and actions directly in that folder.
+The team has refactored almost all extension functionalities allowing Viva Connections Toolkit to understand Teams Toolkit solution when an SPFx component is used. Viva Connections Toolkit will check the 'src' folder of a Teams Toolkit solution for an SPFx project and execute all of its checks, validation, and actions directly in that folder.
 
 ![project](images/project.png)
 
-Thanks to that Viva Connections Toolkit may be used to validate the correctness of your SPFx webpart or generate upgrade guidance to the latest SPFx version. It may also be used to rename your SPFx project, or to bundle, package and deploy your SPFx project to an app catalog of your choice like any other SPFx project
+Thanks to that Viva Connections Toolkit may be used to validate the correctness of your SPFx webpart or generate upgrade guidance to the latest SPFx version. It may also be used to rename your SPFx project or to bundle, package, and deploy your SPFx project to an app catalog of your choice like any other SPFx project
 
 ## Help and Feedback section tree view
 
-In this minor release we also rebuild the help and feedback section to a tree view allowing you to expand and focus only on the content that you are interested in. The links are now grouped into four categories:
+In this minor release, we also rebuild the help and feedback section to a tree view allowing you to expand and focus only on the content that you are interested in. The links are now grouped into four categories:
 - Docs & Learning - which stores all the links to official Microsoft documentation and learning paths
-- Resources & Tooling - where you may find links to additional tooling like Microsoft Graph Explorer or Adaptive Card Designer which might be helpful when developing SharePoint framework solutions. Also in this section we added two more links as part of our 'better together' functionalities that point to Teams Toolkit and Adaptive Card Previewer VS Code extensions
+- Resources & Tooling - where you may find links to additional tooling like Microsoft Graph Explorer or Adaptive Card Designer which might be helpful when developing SharePoint framework solutions. Also in this section, we added two more links as part of our 'better together' functionalities that point to Teams Toolkit and Adaptive Card Previewer VS Code extensions
 - Community - with links that point to the Microsoft 365 and Power Platform Community and community Discord server to connect.
-- Support - where you may find links related to Viva Connections Toolkit that will help you find addtional guidance and manuals as well as report and issue or a new idea.
+- Support - where you may find links related to Viva Connections Toolkit that will help you find additional guidance and manuals as well as report an issue or a new idea.
 
 ![help and feedback](images/newHelpAndFeedback.png)
 
 ## 👀 Microsoft Adaptive Card Previewer
 
-[Microsoft Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) is a quite new VS Code extension that uses latest rendering stack for Microsoft Teams to provide a more accurate preview of Adaptive Cards. Viva Connections Toolkit will now check if your SharePoint Framework project has an ACE component and if so it will show a notification to install Adaptive Card Previewer to boost your work with ACE development and allow you less context switching. 
+[Microsoft Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) is a quite new VS Code extension that uses the latest rendering stack for Microsoft Teams to provide a more accurate preview of Adaptive Cards. Viva Connections Toolkit will now check if your SharePoint Framework project has an ACE component and if so it will show a notification to install Adaptive Card Previewer to boost your work with ACE development and allow you less context switching. 
 
 ## 🚀 Update support of SPFx to 1.18.2
 
-Keeping you up to date and helping you upgrade your solution to the latest version of SPFx is one of main functionalities of this extension. That's why as part of this minor release, we also updated the upgrade and validate action to SPFx v1.18.2. 
+Keeping you up to date and helping you upgrade your solution to the latest version of SPFx is one of the main functionalities of this extension. That's why as part of this minor release, we also updated the upgrade and validate action to SPFx v1.18.2. 
 Gain confidence and upgrade guidance with ease to keep you going 🚀.
 
 ## 🗺️ Future roadmap
