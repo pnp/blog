@@ -22,12 +22,12 @@ type: "regular"
 
 All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with [PnP samples](https://pnp.github.io/#samples), upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
-In this minor release, the team focused on developing features that will allow seamless cooperation between Viva Connections Toolkit and with Teams Toolkit.
+In this minor release, the team focused on developing features that will allow seamless cooperation between Viva Connections Toolkit and Teams Toolkit.
 
 Check out the full list of updates in this release 👇:
 
 - 👉 Added support for SPFx v1.18.2
-- 👉 Added Teams Toolkit support
+- 👉 Added Teams Toolkit support - better together
 - 👉 Refactored help and feedback section to tree view adding new links to Teams Toolkit and ACE previewer
 - 👉 Added ACE previewer checker to suggest this extension when ACE component is present in the project
 - 👉 Modified CI/CD GitHub generate workflow action to present a list of site-level app catalogs
@@ -37,7 +37,7 @@ Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a 
 
 ## 🤝 Viva Connection Toolkit and Teams Toolkit - better together
 
-[Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) is a widely used VS Code extension that aims to help you develop solutions that will allow you to extend Microsoft Teams. Viva Connection Toolkit aim is to boost your productivity in SharePoint Framework solutions that may be used to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com. Among many awesome functionalities, Teams Toolkit allows you to create a project to extend Teams Tab with SPFx project, and that's where both of those extensions may cooperate.
+[Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) is a widely used VS Code extension that aims to help you develop solutions that will allow you to extend Microsoft Teams. Viva Connection Toolkit aims to boost your productivity in SharePoint Framework solutions that may be used to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com. Among many awesome functionalities, Teams Toolkit allows you to create a project to extend Teams Tab with SPFx project, and that's where both of those extensions may cooperate.
 
 ![better together](images/betterTogether.png)
 
