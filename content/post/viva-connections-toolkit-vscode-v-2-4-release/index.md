@@ -51,9 +51,15 @@ Thanks to that Viva Connections Toolkit may be used to validate the correctness 
 
 In this minor release we also rebuild the help and feedback section to a tree view allowing you to expand and focus only on the content that you are interested in. The links are now grouped into four categories:
 - Docs & Learning - which stores all the links to official Microsoft documentation and learning paths
-- Resources & Tooling - where you may find links to additional tooling like Microsoft Graph Explorer or Adaptive Card Designer which might be helpful when developing SharePoint framework solutions. Also in this section we added two more links as part of our 'better together' functionalities that point to Teams Toolkit and 
+- Resources & Tooling - where you may find links to additional tooling like Microsoft Graph Explorer or Adaptive Card Designer which might be helpful when developing SharePoint framework solutions. Also in this section we added two more links as part of our 'better together' functionalities that point to Teams Toolkit and Adaptive Card Previewer VS Code extensions
+- Community - with links that point to the Microsoft 365 and Power Platform Community and community Discord server to connect.
+- Support - where you may find links related to Viva Connections Toolkit that will help you find addtional guidance and manuals as well as report and issue or a new idea.
 
 ![help and feedback](images/newHelpAndFeedback.png)
+
+## 👀 Microsoft Adaptive Card Previewer
+
+[Microsoft Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) is a quite new VS Code extension that uses latest rendering stack for Microsoft Teams to provide a more accurate preview of Adaptive Cards. Viva Connections Toolkit will now check if your SharePoint Framework project has an ACE component and if so it will show a notification to install Adaptive Card Previewer to boost your work with ACE development and allow you less context switching. 
 
 ## 🚀 Update support of SPFx to 1.18.2
 
@@ -62,7 +68,7 @@ Gain confidence and upgrade guidance with ease to keep you going 🚀.
 
 ## 🗺️ Future roadmap
 
-
+This release is just one of many awesome features we plan for the upcoming v3 release of this extension. We don't stop here and we already started working on more functionalities that will boost your SharePoint Framework development to the next level. Check out the [issue list for v3 release](https://github.com/pnp/vscode-viva/issues?q=is%3Aopen+is%3Aissue+milestone%3Av3.0) to find out more.
 
 ## 👍 Power of the community
 
