@@ -20,12 +20,14 @@ type: "regular"
 ## TL;DR
 How often do you find yourself writing documentation for Dynamics 365 Power Automate Flows and Business Rules? And on a large project, how do you to keep track of all the Dynamics 365 Power Automate Flows, Workflows, Business Rules, etc. and get an overview of what they relate to and what they do? This post shows how a Power Automate Cloud Flow can be used to produce documentation from Process Descriptions and link them to Azure DevOps work items.
 
-The files created by the flow are Markdown files, the common format for Wiki pages, including those in Azure DevOps Wikis. 
+The files created by the flow are Markdown files, the common format for Wiki pages, including those in Azure DevOps Wikis.
 
 ---
 
 ## Contents
 
+- [TL;DR](#tldr)
+- [Contents](#contents)
 - [Dataverse Processes](#dataverse-processes)
 - [Process Documentation Cloud Flow](#process-documentation-cloud-flow)
   - [Trigger](#trigger)
@@ -50,13 +52,13 @@ Flows, Workflows and Business Rules are all stored on the Process table in Datav
 
 | Value|	Type|
 |--|--|
-|0	|Workflow|	
+|0|Workflow|
 |1|	Dialog	|
-|2|	Business Rule	|
-|3|	Action	|
-|4|	Business Process Flow	|
-|5|	Modern Flow	|
-|6|	Desktop Flow	|
+|2|Business Rule|
+|3|Action|
+|4|Business Process Flow|
+|5|Modern Flow|
+|6|Desktop Flow|
 
 The other key column on the Process table is the Description column and can be seen in Power Automate Cloud Flows:
 
