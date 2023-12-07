@@ -135,7 +135,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Douglas Romão](https://twitter.com/douglasromao) (Fellowmind Denmark) | @douglasromao
 * [Eickhel Mendoza](https://twitter.com/Eickhel) (Intelequia) | @Eickhel
 * Eilaf Barmare | EilafBarmare
-* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_
+* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_
 * Elaiza Benitez
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Eric Overfield](https://twitter.com/EricOverfield) (PixelMill) | @EricOverfield

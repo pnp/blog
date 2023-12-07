@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -33,7 +33,6 @@ Demos this time
 * [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev - What's New in Microsoft Teams Toolkit?
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Building Microsoft Graph connectors the easy way with Teams Toolkit
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen- Creating SPFx powered Microsoft Teams solutions in minutes with Teams Toolkit
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -79,7 +78,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * [Build a message extension from an API in minutes with Teams Toolkit!](https://www.youtube.com/watch?v=jSYNHz6hz4Y) by 
-
 
 ---
 
