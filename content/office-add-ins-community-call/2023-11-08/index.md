@@ -87,7 +87,7 @@ If you haven't already, please open a [GitHub issue](https://github.com/OfficeDe
 
 We have no plans to deprecate COM add-ins in the near future. However, we encourage developers to invest in JavaScript-based Office web add-ins to take advantage of cross-platform support, centralized deployment and distribution, and other advanced features.
 
-## Resources related to to this blog's content
+## Resources related to this blog's content
 
 * Survey: [Teams apps for Word, Excel, and PowerPoint survey](https://forms.office.com/r/JVeLPSPgtW)
 * Documentation: [Limitations of calling Excel JavaScript APIs through a custom function](https://learn.microsoft.com/office/dev/add-ins/excel/call-excel-apis-from-custom-function#limitations-of-calling-excel-javascript-apis-through-a-custom-function)
