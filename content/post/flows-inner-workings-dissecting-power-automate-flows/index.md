@@ -18,7 +18,7 @@ type: "regular"
 
 Would it be helpful to have a list of all the flows in your environment and some basic details? Do you want to know which flow sends an email with a specific title?
 
-This two-part blog series will guide you through using low-code Power Automate cloud flows to analyse the flows in your environment and answer these questions. In the first part, we’ll explore the characteristics of flows, such as triggers and connectors. In the second part, we’ll identify all flows that result in emails being sent and list the email titles.
+This two-part blog series will guide you through using low-code Power Automate cloud flows to analyse the flows in your environment and answer these questions. In the first part, we’ll explore the characteristics of flows, such as triggers and connectors, going beyond what's available from the Power Automate Management connector. In the second part, we’ll identify all flows that result in emails being sent and list the email titles.
 
 ---
 
