@@ -51,7 +51,7 @@ The schema for processes, concentrating on the columns relevant to flows that ar
 |Name|The name of the process.|
 |Scope|The scope of the process: User, Business Unit, Parent: Child Business Units, or Organization.|
 |Status Reason|The status of the process: Draft, Activated, or Suspended.|
-|WordflowId|The unique identifier of the process, which is consistent across environments when deployed.|
+|WorkflowId|The unique identifier of the process, which is consistent across environments when deployed.|
 |WorkflowIdUnique|The unique identifier of the process in the current environment, which can be used in a URL to open the flow in the editor.|
 
 Flow steps are stored in the Client Data column as 'stringified' JSON. This string contains the JSON without any new lines and with ‘\’ characters around any invalid characters. Here are the first few characters of the Client Data for a flow:
@@ -62,7 +62,7 @@ Flow steps are stored in the Client Data column as 'stringified' JSON. This stri
 
 ## Flow Schema
 
-To enable the flow to work with the contents of the Client Data, its natural to parse the text and convert it into a JSON object.
+To enable the flow to work with the contents of the Client Data, it's natural to parse the text and convert it into a JSON object.
 
 Microsoft's schema for flows is https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#. However, this schema defines the patterns that flows must conform to and includes the flexibility for connectors to add their own triggers and actions.  The JSON schema used for flow `parse JSON` steps, on the other hand, needs to have a fixed format.
 
