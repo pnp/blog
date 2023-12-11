@@ -8,7 +8,7 @@ images:
     - images/become-a-presenter.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 Welcome to the Microsoft 365 & Power Platform Community (PnP), a vibrant hub for everyone who is passionate about extending Microsoft 365, offering a wealth of guidance, tools, samples, and resources. Whether you're a developer, a consultant, or an IT professional, this community is the go-to place for collaboration and innovation in the Microsoft 365 ecosystem.
