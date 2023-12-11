@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 11th of December 2023 week
-date: 2023-12-07T09:44:40.416Z
+date: 2023-12-08T02:44:40.416Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -33,7 +33,6 @@ Demos this time
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - What's new in Microsoft Graph Toolkit v4
 * Shawn Henry (Microsoft) - Introduction to WhatsApp support in Azure Communication Services
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev - Introduction to bot framework powered Viva Connections ACEs
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -62,6 +61,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Managing SharePoint Webhook subscriptions using SPFx web part](https://www.youtube.com/watch?v=NoSeMoZ9WtU) by [Nishkalank Bezawada](https://twitter.com/im_nishkalank) (Bravero) | @im_nishkalank
 * [Close OKRs with Microsoft Viva Goals](https://www.youtube.com/watch?v=B-u1yYBZxHo)
 * [How to Securely Consume Azure Resources from SharePoint Framework with Azure API Management](https://www.youtube.com/watch?v=ewIyvfSb2lA) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_
 * [Use the OneDrive mobile app](https://www.youtube.com/watch?v=qqLjsAz-39A)
@@ -111,6 +111,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development community call - 7th of December, 2023](https://www.youtube.com/watch?v=tYBYgpfcVG0)
 * [Microsoft 365 & Power Platform weekly call – 5th of December, 2023](https://www.youtube.com/watch?v=mXg82s0wFrE)
 
 ---
