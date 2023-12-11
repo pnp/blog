@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide for First-Time Presenters at Microsoft 365 & Power Platform Community Calls"
-date: 2023-12-07T11:47:58.822Z
+date: 2023-12-11T02:47:58.822Z
 author: Luise Freese
 githubname: LuiseFreese
 categories: []
