@@ -87,7 +87,7 @@ Thank you everybody for joining. Really, really cool to have you in the call.  I
 
 * **Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution**
     * Sample - [Using Kiota to generate a client to your AzureAd API and use it from a SPFx webpart](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-kiota-custom-api-client)
-    * Documentation - [Welcome to Kiota](https://microsoft.github.io/kiota/)
+    * Documentation - [Welcome to Kiota](https://learn.microsoft.com/openapi/kiota/)
     * Repo - [Project Kiota](https://github.com/microsoft/kiota)
     * Library – [Project Kiota TypeScript](https://github.com/microsoft/kiota-typescript)
     * Article – [Using Microsoft Kiota tool to generate Atlas API SDKs](https://www.clearpeople.com/blog/microsoft-kiota-tool-to-generate-atlas-api-sdks)

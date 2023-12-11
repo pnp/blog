@@ -279,7 +279,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 </div>
  
 

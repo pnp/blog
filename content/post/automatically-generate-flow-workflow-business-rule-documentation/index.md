@@ -20,7 +20,8 @@ type: "regular"
 ## TL;DR
 How often do you find yourself writing documentation for Dynamics 365 Power Automate Flows and Business Rules? And on a large project, how do you to keep track of all the Dynamics 365 Power Automate Flows, Workflows, Business Rules, etc. and get an overview of what they relate to and what they do? This post shows how a Power Automate Cloud Flow can be used to produce documentation from Process Descriptions and link them to Azure DevOps work items.
 
-The files created by the flow are Markdown files, the common format for Wiki pages, including those in Azure DevOps Wikis.
+
+The files created by the flow are Markdown files, the common format for Wiki pages, including those in Azure DevOps Wikis. 
 
 ---
 
