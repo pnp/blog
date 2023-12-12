@@ -551,7 +551,7 @@ Here’s the list of active contributors (in alphabetical order) since last rele
 *   [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0
 *   [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @@martinlingstuy
 *   [Matt Beard](https://twitter.com/mattybeard) (Data8) | @mattybeard
-*   [Matt Collins-Jones](https://www.twitter.com/D365Geek) | @D365Geek
+*   c
 *   [Michael Blumenthal](https://www.twitter.com/MichaelBL) (M365chicago.com) | @MichaelBL
 *   [Michael Roth](https://twitter.com/michaelroth42) ( ITP) | @MichaelRoth42
 *   [Michal Guzowski](https://twitter.com/abcguzowksi) (Developico) | @abcguzowski

@@ -18,7 +18,7 @@ tags:
   - Power Platform
   - Power Apps
   - Power Automate
-type: epic
+type: regular
 draft: false
 ---
 
@@ -98,7 +98,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 * [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-* [alex MacLachlan](https://github/com/alex-mcla) | alex-mcla
+* [alex MacLachlan](https://github.com/alex-mcla) | alex-mcla
 * [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage
 * [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Andrew Koltyakov](https://twitter.com/andrewkoltyakov) (ARVO Systems) | @Andrewkoltyakov
