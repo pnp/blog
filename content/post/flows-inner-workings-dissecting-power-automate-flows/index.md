@@ -9,7 +9,7 @@ categories: ["Community post"]
 images:
 - images/thumbnail.png
 # don't change
-tags: []
+tags: ["Power Automate"]
 # don't change
 type: "regular"
 ---
