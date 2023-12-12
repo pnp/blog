@@ -21,7 +21,7 @@ draft: false
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
 * **Marketplace leads for Office plugins are now becoming available in the Referrals Workspace.** [Sudha Padmanabhan](https://www.linkedin.com/in/sudha-padmanabhan-29832a70/), Senior Product Manager, Microsoft.
-* **Add-in Auto Open for Word and Excel.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. 
+* **Add-in Auto Open for Word and Excel.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
 * **Top 5 AppSource Validation Errors hit by Office Add-ins' submissions.** [ELizabeth Samuel](https://github.com/elizabethsamuel-msft), Senior Technical Writer, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
@@ -36,24 +36,24 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Marketplace leads for Office plugins are now becoming available in the Referrals Workspace.** In June 2022, Microsoft started delivering office plugin (Add-in) leads into Partner center – your one stop shop for leads! Information and filtering include:  Company name, customer name, title, address, validated e-mail and phone. In January 2023, the group is rolling out Lead enrichment – lead rating (probability), # interactions with Microsoft, events attended and product usage metrics. You are invited to consent to get access to these leads.        
-* **Add-in Auto Open for Word and Excel.** Recap existing behavior for auto open – capabilities, limitations, user or administrator control, then evaluate partner suggested auto open user requirements. Level set on definition for auto launch/auto open vs auto install with auto open capabilities. Please complete the survey to confirm requirements, modify or add new requirements that would address your auto open and auto install needs.   
+* **Marketplace leads for Office plugins are now becoming available in the Referrals Workspace.** In June 2022, Microsoft started delivering office plugin (Add-in) leads into Partner center – your one stop shop for leads! Information and filtering include:  Company name, customer name, title, address, validated e-mail and phone. In January 2023, the group is rolling out Lead enrichment – lead rating (probability), # interactions with Microsoft, events attended and product usage metrics. You are invited to consent to get access to these leads.
+* **Add-in Auto Open for Word and Excel.** Recap existing behavior for auto open – capabilities, limitations, user or administrator control, then evaluate partner suggested auto open user requirements. Level set on definition for auto launch/auto open vs auto install with auto open capabilities. Please complete the survey to confirm requirements, modify or add new requirements that would address your auto open and auto install needs.
 * **Top 5 AppSource Validation Errors hit by Office Add-ins' submissions.** Wouldn’t it be nice if your add-in sailed right through the Microsoft AppSource certification process? Learn about the top 5 certification show-stoppers - undisclosed charges, unclear first run experience, missing links for sign in/sign out/sign up, mismatch between provider and publisher name, inadequate testing instructions.  See the key marketplace certification policies related to Office Add-ins validations in this session.
 
 ## Call to action
 
-* Please evaluate the review the Excel Add-in Auto install launch function and [provide feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxFri8-).  
+* Please evaluate the review the Excel Add-in Auto install launch function and [provide feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxFri8-).
 * Please provide feedback in this survey  [Consent - Office add-in Leads](https://aka.ms/OfficeLeadsConsent)
 * If you have any suggestions that you submitted to the current forum on Tech Communities, please @lindalu-msft in the comments so I can prioritize triaging your submission!
 * If you are interested in participating in a future User Research session about customer support channels, please let me know. Email me lindalu@microsoft with "Office Add-ins Developer User Research" as email subject.
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -69,7 +69,7 @@ We recommend you use something like Azure Key Vault for securely storing and acc
 
 **We are Scribe an email signature management software. We developed an Outlook Addin with an event base integration to insert the signature on the "OnNewMessageCompose" event. But, we have users that have aliases and when they change the "From" address we would like to be able to re-trigger the Addin script to insert the alias signature. Is there a way to do that? If not, is there a possibility to implement a new event for that in the future?**
 
-This feature is actually going to be delivered in the near future, stay tuned for an update on the release date. 
+This feature is actually going to be delivered in the near future, stay tuned for an update on the release date.
 
 **Can we add custom tab in outlook 365 web app and can it be viewable in Notes section?**
 
@@ -86,13 +86,13 @@ In Outlook we do not currently support automatically opening a task pane. It's a
 I don't think office for IPAD is supported for the current autoopen feature. Office for web does support this. Please go to this link for further information.  [Automatically open a task pane with a document - Office Add-ins | Microsoft Learn](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 
 
-**I can see that the Graph API is available https://graph.microsoft.com/v1.0/me/MailFolders/notes/messages, how can we add our add-in or any other UI so that the Notes can be accessed? Can we pin the task pane and see it in the Notes section?** 
+**I can see that the Graph API is available https://graph.microsoft.com/v1.0/me/MailFolders/notes/messages, how can we add our add-in or any other UI so that the Notes can be accessed? Can we pin the task pane and see it in the Notes section?**
 
 Unfortunately, again, add-ins are not supported in Notes. Please add a new feature request to our team so we can consider supporting it in the future. [Microsoft 365 Developer Platform - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 
 **How would trust be configured, i.e. to prohibit auto-loading arbitrary or malicious add-ins? Or will this work only for add-ins already installed?**
 
-Great question. It depends on the different use cases. In many cases, we still need to have the user's consent to, eg. share a file to others. However, there could be other cases that consent 'might' be skipped. E.g. A user tries to install a trusted application bundled with add-in. 
+Great question. It depends on the different use cases. In many cases, we still need to have the user's consent to, eg. share a file to others. However, there could be other cases that consent 'might' be skipped. E.g. A user tries to install a trusted application bundled with add-in.
 
 **For Js add-ins, we are facing problems with the cache. When new manifests are pushed it is not refreshing well on all machines. Is there a way to do that in code or the settings? Due to this it breaks and throws errors.**
 
@@ -100,11 +100,11 @@ Theoretically, any update made to the add-in's manifest should be updated to all
 
 **How do we test SSO from the Office UI?**
 
-Typically you just sign in to Office, then when your add-in calls getAccessToken() it should get the token from Office. Is there something specific you are trying to test in your scenario? Although note it can get more complicated, for example if you are testing fallback, then you need to modify your code to not call getAccessToken and instead call your MSAL backup auth code. If you are calling Graph APIs, you'll need to use the UI in your add-in that calls Graph. 
+Typically you just sign in to Office, then when your add-in calls getAccessToken() it should get the token from Office. Is there something specific you are trying to test in your scenario? Although note it can get more complicated, for example if you are testing fallback, then you need to modify your code to not call getAccessToken and instead call your MSAL backup auth code. If you are calling Graph APIs, you'll need to use the UI in your add-in that calls Graph.
 
 **We use SSO, but our clients provide their own IDP URL.  Is there a way to allow SSO without putting all of the IDP urls in the manifest AppDomain sections?**
 
-Unfortunately there is not. They need to get into the appDomains. 
+Unfortunately there is not. They need to get into the appDomains.
 
 
 
@@ -120,7 +120,7 @@ Unfortunately there is not. They need to get into the appDomains.
     * [Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and Docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
-    
+
 ## General Resources
 
 * [Documentation](https://aka.ms/office-add-ins-docs)
@@ -144,4 +144,4 @@ Unfortunately there is not. They need to get into the appDomains.
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on January 11th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

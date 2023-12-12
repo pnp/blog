@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 21st of March, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 21st of March, 2023"
 summary: "Demos: Introduction to the Copilot in Power Virtual Agents, Azure Communication Services extensibility with APIs and with Power Platform connectors, and Add chat capability to Microsoft Teams app using Teams JavaScript client library, plus 11 docs, 2 conversations."
 date: 2023-03-21T03:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -172,4 +172,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 21st of March 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

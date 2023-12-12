@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 20th of December, 2022"  
+title: "Microsoft 365 Platform Community Call - 20th of December, 2022"
 summary: "Holiday season coffee and chat call #1.  No formal demos planned, yet this was a full 60-minute call with informative ad hoc demos, employee reflections, Q&A and engaging discussions!  6 articles delivered from Microsoft in past week."
 date: 2022-12-21 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -45,7 +45,7 @@ Welcome to our first of three Microsoft 365 Platform - Holiday season coffee and
     * Article – [Microsoft Teams Premium preview now available](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-premium-preview-now-available/ba-p/3699262) - Margi Desai (Microsoft)
     * Article – [Feature Focus with Microsoft MVPs: S6-E5 \| Microsoft Teams for EDU & Approvals in Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/feature-focus-with-microsoft-mvps-s6-e5-microsoft-teams-for-edu/ba-p/3697476) – Stephen Rose (Microsoft)
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. 
+The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
 
 {{< youtube hsoV_ALT0Y0 >}}
 
@@ -108,4 +108,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 20th of December 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

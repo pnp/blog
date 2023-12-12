@@ -28,9 +28,9 @@ In this month’s community call, get an overview of the React Native Adaptive C
 
 ## Topic summary
 
-* **React Native Adaptive Cards Renderer** - Adaptive Cards overview, React Native (RN) Adaptive Cards deep dive with implementation details.  How to integrate RN adaptive card with your app?  How can you extend RN adaptive card component in RN way?  Development roadmap, contributing to RN Adaptive Cards open-source software OSS, Q&A.  
+* **React Native Adaptive Cards Renderer** - Adaptive Cards overview, React Native (RN) Adaptive Cards deep dive with implementation details.  How to integrate RN adaptive card with your app?  How can you extend RN adaptive card component in RN way?  Development roadmap, contributing to RN Adaptive Cards open-source software OSS, Q&A.
 * **Using the React Native Adaptive Cards Renderer in a Microsoft Viva Connections Mobile App** -
-Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Connections app and an E-commerce Microsoft LUIS based chatbot for purposes of reducing customer care queries and chat-based shopping experience.  
+Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Connections app and an E-commerce Microsoft LUIS based chatbot for purposes of reducing customer care queries and chat-based shopping experience.
 
 ## BigThinkCode presenters
 
@@ -95,5 +95,3 @@ Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Co
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/m365pnp/community>
-
-{{< attachments >}}

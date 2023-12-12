@@ -334,7 +334,7 @@ So, to tell React that I only want it to run when the component is mounted & unm
 
 ## Get the code
 
-Pretty easy right? It’s a simple project, but if you want a copy of the code, head over to my site to request a copy: **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects)**
+Pretty easy right? It’s a simple project, but if you want a copy of the code, head over to my site to request a copy: **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects?dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How+to+use+React+hooks+with+the+SharePoint+Framework+(SPFx))**
 
 ## What do you think about React hooks?
 

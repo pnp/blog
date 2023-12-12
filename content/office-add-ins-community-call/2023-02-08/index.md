@@ -20,9 +20,9 @@ draft: false
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
-* **Demo: How to create a spreadsheet from your website .** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft. 
-* **Update on upcoming Preview Word APIs.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. 
-* **Add-in Support for new Outlook** Nikita Mittal, Senior Product Manager, Microsoft and [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft. 
+* **Demo: How to create a spreadsheet from your website .** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft.
+* **Update on upcoming Preview Word APIs.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
+* **Add-in Support for new Outlook** Nikita Mittal, Senior Product Manager, Microsoft and [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
 {{< youtube bUcpzn28VKs >}}
@@ -46,14 +46,14 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## Call to action
 
 * Call to Action for Outlook Add-in Mobile Developers – provide feedback on Outlook add-in scenarios you are trying to support [Outlook Mobile Add-in Developer Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw5b9d2wAdRLj9NKAu1xfddUM1pW).
-* Share your feedback on how we can provide a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -81,7 +81,7 @@ Yes, the uploadFile function in authPopup.js takes a name parameter. You can use
 
 **I am trying to work with shapes on an PowerPoint Web Add-in, on Visual Studio, using the PowerPoint JavaScript API, but I am not able to use the features shown on the Office Add-ins community call from August 2021. I get it to work on Script Lab, but not on Visual Studio (e.g. shape.textFrame.textRange.font.color = "purple";). How can I get help?**
 
-Make sure that the template is referencing the CDN for Office.js. If you need further guidance, [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new/choose). 
+Make sure that the template is referencing the CDN for Office.js. If you need further guidance, [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new/choose).
 
 **Where can I get help/support to work out the Graph authentication for add-ins? I have not had any success to make the add-in and Graph authentication setup.**
 
@@ -162,4 +162,4 @@ We're sorry to hear you're running into errors. Please [open an issue on GitHub]
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on March 8th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 24th of May, 2022"  
+title: "Microsoft 365 Platform Community Call - 24th of May, 2022"
 summary: "The format and recording for today’s call was altered due to Microsoft Build 2022. In the recorded 15 minutes, Microsoft’s Viva Connections ISV benefits program was outlined after which the community separately viewed Satya Nadella’s Build keynote and shared thoughts in chat."
 date: 2022-05-24 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -97,5 +97,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 24th of May 2022_
 
-{{< attachments >}}
-
+{{< attachments >}}{{< /attachments >}}
