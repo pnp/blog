@@ -144,7 +144,7 @@ We would also love to see you in the [Microsoft 365 Conference](https://m365conf
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
-* [Microsoft 365 Conference](https://m365conf.com/#!/) - April 30, May 1, May 2, 2023 - Orlando, Florida, USA
+* [Microsoft 365 Conference](https://m365conf.com/#!/) - April 30, May 1, May 2, 2024 - Orlando, Florida, USA
 * [European Collaboration Summit](https://www.cloudsummit.eu/) - May 14-16, 2024 - Wiesbaden, Germany
 * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference/) - June 11-13, 2024 - Brussels, Belgium
 * [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) - September 18-20 - Las Vegas, NV, USA
