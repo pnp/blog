@@ -49,7 +49,10 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos: 
 
-* to be updated asap
+* Patch Multiple Rows In Power Apps Like A Jedi! by [Craig White](https://twitter.com/platformspower) | @platformspower- 
+* Using Power Apps, ChatGPT & JSON to generate BedtAIme stories & More!!! by [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
+* Building Live with Co-Pilot at Ludicrous Speed! by [Chris Huntingford](https://twitter.com/ThatPlatformGuy) (ANS Group) | @ ThatPlatformGuy
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
