@@ -1,5 +1,5 @@
 ---
-title: Weekly Agenda - 18th of December 2023 week
+title: Weekly Agenda - 18th of December 2023 week - Holiday season
 date: 2023-12-15T02:44:40.416Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
