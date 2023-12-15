@@ -1,6 +1,6 @@
 ---
 title: "Flows - The Inner Workings: Dissecting Power Automate Flows"
-date: 2023-11-10T08:40:00-04:00
+date: 2023-12-15T08:00:00-04:00
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
@@ -39,7 +39,7 @@ This two-part blog series will guide you through using low-code Power Automate c
 
 ## Flows as Dataverse Processes
 
-Flows are stored in Dataverse in the **process (workflow) table**, just like business rules and business process flows. Whilst some information on flows are available using Power Automate Management connector, it is relatively limited and details such as the triggers aren't available.
+Flows are stored in Dataverse in the **process (workflow) table**, just like business rules and business process flows. Whilst some information on flows are available using the Power Automate Management connector, it is relatively limited and details such as the triggers aren't available.
 
 The schema for processes, concentrating on the columns relevant to flows that are available via FetchXML in a flow, is:
 
@@ -60,11 +60,15 @@ Flow steps are stored in the Client Data column as 'stringified' JSON. This stri
 "{\"properties\":{\"connectionReferences\":{\"shared_sharepointonline\":{\"runtimeSource\":\"embedded\",...
 ```
 
+---
+
 ## Flow Schema
 
 To enable the flow to work with the contents of the Client Data, it's natural to parse the text and convert it into a JSON object.
 
 Microsoft's schema for flows is https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#. However, this schema defines the patterns that flows must conform to and includes the flexibility for connectors to add their own triggers and actions.  The JSON schema used for flow `parse JSON` steps, on the other hand, needs to have a fixed format.
+
+---
 
 ### Top-level Schema
 
@@ -149,6 +153,8 @@ items('Apply_to_each_Flow')?['clientdata']
 
 This flow step converts the top level of the flow Client Data to a JSON object that can be used to extract the details we want to include in the summary.
 
+---
+
 ### Connection References
 
 The first area we'll look at are the Connection References. These can be extracted from the parsed Client Data using the following flow steps:
@@ -229,15 +235,15 @@ To extract all the connection references, we need a Do Until loop:
 
 - **If Connection not already in list**: this condition checks whether the connection reference is already in the list found so far. The substring expression is the one above.
 
-  - **Append New Connection to List**: this add the Connection to an array variable.
+  - **Append New Connection to List**: this adds the Connection to an array variable.
 
-- **Compose Rest of Content** and **Set variable to rest of connection string**: updates `varConnectionStr` to the text after the latest Connection Reference
+- **Compose Rest of Content** and **Set variable to rest of connection string**: updates `varConnectionStr` to the text after the latest Connection Reference.
 
-**Until**: there are no Connection References in the remaining string
+**Until**: there are no Connection References in the remaining string.
 
 The Do Until loop extracts all the connection references in the JSON into an array variable.
 
-********
+---
 
 ### Triggers
 
@@ -343,6 +349,8 @@ Which gives a level 2 heading with the name of the flow and a table with the det
 
 The connections for the current flow are then added to the array of connections in the **If Connection** steps.
 
+---
+
 ### Further Trigger Details
 
 Further information can be extracted from the trigger, but varies with the different `type` of the flow - instant, scheduled, and automated - and the `kind`, such as `button` and `http`.
@@ -353,7 +361,7 @@ Further information can be extracted from the trigger, but varies with the diffe
 
 ![KindSwitch](images/KindSwitch.png)
 
-The different types have different schema structures. For example, the scheduled (recurrence) flow has schema which includes `frequency`, `interval` and `startTime`:
+The different trigger `type`s have different schema structures. For example, the scheduled (recurrence) flow has schema which includes `frequency`, `interval` and `startTime`:
 
 ```JSON
 {
