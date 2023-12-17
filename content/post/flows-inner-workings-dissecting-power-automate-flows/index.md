@@ -46,6 +46,8 @@ The extracted details are available as Markdown or HTML contents.
 
 The best way to follow this blog post through is to [download the solution](#download-the-flow-solution) and follow the post through inside the 'Apply to each Flow' loop.
 
+---
+
 ## Flows as Dataverse Processes
 
 Flows are stored in Dataverse in the **process (workflow) table**, just like business rules and business process flows. Whilst some information on flows are available using the Power Automate Management connector, it is relatively limited and details such as the triggers aren't available.
