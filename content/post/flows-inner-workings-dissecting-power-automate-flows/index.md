@@ -26,6 +26,7 @@ This two-part blog series will guide you through using low-code Power Automate c
 
 - [TL;DR](#tldr)
 - [Contents](#contents)
+- [Introduction](#introduction)
 - [Flows as Dataverse Processes](#flows-as-dataverse-processes)
 - [Flow Schema](#flow-schema)
   - [Top-level Schema](#top-level-schema)
@@ -36,6 +37,14 @@ This two-part blog series will guide you through using low-code Power Automate c
 - [Download the Flow Solution](#download-the-flow-solution)
 
 ---
+
+## Introduction
+
+This blog post takes you through the structure of flows and the elements of a flow that uses that structure to extract details of flows.
+
+The extracted details are available as Markdown or HTML contents.
+
+The best way to follow this blog post through is to [download the solution](#download-the-flow-solution) and follow the post through inside the 'Apply to each Flow' loop.
 
 ## Flows as Dataverse Processes
 
@@ -435,6 +444,9 @@ In addition to listing information about the flows, the following types of advic
 
 ## Download the Flow Solution
 
-You can find the solution with the flow on GitHub at https://github.com/alex-mcla/ProcessDocumentationFlow. The final step in the flow is a Compose step that retrieves the Markdown contents, which can be pasted into a Markdown file, such as an Azure Wiki page.
+You can find two solutions with the flow on GitHub at https://github.com/alex-mcla/ProcessDocumentationFlow:
 
-The solution is unmanaged, allowing you to customise it to your needs, especially if you want to extract additional information or cover additional trigger types. If you encounter any issues, have comments, or suggestions for improvement, please raise an issue on GitHub."
+- With the Markdown as the final Compose step in the flow, which can be pasted into a Markdown file, such as an Azure Wiki page.
+- A version with both Markdown and HTML; the HTML step uses the 'Render a Markdown document' action from the **GitHub Utils** connector by [Daniel Laskewitz](https://youtube.com/daniellaskewitz) to convert to HTML. This is a separate solution as data loss prevention policies may block the use of the GitHub Utils connector.
+
+The solutions are unmanaged, allowing you to customise it to your needs, especially if you want to extract additional information or cover additional trigger types. If you encounter any issues, have comments, or suggestions for improvement, please raise an issue on GitHub."
