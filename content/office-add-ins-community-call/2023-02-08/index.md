@@ -4,7 +4,7 @@ summary: "Topics include: Create a spreadsheet from your website by David Chesnu
 date: 2023-02-08T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
-categories: ["Office Add-ins community call"]
+categories: ["Office add in developer community call"]
 images:
 - images/Session-Promo-Feb-2023.jpg
 tags: ["Office Add-ins","Microsoft 365"]
