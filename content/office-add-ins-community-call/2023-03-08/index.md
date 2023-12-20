@@ -4,7 +4,7 @@ summary: "Topic: March 2023 Word Extensibility APIs (preview) presented by Yun W
 date: 2023-03-08T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
-categories: ["Office Add-ins community call"]
+categories: ["Office add in developer community call"]
 images:
 - images/Session-Promo-Mar-2023.jpg
 tags: ["Office Add-ins","Microsoft 365"]
