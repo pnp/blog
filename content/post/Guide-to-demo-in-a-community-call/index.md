@@ -7,7 +7,7 @@ categories: []
 images:
     - images/become-a-presenter.png
 tags: []
-type: trending
+type: epic
 draft: false
 ---
 
