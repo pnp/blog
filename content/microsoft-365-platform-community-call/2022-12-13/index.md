@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 13th of December, 2022"  
+title: "Microsoft 365 Platform Community Call - 13th of December, 2022"
 summary: "Demos - Using dynamic SVG images with Viva ACEs for business charts, Introduction to Microsoft Graph Developer Proxy, and Introduction to Microsoft 365 App Compliance Automation tool. Delivered 2 articles, 1 document and PnP Weekly - Episode 191."
 date: 2022-12-13 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -124,4 +124,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 13th of December 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

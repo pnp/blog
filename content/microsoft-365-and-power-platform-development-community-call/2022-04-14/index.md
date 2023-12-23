@@ -25,7 +25,7 @@ Yes, in one location you will find Microsoft 365 tenant – [script samples gall
 * 1 Teams sample
 * 1 Power Platform sample
 
-To see current releases and latest updates/nightly builds, access the Repos via the links in table below.   While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.  
+To see current releases and latest updates/nightly builds, access the Repos via the links in table below.   While version releases are periodic, nightly releases are nightly!  Subscribe to nightly releases for the latest capabilities.
 
 ## Open-source project status
 
@@ -92,7 +92,7 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 
 Article: [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
 
-– Many thanks!    
+– Many thanks!
 
 ## Demos delivered in this session
 
@@ -146,10 +146,10 @@ Additional resources around the covered topics and links from the slides.
 *   Microsoft 365 tenant – [Script Samples Gallery](https://aka.ms/script-samples) | aka.ms/script-samples
 *   [Microsoft Teams Samples Gallery](https://pnp.github.io/teams-dev-samples/) | aka.ms/teams-samples
 *   [Microsoft 365 Extensibility look book gallery](https://adoption.microsoft.com/extensibility-look-book?WT.mc_id=m365-24198-cxa) | aka.ms/m365/extensibility
-*   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
+*   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)
 *   PnP Teams Quickstart | [aka.ms/pnp-teams-quickstart](https://aka.ms/pnp-teams-quickstart)
 *   Microsoft Teams Toolkit v3.x | [https://aka.ms/teams-toolkit](https://aka.ms/teams-toolkit)
-*   [Microsoft 365 PnP Community hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) | aka.ms/m365pnp/community 
+*   [Microsoft 365 PnP Community hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) | aka.ms/m365pnp/community
 *   Microsoft Graph Toolkit in Microsoft Learn | [https://aka.ms/learn-mgt](https://aka.ms/learn-mgt)
 *   Viva Connections [https://aka.ms/VivaConnections](https://aka.ms/VivaConnections)
 *   [SharePoint look book](https://lookbook.microsoft.com/?WT.mc_id=m365-24198-cxa)
@@ -186,11 +186,10 @@ General Microsoft 365 Dev Special Interest Group bi-weekly calls are targeted at
 
 You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
 
 * * *
 
 _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - 15th of April 2022_
-

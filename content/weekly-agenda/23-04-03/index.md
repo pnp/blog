@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda14.png
 tags: []
-type: trending
+type: regular
 videos:
 - https://www.youtube.com/watch?v=WEOeKXcCZvY
 draft: false
@@ -33,18 +33,23 @@ Demos this time
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Microsoft Graph Hackathon - Winner demo #1
 
 
-### Viva Connections & SharePoint Framework Community Call - 6th of April
+### Microsoft 365 & Power Platform Community Call - 30th of March
 
-* Thursday, 6th of April, 8:00 AM PT / 3:00 PM GMT
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Thursday, 30th of March, 2023, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
 Demos: 
 
-* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0 – A SharePoint document generator as Microsoft 365 app in Microsoft Teams with SPFx
-* Julio Lopez Hernandez (Avanade) – Productivity Studio: Tooling to streamline development for Microsoft internal projects build with SPFx
+* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford (Symity) - Have fun with DALL-E generated art in your Teams conversations
+* [André Lage](https://twitter.com/aaclage) (Datalynx AG) | @aaclage - List Formatting - Convert data into graphical information
+* [Matt Collins-Jones](https://twitter.com/D365Geek) (Capgemini) | @D365Geek - Companies House Independent Publisher Connector - How API integration adds value
+
 
 Also: 📷 Picture Time with community in Together Mode!
+
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -75,11 +80,11 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 * [Hack Together: Microsoft Graph and .NET winners](https://www.youtube.com/watch?v=kZouZLaJtc0)
 * [Build once, deploy efficiently, connect across Microsoft 365 - Virtual event](https://www.youtube.com/watch?v=asW6bpu0RNs)
-* [Teams Apps can now run in the Micrsoft 365 App](https://www.youtube.com/watch?v=sc3ZohtS5gM) - [Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora  & Pranathi Tupakula (Microsoft)
+* [Teams Apps can now run in the Microsoft 365 App](https://www.youtube.com/watch?v=sc3ZohtS5gM) - [Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora  & Pranathi Tupakula (Microsoft)
 * [Unified Store on Outlook: Discover and acquire add-ins and extended Teams Apps in one-stop shop](https://www.youtube.com/watch?v=tkvy5CjjqYM) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German & Kate Everett (Microsoft)
 * [Bring your Microsoft Teams apps to Microsoft 365 and Outlook mobile apps](https://www.youtube.com/watch?v=Ss3DEDBdmFc) - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Outlook Extensions: Deep dive into unified app manifest (evolution of Teams app manifest)](https://www.youtube.com/watch?v=0iZlWuH0_AA) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
-* [New SDK capabilities](https://www.youtube.com/watch?v=1UJimJmXmvw) - [Kamal Shree]() (Microsoft) | @whatsupcoders & Adam Li (Microsfot)
+* [New SDK capabilities](https://www.youtube.com/watch?v=1UJimJmXmvw) - [Kamal Shree](https://twitter.com/whatsupcoders) (Microsoft) | @whatsupcoders & Adam Li (Microsoft)
 * [Message extensions and link unfurling extended to Outlook](https://www.youtube.com/watch?v=37R4vK9-JjQ) by [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac & Rishabh Agrawal (Microsoft)
 * [MAC for unified app management](https://www.youtube.com/watch?v=OgE72PGq6TM) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German & Snigdha Verma (Microsoft)
 
@@ -172,7 +177,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!

@@ -54,7 +54,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges
-* See call agendas and summaries, and release announcements. Follow us on Twitter – 
+* See call agendas and summaries, and release announcements. Follow us on Twitter –
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -146,4 +146,4 @@ We're sorry to hear you've encountered an issue. Please open a [GitHub issue](ht
 * Submit questions about add-ins development for our next community call – <https://aka.ms/officeaddinsform>
 * Next community call – July 13th at 8:00 AM PT – <https://aka.ms/officeaddinscommunitycall>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

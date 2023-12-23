@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 3rd of January, 2023"  
+title: "Microsoft 365 Platform Community Call - 3rd of January, 2023"
 summary: "Holiday season coffee and chat call #3. No formal demos, yet nothing less than a robust 60-minute call with informative PnP resource site tours, Q&A with code dives and engaging discussions in chat! 3 articles delivered from Microsoft in past week."
 date: 2023-01-03T11:00:00.000Z
 author: "Vesa Juvonen"
@@ -18,7 +18,7 @@ draft: false
 
 Welcome to the third of three Microsoft 365 Platform - Holiday season coffee and chat calls with informal Q&A, feedback, discussions, ad hoc demos and good community cheer!
 
-* Q&A topics 
+* Q&A topics
     * Does Microsoft 365 Dev Program also include an Azure Subscription?
     * Why are Power Pages so expensive?
     * How to reset developer tenant?
@@ -59,7 +59,7 @@ Welcome to the third of three Microsoft 365 Platform - Holiday season coffee and
     * Article – [Feature Focus with Microsoft MVPs: S6-6 - Microsoft 365 Dynamic Groups & Viva Insights](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/feature-focus-with-microsoft-mvps-s6-6-microsoft-365-dynamic/ba-p/3700509) – [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) \| @stephenlrose
     * Article – [SharePoint Roadmap Pitstop: December 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-december-2022/ba-p/3705194) – [Mark Kashman](https://twitter.com/mkashman) (Microsoft) \| @mkashman
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen  
+The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 {{< youtube nz_r-cVN9Gs >}}
 
@@ -120,4 +120,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 3rd of January 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

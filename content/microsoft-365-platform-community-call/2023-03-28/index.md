@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 28th of March, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 28th of March, 2023"
 summary: "Demos: SPFx v1.17 release - what's new and what's there, Kiota SDK generator is now available - What you need to know!, Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code, plus 16 docs, 3 conversations."
 date: 2023-03-29T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -165,4 +165,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 28th of March 2023_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

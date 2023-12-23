@@ -186,7 +186,7 @@ General Microsoft 365 Dev Special Interest Group bi-weekly calls are targeted at
 You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://aka.ms/m365-dev-sig). Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
 
 * * *
 

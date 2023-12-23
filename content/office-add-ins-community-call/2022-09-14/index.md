@@ -18,8 +18,8 @@ draft: false
 
 ## This month's agenda and presenters
 
-The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft  
-* **Microsoft Word Extensibility Update.** Four topics covered:  Embed an add-in into a Word document, shared runtime support, structured document survey result, and Word panel introduction. Yun Wang, Principal Product Manager, Microsoft. 
+The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft
+* **Microsoft Word Extensibility Update.** Four topics covered:  Embed an add-in into a Word document, shared runtime support, structured document survey result, and Word panel introduction. Yun Wang, Principal Product Manager, Microsoft.
 * **Microsoft Outlook Add-in Blazer Sample Update.** Step through Blazor environment setup and sample project. [Eric Legault](https://twitter.com/elegault).
 * **Community spotlight.** Recognizing [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
@@ -35,18 +35,18 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Microsoft Word Extensibility Update.** Four topics covered with UI demos and use scenarios for first two topics.  1) Embed an Add-in into a Word document (using Open in Word Pattern), 2) shared runtime support, 3) structured document survey result, and 4) Word panel (user research community focus group) introduction.  
-* **Microsoft Outlook Add-in Blazer Sample Update.** Get started using the Blazor Web framework to build an Office Add-in using C# in addition to .NET and JavaScript.  Practical review of Blazor capabilities and incompatibilities, tips for setting up project environment and Blazor project.  Learn about using the Blazor client template in Visual Studio and the Office Web Add-in template to add the sideloader project.  Walk through sample reference project. 
-  
+* **Microsoft Word Extensibility Update.** Four topics covered with UI demos and use scenarios for first two topics.  1) Embed an Add-in into a Word document (using Open in Word Pattern), 2) shared runtime support, 3) structured document survey result, and 4) Word panel (user research community focus group) introduction.
+* **Microsoft Outlook Add-in Blazer Sample Update.** Get started using the Blazor Web framework to build an Office Add-in using C# in addition to .NET and JavaScript.  Practical review of Blazor capabilities and incompatibilities, tips for setting up project environment and Blazor project.  Learn about using the Blazor client template in Visual Studio and the Office Web Add-in template to add the sideloader project.  Walk through sample reference project.
+
 ## Call to action
-* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel. 
+* Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel.
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
     * [Word add-ins panel](https://ux.microsoft.com/Panel/WordAddinDeveloper)
     * [PowerPoint add-ins panel](https://ux.microsoft.com/Panel/PowerPointAddinDeveloper)
     * [Samples and docs](https://ux.microsoft.com/Panel/OfficeAddinImproveSamplesDocs)
 * [Sign up for the PnP Recognition Program](https://pnp.github.io/recognitionprogram/) and earn contribution badges.
-* Follow us on Twitter to see call agendas, important updates, and release announcements. 
+* Follow us on Twitter to see call agendas, important updates, and release announcements.
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
@@ -55,7 +55,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Q&A (Question & Answers)
 
-**Our add-in needs the MIME representation of an e-mail message, the conversationId and the internetMessageId. Would it be possible to add support for these properties to office.js? Currently we need to use Outlook REST API (or MS-Graph in the future) to get these values** 
+**Our add-in needs the MIME representation of an e-mail message, the conversationId and the internetMessageId. Would it be possible to add support for these properties to office.js? Currently we need to use Outlook REST API (or MS-Graph in the future) to get these values**
 
 We currently support these properties. For guidance with using these properties, see the Office.MessageRead API at https://learn.microsoft.com/en-us/javascript/api/outlook/office.messageread?view=outlook-js-preview.
 
@@ -99,22 +99,22 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
     * Community Panel - [Improve Word add-ins](https://ux.microsoft.com/Panel/WordAddinDeveloper?utm_campaign=community_call&&utm_source=community_call&&utm_medium=qrcode)
 * **Blazer Sample Update**
     * Repo - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
-    * Sample - [Create a Blazor Webassembly Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/outlook-blazor-add-in) 
-    * Developer sandbox - [Join the Microsoft 365 Developer Program today!](https://developer.microsoft.com/microsoft-365/dev-program) 
+    * Sample - [Create a Blazor Webassembly Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/outlook-blazor-add-in)
+    * Developer sandbox - [Join the Microsoft 365 Developer Program today!](https://developer.microsoft.com/microsoft-365/dev-program)
     * Website – [Blazor - Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-    * Documentation - [ASP.NET Core Blazor fundamentals](https://learn.microsoft.com/aspnet/core/blazor/fundamentals) 
+    * Documentation - [ASP.NET Core Blazor fundamentals](https://learn.microsoft.com/aspnet/core/blazor/fundamentals)
     * Documentation - [Tooling for ASP.NET Core Blazor](https://learn.microsoft.com/aspnet/core/blazor/tooling)
-    * Documentation - [ASP.NET Core Blazor project structure](https://learn.microsoft.com/aspnet/core/blazor/project-structure) 
+    * Documentation - [ASP.NET Core Blazor project structure](https://learn.microsoft.com/aspnet/core/blazor/project-structure)
     * Documentation - [ASP.NET Core Blazor hosting models](https://docs.microsoft.com/aspnet/core/blazor/hosting-models)
     * Documentation - [ASP.NET Core Blazor JavaScript interoperability (JS interop)](https://docs.microsoft.com/aspnet/core/blazor/javascript-interoperability)
-    * Documentation - [Host and deploy ASP.NET Core Blazor](https://docs.microsoft.com/aspnet/core/blazor/host-and-deploy) 
+    * Documentation - [Host and deploy ASP.NET Core Blazor](https://docs.microsoft.com/aspnet/core/blazor/host-and-deploy)
     * Documentation - [ASP.NET Core Razor component lifecycle](https://docs.microsoft.com/aspnet/core/blazor/components/lifecycle)
     * Documentation - [Debug ASP.NET Core Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/debug)
     * Documentation - [ASP.NET Core Blazor dependency injection](https://docs.microsoft.com/aspnet/core/blazor/fundamentals/dependency-injection)
   **Q&A**
     * Documentation - [Office.MessageRead interface](https://learn.microsoft.com/javascript/api/outlook/office.messageread?view=outlook-js-preview)
     * Documentation - [Use the Outlook REST APIs from an Outlook add-in ](https://learn.microsoft.com/office/dev/add-ins/outlook/use-rest-api)
-    
+
 
 ## Stay connected
 
@@ -125,4 +125,4 @@ We're sorry to hear you're experiencing issues in Outlook on Mac. If you haven't
 * [Submit questions about Office Add-ins development](https://aka.ms/officeaddinsform) for our next community call
 * [Join us for our next community call](https://aka.ms/officeaddinscommunitycall) on October 12th at 8:00 AM PT
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

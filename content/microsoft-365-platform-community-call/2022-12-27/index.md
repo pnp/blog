@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Platform Community Call - 27th of December, 2022"  
+title: "Microsoft 365 Platform Community Call - 27th of December, 2022"
 summary: "Holiday season coffee and chat call #2. No formal demos, yet nothing less than a robust 60-minute call with informative PnP resource site tours, Q&A with code dives and engaging discussions in chat! 2 articles delivered from Microsoft in past week."
 date: 2022-12-27 02:00:00 +0000
 author: "Vesa Juvonen"
@@ -44,7 +44,7 @@ Welcome to the second of three Microsoft 365 Platform - Holiday season coffee an
     * Article – [Microsoft Graph PowerShell v2 is now in public preview, half the size, and will speed up your automations](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/) – Microsoft Graph team
     * Article – “Notes from the ESPC22 keynotes” 🎙 – The Intrazone podcast - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) \| @mkashman
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call. 
+The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube pJbEAaLQk5g >}}
 
@@ -106,4 +106,4 @@ You can download recurrent invite for this call from [https://aka.ms/m365-dev-ca
 
 _Microsoft 365 Platform Community team, Microsoft - 27th of December 2022_
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

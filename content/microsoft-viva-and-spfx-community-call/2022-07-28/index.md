@@ -225,4 +225,4 @@ Viva Connections & SharePoint Framework bi-weekly calls are targeted at anyone w
 
 *Microsoft 365 PnP team, Microsoft - 28th of July 2022*
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}

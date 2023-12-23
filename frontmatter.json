@@ -18,11 +18,6 @@
       "excludeSubdir": true
     },
     {
-      "title": "Microsoft 365 Developer Community Call Recording",
-      "path": "[[workspace]]/content/microsoft-365-developer-community-call",
-      "excludeSubdir": true
-    },
-    {
       "title": "Microsoft 365 Platform Community Update",
       "path": "[[workspace]]/content/microsoft-365-platform-community-update",
       "excludeSubdir": true
