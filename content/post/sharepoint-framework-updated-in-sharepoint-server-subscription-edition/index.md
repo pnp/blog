@@ -23,6 +23,8 @@ tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
 canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition
 ---
+> This article originally appeared on Andrew Connell's site, **[SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Framework%20Updated%20in%20SharePoint%20Server%20Subscription%20Edition)**, where it's [also available as a video](https://youtu.be/sQhUTQkgL4s) and podcast episode.
+
 Microsoft released the SharePoint Framework (SPFx) in early 2017 & followed up later that year with a Feature Pack for SharePoint Server 2016. Since then, the latest version of SPFx has been available exclusively on SharePoint Online, but the version included in the on-premises deployments of SharePoint Server was stuck to that version.
 
 This meant that SharePoint Server 2016 (with Feature Pack 2) is stuck on [SPFx v1.1.0](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.1?MT.wc_id=M365-MVP-21083), SharePoint Server 2019 is stuck on [SPFx v1.4.1](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.4.1?MT.wc_id=M365-MVP-21083), and SharePoint Server Subscription Edition (SE) is stuck on SPFx v1.4.1.
