@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -24,17 +24,7 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform weekly call - 26th of December
 
-* Tuesday, 26th of December 2023, 8:00 AM PT / 3:00 PM GMT
-* Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
-
-Demos this time
-
-* During the holiday season, we will transform the calls to be coffee & tea meetings with the community – without specific demos and agenda
-* Q&A and discussions
-
-Also: 📷 Picture Time with community in Together Mode!
-
+No call due to the holiday season. We will be back with the Tuesday call series start from 9th of January 2024. See you then!
 
 ---
 
@@ -60,8 +50,10 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Managing SharePoint list Webhook subscriptions with SPFx extension](https://www.youtube.com/watch?v=MOJL7kwWewI) by [Nishkalank Bezawada](https:/twitter.com/im_nishkalank) (Bravero) | @im_nishkalank
+* [Bring your external content to Microsoft 365 with Microsoft Graph connectors](https://www.youtube.com/watch?v=g8IKWvNauzo) by [Mounika Narayanan](https://www.linkedin.com/in/mounikanarayanan/) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Review dashboard with Microsoft Viva Goals](https://www.youtube.com/watch?v=je9WIqhrHx4)
-* [Crowdsourced Cataloging: Rebranding via PowerApps and AI Models](https://www.youtube.com/watch?v=sUzTBrM83es) by Jeffrey Dent (AT & T)
+* [Crowdsourced Cataloging: Rebranding via PowerApps and AI Models](https://www.youtube.com/watch?v=sUzTBrM83es) by [Jeffrey Dent](https://www.linkedin.com/in/jeffrey-dent-9b985219a/) (AT & T)
 * [Getting started with OneDrive - Restore your files](https://www.youtube.com/watch?v=nAVXZHqPmew)
 * [Introduction to Viva Connection multiple dashboard feature](https://www.youtube.com/watch?v=Sg9RvYvPv80) by [Anshuman Gaur](https:/twitter.com/AnshumanGaur) (Microsoft) | @_AnshumanGaur
 * [Making a Phone Call with Azure Communication Services](https://www.youtube.com/watch?v=ybvViuly5DQ) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
@@ -81,6 +73,7 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [New Microsoft 365 Certification framework creates a more streamlined process for ISVs](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-365-certification-framework-creates-a-more-streamlined-process-for-isvs/) by Tony Balkan (Microsoft)
 * [Top 5 AppSource validation errors for Office Add-ins submissions – December 2023](https://devblogs.microsoft.com/microsoft365dev/top-5-appsource-validation-errors-for-office-add-ins-submissions-december-2023/) by Elizabeth Samuel (Microsoft) 
 * [Write simpler, faster code with the new Microsoft Graph Java SDK v6](https://devblogs.microsoft.com/microsoft365dev/write-simpler-faster-code-with-the-new-microsoft-graph-java-sdk-v6/) by Maisa Rissi (Microsoft)
 * [Web content in Microsoft Mesh, powered by WebView](https://devblogs.microsoft.com/microsoft365dev/web-content-in-microsoft-mesh-powered-by-webview/) by Sean Kerawala (Microsoft)
@@ -100,6 +93,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development community call - 21st of December, 2023](https://www.youtube.com/watch?v=4WqlxULeBHI)
 * [Office Add-ins community call – December 2023](https://www.youtube.com/watch?v=ZGOwxfQDKCc)
 * [Microsoft 365 & Power Platform weekly call – 19th of December, 2023](https://www.youtube.com/watch?v=TkNmwnD0Pyo)
 

@@ -23,16 +23,13 @@ tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
 canonicalURL: https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects
 ---
+> This article originally appeared on Andrew Connell's site, **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How%20to%20use%20React%20hooks%20with%20the%20SharePoint%20Framework%20(SPFx))**, where it's [also available as a video](https://youtu.be/EzI-k5lqIng) and podcast episode. You can also download the code from the project used in this article from the original article
 
 The current version of the Yeoman generator for the SPFx still uses the older-style React class components. Because that’s what you get by default, that’s what most developers end up using.
 
 But functional components enabled by React hooks have become widely popular... and I get a lot of questions on how to use React hooks in your SharePoint projects!
 
 So... until Microsoft updates the Yeoman generator, I’m going to show you how you change your new projects to React hooks in just a few minutes. And then, I’ll show the basics of React hooks with a simple example.
-
-> [Watch the video associated with this article on my YouTube channel](https://youtu.be/EzI-k5lqIng) and/or download the code from the project used in this article!
->
-> [Skip to the bottom of the article](#get-the-code) to download the project.
 
 ## Introduction
 
