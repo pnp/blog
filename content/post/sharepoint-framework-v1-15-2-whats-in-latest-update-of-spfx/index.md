@@ -21,7 +21,7 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx
+canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/
 ---
 > This article originally appeared on Andrew Connell's site, **[Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Unboxing%20the%20SharePoint%20Framework%20(SPFx)%20v1.15.2%20release)**, where it's [also available as a video](https://youtu.be/N2YnIFsqMDc) and podcast episode.
 
