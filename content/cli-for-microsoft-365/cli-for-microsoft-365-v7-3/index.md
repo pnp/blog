@@ -22,7 +22,7 @@ Introducing the latest release of CLI for Microsoft 365
  
 ## What's new
 
-### Microsoft Entra
+### Microsoft Entra ID
 
 In the last release, we introduced a series of commands that allow you to manage administrative units. An administrative unit is a Microsoft Entra resource that can be a container for other Microsoft Entra resources. It may contain users, groups and devices. In this new release, we're adding new commands to manage the members of these administrative units.
 
@@ -72,7 +72,7 @@ For more information check the following resources:
 
 ### External content
 
-The release of Microsoft 365 Copilot brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph Connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph Connectors. 
+The release of Microsoft Copilot for Microsoft 365 brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph connectors. 
 This release brings a new command to add new items to a connector and a new doctor command to verify if your external connection is correctly configured.
 
 To add a new item to an external connection, with simple properties that everyone is allowed to access
@@ -81,7 +81,7 @@ To add a new item to an external connection, with simple properties that everyon
 m365 external item add --id "pnp-ensure-siteassets-library" --connectionId "samplesolutiongallery" --content "Ensure that the Site Assets library is created." --title "Ensure the Site Assets Library is created" --description "Ensure that the Site Assets library is created." --authors "Phil Harding" --acls "grant,everyone,everyone"
 ```
 
-To check if an external connection is correctly configured for use with Copilot for Microsoft 365
+To check if an external connection is correctly configured for use with Microsoft Copilot for Microsoft 365
 
 ```sh
 m365 external connection doctor --id contosoproducts --ux copilot
