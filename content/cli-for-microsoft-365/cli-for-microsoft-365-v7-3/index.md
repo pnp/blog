@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v7.3
-date: 2024-01-02T08:00:00.000Z
+date: 2023-12-29T08:00:00.000Z
 author: Martin Lingstuyl
 githubname: martinlingstuyl
 categories:
