@@ -24,13 +24,13 @@ However, one issue with autonumber columns is that the inline suggestions in Dat
 
 ![Search without improvement](images/search-without-improvement.png)
 
-Now that Dataverse formula columns are generally available, we can get around this issue, by adding a new column with the formula:
+Now that [Dataverse formula columns are generally available](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/formula-columns?tabs=type-or-paste), we can get around this issue, by adding a new column with the formula:
 
 ``` excel
 Text(Int('Case Number'),"#")
 ```
 
-This formula converts the autonumber 00003606 to 3606.
+This formula converts the autonumber 00003606 to 3606 for our example.
 
 The column can then be added as a find column in the quick find view to include it in Dataverse Search. This will show the case in the inline suggestion.
 
