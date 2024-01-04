@@ -4,7 +4,7 @@ title: SharePoint Embedded - overview and example scenarios
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: SharePoint Embedded, a new service from Microsoft 365, enables the creation of document centric apps with a custom UX but using SharePoint for document storage.
 
-date: 2023-12-27T14:54:49-05:00
+date: 2024-01-03T14:54:49-05:00
 
 # Author. Your own name
 author: "Andrew Connell"
