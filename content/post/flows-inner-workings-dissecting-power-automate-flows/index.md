@@ -1,6 +1,8 @@
 ---
 title: "Flows - The Inner Workings: Dissecting Power Automate Flows"
-date: 2023-11-10T08:40:00-04:00
+
+date: 2023-12-15T08:00:00-04:00
+
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
@@ -9,7 +11,9 @@ categories: ["Community post"]
 images:
 - images/thumbnail.png
 # don't change
-tags: []
+
+tags: ["Power Automate"]
+
 # don't change
 type: "regular"
 ---
@@ -26,6 +30,7 @@ This two-part blog series will guide you through using low-code Power Automate c
 
 - [TL;DR](#tldr)
 - [Contents](#contents)
+- [Introduction](#introduction)
 - [Flows as Dataverse Processes](#flows-as-dataverse-processes)
 - [Flow Schema](#flow-schema)
   - [Top-level Schema](#top-level-schema)
@@ -37,9 +42,25 @@ This two-part blog series will guide you through using low-code Power Automate c
 
 ---
 
+
+## Introduction
+
+This blog post takes you through the structure of flows and the elements of a flow that uses that structure to extract details of flows.
+
+The extracted details are available as Markdown or HTML contents.
+
+The best way to follow this blog post through is to [download the solution](#download-the-flow-solution) and follow the post through inside the 'Apply to each Flow' loop.
+
+---
+
+## Flows as Dataverse Processes
+
+Flows are stored in Dataverse in the **process (workflow) table**, just like business rules and business process flows. Whilst some information on flows are available using the Power Automate Management connector, it is relatively limited and details such as the triggers aren't available.
+=======
 ## Flows as Dataverse Processes
 
 Flows are stored in Dataverse in the **process (workflow) table**, just like business rules and business process flows. Whilst some information on flows are available using Power Automate Management connector, it is relatively limited and details such as the triggers aren't available.
+
 
 The schema for processes, concentrating on the columns relevant to flows that are available via FetchXML in a flow, is:
 
@@ -60,11 +81,15 @@ Flow steps are stored in the Client Data column as 'stringified' JSON. This stri
 "{\"properties\":{\"connectionReferences\":{\"shared_sharepointonline\":{\"runtimeSource\":\"embedded\",...
 ```
 
+
+---
+
 ## Flow Schema
 
 To enable the flow to work with the contents of the Client Data, it's natural to parse the text and convert it into a JSON object.
 
 Microsoft's schema for flows is https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#. However, this schema defines the patterns that flows must conform to and includes the flexibility for connectors to add their own triggers and actions.  The JSON schema used for flow `parse JSON` steps, on the other hand, needs to have a fixed format.
+
 
 ### Top-level Schema
 
@@ -229,6 +254,7 @@ To extract all the connection references, we need a Do Until loop:
 
 - **If Connection not already in list**: this condition checks whether the connection reference is already in the list found so far. The substring expression is the one above.
 
+
   - **Append New Connection to List**: this add the Connection to an array variable.
 
 - **Compose Rest of Content** and **Set variable to rest of connection string**: updates `varConnectionStr` to the text after the latest Connection Reference
@@ -238,6 +264,7 @@ To extract all the connection references, we need a Do Until loop:
 The Do Until loop extracts all the connection references in the JSON into an array variable.
 
 ********
+
 
 ### Triggers
 
@@ -343,6 +370,7 @@ Which gives a level 2 heading with the name of the flow and a table with the det
 
 The connections for the current flow are then added to the array of connections in the **If Connection** steps.
 
+
 ### Further Trigger Details
 
 Further information can be extracted from the trigger, but varies with the different `type` of the flow - instant, scheduled, and automated - and the `kind`, such as `button` and `http`.
@@ -353,7 +381,9 @@ Further information can be extracted from the trigger, but varies with the diffe
 
 ![KindSwitch](images/KindSwitch.png)
 
-The different types have different schema structures. For example, the scheduled (recurrence) flow has schema which includes `frequency`, `interval` and `startTime`:
+
+The different trigger `type`s have different schema structures. For example, the scheduled (recurrence) flow has schema which includes `frequency`, `interval` and `startTime`:
+
 
 ```JSON
 {
@@ -427,6 +457,11 @@ In addition to listing information about the flows, the following types of advic
 
 ## Download the Flow Solution
 
-You can find the solution with the flow on GitHub at https://github.com/alex-mcla/ProcessDocumentationFlow. The final step in the flow is a Compose step that retrieves the Markdown contents, which can be pasted into a Markdown file, such as an Azure Wiki page.
 
-The solution is unmanaged, allowing you to customise it to your needs, especially if you want to extract additional information or cover additional trigger types. If you encounter any issues, have comments, or suggestions for improvement, please raise an issue on GitHub."
+You can find two solutions with the flow on GitHub at https://github.com/alex-mcla/ProcessDocumentationFlow:
+
+- With the Markdown as the final Compose step in the flow, which can be pasted into a Markdown file, such as an Azure Wiki page.
+- A version with both Markdown and HTML; the HTML step uses the 'Render a Markdown document' action from the **GitHub Utils** connector by [Daniel Laskewitz](https://youtube.com/daniellaskewitz) to convert to HTML. This is a separate solution as data loss prevention policies may block the use of the GitHub Utils connector.
+
+The solutions are unmanaged, allowing you to customise it to your needs, especially if you want to extract additional information or cover additional trigger types. If you encounter any issues, have comments, or suggestions for improvement, please raise an issue on GitHub."
+
