@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 1st of January 2024 week - Holiday season
-date: 2023-12-22T02:44:40.416Z
+date: 2023-12-29T02:44:40.416Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -51,7 +51,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Power Automate Advanced: Treat flows as functions](https://www.youtube.com/watch?v=D7em5L10WBY) by Jason Murphy (University of Surrey)
+* [Using Power Apps and Generative AI to support parents of Autistic children in their daily routines](https://www.youtube.com/watch?v=ORCCkzOavOQ) by [Raghav Mishra](https://www.linkedin.com/in/mishraraghav/) (AlfaPeople)
+* [Power Automate Advanced: Treat flows as functions](https://www.youtube.com/watch?v=D7em5L10WBY) by [Jason Murphy](https://www.linkedin.com/in/jason-a-murphy/) (University of Surrey)
 * [Sending Email and SMS Messages with Azure Communication Services](https://www.youtube.com/watch?v=L4nsdPRu6OQ) by [Dan Wahlin](https://twitter.com/DanWahlin) 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -77,7 +78,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [https://www.youtube.com/watch?v=FccqWKwFHWw](https://pnp.github.io/blog/post/yo-teams-retirement/) by [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
+* [https://www.youtube.com/watch?v=FccqWKwFHWw](https://pnp.github.io/blog/post/yo-teams-retirement/) by [Wictor Wilen](https://twitter.com/wictor) (Microsoft) | @Wictor
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -87,7 +88,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* no new recordings this week due to holiday season
+* [Viva Connections and SharePoint Framework community call 28th of December 2023](https://www.youtube.com/watch?v=p2Qe6Ii-aJE)
 
 
 ---

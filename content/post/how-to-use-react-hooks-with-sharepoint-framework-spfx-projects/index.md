@@ -21,7 +21,7 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects
+canonicalURL: https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/
 ---
 > This article originally appeared on Andrew Connell's site, **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How%20to%20use%20React%20hooks%20with%20the%20SharePoint%20Framework%20(SPFx))**, where it's [also available as a video](https://youtu.be/EzI-k5lqIng) and podcast episode. You can also download the code from the project used in this article from the original article
 

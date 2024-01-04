@@ -21,7 +21,7 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition
+canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/
 ---
 > This article originally appeared on Andrew Connell's site, **[SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Framework%20Updated%20in%20SharePoint%20Server%20Subscription%20Edition)**, where it's [also available as a video](https://youtu.be/sQhUTQkgL4s) and podcast episode.
 
