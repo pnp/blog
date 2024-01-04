@@ -3,7 +3,7 @@ title: SharePoint Add-in model retirement + other services unpacked
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: "This is the definitive guide to the Microsoft 365 retirements announced in 2023: SharePoint Add-in model, SharePoint 2013 workflows, and Azure ACS."
-date: 2023-12-23T14:19:19-05:00
+date: 2024-01-03T14:19:19-05:00
 
 # Author. Your own name
 author: "Andrew Connell"
