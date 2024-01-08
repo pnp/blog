@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=uHGnHdL2oLg
 draft: false
 ---
- 
+
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based Global XR Technology and Metaverse Lead - [Alexander Meijers](https://twitter.com/ameijers) (Avanade) \| @ameijers.
 
 ## Topics discussed in this session
@@ -28,15 +28,15 @@ In this installment of the weekly discussion revolving around the latest news an
 
 ## Resources referenced during discussion
 
-* Documentation - [What is AltspaceVR](https://learn.microsoft.com/windows/mixed-reality/altspace-vr/overview) 
-* Documentation - [Microsoft Mesh (Preview) overview](https://learn.microsoft.com/mesh/overview) 
-* Article - [Mesh for Microsoft Teams aims to make collaboration in the ‘metaverse’ personal and fun](https://news.microsoft.com/innovation-stories/mesh-for-microsoft-teams/) 
-* Article - [Microsoft wins U.S. Army contract for augmented reality headsets, worth up to \$21.9 billion over 10 years](https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html) 
-* Learn - [Mixed Reality Learn overview](https://learn.microsoft.com/windows/mixed-reality/discover/mr-learning-overview) 
-* Learn - [Get started with Mixed Reality](https://learn.microsoft.com/windows/mixed-reality/discover/get-started-with-mr) 
-* Documentation - [Mixed Reality Toolkit 3](https://learn.microsoft.com/windows/mixed-reality/mrtk-unity/mrtk3-overview/) 
-* Community – [Mixed Reality Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality/ct-p/MicrosoftMixedReality) 
-* Conference - [GLOBAL XR CONFERENCE, NOVEMBER 3-4, 2022](https://globalxrconference.com/) 
+* Documentation - [What is AltspaceVR](https://learn.microsoft.com/windows/mixed-reality/altspace-vr/overview)
+* Documentation - [Microsoft Mesh (Preview) overview](https://learn.microsoft.com/mesh/overview)
+* Article - [Mesh for Microsoft Teams aims to make collaboration in the ‘metaverse’ personal and fun](https://news.microsoft.com/innovation-stories/mesh-for-microsoft-teams/)
+* Article - [Microsoft wins U.S. Army contract for augmented reality headsets, worth up to \$21.9 billion over 10 years](https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html)
+* Learn - [Mixed Reality Learn overview](https://learn.microsoft.com/windows/mixed-reality/discover/mr-learning-overview)
+* Learn - [Get started with Mixed Reality](https://learn.microsoft.com/windows/mixed-reality/discover/get-started-with-mr)
+* Documentation - [Mixed Reality Toolkit 3](https://learn.microsoft.com/windows/mixed-reality/mrtk-unity/mrtk3-overview/)
+* Community – [Mixed Reality Tech Community](https://techcommunity.microsoft.com/t5/mixed-reality/ct-p/MicrosoftMixedReality)
+* Conference - [GLOBAL XR CONFERENCE, NOVEMBER 3-4, 2022](https://globalxrconference.com/)
 
 Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
 
@@ -53,21 +53,21 @@ This session was recorded on Thursday, September 15, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube uHGnHdL2oLg >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-eg6q3-12c9f42 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-eg6q3-12c9f42 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
 ## Microsoft articles
 
-* [Most used SharePoint Framework solutions from the Store - August 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-august/ba-p/3619482) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen 
+* [Most used SharePoint Framework solutions from the Store - August 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-august/ba-p/3619482) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Priority Matrix improves user activation through Universal Actions for Adaptive Cards](https://devblogs.microsoft.com/microsoft365dev/priority-matrix-improves-user-activation-through-universal-actions-for-adaptive-cards/) - [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * [New cultural site template: Hispanic Heritage Month](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/new-cultural-site-template-hispanic-heritage-month/ba-p/3624464) - [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Power Fx: Introducing ParseJSON](https://powerapps.microsoft.com/blog/power-fx-introducing-parsejson/) - Joris de Gruyter (Microsoft)
 * [Announcing the New Landing page for Microsoft Power Platform Communities](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Announcing-the-New-Landing-page-for-Microsoft-Power-Platform/ba-p/1769039) - [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
-* 
+*
 
 ## Community articles
 
@@ -77,10 +77,10 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Getting notified of changes in guests accessing SharePoint](https://www.blimped.nl/getting-notified-of-changes-in-guests-accessing-sharepoint/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
 * [Video messages in Microsoft Teams Chat](https://regarding365.com/video-messages-in-microsoft-teams-chat-8930eac675ae) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [How we built the OnePlaceMail Outlook App on the Microsoft 365 Platform & Azure Cloud](https://camerondwyer.com/2022/09/13/how-we-built-the-oneplacemail-outlook-app-on-the-microsoft-365-platform-azure-cloud/) - [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace Solutions) | @CameronDwyer
-* [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.andrewconnell.com/blog/clouddev-clarity-episode-008-introducing-browser-native/) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 & [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.voitanos.io/blog/clouddev-clarity-episode-008-introducing-browser-native/) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 & [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Power Hour: Flow Excel Actions Generate Chart Report](https://www.youtube.com/watch?v=LN_L-SPlP4Q) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @wonderlaura & [Joelle Jobson](https://twitter.com/Joelle_Shmoelle) (IW Mentor) | @Joelle_Shmoelle
 * [5 Power Apps Best Practices for Early Makers](https://www.youtube.com/watch?v=WUy2IaTa56g) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -89,4 +89,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-
