@@ -134,7 +134,7 @@ everyone for your contributions to the community!\
     [Markus Möller](https://twitter.com/Moeller2_0) (Avanade)
     | @Moeller2_0
 -   [Back to school! Time to modernize those SPFx
-    projects!](https://www.andrewconnell.com/blog/modernize-your-sharepoint-framework-projects/) -
+    projects!](https://www.voitanos.io/blog/modernize-your-sharepoint-framework-projects/) -
     [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
     | @andrewconnell
 -   [Employee Onboarding in Microsoft
