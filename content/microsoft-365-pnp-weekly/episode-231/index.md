@@ -35,7 +35,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 [00:00](https://www.youtube.com/watch?v=cqY3lfKMVok&t=0s) – Intro
 
-[02:54](https://www.youtube.com/watch?v=cqY3lfKMVok&t=174s) – Interview with Federico
+[02:54](https://www.youtube.com/watch?v=cqY3lfKMVok&t=174s) – Interview with Lindsay
 
 [41:40](https://www.youtube.com/watch?v=cqY3lfKMVok&t=2500s) – Weekly articles
 
