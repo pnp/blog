@@ -46,7 +46,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Actions
 
-* Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-join) – June 15, 8:00 AM PT \| <https://aka.ms/officeaddinsamples-call>
+* Give us feedback on what you need from code samples. Join the Teams call – Office Add-ins samples discussion – June 15, 8:00 AM PT
 * Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel –
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)

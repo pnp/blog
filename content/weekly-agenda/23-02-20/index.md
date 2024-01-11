@@ -38,7 +38,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot - Exploring the depths of undocumented admin REST API through an SPFx solution
 * [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech - Simplify your code with react-query
@@ -54,7 +54,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 
 * [Building SPFx Visio file presenter for Teams and SharePoint](https://www.youtube.com/watch?v=WQ7eaxPyTqg) by [Nikolay Belykh](https://www.linkedin.com/in/nbelyh/) (unmanagedvisio)
 * [Mention a bot from a Power Automate flow](https://www.youtube.com/watch?v=jIrXxjmhve0) by [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | @expiscornovus
-* [Create a conversational bot in Microsoft Teams using OpenAI](https://www.youtube.com/watch?v=PtdOdYax84A) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford 
+* [Create a conversational bot in Microsoft Teams using OpenAI](https://www.youtube.com/watch?v=PtdOdYax84A) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 * [Building a Name Pronunciation Database with Power Apps and Power Automate](https://www.youtube.com/watch?v=As0ie1bXVvQ) by [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) | @lshelton_tech
 * [Jeff Teper invites you to the Microsoft 365 Conference (May 2-4, 2023)](https://www.youtube.com/watch?v=XeDmQSiU-w8)
 * [Creating Viva Connections SPFx ACE with geo-location capabilities](https://www.youtube.com/watch?v=di3HBsAXE-g) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell and [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -91,7 +91,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -105,7 +105,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Community Days - Women in Tech 2023](https://www.communitydays.org/event/2023-03-03/m365-community-days-women-in-tech-2023) - March 3, 2023 - Virtual
 * [Global Power Platform Bootcamp Nairobi 2023](https://www.communitydays.org/event/2023-03-04/global-power-platform-bootcamp-nairobi-2023#home) - March 4, 2023 - Nairobi, Kenya
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel

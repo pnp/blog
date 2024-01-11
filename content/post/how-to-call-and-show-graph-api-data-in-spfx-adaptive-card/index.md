@@ -12,7 +12,7 @@ type: "regular"
 ---
 
 
-In this article, we will learn how to get data from Graph API and display it in SPFx Adaptive Card Extensions(ACEs). if you are new to ACEs then I would recommend going through [my previous article](https://siddharthvaghasia.com/2021/12/29/create-your-first-adaptive-card-extension-with-spfx/) where I have covered the concept and basics of ACEs along with step by step tutorial on understanding how the ACEs components work together especially Card View and Quick View.
+In this article, we will learn how to get data from Graph API and display it in SPFx Adaptive Card Extensions(ACEs). if you are new to ACEs then I would recommend going through [my previous article](https://siddharthvaghasia.com/create-your-first-adaptive-card-extension-with-spfx/) where I have covered the concept and basics of ACEs along with step by step tutorial on understanding how the ACEs components work together especially Card View and Quick View.
 
 ## Scenario
 

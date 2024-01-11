@@ -87,8 +87,8 @@ Try {
   $executionDir = $PSScriptRoot
   $outputFilePath = "$executionDir/$(get-date -f yyyyMMdd-HHmmss).json"
   # ConvertTo-Json cuts off data when exporting to JSON if it nests too deep. The default value of Depth parameter is 2. Set your -Depth parameter whatever depth you need to preserve your data.
-  $output | ConvertTo-Json -Depth 100 | Out-File $outputFilePath 
-  Write-Host "Open $outputFilePath file to review your output" -F Green 
+  $output | ConvertTo-Json -Depth 100 | Out-File $outputFilePath
+  Write-Host "Open $outputFilePath file to review your output" -F Green
 }
 Catch {
   $ErrorMessage = $_.Exception.Message
@@ -98,9 +98,9 @@ Catch {
  
 You can find this and many more samples on how to use the CLI for
 Microsoft 365 in our [official samples
-section.](https://pnp.github.io/cli-microsoft365/sample-scripts/)
+section.](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction)
  
-## What is the CLI for Microsoft 365? 
+## What is the CLI for Microsoft 365?
 
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) is a
 cross-platform CLI that allows you to manage various configuration

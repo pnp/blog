@@ -9,14 +9,14 @@ images:
   - images/01-introduction-what-is-spfx-promo.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
 draft: true
 ---
 
-[SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to extend the Microsoft 365 services by including JavaScript driven components and experiences within the user interface. 
+[SharePoint Framework](https://aka.ms/spfx) (SPFx) is an extensibility model for Microsoft 365 enabling developers to extend the Microsoft 365 services by including JavaScript driven components and experiences within the user interface.
 
 SPFx provides a cost-efficient option to extend the user interface with industry standard web stack tooling and automatic hosting, all part of the standard licensing in Microsoft 365.
 
@@ -30,13 +30,13 @@ This blog post is part of the a month long SPFx series for January 2023. Each bu
 
 ## What is SharePoint?
 
-*“SharePoint is a web-based collaboration platform that integrates natively with Microsoft Office”* – the introduction to SharePoint from [Wikipedia](https://en.wikipedia.org/wiki/SharePoint). [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/) was originally launched back in 2001 as a server-side product for document management and storage system but was then extended further with the following versions with intranet and even Internet facing content management features.
+*“SharePoint is a web-based collaboration platform that integrates natively with Microsoft Office”* – the introduction to SharePoint from [Wikipedia](https://en.wikipedia.org/wiki/SharePoint). [SharePoint](https://www.microsoft.com/microsoft-365/sharepoint/collaboration/) was originally launched back in 2001 as a server-side product for document management and storage system but was then extended further with the following versions with intranet and even Internet facing content management features.
 
 SharePoint was a highly successful on-premises product with almost unlimited extensibility options for customers to take advantage of. Starting from the SharePoint 2007 version forward, it came to be one of the most successful content management products in the world. One of the key challenges we had, however, in the on-premises was that the customer specific extensibility was version specific, so whenever a new on-premises version was released, there were additional costs due to the extensibility built for the deployment.
 
 With the introduction of [Office 365](https://en.wikipedia.org/wiki/Microsoft_365) (nowadays known as Microsoft 365), SharePoint features and capabilities were also included in the Microsoft cloud offering as the collaboration and content management services from the cloud. As part of this transition a completely new version of the SharePoint experiences were released starting from 2017 with so called modern experiences. These modern experiences were designed to be more future proof and to provide more evergreen options to enable new features for customers in the cloud without continuous maintenance or operation requirements due to the deployed extensibility. This also meant that a new extensibility option would be needed for supporting this cloud first model which resulted in the introduction of SharePoint Framework (SPFx).
 
-SharePoint continues to be available in the on-premises with the latest version being called as the [SharePoint Subscription Edition](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-server-subscription-edition-general-availability/ba-p/2913714) (released in 2021), but the latest and greatest features are available as part of the Microsoft 365 offerings with even weekly updates and new features. 
+SharePoint continues to be available in the on-premises with the latest version being called as the [SharePoint Subscription Edition](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-server-subscription-edition-general-availability/ba-p/2913714) (released in 2021), but the latest and greatest features are available as part of the Microsoft 365 offerings with even weekly updates and new features.
 
 SharePoint provides the content and platform services for Microsoft 365 powering features and capabilities for example for [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva), Microsoft Teams, Microsft Syntex and Microsoft Stream. SharePoint Online has more than 200 million monhtly active users in the cloud with continuous investments across the different feature sets across the different capabilities.
 
@@ -52,7 +52,7 @@ All SPFx solutions are created during development time with TypeScript and then 
 
 SPFx provides you an option to build your JavaScript components once and **reuse the same component across the different services in Microsoft 365** – so the exactly the same JavaScript based app can be used in Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (Office), and in SharePoint. Build once, expose across Microsoft 365.
 
-SPFx is also used by Microsoft engineers to build the native out of the box features which are available in SharePoint Online, like the out of the box web parts. 
+SPFx is also used by Microsoft engineers to build the native out of the box features which are available in SharePoint Online, like the out of the box web parts.
 
 SPFx has the following objectives:
 
@@ -70,35 +70,35 @@ Given the worldwide success of the SPFx with customers and partners, Microsoft  
 
 ## Frequent questions around SPFx
 
-**Is SPFx only for SharePoint Developers?** 
+**Is SPFx only for SharePoint Developers?**
 
 No. SPFx is targeted for any web developer to extend Microsoft 365 easily and cost efficiently using TypeScript/JavaScript.
 
-**Is SPFx only for developers with SharePoint background?** 
+**Is SPFx only for developers with SharePoint background?**
 
 No. As it’s based on web stack development tooling, there’s no SharePoint background needed. We hear all the time great feedback from the partner ecosystem on how new web developers have used SPFx to easily get familiar with the Microsoft 365 platform.
 
-**I have an existing web site which I want to integrate to Microsoft 365, is SPFx for me?** 
+**I have an existing web site which I want to integrate to Microsoft 365, is SPFx for me?**
 
 It could be, but it depends on the exact requirements. If you are an ISV with an existing web site, it’s most likely easier to integrate that service to Microsoft 365 using the [Microsoft Teams app model](https://learn.microsoft.com/en-us/microsoftteams/platform/).
 
-**Is Microsoft investing in SPFx across Microsoft 365?** 
+**Is Microsoft investing in SPFx across Microsoft 365?**
 
 Yes. Given the existing worldwide success of SPFx, we are investing heavily in the SPFx to be supported across the Microsoft 365 platform and are seeing great results in this.
 
-**Do I need to understand SharePoint ism’s for understand SPFx?** 
+**Do I need to understand SharePoint ism’s for understand SPFx?**
 
 No. SPFx does not require you to understand SharePoint specific terms or tooling. You can easily build extensibility also for Microsoft Viva or Microsoft Teams without focusing on SharePoint.
 
-**Can I extend SPFx solutions with Azure components?** 
+**Can I extend SPFx solutions with Azure components?**
 
 Absolutely and this is commonly done for long running operations or for elevating permissions for the needed operations. You’d typically do this with Azure Functions or with Azure Web APIs. SPFx supports calling securely Azure Active Directory secure resources.
 
-**Can I use Angular or other common JavaScript frameworks with SPFx?** 
+**Can I use Angular or other common JavaScript frameworks with SPFx?**
 
 Absolutely. Microsoft is using React for their out-of-the-box web parts and features in SharePoint Online, but you can use whatever framework you want. Microsoft does provide React templates in the SPFx Yeoman generator by default, but you can use any JavaScript library you want. You scaffold the default structure without a framework solution and then include the wanted library to the solution.
 
-**Will SPFx name be changed in future?** 
+**Will SPFx name be changed in future?**
 
 SharePoint Framework (SPFx) is a confusing name for an extensibility model which can be used across Microsoft 365, so there are ongoing discussions on updating the name to address the real scope of the possibilities with the SPFx. We do not have a final decision on this, and the timeline is still unclear, but your input is always welcome on this topic as well.
 
@@ -109,9 +109,9 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
-- Drive value with Microsoft 365 adoption tools – https://adoption.microsoft.com 
+- Drive value with Microsoft 365 adoption tools – https://adoption.microsoft.com
 
 - - -
 

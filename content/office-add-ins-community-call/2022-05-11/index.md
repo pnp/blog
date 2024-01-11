@@ -45,7 +45,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Actions
 
-* Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-call) – June 15, 8:00 am PT \| aka.ms/officeaddinsamples-call
+* Give us feedback on what you need from code samples. Join the Teams call – Office Add-ins samples discussion – June 15, 8:00 am PT
 * Sign up for the PnP Recognition Program and earn contribution badges – <https://pnp.github.io/recognitionprogram/>
 * See call agendas and summaries, and release announcements. Follow us on Twitter –
     * <https://twitter.com/microsoft365dev>

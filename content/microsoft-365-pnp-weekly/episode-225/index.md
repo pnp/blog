@@ -61,14 +61,14 @@ This session was recorded on Monday 6th of November. Session was published on Tu
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-f76hb-14ef380 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
 * [Create focused collaboration with the new Microsoft Teams channels experience](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/create-focused-collaboration-with-the-new-microsoft-teams/ba-p/3966544) - Noga Ronen (Microsoft)
 * [What’s New in Microsoft Teams | October 2023](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-october-2023/ba-p/3966624) - Steven Stein (Microsoft)
 * [SharePoint Roadmap Pitstop: October 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-october-2023/ba-p/3968009) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-* [Microsoft 365 Admin Monthly Digest – Oct 2023](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-admin-monthly-digest-oct-2023/ba-p/3968077) - 
+* [Microsoft 365 Admin Monthly Digest – Oct 2023](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-admin-monthly-digest-oct-2023/ba-p/3968077) -
 Gabe Ho (Microsoft)
 * [What’s New and What’s Coming to OneNote on Windows](https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-and-what-s-coming-to-onenote-on-windows/ba-p/3966645) - Greg MacEachern (Microsoft)
 * [What’s new with Viva Connections: Resources update!](https://techcommunity.microsoft.com/t5/viva-connections-blog/what-s-new-with-viva-connections-resources-update/ba-p/3969373) - Leslie Thomas (Microsoft)
@@ -121,7 +121,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Twin Cities](https://www.communitydays.org/event/2023-11-11/m365-twin-cities) - November 11-12, 2023 - Brooklyn Partk, MN, USA
 * [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/home) - November 14-17, 2023 - Seattle, WA, USA
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 16, 2023 - Aachen, Germany
+* AMS Aachen - November 16, 2023 - Aachen, Germany
 * [Power Of The Cloud](https://www.communitydays.org/event/2023-11-17/power-of-the-cloud) - November 17-18, 2023 - Toronto, Canad
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
@@ -140,4 +140,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

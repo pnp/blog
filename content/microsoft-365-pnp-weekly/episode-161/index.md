@@ -40,7 +40,7 @@ Warner](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII.
 
 
 
-We also covered 9 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 9 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
@@ -50,21 +50,21 @@ We also covered 9 articles published by Microsoft and the PnP Community over the
     during April 12th Microsoft 365 Platform call on building a wellbeing
     solution with Teams and Viva Connections, addressing still more PRs for CLI
     for Microsoft 365 and prepping for Microsoft Tech Days on May 5th.
- 
+
 *   **Vesa** – prepping for [Microsoft Build](https://mybuild.microsoft.com/) – May 24–26, 2022, and for the next release SPFx v1.15 beta with List
     extensibility (custom forms for creating, viewing, and editing an item)
     capability.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, April 11, 2022.   Enjoy the show.  
+This session was recorded on Monday, April 11, 2022.   Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 93Me9NpQAQY >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-g69ph-11f8904 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -91,11 +91,6 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     \- [Jarbas Horst](https://twitter.com/devjhorst) (Valo Solutions) \|
     @devjhorst
 
-*   [Microsoft 365 – SPFx OR react app error: Property ” does not exist on type
-    ‘Readonly\<{}\>‘ while
-    acce...](https://knowledge-junction.com/2022/04/07/microsoft-365-spfx-or-react-app-error-property-does-not-exist-on-type-readonly-while-accessing-state-property-this-state-property/)
-    \- [Prasham Sabadra](https://twitter.com/SabadraPrasham) (Apexon) \|
-    @SabadraPrasham
 
 *   [Microsoft 365 Platform Community - Getting started
     series](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUj6Upth7xkyJ7COh3EfTi4)
@@ -122,11 +117,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     Badges](https://pnp.github.io/recognitionprogram/)
 *   [Microsoft Tech Days](https://aka.ms/techdays/m365) - Have a seat with
     Microsoft 365 developer platform \| Thursday, May 5, 2022.
-*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples) 
+*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
 *   [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 *   Want to ask a question or in general engage with the community - Add a note in the Microsoft 365 PnP Community hub at [https://aka.ms/m365pnp/community](https://aka.ms/m365pnp/community)
 *   Check out all the great community calls, SDKs, and tooling for Microsoft 365 from [https://aka.ms/m365pnp](https://aka.ms/m365pnp)
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
-_"Sharing is caring!"_ 
+_"Sharing is caring!"_

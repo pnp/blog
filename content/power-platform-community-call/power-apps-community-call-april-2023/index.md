@@ -33,7 +33,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * Documentation – [Controls and properties in cards](https://learn.microsoft.com/power-apps/cards/controls/control-reference?WT.mc_id=powerapps_community_productblog)
     * Documentation – [Automatic deletion of inactive Microsoft Dataverse for Teams environments](https://learn.microsoft.com/power-platform/admin/inactive-teams-environment)
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
-    * New Power App - [Employee Engagement Survey - Modern Controls](https://github.com/pnp/powerapps-samples/tree/main/samples/employee-survey-modern-control)  
+    * New Power App - [Employee Engagement Survey - Modern Controls](https://github.com/pnp/powerapps-samples/tree/main/samples/employee-survey-modern-control)
         [Angelo Gulisano](https://twitter.com/angelog1908) \| @angelog1908
 * Power Platform - [Independent Publisher Connectors](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
     * Microsoft Search
@@ -52,9 +52,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * European Collaboration Summit 2023 - Düsseldorf, Germany, 24-36 May. Save 15% with “PowerPlatformRocks” voucher.
     * ACT NOW – save 17% until March 17th on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 
 ### Demo summaries
@@ -187,4 +187,3 @@ Great seeing everyone today. Welcome to all who are in Seattle this week for the
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/community/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/community/home>
-

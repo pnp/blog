@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=LlTnZVHF8bE
 draft: false
 ---
- 
+
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft MVP and Power Platform Technical Architect - [Kristine Kolodziejski](https://twitter.com/@kristinekk94) (Computacenter) \| @kristinekk94.
 
 ## Topics discussed in this session
@@ -44,10 +44,10 @@ This session was recorded on Monday, October 24, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube LlTnZVHF8bE >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-brv6e-12f7bd6 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-brv6e-12f7bd6 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -64,7 +64,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Community articles
 
-* [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell   
+* [How to use React hooks with the SharePoint Framework (SPFx)](https://pnp.github.io/blog/post/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [How to Show Upcoming Meetings for a Microsoft 365 User](https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Use Power Automate to Retrieve Data from an Azure Function for Reporting](https://blog.codewithdan.com/use-power-automate-to-retrieve-data-from-an-azure-function-for-reporting/) - [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [New! Format data by examples in Power Automate](https://sharepains.com/2022/10/21/new-format-data-by-examples-in-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
@@ -84,11 +84,11 @@ Here are the most upcoming events from the centralized [Community Days site](htt
 * [Microsoft Community Days Mexico City 2022](https://mscloudevents.com/) - November 3-4, Mexico City, Mexico
 * [Microsoft 365 / Dynamics 365 Ottawa Event](https://m365ottawa.com/) - November 4, Ottawa, Canada
 * [M365 Change Management Forum](https://www.communitydays.org/event/2022-11-07/m365-change-management-forum#Home) - November 7, Online
-* [DYNUG Autum Conference](https://dynug.no/arrangementer/dynug-hostkonferanse-2/) - November 8-9, Oslo, Norway
-* [Tech Summit Nigeria 2022](https://www.techsummitnigeria.com/) - November 9-10, Lgos, Nigeria
+* DYNUG Autum Conference - November 8-9, Oslo, Norway
+* Tech Summit Nigeria 2022 - November 9-10, Lagos, Nigeria
 * [M365 Chicago](https://m365chicago.com/) - November 11-12, Online
 * [Viva Explorers Community Day - UK](https://www.vivaexplorers.com/) - November 12, Manchester, United Kingdom
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
+* aMS Germany Microsoft Community Event 2022 - November 11-15, Aachen, Germany
 
 
 ## Additional resources
@@ -99,4 +99,3 @@ Here are the most upcoming events from the centralized [Community Days site](htt
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

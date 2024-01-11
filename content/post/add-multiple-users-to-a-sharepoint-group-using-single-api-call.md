@@ -109,10 +109,9 @@ If you need to automate the same scenario or execute via scripts, you
 can use a command from [CLI for Microsoft
 365](https://pnp.github.io/cli-microsoft365/) which
 is `m365 spo group user add`. [This
-command](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-user-add/) will
+command](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-member-add) will
 allow you to add multiple users to SharePoint group. If you have an
 automation or provisioning solution which has this scenario, it is going
 to be super helpful.
 
 Photo by [Alex Suprun](https://unsplash.com/@sooprun) on Unsplash
-

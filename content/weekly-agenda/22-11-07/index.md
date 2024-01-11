@@ -28,7 +28,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
-Demos: 
+Demos:
 
 * [Bert Jansen](https://twitter.com/O365bert) (Microsoft) | @O365bert– Avoid throttling in SharePoint Online by using RateLimit headers in API calls
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @garrytrinder – Build your first Workflow bot for Microsoft Teams with Teams Toolkit for Visual Studio Code
@@ -48,7 +48,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
 * [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz and [Manuela Pichler](https://twitter.com/ManuelaPichler_) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
@@ -69,7 +69,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 
 ### Microsoft 365 Community Channel
 
-* [Introduction to Records Management APIs on Microsoft Graph](https://www.youtube.com/watch?v=YpQVlpzvJw4) by Samriddhi Seth (Microsoft) and Cameron Parker (Microsoft) 
+* [Introduction to Records Management APIs on Microsoft Graph](https://www.youtube.com/watch?v=YpQVlpzvJw4) by Samriddhi Seth (Microsoft) and Cameron Parker (Microsoft)
 * [Building Windows 11 Widgets with Adaptive Cards](https://www.youtube.com/watch?v=7ZB_3TeC-_s) by [J.P.Roca](http://twitter.com/jpthepm) (Microsoft) | @JPthePM
 * [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
@@ -108,7 +108,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -117,13 +117,13 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
 * [M365 Change Management Forum](https://www.communitydays.org/event/2022-11-07/m365-change-management-forum#Home) - November 7, Online
-* [DYNUG Autum Conference](https://dynug.no/arrangementer/dynug-hostkonferanse-2/) - November 8-9, Oslo, Norway
-* [Tech Summit Nigeria 2022](https://www.techsummitnigeria.com/) - November 9-10, Lgos, Nigeria
+* DYNUG Autum Conference - November 8-9, Oslo, Norway
+* Tech Summit Nigeria 2022 - November 9-10, Lagos, Nigeria
 * [M365 Chicago](https://m365chicago.com/) - November 11-12, Online
 * [Viva Explorers Community Day - UK](https://www.vivaexplorers.com/) - November 12, Manchester, United Kingdom
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/de-en/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
+* aMS Germany Microsoft Community Event 2022 - November 11-15, Aachen, Germany
 * [Global AI Developer Days - Toronto](https://globalai.community/) - November 16-17, Toronto, Canada
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
+* M365 Saturday Coimbatore 2022 - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 

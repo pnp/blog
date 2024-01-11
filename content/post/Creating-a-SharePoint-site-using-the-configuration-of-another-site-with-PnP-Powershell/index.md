@@ -25,7 +25,7 @@ To find all of the PnP Powershell Cmdlets, you can check out the PnP PS site [he
 
 ## Which Cmdlets can we use to copy our site configuration?
 
-So, to create a copy of a site using its template or configuration, but without its content such as list items, we can use a couple of template related Cmdlets. 
+So, to create a copy of a site using its template or configuration, but without its content such as list items, we can use a couple of template related Cmdlets.
 In order to get the template of our existing and pre-configured site, we can use the 'Get-PnpSiteTemplate', and to copy this to another created site, we can use the 'Invoke-PnpSiteTemplate' cmdlet.
 
 ## Running the script
@@ -85,7 +85,7 @@ So, let's now revisit a use case as to why we might want to take advantage of th
 
 ## Further ALM Background
 
-Not overly sure on what Application Lifecycle Management is yet? Don't worry, I've got you covered! You can check out [these blog posts](https://www.lowcodelewis.com/blog/category/ALM) on my site, [Low Code Lewis](https://www.lowcodelewis.com/), where I give you a bit of guidance to getting started with Application Lifecycle Management and Power Platform.
+Not overly sure on what Application Lifecycle Management is yet? Don't worry, I've got you covered! You can check out these blog postson my site, [Low Code Lewis](https://www.lowcodelewis.com/), where I give you a bit of guidance to getting started with Application Lifecycle Management and Power Platform.
 
 * [A simple start to Application Lifecycle Management with Power Platform](https://www.lowcodelewis.com/blog/a-simple-start-to-application-lifecycle-management-with-power-platform)
 * [Environment Variables](https://www.lowcodelewis.com/blog/environment-variables)

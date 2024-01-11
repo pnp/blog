@@ -19,9 +19,9 @@ The intent of this article is to teach you what you need to know to use JSON in 
 
 Working with JSON in the [Adaptive Card Designer](https://adaptivecards.io/designer/ "Adaptive Card Designer")
 
-## What is JSON? 
+## What is JSON?
 
-JSON is a [standard format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf) for representing structured data as text. JSON is commonly used to store data in text files and to exchange data between programs over a network. JSON files usually have a `.json` filename extension.
+JSON is a standard format for representing structured data as text. JSON is commonly used to store data in text files and to exchange data between programs over a network. JSON files usually have a `.json` filename extension.
 
 > Geek Note: JSON serves more or less the same purpose as XML
 > (eXtensible Markup Language) but it's shorter and easier to read. CSV
@@ -89,7 +89,7 @@ These are all name/value pairs, but there are several kinds of values; the next 
 > turning JSON back into data objects is called "parsing" or sometimes
 > "deserialization".
 
-## Strings (Text) 
+## Strings (Text)
 
 Strings are just text that's part of the data, such as `"Parker"` or `"rodentia"`, and they need to be enclosed in double quotes. That seems simple enough, but what if your string has a double quote in it? `"Parker says "Sharing is caring""` is not a valid JSON value because the parser thinks the `"` before `Sharing` is the end of the string, and then it gets really confused. (Computers are really stupid, aren't they?) So to put a `"` within a string, you need to \"escape\" it by preceding it with a `\`. For example:
 
@@ -109,7 +109,7 @@ As you might expect, this escaping thing is a bit of a slippery slope, as the pa
 }
 ```
 
-While `"` and `\` are the only characters you *need* to escape, [a number of others are available](https://developpaper.com/escape-and-unicode-encoding-in-json-serialization/). You can also insert special characters using Unicode (UTF-16) character codes using the format `\uXXXX`, but often it's easier to just type Unicode characters in your JSON.
+While `"` and `\` are the only characters you *need* to escape, a number of others are available. You can also insert special characters using Unicode (UTF-16) character codes using the format `\uXXXX`, but often it's easier to just type Unicode characters in your JSON.
 
 ```JSON
 {
@@ -139,7 +139,7 @@ Note that 75 is not the same as "75"; the quotes would indicate the characters 
 }
 ```
 
-## Boolean (True or False) 
+## Boolean (True or False)
 
 For boolean values, just use `true` and `false` with no quotes.
 ```JSON
@@ -247,13 +247,13 @@ Remember that spaces, tabs, and newlines are ignored, so this the same data coul
 > accept it.
 
 
-## Dates and other things 
+## Dates and other things
 
 Unfortunately, there is no standard way to express a date in JSON. In practice, dates are passed in string values, but different applications use different date formats, which can be a bit maddening at times. The Microsoft Graph API uses [ISO 8601 format](https://www.w3.org/TR/NOTE-datetime).
 
 Images and other binary objects are rarely included in JSON, but if you wanted to do that you'd need to turn them into strings somehow, perhaps by [Base64 encoding](https://en.wikipedia.org/wiki/Base64) them.
 
-## Null 
+## Null
 
 To indicate an empty value, use `null`. For example, Parker hasn't had his DNA sequenced, so there is no value for that in his profile.
 
@@ -266,7 +266,7 @@ To indicate an empty value, use `null`. For example, Parker hasn't had his DNA 
 
 Note that `[]`, an empty array, and `{}`, an empty object, are different than `null`. They're empty containers whereas `null` is really nothing at all.
 
-## Comments 
+## Comments
 
 If only JSON supported comments, we could write much more readable code! Officially there are no comments in JSON, but some products (like the SharePoint Framework) seem to encourage using JavaScript style comments in JSON. It seems harmless but it's not proper JSON, and most applications will choke on them. One trick that's usually OK is to just add a few extra name/value pairs in lieu of comments; most software will simply ignore the extra data. For example:
 
@@ -295,15 +295,15 @@ While it's not recommended, it is [legal](https://tools.ietf.org/html/rfc8259#s
 }
 ```
 
-## Tools 
+## Tools
 
 There are a lot of web sites out there that will format and validate your JSON; [this one](https://jsonformatter.org/) does both.
 
 {{< notice warning>}}
-Remember to remove any personal or confidential data before using online JSON tools! 
+Remember to remove any personal or confidential data before using online JSON tools!
 {{< /notice >}}
 
-## Schema support 
+## Schema support
 
 It's often helpful to impose some structure on your JSON, specifying which name/value pairs are required and what value types they should contain. That's the role of [JSON Schema](https://github.com/BobGerman/BlogArticles/blob/dev/Intro%20to%20JSON). This allows validating the JSON and offering features such as intellisense.
 
@@ -325,9 +325,9 @@ This would be expressed in JSON Schema as:
 ```JSON
 {
     "definitions": {},
-    "$schema": "http://json-schema.org/draft-07/schema#", 
-    "$id": "https://example.com/object1607485037.json", 
-    "title": "Root", 
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://example.com/object1607485037.json",
+    "title": "Root",
     "type": "object",
     "required": [
         "name",
@@ -335,8 +335,8 @@ This would be expressed in JSON Schema as:
     ],
     "properties": {
         "name": {
-            "$id": "#root/name", 
-            "title": "Name", 
+            "$id": "#root/name",
+            "title": "Name",
             "type": "string",
             "default": "",
             "examples": [
@@ -345,13 +345,13 @@ This would be expressed in JSON Schema as:
             "pattern": "^.*$"
         },
         "nicknames": {
-            "$id": "#root/nicknames", 
-            "title": "Nicknames", 
+            "$id": "#root/nicknames",
+            "title": "Nicknames",
             "type": "array",
             "default": [],
             "items":{
-                "$id": "#root/nicknames/items", 
-                "title": "Items", 
+                "$id": "#root/nicknames/items",
+                "title": "Items",
                 "type": "string",
                 "default": "",
                 "examples": [
@@ -361,8 +361,8 @@ This would be expressed in JSON Schema as:
             }
         },
         "quills": {
-            "$id": "#root/quills", 
-            "title": "Quills", 
+            "$id": "#root/quills",
+            "title": "Quills",
             "type": "integer",
             "examples": [
                 30000
@@ -393,7 +393,7 @@ When a `$schema` property is present, Visual Studio and Visual Studio Code wil
 }
 ```
 
-## OData 
+## OData
 
 You may notice some name/value pairs in your JSON which look kind of odd and begin with `@odata`. For example, here's the beginning of the data returned by the Microsoft Graph call `https://graph.microsoft.com/v1.0/me/messages` (returns messages in the user's inbox):
 
@@ -412,7 +412,7 @@ You may notice some name/value pairs in your JSON which look kind of odd and beg
 
 [OData](https://www.odata.org/) is a standard for doing Create, Read, Update, and Delete (CRUD) operations on tabular data using a REST web service, and the Microsoft Graph uses it where appropriate. A folder of email messages is easily expressed as tabular data, so it's no surprise that the Graph uses OData to work with them. The name/value pairs beginning with `@odata.` are OData *control information* used to control the flow of data. For example the value of `@odata.nextLink` is the URL to retrive the next set of rows in a large dataset. You can find details on all the [OData Control Information here](http://docs.oasis-open.org/odata/odata-json-format/v4.0/cos01/odata-json-format-v4.0-cos01.html#_Toc372793050) in the OData documentation.
 
-## JSON and JavaScript 
+## JSON and JavaScript
 
 Although JSON stands for "JavaScript Object Notation", and was inspired by the format JavaScript uses for object literals, they are not the same. Indeed, JSON is intended to be language independent. Some major differences between JSON and JavaScript are:
 
@@ -472,9 +472,8 @@ if (response.ok) {
 
 Notice that to ask the service for a JSON response, the HTTP header is set to accept `application/json`, which is the MIME type for JSON. And the `response` object returned by `fetch()` has a `json()` function built right in to turn the returned JSON into a JavaScript object.
 
-## Conclusion 
+## Conclusion
 
 Learning to work with JSON is an important skill for both low-code and full stack developers, as well as for many IT Pro tasks. Here's hoping this article has helped you to understand and use JSON in your next project!
 
 (This article is cross-posted at [https://bob1german.com](https://bob1german.com/2021/01/11/introduction-to-json))
-

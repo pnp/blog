@@ -28,7 +28,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## View video segments
 
-* Demo - Update the ASP.NET server in Visual Studio [00:42](https://youtu.be/watch?v=zdyWBTxtjF4?t=42)
+* Demo - Update the ASP.NET server in Visual Studio [00:42](https://youtu.be/zdyWBTxtjF4)
 * Topic - Feedback request for Excel Add-in Auto install launch function [08:40] (https://www.youtube.com/watch?v=zdyWBTxtjF4&t=520s)
 * Community spotlight [12:04] (https://www.youtube.com/watch?v=zdyWBTxtjF4&t=724s)
 * Q&A [12:16](htthttps://www.youtube.com/watch?v=zdyWBTxtjF4&t=736s)

@@ -10,7 +10,7 @@ type: "regular"
 
 
 We will continue our journey with the most popular [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/aad/manage-group-users/)
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/entra/bulk-manage-group-users/)
 created  for the CLI for Microsoft 365. This time we will show you how
 to add and remove users to Microsoft Teams in bulk. The original script
 was created by our community member [Joseph
@@ -58,7 +58,7 @@ ForEach ($taskItem in $taskItems) {
     If ($action -eq "add") {
 
         If ($role -eq "owner") {
-            m365 aad o365group user add --groupId $group.id --userName $user.mail --role Owner; 
+            m365 aad o365group user add --groupId $group.id --userName $user.mail --role Owner;
             Write-Host $user.mail " added as owner in " $group.mailNickname
         }
         ElseIf ($role -eq "member") {
@@ -81,10 +81,10 @@ ForEach ($taskItem in $taskItems) {
 
 You can find this and many more samples on how to use the CLI for
 Microsoft 365 in our [official samples
-section.](https://pnp.github.io/cli-microsoft365/sample-scripts/)
+section.](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction)
 
 
-## What is the CLI for Microsoft 365? 
+## What is the CLI for Microsoft 365?
 
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) is a
 cross-platform CLI that allows you to manage various configuration
@@ -100,7 +100,7 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
-### Try it today 
+### Try it today
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:

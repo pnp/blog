@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 13th of June, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 13th of June, 2023"
 summary: "Demos: Exposing Microsoft Teams apps in Microsoft Viva with SPFx cards, Introduction to Power Automate Copilot, and How Microsoft Syntex Repository Services powers Microsoft Loop. Delivered 4 articles, 3 conversations in last 7 days!"
 date: 2023-06-13T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### Latest updates
 
@@ -78,9 +78,9 @@ Thank you for participating in the handwaving portion of the show today. Great t
 * Event - [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| aka.ms/hack-together-teams
 * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
 * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-    * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-    * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-    * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+    * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+    * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+    * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
 * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * Request a Demo spot on the call \| <https://aka.ms/community/request/demo>

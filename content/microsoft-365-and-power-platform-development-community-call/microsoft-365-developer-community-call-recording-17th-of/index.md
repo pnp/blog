@@ -148,7 +148,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D2**:  Demo - [Adaptive Cards and the Power Platform to solve captchas](https://www.youtube.com/watch?v=7xIIjrHoqq0) 
 *   **D3**:  Documentation - [externalConnection resource type](https://docs.microsoft.com/graph/api/resources/externalconnectors-externalconnection?view=graph-rest-1.0) 
 *   **D3**:  Repo – [Create Schema example](https://github.com/kevmcdonk/S4MSC-Twitter/blob/main/schema.json) 
-*   **D3**:  Article - [Creating a custom Microsoft Search connector with Logic Apps](https://www.mcd79.com/2020/09/30/creating-custom-microsoft-search-connector-with-logicapps) 
+*   **D3**:  Article - Creating a custom Microsoft Search connector with Logic Apps
 *   **D3**:  Templates - [Search Layout designer](https://searchlayoutdesigner.azurewebsites.net/chooseLayout) 
 *   **D3**:  Samples - [MSSearch-Samples](https://github.com/kevmcdonk/MSSearch-Samples) 
 *   **D3**:  Samples - [Samples for Microsoft Search Connectors – Twitter](https://github.com/kevmcdonk/S4MSC-Twitter) 

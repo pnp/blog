@@ -16,8 +16,8 @@ list](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-batch-ad
 and reading about the post [fastest way to create SharePoint List
 Items](https://blog.mastykarz.nl/fastest-way-create-sharepoint-list-items/) by
 Waldek Mastykarz, I decided to try using Microsoft Graph batch in
-PowerShell. I found the article [Calling the Microsoft Graph with PnP
-PowerShell](https://www.pkbullock.com/blog/2020/calling-the-microsoft-graph-with-pnp-powershell/)
+PowerShell. I found the article Calling the Microsoft Graph with PnP
+PowerShell
 by Paul Bullock useful to get started. Using PnP Batch with retry
 mechanisms still took up to 4 hours to create 300k items and up to 8
 hours to delete 300 k items. I thought [Microsoft
@@ -55,12 +55,12 @@ Microsoft Graph batch script
 ```powershell
 $action = Read-Host "Enter the action you want to perform, e.g. Add or Delete"
 $siteUrl = "https://contoso.sharepoint.com/sites/Team1"
-$listName = "TestDemo" 
+$listName = "TestDemo"
 $clientId = "00000000-0000-0000-0000-000000000000"
 $thumbprint =  "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 #connect with application permissions
 Connect-PnPOnline -ClientId $clientId  -Thumbprint $thumbprint -Tenant "contoso.onmicrosoft.com" -Url $siteUrl
-write-host $("Start time " + (Get-Date)) 
+write-host $("Start time " + (Get-Date))
 $startTime = Get-Date
 #site and list details
 $siteID = (Get-PnPSite -Includes Id).Id
@@ -72,13 +72,13 @@ $batchSize = 20
 $token = Get-PnPGraphAccessToken
 
 $Stoploop = $false
-$Retrycount = 0 
+$Retrycount = 0
 $requests = @()
 $header = @{ "Content-Type" = "application/json" }
 do {
 try {
 if($action -eq "Add")
-{   
+{
    $lst = Get-PnPList -Identity $listName
     if($lst.ItemCount -lt $Total)
     {
@@ -92,10 +92,10 @@ if($action -eq "Add")
               url     = "/sites/$siteID/lists/$listID/items/"
               body = @{ fields = @{ Title = "Test $i" } }
               headers = $header
-            } 
+            }
             $requests += $request
        if($requests.count -eq $batchSize -or $requests.count -eq $itemsCountToCreate)
-       { 
+       {
          $batchRequests = @{
          requests = $requests
         }
@@ -104,7 +104,7 @@ if($action -eq "Add")
         #send batch request
         $response = Invoke-WebRequest -Method Post -Uri 'https://graph.microsoft.com/v1.0/$batch' -Headers @{Authorization = "Bearer $($token)" } -ContentType "application/json" -Body $batchBody -ErrorAction Stop
         $StatusCode = $Response.StatusCode
-       # This will only execute if the Invoke-WebRequest is successful.  
+       # This will only execute if the Invoke-WebRequest is successful.
          #write-host $("$StatusCode response for adding 20")
          #reset batch item counter and requests array
          $requests = @()
@@ -113,36 +113,36 @@ if($action -eq "Add")
         }
        }
     $lst = Get-PnPList -Identity $listName
-    $Stoploop = $true   
+    $Stoploop = $true
 }
 
 if($action -eq "Delete")
 {
    $requests = @()
-   $listItems= Get-PnPListItem -List $listName -Fields "ID" -PageSize 1000  
+   $listItems= Get-PnPListItem -List $listName -Fields "ID" -PageSize 1000
    $itemCount = $listItems.Count
    for($i=$itemCount-1;$i -ge 0;$i--)
     {
-          $itemId = $listItems[$i].Id 
+          $itemId = $listItems[$i].Id
             $request = @{
               id      = $i
               method  = "DELETE"
               url     = "/sites/$siteID/lists/$listID/items/$itemId"
               headers = $header
-              }          
-            $requests += $request 
+              }
+            $requests += $request
        if($requests.count -eq $batchSize -or $requests.count -eq $itemCount)
-       { 
+       {
           $batchRequests = @{
           requests = $requests
        }
-         
+
         #IMPORTANT: use -Deph parameter
         $batchBody = $batchRequests | ConvertTo-Json -Depth 4
         #send batch request
         $response = Invoke-WebRequest -Method Post -Uri 'https://graph.microsoft.com/v1.0/$batch' -Headers @{Authorization = "Bearer $($token)" } -ContentType "application/json" -Body $batchBody
          #$StatusCode = $Response.StatusCode
-       
+
          #write-host $("$StatusCode response for deleting 20")
          #reset batch item counter and requests array
          $requests = @()
@@ -159,7 +159,7 @@ catch {
 }
 else {
   Write-Host "Could not send Information retrying in 30 seconds..."
-  write-host $("Time error happened " + (Get-Date)) 
+  write-host $("Time error happened " + (Get-Date))
   Write-host $("$_.Exception.Message") -ForegroundColor Red
   Start-Sleep -Seconds 30
    Connect-PnPOnline -ClientId $clientId -Thumbprint $thumbprint -Tenant "contoso.onmicrosoft.com" -Url $siteUrl
@@ -168,7 +168,7 @@ else {
   }
  }
 }
-While ($Stoploop -eq $false) 
+While ($Stoploop -eq $false)
 $endTime = Get-Date
 $totalTime = $endTime - $startTime
 write-host "Total script run time: $($totalTime.Hours) hours, $($totalTime.Minutes) minutes, $($totalTime.Seconds) seconds" -ForegroundColor Cyan
@@ -182,7 +182,7 @@ PnP batch script
 ```powershell
 $action = Read-Host "Enter the action you want to perform, e.g. Add or Delete"
 $siteUrl = "https://contoso.sharepoint.com/sites/Team1"
-$listName = "TestDemo" 
+$listName = "TestDemo"
 $ErrorActionPreference="Stop"
 Connect-PnPOnline –Url $siteUrl -interactive
 $Total =  30000
@@ -196,19 +196,19 @@ do {
 try {
 
 if($action -eq "Add")
-{   
-  $lst = Get-PnPList -Identity $listName  
+{
+  $lst = Get-PnPList -Identity $listName
     if($lst.ItemCount -lt $Total)
     {
        $startInc = $lst.ItemCount
        while($lst.ItemCount -lt $Total)
-       {    
+       {
         $batch = New-PnPBatch
-        #perform in increment of 1000 until 300k is reached 
+        #perform in increment of 1000 until 300k is reached
         if($startInc+1000 -gt $Total)
         {
          $endNu = $Total
-        } 
+        }
         else
         {
          $endNu = $startInc+1000
@@ -225,13 +225,13 @@ if($action -eq "Add")
 
 if($action -eq "Delete")
 {
- $listItems= Get-PnPListItem -List $listName -Fields "ID" -PageSize 1000  
+ $listItems= Get-PnPListItem -List $listName -Fields "ID" -PageSize 1000
  $itemIds = $lisItems | Foreach {$_.Id}
  $itemCount = $listItems.Count
  while($itemCount -gt 0)
  {
     $batch = New-PnPBatch
-    #delete in batches of 1000, if itemcount is less than 1000 , all will be deleted 
+    #delete in batches of 1000, if itemcount is less than 1000 , all will be deleted
     if($itemCount -lt 1000)
     {
      $noDeletions = 0
@@ -243,7 +243,7 @@ if($action -eq "Delete")
 
     for($i=$itemCount-1;$i -ge $noDeletions;$i--)
     {
-        Remove-PnPListItem -List $listName -Identity $listItems[$i].Id -Batch $batch 
+        Remove-PnPListItem -List $listName -Identity $listItems[$i].Id -Batch $batch
     }
     Invoke-PnPBatch -Batch $batch
     $itemCount = $itemCount-1000
@@ -272,7 +272,7 @@ write-host $("End time " + (Get-Date))
 
 $endTime = Get-Date
 $totalTime = $endTime - $startTime
- 
+
 write-host "Total script run time: $($totalTime.Hours) hours, $($totalTime.Minutes) minutes, $($totalTime.Seconds) seconds" -ForegroundColor Cyan
 ```
  

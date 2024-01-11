@@ -37,7 +37,7 @@ the most noteworthy additions.
 
 
  
-## Changes 
+## Changes
 
 
 We've continued improving the CLI, building upon the changes we've
@@ -164,7 +164,7 @@ SharePoint Framework, execute:
 m365 spfx doctor
 ```
 
-## New Commands 
+## New Commands
  
 **Remove role from Azure AD application**
 In the previous CLI release we added a command that enabled to you
@@ -272,7 +272,7 @@ part contents from a local file, allow the web part to be deployed to
 all sites and expose the web part in Teams as a personal tab, execute:
     m365 spfx package generate --webPartTitle "Amsterdam weather" --webPartDescription "Shows weather in Amsterdam" --packageName amsterdam-weather --html @amsterdam-weather.html --allowTenantWideDeployment --enableForTeams all
 
-## New script samples 
+## New script samples
  
 
 
@@ -282,7 +282,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
  
 
@@ -346,7 +346,7 @@ This
 [script](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/remove-pending-api-permission-requests/)
 helps you to quickly remove pending SharePoint API permission requests.
 
-## Contributors 
+## Contributors
 
 
 This release wouldn't be possible without the help of (in alphabetical
@@ -372,13 +372,13 @@ order)
 Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
 
-## Work in progress 
+## Work in progress
  
 
 Here are some things that we're currently working on.
 
  
-### More commands, what else 
+### More commands, what else
  
 
 
@@ -395,7 +395,7 @@ different workloads in Microsoft 365.
 
  
 
-### Updating Azure AD apps 
+### Updating Azure AD apps
  
 
 
@@ -412,7 +412,7 @@ registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
 
-### Script examples 
+### Script examples
  
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
@@ -429,7 +429,7 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### 'ensure' commands 
+### 'ensure' commands
 
 Recently, we shipped our first ensure command - an [easy way to help you
 that a site with specific settings
@@ -440,7 +440,7 @@ you how you like it and if it's something you'd like us to implement
 for other commands as well.
 
  
-## Try it today 
+## Try it today
  
 
 

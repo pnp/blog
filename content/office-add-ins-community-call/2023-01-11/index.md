@@ -96,7 +96,7 @@ This is a known bug. You can [see the issue on GitHub](https://github.com/Office
 Deployment of an SSO add-in may not work with PowerShell under certain conditions.The add-in may require admin consent, which means a UI needs to pop up from Microsoft identity platform to do the consent. Looks like this isn’t possible in PowerShell according to this post: [How to grant admin consent to an Azure AAD app in Powershell?](https://stackoverflow.com/questions/63529599/how-to-grant-admin-consent-to-an-azure-aad-app-in-powershell), but there is a workaround shown to use the Azure CLI.
 
 **Is anyone aware of the Excel Range Top and Left attribute errors?**
-So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=). You can also follow [this topic](https://answers.microsoft.com/msoffice/forum/all/vba-in-excel-using-rangetop-rangeleft-to-get-cell/72f2276f-9d96-43c3-8e7b-c09e99a3988d) on Microsoft Community Answers forum.
+So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
 
 ## Resources related to to this blog's content
@@ -104,7 +104,7 @@ So that we could help you further, please [open an issue on GitHub](https://gith
 * **Deploy Office Add-in that uses SSO to Azure App Service**
     * [Documentation – Deploy a single sign-on (SSO) Office Add-in to Microsoft Azure App Service](https://learn.microsoft.com/office/dev/add-ins/publish/deploy-office-add-in-sso-to-azure)
     * [Article - Single Sign-on service for Office Add-ins rolls out in Office on the web](https://devblogs.microsoft.com/microsoft365dev/new-single-sign-on-service-for-office-add-ins-rolling-out-in-office-on-the-web/)
-    * [Documentation - Enable single sign-on (SSO) in an Office Add-in](https://learn.microsoft.coms/office/dev/add-ins/develop/sso-in-office-add-ins)
+    * [Documentation - Enable single sign-on (SSO) in an Office Add-in](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins)
     * [Documentation - Publish an (static) add-in developed with Visual Studio Code](https://learn.microsoft.com/office/dev/add-ins/publish/publish-add-in-vs-code)
     * [Documentation - Create Office Add-in projects using the Yeoman Generator](https://learn.microsoft.com/office/dev/add-ins/develop/yeoman-generator-overview)
   **Feedback for WXP (Word, Excel or PowerPoint) add-ins**

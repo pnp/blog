@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=hUjQzg1CGAg
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot 
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot
 
 ## Topics discussed in this session
 
@@ -54,10 +54,10 @@ This session was recorded on Monday, January 9, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube hUjQzg1CGAg >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-7qdvh-136174a >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-7qdvh-136174a >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -67,8 +67,8 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [What is SPFx? – An extensibility model for Microsoft 365](https://pnp.github.io/blog/post/01-what-is-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
 * [Getting started with SPFx – Building your first extensibility for Microsoft 365](https://pnp.github.io/blog/post/spfx-02-getting-started-with-spfx/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
 * [Getting started with SPFx extensions for SharePoint Online](https://pnp.github.io/blog/post/spfx-03-getting-started-with-spfx-extensions-for-spo/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
-* [Using Microsoft Graph with SPFx solutions](https://pnp.github.io/blog/post/spfx-04-using-microsoft-graph-in-spfx-solutions/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen 
-* [What does tenant or site scoped deployment mean for SPFx solutions?](https://pnp.github.io/blog/post/spfx-05-tenant-or-site-scoped-spfx-solutions/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen 
+* [Using Microsoft Graph with SPFx solutions](https://pnp.github.io/blog/post/spfx-04-using-microsoft-graph-in-spfx-solutions/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
+* [What does tenant or site scoped deployment mean for SPFx solutions?](https://pnp.github.io/blog/post/spfx-05-tenant-or-site-scoped-spfx-solutions/) - [Vesa Juvonen](ttps://twitter.com/VesaJuvonen) (Microsoft) | @VesaJuvonen
 * [Awesome new community badges for 2023](https://twitter.com/DavidWarnerII/status/1611437743124672513?cxt=HHwWgsDTid6F_dwsAAAA) - [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [Request-a-team App Template](https://github.com/OfficeDev/microsoft-teams-apps-requestateam) - [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex
 
@@ -86,7 +86,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [[SPFx] Form Customizer Boilerplate](https://michaelmaillot.github.io/tips/20221223-spfx-form-boilerplate/) - [Michaël Maillot](https://twitter.com/michael_maillot) (onepoint) | @michael_maillot
 * [Microsoft Graph API and the Power Platform](https://sharepains.com/2023/01/03/microsoft-graph-api-the-power-platform/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Building a Microsoft Teams app: Posting a message to Teams on behalf of the current user](https://www.vrdmn.com/2022/12/building-microsoft-teams-app-posting.html) - [Vardhaman Deshpande](https://twitter.com/vrdmn) | @vrdmn
-* [VALL-E: Microsoft’s new zero-shot text-to-speech model can duplicate everyone’s voice in three seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/) - [Damir Yalalov](https://twitter.com/DanYal95244926) | @DanYal95244926 
+* [VALL-E: Microsoft’s new zero-shot text-to-speech model can duplicate everyone’s voice in three seconds](https://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/) - [Damir Yalalov](https://twitter.com/DanYal95244926) | @DanYal95244926
 * [Episode #233 - Hosting SPFx 1.16 Web Parts in Office and Outlook](https://www.youtube.com/watch?v=EDubNXWZhb4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Desk Reservation Power Apps Template: Make Reservations Easier!](https://www.youtube.com/watch?v=n8fJXTMPYsg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [😲 7 great things you missed for Power Apps this year! 🥳 A 2022 Recap](https://www.youtube.com/watch?v=mXX6dTKWra8) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
@@ -99,7 +99,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA
@@ -119,4 +119,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

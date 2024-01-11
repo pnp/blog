@@ -16,7 +16,6 @@ lastmod: 2022-12-27T11:19:15.961Z
 preview: /content/post/add-multiple-users-to-a-sharepoint-group-using-single-api-call/images/thumbnail.jpg
 description: In this article you will learn how to add multiple users to a SharePoint group
   using just single API call.
-canonicalURL: https://arjunumenon.com/add-multiple-users-sharepoint-group-single-api-call/
 ---
 
 Adding a user to a SharePoint group from custom solutions via REST API
@@ -126,4 +125,3 @@ automation or provisioning solution which has this scenario, it is going
 to be super helpful.
 
 Photo by [Alex Suprun](https://unsplash.com/@sooprun) on Unsplash
-

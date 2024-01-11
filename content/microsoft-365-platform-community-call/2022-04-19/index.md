@@ -134,7 +134,7 @@ Demos.
 * **Latest on Microsoft Graph Data Connect datasets**
 * General
     * Documentation – [Graph Data Connect
-        Policies](https://docs.microsoft.com/graph/data-connect-policies#billing-for-microsoft-graph-data-connect)
+        Policies](https://learn.microsoft.com/graph/data-connect-faq#how-is-billing-calculated)
     * Repo – [Graph Data Connect
         Solutions](https://github.com/microsoftgraph/dataconnect-solutions/tree/main/solutions)
     * Documentation - Quickstart: Use the Copy Data tool in the Azure Data

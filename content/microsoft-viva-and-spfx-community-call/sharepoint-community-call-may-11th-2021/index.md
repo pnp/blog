@@ -117,7 +117,7 @@ SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 Additional resources on covered topics and discussions.
 
 -   Web - [SharePoint
-    Syntex](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex-overview)
+    Syntex](https://www.microsoft.com/microsoft-syntex)
     | aka.ms/SharePointSyntex
 
 -   Blog -- [Syntex

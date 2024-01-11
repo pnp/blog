@@ -194,7 +194,7 @@ slides.
 -   Library - [Fluent UI - React
     Northstar](https://fluentsite.z22.web.core.windows.net/0.53.0)
 -   Templates & Components - [Teams React UI
-    Library](https://dev-int.teams.microsoft.com/storybook/main/index.html)
+    Library](https://learn.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-basic-ui-components)
 -   PnP Weekly -- Episode 120 with guest MVP [Paolo
     Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545)
@@ -295,6 +295,6 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
 *"Sharing is caring"*
 
-------------------------------------------------------------------------    
+------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 2nd of April 2021*

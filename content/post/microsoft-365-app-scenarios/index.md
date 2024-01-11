@@ -11,7 +11,7 @@ type: "regular"
 summary: "This post shall show various application development scenarios that can be used across different products inside Microsoft 365. The basis for this can either be SharePoint Framework (SPFx) or Teams application development."
 ---
 
-With [TeamsJS SDK 2.0](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?view=msteams-client-js-latest&tabs=javascript%2Cmanifest-teams-toolkit#whats-new-in-teamsjs-version-20&WT.mc_id=M365-MVP-5004617) and [Teams manifest 1.13 and above](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema&WT.mc_id=M365-MVP-5004617) it is possible to extend Microsoft Teams applications across Microsoft 365 so you can also use  those apps in Outlook or Office.
+With [TeamsJS SDK 2.0](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?view=msteams-client-js-latest&tabs=javascript%2Cmanifest-teams-toolkit#whats-new-in-teamsjs-version-20&WT.mc_id=M365-MVP-5004617) and [Teams manifest 1.13 and above](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema) it is possible to extend Microsoft Teams applications across Microsoft 365 so you can also use  those apps in Outlook or Office.
 
 As you can also use SharePoint Framework (SPFx) to create Microsoft Teams applications you can [now use SPFx with 1.16 onwards across Microsoft 365 as well](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview&WT.mc_id=M365-MVP-5004617).
 
@@ -60,7 +60,7 @@ Office can [reuse a personal tab as standalone app](https://learn.microsoft.com/
 
 ### Teams native App
 
-A teams native app is a web application including Teams JS SDK and can be built either by using [Yeoman Generator for Teams](https://pnp.github.io/generator-teams/) or the Teams Toolkit for Visual Studio (code). And not to forget the PowerPlatform. The teams manifest (with JSON based notation) declares the app as a Teams application and the Teams JS SDK gives you access to the Teams-specific context. For hosting you need a separate web application, for instance an Azure app service. 
+A teams native app is a web application including Teams JS SDK and can be built either by using [Yeoman Generator for Teams](https://pnp.github.io/generator-teams/) or the Teams Toolkit for Visual Studio (code). And not to forget the PowerPlatform. The teams manifest (with JSON based notation) declares the app as a Teams application and the Teams JS SDK gives you access to the Teams-specific context. For hosting you need a separate web application, for instance an Azure app service.
 
 ### SPFx
 

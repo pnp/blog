@@ -86,7 +86,6 @@ Thanks for joining the call today. Great to see everybody from all around the wo
 * **How to get output from a Teams Adaptive card with Power Automate**
     * Tool – [Adaptive Cards Designer](https://www.adaptivecards.io/designer)
     * Documentation - [Cards for Power Apps overview (preview)](https://learn.microsoft.com/power-apps/cards/overview)
-    * Blog - [Power Platform tips & tricks](http://nathalieleenders.com/Home/)
 * **Deep linking a Power App to replicate InfoPath**
     * Article - [Simply Explained – Power Apps Deep Linking](https://www.netwoven.com/2021/03/16/simply-explained-power-apps-deep-linking/)
     * Documentation - [Working with the SharePoint Send HTTP Request flow action in Power Automate](https://learn.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)

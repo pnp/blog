@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 30th of May, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 30th of May, 2023"
 summary: "Demos Introduction to Microsoft Syntex Repository Services, Introducing Microsoft Viva Connections for Education, and Latest on using SPFx on building extensibility for SharePoint. Delivered 8 articles and 2 conversations in the last 7 days!"
 date: 2023-05-30T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -42,9 +42,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * Shows and Events
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
     * Monday’s @ Microsoft – [Episode Two](https://www.linkedin.com/events/mondaysatmicrosoft-episodetwo7067186622743662593/about/) (Mon, June 5th , 8:00 am PT)
 * Conversations

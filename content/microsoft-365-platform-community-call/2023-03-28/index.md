@@ -27,7 +27,6 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
         * **Rajdeep Chanda, Harshit Kumar** and **Mahesh Singhania** – Latest on the Microsoft Graph Connectors
         * **To be announced** – Microsoft Graph Hackathon - Winner demo \#1
     * Article – [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work) - Colette Stallbaumer (Microsoft)
-    * Article – [New Microsoft Loop app is built for modern co-creation](https://www.hubsite365.com/crm-pages/new-microsoft-loop-app-is-built-for-modern-co-creation.htm) - Microsoft
     * Article – [Microsoft Business Applications Launch Event, April 4](https://msbizappslaunchevent.eventcore.com/home) - Microsoft
     * Article – [Announcing SharePoint Framework 1.17 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-release-candidate/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
     * Article – [Build custom communication experiences with Azure Communication Services UI Library for Microsoft Teams users](https://devblogs.microsoft.com/microsoft365dev/build-custom-communication-experiences-with-azure-communication-services-ui-library-for-microsoft-teams-users/) - [David de Matheu](https://twitter.com/ddematheu) (Microsoft) \| @ddematheu
@@ -49,9 +48,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 203 with by Germany-based Microsoft MVP, Developer, Consultant - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese (March 27th) \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-203/) \| [podcast](https://www.podbean.com/eas/pb-e56dm-13ca5ec)
@@ -115,8 +114,8 @@ As always, it's awesome to have you on the call.  Idyllic - seated in the virtua
     * Article – [Announcing SharePoint Framework 1.17 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-release-candidate/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * **Kiota SDK generator is now available - What you need to know!**
     * Repo – [Project Kiota](https://github.com/microsoft/kiota) \| aka.ms/kiota
-    * Documentation - [Welcome to Kiota](https://microsoft.github.io/kiota/) \| <https://microsoft.github.io/kiota/>
-    * Documentation - [Get started with Kiota](https://microsoft.github.io/kiota/get-started/) \| aka.ms/get/kiota
+    * Documentation - [Welcome to Kiota](https://learn.microsoft.com/openapi/kiota/) \| <https://learn.microsoft.com/openapi/kiota/>
+    * Documentation - [Get started with Kiota](https://learn.microsoft.com/openapi/kiota/) \| aka.ms/get/kiota
     * APIs – [APIs.guru](https://apis.guru/) \| <https://apis.guru/>
 * **Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code**
     * Training - [Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/paths/m365-teams-toolkit-vsc/) \| aka.ms/learn/teamstoolkit

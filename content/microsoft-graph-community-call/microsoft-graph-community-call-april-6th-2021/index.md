@@ -22,7 +22,7 @@ Microsoft Graph Toolkit.
 
 ## Topics
 
-## Microsoft Graph Java SDK version 3 
+## Microsoft Graph Java SDK version 3
 
 Maisa Rissi from the Microsoft Graph SDK team delivers an update on
 Microsoft Graph Java SDK version 3 -- new features including a
@@ -117,8 +117,7 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Documentation - [Electron
     Provider](https://docs.microsoft.com/graph/toolkit/providers/electron) 
 
--   Electron applications using Microsoft Graph Toolkit -
-    [https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electro\...](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
+-   [Electron applications using Microsoft Graph Toolkit](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
 
 ## General Resources:
 

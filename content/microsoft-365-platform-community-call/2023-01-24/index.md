@@ -85,7 +85,7 @@ Thank you everyone for being in the Community. Awesome to have you here in the c
 
 * **Creating Viva Connections SPFx ACE with geo-location capabilities**
     * Learn Module - [Create Adaptive Card Extensions (ACE) for Microsoft Viva Connections](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/) \| aka.ms/viva/ace/learn
-    * Learn Exercise - [Exercise - Create an SPFx ACE with geo-location capabilities](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/7-exercise-ace-geo-location-actions.)
+    * Learn Exercise - [Exercise - Create an SPFx ACE with geo-location capabilities](https://learn.microsoft.com/training/modules/sharepoint-spfx-adaptive-card-extension-card-types/7-exercise-ace-geo-location-actions)
     * Demo (\#1 in this series) - [Introduction to Microsoft Viva ACE development learn module - Getting started](https://youtu.be/vCFnqq690p8?t=2200) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen & [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) \| @andrewconnell
     * Demo (\#2 in this series) - [Create an SPFx Image Card ACE displaying image carousel - ACE learning module](https://youtu.be/_Y1brrudYxE?t=1871) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen & [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) \| @andrewconnell
 

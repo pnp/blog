@@ -5,7 +5,7 @@ author: "Waldek Mastykarz"
 githubname: waldekmastykarz
 categories: ["CLI for Microsoft 365"]
 images:
-- images/banner-cli-m365.png 
+- images/banner-cli-m365.png
 tags: ["CLI for Microsoft 365","SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
@@ -108,7 +108,7 @@ For more information about working with Planner see our [documentation](https://
 
 ### New script samples
 
-CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
 > If you have any scripts that you use frequently, please [share them with us](https://github.com/pnp/cli-microsoft365/issues) so that we can learn more about your common automation scenarios.
 

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 23rd of May, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 23rd of May, 2023"
 summary: "Demos: Updates to the Microsoft Graph beta API for SharePoint Pages, Multi-geo support for site discovery with Microsoft Graph, and Reach millions of mobile users by extending your Teams app to Microsoft 365 (Office) app on Android and iOS.  Four new conversations."
 date: 2023-05-23T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -32,9 +32,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * Shows and Events
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 211 (May 22nd) with Belgium-based consultant - [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-211/) \| [podcast](https://www.podbean.com/eas/pb-2uy4b-141643c)

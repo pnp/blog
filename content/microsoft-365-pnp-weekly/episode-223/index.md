@@ -52,14 +52,14 @@ This session was recorded on Monday 23rd of October. Session was published on Tu
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-f579n-14db5e6 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
 * [Proactively monitoring a user’s meeting quality in Microsoft Teams admin center](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/proactively-monitoring-a-user-s-meeting-quality-in-microsoft/ba-p/3954281) - Vaibhav Nitin Patil (Microsoft)
 * [Fall 2023 update: Introducing new icons, shapes, and templates in Microsoft Visio for the web](https://techcommunity.microsoft.com/t5/microsoft-365-blog/fall-2023-update-introducing-new-icons-shapes-and-templates-in/ba-p/3950773) - Meet Sanghvi (Microsoft)
 * [What’s New in Microsoft Viva | October 2023](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/what-s-new-in-microsoft-viva-october-2023/ba-p/3949788) - [Michael Holste](https://twitter.com/Mike_Holste) (Microsoft) | @Mike_Holste
-* [Introducing Microsoft Viva Amplify—now available worldwide!](https://techcommunity.microsoft.com/t5/viva-amplify-blog/introducing-microsoft-viva-amplify-now-available-worldwide/ba-p/3949636) - 
+* [Introducing Microsoft Viva Amplify—now available worldwide!](https://techcommunity.microsoft.com/t5/viva-amplify-blog/introducing-microsoft-viva-amplify-now-available-worldwide/ba-p/3949636) -
 [Naomi Moneypenny](https://twitter.com/nmoneypenny) (Microsoft) | @nmoneypenny
 * [Introducing AI-powered Skills in Microsoft Viva: A new way to understand and empower the workforce](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/introducing-ai-powered-skills-in-microsoft-viva-a-new-way-to/ba-p/3947844) - John Mighell (Microsoft)
 * [OData property changes to Microsoft Graph callRecords change notifications](https://devblogs.microsoft.com/microsoft365dev/odata-property-changes-to-microsoft-graph-callrecords-change-notifications/) - Matthew McGrath (Microsoft)
@@ -103,7 +103,7 @@ Check out all cool samples from community and from Microsoft. You can access all
 * [List and archives inactive Teams](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/teams-archive-inactive-teams/) - [Heinrich Krause](https://adoption.microsoft.com/sample-solution-gallery/HeinrichKrause) & [Nico De Cleyre](https://adoption.microsoft.com/en-us/sample-solution-gallery/nicodecleyre/) (Roboest aan de Leie)
 * [Add or Update User Photo](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/graph-update-user-photo/) - [Peter Paul Kirschner](https://adoption.microsoft.com/en-us/sample-solution-gallery/petkir/) (Cubido Business Solutions GmbH)
 * [Ingest Microsoft 365 and Power Platform community samples using JavaScript and Node.js](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-powershell-markdown/) - [Waldek Mastykarz](https://adoption.microsoft.com/en-us/sample-solution-gallery/waldekmastykarz/) (Microsoft) & [João Mendes](https://adoption.microsoft.com/en-us/sample-solution-gallery/joaojmendes/) (Silicon Reef)
-* [Get membership report of a site](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/spo-get-sites-membership-report/) - [Reshmee Auckloo](https://adoption.microsoft.com/en-us/sample-solution-gallery/reshmee011/) 
+* [Get membership report of a site](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/spo-get-sites-membership-report/) - [Reshmee Auckloo](https://adoption.microsoft.com/en-us/sample-solution-gallery/reshmee011/)
 * [Ingest local markdown content using PowerShell](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-powershell-markdown/) - [Waldek Mastykarz](https://adoption.microsoft.com/en-us/sample-solution-gallery/waldekmastykarz/) (Microsoft)
 * [Ingest local markdown content using Python](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-graph-connector-python-markdown/) - [Waldek Mastykarz](https://adoption.microsoft.com/en-us/sample-solution-gallery/waldekmastykarz/) (Microsoft) & [Anthony Shaw](https://adoption.microsoft.com/en-us/sample-solution-gallery/tonybaloney/) (Microsoft)
 * [Status Message Adaptive Card Extension](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-fx-aces-status-message/) - [Aimery Thomas](https://adoption.microsoft.com/en-us/sample-solution-gallery/a1mery/) (Avanade)
@@ -124,7 +124,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Twin Cities](https://www.communitydays.org/event/2023-11-11/m365-twin-cities) - November 11-12, 2023 - Brooklyn Partk, MN, USA
 * [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/home) - November 14-17, 2023 - Seattle, WA, USA
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 16, 2023 - Aachen, Germany
+* AMS Aachen - November 16, 2023 - Aachen, Germany
 * [Power Of The Cloud](https://www.communitydays.org/event/2023-11-17/power-of-the-cloud) - November 17-18, 2023 - Toronto, Canad
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
@@ -143,4 +143,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

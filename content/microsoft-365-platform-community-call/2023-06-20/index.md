@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 20th of June, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 20th of June, 2023"
 summary: "One demo - Introduction to Microsoft Graph Toolkit v3. Delivered 11 articles and 3 conversations in last 7 days!"
 date: 2023-06-20T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and one demo. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and one demo.
 
 ### Latest updates
 
@@ -76,8 +76,8 @@ It’s pixilated photo day today! Thank you for participating in the call and ha
     * **Paolo Pialorsi** - Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx
 * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
 * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-    * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-    * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+    * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+    * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
 * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * Request a Demo spot on the call \| <https://aka.ms/community/request/demo>
@@ -95,7 +95,7 @@ It’s pixilated photo day today! Thank you for participating in the call and ha
 ## Demo references
 
 * **Introduction to Microsoft Graph Toolkit v3**
-    * Tool - [Microsoft Graph Toolkit Playground – v3](https://mgt.dev/next/v3/?path=/story/overview--page)
+    * Tool - [Microsoft Graph Toolkit Playground – v3](https://mgt.dev)
     * Toolkit - aka.ms/mgt/ (click the Latest button under Releases in Right sidebar).
 
 ## General resources

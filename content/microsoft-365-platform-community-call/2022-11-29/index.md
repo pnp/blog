@@ -84,7 +84,7 @@ Great seeing all of you during the 12th minute hand waving stretch during today�
 ## Demo references
 
 * **Preview updates on Microsoft Graph toolkit v3.0**
-    * Tools - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://mgt.dev/next/pr/1964/?path=/story/overview--page)
+    * Tools - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://mgt.dev)
     * Repo - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) \| aka.ms/mgt
     * Documentation – [Microsoft Graph Toolkit overview](https://learn.microsoft.com/graph/toolkit/overview) \| aka.ms/mgt/docs
     * Samples – [Microsoft Graph Toolkit Samples & Tutorial Materials](https://github.com/pnp/mgt-samples) \| aka.ms/mgt/samples

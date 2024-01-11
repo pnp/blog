@@ -11,8 +11,6 @@ tags:
   - Microsoft Teams
   - Live Share SDK
 type: regular
-videos:
-- https://youtu.be/Mrulmp0Bciw
 draft: false
 ---
 
@@ -65,7 +63,7 @@ await FluidService.connect();
 const people = await FluidService.getPersonList();
 // ...
 
-// Register an event handler to update state 
+// Register an event handler to update state
 // when the Fluid data changes
 FluidService.onNewData((people) => {
   this.setState({
@@ -74,7 +72,7 @@ FluidService.onNewData((people) => {
     message: ""
   });
 });
- 
+
 ```
 
 It's notable that the array of people (the `people` state property) is only updated when changes are reflected in the Fluid service. For example if Alice adds her name it doesn't appear on the list until it's been added to the Fluid service and the change comes back from there, indicating that her name was shared with everyone.
@@ -107,7 +105,7 @@ interface IFluidService {
   // Remove a person from the list
   removePerson: (name: string) => Promise<void>;
   // Go to next person
-  nextPerson: () => Promise<void>; 
+  nextPerson: () => Promise<void>;
   // Shuffle the list of speakers
   shuffle: () => Promise<void>;
   // Get the current person list
@@ -135,7 +133,7 @@ To connect to the Fluid Framework, the code must
       });
 ~~~
 
-Notice that the `joinContainer()` function is passed a schema for our [distributed data structures](https://fluidframework.com/docs/build/dds/) in the form of a JavaScript object. In this case, we're using a [shared map](https://fluidframework.com/docs/data-structures/map/), which is a set of key-value pairs, and we're saving the array of names in JSON in one of the values. 
+Notice that the `joinContainer()` function is passed a schema for our [distributed data structures](https://fluidframework.com/docs/build/dds/) in the form of a JavaScript object. In this case, we're using a [shared map](https://fluidframework.com/docs/data-structures/map/), which is a set of key-value pairs, and we're saving the array of names in JSON in one of the values.
 
 This is a super-simple approach but of course there is a race condition, as one user's change might overwrite another's depending on the order they're processed in the Fluid Relay service. We considered using a [sequence](https://fluidframework.com/docs/data-structures/sequences/) but sequences only store immutable data, so for example there would be no way to shuffle the names or remove one from the middle. The mitigation strategy for this is to only show users the data after it's returned from the Fluid container; if an update is overwritten, we depend on the user to notice their change didn't work and try again.
 

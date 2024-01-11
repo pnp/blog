@@ -95,7 +95,7 @@ Thank you for joining today. Really cool to see your faces and hopefully we will
     * Demo \#1 – [Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams](https://youtu.be/xDXS9muZ0DI?t=718) – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin
 * **What's next for the Microsoft Graph Toolkit!**
     * Tools - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) \| aka.ms/mgt
-    * Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph – next-v3.0](https://mgt.dev/next/v3/?path=/story/overview--page)
+    * Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph – next-v3.0](https://mgt.dev/?path=/docs/overview--docs)
 
 ## General resources
 

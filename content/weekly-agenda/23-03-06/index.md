@@ -36,7 +36,7 @@ Demos this time
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Image generation WebPart using DALL-E API
 * [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre - Chat GPT from within SPFx
@@ -48,8 +48,8 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Consuming Search API in Viva Connections Adaptive Card Extension](https://www.youtube.com/watch?v=7_eI8Cy7hUE) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech 
-* [Build a "Who's Next" Teams Meeting app](https://www.youtube.com/watch?v=rHnd4g8uLTA) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | and [Bob German](https://twitter.com/Bob1German) (Microsoft) | 
+* [Consuming Search API in Viva Connections Adaptive Card Extension](https://www.youtube.com/watch?v=7_eI8Cy7hUE) by [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) | @mgwojciech
+* [Build a "Who's Next" Teams Meeting app](https://www.youtube.com/watch?v=rHnd4g8uLTA) by [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | and [Bob German](https://twitter.com/Bob1German) (Microsoft) |
 * [Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams](https://www.youtube.com/watch?v=TpEK4zkw6_0) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs and [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [How to achieve success in your Viva Topics adoption - Spring Series 2023](https://www.youtube.com/watch?v=SJP89gj0ggk) by [Naomi Moneypenny](https://twitter.com/@nmoneypenny) (Microsoft) | @nmoneypenny, Britt Boston (Microsoft), Maeneka Grewal (Microsoft)
 * [Power Pages Data workspace is now solution aware](https://www.youtube.com/watch?v=1VuacJkJL00) by Pranita Padalwar (Microsoft)
@@ -84,7 +84,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 * [Teams Toolkit for Visual Studio Code v5.0 pre-release ](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-v5-0-prerelease/) by Ji Dong (Microsoft)
 * [New Microsoft Graph Planner API capabilities now available](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-planner-api-capabilities-now-available-in-microsoft-graph/) by Andrew Friedman (Microsoft), Brijesh Bharadwaj (Microsoft), Tarkan Sevilmis (Microsoft)
-* [Microsoft Graph Developer Proxy v0.5 with execution summary and recording mode](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-5/) by  [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder 
+* [Microsoft Graph Developer Proxy v0.5 with execution summary and recording mode](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-developer-proxy-v0-5/) by  [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Introducing apps in Microsoft Teams channel meetings general availability](https://devblogs.microsoft.com/microsoft365dev/introducing-apps-in-microsoft-teams-channel-meetings-general-availability/) by Gino Buzzelli (Microsoft)
 * [Microsoft Graph To Do API will be available for GCC High and DoD ](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-to-do-api-will-be-available-for-gcc-high-and-dod/) by Ashok Obhan (Microsoft)
 * [New capabilities available in Microsoft Graph To Do APIs ](https://devblogs.microsoft.com/microsoft365dev/new-capabilities-available-in-microsoft-graph-to-do-apis/) by Swapna Ninan (Microsoft)
@@ -123,7 +123,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -134,7 +134,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 * [Global AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel

@@ -121,8 +121,8 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 
 Additional resources around the covered topics and links from the slides.
 
-*   **D1**:  Article - [How to call and show Graph API data in SPFx Adaptive Card Extensions (ACEs)](https://siddharthvaghasia.com/2022/01/02/how-to-call-and-show-graph-api-data-in-spfx-ace/) 
-*   **D1**:  Article - [Create your first Adaptive Card Extensions (ACEs) with SPFx](https://siddharthvaghasia.com/2021/12/29/create-your-first-adaptive-card-extension-with-spfx/) 
+*   **D1**:  Article - [How to call and show Graph API data in SPFx Adaptive Card Extensions (ACEs)](https://siddharthvaghasia.com/how-to-call-and-show-graph-api-data-in-spfx-ace/) 
+*   **D1**:  Article - [Create your first Adaptive Card Extensions (ACEs) with SPFx](https://siddharthvaghasia.com/create-your-first-adaptive-card-extension-with-spfx/) 
 *   **D1**:  Sample - [My Emails](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyEmails) 
 *   **D2**:  Repo – [Microsoft Graph Toolkit - v2.4.0](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases)
 *   **D2**:  Demo - [Using the Microsoft Graph Toolkit Get Component in your solutions](https://youtu.be/9w2L3-7sCDI?t=2432) – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert 

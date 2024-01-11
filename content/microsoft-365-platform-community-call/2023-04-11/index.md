@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 11th of April, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 11th of April, 2023"
 summary: "Demo from Microsoft Graph and .NET Hack Together on Using Microsoft Graph and Azure Form Recognizer for optimizing productivity, announced Microsoft Teams toolkit cloud skill challenge, plus 9 articles, 1 Microsoft Teams sample and 3 conversations."
 date: 2023-04-11T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and one demo. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and one demo.
 
 ### New this week
 
@@ -27,7 +27,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
         * **Srinivas Varukala** & **Rick Shire** – Building a Microsoft Teams Call queue scheduler solution for customers
         * **John Miller** – Introduction to Microsoft Teams Toolkit v5 - New features and capabilities
         * **To be announced** – Microsoft Graph Hackathon - Winner demo \#3
-* News    
+* News
     * Article – [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/) - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) \| @Rabeb_Othmani
     * Article – [License management capabilities for Independent Software Vendors’ (ISV) SaaS apps in Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/license-management-capabilities-for-independent-software-vendors-isv-saas-apps-in-microsoft-teams/) - [Chandrika Duggirala](https://www.linkedin.com/in/chandrika-duggirala-5657363/) (Microsoft)
     * Article – [Build a developer assist dashboard using Teams Toolkit for Visual Studio Code v5.0 pre-release](https://devblogs.microsoft.com/microsoft365dev/build-a-developer-assist-dashboard-using-teams-toolkit-for-visual-studio-code-v5-0-pre-release/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) \| @aycabs
@@ -45,9 +45,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 205 (April 10th) with by US-based Principal Power Platform Advocacy Team Lead at Microsoft - [April Dunnam](https://twitter.com/aprildunnam) \| @aprildunnam \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-205/) \| [podcast](https://www.podbean.com/eas/pb-fn7za-13dd530)
@@ -60,7 +60,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 
 ### Announcement
 
-* **Announcing Microsoft Teams toolkit cloud skills challenge** – do you want to learn how to build apps for Microsoft Teams? Introducing a challenge hosted by MVP [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese to help you achieve this very objective. 1. Register for the challenge, 2. work through the “Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code” Learning Path, and 3. become a contributor and have the chance to win a prize! 
+* **Announcing Microsoft Teams toolkit cloud skills challenge** – do you want to learn how to build apps for Microsoft Teams? Introducing a challenge hosted by MVP [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese to help you achieve this very objective. 1. Register for the challenge, 2. work through the “Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code” Learning Path, and 3. become a contributor and have the chance to win a prize!
 
 The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 

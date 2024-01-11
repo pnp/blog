@@ -22,7 +22,7 @@ type: regular
 draft: false
 ---
 
-Microsoft 365 & Power Platform Community April 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community April 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.
 
 Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the Microsoft 365 and Power Platform community. Time sequence for this summary is also longer than one month, but we will be aligning on the monthly updates again from this post forward.
 
@@ -85,7 +85,7 @@ All of the cool samples for Microsoft 365 and Power Platform are listed in the u
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 & Power Platform customers, partners and obviously also at Microsoft.
 
-Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know. 
+Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know.
 
 {{< notice note>}}
 In this blog post we callout contributors in the Microsoft 365 & Power Platform community areas in the open-source projects, samples, videos, community calls etc. There are also countless fo awesome community members who are sharing their knowledge on daily basis in their own channels, which is a great option to contribute for others. Thank you all for that. Sharing is caring!
@@ -97,10 +97,10 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * Abdul Wahab (Dynamics Technology Systems)
 * [Abhijeet Jadhav](https://twitter.com/jadhav_jeet) | @jadhav_jeet
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
+* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99
 * [Aimery Thomas](https://twitter.com/aimery_thomas)  (Avanade) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
-* [Alex MacLachlan](https://github/com/alex-mcla) | alex-mcla
+* [Alex MacLachlan](https://github.com/alex-mcla) | alex-mcla
 * [Aleksandr Sapozhkov](https://github.com/shurick81) (Rillion AB) | shurick81
 * [Aman Panjwani](https://twitter.com/aman_p17) | @aman_p17
 * [Anand Ragav](https://twitter.com/anandVragav) (Ericsson) | @anandVragav
@@ -158,7 +158,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
-* [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard 
+* [Matt Beard](https://twitter.com/mattybeard) (Data8) | @MattyBeard
 * [Matt Jimison](https://twitter.com/mjimison) (Takeda) |  @mjimison
 * [Matteo Serpi](https://github.com/srpmtt) (Avanade) | srpmtt
 * [Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
@@ -210,7 +210,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 
 ### Companies
 
-Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. 
+Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications.
 
 > If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
@@ -270,7 +270,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb
 * [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
 * [ddematheu2](https://github.com/ddematheu2) | ddematheu2
-* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
 * [Dewain Robinson](https://twitter.com/dewain76) (Microsoft) | @dewain76
@@ -306,7 +306,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Sam Ramon](https://github.com/samantharamon) (Microsoft) | samantharamon
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @svarukala
-* Stuart McCarthy (Microsoft) 
+* Stuart McCarthy (Microsoft)
 * [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen

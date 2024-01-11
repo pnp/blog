@@ -79,7 +79,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft events
 
-* [Activate your workforce to accelerate business impact](https://msvivasummit.eventcore.com/?ocid=cmmsrsdhi5a&culture=en-us&country=us) - 20th of April, 2023
+* Activate your workforce to accelerate business impact - 20th of April, 2023
 * [Microsoft 365 Conference](https://m365conf.com/) - May 2-4, 2023
 
 ## Community articles
