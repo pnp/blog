@@ -1,17 +1,17 @@
 ---
 title: Weekly Agenda - 8th of January 2024 week
-date: 2024-01-05T02:44:40.416Z
+date: 2024-01-11T13:24:49.939Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary2.png
+  - images/weeklysummary3.png
 tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -22,33 +22,52 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 9th of January
+### Microsoft 365 & Power Platform weekly call - 16th of January
 
-* Tuesday, 9th of January 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 16th of January 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder - Extending Copilot for Microsoft 365 with plugins
-* [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev - What's New in Microsoft Teams Toolkit?
-* [Kashif Qureshi](https://www.linkedin.com/in/kashq/) (Microsoft) and [Nick Simons](https://www.linkedin.com/in/nmsimons/) (Microsoft) - Build collaborative apps quickly on Microsoft 365 and SharePoint Embedded with Fluid Framework 2.0
+* [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler - Expanded Authentication Options for Sites.Selected permission and AppFolders
+* [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder - Extend Copilot for Microsoft 365 with plugins
+* Grant Archibald (Microsoft) - Introduction to Approvals Kit for Power Platform
 
 Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework Community Call - 11th of January
+### Power Platform monthly Community Call - 17th of January
 
-* Thursday, 11th of January, 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=Sxrnc7gSw4A&list=PLR9nK3mnD-OXdcwfcHGsGr78nHWLRsv1x)
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Wednesday, 17th of January, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+
+Demos: 
+
+* Fernando Calero (Alta Symposium) – Get efficient reclassifications using Dataverse for Teams and Power BI
+* Ryan Johnston - Tips and Tricks for Developing Elegant UI/UX in Canvas Apps
+* Heidi Jordan (Avanade) - Practical tips for Copilot Readiness
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+---
+
+### Microsoft 365 & Power Platform bi-weekly community Call - 18th of January
+
+* Thursday, 18th of January 7:00 AM PT / 2:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-* [Robin Meure](https://twitter.com/robinmeure) (Microsoft) | @robinmeure - Governor Sharing – how to build an SPFx webpart that shows oversharing
-* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen - PnP Search web parts
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Building Bot Powered ACE for Viva Connections with Microsoft Graph integration
+* Frank Cornu (Ubisoft) - PnP Modern Search - Core Components
+* Shrushti Shah (Rapid Circle) - Build custom connector in Power Platform to generate images from Azure OpenAI DALLE model
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -60,21 +79,23 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Deploying a custom Microsoft Graph connector](https://www.youtube.com/watch?v=S8mmI77APrs) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
-* [Colors, hover panels and file previews with the Microsoft Lists formatting](https://www.youtube.com/watch?v=xSGOGTbJ9T0) by  [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
-* [Using SharePoint as an Enterprise Data Source for a Private GPT Chatbot](https://www.youtube.com/watch?v=NZlw2HJAsEI) by [Denis Molodtsov](https://twitter.com/zerg00s) (TD) | @zerg00s
-* [Building a Search ACE for Viva Connections with SharePoint Framework 1.18](https://www.youtube.com/watch?v=Qgclfk65X2k) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Introduction to Viva Toolkit v2 – SPFx development made easy in VS Code](https://www.youtube.com/watch?v=zGNxoeK2M_o) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [Implementing SSO-enabled Microsoft Teams Message Extensions with Teams Toolkit](https://www.youtube.com/watch?v=TWJTKruTttk) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Build Microsoft Graph connected web sites for a custom enterprise search experience](https://www.youtube.com/watch?v=fUTNczMOo2w) by Franck Cornu (Ubisoft)
+* [Import an existing SharePoint Framework solution and continue development with Teams Toolkit](https://www.youtube.com/watch?v=1bQyZFRt9ls) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Microsoft 365 PnP Weekly – Episode 231 – Lindsay Shelton](https://www.youtube.com/watch?v=cqY3lfKMVok)
+* [Integrate your organizational data to Azure Open AI service with Microsoft Graph](https://www.youtube.com/watch?v=vuY70gcbAQo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Copilot in Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=K6a5LVLaaOg)
-
+* [Power Automate - Automate root cause analysis | Power Platform Shorts](https://www.youtube.com/watch?v=pA_Yb-FXTs4)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Doodle to Code: Use OpenAI Assistants API to build your own cooking advisor bot on Teams](https://www.youtube.com/watch?v=OL23O25jQGE) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs & [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @girlie_mac
-* [Build your custom copilot in 5 minutes on Teams](https://www.youtube.com/watch?v=A3_xnmIxv6c) by [Carter Gilliam](https://www.linkedin.com/in/r-carter-gilliam/) (TEKsystems)
+* [The ultimate solution for debugging your Teams bot without needing an account or admin permissions](https://www.youtube.com/watch?v=IiuAWrZYmoo)
+* [Extend Copilot for Microsoft 365 with custom skills and knowledge](https://www.youtube.com/watch?v=Ivl4XsorAn8)
+* [Fluid Framework 2.0 Beta - Build collaborative apps fast!](https://www.youtube.com/watch?v=uL2nMYk6WTQ)
 
 ---
 
@@ -82,16 +103,17 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Best practices for designing Word, Excel, and PowerPoint add-ins](https://devblogs.microsoft.com/microsoft365dev/best-practices-for-designing-word-excel-and-powerpoint-add-ins/) by Skylar Pan (Microsoft)
+* [Announcing Fluid Framework 2.0 Beta](https://devblogs.microsoft.com/microsoft365dev/announcing-fluid-framework-2-0-beta/) by Kashif Qureshi (Microsoft) and Nick Simons (Microsoft)
+* [Custom encryption with customer owned keys now generally available](https://devblogs.microsoft.com/microsoft365dev/custom-encryption-with-customer-owned-keys-now-generally-available/) by Richa Misra (Microsoft)
+* [Deprecation of entity-based contextual Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-entity-based-contextual-outlook-add-ins/) by Sam Ramon (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [SharePoint Embedded - overview and example scenarios](https://pnp.github.io/blog/post/sharepoint-embedded-overview/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [SharePoint Add-in model retirement + other services unpacked](https://pnp.github.io/blog/post/sharepoint-add-in-model-retirement-other-services-unpacked/) by [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Automatically generate Flow, Workflow and Business Rule Documentation](https://pnp.github.io/blog/post/automatically-generate-flow-workflow-business-rule-documentation/) by [Alex McLachlan](https://twitter.com/alex_mcla) (Ceox Services) | alex_mcla
+* [Microsoft 365 PnP Weekly - Episode 231 - Lindsay Shelton](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-231/)
+* [Improve Dataverse Search for Autonumber Columns with Power Fx Formula Columns](https://pnp.github.io/blog/post/improve-dataverse-search-autonumber-with-formula-columns/) by [Alex McLachlan](https://twitter.com/alex_mcla) | @alex_mcla
 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
@@ -102,8 +124,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform Development community call - 4th of January, 2024](https://www.youtube.com/watch?v=yderRfy2wWA)
-* [Viva Connections and SharePoint Framework community call 28th of December 2023](https://www.youtube.com/watch?v=p2Qe6Ii-aJE)
+* [Microsoft 365 & Power Platform weekly call – 9th of January, 2024](https://www.youtube.com/watch?v=4qp8rwm2nd0)
 
 ---
 
