@@ -1,17 +1,17 @@
 ---
 title: Weekly Agenda - 8th of January 2024 week
-date: 2023-12-29T02:44:40.416Z
-author: Vesa Juvonen
+date: 2024-01-05T02:44:40.416Z
+author:git a Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda2.png
+  - images/weeklysummary2.png
 tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -30,13 +30,11 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev - What's New in Microsoft Teams Toolkit?
-* Kashif Qureshi (Microsoft) and Nick Simons (Microsoft) - Build collaborative apps quickly on Microsoft 365 and SharePoint Embedded with Fluid Framework 2.0
 * [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder - Extending Copilot for Microsoft 365 with plugins
-
+* [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev - What's New in Microsoft Teams Toolkit?
+* [Kashif Qureshi](https://www.linkedin.com/in/kashq/) (Microsoft) and [Nick Simons](https://www.linkedin.com/in/nmsimons/) (Microsoft) - Build collaborative apps quickly on Microsoft 365 and SharePoint Embedded with Fluid Framework 2.0
 
 Also: 📷 Picture Time with community in Together Mode!
-
 
 ---
 
@@ -51,7 +49,6 @@ Demos this time
 * [Robin Meure](https://twitter.com/robinmeure) (Microsoft) | @robinmeure - Governor Sharing – how to build an SPFx webpart that shows oversharing
 * [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen - PnP Search web parts
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Building Bot Powered ACE for Viva Connections with Microsoft Graph integration
-  
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -63,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Deploying a custom Microsoft Graph connector](https://www.youtube.com/watch?v=S8mmI77APrs) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Colors, hover panels and file previews with the Microsoft Lists formatting](https://www.youtube.com/watch?v=xSGOGTbJ9T0) by  [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
 * [Using SharePoint as an Enterprise Data Source for a Private GPT Chatbot](https://www.youtube.com/watch?v=NZlw2HJAsEI) by [Denis Molodtsov](https://twitter.com/zerg00s) (TD) | @zerg00s
 * [Building a Search ACE for Viva Connections with SharePoint Framework 1.18](https://www.youtube.com/watch?v=Qgclfk65X2k) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
@@ -75,7 +73,8 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Build your custom copilot in 5 minutes on Teams](https://www.youtube.com/watch?v=A3_xnmIxv6c)
+* [Doodle to Code: Use OpenAI Assistants API to build your own cooking advisor bot on Teams](https://www.youtube.com/watch?v=OL23O25jQGE) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs & [Tomomi Imura](https://twitter.com/girlie_mac) (Microsoft) | @girlie_mac
+* [Build your custom copilot in 5 minutes on Teams](https://www.youtube.com/watch?v=A3_xnmIxv6c) by [Carter Gilliam](https://www.linkedin.com/in/r-carter-gilliam/) (TEKsystems)
 
 ---
 
@@ -103,8 +102,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform Development community call - 4th of January, 2024](https://www.youtube.com/watch?v=yderRfy2wWA)
 * [Viva Connections and SharePoint Framework community call 28th of December 2023](https://www.youtube.com/watch?v=p2Qe6Ii-aJE)
-
 
 ---
 

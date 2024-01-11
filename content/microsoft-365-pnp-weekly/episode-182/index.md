@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=24LRYi76f7Q
 draft: false
 ---
- 
+
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based Microsoft 365 Architect [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) \| @martinlingstuyl
 
 
@@ -44,10 +44,10 @@ This session was recorded on Monday, October 10, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 24LRYi76f7Q >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-6kawv-12e502f >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-6kawv-12e502f >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -69,7 +69,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Star rating control in Adaptive Cards](https://pnp.github.io/blog/post/star-rating-control-adaptive-cards/) - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Series: How to build Power Apps that don't look like Power Apps - auto-height textinput - Material Design part 3](https://pnp.github.io/blog/post/how-to-build-an-auto-height-textinput-component-for-power-apps.md/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * [How to Build Your First Microsoft 365 Application in 10 minutes](https://www.freecodecamp.org/news/build-microsoft-365-application-in-10-minutes/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
-* [How to use React hooks with the SharePoint Framework (SPFx)](https://www.andrewconnell.com/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Get notified for PnP updates from GitHub](https://www.cloudappie.nl/notified-pnp-updates-github/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) | @appieschot
 * [BatchMessageHandler in .NET](https://mgwdevcom.wordpress.com/2022/10/04/batchmessagehandler-in-net/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo Solutions) | @mgwojciech
 * [Introduction to the PDF function in Power Apps](https://sharepains.com/2022/10/07/introduction-pdf-function-in-power-apps/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
@@ -78,7 +78,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Episode #225 - Introducing the new PnP Provisioning Schema v202209](https://www.youtube.com/watch?v=8HluJ1JML-4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Powerful Platform Hub: What it is & How to use it](https://www.youtube.com/watch?v=YRQkmMKWwqg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Everything you need to build a Model-driven Power App](https://www.youtube.com/watch?v=KFjJ97dKzO8) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -87,4 +87,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

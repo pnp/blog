@@ -76,7 +76,7 @@ call.
 
 * **Upgrading SPFx solutions to the latest version using the CLI for Microsoft 365**
     * PnP Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) \| [aka.ms/cli-m365](http://aka.ms/cli-m365)
-    * Article (11July2022) - [SharePoint Framework (SPFx) v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/) – Andrew Connell (Voitanos) \| @andrewconnell
+    * Article (11July2022) - [SharePoint Framework (SPFx) v1.15 and the attack of ESlint](https://www.voitanos.io/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/) – Andrew Connell (Voitanos) \| @andrewconnell
 * **Adaptive Card Extensions - Dynamic Announcements**
     * Sample Repo - [Dynamic Announcements](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Dynamic-Announcements)
     * Sample Repo - [Event schedule and registration](https://github.com/pnp/AdaptiveCards-Templates/tree/main/samples/event-schedule)
