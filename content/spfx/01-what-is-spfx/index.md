@@ -64,7 +64,7 @@ SPFx has the following objectives:
 
 You can of course also integrate SPFx solutions with code running in Microsoft Azure, for example with Azure Functions or with Web APIs. SPFx supports calling these cloud components securely based on the administrative approval in the customer tenant.
 
-Given the worldwide success of the SPFx with customers and partners, Microsoft  decided to start investing in its usage outside of SharePoint Online. Starting from 2018, you have been able to use the SPFx solutions directly in the Microsoft Teams. In 2021 we announced the [Microsoft Viva Connections extensibility](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/overview-viva-connections) to be based on the SPFx and in 2022, we announced the support on building Outlook and Microsoft 365 app (Office) extensibility with SPFx – with all the previously mentioned benefits.
+Given the worldwide success of the SPFx with customers and partners, Microsoft  decided to start investing in its usage outside of SharePoint Online. Starting from 2018, you have been able to use the SPFx solutions directly in the Microsoft Teams. In 2021 we announced the [Microsoft Viva Connections extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) to be based on the SPFx and in 2022, we announced the support on building Outlook and Microsoft 365 app (Office) extensibility with SPFx – with all the previously mentioned benefits.
 
 ![together-221201.png](images/spfx-experiences-m365.png)
 
@@ -80,7 +80,7 @@ No. As it’s based on web stack development tooling, there’s no SharePoint ba
 
 **I have an existing web site which I want to integrate to Microsoft 365, is SPFx for me?**
 
-It could be, but it depends on the exact requirements. If you are an ISV with an existing web site, it’s most likely easier to integrate that service to Microsoft 365 using the [Microsoft Teams app model](https://learn.microsoft.com/en-us/microsoftteams/platform/).
+It could be, but it depends on the exact requirements. If you are an ISV with an existing web site, it’s most likely easier to integrate that service to Microsoft 365 using the [Microsoft Teams app model](https://learn.microsoft.com/microsoftteams/platform/).
 
 **Is Microsoft investing in SPFx across Microsoft 365?**
 

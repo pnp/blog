@@ -83,7 +83,7 @@ On the left-hand side of your screen, click on the drop-down **Data** and Select
 
 ### Step 4
 
-Create an [automated cloud flow](https://learn.microsoft.com/en-us/power-automate/flow-types)
+Create an [automated cloud flow](https://learn.microsoft.com/power-automate/flow-types)
 
 ![automate-flow.png](images/automate-flow.png)
 

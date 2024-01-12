@@ -69,7 +69,7 @@ Yes, the functions demoed are currently in preview.
 
 **Is there any documentation page about all this new Word API?**
 
-To learn more about the Word JavaScript API in preview, see [Word JavaScript preview APIs](https://learn.microsoft.com/en-us/javascript/api/requirement-sets/word/word-preview-apis?view=powerpoint-js-preview).
+To learn more about the Word JavaScript API in preview, see [Word JavaScript preview APIs](https://learn.microsoft.com/javascript/api/requirement-sets/word/word-preview-apis?view=powerpoint-js-preview).
 
 **Last month, you asked for missing Outlook events so that ISVs can migrate their existing Outlook COM add-ins to the new web based add-ins. With that in mind, we are looking for the following: 1. The ability to display a dialog when a Compose, Reply, Reply All, or Forward is clicked. The customers want to either display a warning or in some cases (like the Compose) they want to force the user to select from a list of pre-defined subjects (this is for a help desk scenario). Other (mostly legal) customers want to see a very prominent prompt show up when clicking on Reply All. 2. The ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android. This is a frequent request from our customers and we need a roadmap from the Office team to know whether this is a planned feature or not, and what to tell our customers.**
 

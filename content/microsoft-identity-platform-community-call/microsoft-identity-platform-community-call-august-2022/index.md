@@ -67,7 +67,7 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded August 18, 2022
 * Get started with [free training modules](https://aka.ms/m365/dev/learn)
     covering Microsoft 365 platform capabilities including Learning Path -
     [Implement Microsoft identity –
-    Associate](https://learn.microsoft.com/en-us/learn/paths/m365-identity-associate/)
+    Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on September 15th at 9:00am PT. Download the
     recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 

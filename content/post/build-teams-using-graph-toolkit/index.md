@@ -61,7 +61,7 @@ You can use mgt-get to make any GET query from Microsoft Graph directly in your 
 Before we talk about sub components of the teams chat . For every Microsoft Graph toolkit component to work it needs a provider.
 The Microsoft Graph Toolkit providers enable your application to authenticate with Microsoft Identity and access Microsoft Graph in only few lines of code. Each provider handles user authentication and acquiring the access tokens to call Microsoft Graph APIs, so that you don’t have to write this code yourself.
 In this case I am using a proxy provider which will redirect all the request from the Graph toolkit components to my custom .NET Core API. This gives lot of flexibility of managing the request and overcoming any thresholds imposed by Microsoft Graph.
-You can read more about proxy provider [here](https://learn.microsoft.com/en-us/graph/toolkit/providers/proxy)
+You can read more about proxy provider [here](https://learn.microsoft.com/graph/toolkit/providers/proxy)
 
 ### Initialize Proxy Provider
 
@@ -230,7 +230,7 @@ public static void AddMicrosoftGraph(this IServiceCollection services,
 
 A subscription allows a client app to receive change notifications about changes to data in Microsoft Graph.
 Please refer the below article for the details of the change subscription
-https://learn.microsoft.com/en-us/graph/api/subscription-post-subscriptions?view=graph-rest-1.0&tabs=http
+https://learn.microsoft.com/graph/api/subscription-post-subscriptions?view=graph-rest-1.0&tabs=http
 In this case a change subscription is created for the channel to receive the notifications for the messages posted , updated or deleted from the channel.
 
 ## Sample Request to Graph
@@ -407,7 +407,7 @@ newConnection.on('BroadcastMessage', (message:Notification) => {
 
 Refresh method is the key here as when it is called the mgt component will make a call to the proxy provider (.NET API) which gives the latest data from Teams and the MGT component will be refreshed with the latest message.
 
-https://learn.microsoft.com/en-us/graph/toolkit/components/get#methods
+https://learn.microsoft.com/graph/toolkit/components/get#methods
 
 ![Notifications](images/notification_video__AdobeCreativeCloudExpress.gif)
 

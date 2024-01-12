@@ -61,6 +61,6 @@ To quickly try out Power Pages, sign up for a [trial of Power Pages](https://pow
 
 Also, learn more about Power Pages capabilities, by going through the [Power Pages documentation](https://powerpages.microsoft.com/capabilities).
 
-You can also go through the [Power Pages Preview documentation](https://learn.microsoft.com/en-us/power-pages/), for tutorial contents and official documentation on working with Power Pages.
+You can also go through the [Power Pages Preview documentation](https://learn.microsoft.com/power-pages/), for tutorial contents and official documentation on working with Power Pages.
 
 Thank You for taking out time to read this article.

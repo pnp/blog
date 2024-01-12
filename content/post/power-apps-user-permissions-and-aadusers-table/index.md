@@ -20,25 +20,25 @@ When I build apps for my department or enterprise, it is sometimes a challenge t
 
 ### Getting Started
 
-If you would like a safe environment where you can experiment. I recommend signing up for a free [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) 
+If you would like a safe environment where you can experiment. I recommend signing up for a free [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ### You do not need to be a Pro Dev!
 
 The Microsoft 365 Developer Program gives you the ability to experiment safely with the Power Platform, Dataverse, Connectors, Teams, Azure, and more. This is isolated from your company's environment.
 
-This environment creates 16 user accounts for you that you can manage in an isolated instance of Azure Active Directory, Power Platform Admin Center, and Dynamics 365. 
+This environment creates 16 user accounts for you that you can manage in an isolated instance of Azure Active Directory, Power Platform Admin Center, and Dynamics 365.
 
 These 16 accounts come in handy when testing your Power App by users who may have different permissions than you, the app creator. As a bonus you no longer have to annoy your co-workers each time you need to test your app.
 
 ## Licenses
 
-Each user account added to the Azure Active Directory associated with the Microsoft 365 Developer Program account, will automatically be assigned the default Microsoft 365 E5 Developer (without Windows and Audio Conferencing) license. 
+Each user account added to the Azure Active Directory associated with the Microsoft 365 Developer Program account, will automatically be assigned the default Microsoft 365 E5 Developer (without Windows and Audio Conferencing) license.
 
 ## Optional - Check User Licenses
 
 For the purpose of this blog post it's not required but if you wish to see all the licenses assigned to a user, go to [Azure Active Directory Portal associated with the Microsoft 365 Developer Program account](https://portal.azure.com) - Azure Active Directory - Users. Click on the user name, Assigned licenses link.
 
-## Optional - Web Browser: Create User Profiles 
+## Optional - Web Browser: Create User Profiles
 
 The following only applies if you are testing with the 16 user accounts that were created when you signed up for the Microsoft 365 Developer Program. If a co-worker is helping you test, you do not need to do either of the following.
 
@@ -49,15 +49,15 @@ Add a Browser User Profile For:
 1. Your Microsoft 365 Developer Program account.
 2. One or more of the 16 User Accounts.
 
-Or if you prefer you can open separate InPrivate browser windows for each test account. 
+Or if you prefer you can open separate InPrivate browser windows for each test account.
 
-I find User Profiles makes more sense to me when I test my Power App as a different user. 
+I find User Profiles makes more sense to me when I test my Power App as a different user.
 
 ## Learn more about Security Roles:
 
-1. [Microsoft Learn - Get started with security roles in Dataverse](https://learn.microsoft.com/en-us/training/modules/get-started-security-roles/)
-2. [Power Platform Documentation - Security in Microsoft Dataverse](https://learn.microsoft.com/en-us/power-platform/admin/wp-security)
-    - [Configure user security to resources in an environment](https://learn.microsoft.com/en-us/power-platform/admin/database-security)
+1. [Microsoft Learn - Get started with security roles in Dataverse](https://learn.microsoft.com/training/modules/get-started-security-roles/)
+2. [Power Platform Documentation - Security in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security)
+    - [Configure user security to resources in an environment](https://learn.microsoft.com/power-platform/admin/database-security)
 
 ## Setup the Power Platform Environment(s)
 
@@ -85,12 +85,12 @@ In the Developer environment,
 
 You should now have something similar to the People Picker on the left.
 
-![AAD User People Picker](images/MainScreen-AADUser.png) 
+![AAD User People Picker](images/MainScreen-AADUser.png)
 
 ## Share
 
 Click the Share button, this opens a new window.
-![Share Button](images/Share.png) 
+![Share Button](images/Share.png)
 
 Add users and assign the <strong>Basic User</strong> and <strong>Service Reader Security Roles</strong>!
 ![Data Permissions](images/ShareAddUserRoles.png)
@@ -127,25 +127,25 @@ According to the Microsoft docs, Dataverse Search is for searching Model Driven 
 
 ![Join Monitor Session](images/Join.png)
 
-5. Test 
+5. Test
 
 ## Monitor
 
-The Monitor tool can help you to determine if the connection is successful or not. 
+The Monitor tool can help you to determine if the connection is successful or not.
 It's a good resource to help you in troubleshooting your applications.
 
 ![Monitor Session Output](images/MonitorOutput.png)
 
 ## Security Role Changes
 
-You can assign a Security Role when you share the app, but you cannot deselect the role from the share session window. To make changes to Security Roles you will need to go the Power Platform Admin Center. 
+You can assign a Security Role when you share the app, but you cannot deselect the role from the share session window. To make changes to Security Roles you will need to go the Power Platform Admin Center.
 
 In the Power Platform Admin Center go to your environments settings then click users and select the user account you wish to make changes to. Click Manage Roles.
 
 ![Manage User Roles](images/UserRoleChanges.png)
 
 
-For instance maybe remove the Service Reader & Dataverse Search roles and assign the System Customizer role. 
+For instance maybe remove the Service Reader & Dataverse Search roles and assign the System Customizer role.
 
 ![Assign User Roles](images/ManageSecurityRoles.png)
 

@@ -57,12 +57,12 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 **Our add-in needs the MIME representation of an e-mail message, the conversationId and the internetMessageId. Would it be possible to add support for these properties to office.js? Currently we need to use Outlook REST API (or MS-Graph in the future) to get these values**
 
-We currently support these properties. For guidance with using these properties, see the Office.MessageRead API at https://learn.microsoft.com/en-us/javascript/api/outlook/office.messageread?view=outlook-js-preview.
+We currently support these properties. For guidance with using these properties, see the Office.MessageRead API at https://learn.microsoft.com/javascript/api/outlook/office.messageread?view=outlook-js-preview.
 
 
 **Consideration for existing add-ins that use the Outlook REST API is very helpful. Eventually, will all add-ins (existing and new add-ins) be able to use the Outlook REST API until Office 2019 support? I think this is very important, so could you please announce the decision on a dedicated page?**
 
-Yes, both new and existing add-ins will be able to use the Outlook REST API until support ends for Office 2019 on October 14, 2025. This announcement has been posted to Use the Outlook REST APIs from an Outlook add-in at https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/use-rest-api .
+Yes, both new and existing add-ins will be able to use the Outlook REST API until support ends for Office 2019 on October 14, 2025. This announcement has been posted to Use the Outlook REST APIs from an Outlook add-in at https://learn.microsoft.com/office/dev/add-ins/outlook/use-rest-api .
 
 **Will the 'auto-launch' of an add-in from a Word document also apply to add-ins that are not acquired from the Office Store, but are deployed by an administrator internally as one of the admin-managed add-ins?**
 

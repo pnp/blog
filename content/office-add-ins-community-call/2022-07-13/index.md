@@ -74,7 +74,7 @@ If you're referring to keyboard shortcuts, yes, but this is only available in Ex
 The Microsoft answer to this post says that we should be using the OfficeRuntime.Auth.getAccessToken.
 https://stackoverflow.com/questions/66776046/whats-the-different-about-office-context-auth-getaccesstokenasync-vs-officerun
 but the third sentence on this page says that the "Office.auth.getAccessToken" will be the one to receive updates in the future.
-https://learn.microsoft.com/en-us/javascript/api/office-runtime/officeruntime.auth?view=common-js-preview
+https://learn.microsoft.com/javascript/api/office-runtime/officeruntime.auth?view=common-js-preview
 
 (2) Why does the documentation refer to "Office.auth" when the full namespace is "Office.context.auth"?
 Could you confirm that the full namespace is actually
@@ -142,7 +142,7 @@ Use the Node.js environment to create your add-in could help. For further guidan
 Yes, you can embed add-ins in an Excel workbook. For guidance, see [Open Excel from your web page and embed your Office Add-in](https://learn.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
 For the technique to embed an add-in Excel using open in Teams approach, see the [Office Add-ins sample](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/excel-open-in-teams).
 
-**Via the Microsoft Graph API, it is possible to add an attachment to an email object (https://learn.microsoft.com/en-us/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
+**Via the Microsoft Graph API, it is possible to add an attachment to an email object (https://learn.microsoft.com/graph/api/message-post-attachments?view=graph-rest-1.0&tabs=http), however, I cannot specify metadata such as Content-Type, name, or Content-Transfer-Encoding. Will it be supported in the future or is there another way to add this information?**
 
 We currently don't have concrete plans on the roadmap. It would be great if you could create a feature request with more information at https://aka.ms/m365dev-suggestions.
 

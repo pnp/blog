@@ -28,7 +28,7 @@ We are back from summer break with episode 216 - or is it season 8, episode 1? I
 * Considerations of evaluating the Return of Investments (ROI) with AI projects
 * How to determine which tool to use when within Microsoft 365 and Power Platform - "Chris's rules"
 * Value of community and open-source - why get involved?
- 
+
 ## Referenced during conversation
 
 * [Microsoft List Formatting samples](https://pnp.github.io/List-Formatting/)
@@ -38,7 +38,7 @@ We are back from summer break with episode 216 - or is it season 8, episode 1? I
 * [SP Formatter](https://microsoftedge.microsoft.com/addons/detail/sp-formatter/eenbldkdgbfcfachaccldfgiajgjmjhi?hl=en-US) on helping for List Formatting creation
 * [Microsoft 365 & Power Platform public community calls](https://aka.ms/community/calls) - Join the next one - Everyone is welcome!
 
-There were 20 articles or videos covered within this episode produced by Microsoft and community members.  
+There were 20 articles or videos covered within this episode produced by Microsoft and community members.
 
 ## This week
 
@@ -64,10 +64,10 @@ This session was recorded on Thursday 24th of August and released on 28th of Aug
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube bf72dcDGm8E >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-g938k-14906ef >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -79,7 +79,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Send Teams activity notifications using new resource-specific consent permissions](https://devblogs.microsoft.com/microsoft365dev/send-microsoft-teams-activity-feed-notifications-using-resource-specific-content-permissions/) - Luyao Wang (Microsoft)
 * [Teams Toolkit for Visual Studio Code update with new AI chat bot template](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-with-new-ai-chat-bot-template/) - Junjie Li (Microsoft)
 * [New Teams Toolkit for Visual Studio release with exciting features for .NET developers](https://devblogs.microsoft.com/microsoft365dev/new-teams-toolkit-for-visual-studio-release-with-exciting-features-for-net-developers/) - Yu Zhang (Microsoft) & [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
-* [Integrate OpenAI, Communication, and Organizational Data Features into a Line of Business App](https://learn.microsoft.com/en-us/microsoft-cloud/dev/tutorials/openai-acs-msgraph?WT.mc_id=m365-94501-dwahlin) - Microsoft
+* [Integrate OpenAI, Communication, and Organizational Data Features into a Line of Business App](https://learn.microsoft.com/microsoft-cloud/dev/tutorials/openai-acs-msgraph?WT.mc_id=m365-94501-dwahlin) - Microsoft
 
 ## Community articles
 
@@ -132,4 +132,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

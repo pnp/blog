@@ -48,7 +48,7 @@ It's pretty easy; in Visual Studio Code:
   1. Click "Start from a sample"
   1. Select "My First Meeting App"
 
-For details [check the Teams Toolkit documentation](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/create-new-project?pivots=visual-studio-code).
+For details [check the Teams Toolkit documentation](https://learn.microsoft.com/microsoftteams/platform/toolkit/create-new-project?pivots=visual-studio-code).
 
 ### It's a React app
 

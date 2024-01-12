@@ -78,7 +78,7 @@ This is a great feature to request, please go to the M365 developer platform and
 
 **When performing a search using Microsoft Graph, preferably using the '/search(q='${searchText}' endpoint, is it possible to search SharePoint files by their 'ImageTags'?**
 
-We recommend you follow up with the Microsoft Graph team at https://learn.microsoft.com/en-us/answers/products/graph.
+We recommend you follow up with the Microsoft Graph team at https://learn.microsoft.com/answers/products/graph.
 
 **With VSTO it is possible to create PDF/A versions of Office files. In our target sector (public sector, governments) using PDF/A is important and required in most cases. How can a PDF/A representation of an office file can be created using the JS APIs?**
 
@@ -86,7 +86,7 @@ Unfortunately Office JS only supports the PDF format right now. This would be a 
 
 **Is there a way to start a web addin (open the web task pane) from a VSTO add-in? This capability would make the transition from VSTO to web much easier to implement some functionality in a web add-in and have a smooth transition from VSTO to web as if it was a single add-in. Migrating the entire add-in from VSTO to web in a big bang is not possible since the JS api is lacking some COM APIs.**
 
-No this capability does not exist. There are resources available for this scenario though. Please see https://learn.microsoft.com/en-us/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in and https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/migrate-vsto-to-office-add-in-shared-code-library-tutorial.
+No this capability does not exist. There are resources available for this scenario though. Please see https://learn.microsoft.com/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in and https://learn.microsoft.com/office/dev/add-ins/tutorials/migrate-vsto-to-office-add-in-shared-code-library-tutorial.
 
 **Is this add-in installation option only available for Excel? Are there plans to allow this for Word?**
 

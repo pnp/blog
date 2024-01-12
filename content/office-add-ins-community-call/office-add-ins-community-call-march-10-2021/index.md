@@ -156,4 +156,4 @@ A:  We haven't yet documented the Group Policy (\"Deactivate Outlook
 web add-ins whose equivalent COM or VSTO add-in is installed\") that
 configures this behavior. However, it will be added to the article [Make
 your Office Add-in compatible with an existing COM
-add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in). 
+add-in](https://learn.microsoft.com/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in). 

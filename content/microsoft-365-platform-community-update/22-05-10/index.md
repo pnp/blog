@@ -254,7 +254,7 @@ This time no new articles.
 
 #### Updated articles
 
-* Updated article - [Content Type Propagation](https://learn.microsoft.com/en-us/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
+* Updated article - [Content Type Propagation](https://learn.microsoft.com/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 

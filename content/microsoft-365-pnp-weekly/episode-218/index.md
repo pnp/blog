@@ -25,13 +25,13 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## Referenced during conversation
 
-- [PnP provisioning engine](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning)
+- [PnP provisioning engine](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-remote-provisioning)
 - [PnP PowerShell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps&WT.mc_id=m365-12936-cxa)
 - [Microsoft 365 & Power Platform community](https://aka.ms/m365/community)
 - [PnP modern search](https://microsoft-search.github.io/pnp-modern-search/)
 - [Microsoft 365 Developer Proxy](https://aka.ms/m365/proxy)
 - [SPFx v1.18](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
-- [Viva Connections](https://learn.microsoft.com/en-us/viva/connections/viva-connections-overview)
+- [Viva Connections](https://learn.microsoft.com/viva/connections/viva-connections-overview)
 
 There were 17 articles or videos covered within this episode produced by Microsoft and community members.
 

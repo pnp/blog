@@ -202,7 +202,7 @@ explore the technologies further:
 
 -   Microsoft Learn - [Build automated workflows to integrate data and
     apps with Azure Logic Apps - Learn | Microsoft
-    Docs](https://learn.microsoft.com/en-us/training/paths/build-workflows-with-logic-apps/?WT.mc_id=AZ-MVP-5003816%3FWT.mc_id%3DAZ-MVP-5003816)
+    Docs](https://learn.microsoft.com/training/paths/build-workflows-with-logic-apps/?WT.mc_id=AZ-MVP-5003816%3FWT.mc_id%3DAZ-MVP-5003816)
 -   Microsoft Learn - [Browse all Power Automate Modules in Microsoft
     Learn | Microsoft
     Docs](https://learn.microsoft.com/learn/browse/?products=power-platform&terms=Flow&WT.mc_id=AZ-MVP-5003816)

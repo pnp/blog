@@ -88,7 +88,7 @@ So I will make a Http call using Azure DevOps api to get the contents of the fil
 
 ![](images/image9.png)
 
-The above call will be done using the PAT token ( Personal Access Token ) used as Password which is generated from the DevOps and can be used to make the DevOps API calls. For more information on PAT Tokens, please refer [here](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
+The above call will be done using the PAT token ( Personal Access Token ) used as Password which is generated from the DevOps and can be used to make the DevOps API calls. For more information on PAT Tokens, please refer [here](https://learn.microsoft.com/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
 
 Once we get the response from the dev ops API, we will use the filter array method to filter the response for the component version based on the component name passed as the input.
 

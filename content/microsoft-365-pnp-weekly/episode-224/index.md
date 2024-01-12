@@ -79,7 +79,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Copilot-generated deployment notes for pipelines are Generally Available (GA)](https://powerapps.microsoft.com/en-us/blog/copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga/) - Anthony Sheehi (Microsoft)
 * [Announcing the HackTogether: Power Platform Global AI Hack Winners](https://devblogs.microsoft.com/powerplatform/announcing-the-hacktogether-power-platform-global-ai-hack-winners/) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Power Platform ommand Line Interface: September Update](https://devblogs.microsoft.com/powerplatform/power-platform-command-line-interface-september-update/) - ShafQat Nizar (Microsoft)
-* [Build API-based message extension](https://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/build-api-based-message-extension?tabs=visual-studio-code%2Cnew-api)
+* [Build API-based message extension](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/build-api-based-message-extension?tabs=visual-studio-code%2Cnew-api)
 
 ## Community articles
 

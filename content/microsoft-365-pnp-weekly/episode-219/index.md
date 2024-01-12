@@ -25,11 +25,11 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## References
 
-- [Power Platform center of excellence](https://learn.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
+- [Power Platform center of excellence](https://learn.microsoft.com/power-platform/guidance/coe/starter-kit)
 - [Microsoft Power Platform Conference 2023](https://powerplatformconf.com/)
 - [Power Platform weekly newsletter](https://www.ppweekly.com/)
 - [Sample Solution Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/)
-- [Power Platform community hub template](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/wiki-community)
+- [Power Platform community hub template](https://learn.microsoft.com/power-platform/guidance/adoption/wiki-community)
 
 ## This week
 

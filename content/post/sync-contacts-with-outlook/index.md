@@ -107,7 +107,7 @@ Each of these types identifies the property by its id and stores data in value.
 
 You can use id to get a specific resource instance together with that extended property, or filter on a single-value extended property to get all the instances that have that property.
 
-More details on Outlook extended properties can be found [here](https://learn.microsoft.com/en-us/graph/api/resources/extended-properties-overview?view=graph-rest-1.0).
+More details on Outlook extended properties can be found [here](https://learn.microsoft.com/graph/api/resources/extended-properties-overview?view=graph-rest-1.0).
 
 Lets update the newly created contact in outlook with my application contact id.
 

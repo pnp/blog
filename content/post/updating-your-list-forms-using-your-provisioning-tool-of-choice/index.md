@@ -17,7 +17,7 @@ type: "regular"
 
 Updating your list forms using your provision tool of choice
 
-One of the “sub-species” of list formatting is [form formatting](https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration) which makes it possible for you to update the display of a list form ( Edit/Update form).
+One of the “sub-species” of list formatting is [form formatting](https://learn.microsoft.com/sharepoint/dev/declarative-customization/list-form-configuration) which makes it possible for you to update the display of a list form ( Edit/Update form).
 
 Rather than having all the columns displayed as one column in the right hand side of the screen we would like to use the entire screen real estate and group the fields as well.
 
@@ -27,7 +27,7 @@ Below is the updated entry form for former warhorses that have seen the light an
 
 Using form formatting on a single list is easy however once you get a requirement to deploy those form formatting settings across multiple sites or as a part of a template in your provisioning tool things get a little tricky.
 
-As far as I know the [PnP provisioning engine](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine) does not yet handles form formatting so in the meantime we have to do it ourselves, luckily this is not to hard.
+As far as I know the [PnP provisioning engine](https://learn.microsoft.com/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine) does not yet handles form formatting so in the meantime we have to do it ourselves, luckily this is not to hard.
 
 In order to extract the JSON you can use this:
 

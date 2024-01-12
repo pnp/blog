@@ -85,7 +85,7 @@ PowerPoint 1.5 support for PowerPoint Online web app is being rolled out, you sh
 
 **I am in need of information on how to list our Outlook add-in as an MSI, inside Microsoft AppSource to run in the Outlook desktop app. The Microsoft support people referred us here. Could someone please take our case and help us? Maybe an email address to contact me?**
 
-AppSource only supports web add-ins and not COM add-ins. To distribute COM add-ins, use Azure Marketplace or any third-party digital delivery system or e-commerce solution. For guidance with publishing to Azure Marketplace, see [What is the Microsoft commercial marketplace?](https://learn.microsoft.com/en-us/azure/marketplace/overview).
+AppSource only supports web add-ins and not COM add-ins. To distribute COM add-ins, use Azure Marketplace or any third-party digital delivery system or e-commerce solution. For guidance with publishing to Azure Marketplace, see [What is the Microsoft commercial marketplace?](https://learn.microsoft.com/azure/marketplace/overview).
 
 **We tried the setSelectedShapes() example in Script Lab and it did select the first two shapes as advertised.  But when we modified the example to pass in an empty array, it did not unselect the shapes as the doc indicates it should (and how it works on desktop).**
 

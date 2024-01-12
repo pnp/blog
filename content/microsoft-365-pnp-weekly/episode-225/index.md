@@ -28,7 +28,7 @@ We really really really tried again to get this to 60 minutes and failed miserab
 
 - [Sharing is caring](https://aka.ms/sharing-is-caring)
 - [M365 & Power Platform community](https://pnp.github.io/)
-- [Power Platform conference](https://learn.microsoft.com/en-us/events/mppc-2023/)
+- [Power Platform conference](https://learn.microsoft.com/events/mppc-2023/)
 - [Ignite unplugged](https://ignite.microsoft.com/en-US/blog)
 - [Real world Microsoft Graph connector sample](https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-graph-connector-nodejs-typescript-food-catalog)
 - [ESPC '23](https://www.sharepointeurope.com/)

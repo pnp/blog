@@ -73,7 +73,7 @@ We are improving our processes, including adding API releases to the [Microsoft 
 
 **Can an API function know what user uses the add-In to be able to retrieve the right information?**
 
-Yes, the sample doesn't use auth, but you should set up auth on the Azure function so that it would have the user name. The [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/) documentation should have info on how to set this up. You can configure the parameters you pass to the function to pass any values you need.
+Yes, the sample doesn't use auth, but you should set up auth on the Azure function so that it would have the user name. The [Azure Functions](https://learn.microsoft.com/azure/azure-functions/) documentation should have info on how to set this up. You can configure the parameters you pass to the function to pass any values you need.
 
 **Any way to name the new workbook? (or Save As equivalent)?**
 
@@ -85,7 +85,7 @@ Make sure that the template is referencing the CDN for Office.js. If you need fu
 
 **Where can I get help/support to work out the Graph authentication for add-ins? I have not had any success to make the add-in and Graph authentication setup.**
 
-Reach out to the [identity team](https://learn.microsoft.com/en-us/azure/active-directory/develop/developer-support-help-options) for further help.
+Reach out to the [identity team](https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options) for further help.
 
 **Will the other types than richText or ContentControls be supported in the next preview as well?**
 
