@@ -1,6 +1,6 @@
 ---
-title: Weekly Agenda - 8th of January 2024 week
-date: 2024-01-11T13:24:49.939Z
+title: Weekly Agenda - 15th of January 2024 week
+date: 2024-01-12T02:24:49.939Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -30,9 +30,9 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler - Expanded Authentication Options for Sites.Selected permission and AppFolders
 * [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder - Extend Copilot for Microsoft 365 with plugins
 * Grant Archibald (Microsoft) - Introduction to Approvals Kit for Power Platform
+* [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler - Expanded Authentication Options for Sites.Selected permission and AppFolders
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -66,7 +66,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* Frank Cornu (Ubisoft) - PnP Modern Search - Core Components
+* Frank Cornu (Ubisoft) - Build Microsoft Graph connected web sites for a custom enterprise search experience
 * Shrushti Shah (Rapid Circle) - Build custom connector in Power Platform to generate images from Azure OpenAI DALLE model
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -79,6 +79,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building AI powered code summary and comment tool with Power Platform - Hackathon winner](https://www.youtube.com/watch?v=eLGRjh5dGnw) by [Robert Perillo](https://twitter.com/Rob__Developer) (Pait Group) | @Rob__Developer
 * [Introduction to Viva Toolkit v2 – SPFx development made easy in VS Code](https://www.youtube.com/watch?v=zGNxoeK2M_o) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 * [Implementing SSO-enabled Microsoft Teams Message Extensions with Teams Toolkit](https://www.youtube.com/watch?v=TWJTKruTttk) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Build Microsoft Graph connected web sites for a custom enterprise search experience](https://www.youtube.com/watch?v=fUTNczMOo2w) by Franck Cornu (Ubisoft)
@@ -124,6 +125,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 11th of January 2024](https://www.youtube.com/watch?v=5ZMujMo4cf0)
 * [Microsoft 365 & Power Platform weekly call – 9th of January, 2024](https://www.youtube.com/watch?v=4qp8rwm2nd0)
 
 ---
@@ -164,13 +166,17 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
-* [M365 Community Day - Phoenix](https://www.communitydays.org/event/2024-01-13/m365-community-day-phoenix) - January 13-14, 2024 - Tempe, AZ, USA
+* [Intrateam Event Online Volume 9](https://communitydays.org/event/2024-01-17/intrateam-event-online-volume-9-about-modern-intranets-and-ai) – Aubout Modern Intranets and AI - January 17-18, 2024 - Virtual
+* [AMS Strasbourg 2024](https://communitydays.org/event/2024-01-18/ams-strasbourg-2024) - January 18, 2024 - Strasbourg, France
+* [Azure OpenAI & ChatGPT Fest 2024](https://communitydays.org/event/2024-01-18/azure-openai-and-chatgpt-fest-2024) - January 18 - 19, 2024 - Reston, Virginia, USA
+* [M365 Community Days Lagos 2024](https://communitydays.org/event/2024-01-27/m365-community-days-lagos-2023) - January 27, 2024 - Lagos, Nigeria
+* [AMS Luxembourg 2024](https://communitydays.org/event/2024-01-30/ams-luxembourg-2024) - January 30, 2024 - Luxembourg
 * [Cloud Technology Townhall Tallinn 2024](https://www.communitydays.org/event/2024-02-01/cloud-technology-townhall-tallinn-2024) - February 1-2, 2024 - Tallinn, Estonia
 * [Microsoft 365 Community Day Miami](https://www.communitydays.org/event/2024-02-02/microsoft-365-community-day-miami) - February 2-3, 2024 - Miami, FL, USA
 * [M365 Community Days at Sea 2024](https://www.communitydays.org/event/2024-02-04/m365-community-days-at-sea-2024) - February 4-11, 2024, Royal Caribbean Oasis of the Seas, USA
 * [M365 Saturday DC - A Community Day Event](https://www.communitydays.org/event/2024-02-10/m365-saturday-dc-a-community-day-event) - February 10, 2024 - Reston, VA, USA
 * [M365 Revival](https://www.communitydays.org/event/2024-02-15/m365-revival) - February 15, 2024 - Oslo, Norway
+* [M365 Community Day - Phoenix](https://www.communitydays.org/event/2024-01-13/m365-community-day-phoenix) - February 17-18, 2024 - Tempe, AZ, USA
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2024-02-24/yyc-microsoft-community-day) - February 24-25, 2024 - Calgary, Canada
 * [Digital Workplace Conference New Zealadn](https://www.communitydays.org/event/2024-02-27/digital-workplace-conference-new-zealand) - February 26-28, 2024 - Christchurch, New Zealand
 * [CollabDays Utah](https://www.communitydays.org/event/2024-03-01/collabdays-utah) - March 1-2, 2024 - Sandy, Utah, USA
