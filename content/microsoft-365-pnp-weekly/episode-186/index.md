@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US/India based Microsoft Principal Product Manager - [DC Padur](https://twitter.com/dcpadur) \| @dcpadur.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US/India based Microsoft Principal Product Manager - [DC Padur](https://twitter.com/dcpadur) \| @dcpadur.
 
 ## Topics discussed in this session
 
@@ -60,7 +60,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Registering SharePoint Framework list form customizers with CSOM and PowerShell](https://robwindsor.hashnode.dev/registering-sharepoint-framework-list-form-customizers) - [Rob Windsor](https://twitter.com/robwindsor) | @robwindsor
 * [Microsoft 365 : Major Update – SharePoint and OneDrive deploying hard block for IE11 in January 2023 for all users](https://knowledge-junction.in/2022/11/05/microsoft-365-major-update-sharepoint-and-onedrive-deploying-hard-block-for-ie11-in-january-2023-for-all-users/) - [Prasham Sabadra](https://twitter.com/SabadraPrasham) | @SabadraPrasham
-* [Sign Language View in Teams meetings - Message Center Show Ep. 260](https://regarding365.com/sign-language-view-in-teams-meetings-387c1e669811) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Sign Language View in Teams meetings - Message Center Show Ep. 260](https://regarding365.com/sign-language-view-in-teams-meetings-387c1e669811) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Episode #229 - Extending Azure AD objects with Microsoft Graph and Schema Extensions](https://www.youtube.com/watch?v=OPxNZfljQTo) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps and Automate Solutions and Environment Variables for SharePoint](https://www.youtube.com/watch?v=o-yL57DuUDE) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
 * [⚙️How to use Actionable Messages in Outlook with Power Automate](https://www.youtube.com/watch?v=DCihYRK8w9Q) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @DeLucaGiulian

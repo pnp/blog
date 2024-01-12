@@ -24,8 +24,8 @@ There was live Q & A regarding program changes, dates for upcoming training and
 community events announced, recent news, PnP Community Recognition Program, and
 2 demos - Customer Inventory and Daily Expenses App and Introduction to Power
 Apps Portals. This call was hosted by [Todd
-Baginski](http://twitter.com/toddbaginski) (Canviz) and [David Warner
-II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. The call
+Baginski](https://twitter.com/toddbaginski) (Canviz) and [David Warner
+II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. The call
 was recorded on April 20, 2022. Questions additionally addressed in chat
 throughout the call.
 
@@ -50,7 +50,7 @@ throughout the call.
     \- wrap Canvas apps as custom-branded Android & iOS apps
 * Power Platform sample - [Invoice Automation using the SharePoint
     Syntex](https://github.com/Spucelik/syntex-samples/tree/main/models/Invoice%20Processing)
-    \- [Steve Pucelik](http://twitter.com/spucelik) \| @spucelik
+    \- [Steve Pucelik](https://twitter.com/spucelik) \| @spucelik
 * Registration open for the first *emPOWER everyone* - [Microsoft Power
     Platform Conference](https://powerplatformconf.com/#!/) – Orlando, Florida,
     September 18 – 23, 2022
@@ -79,18 +79,18 @@ throughout the call.
 ## Agenda items
 
 * Changes to Community and call structure – [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [1:42](https://youtu.be/lxVuESLcl-c?t=102)
 * Power Platform Community Events – [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [19:03](https://youtu.be/lxVuESLcl-c?t=1143)
-* Recent News – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \|
+* Recent News – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \|
     @aprildunnam – [19:55](https://youtu.be/lxVuESLcl-c?t=1195)
 * Demo - Customer Inventory and Daily Expenses App - [Rachel
-    Irabor](http://twitter.com/Richie4love) \| @Richie4love –
+    Irabor](https://twitter.com/Richie4love) \| @Richie4love –
     [25:42](https://youtu.be/lxVuESLcl-c?t=1542)
 * Demo - Introduction to Power Apps Portals - [Hugo
-    Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh –
+    Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh –
     [33:48](https://youtu.be/lxVuESLcl-c?t=2028)
 
 ## Actions

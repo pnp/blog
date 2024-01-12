@@ -47,11 +47,11 @@ The host of this call is [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [5:45](https://youtu.be/eA5KADH8_9U?t=345)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:55](https://youtu.be/eA5KADH8_9U?t=475)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:55](https://youtu.be/eA5KADH8_9U?t=475)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [9:52](https://youtu.be/eA5KADH8_9U?t=592)
 * PnP SPFx Controls - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) @paolopia – [12:28](https://youtu.be/eA5KADH8_9U?t=748)
 * PnP Modern Search - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) @paolopia – [13:33](https://youtu.be/eA5KADH8_9U?t=813)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerI – [14:24](https://youtu.be/eA5KADH8_9U?t=864)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerI – [14:24](https://youtu.be/eA5KADH8_9U?t=864)
 * Demo – Building a Help Desk Adaptive Card Extension for Microsoft Viva – [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) \| @spdcp – [16:44](https://youtu.be/eA5KADH8_9U?t=1004)
 * Demo – Getting started on building SPFx solutions with reusable open-source controls – [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) \| @JoelFMRodrigues – [32:30](https://youtu.be/eA5KADH8_9U?t=1950)
 

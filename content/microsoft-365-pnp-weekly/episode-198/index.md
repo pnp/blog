@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust
 
 ## Topics discussed in this session
 
@@ -90,7 +90,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Managing and applying Purview retention labels using code](https://www.blimped.nl/managing-and-applying-purview-retention-labels-using-code/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
 * [Working with Microsoft Teams PowerShell in Azure Automation](https://www.blimped.nl/working-with-teams-powershell-in-azure-automation/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
 * [Use Teams Toolkit and Visual Studio (C#) to create a Teams Tab using Microsoft Graph Toolkit](https://mmsharepoint.wordpress.com/2023/02/16/use-teams-toolkit-and-visual-studio-c-to-create-a-teams-tab-using-microsoft-graph-toolkit/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
-* [Suggested Files in 1:1 Chats - #272](https://www.messagecentershow.com/e/suggested-files-in-11-chats-272/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Suggested Files in 1:1 Chats - #272](https://www.messagecentershow.com/e/suggested-files-in-11-chats-272/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Viva Engage — The artist formerly known as Yammer](https://regarding365.com/viva-engage-the-artist-formerly-known-as-yammer-59002e6defe4) - [Rebecca Jackson](https://twitter.com/RebeccaJLJ) (Avanade) | @RebeccaJLJ
 * [PnP React Controls Part 13 – IconPicker](https://spknowledge.com/2023/02/16/pnp-react-controls-part-13-iconpicker/) - [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT Ltd Singapore) | @sudharsank
 * [Effortlessly Collaborate With Document Annotation Now In Microsoft Syntex](https://www.leonarmston.com/2023/02/effortlessly-collaborate-with-document-annotation-now-in-microsoft-syntex/) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston

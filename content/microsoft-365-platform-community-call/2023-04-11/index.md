@@ -62,7 +62,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 
 * **Announcing Microsoft Teams toolkit cloud skills challenge** – do you want to learn how to build apps for Microsoft Teams? Introducing a challenge hosted by MVP [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese to help you achieve this very objective. 1. Register for the challenge, 2. work through the “Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code” Learning Path, and 3. become a contributor and have the chance to win a prize!
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 3EMk2wvR8Zg >}}
 
@@ -70,7 +70,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/3EMk2wvR8Zg?t=0) – Intro
 
-[10:58](https://youtu.be/3EMk2wvR8Zg?t=658) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:58](https://youtu.be/3EMk2wvR8Zg?t=658) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [12:20](https://youtu.be/3EMk2wvR8Zg?t=740) – Microsoft Teams Platform updates – [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) \| @Wajeed_Shaikh
 
@@ -99,7 +99,7 @@ As always awesome to have you on the call – and if you missed it, enjoy the ca
 * [Register](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df) for the Microsoft Teams toolkit cloud skill challenge, April 12th – 24th.
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

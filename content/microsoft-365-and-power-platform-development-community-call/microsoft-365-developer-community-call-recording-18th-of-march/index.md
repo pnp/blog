@@ -176,7 +176,7 @@ slides.
     SharePoint](https://aka.ms/spdocs-column-formatting) 
 
 -   Samples -- [SharePoint List Formatting
-    Samples](http://github.com/pnp/sp-dev-list-formatting) 
+    Samples](https://github.com/pnp/sp-dev-list-formatting) 
 
 -   Repo -- [Comment
     Count](https://github.com/pnp/sp-dev-list-formatting/tree/master/column-samples/comment-count) 

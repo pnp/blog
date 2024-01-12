@@ -21,7 +21,7 @@ Latest updates and news on Power Platform including community events and trainin
 
 Activities: 5 articles, 3 documents, 3 samples, 3 Power Platform related video conversations delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on May 17, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on May 17, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -74,7 +74,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [05:26](https://youtu.be/WGXzKFn1zkM?t=326) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[09:27](https://youtu.be/WGXzKFn1zkM?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[09:27](https://youtu.be/WGXzKFn1zkM?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [11:34](https://youtu.be/WGXzKFn1zkM?t=694) – Together mode picture
 

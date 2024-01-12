@@ -45,7 +45,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * Script samples
     * NEW - [Get Hub Sites Details and Export it to
         CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html?tabs=pnpps)
-        \- [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
+        \- [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
     * NEW - [Export OneDrive
         Admins](https://pnp.github.io/script-samples/onedrive-export-admins/README.html?tabs=pnpps)
         \- [Matt Maher](https://github.com/Maher256/) \| Maher256
@@ -53,13 +53,13 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
         CSV](https://pnp.github.io/script-samples/spo-export-hub-sites-details-to-csv/README.html?tabs=pnpps)
         – Two additional tool updates
         \- [Jasey Waegebaert](https://github.com/Jwaegebaert) \| Jwaegebaert &
-        [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
+        [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
     * Updated - [List Guests within Teams in a
         tenant](https://pnp.github.io/script-samples/teams-list-guestusers/README.html?tabs=teamsps)
         \- [Jasey Waegebaert](https://github.com/Jwaegebaert) \| Jwaegebaert
     * Updated - [Export a csv report on all
         Whiteboards](https://pnp.github.io/script-samples/whiteboard-report-usage/README.html?tabs=whiteboard)
-        \- [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \|
+        \- [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \|
         @NanddeepNachan
 * Microsoft Teams samples
     * [HR Talent App
@@ -99,7 +99,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     tab, select a Team, view the Team’s properties, installed apps, channels,
     team members, etc. No need to go to Postman or Graph Explorer.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -107,34 +107,34 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert)
     (Microsoft) @O365bert – [6:24](https://youtu.be/6ko2z7RSjTY?t=384)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth)
     (Valo Intranet) \| @gautamdsheth –
     [8:11](https://youtu.be/6ko2z7RSjTY?t=491)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII)
+* yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerII – [9:54](https://youtu.be/6ko2z7RSjTY?t=594)
 * Microsoft Graph Toolkit updates - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [10:19](https://youtu.be/6ko2z7RSjTY?t=619)
 * Microsoft Script Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [4:06](https://youtu.be/6ko2z7RSjTY?t=246)
 * Microsoft Teams Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [11:04](https://youtu.be/6ko2z7RSjTY?t=664)
 * Microsoft Power Platform Samples - [David Warner
-    II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
+    II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –
     [11:37](https://youtu.be/6ko2z7RSjTY?t=697)
 * Demo - Updates on Independent Publisher Connectors & GitLab Connector Demo -
-    [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \|
-    @NataliePienkow1 & [Roy Paar](http://twitter.com/RoyPaar) (Microsoft) \|
+    [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \|
+    @NataliePienkow1 & [Roy Paar](https://twitter.com/RoyPaar) (Microsoft) \|
     @RoyPaar – [13:52](https://youtu.be/6ko2z7RSjTY?t=832)
 * Demo - List formatting magic - Discussion board formatting - [André
-    Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage –
+    Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage –
     [24:54](https://youtu.be/6ko2z7RSjTY?t=1494)
 * Demo - TeamsFx .NET - Introduction to Teams Explorer Sample - [Thomas
-    Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg –
+    Gölles](https://twitter.com/thomyg) (Solvion) \| @thomyg –
     [42:05](https://youtu.be/6ko2z7RSjTY?t=2525)
 
 ## Actions
@@ -195,7 +195,7 @@ call.
         [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
     * Demo - [TeamsFx .NET - Current Updates - April
         2022](https://youtu.be/5yULqXWIz2M?t=801) – [Thomy
-        Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg
+        Gölles](https://twitter.com/thomyg) (Solvion) \| @thomyg
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 

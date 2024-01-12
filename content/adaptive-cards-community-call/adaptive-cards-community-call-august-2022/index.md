@@ -16,7 +16,7 @@ videos:
 
 ## Call summary
 
-In this month’s community call, get an overview of the React Native Adaptive Cards Renderer and on usage of the React Native Adaptive Cards SDK in a Microsoft Viva Connections mobile app and in a LUIS chatbot app delivered by CEO & Founder – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) and his team at BigThinkCode. The community-supported React Native renderer for Adaptive Cards is maintained by BigThinkCode. There was a 10-minute Q&A covering a host of topics. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on August 11, 2022.
+In this month’s community call, get an overview of the React Native Adaptive Cards Renderer and on usage of the React Native Adaptive Cards SDK in a Microsoft Viva Connections mobile app and in a LUIS chatbot app delivered by CEO & Founder – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) and his team at BigThinkCode. The community-supported React Native renderer for Adaptive Cards is maintained by BigThinkCode. There was a 10-minute Q&A covering a host of topics. This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on August 11, 2022.
 
 {{< youtube 9x9YMNvdH3A >}}
 
@@ -24,7 +24,7 @@ In this month’s community call, get an overview of the React Native Adaptive C
 
 * React Native Adaptive Cards Renderer – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) (BigThinkCode) – [00:34](https://youtu.be/9x9YMNvdH3A?t=34)
 * Using the React Native Adaptive Cards Renderer in a Microsoft Viva Connections Mobile App – [Vasanthakumar Sarpasayanam](https://in.linkedin.com/in/vasanthakumar-sarpasayanam) (BigThinkCode) – [20:01](https://youtu.be/9x9YMNvdH3A?t=1201)
-* Q&A – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [30:50](https://youtu.be/9x9YMNvdH3A?t=1850)
+* Q&A – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [30:50](https://youtu.be/9x9YMNvdH3A?t=1850)
 
 ## Topic summary
 
@@ -67,7 +67,7 @@ Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Co
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 * Join us on September 8th at 09:00 am PT, Download the recurrent invite for this call – <https://aka.ms/adaptivecardscommunitycall>
 
 ## Resources in general

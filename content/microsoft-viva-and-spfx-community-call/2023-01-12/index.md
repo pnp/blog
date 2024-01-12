@@ -59,8 +59,8 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 * [14:18](https://youtu.be/UCtKZCODlXg?t=858) – PnP SPFx Controls – [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev
 * [15:05](https://youtu.be/UCtKZCODlXg?t=905) – Viva Connections Toolkit for Visual Studio Code – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * [15:28](https://youtu.be/UCtKZCODlXg?t=928) – PnP Modern Search – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
-* [15:51](https://youtu.be/UCtKZCODlXg?t=951) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
-* [16:55](https://youtu.be/UCtKZCODlXg?t=1015) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [15:51](https://youtu.be/UCtKZCODlXg?t=951) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
+* [16:55](https://youtu.be/UCtKZCODlXg?t=1015) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [17:13](https://youtu.be/UCtKZCODlXg?t=1033) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * [18:19](https://youtu.be/UCtKZCODlXg?t=1099) – Demo – Getting started with hTWOo React controls for Microsoft 365 – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis) \| @jfj1997
 * [37:47](https://youtu.be/UCtKZCODlXg?t=2267) – Demo – Adaptive Cards design samples for Viva Connections – [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) \| @sharepointalex

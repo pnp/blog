@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Oslo Norway based Power Platform Architect Lead and MVP at Avanade - [Ahmad Najjar](https://twitter.com/ahmadn82) \| @ahmadn82
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Oslo Norway based Power Platform Architect Lead and MVP at Avanade - [Ahmad Najjar](https://twitter.com/ahmadn82) \| @ahmadn82
 
 ## Topics discussed in this session
 

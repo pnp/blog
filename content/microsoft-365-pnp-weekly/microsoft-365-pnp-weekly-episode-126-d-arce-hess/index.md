@@ -14,7 +14,7 @@ videos:
 ---
 In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Rhode Island, US-based, MVP, professional archer, blogger and presenter specializing in UI/UX, information architecture and user adoption at TrnDigital, [D'arce Hess](https://twitter.com/DarceHess) | @ DarceHess.   Topics discussed in this session include:  The path to IT and on becoming an MVP, reflections on UX/UI changes over the years and designing custom experiences that addresses business processes.  In post pandemic times, organizations will be circling back to optimize Microsoft Teams experiences while vendors will continue efforts to land the right extensibility stories.   Microsoft Viva -- with great power comes great responsibility and ideas about prepping for Viva.   Finally, thoughts on women in IT and on using what we learn in school in the field.   
 
-Microsoft and the Community delivered 18 articles in this last week.  
+Microsoft and the Community delivered 18 articles in this last week. 
 
 This session was recorded on Monday, May 10, 2021. Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
@@ -50,7 +50,7 @@ everyone for your contributions to the community!
     @NovelNicole and Holland Kaviani (Microsoft)
 -   [New ways to use Microsoft Whiteboard for
     Education](https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-ways-to-use-microsoft-whiteboard-for-education/ba-p/2295661?WT.mc_id=m365-27875-wmastyka) -
-    [Ian Mikutel](http://www.twitter.com/ianmikutel) (Microsoft)
+    [Ian Mikutel](https://www.twitter.com/ianmikutel) (Microsoft)
     | @ianmikutel
 -   [Understanding the Office Add-ins
     runtime](https://developer.microsoft.com/microsoft-365/blogs/understanding-office-add-ins-runtime/?WT.mc_id=m365-27875-wmastyka) -

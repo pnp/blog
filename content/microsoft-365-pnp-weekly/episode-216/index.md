@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-We are back from summer break with episode 216 - or is it season 8, episode 1? In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Tennessee based Senior Platform Architect and Microsoft MVP [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent.
+We are back from summer break with episode 216 - or is it season 8, episode 1? In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Tennessee based Senior Platform Architect and Microsoft MVP [Chris kent](https://twitter.com/thechriskent) (Takeda) | @thechriskent.
 
 ## Topics discussed in this session
 

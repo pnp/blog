@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Independent consultant and Microsoft MVP - [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) \| @techChirag.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Independent consultant and Microsoft MVP - [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) \| @techChirag.
 
 ## Topics discussed in this session
 

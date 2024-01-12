@@ -45,9 +45,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New – Microsoft Graph SDK (PowerShell) – [Add users to follow SharePoint Sites](https://pnp.github.io/script-samples/spo-add-user-follow-site/README.html?tabs=graphps) - [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage
     * New – Microsoft Graph SDK (PowerShell) – [Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph PowerShell SDK](https://pnp.github.io/script-samples/graph-openai-get-page-summary/README.html?tabs=graphps) - [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) \| @anooptells
     * New – PnP PowerShell – [Remove Title Area from SharePoint Page](https://pnp.github.io/script-samples/spo-remove-page-title-area/README.html?tabs=pnpps) - [Ganesh Sanap](https://ganeshsanapblogs.wordpress.com/about/)
-    * New – PnP PowerShell – [Use Invoke-PnPSiteTemplate with parameters](https://pnp.github.io/script-samples/spo-apply-pnptemplate-with-parameters/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – PnP PowerShell – [Use Invoke-PnPSiteTemplate with parameters](https://pnp.github.io/script-samples/spo-apply-pnptemplate-with-parameters/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New – PnP PowerShell – [Export access shared links from SharePoint Library](https://pnp.github.io/script-samples/spo-export-file-shared-links/README.html?tabs=pnpps) - [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage
-    * New – PnP PowerShell – [Associate Multiple Site Collections to Hub Site](https://pnp.github.io/script-samples/spo-associate-multiple-sites-to-hub/README.html?tabs=pnpps) - [Siddharth Vaghasia](http://twitter.com/siddh_me) \| @siddh_me
+    * New – PnP PowerShell – [Associate Multiple Site Collections to Hub Site](https://pnp.github.io/script-samples/spo-associate-multiple-sites-to-hub/README.html?tabs=pnpps) - [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/) – Featured Teams App Samples with Full Tutorials
@@ -63,7 +63,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Conversations](https://aka.ms/pnpweekly)
     * Microsoft 365 Developer Podcast – Partner showcase: Building nBold with Guillaume Meyer (February 26th) \| [podcast](https://m365devpodcast.com/e/partner-series-building-nbold-with-guillaume-meyer/)
     * Microsoft 365 Developer Podcast – Kiota and Microsoft Graph SDKs with Vincent Biret and Rabeb Othmani (February 21st) \| [podcast](https://m365devpodcast.com/e/kiota-and-microsoft-graph-sdks-with-vincent-biret-and-rabeb-othmani/)
-    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](http://pnpweekly.podbean.com)
+    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](https://pnpweekly.podbean.com)
     * Microsoft 365 PnP Weekly – Episode 198 (February 21st) with Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-198/) \| [podcast](https://www.podbean.com/eas/pb-hfy3i-13965d2)
     * Power Platform Connections - Power Platform Connections Ep 2 - Scott Durow (February 23rd) \| [video](https://www.youtube.com/watch?v=CINlK7F3Nhg)
     * Power Platform Connections - Hugo loves the Ribbon Workbench Tool! (February 23rd) \| [video](https://www.youtube.com/watch?v=wY1-gVy1Tvg)
@@ -73,27 +73,27 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Build task automation solution between Planner and GitHub using Microsoft Graph** – looks at interactions between GitHub (or any app) and Planner via Microsoft Graph. Use case – create a PR (pull request) that lands as actionable Planner task for repo’s owner. PR initiates workflow that calls a GitHub action. Graph handles authentication and Planner task creation. Task in Planner contains link to PR. Code walk-through - node.js project, 3 .ts files, uses MSAL, app reg in Azure AD. Conversation - [aka.ms/Mar2-Demo1](https://aka.ms/Mar2-Demo1)
 * **Improve your test strategy with Microsoft Graph Developer Proxy** – a review affirming capabilities of Proxy to test the untestable and to improve the quality of your desktop apps by simulating responses to any API (Graph, not Graph). Run through UI automated and manual test scenarios in this demo. Review available parameters including ability to mock. Test results presented along with tips to fix. Test client applications without additional web APIs. Feedback always welcome. Conversation - [aka.ms/Mar2-Demo2](https://aka.ms/Mar2-Demo2)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 8kTtDbuW7-s >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/8kTtDbuW7-s?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/8kTtDbuW7-s?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[07:06](https://youtu.be/8kTtDbuW7-s?t=426) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[07:06](https://youtu.be/8kTtDbuW7-s?t=426) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[09:00](https://youtu.be/8kTtDbuW7-s?t=540) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+[09:00](https://youtu.be/8kTtDbuW7-s?t=540) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
 
 [10:56](https://youtu.be/8kTtDbuW7-s?t=656) – yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser
 
-[12:18](https://youtu.be/8kTtDbuW7-s?t=738) – Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen
+[12:18](https://youtu.be/8kTtDbuW7-s?t=738) – Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen)<https://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen
 
-[12:57](https://youtu.be/8kTtDbuW7-s?t=777) – Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
+[12:57](https://youtu.be/8kTtDbuW7-s?t=777) – Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
 
 [15:18](https://youtu.be/8kTtDbuW7-s?t=918) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[17:16](https://youtu.be/8kTtDbuW7-s?t=1036) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[17:16](https://youtu.be/8kTtDbuW7-s?t=1036) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [19:23](https://youtu.be/8kTtDbuW7-s?t=1163) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
@@ -133,7 +133,7 @@ Thank you everyone for joining the call today. Awesome to see you here and hopef
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

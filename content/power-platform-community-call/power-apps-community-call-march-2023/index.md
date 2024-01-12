@@ -21,7 +21,7 @@ Three demos: From Epilepsy to MVP - Empowerment using the Power Platform, Igniti
 
 Activities: 3 articles, 3 documents, 3 samples, 21 connectors, 6 Power Platform related video conversations recently delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on March 15, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on March 15, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -71,11 +71,11 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [01:33](https://youtu.be/jkPRm4gzxv0?t=93) – Power Platform News & Learn Updates – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
 
-[03:04](https://youtu.be/jkPRm4gzxv0?t=184) – Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[03:04](https://youtu.be/jkPRm4gzxv0?t=184) – Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [04:19](https://youtu.be/jkPRm4gzxv0?t=259) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[08:22](https://youtu.be/jkPRm4gzxv0?t=502) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[08:22](https://youtu.be/jkPRm4gzxv0?t=502) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [11:33](https://youtu.be/jkPRm4gzxv0?t=693) – Together mode picture
 

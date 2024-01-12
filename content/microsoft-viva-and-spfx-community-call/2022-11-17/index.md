@@ -79,11 +79,11 @@ The host of this call is [Marc D Anderson](https://twitter.com/sympmarc) (Sympra
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:31](https://youtu.be/7bvNLC1fn-U?t=391)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:38](https://youtu.be/7bvNLC1fn-U?t=518)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:38](https://youtu.be/7bvNLC1fn-U?t=518)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – [9:51](https://youtu.be/7bvNLC1fn-U?t=591)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [11:51](https://youtu.be/7bvNLC1fn-U?t=711)
 * PnP Modern Search - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting LLC) \| @sympmarc – [12:29](https://youtu.be/7bvNLC1fn-U?t=749)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:03](https://youtu.be/7bvNLC1fn-U?t=783)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:03](https://youtu.be/7bvNLC1fn-U?t=783)
 * Demo – Add form customizers to list web part – [Siddharth Vaghasia](https://twitter.com/siddh_me) (Tata Consulting) \| @siddh_me – [15:33](https://youtu.be/7bvNLC1fn-U?t=933)
 * Demo – Using Fluent UI 9 in SPFx solutions – [Nick Brown](https://twitter.com/techienickb) (Jisc) \| @techienickb – [26:46](https://youtu.be/7bvNLC1fn-U?t=1606)
 * Demo – Visualizing dynamically SharePoint data within SPFx solutions using ERD model – [Niklas Wilhelm](https://twitter.com/NiklasWilhelm4) (NetForce 365) \| @NiklasWilhelm4 – [41:00](https://youtu.be/7bvNLC1fn-U?t=2460)

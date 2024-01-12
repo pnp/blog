@@ -37,14 +37,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building Viva Connections ACE for public holidays** – thorough UX and code walkthrough on an ACE with a card view and multiple quick views to display the public holidays for user based on their detected or selected office location. Uses an ACE component type and InageCard template in SPFx v1.15.0. Relies on a SharePoint list with simple schema (title, location, date, image) in back-end. See upcoming holidays in Quick view.
 * **Accelerate SPFx development with reusable open-source controls** – overview on available PnP React controls and Property pane controls you can leverage in your SPFx solutions. The assignment: Create a carousel web part that will display images stored in a document library. The web part should work on site across tenant. A complex endeavor if starting from ground zero. See how controls are plugged into web part delivering a native experience in short order.
 
-The host of this call is [Garry Trinder](http://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder.  Q&A takes place as always in chat throughout the call.
 
 {{< youtube hrJaZcg4SCk >}}
 
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [9:43](https://youtu.be/hrJaZcg4SCk?t=583)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [13:04](https://youtu.be/hrJaZcg4SCk?t=784)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [13:04](https://youtu.be/hrJaZcg4SCk?t=784)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [14:55](https://youtu.be/hrJaZcg4SCk?t=895)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [17:54](https://youtu.be/hrJaZcg4SCk?t=1074)
 * PnP Modern Search - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [18:43](https://youtu.be/hrJaZcg4SCk?t=1123)

@@ -121,7 +121,7 @@ We do have APIs to get selected slides of a presentation: [PowerPoint.Presentati
 * [Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Unified Sample gallery](https://aka.ms/community/samples)
 * [Microsoft 365 Platform Community in YouTube](https://aka.ms/community/videos)
-* [Microsoft 365 Platform Community](http://aka.ms/community/home)
+* [Microsoft 365 Platform Community](https://aka.ms/community/home)
 * [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 * [Submit questions for next community call](https://aka.ms/officeaddinsform)
 * [Next community call – July 12th at 08:00am PT](https://aka.ms/officeaddinscommunitycall)

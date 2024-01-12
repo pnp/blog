@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Mike Maadarani](https://www.linkedin.com/in/mikemaadarani/) MVP and Cloud Solution Architect in Canada.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Mike Maadarani](https://www.linkedin.com/in/mikemaadarani/) MVP and Cloud Solution Architect in Canada.
 
 ## In this episode
 

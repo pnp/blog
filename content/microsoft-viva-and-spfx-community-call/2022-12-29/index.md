@@ -31,7 +31,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building SPFx Password Vault Web Part and SharePoint quick links extension for browser** – two solutions are presented here. From idea and design criteria to code and demos for the Password Vault web part (encrypted password protected page and data) and for the SharePoint Quicklinks extension (dynamic quick links to site contents, site settings, etc.). Install and configure web part and extension, look at the code – focusing on PasswordValueService for web part and on a single file for extension.
 * **My experience as a first-time contributor to CLI for Microsoft 365** – a personal step-by-step experience that includes practical guidance on how to contribute. Creating your local playground, creating a fork, identifying good first issues and types of issues, getting the green light to work on the issue, writing a command, creating a PR and PR approval. The chance to work with maintainers and yes, the sense of addiction you may experience in the process!
 
-The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
+The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
 
 {{< youtube 0snk0FWRMIY >}}
 

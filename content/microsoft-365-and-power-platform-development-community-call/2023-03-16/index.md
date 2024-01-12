@@ -40,10 +40,10 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Good Flow story? Tell us. [FlowOfTheWeek](https://aka.ms/FlowOfTheWeekForm) – aka.ms/FlowOfTheWeekForm
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New – Microsoft Graph SDK (PowerShell) – [Create test users using MS Graph API from a list or ask ChatGPT to generate users](https://pnp.github.io/script-samples/graph-create-test-users-with-chat-gpt/README.html?tabs=graphps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
-    * New – Microsoft Graph SDK (PowerShell) – [Locate all Teams having a Wiki and export the list to CSV](https://pnp.github.io/script-samples/graph-get-teams-tabs-export-to-csv/README.html?tabs=graphps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – Microsoft Graph SDK (PowerShell) – [Create test users using MS Graph API from a list or ask ChatGPT to generate users](https://pnp.github.io/script-samples/graph-create-test-users-with-chat-gpt/README.html?tabs=graphps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – Microsoft Graph SDK (PowerShell) – [Locate all Teams having a Wiki and export the list to CSV](https://pnp.github.io/script-samples/graph-get-teams-tabs-export-to-csv/README.html?tabs=graphps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * New – PnP PowerShell – [Update SharePoint Page Banner Image](https://pnp.github.io/script-samples/spo-update-page-banner-image/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * New – PnP PowerShell – [Using a PnP Site Template including files and list items](https://pnp.github.io/script-samples/spo-apply-pnptemplate-with-files-and-listitems/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – PnP PowerShell – [Using a PnP Site Template including files and list items](https://pnp.github.io/script-samples/spo-apply-pnptemplate-with-files-and-listitems/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * Updated – Microsoft Graph SDK (PowerShell) – [Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph PowerShell](https://pnp.github.io/script-samples/graph-openai-get-page-summary/README.html?tabs=graphps) - [Anoop Tatti](https://twitter.com/anooptells) (Content and Code) \| @anooptells
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
@@ -66,29 +66,29 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Harnessing the Power of OpenAI inside Power Virtual Agents** – explore solutions delivered by Power Virtual Agents (PVA) - fallback topics, quick replies and use of Adaptive Cards for formatting answers. Use Power Automate – for getting and updating data. These solutions call OpenAI Davinci for text answers and DALL-E for images. Define simple and complex queries. Scope to control/limit source data. Refine script queries using ChatGPT’s 3.5 turbo pushing against Azure OpenAI. UI and code walkthroughs. Conversation [aka.ms/Mar16-Demo1](https://aka.ms/Mar16-Demo1)
 * **Editing Site Headers in Power Pages** – new capabilities make it easy to manage site header and navigation style to comply with branding guidelines. Step through creating a new site, selecting site template, then editing text and layout of site page. Edit header by going to Styling Workspace, insert brand colors, apply to site elements. Optionally, site header can be edited in VS Code! Maintain header style/layout separate from page content. Conversation [aka.ms/Mar16-Demo2](https://aka.ms/Mar16-Demo2)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube jBXS1gyZ3uU >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/jBXS1gyZ3uU?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/jBXS1gyZ3uU?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[07:11](https://youtu.be/jBXS1gyZ3uU?t=431) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[07:11](https://youtu.be/jBXS1gyZ3uU?t=431) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[09:35](https://youtu.be/jBXS1gyZ3uU?t=575) – PnP PowerShell updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[09:35](https://youtu.be/jBXS1gyZ3uU?t=575) – PnP PowerShell updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[10:25](https://youtu.be/jBXS1gyZ3uU?t=625) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+[10:25](https://youtu.be/jBXS1gyZ3uU?t=625) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 
 [11:50](https://youtu.be/jBXS1gyZ3uU?t=710) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[13:37](https://youtu.be/jBXS1gyZ3uU?t=817) – Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
+[13:37](https://youtu.be/jBXS1gyZ3uU?t=817) – Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
 
 [15:50](https://youtu.be/jBXS1gyZ3uU?t=950) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[17:18](https://youtu.be/jBXS1gyZ3uU?t=1038) – Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[17:18](https://youtu.be/jBXS1gyZ3uU?t=1038) – Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[17:59](https://youtu.be/jBXS1gyZ3uU?t=1079) – Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[17:59](https://youtu.be/jBXS1gyZ3uU?t=1079) – Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [18:39](https://youtu.be/jBXS1gyZ3uU?t=1119) – Microsoft Power Platform Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
@@ -125,7 +125,7 @@ The stretching, primping, and positioning that goes on up to the point the photo
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

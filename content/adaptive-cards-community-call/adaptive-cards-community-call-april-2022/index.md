@@ -20,9 +20,9 @@ Universal Actions + Messaging Extensions (elevating user experiences with
 Universal Actions and Messaging Extensions on Teams and Outlook – walkthrough
 capabilities and value propositions) - Karan Thapar (Microsoft), Accessibility
 Updates (Accessibility work and SDK v1.6 release) – [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft), and 15 minute live Q&A primarily
+Roca](https://twitter.com/jpthepm) (Microsoft), and 15 minute live Q&A primarily
 focused on Universal Actions + Messaging Extensions. This call was hosted by
-[J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on
+[J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on
 April 14, 2022.
 
 {{< youtube 6Z8U4bSicgk >}}
@@ -31,7 +31,7 @@ April 14, 2022.
 
 * Universal Actions + Messaging Extensions - Karan Thapar (Microsoft) –
     [00:37](https://youtu.be/6Z8U4bSicgk?t=37)
-* Accessibility Updates - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft)
+* Accessibility Updates - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft)
     \| @jpthepm – [21:02](https://youtu.be/6Z8U4bSicgk?t=1262)
 * Q&A - J.P. Roca (Microsoft) \| @jpthepm & [Karan
     Thapar](https://www.linkedin.com/in/karanthapar91/) (Microsoft)

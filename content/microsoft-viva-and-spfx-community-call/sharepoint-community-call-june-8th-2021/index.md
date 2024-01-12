@@ -167,7 +167,7 @@ Additional resources on covered topics and discussions.
 ## Additional resources
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
--   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
+-   [PnP Weekly - Podcasts](https://pnpweekly.podbean.com/)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
@@ -185,7 +185,7 @@ Additional resources on covered topics and discussions.
     - <https://aka.ms/spdev-call>
 -   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
 -   SharePoint Development Issues - <https://aka.ms/spdev-issues>
--   SharePoint GitHub organization - <http://github.com/SharePoint>
+-   SharePoint GitHub organization - <https://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests
     - <https://aka.ms/spdev-uservoice>
 

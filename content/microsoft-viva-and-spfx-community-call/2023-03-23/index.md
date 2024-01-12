@@ -76,9 +76,9 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [14:07](https://youtu.be/v-P2Hcwcarc?t=847) – PnP Modern Search – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) @bernierh
 
-[14:35](https://youtu.be/v-P2Hcwcarc?t=875) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[14:35](https://youtu.be/v-P2Hcwcarc?t=875) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[15:04](https://youtu.be/v-P2Hcwcarc?t=904) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[15:04](https://youtu.be/v-P2Hcwcarc?t=904) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [15:39](https://youtu.be/v-P2Hcwcarc?t=939) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 

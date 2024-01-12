@@ -57,4 +57,4 @@ Latest changes in token customization that include token claims issuance policy 
 * See the full blog post for this call in the Microsoft 365 platform community blog - <https://aka.ms/community/blog>
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/community/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
-* Microsoft 365 Platform Community - <http://aka.ms/community/home>
+* Microsoft 365 Platform Community - <https://aka.ms/community/home>

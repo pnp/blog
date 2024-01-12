@@ -58,24 +58,24 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     The new script button shown in demo is a first offering that works on Excel
     \- web and Windows.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube xcQQ5AOldb4 >}}
 
 ## Agenda items
 
 * Latest updates and news on the Microsoft 365 platform – [Vesa
-    Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen –
+    Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen –
     [6:47](https://youtu.be/xcQQ5AOldb4?t=407)
 * Demo - Extend your Microsoft Teams app to Outlook and Office.com – [Erin
     Bailie](https://www.linkedin.com/in/erinbailie/) (Microsoft) –
     [9:54](https://youtu.be/xcQQ5AOldb4?t=594)
 * Demo - Introducing new M365 Assessment Tool with SharePoint Syntex Module –
-    [Bert Jansen](http://twitter.com/O365Bert) (Microsoft) \| @O365Bert and
-    [James Eccles](http://twitter.com/jimdeccles) (Microsoft) \| @jimdeccles –
+    [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) \| @O365Bert and
+    [James Eccles](https://twitter.com/jimdeccles) (Microsoft) \| @jimdeccles –
     [22:10](https://youtu.be/xcQQ5AOldb4?t=1330)
 * Demo - Run Office Scripts with a button- now in Excel for Windows – [Nancy
-    Wang](http://twitter.com/nancyatMSFT) (Microsoft) \| @nancyatMSFT –
+    Wang](https://twitter.com/nancyatMSFT) (Microsoft) \| @nancyatMSFT –
     [40:51](https://youtu.be/xcQQ5AOldb4?t=2451)
 
 
@@ -85,7 +85,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 * Register for [Microsoft Tech Days](https://aka.ms/techdays/m365) \|
     Thursday, May 5, 2022.
-* Register for [Microsoft Build](http://register.build.microsoft.com) \| May
+* Register for [Microsoft Build](https://register.build.microsoft.com) \| May
     24-26, 2022
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/)
@@ -123,9 +123,9 @@ Thank you for your creativity and work execution. Samples are often showcased in
         \| aka.ms/TeamsJSSDK
     * Demo - [Extending Teams apps to Outlook and
         Office.com](https://youtu.be/JckgmonMbCM?t=1776) – [Saurabh
-        Bhatia](http://twitter.com/iamSBTron) (Microsoft) \| @iamSBTron
+        Bhatia](https://twitter.com/iamSBTron) (Microsoft) \| @iamSBTron
     * Topic related sessions at Microsoft Build \| May 24-26, 2022 \|
-        [Register now](http://register.build.microsoft.com)
+        [Register now](https://register.build.microsoft.com)
 * **Introducing new M365 Assessment Tool with SharePoint Syntex Module**
     * Tool - [Microsoft 365 Assessment
         tool](https://pnp.github.io/pnpassessment/index.html) \|

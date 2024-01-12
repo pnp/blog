@@ -32,7 +32,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * Article – [SharePoint in the AI Era: Introducing Copilot in SharePoint & 10 more innovations for creators](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-in-the-ai-era-introducing-copilot-in-sharepoint-amp/ba-p/3806069) - [Adam Harmetz](https://twitter.com/adamharmetz) (Microsoft) \| @AdamHarmetz
     * Article – [Microsoft Lists: Easier, Better, Faster, Stronger](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-lists-easier-better-faster-stronger/ba-p/3806075) - Lincoln DeMaris (Microsoft)
     * Article – [New era in content management and security in SharePoint, OneDrive, and Teams](https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-era-in-content-management-and-security-in-sharepoint/ba-p/3806083) - [Sesha Mani](https://twitter.com/seshamanis) (Microsoft) \| @SeshaManiS
-    * Article – [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-2-for-microsoft-365-extensibility/) - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
+    * Article – [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-2-for-microsoft-365-extensibility/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
     * Article – [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/) – Mengke Li (Microsoft) & Adriana Wook (Microsoft)
     * Article – [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm & Kristen Womack (Microsoft)
     * [Microsoft 365 Sample Solution Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/) has 1560+ samples now! aka.ms/m365/samples
@@ -56,7 +56,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Latest on the SharePoint site templates - Site creation and template updates** – refreshed templates that further simplify the site creation process. Templates show site capabilities and what’s included with template. Preview every page/list, can go back and change template. Create site, add members, add permissions, people can access site as soon as it is created. Templates for both Teams and Communications sites. Q&A includes possible future enhancements. Look book and SharePoint templates similar/different.
 * **Latest on using SharePoint Framework for Microsoft Teams extensibility** – SPFx uses Teams SDK v2.9.1 by default and a custom or auto generated manifest. Solutions created for Teams are also available automatically in Outlook and Microsoft 365 app. See simple steps to onboard a SharePoint web part into Microsoft Teams. The Teams SDK is natively available in context and Teams Toolkit supports SharePoint Framework. As well, improved debugging for SPFx provided by Teams Toolkit v5.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube fMxtUKL82mk >}}
 
@@ -88,7 +88,7 @@ A room filled with familiar faces including many from last week’s Microsoft 36
 
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

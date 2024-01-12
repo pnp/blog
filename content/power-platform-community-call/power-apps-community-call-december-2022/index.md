@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – How to get output from a Teams Adaptive card with Power Automate, Making HR benefits enrollment more fun with Power Apps, Power Automate & SharePoint, and Deep linking a Power App to replicate InfoPath. Connect to other makers in your organization via chatbot, now in public preview - aka.ms/makermatch. Monthly Community Tip - “Quickly reduce control counts in your Power Apps.”  This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on December 21, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – How to get output from a Teams Adaptive card with Power Automate, Making HR benefits enrollment more fun with Power Apps, Power Automate & SharePoint, and Deep linking a Power App to replicate InfoPath. Connect to other makers in your organization via chatbot, now in public preview - aka.ms/makermatch. Monthly Community Tip - “Quickly reduce control counts in your Power Apps.”  This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on December 21, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -47,7 +47,7 @@ Latest updates and news on Power Platform including community events, training o
 ## Agenda items
 
 * [01:52](https://youtu.be/s2ZEvuUddg8?t=112) – Latest Power Apps Samples – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
-* [06:26](https://youtu.be/s2ZEvuUddg8?t=386) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [06:26](https://youtu.be/s2ZEvuUddg8?t=386) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [10:28](https://youtu.be/s2ZEvuUddg8?t=628) – Monthly Community Tip – “Quickly reduce control counts in your Power Apps” - [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) \| @toddbaginski
 * [13:18](https://youtu.be/s2ZEvuUddg8?t=798) – Together mode picture
 * [14:02](https://youtu.be/s2ZEvuUddg8?t=842) – Demo - How to get output from a Teams Adaptive card with Power Automate – [Nathalie Leenders](https://twitter.com/NathLeenders) \| @NathLeenders

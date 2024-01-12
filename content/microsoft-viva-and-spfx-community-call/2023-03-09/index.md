@@ -49,8 +49,8 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * New - [Daily Insights with ChatGPT](https://github.com/pnp/sp-dev-fx-aces/pull/125) - [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me
     * Updated - [Join New Teams Upgrade – SPFx 1.16.1](https://github.com/pnp/sp-dev-fx-aces/pull/126)- [Aimery Thomas](https://twitter.com/aimery_Thomas) \| @aimery_thomas
 * Conversations
-    * Microsoft 365 PnP Weekly – Episode 200 (March 6th) with hossts [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert, [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-200/) \| [podcast](https://www.podbean.com/eas/pb-cuzet-13ad58a)
-    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](http://pnpweekly.podbean.com)
+    * Microsoft 365 PnP Weekly – Episode 200 (March 6th) with hossts [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert, [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-200/) \| [podcast](https://www.podbean.com/eas/pb-cuzet-13ad58a)
+    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](https://pnpweekly.podbean.com)
 
 ### Demos
 
@@ -67,7 +67,7 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [04:48](https://youtu.be/GKZ0WSUXoxI?t=288) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
-[06:19](https://youtu.be/GKZ0WSUXoxI?t=379) – PnPjs Client-Side Libraries – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
+[06:19](https://youtu.be/GKZ0WSUXoxI?t=379) – PnPjs Client-Side Libraries – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
 
 [07:11](https://youtu.be/GKZ0WSUXoxI?t=431) – CLI for Microsoft 365 – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
@@ -79,9 +79,9 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [12:09](https://youtu.be/GKZ0WSUXoxI?t=729) – PnP Modern Search – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) @bernierh
 
-[12:55](https://youtu.be/GKZ0WSUXoxI?t=775) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[12:55](https://youtu.be/GKZ0WSUXoxI?t=775) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[14:53](https://youtu.be/GKZ0WSUXoxI?t=893) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[14:53](https://youtu.be/GKZ0WSUXoxI?t=893) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [15:46](https://youtu.be/GKZ0WSUXoxI?t=946) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 

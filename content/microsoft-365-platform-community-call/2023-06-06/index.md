@@ -48,7 +48,7 @@ Announcements
 * **Introduction to Bot Framework powered Viva Connections cards** – leverage your existing bot investments (code) and expose functionality in Viva. Teach your bot how to speak Viva! Learn about Bot powered ACEs, implementation details, packaging and distribution. No Coding, self-contained bot deployed to SharePoint via a package. Step through code, manifest, create package, upload to app catalog, go to dashboard, add card. Talk about authentication and updating, Capability goes to Public Preview this week.
 * **Extend SPFx apps across Microsoft 365 - Contoso Retail scenario** – shows an end-to-end Microsoft Teams personal app with web parts and widgets created with SharePoint Framework. Solution uses SPFx (v1.17). The Dashboard can be rendered in SharePoint Online, Teams, Microsoft 365 Portal, and Outlook.com. Secured Azure functions in back-end. Solution is deployed in tenant’s app catalog. Thoughts on architecture. Step through code and manifest to understand how solution was built.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 7cxrkGD2UL8 >}}
 

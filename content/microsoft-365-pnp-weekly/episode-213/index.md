@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
 
 ## Topics discussed in this session
 

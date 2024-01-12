@@ -15,7 +15,7 @@ videos:
 
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based, member of the Customer Engineering Team focused on developer enablement and on PnPjs project, [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based, member of the Customer Engineering Team focused on developer enablement and on PnPjs project, [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.
 
 ## Topics discussed in this session
 

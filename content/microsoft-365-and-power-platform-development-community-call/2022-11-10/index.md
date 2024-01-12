@@ -39,9 +39,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New – DeepLIP - Michal Romiszewski
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New - PnP PowerShell – [Download all the content type document templates files associated with a library](https://pnp.github.io/script-samples/spo-list-download-contenttype-documenttemplate/README.html?tabs=pnpps) - [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
-    * New - PnP PowerShell – [Gets usage from a particular user(s) or site(s) from the Unified Audit Log](https://pnp.github.io/script-samples/spo-get-usage-from-audit-logs/README.html?tabs=pnpps) - [Russell Gove](http://twitter.com/russgove) (Tronox) \| @russgove
-    * New - PnP PowerShell – [Copy the folder structure of a directory to a SharePoint List](https://pnp.github.io/script-samples/spo-copy-directory-structure-to-sharepoint-list/README.html?tabs=pnpps) - [Russell Gove](http://twitter.com/russgove) (Tronox) \| @russgove
+    * New - PnP PowerShell – [Download all the content type document templates files associated with a library](https://pnp.github.io/script-samples/spo-list-download-contenttype-documenttemplate/README.html?tabs=pnpps) - [Leon Armston](https://twitter.com/LeonArmston) \| @LeonArmston
+    * New - PnP PowerShell – [Gets usage from a particular user(s) or site(s) from the Unified Audit Log](https://pnp.github.io/script-samples/spo-get-usage-from-audit-logs/README.html?tabs=pnpps) - [Russell Gove](https://twitter.com/russgove) (Tronox) \| @russgove
+    * New - PnP PowerShell – [Copy the folder structure of a directory to a SharePoint List](https://pnp.github.io/script-samples/spo-copy-directory-structure-to-sharepoint-list/README.html?tabs=pnpps) - [Russell Gove](https://twitter.com/russgove) (Tronox) \| @russgove
     * [Extensions for PnP PowerShell and CLI for Microsoft 365](https://marketplace.visualstudio.com/publishers/adamwojcikit) – [Adam Wójcik](https://twitter.com/Adam25858782) \| @Adam25858782
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
@@ -56,21 +56,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **PowerShell predictors - PnP PowerShell and CLI for Microsoft 365** – the team has created an extension that allows you to add PnP cmdlets to the open-source PSReadLine module that predicts or suggests PnP PowerShell and CLI for Microsoft 365 cmdlets when typing on the cmd line. The predictor capability in PowerShell 7 suggests recently used cmdlets (History) and now PnP cmdlets (PnP Predictor). Select a cmdlet and cycle through arguments.
 * **Create an internal community for Power Platform users with Power Platform Communication Site Template** – This optimized template comes with a trove of supporting content for makers including learning, strategy (Center of Excellence Strategy), and best practices to help drive awareness, connection and adoption of Power Platform within an organization. The template, PowerShell scripts and guidance are available to download today. Walk through site and supporting materials for deploying site. Areas in template requiring customer input are highlighted.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 3Utq8ZVvOeE >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:48](https://youtu.be/3Utq8ZVvOeE?t=408)
-* PnP PowerShell updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:19](https://youtu.be/3Utq8ZVvOeE?t=559)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [6:48](https://youtu.be/3Utq8ZVvOeE?t=408)
+* PnP PowerShell updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:19](https://youtu.be/3Utq8ZVvOeE?t=559)
 * yo Teams updates - [Thomy Gölles](https://twitter.com/thomyg) (Solvion) \| @thomyg – [10:35](https://youtu.be/3Utq8ZVvOeE?t=635)
 * Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev – [12:28](https://youtu.be/3Utq8ZVvOeE?t=748)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:02](https://youtu.be/3Utq8ZVvOeE?t=902)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:02](https://youtu.be/3Utq8ZVvOeE?t=902)
 * Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [15:44](https://youtu.be/3Utq8ZVvOeE?t=944)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [17:46](https://youtu.be/3Utq8ZVvOeE?t=1066)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [17:46](https://youtu.be/3Utq8ZVvOeE?t=1066)
 * Microsoft Teams Samples – [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [19:26](https://youtu.be/3Utq8ZVvOeE?t=1166)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [20:56](https://youtu.be/3Utq8ZVvOeE?t=1256)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [20:56](https://youtu.be/3Utq8ZVvOeE?t=1256)
 * Demo – PowerShell predictors - PnP PowerShell and CLI for Microsoft 365 – [Anoop Tatti](https://twitter.com/anooptells) (Content + Cloud) \| @anooptells – [22:30](https://youtu.be/3Utq8ZVvOeE?t=1350)
 * Demo – Create an internal community for Power Platform users with Power Platform Communication Site Template – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz – [39:44](https://youtu.be/3Utq8ZVvOeE?t=2384)
 
@@ -99,7 +99,7 @@ Thank you for joining this call today with your community mates. Your feedback i
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

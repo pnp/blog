@@ -15,10 +15,10 @@ videos:
 
 
 In this installment of the weekly discussion revolving around the latest news
-and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek
-Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by
+and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek
+Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by
 California, US based Power Platform Community Program Manager, [David
-Warner](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII.
+Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII.
 
 ## Topics discussed in this session
 

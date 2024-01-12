@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](https://twitter.com/YannickReekmans) \| @YannickReekmans.
 
 ## Topics discussed in this session
 
@@ -24,7 +24,7 @@ Since his last appearance on [PnP Weekly – Episode 92](https://techcommunity.m
 * What is [\#FusionDev](https://twitter.com/hashtag/FusionDev) all about and objectives?
 * Top 3s - 3 tips on [staying up to date on latest technologies](https://blog.yannickreekmans.be/how-i-stay-up-to-date-on-microsoft-cloud/), 3 tips on starting a business, and 3 ideas on how Microsoft can do better for partners.
 
-Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -37,10 +37,10 @@ This session was recorded on Friday, June 3, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 0lCh3-0nhUI >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-uvjxj-1244047 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -64,7 +64,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [How does the SharePoint Framework (SPFx) work?](https://www.youtube.com/watch?v=lb_vbTBfjXo) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 * [Episode #208 - Using the PnP SecurityTrimmedControl control in SPFx solutions](https://www.youtube.com/watch?v=NXLkOigTqXk)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps Zoom an Image Control](https://www.youtube.com/watch?v=OoqlEqms6F8) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-  
+
 ## Additional resources
 
 

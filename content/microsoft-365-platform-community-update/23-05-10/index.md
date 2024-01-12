@@ -33,7 +33,7 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 
 * Microsoft 365 & Power Platform Community - [https://aka.ms/community/home](https://aka.ms/community/home) - One location for all the resources and news around Microsoft 365 & Power Platform
 * Microsoft 365 & Power Platform samples - [https://aka.ms/community/samples](https://aka.ms/community/samples)
-* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](http://aka.ms/community/blog)
+* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](https://aka.ms/community/blog)
 * Microsoft 365 & Power Platform Channel on YouTube - [https://aka.ms/community/videos](https://aka.ms/community/videos)
 
 Microsoft 365 Developer assets:

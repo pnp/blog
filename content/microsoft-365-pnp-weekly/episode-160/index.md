@@ -108,7 +108,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [Dude. Where’s my Power Apps? -
     \#234](https://regarding365.com/dude-wheres-my-power-apps-d18f155169ed) -
     [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) \|
-    @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern
+    @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern
     Workplace Change) \| @darrellaas
 *   [Episode \#199 - Disabling Guest Users via Power
     Automate](https://www.youtube.com/watch?v=JkOoVDZVjeA) - [Paolo

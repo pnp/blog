@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Keith Atherton](https://twitter.com/MrKeithAtherton) Software Developer at Quorum in the UK working on all things Microsoft Cloud and Business Applications MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Keith Atherton](https://twitter.com/MrKeithAtherton) Software Developer at Quorum in the UK working on all things Microsoft Cloud and Business Applications MVP.
 
 We really really really tried again to get this to 60 minutes and failed miserably. It's the silent Finn, who just can't stop talking. We will keep on trying. Hopefully you enjoy the episode regardless.
 

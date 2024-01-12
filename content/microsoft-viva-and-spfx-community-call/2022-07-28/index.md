@@ -27,11 +27,11 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) –
         v5.5.0 (GA)
 * Web part samples
-    * Room Chat - [João Mendes](http://twitter.com/joaojmendes) \|
+    * Room Chat - [João Mendes](https://twitter.com/joaojmendes) \|
         @joaojmendes
     * [Page
         Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator)
-        \- [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+        \- [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
 
 ### Demos
 
@@ -52,7 +52,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     package and deploy using PowerShell.
 
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -60,19 +60,19 @@ call.
 
 ## Agenda items
 
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997)
     (Sympraxis Consulting) \| @jfj1997 –
     [7:02](https://youtu.be/oheJxCGA_cw?t=422)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder)
     (CPS Solutions) \| @garrytrinder –
     [8:59](https://youtu.be/oheJxCGA_cw?t=539)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [11:47](https://youtu.be/oheJxCGA_cw?t=707)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [13:01](https://youtu.be/oheJxCGA_cw?t=781)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerI – [14:14](https://youtu.be/oheJxCGA_cw?t=854)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerII –[14:53](https://youtu.be/oheJxCGA_cw?t=893)
 * Demo - Using OneDrive File Picker v8 control in your solution – [Patrick
     Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler

@@ -58,7 +58,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Bring your existing projects to Teams Toolkit for Visual Studio Code** – covers several new features in Teams Toolkit v5.0 that make it much easier to migrate what you have to Teams. To create/deploy Teams app today is a lot of work. The task is simplified. Key v5.0 features reviewed – project files, pre-defined actions, and Visual Studio Dev Tunnels. Inspect differences in code walk through as migrate existing Teams Conversation Bot SSO quick-start sample into a Teams Toolkit project.
 * **Building a Magic Note app to plan the day efficiently with AI & Microsoft Graph** – introducing the first-place winner of Hack Together. Magic Note is an AI-powered application that’s your daily minder/assistant. App captures your randomly organized activities list. Uses AI and Microsoft Graph to organize and build your daily schedule. Edit/approve entries after which app updates m365 connected resources (events, meetings, to-do tasks, etc.). The Windows 10/11 app uses Microsoft Graph, Azure conversational language understanding cognitive service and .NET.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube -1PsPpidDgA >}}
 
@@ -66,7 +66,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/-1PsPpidDgA?t=0) – Intro
 
-[08:56](https://youtu.be/-1PsPpidDgA?t=536) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[08:56](https://youtu.be/-1PsPpidDgA?t=536) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [10:28](https://youtu.be/-1PsPpidDgA?t=628) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 
@@ -95,7 +95,7 @@ Thank you for joining the call. A packed house today. Looking forward to seeing 
 * [Register](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df) for the Microsoft Teams Toolkit Cloud Skills Challenge, April 12th – 26th. \| aka.ms/LearnTeamsToolkit
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

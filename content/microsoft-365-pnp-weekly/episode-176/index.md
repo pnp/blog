@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based [Daniel Laskewitz](https://twitter.com/laskewitz), Microsoft Senior Cloud Developer Advocate – Power Platform \| @laskewitz
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based [Daniel Laskewitz](https://twitter.com/laskewitz), Microsoft Senior Cloud Developer Advocate – Power Platform \| @laskewitz
 
 ## Topics discussed in this session
 
@@ -78,9 +78,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [CLI for Microsoft 365 v5.7](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-7/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) - @Adam25858782
 * [Series: Build Power Apps that don't look like Power Apps - Material Design part](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-1/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
-* [Use Microsoft Graph delta approach to increase performance getting SharePoint list items](https://mmsharepoint.wordpress.com/2022/08/22/use-microsoft-graph-delta-approach-to-increase-performance-getting-sharepoint-list-items/) - [Markus Moeller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Use Microsoft Graph delta approach to increase performance getting SharePoint list items](https://mmsharepoint.wordpress.com/2022/08/22/use-microsoft-graph-delta-approach-to-increase-performance-getting-sharepoint-list-items/) - [Markus Moeller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Getting notified of service incidents in Microsoft Teams](https://www.blimped.nl/getting-notified-of-service-incidents-in-microsoft-teams/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
-* [Episode #219 - Using the Search Filters Web Part of PnP Modern Search](https://www.youtube.com/watch?v=Sl0dcgd70Q4) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Episode #219 - Using the Search Filters Web Part of PnP Modern Search](https://www.youtube.com/watch?v=Sl0dcgd70Q4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Getting Started with Microsoft Graph and PowerShell](https://www.youtube.com/watch?v=oilylijvbic) - [Travis Roberts](https://twitter.com/Ciraltos) (RBA) | @Ciraltos
 * [Let’s go! Learn SPFx Today! | Build a webpart using PnP and ReactJS - INTRODUCTION PART 2 of 5](https://www.youtube.com/watch?v=smBPrsw_Y7U) - [Rob Pearmain](https://twitter.com/robertpearmain) (yorcloud) | @robertpearmain
 

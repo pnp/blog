@@ -45,14 +45,14 @@ Welcome to our first of three Microsoft 365 Platform - Holiday season coffee and
     * Article – [Microsoft Teams Premium preview now available](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-premium-preview-now-available/ba-p/3699262) - Margi Desai (Microsoft)
     * Article – [Feature Focus with Microsoft MVPs: S6-E5 \| Microsoft Teams for EDU & Approvals in Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/feature-focus-with-microsoft-mvps-s6-e5-microsoft-teams-for-edu/ba-p/3697476) – Stephen Rose (Microsoft)
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
 
 {{< youtube hsoV_ALT0Y0 >}}
 
 ## Agenda items
 
-* [15:36](https://youtu.be/hsoV_ALT0Y0?t=936) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [17:17](https://youtu.be/hsoV_ALT0Y0?t=1037) – Questions, feedback, discussions – [David Warner](https://twitter.com/DavidWarnerII) \| @DavidWarnerII, [Brian T Jackett](https://twitter.com/BrianTJackett) \| @BrianTJackett, [Fabian Williams](https://twitter.com/fabianwilliams) \| @fabianwilliams, [Bert Jansen](https://twitter.com/O365bert) \| @O365bert and [Vesa Juvonen](http://twitter.com/vesajuvonen) \|@vesajuvonen
+* [15:36](https://youtu.be/hsoV_ALT0Y0?t=936) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* [17:17](https://youtu.be/hsoV_ALT0Y0?t=1037) – Questions, feedback, discussions – [David Warner](https://twitter.com/DavidWarnerII) \| @DavidWarnerII, [Brian T Jackett](https://twitter.com/BrianTJackett) \| @BrianTJackett, [Fabian Williams](https://twitter.com/fabianwilliams) \| @fabianwilliams, [Bert Jansen](https://twitter.com/O365bert) \| @O365bert and [Vesa Juvonen](https://twitter.com/vesajuvonen) \|@vesajuvonen
 
 ## Actions
 

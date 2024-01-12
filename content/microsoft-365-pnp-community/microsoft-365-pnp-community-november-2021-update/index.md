@@ -349,7 +349,7 @@ Microsoft are located in the SharePoint GitHub organization\
 
 -   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source
     for new SharePoint dev center documentation exposed from
-    [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
+    [https://learn.microsoft.com/sharepoint/dev](https://learn.microsoft.com/sharepoint/dev/)
 -   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) -
     Open-source templates used by the [SharePoint Look Book
     site](https://lookbook.microsoft.com/)
@@ -1055,17 +1055,13 @@ material, demo videos, and community call recordings.
 Here are the new Microsoft demo or guidance videos released since the
 last monthly summary:
 
--   [Building custom search layout experiences in SharePoint with
-    Microsoft
-    Search](http://building%20custom%20search%20layout%20experiences%20in%20sharepoint%20with%20microsoft%20search/) - Jyoti
-    Pal (Microsoft)
 -   [Getting started on using Microsoft Viva Connections in your
     tenant](https://www.youtube.com/watch?v=2PJs-fO0qP8) - Tejas Mehta
     (Microsoft) | @ tpmehta
 -   [Introduction to Microsoft Viva Connections
     extensibility](https://www.youtube.com/watch?v=t_hLU25IvKU) - [Ed
     Averett](https://twitter.com/Ed_Averett) (Microsoft)
-    | [@ed](https://techcommunity.microsoft.comhttps://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65134)\_Averett
+    | [@ed](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/65134)\_Averett
 -   [Azure AD Verifiable Credentials - Request API -- October
     2021](https://www.youtube.com/watch?v=97V9_MoMwEs) - [ Matthijs
     Hoekstra](https://twitter.com/mahoekst) (Microsoft) | @mahoekst

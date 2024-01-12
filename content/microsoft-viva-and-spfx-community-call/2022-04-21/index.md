@@ -42,10 +42,10 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 *   Extension samples
     *   [News
         Ticker](https://github.com/pnp/sp-dev-fx-extensions/blob/main/samples/react-application-news-ticker)
-        \- [Sudharsan Kesavanarayanan](http://twitter.com/sudharsank) \|
+        \- [Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) \|
         @sudharsank
 *   Web part samples (\* in processing)
-    *   NEW: FluentUI 9\* - [Nick Brown](http://twitter.com/techiekb) \|
+    *   NEW: FluentUI 9\* - [Nick Brown](https://twitter.com/techiekb) \|
         @techiekb
     *   NEW: [Tab Accordion with Rich Text
         Editing](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-accordion-with-richtext)
@@ -53,25 +53,25 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
         arunkumarperumal
     *   [Cherry-Picked
         Content](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-cherry-picked-content)
-        \- [Christophe Humbert](http://twitter.com/Path2SharePoint) \|
+        \- [Christophe Humbert](https://twitter.com/Path2SharePoint) \|
         @Path2SharePoint
     *   [Birthdays](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-birthdays)
         \- [Milan Holemans](https://www.linkedin.com/in/milan-holemans/)
     *   [Dynamic Scalable Vector Graphics
         (SVG)](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/js-propertycontrols-svg)
-        \- [Nader Hadjebi](http://twitter.com/nader2015) \| @nader2015
+        \- [Nader Hadjebi](https://twitter.com/nader2015) \| @nader2015
     *   [Tour
         Sample](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-tour-pnpjs)
-        \- [Mike Homol](http://twitter.com/homol) \| @homol
+        \- [Mike Homol](https://twitter.com/homol) \| @homol
     *   [To Do Client with
         Vue.js](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/vuejs-todo-single-file-component/)
         \- [LOLCATATONIA](https://github.com/LOLCATATONIA) \| LOLCATAONIA
     *   [Pages
         Hierarchy](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-pages-hierarchy)
-        \- [Nick Brown](http://twitter.com/techiekb) \| @techiekb
+        \- [Nick Brown](https://twitter.com/techiekb) \| @techiekb
     *   NEW: [Group
         Members](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-group-members)
-        \- [Nick Brown](http://twitter.com/techiekb) \| @techiekb
+        \- [Nick Brown](https://twitter.com/techiekb) \| @techiekb
 *   ACE samples
     *   [OneDrive Carousel – Image
         Card](https://github.com/GuidoZam/ImageCard-OneDrive-CarouselACE) –
@@ -84,7 +84,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
         Zambarda](https://github.com/GuidoZam) \| GuidoZam
     *   [Recent Files – Quick
         Access](https://adoption.microsoft.com/sample-solution-gallery/author/Jo%C3%A3o-Mendes)
-        \- [João Mendes](http://twitter.com/joaojmendes) \| @joaojmendes
+        \- [João Mendes](https://twitter.com/joaojmendes) \| @joaojmendes
 *   Microsoft 365 PnP Weekly – Episode 162 (April 18th) with Stockholm, Sweden
     based Principal Program Manager, [Wictor Wilén](https://twitter.com/wictor)
     (Microsoft) \| @wictor \|
@@ -93,7 +93,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-162-wictor-wilen-microsoft/)
 *   Microsoft 365 PnP Weekly – Episode 161 (April 11th) with California, US
     based Power Platform Community Program Manager, [David
-    Warner](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII \|
+    Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII \|
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056)
     \|
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-161-%e2%80%93-11th-of-april-2022/)
@@ -121,7 +121,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     rely on these objects to precisely manage the ACE navigation flow and stack.
     Code for functionality including Start and Restart logic shown.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -130,29 +130,29 @@ call.
 
 ## Agenda items
 
-*   SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen)
+*   SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen)
     (Microsoft) \| @vesajuvonen – [7:56](https://youtu.be/3_QF94JWIlk?t=476)
-*   PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997)
+*   PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997)
     (Sympraxis Consulting) \| @jfj1997 –
     [10:04](https://youtu.be/3_QF94JWIlk?t=604)
-*   CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+*   CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [11:53](https://youtu.be/3_QF94JWIlk?t=713)
-*   PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+*   PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [12:57](https://youtu.be/3_QF94JWIlk?t=777)
-*   PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+*   PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [13:52](https://youtu.be/3_QF94JWIlk?t=832)
-*   PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \|
+*   PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \|
     @bernierh – [14:35](https://youtu.be/3_QF94JWIlk?t=875)
-*   PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII)
+*   PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerII – [17:27](https://youtu.be/3_QF94JWIlk?t=1047)
 *   Demo - Introduction to Adaptive Card Design Gallery reusable reference
-    sample – [Derek Cash-Peterson](http://twitter.com/spdcp) (Sympraxis
+    sample – [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis
     Consulting) \| @spdcp – [19:29](https://youtu.be/3_QF94JWIlk?t=1169)
 *   Demo - Using Adaptive Cards control from the PnP control gallery in SPFx
-    solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee
+    solutions – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee
     Solutions) \| @franzinifabio – [34:49](https://youtu.be/3_QF94JWIlk?t=2089)
 *   Demo - Navigating Cards in Viva Connections ACEs – [Paolo
-    Pialorsi](http://twitter.com/paolopia) (PiaSys) \| @paolopia –
+    Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia –
     [47:57](https://youtu.be/3_QF94JWIlk?t=2877)
 
 

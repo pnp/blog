@@ -16,7 +16,7 @@ videos:
 
 ## Call summary
 
-Topics covered this month’s community call include **Adaptive Cards for Power Apps** (see how Power Apps Cards are evolving the Adaptive Cards story), **Update on 3P Widgets** (mid-November you will be able to test 3P Widget capabilities in the GA release of WindowsAppSDK v1.2), **Future Adaptive Cards Community Calls** (no call in December, merging call into the Microsoft 365 platform call starting January. Adaptive Cards team and resources for partners remain the same) and **Q&A** (primarily focused on Power Apps integration). Resources included in blog post. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on November 10, 2022.
+Topics covered this month’s community call include **Adaptive Cards for Power Apps** (see how Power Apps Cards are evolving the Adaptive Cards story), **Update on 3P Widgets** (mid-November you will be able to test 3P Widget capabilities in the GA release of WindowsAppSDK v1.2), **Future Adaptive Cards Community Calls** (no call in December, merging call into the Microsoft 365 platform call starting January. Adaptive Cards team and resources for partners remain the same) and **Q&A** (primarily focused on Power Apps integration). Resources included in blog post. This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on November 10, 2022.
 
 {{< youtube bjNl6aLYpTE >}}
 

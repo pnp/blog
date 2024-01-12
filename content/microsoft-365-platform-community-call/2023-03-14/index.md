@@ -52,7 +52,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Boost your conversations in Microsoft Teams with Chat GPT AI and Power Virtual Agents** – by creating responses in real time with GPT and without needing to author content in the bot. Control GPT experience by limiting the content accessed (corporate approved), by the Power Virtual Agent (PVT). Generated responses include short answer and links to supporting content. Capability included in the Public Preview delivers a new paradigm for how topics will be created and managed for conversational agents.
 * **Deploying the Azure Communications Services Application to Azure** – many deployment options, in this demo we will use Azure Static Web Apps. Set up a GitHub Repo using the GitHub command line tool. Insert your ACS React app in Repo. Go to Azure Portal and create a Static Web App, point to your app in Repo. Pass in environment variables and click to deploy app and APIs. Part 6 – final in series.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 0m2f8gP57u8 >}}
 
@@ -60,7 +60,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/0m2f8gP57u8?t=0) – Intro
 
-[10:11](https://youtu.be/0m2f8gP57u8?t=611) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:11](https://youtu.be/0m2f8gP57u8?t=611) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:14](https://youtu.be/0m2f8gP57u8?t=674) – Together mode picture
 
@@ -83,7 +83,7 @@ Thanks everyone for joining the call once again today. Hope to see you in some o
 ## Actions
 
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

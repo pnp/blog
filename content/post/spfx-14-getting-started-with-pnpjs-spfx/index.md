@@ -9,7 +9,7 @@ images:
   - images/14-getting-started-with-using-pnpjs-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -85,7 +85,7 @@ import "@pnp/graph/users";
 
 First we're importing the WebPartContext from the sp-webpart-base module so that we can pass that into our factory interfaces. Next we need to import both the SPFI and GraphFI interfaces and factories as well as the SPFx behaviour for both modules. Note that we're using the `as` keyword so that we can make the names of the behaviours unique; SPFx becomes spSPFx and graphSPFx. After that we just want to add imports for the individual modules we're going to be using in our project. By limiting the imports that we use (vs importing @pnp/sp in it's entirety for example) we reduce the build size of our finished solution. My list of imports is an example you should add to and remove as is appropriate.
 
-Next we're going to create some global variables for storing the instances of the SPFI and GraphFI interfaces. After that we're going to create two functions one to get the SharePoint factory interface and one to get the Graph factory interface. Note that they both take the WebPartContext as an optional parameter. When it's passed in we assume we're creating the factory interfaces and create it assigning it to the global variables we've declared in the same file. As long as the page doesn't refresh those global variables will have an valid object. Either way the function returns the current interface that can then be acted upon. 
+Next we're going to create some global variables for storing the instances of the SPFI and GraphFI interfaces. After that we're going to create two functions one to get the SharePoint factory interface and one to get the Graph factory interface. Note that they both take the WebPartContext as an optional parameter. When it's passed in we assume we're creating the factory interfaces and create it assigning it to the global variables we've declared in the same file. As long as the page doesn't refresh those global variables will have an valid object. Either way the function returns the current interface that can then be acted upon.
 
 >Please also note that we're exporting a const that is the getSP and getGraph methods, this makes those methods global on the page so there is only one instance. This may or may not be a problem if you intend to have multiple instances of web parts on the page that implement these same methods.
 
@@ -232,11 +232,11 @@ Happy Coding!
 
 Here are some initial references to get started with the SPFx in your development. Please do provide us with feedback and suggestions on what is needed to help you to get started with the SPFx development for Microsoft 365.
 
-- PnPjs documentation - http://aka.ms/pnpjs
+- PnPjs documentation - https://aka.ms/pnpjs
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

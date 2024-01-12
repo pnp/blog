@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this 200th installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, US-based interview host – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert is joined by Finland-based show host [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and Netherlands-based show host [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm.
+In this 200th installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, US-based interview host – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert is joined by Finland-based show host [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and Netherlands-based show host [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm.
 
 ## Topics discussed in this session
 
@@ -82,7 +82,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Building a SharePoint intranet with ChatGPT and Bing – Branding modern sites](https://sharepoint.handsontek.net/2023/03/02/building-sharepoint-intranet-chatgpt-bing-branding-modern-sites/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
 * [Formatting grouped list headers with user profile pictures](https://lists.handsontek.net/formatting-grouped-list-headers-user-profile-pictures/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
 * [What’s new for Microsoft Viva – February 2023](https://teams.handsontek.net/2023/03/01/whats-new-microsoft-viva-february-2023/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
-* [Message Center Show - Exchange Online: Almost Total Recall - #274](https://www.messagecentershow.com/e/exchange-online-almost-total-recall-274/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Message Center Show - Exchange Online: Almost Total Recall - #274](https://www.messagecentershow.com/e/exchange-online-almost-total-recall-274/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Meeting Follow Ups and Invites with Power Apps and Automate](https://www.youtube.com/watch?v=4C0ZAUN6n8s) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps 911) | @ShanesCows
 * [Episode #240 - Creating Planner Plans, with Buckets and Tasks using Microsoft Power Automate](https://www.youtube.com/watch?v=nIrP2jVGezA) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Automate for Desktop PDF Creator Using Word Template](https://www.youtube.com/watch?v=lYuvBSNKgrk) - [Daniel Christian](https://twitter.com/dchristian19) (Wells Fargo) | @dchristian19

@@ -59,14 +59,14 @@ Welcome to the third of three Microsoft 365 Platform - Holiday season coffee and
     * Article – [Feature Focus with Microsoft MVPs: S6-6 - Microsoft 365 Dynamic Groups & Viva Insights](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/feature-focus-with-microsoft-mvps-s6-6-microsoft-365-dynamic/ba-p/3700509) – [Stephen Rose](https://twitter.com/stephenlrose) (Microsoft) \| @stephenlrose
     * Article – [SharePoint Roadmap Pitstop: December 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-december-2022/ba-p/3705194) – [Mark Kashman](https://twitter.com/mkashman) (Microsoft) \| @mkashman
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 {{< youtube nz_r-cVN9Gs >}}
 
 ## Agenda items
 
-* [07:45](https://youtu.be/nz_r-cVN9Gs?t=465) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [09:47](https://youtu.be/nz_r-cVN9Gs?t=587) – Questions, feedback, discussions [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and PnP Community participants
+* [07:45](https://youtu.be/nz_r-cVN9Gs?t=465) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* [09:47](https://youtu.be/nz_r-cVN9Gs?t=587) – Questions, feedback, discussions [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and PnP Community participants
 
 ## Actions
 

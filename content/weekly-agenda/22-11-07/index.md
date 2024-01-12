@@ -50,7 +50,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos:
 
-* [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
+* [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells - Using Microsoft Syntex Bulk Content Assembly to automatically generate documents
 * [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) | @laskewitz and [Manuela Pichler](https://twitter.com/ManuelaPichler_) (Microsoft) | @ManuelaPichler_ - Power Platform Communication Site Template
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -70,7 +70,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 ### Microsoft 365 Community Channel
 
 * [Introduction to Records Management APIs on Microsoft Graph](https://www.youtube.com/watch?v=YpQVlpzvJw4) by Samriddhi Seth (Microsoft) and Cameron Parker (Microsoft)
-* [Building Windows 11 Widgets with Adaptive Cards](https://www.youtube.com/watch?v=7ZB_3TeC-_s) by [J.P.Roca](http://twitter.com/jpthepm) (Microsoft) | @JPthePM
+* [Building Windows 11 Widgets with Adaptive Cards](https://www.youtube.com/watch?v=7ZB_3TeC-_s) by [J.P.Roca](https://twitter.com/jpthepm) (Microsoft) | @JPthePM
 * [Power Automate and Microsoft Teams approvals advanced scenarios](https://www.youtube.com/watch?v=bFEqxMRnSVo) by [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) | @TomaszPoszytek
 * [Latest branding capabilities for modern SharePoint sites](https://www.youtube.com/watch?v=4YImHhGmJJ4) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Build your first Command bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=3skgtkJ1McQ) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder

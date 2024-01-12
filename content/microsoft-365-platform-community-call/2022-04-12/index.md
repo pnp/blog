@@ -26,8 +26,8 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Announcing the new [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) (1040+ samples) from Microsoft and community.
 * Sign up and participate in an event hosted by [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) this month.
 * Tune into:
-    * the [Microsoft 365 Developer Podcast](https://m365devpodcast.com/) focused exclusively on Microsoft 365 dev topics – hosted by [Jeremy Thake](http://twitter.com/jthake) (Microsoft) and [Paul Schaeflein](http://twitter.com/paulschaeflein) (Addin365).
-    * Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on latest Microsoft 365 news and topics hosted by [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft).
+    * the [Microsoft 365 Developer Podcast](https://m365devpodcast.com/) focused exclusively on Microsoft 365 dev topics – hosted by [Jeremy Thake](https://twitter.com/jthake) (Microsoft) and [Paul Schaeflein](https://twitter.com/paulschaeflein) (Addin365).
+    * Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on latest Microsoft 365 news and topics hosted by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft).
 * Teams Platform Updates:
     * Documentation - [Integrate People Picker](https://learn.microsoft.com/microsoftteams/platform/concepts/device-capabilities/people-picker-capability?tabs=Samplemobileapp)
     * Documentation - [Share to Teams from personal app or tab](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams-from-personal-app-or-tab)
@@ -36,13 +36,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week&#39;s article:  [Learn from the community: Teams App Dev Challenge winner brings high quality training into Microsoft...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winner-brings-high-quality-training-into-microsoft-teams/).  Sign up to [Share your story](https://aka.ms/share-your-story)
 * Learn from 3 Microsoft 365 Platform related stories, 2 very useful demos, and 3 Teams documents delivered by Microsoft.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&amp;A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.  Q&amp;A takes place in chat throughout and live at end of the call.
 
 ## Microsoft 365 Platform News Flash
 
-* [From 0 to hero: connecting your web app to Microsoft Teams using Azure Communication Services](https://devblogs.microsoft.com/microsoft365dev/from-0-to-hero-connecting-your-web-app-to-microsoft-teams-using-azure-communication-services/) – [David Roussel](http://twitter.com/davrous) (Microsoft) | [@davrous](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/472744)
+* [From 0 to hero: connecting your web app to Microsoft Teams using Azure Communication Services](https://devblogs.microsoft.com/microsoft365dev/from-0-to-hero-connecting-your-web-app-to-microsoft-teams-using-azure-communication-services/) – [David Roussel](https://twitter.com/davrous) (Microsoft) | [@davrous](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/472744)
 * [Announcing new Microsoft 365 unified sample gallery with over 1,000 samples](https://devblogs.microsoft.com/microsoft365dev/announcing-new-microsoft-365-unified-sample-gallery-with-more-than-1000-samples/) – Microsoft
-* [Learn from the community: Teams App Dev Challenge winner brings high quality training into Microsoft...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winner-brings-high-quality-training-into-microsoft-teams/) - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Learn from the community: Teams App Dev Challenge winner brings high quality training into Microsoft...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winner-brings-high-quality-training-into-microsoft-teams/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 
 
 
@@ -77,7 +77,7 @@ Thank you for your creativity and work execution.   Samples are often showcased 
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:39](https://youtu.be/6Zcba6w7TBs?t=519)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:39](https://youtu.be/6Zcba6w7TBs?t=519)
 * Demos – [15:04](https://youtu.be/6Zcba6w7TBs?t=904)
 
 ## Demos
@@ -90,7 +90,7 @@ Thank you for your creativity and work execution.   Samples are often showcased 
     * Documentation – [People Picker in Adaptive Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/people-picker)
     * Step-by-Step - [Share meeting stage in Teams](https://learn.microsoft.com/microsoftteams/platform/sbs-meetings-stage-view)
 
-* Building wellbeing solution with Teams and Viva Connections – [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells – [36:45](https://youtu.be/6Zcba6w7TBs?t=2205)
+* Building wellbeing solution with Teams and Viva Connections – [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells – [36:45](https://youtu.be/6Zcba6w7TBs?t=2205)
     * Sample - [Wellbeing days requests and reminder - Adaptive Cards Extensions and Teams personal app](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-wellbeing)
     * Demo - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY&amp;AB_channel=Microsoft365Community)
     * Ignite session - [Get started with Microsoft Viva Connections Extensibility](https://myignite.microsoft.com/sessions/5b777ff5-5a74-4c05-bb91-64d8fbf6e864?source=sessions)
@@ -99,7 +99,7 @@ Thank you for your creativity and work execution.   Samples are often showcased 
 
 Additional resources around the covered topics and links from the slides.
 
-* Microsoft 365 PnP Weekly – Episode 161 (April 11th) with California, US based Power Platform Community Program Manager, [David Warner](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-161-%E2%80%93-11th-of-april-2022/)
+* Microsoft 365 PnP Weekly – Episode 161 (April 11th) with California, US based Power Platform Community Program Manager, [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-161-%E2%80%93-11th-of-april-2022/)
 * Microsoft 365 Developer Podcast - Development Topics with Andrew Connell (April 12th) | @andrewconnell | [podcast](https://www.m365devpodcast.com/e/development-topics-with-andrew-connell/)
 
 ## General resources

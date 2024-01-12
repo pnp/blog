@@ -56,7 +56,7 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [05:43](https://youtu.be/pI4ifJ7VyN8?t=343) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
-[07:27](https://youtu.be/pI4ifJ7VyN8?t=447) – PnPjs Client-Side Libraries – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
+[07:27](https://youtu.be/pI4ifJ7VyN8?t=447) – PnPjs Client-Side Libraries – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
 
 [08:57](https://youtu.be/pI4ifJ7VyN8?t=537) – CLI for Microsoft 365 – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
@@ -68,9 +68,9 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [14:06](https://youtu.be/pI4ifJ7VyN8?t=846) – PnP Modern Search – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) @bernierh
 
-[14:44](https://youtu.be/pI4ifJ7VyN8?t=884) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[14:44](https://youtu.be/pI4ifJ7VyN8?t=884) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[15:47](https://youtu.be/pI4ifJ7VyN8?t=947) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[15:47](https://youtu.be/pI4ifJ7VyN8?t=947) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [16:14](https://youtu.be/pI4ifJ7VyN8?t=974) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 

@@ -22,7 +22,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 * Article - [Office JavaScript API for Power Query read-only data now available for Excel](https://devblogs.microsoft.com/microsoft365dev/office-javascript-api-for-power-query-read-only-data-now-available-for-excel/)
 * Article - [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
-* Article - [Publish your app in the Microsoft Teams app store](https://devblogs.microsoft.com/microsoft365dev/publish-your-app-in-the-microsoft-teams-app-store/) – [Bob German](http://twitter.com/Bob1German) (Microsoft) - @Bob1German
+* Article - [Publish your app in the Microsoft Teams app store](https://devblogs.microsoft.com/microsoft365dev/publish-your-app-in-the-microsoft-teams-app-store/) – [Bob German](https://twitter.com/Bob1German) (Microsoft) - @Bob1German
 * Article - [Microsoft Teams Webinars: Celebrating One Year Together](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-webinars-celebrating-one-year-together/ba-p/3334292)
 * Article - [Most used SharePoint Framework solutions from the Store - April 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-april/ba-p/3378662) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * Sample – [Bot Release Management](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-release-management)
@@ -38,21 +38,21 @@ The call will start at the usual time.  We will cover 1 topic and 1 demo in the 
 * **Integrate Microsoft Graph connector content on Office.com** - bring external data into Microsoft Search via Graph connectors. Once data is known, it can be found at Office.com, Teams, SharePoint, Bing at Work, etc. using Microsoft Search, Context IQ, and Search at Workplace. Link and content details typically rendered in sharable Adaptive Cards. Review Graph connector anatomy and core code to create connection, schema, externalItem, and add activities, for building your custom connector.
 * **Your Microsoft 365 app within the fingertips of employees with Viva Connections** – use a common set of back-end APIs to provide enterprise level functionalities to a host of UIs - Teams, Outlook, Office.com, Viva and ACEs built with SPFx components. The example scenario – An office desk booking app. Security and API hosting from Azure, data in SharePoint lists. Reports in Power BI, Booking cards in Teams and Viva Connections Dashboard. Notifications in Outlook. Thorough code walkthrough.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube RLUiBdYncqU >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [7:46](https://youtu.be/RLUiBdYncqU?t=466)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [7:46](https://youtu.be/RLUiBdYncqU?t=466)
 * Demo - Integrate Microsoft Graph connector content on Office.com - [Mounika Narayanan](https://www.linkedin.com/in/mounikanarayanan/) (Microsoft) – [14:40](https://youtu.be/RLUiBdYncqU?t=880)
-* Demo - Your Microsoft 365 app within the fingertips of employees with Viva Connections - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm and [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys) \| @PaoloPia – [28:56](https://youtu.be/RLUiBdYncqU?t=1736)
+* Demo - Your Microsoft 365 app within the fingertips of employees with Viva Connections - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm and [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) \| @PaoloPia – [28:56](https://youtu.be/RLUiBdYncqU?t=1736)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
 ## Actions
 
-* Register for [Microsoft Build](http://register.build.microsoft.com) \| May 24-26, 2022
+* Register for [Microsoft Build](https://register.build.microsoft.com) \| May 24-26, 2022
 * Watch the Innovation Keynote with Jeff Teper – Innovate with collaborative apps and low code \| aka.ms/teamssessins
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:

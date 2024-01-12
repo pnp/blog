@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – Parsing JSON in Power Apps, UX Tips & Tricks for Model-Driven Apps, and You can be an author of an Independent Publisher Connector. Monthly Community Tip - Get notified before you run out of Office 365 storage space! - Andre Galitsky and Alex Baumgarten. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded live at the Microsoft Power Platform Conference, Orlando, Florida, on September 21, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – Parsing JSON in Power Apps, UX Tips & Tricks for Model-Driven Apps, and You can be an author of an Independent Publisher Connector. Monthly Community Tip - Get notified before you run out of Office 365 storage space! - Andre Galitsky and Alex Baumgarten. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded live at the Microsoft Power Platform Conference, Orlando, Florida, on September 21, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -32,7 +32,7 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Agenda items
 
-* Latest updates and news on Power Platform - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [3:50](https://youtu.be/nMIFCNGQP54?t=230)
+* Latest updates and news on Power Platform - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [3:50](https://youtu.be/nMIFCNGQP54?t=230)
 * Monthly Community Tip – Get notified before you run out of Office 365 storage space! - [Todd Baginski](https://twitter.com/toddbaginski) - (Canviz) \| @toddbaginski – [4:33](https://youtu.be/nMIFCNGQP54?t=273)
 * Demo - Parsing JSON in Power Apps – [Cat Schneider](https://linkedin.com/in/yerawizardcat) – [8:31](https://youtu.be/nMIFCNGQP54?t=511)
 * Demo - UX Tips & Tricks for Model-Driven Apps – [Chris Piasecki](https://www.linkedin.com/in/chris-piasecki/) (CGI) – [15:53](https://youtu.be/nMIFCNGQP54?t=953)

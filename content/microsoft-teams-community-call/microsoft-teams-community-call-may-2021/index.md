@@ -141,7 +141,7 @@ slides.
     call](https://1drv.ms/p/s!AlposW7ozA_90kpMzzF54-dSWtST?e=nTudgC)
 
 -   Site -- [Developer Portal for Microsoft
-    Teams](http://dev.teams.microsoft.com/home) 
+    Teams](https://dev.teams.microsoft.com/home) 
 
 -   Documentation - [Universal Actions for Adaptive
     Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview) 

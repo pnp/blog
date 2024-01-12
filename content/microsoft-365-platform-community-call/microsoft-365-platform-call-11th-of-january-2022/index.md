@@ -165,7 +165,7 @@ slides.
     | aka.ms/gcsdkpreview
 
 -   **D2:** Microsoft Teams Samples - [Bot daily task
-    reminder](http://github.com/officedev/microsoft-teams-samples) 
+    reminder](https://github.com/officedev/microsoft-teams-samples) 
 
 -   **D2:** Documentation -- [Send Proactive
     Messages](https://learn.microsoft.com/microsoftteams/platform/sbs-send-proactive) 

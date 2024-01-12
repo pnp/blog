@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Developer, Speaker, Podcaster, Group Manager, Modern Workplace Architect, Microsoft MVP - [Mark Rackley](https://twitter.com/mrackley) (Avanade) \| @mrackley
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Developer, Speaker, Podcaster, Group Manager, Modern Workplace Architect, Microsoft MVP - [Mark Rackley](https://twitter.com/mrackley) (Avanade) \| @mrackley
 
 ## Topics discussed in this session
 

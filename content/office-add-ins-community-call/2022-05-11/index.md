@@ -18,13 +18,13 @@ draft: false
 
 This month's community call topics:
 
-1. **AppSource Add-in Validation Improvements** – See the latest browser support update, top failure outcomes to avoid, and see how to communicate directly with your validation team – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori
-2. **Blazor in Office Add-ins** – Step through creating a Blazor Webassembly Word add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam
+1. **AppSource Add-in Validation Improvements** – See the latest browser support update, top failure outcomes to avoid, and see how to communicate directly with your validation team – [Juan Balmori](https://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori
+2. **Blazor in Office Add-ins** – Step through creating a Blazor Webassembly Word add-in – [Maarten van Stam](https://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam
 3. **Add-in command changes** – Update and register your add-in commands that use ExecuteFunction, by October 30th deadline – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft)
-4. **Community ideas** – Shape how we gather and prioritize Microsoft 365 development suggestions – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
+4. **Community ideas** – Shape how we gather and prioritize Microsoft 365 development suggestions – [Linda Cannon](https://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT.
 5. **Q&A** – See question and answers at end of call and in chat throughout call.
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded May 11, 2022.
+The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut. Recorded May 11, 2022.
 
 {{< youtube _3rzh23TaH4 >}}
 
@@ -37,11 +37,11 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 ## Agenda
 
-* AppSource Add-in Validation Improvements – [Juan Balmori](http://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
-* Blazor in Office Add-ins (Demo) – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
+* AppSource Add-in Validation Improvements – [Juan Balmori](https://twitter.com/juaneloBalmori) – Principal Product Manager (Microsoft) \| @juaneloBalmori – [1:17](https://youtu.be/_3rzh23TaH4?t=77)
+* Blazor in Office Add-ins (Demo) – [Maarten van Stam](https://twitter.com/aafvstam) – MVP Office Add-ins \| @aafvstam – [11:58](https://youtu.be/_3rzh23TaH4?t=718)
 * Add-in command changes – [Abid Rahman](https://www.linkedin.com/in/abidrahman1/) – Product Manager (Microsoft) – [29:16](https://youtu.be/_3rzh23TaH4?t=1756)
-* Community ideas – [Linda Cannon](http://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
+* Community ideas – [Linda Cannon](https://twitter.com/lindalu_MSFT) – Senior Content Product Manager (Microsoft) \| @lindalu_MSFT – [35:09](https://youtu.be/_3rzh23TaH4?t=2109)
+* Q&A – [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [47:15](https://youtu.be/_3rzh23TaH4?t=2835)
 
 ## Actions
 

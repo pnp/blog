@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Principal PM Lead – DevDiv – VS extensions [Pierce Boggan](http://twitter.com/pierceboggan) (Microsoft) \| @pierceboggan.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Principal PM Lead – DevDiv – VS extensions [Pierce Boggan](https://twitter.com/pierceboggan) (Microsoft) \| @pierceboggan.
 
 ## Topics discussed in this session
 
@@ -63,7 +63,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/) - Microsoft
 * [Office JavaScript API for Power Query read-only data now available for Excel](https://devblogs.microsoft.com/microsoft365dev/office-javascript-api-for-power-query-read-only-data-now-available-for-excel/) - [Jonathan Kahati](https://www.linkedin.com/in/yonijk/) (Microsoft)
 * [Access Migration to Power Apps and Dataverse is released to General Availability](https://powerapps.microsoft.com/blog/access-migration-to-power-apps-and-dataverse-is-released-to-general-availability/) - Nathan Helgren (Microsoft)
-* [How to Modify SharePoint List Toolbar Buttons with List Formatting](https://www.youtube.com/watch?v=sZYZnJGQgcI) - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
+* [How to Modify SharePoint List Toolbar Buttons with List Formatting](https://www.youtube.com/watch?v=sZYZnJGQgcI) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 
 ## Events

@@ -51,7 +51,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introduction to Microsoft Teams Toolkit v5 - New features and capabilities** – review on Teams apps, manifests, hosting and cross platform visibility. New v5 automation features for composable automation, templates, CLI/IDE extensions. Install the teamsfx CLI tool from npm, create a project (notification bot), walk through default project structure in scaffold, app package, environment variables, hosting files, teams app update, F5 debug, instructions in yml files, new tunneling task, automated creation of needed platform resources.
 * **Building a command-line-interface tool designed to answer user queries using the Microsoft Graph API** – combine the power of Microsoft Graph and large language model (LLM) to deliver a powerful wizard – magi. Magi’s three building blocks – command line (LCLI), ChatGPT API and Microsoft Graph. The CLI skeleton is just 16 lines. OpenAI library provides a .NET focused experience. Prompt engineering is key to getting most out of the ChatGPT API. GraphClientFactory makes arbitrary requests to Graph API. A hackathon winning solution.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube ax3Zu-DItLE >}}
 
@@ -59,7 +59,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/ax3Zu-DItLE?t=0) – Intro
 
-[10:12](https://youtu.be/ax3Zu-DItLE?t=612) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:12](https://youtu.be/ax3Zu-DItLE?t=612) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [13:10](https://youtu.be/ax3Zu-DItLE?t=790) – Announcement - Microsoft Teams toolkit cloud skill challenge – Garry Trinder (Microsoft) \| @garrytrinder
 
@@ -84,7 +84,7 @@ Today’s together mode was executed flawlessly with zero instruction. Nice work
 * [Register](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df) for the Microsoft Teams Toolkit Cloud Skills Challenge, April 12th – 26th. \| aka.ms/LearnTeamsToolkit
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

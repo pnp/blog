@@ -55,21 +55,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Independent Publisher Connector - OpenAI connector on using AI for content creation and interactions** – through connector, access OpenAI’s Generative Pre-trained Transformer 3 (GPT-3), an autoregressive language model that uses deep learning to produce human-like text. To access GPT-3, you will need an OpenAI account. Connector exposes available GPT-3 List engines and responses to your questions (prompts) in any language. Familiarize yourself with OpenAI’s capabilities in Playground then build an instant cloud flow with an OpenAI step to access APIs via connector.
 * **How to animate SVGs in Adaptive Cards** – see how to animate a basic SVG and add the animated file to an Adaptive Card. Why use animation, structure of an SVG, SVG animation options. The mechanics of adding an SVG to an Adaptive Card, limitations, and workarounds. In demo, animate with CSS keyframes because supported by every browser. Encode SVG in Adaptive Cards Designer or host it on site like svgur.com.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube Yt4QcHjNr6A >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Paolo Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [7:26](https://youtu.be/Yt4QcHjNr6A?t=446)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:40](https://youtu.be/Yt4QcHjNr6A?t=520)
+* PnP .NET library updates - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [7:26](https://youtu.be/Yt4QcHjNr6A?t=446)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:40](https://youtu.be/Yt4QcHjNr6A?t=520)
 * yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [10:16](https://youtu.be/Yt4QcHjNr6A?t=616)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:31](https://youtu.be/Yt4QcHjNr6A?t=691)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [12:07](https://youtu.be/Yt4QcHjNr6A?t=727)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [13:57](https://youtu.be/Yt4QcHjNr6A?t=837)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:31](https://youtu.be/Yt4QcHjNr6A?t=691)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [12:07](https://youtu.be/Yt4QcHjNr6A?t=727)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [13:57](https://youtu.be/Yt4QcHjNr6A?t=837)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [15:58](https://youtu.be/Yt4QcHjNr6A?t=958)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [17:26](https://youtu.be/Yt4QcHjNr6A?t=1046)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [17:26](https://youtu.be/Yt4QcHjNr6A?t=1046)
 * Demo - Independent Publisher Connector - OpenAI connector on using AI for content creation and interactions – [Robin Rosengrün](https://twitter.com/power_r2) (EnBW) \| @power_r2 – [19:34](https://youtu.be/Yt4QcHjNr6A?t=1174)
 * Demo - How to animate SVGs in Adaptive Cards – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 – [34:08](https://youtu.be/Yt4QcHjNr6A?t=2048)
 
@@ -93,7 +93,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based M365 Consultant, Content AI Specialist and Microsoft MVP (M365 Apps & Services) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) \| @LeonArmston
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based M365 Consultant, Content AI Specialist and Microsoft MVP (M365 Apps & Services) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) \| @LeonArmston
 
 ## Topics discussed in this session
 

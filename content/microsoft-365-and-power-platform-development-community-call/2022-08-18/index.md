@@ -30,12 +30,12 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New PowerShell – [Restore large number of items from SharePoint Recycle bin in bulk](https://pnp.github.io/script-samples/bulk-restore-from-recyclebin/README.html?tabs=pnpps) by Paul Matthews
     * New PowerShell – [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html?tabs=pnpps) by [Todd Klindt](https://twitter.com/ToddKlindt) \| @ToddKlindt
     * New PowerShell – [Create a SharePoint site using the configuration of another site](https://pnp.github.io/script-samples/spo-extract-and-invoke-site-template/README.html?tabs=pnpps) by Lewis Baybutt
-    * New PowerShell – [Bulk Publish Syntex Models To Libraries](https://pnp.github.io/script-samples/spo-bulk-publish-syntex-model/README.html?tabs=pnpps) by [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
+    * New PowerShell – [Bulk Publish Syntex Models To Libraries](https://pnp.github.io/script-samples/spo-bulk-publish-syntex-model/README.html?tabs=pnpps) by [Leon Armston](https://twitter.com/LeonArmston) \| @LeonArmston
     * New PowerShell – [Update web part properties on modern pages](https://pnp.github.io/script-samples/spo-update-modern-webpart-properties/README.html?tabs=pnpps) by [Ramin Ahmadi](https://twitter.com/raminahmadi1986) \| @raminahmadi1986
     * New CLI – [Get Azure AD app permission info](https://pnp.github.io/script-samples/aad-get-app-permission/README.html?tabs=cli-m365-ps) by [Michaël Maillot](https://twitter.com/michael_maillot) \| @michael_maillot
     * Updated PowerShell – [Add a document library web part to a page](https://pnp.github.io/script-samples/spo-add-document-library-webpart-to-page/README.html?tabs=pnpps) by [Todd Klindt](https://twitter.com/ToddKlindt) \| @ToddKlindt
     * Updated PowerShell – [Request Reindex of SharePoint User Profile Properties](https://pnp.github.io/script-samples/spo-request-pnp-reindex-user-profile/README.html?tabs=pnpps) by [Todd Klindt](https://twitter.com/ToddKlindt) \| @ToddKlindt
-    * Updated PowerShell – [Copy Planner Plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) by [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated PowerShell – [Copy Planner Plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) by [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Teams Toolkit sample - [One Productivity Hub](https://aka.ms/teamsfx-one-productivity-hus) - [Ayca Bas](https://twitter.com/aycabs) \| @aycabs
@@ -54,7 +54,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **List Formatting Magic – Data and Time formatting options** – eliminate times aligned to dates for clean date-to-date comparisons. Here’s four functions for Zeroing out dates – Date () (convert text to date based on locale), getDate () (get day of month), getMonth () (get month index), and getYear () (get 4-digit year). In list, display number of days since list item was modified. Show date formatting in list and gallery views. Apply conditional formatting for clarity.
 * **Create a list template from your pre-configured list with list formatting definitions** – favorite formatted list that you want to replicate? Create a custom list template using 3 PowerShell commands. Adds all formatting – list and gallery views to template. Task prerequsites – SharePoint Online PowerShell and Global or SharePoint Admin role. Template creation. Fine-tune your list in the UI, then extract to Site Script (Get-SPOSiteScript), register Site Script (Add-SPOSiteScript), Upload a thumbnail, and register list design (Add-SPOListDesign).
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube N1ZsqY6JdFo >}}
@@ -62,13 +62,13 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 ## Agenda items
 
 * PnP .NET library updates – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen – [5:50](https://youtu.be/N1ZsqY6JdFo?t=350)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:11](https://youtu.be/N1ZsqY6JdFo?t=431)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:01](https://youtu.be/N1ZsqY6JdFo?t=541)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:23](https://youtu.be/N1ZsqY6JdFo?t=563)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [10:09](https://youtu.be/N1ZsqY6JdFo?t=609)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [12:04](https://youtu.be/N1ZsqY6JdFo?t=724)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:11](https://youtu.be/N1ZsqY6JdFo?t=431)
+* yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:01](https://youtu.be/N1ZsqY6JdFo?t=541)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:23](https://youtu.be/N1ZsqY6JdFo?t=563)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [10:09](https://youtu.be/N1ZsqY6JdFo?t=609)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [12:04](https://youtu.be/N1ZsqY6JdFo?t=724)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [14:14](https://youtu.be/N1ZsqY6JdFo?t=854)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [16:09](https://youtu.be/N1ZsqY6JdFo?t=969)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [16:09](https://youtu.be/N1ZsqY6JdFo?t=969)
 * Demo - Independent Publisher Connectors - RegEx Matching Demo – [Mitanshu Garg](https://twitter.com/mitanshu) (Schlumberger) \| @mitanshu – [18:37](https://youtu.be/N1ZsqY6JdFo?t=1117)
 * Demo - List Formatting Magic – Data and Time formatting options – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [24:52](https://youtu.be/N1ZsqY6JdFo?t=1492)
 * Demo - Create a list template from your pre-configured list with list formatting definitions – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [47:00](https://youtu.be/N1ZsqY6JdFo?t=2820)
@@ -90,7 +90,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

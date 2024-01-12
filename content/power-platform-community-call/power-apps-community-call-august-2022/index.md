@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip.  Three demos delivered – Using Microsoft Forms and Microsoft Power Automate to Upgrade your Customer Onboarding Experience, Building a Time Sheeting Microsoft Power Apps canvas app using Microsoft Dataverse, and Connecting Microsoft Power Pages to your Microsoft Dataverse data.   Monthly Community Tip - Remove duplicate rows in collections with one line of code!, plus 4 Power Platform samples. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on August 17, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip.  Three demos delivered – Using Microsoft Forms and Microsoft Power Automate to Upgrade your Customer Onboarding Experience, Building a Time Sheeting Microsoft Power Apps canvas app using Microsoft Dataverse, and Connecting Microsoft Power Pages to your Microsoft Dataverse data.   Monthly Community Tip - Remove duplicate rows in collections with one line of code!, plus 4 Power Platform samples. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on August 17, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -38,8 +38,8 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Agenda items
 
-* Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:45](https://youtu.be/_nTwtSKVRzc?t=105)
-* Latest updates and news on Power Platform - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:40](https://youtu.be/_nTwtSKVRzc?t=340)
+* Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:45](https://youtu.be/_nTwtSKVRzc?t=105)
+* Latest updates and news on Power Platform - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:40](https://youtu.be/_nTwtSKVRzc?t=340)
 * Monthly Community Tip - Using the Toggle control to create reusable functions! - [Todd Baginski](https://twitter.com/toddbaginski) - (Canviz) \| @toddbaginski – [7:36](https://youtu.be/_nTwtSKVRzc?t=576)
 * Demo - Using Microsoft Forms and Microsoft Power Automate to Upgrade your Customer Onboarding Experience – [Mary Myers](https://twitter.com/MaryMyers_WM) (WorldMax) \| @MaryMyers_WM – [12:35](https://youtu.be/_nTwtSKVRzc?t=755)
 * Demo - Building a Time Sheeting Microsoft Power Apps canvas app using Microsoft Dataverse – [Darren Lutchner](https://twitter.com/assist_365) (365 Assist) \| @assist_365 – [30:40](https://youtu.be/_nTwtSKVRzc?t=1840)

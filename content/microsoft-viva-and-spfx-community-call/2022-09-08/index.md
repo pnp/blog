@@ -52,19 +52,19 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building polished form experiences with SPFx form customizer** – working back from the final UI to the code behind the scenes, see how to create a custom form component. Steps include create a list or library structure using content types, create a Form Customizer extension project using SPFx, configure and debug, deploy solution to App Catalog, and finally associate the custom component to the content type. This capability is available only using SPFx v1.15.
 * **Building SPFx solution with Azure Communication Services integration** – see how pre-built ACS composite chat component is used in a SPFx web part sample called RoomChat built by João Mendes. After an overview of ACS, create a Communications Service. Visit the ACS UI Library (sandbox) – and pick up a chat component. Step through core code elements of the web part. Use property panes or SharePoint Online tenant properties for storing information used by your web part.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
 {{< youtube r2iTAgNRREA >}}
 
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:47](https://youtu.be/r2iTAgNRREA?t=407)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:54](https://youtu.be/r2iTAgNRREA?t=534)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:54](https://youtu.be/r2iTAgNRREA?t=534)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [10:40](https://youtu.be/r2iTAgNRREA?t=640)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:07](https://youtu.be/r2iTAgNRREA?t=787)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:53](https://youtu.be/r2iTAgNRREA?t=833)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [14:25](https://youtu.be/r2iTAgNRREA?t=865)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:01](https://youtu.be/r2iTAgNRREA?t=961)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:07](https://youtu.be/r2iTAgNRREA?t=787)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:53](https://youtu.be/r2iTAgNRREA?t=833)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [14:25](https://youtu.be/r2iTAgNRREA?t=865)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:01](https://youtu.be/r2iTAgNRREA?t=961)
 * Demo – Building polished form experiences with SPFx form customizer – [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) \| @ EjazHussain\_ – [17:36](https://youtu.be/r2iTAgNRREA?t=1056)
 * Demo – Building SPFx solution with Azure Communication Services integration – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [30:25](https://youtu.be/r2iTAgNRREA?t=1825)
 

@@ -38,13 +38,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Build a productivity dashboard by using Teams Toolkit for Visual Studio** – build a productivity dashboard app (Teams tab) using the Teams Toolkit, .NET and Microsoft Graph Toolkit (MGT) to design tab in Visual Studio 2022. MGT components – agenda, todo, and file-list are used to deliver calendar events, Microsoft To Do tasks and files on dashboard. Create default tab from template, run it and then customize it (update placeholder values for authentication, add components). Now run your app!
 * **Latest status and the next investments areas for SharePoint Framework** – overview on how developers can more efficiently extend Microsoft 365 apps for SharePoint Online, Microsoft Teams, Microsoft Viva, and more (to be announced soon) with SharePoint Framework (SPFx). Alex delivers latest steps for getting started with SPFx development from installing prerequisite tools to SPFx project creation, packaging, and simple deployment to production. See the same solution being added to SharePoint Online and to Teams.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube kedQTfnLetk >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:28](https://youtu.be/kedQTfnLetk?t=508)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:28](https://youtu.be/kedQTfnLetk?t=508)
 * Updates on Microsoft Teams documentation – [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) \| @Wajeed_Shaikh – [12:17](https://youtu.be/kedQTfnLetk?t=737)
 * Demo - Build a productivity dashboard by using Teams Toolkit for Visual Studio – [Ayça Baş](https://twitter.com/aycabs) (Microsoft) \| @aycabs – [16:18](https://youtu.be/kedQTfnLetk?t=978)
 * Latest status and the next investments areas for SharePoint Framework – [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev & [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [31:48](https://youtu.be/kedQTfnLetk?t=1908)

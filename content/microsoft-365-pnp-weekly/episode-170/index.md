@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech.
 
 ## Topics discussed in this session
 
@@ -28,7 +28,7 @@ In this installment of the weekly discussion revolving around the latest news an
     * [Edge Console](https://learn.microsoft.com/microsoft-edge/devtools-guide-chromium/console/)
     * [GitHub Copilot](https://dev.to/github/understand-your-code-using-github-copilot-5375#:~:text=%20Understand%20your%20code%20using%20GitHub%20Copilot%20,Copilot%20Labs%20sidebar%20has%20everything%20you...%20More%20)
     * [Jest](https://jestjs.io/)
-* Articles mentioned - [How to be better at twitter](https://www.m365princess.com/blogs/twitter/) and [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/) \| [Luise Freese](http://twitter.com/LuiseFreese) \| @LuiseFreese
+* Articles mentioned - [How to be better at twitter](https://www.m365princess.com/blogs/twitter/) and [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/) \| [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
 
 Also, we showcased 24 articles/tweets/videos published by Microsoft and the PnP Community in the last week.
 

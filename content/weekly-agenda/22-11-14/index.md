@@ -29,7 +29,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Demos:
 
-* [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett and Jason Johnston (Microsoft) - Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive)
+* [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett and Jason Johnston (Microsoft) - Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive)
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) - Add single sign-on to your Microsoft Teams bots using Teams Toolkit for Visual Studio Code
 
 Also: 📷 Picture Time with community in Together Mode!

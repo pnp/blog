@@ -43,7 +43,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 
 * **Introduction to Microsoft Graph Toolkit v3** – you may ask, so what’s new in v3.0.0-RC.3? Check out these infrastructure updates (support for Graph JS SDK v3.0, sovereign clouds and Node 14-16), styling updates (refreshed 100% components with Fluent UI), improved SPFx development (built-in disambiguation), new scenarios (theme toggle support, generic picker component, taxonomy picker, search box and search components), and improved scenarios (multi-account support, in-context (person card) sending messages).
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube LlFWaLTQ_II >}}
 

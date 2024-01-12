@@ -42,9 +42,9 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [11:30](https://youtu.be/QkzH_rbCONs?t=690) – PnP Modern Search – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[11:59](https://youtu.be/QkzH_rbCONs?t=719) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[11:59](https://youtu.be/QkzH_rbCONs?t=719) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[14:12](https://youtu.be/QkzH_rbCONs?t=852) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[14:12](https://youtu.be/QkzH_rbCONs?t=852) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [14:44](https://youtu.be/QkzH_rbCONs?t=884) – Together mode picture
 

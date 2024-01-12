@@ -17,22 +17,22 @@ draft: false
 ## Call summary
 
 * **Word APIs update.** Get to know more about Word JavaScript API online-only features, including a preview of the Fields API and the six-month roadmap. Yun Wang, Principal Product Manager (Microsoft)
-* **Outlook add-ins updates.** Find out what's coming to Outlook add-ins, including the REST service decommission, shared folders support, and a pre-beta look at the item multi-select capability. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/), Software Engineer (Microsoft)
-* **SSO samples update.** Learn about updates to the SSO NodeJS token handling sample and how you can retrieve an access token securely. [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut
-* **Community spotlight.** recognizes [Maarten van Stam](http://twitter.com/aafvstam)
+* **Outlook add-ins updates.** Find out what's coming to Outlook add-ins, including the REST service decommission, shared folders support, and a pre-beta look at the item multi-select capability. [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/), Software Engineer (Microsoft)
+* **SSO samples update.** Learn about updates to the SSO NodeJS token handling sample and how you can retrieve an access token securely. [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut
+* **Community spotlight.** recognizes [Maarten van Stam](https://twitter.com/aafvstam)
 * **Community panels.** Join us to share your feedback on how we can provide you with a better Office Add-ins development experience
 * **Q&A.** See question and answers at end of call and in chat throughout call
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded July 13, 2022.
+The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded July 13, 2022.
 {{< youtube COic6ghBWsU >}}
 ## Agenda
 
 * Word API update. Yun Wang, Principal Product Manager (Microsoft), [1:21](https://www.youtube.com/watch?v=COic6ghBWsU&t=81s)
-* Outlook add-ins update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), @juaneloBalmor and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/),  Software Engineer (Microsoft), [6:11](https://www.youtube.com/watch?v=COic6ghBWsU&t=371s)
-* SSO samples update. [David Chesnut] (http://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut, [23:38] (https://www.youtube.com/watch?v=COic6ghBWsU&t=1418s)
+* Outlook add-ins update. [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Product Manager (Microsoft), @juaneloBalmor and [Victoria Iannotti](https://www.linkedin.com/in/victoria-iannotti/),  Software Engineer (Microsoft), [6:11](https://www.youtube.com/watch?v=COic6ghBWsU&t=371s)
+* SSO samples update. [David Chesnut] (https://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut, [23:38] (https://www.youtube.com/watch?v=COic6ghBWsU&t=1418s)
 * Community spotlight. [42:40](https://www.youtube.com/watch?v=COic6ghBWsU&t=2560s)
 * Community panels, [43:14](https://www.youtube.com/watch?v=COic6ghBWsU&t=2594s)
-* Q&A. (http://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut, [44:34](https://www.youtube.com/watch?v=COic6ghBWsU&t=2674s)
+* Q&A. (https://twitter.com/davidchesnut), Senior Technical Writer (Microsoft), @davidchesnut, [44:34](https://www.youtube.com/watch?v=COic6ghBWsU&t=2674s)
 
 ## Topic summaries
 

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm focused on the upcoming conferences and their previous experiences on the in-person events across the world. No visitor in this episode due to an unfortunate last minute cancellation, which is party visible within the recording.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm focused on the upcoming conferences and their previous experiences on the in-person events across the world. No visitor in this episode due to an unfortunate last minute cancellation, which is party visible within the recording.
 
 ## Topics discussed in this session
 

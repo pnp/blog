@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Microsoft 365 Development MVP and Consultant - [Jasey Waegebaert](https://twitter.com/jwaegebaert) (GMI group) \| @jwaegebaert.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Microsoft 365 Development MVP and Consultant - [Jasey Waegebaert](https://twitter.com/jwaegebaert) (GMI group) \| @jwaegebaert.
 
 ## Topics discussed in this session
 
@@ -62,7 +62,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [CLI for Microsoft 365 v5.9](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-9/) - [Jasey Waegebaert](https://twitter.com/jwaegebaert) (GMI group) | @jwaegebaert
 * [How to Find a Meeting Time and Schedule a Meeting on Microsoft 365](https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Taking Advantage of the Content Type Inheritance Model in SharePoint](https://sympmarc.com/2022/10/26/taking-advantage-of-the-content-type-inheritance-model-in-sharepoint/) - [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
-* [New home experience for Viva Connections desktop - Message Center Show Ep. 259](https://regarding365.com/new-home-experience-for-viva-connections-desktop-2f82da3d5638) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [New home experience for Viva Connections desktop - Message Center Show Ep. 259](https://regarding365.com/new-home-experience-for-viva-connections-desktop-2f82da3d5638) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Build powerful Adaptive Card experiences for Teams using Cards for Power Apps](https://michelcarlo.com/2022/10/25/powerful-adaptive-card-for-teams-cards-for-power-apps/) - [Michel Mendes](https://twitter.com/michelcarlo) (Avanade) | @michelcarlo
 * [SharePoint Lists to ER Diagram](https://www.hubsite365.com/crm-pages/sharepoint-lists-to-er-diagram.htm) - [Niklas Wilhelm](https://twitter.com/NiklasWilhelm4) (NetForce 365) | @NiklasWilhelm4
 * [NEW htwoo-react release 1.5.0](https://twitter.com/hTWOoUI/status/1585974279056900097) - hTWOo team

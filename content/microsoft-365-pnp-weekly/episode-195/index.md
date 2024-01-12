@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Microsoft MVP and MCT, CEO/Owner of SharePlicity - [Liam Cleary](https://twitter.com/helloitsliam) \|@helloitsliam
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by US-based Microsoft MVP and MCT, CEO/Owner of SharePlicity - [Liam Cleary](https://twitter.com/helloitsliam) \|@helloitsliam
 
 ## Topics discussed in this session
 

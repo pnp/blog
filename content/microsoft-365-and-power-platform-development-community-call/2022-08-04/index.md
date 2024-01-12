@@ -36,7 +36,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New PowerShell – [Export SharePoint Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html?tabs=pnpps) - [Ramin Ahmadi](https://twitter.com/raminahmadi1986) \| @raminahmadi1986
     * New CLI – [List external users across all sites and in what site groups](https://pnp.github.io/script-samples/spo-list-site-externalusers-in-groups/README.html?tabs=cli-m365-ps) - [Martin Lingstuyl](https://github.com/martinlingstuyl)
     * Updated CLI – [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps) - [Martin Lingstuyl](https://github.com/martinlingstuyl)
-    * Updated Power App PowerShell – [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated Power App PowerShell – [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Wanted – Updated Microsoft Teams JavaScript samples using Teams SDK v2 \| [Microsoft Teams Development Samples](https://pnp.github.io/teams-dev-samples/) \| aka.ms/Teams-Samples
@@ -53,18 +53,18 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **ProvisionGenie v.3.0 – focus on Localization and Accessibility** – newly released v3.0 delivers Localization - UI in 12 languages. Languages are easily added – upload from spreadsheet to localization table in Microsoft Dataverse. Admins can limit language options presented for user to choose. Accessibility options include Theming, Screen reader and Keyboard-only support, and language availability. Call to action is to translate ProvisionGenie into more languages to enable more people to benefit from this application.
 * **List formatting backgrounds and borders using new isSelected placeholder** – isSelected is used with classes found on formatting samples site, applies formatting (backgrounds, borders) to selected row or changes image in column of selected row. Classes used ms-bgColor- applies a background color, sp-field-border sets border-width and border-style. Two Bonus on-the-fly demos show new “customRowAction” to expose a context menu and new expression called “split” for formatting text and borders around text.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube yZ-dJvmt8Zo >}}
 
 ## Agenda items
 
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:10](https://youtu.be/yZ-dJvmt8Zo?t=370)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [6:39](https://youtu.be/yZ-dJvmt8Zo?t=399)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [8:05](https://youtu.be/yZ-dJvmt8Zo?t=485)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:10](https://youtu.be/yZ-dJvmt8Zo?t=370)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [6:39](https://youtu.be/yZ-dJvmt8Zo?t=399)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [8:05](https://youtu.be/yZ-dJvmt8Zo?t=485)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [8:46](https://youtu.be/yZ-dJvmt8Zo?t=526)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:30](https://youtu.be/yZ-dJvmt8Zo?t=630)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:30](https://youtu.be/yZ-dJvmt8Zo?t=630)
 * Demo - ProvisionGenie v.3.0 – focus on Localization and Accessability – [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese – [11:51](https://youtu.be/yZ-dJvmt8Zo?t=711)
 * Demo - List formatting backgrounds and borders using new isSelected placeholder – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [28:42](https://youtu.be/yZ-dJvmt8Zo?t=1722)
 
@@ -86,7 +86,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

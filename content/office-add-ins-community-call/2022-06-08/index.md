@@ -20,12 +20,12 @@ This month's community call topics:
 
 * **Microsoft roadmap for One Outlook** – Get to know more about One Outlook, including enabling support for web add-ins and the planned timeline for preview and release – [Nikita Mittal](https://www.linkedin.com/in/nikita-mittal-92536648) – Senior Product Manager (Microsoft)
 * **Microsoft Outlook Smart Alerts** – Preview how to use Outlook Smart Alerts to enable your add-in to run logic when a user sends a message or appointment – [Sam Ramon](https://github.com/samantharamon) – Technical Writer (Microsoft)
-* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam
-* **Community spotlight** recognizes [Maarten van Stam](http://twitter.com/aafvstam)
+* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](https://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam
+* **Community spotlight** recognizes [Maarten van Stam](https://twitter.com/aafvstam)
 * **Community panels** – Join us to share your feedback on how we can provide you with a better Office Add-ins development experience
 * **Q&A** – See question and answers at end of call and in chat throughout call
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
+The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
 
 {{< youtube k9k70_QQZ-Q >}}
 
@@ -39,10 +39,10 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 * Update - Microsoft roadmap for One Outlook - Nikita Mittal - Senior Product Manager (Microsoft) – [1:23](https://youtu.be/k9k70_QQZ-Q?t=83)
 * Demo - Microsoft Outlook Smart Alerts - [Sam Ramon](https://github.com/samantharamon) - Technical Writer (Microsoft) – [7:35](https://youtu.be/k9k70_QQZ-Q?t=455)
-* Demo - Using Blazor in a Microsoft Excel add-in - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [15:12](https://youtu.be/k9k70_QQZ-Q?t=912)
+* Demo - Using Blazor in a Microsoft Excel add-in - [Maarten van Stam](https://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [15:12](https://youtu.be/k9k70_QQZ-Q?t=912)
 * Community Spotlight – [32:26](https://youtu.be/k9k70_QQZ-Q?t=1946)
 * Community Panels announced – [33:10](https://youtu.be/k9k70_QQZ-Q?t=1990)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [36:26](https://youtu.be/k9k70_QQZ-Q?t=2186)
+* Q&A – [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [36:26](https://youtu.be/k9k70_QQZ-Q?t=2186)
 
 ## Actions
 

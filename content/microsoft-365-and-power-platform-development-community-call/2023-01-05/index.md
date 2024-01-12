@@ -35,7 +35,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Good Flow story? Tell us. [FlowOfTheWeek](https://aka.ms/FlowOfTheWeekForm) – aka.ms/FlowOfTheWeekForm
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New - PnP PowerShell – [How to extract the employees shown in the People Web part on pages in a selection of Site Collections to CSV](https://pnp.github.io/script-samples/spo-export-people-web-part-users/README.html?tabs=pnpps)- [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [How to extract the employees shown in the People Web part on pages in a selection of Site Collections to CSV](https://pnp.github.io/script-samples/spo-export-people-web-part-users/README.html?tabs=pnpps)- [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * [Teams OpenAI Conversation Bot](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-openai) – [Lee Ford](https://twitter.com/lee_ford) \| @lee_ford
@@ -45,21 +45,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 **Building Find Time solution with Microsoft Graph and Power Apps** – evolving Waldek Mastykarz’s meetings app into a themes-aware Power Apps canvas app for Teams that leverages Microsoft Graph! In Graph Explorer, create calls to 3 endpoints - populate meeting picker, identify meeting slots, and create an event. Add calls (actions) to a Power Apps custom connector that will be called from your canvas app. Schedule a Teams meeting in canvas app within Teams.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube Qiw1jrys_lw >}}
 
 ## Agenda items
 
-* [07:33](https://youtu.be/Qiw1jrys_lw?t=453) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
-* [09:17](https://youtu.be/Qiw1jrys_lw?t=557)– PnP PowerShell updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [07:33](https://youtu.be/Qiw1jrys_lw?t=453) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
+* [09:17](https://youtu.be/Qiw1jrys_lw?t=557)– PnP PowerShell updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [09:56](https://youtu.be/Qiw1jrys_lw?t=596) – yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser
 * [11:16](https://youtu.be/Qiw1jrys_lw?t=676) – Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [12:32](https://youtu.be/Qiw1jrys_lw?t=752) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [12:32](https://youtu.be/Qiw1jrys_lw?t=752) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [13:17](https://youtu.be/Qiw1jrys_lw?t=797) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
-* [15:33](https://youtu.be/Qiw1jrys_lw?t=933) – Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [15:33](https://youtu.be/Qiw1jrys_lw?t=933) – Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [16:30](https://youtu.be/Qiw1jrys_lw?t=990) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
-* [17:24](https://youtu.be/Qiw1jrys_lw?t=1044) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+* [17:24](https://youtu.be/Qiw1jrys_lw?t=1044) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 * [18:12](https://youtu.be/Qiw1jrys_lw?t=1092) – Together mode picture
 * [19:09](https://youtu.be/Qiw1jrys_lw?t=1149) – Building Find Time solution with Microsoft Graph and Power Apps – [Luise Freese](https://twitter.com/luisefreese) \| @luisefreese
 * [38:39](https://youtu.be/Qiw1jrys_lw?t=2319) – Q&A
@@ -92,7 +92,7 @@ Thank you for joining the call today. Great to see you in 2023. And thank you fo
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

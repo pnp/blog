@@ -30,9 +30,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * Extension samples
     * processing
 * Web part samples
-    * [Page Navigation](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-sections-navigation/README.md) (Upgraded to SPFx 1.14) - [Alex Terentiev](http://twitter.com/alexaterentiev) \| @alexaterentiev
-    * [Teams Meeting App Questionnaire](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-meeting-app-questionnaire) (Upgraded to SPFx 1.14) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * [Star Ratings](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-star-ratings) (Updated) - [Takashi Shinohara](http://twitter.com/karamem0) \| @karamem0
+    * [Page Navigation](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-sections-navigation/README.md) (Upgraded to SPFx 1.14) - [Alex Terentiev](https://twitter.com/alexaterentiev) \| @alexaterentiev
+    * [Teams Meeting App Questionnaire](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-meeting-app-questionnaire) (Upgraded to SPFx 1.14) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * [Star Ratings](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-star-ratings) (Updated) - [Takashi Shinohara](https://twitter.com/karamem0) \| @karamem0
 * ACE samples (\* in processing)
     * Word of the Day\* - [Guido Zambarda](https://adoption.microsoft.com/sample-solution-gallery/author/Guido-Zambarda) \| GuidoZam
 * Microsoft 365 PnP Weekly – Episode 164 (May 2nd) with Belgium based Consultant, Office Developer MVP [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-164/) \| [podcast](https://www.podbean.com/media/share/pb-euwht-1217b1b)
@@ -44,7 +44,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Auto Batching Microsoft Graph Calls in your SPFx solutions** - auto-batching Microsoft Graph requests in SPFx and especially in Adaptive Cards scenarios where throttling may be an issue with many consecutive requests, is simple and more efficient. Marcin has defined an interface IHttp Client. See how he queues up and sends batched requests. Thorough code walk-through includes logic to test batch requests. Hear his rationale behind using AadHttpClient instead of MSGraphClient.
 * **SPFx Design Patterns – Property pane exception handling** - avoid making your users feel bad through poor information collection design. In this 6th and final installment on property panes, use proven PnP property pane controls and validation methods in your reusable SPFx solutions. Step through installing the propertypane library in your VS code environment, than add and configure a control in a web part. Session wraps with design (error message) etiquette recommendations.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -52,16 +52,16 @@ call.
 
 ## Agenda items
 
-* SharePoint Framework - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [6:33](https://youtu.be/5B1tPAEySVo?t=393)<https://youtu.be/3_QF94JWIlk?t=476>
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:00](https://youtu.be/5B1tPAEySVo?t=480)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [9:24](https://youtu.be/5B1tPAEySVo?t=564)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:01](https://youtu.be/5B1tPAEySVo?t=601)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:46](https://youtu.be/5B1tPAEySVo?t=646)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [11:43](https://youtu.be/5B1tPAEySVo?t=703)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [12:44](https://youtu.be/5B1tPAEySVo?t=764)
-* Demo - Manage data in OneDrive application folder – [Adam Wójcik](http://twitter.com/Adam25858782) (Hitachi) \| @Adam25858782 – [14:17](https://youtu.be/5B1tPAEySVo?t=857)
-* Demo - Auto Batching Microsoft Graph Calls in your SPFx solutions – [Marcin Wojciechowski](http://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [26:53](https://youtu.be/5B1tPAEySVo?t=1613)
-* Demo - SPFx Design Patterns – Property pane exception handling – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:46](https://youtu.be/5B1tPAEySVo?t=2506)
+* SharePoint Framework - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [6:33](https://youtu.be/5B1tPAEySVo?t=393)<https://youtu.be/3_QF94JWIlk?t=476>
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:00](https://youtu.be/5B1tPAEySVo?t=480)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [9:24](https://youtu.be/5B1tPAEySVo?t=564)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:01](https://youtu.be/5B1tPAEySVo?t=601)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:46](https://youtu.be/5B1tPAEySVo?t=646)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [11:43](https://youtu.be/5B1tPAEySVo?t=703)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [12:44](https://youtu.be/5B1tPAEySVo?t=764)
+* Demo - Manage data in OneDrive application folder – [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi) \| @Adam25858782 – [14:17](https://youtu.be/5B1tPAEySVo?t=857)
+* Demo - Auto Batching Microsoft Graph Calls in your SPFx solutions – [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [26:53](https://youtu.be/5B1tPAEySVo?t=1613)
+* Demo - SPFx Design Patterns – Property pane exception handling – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [41:46](https://youtu.be/5B1tPAEySVo?t=2506)
 
 ## Actions
 

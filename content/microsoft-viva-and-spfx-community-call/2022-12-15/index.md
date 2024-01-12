@@ -50,12 +50,12 @@ The host of this call is [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.
 ## Agenda items
 
 * [05:56](https://youtu.be/k1HhzNbmngE?t=356) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [07:53](https://youtu.be/k1HhzNbmngE?t=473) – PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+* [07:53](https://youtu.be/k1HhzNbmngE?t=473) – PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 * [09:44](https://youtu.be/k1HhzNbmngE?t=584) – CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 * [12:01](https://youtu.be/k1HhzNbmngE?t=721) – PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev
 * [12:48](https://youtu.be/k1HhzNbmngE?t=768) – PnP Modern Search - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) @paolopia
-* [13:56](https://youtu.be/k1HhzNbmngE?t=836) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
-* [14:30](https://youtu.be/k1HhzNbmngE?t=870) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [13:56](https://youtu.be/k1HhzNbmngE?t=836) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
+* [14:30](https://youtu.be/k1HhzNbmngE?t=870) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [15:33](https://youtu.be/k1HhzNbmngE?t=933) – Together mode picture
 * [16:10](https://youtu.be/k1HhzNbmngE?t=970) – Demo – Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution – [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez
 * [29:36](https://youtu.be/k1HhzNbmngE?t=1776) – Demo – Building an ACE for showing real time trade prices of stocks – [Kunj Sangani](https://twitter.com/sanganikunj) (Cognizant) \| @sanganikunj

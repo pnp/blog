@@ -21,7 +21,7 @@ Latest updates and news on Power Platform including community events and trainin
 
 Announcement - Microsoft 365 Copilot will be additionally fueled by Power Platform Connectors
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 21, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 21, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -57,9 +57,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [01:30](https://youtu.be/eLNTHIp-uQQ?t=90) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[02:56](https://youtu.be/eLNTHIp-uQQ?t=176) – Latest Power Apps Samples – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[02:56](https://youtu.be/eLNTHIp-uQQ?t=176) – Latest Power Apps Samples – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[04:36](https://youtu.be/eLNTHIp-uQQ?t=276) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[04:36](https://youtu.be/eLNTHIp-uQQ?t=276) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [05:48](https://youtu.be/eLNTHIp-uQQ?t=348) – Together mode picture
 

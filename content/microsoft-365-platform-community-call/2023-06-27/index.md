@@ -38,7 +38,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introduction to new Microsoft Graph Toolkit Search Components** – MGT v3.0 launched today - June27. A completely new capability delivered (in preview) is Search, specifically Search Box and Search Results components. Easily add search to a page with two tags, find files anywhere in Microsoft 365 environment. See the much more interesting, customizable search options in hero app that ships with MGT. Rich set of customization options, but also quite capable out of the box.
 * **Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx** – the 3rd installment on this end-to-end retail solution scenario you can build in Microsoft 365. In this demo, the focus is on the back-end .NET API relied upon by both the Teams personal app and a Viva Connections card. See in call in Postman and code in SPFx app for how to consume the API in a secure way by providing a token – easily configured.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube MX8OVvsAK0s >}}
 
@@ -46,7 +46,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/MX8OVvsAK0s?t=0) – Intro
 
-[09:01](https://youtu.be/MX8OVvsAK0s?t=541) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[09:01](https://youtu.be/MX8OVvsAK0s?t=541) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [10:29](https://youtu.be/MX8OVvsAK0s?t=629) – Together mode picture
 

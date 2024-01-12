@@ -40,17 +40,17 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://adoption.microsoft.com/sample-solution-gallery)
     * New CLI Scenario – [Copy planner plan](https://adoption.microsoft.com/sample-solution-gallery/planner-copy-planner-plan) - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/)
     * Updated CLI Scenario – [Fetch User Profile Properties from Site Collection and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/fetch-user-profile-properties) - [Mathijs Verbeeck](https://www.linkedin.com/in/mathijsverbeeck/)
-    * Updated CLI Scenario – [SharePoint Online Hub Site Association](https://adoption.microsoft.com/sample-solution-gallery/spo-hub-sites-association) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
-    * Updated CLI Scenario – [Get SharePoint List or Library Permissions and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/spo-get-list-library-permission-export-to-csv) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated CLI Scenario – [Reset files permissions unique to inheritance](https://adoption.microsoft.com/sample-solution-gallery/reset-files-permission-unique-to-inherited) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated CLI Scenario – [Script allow copy column format in SharePoint and appl to different column](https://adoption.microsoft.com/sample-solution-gallery/spo-apply-column-format) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+    * Updated CLI Scenario – [SharePoint Online Hub Site Association](https://adoption.microsoft.com/sample-solution-gallery/spo-hub-sites-association) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
+    * Updated CLI Scenario – [Get SharePoint List or Library Permissions and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/spo-get-list-library-permission-export-to-csv) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated CLI Scenario – [Reset files permissions unique to inheritance](https://adoption.microsoft.com/sample-solution-gallery/reset-files-permission-unique-to-inherited) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated CLI Scenario – [Script allow copy column format in SharePoint and appl to different column](https://adoption.microsoft.com/sample-solution-gallery/spo-apply-column-format) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
     * Updated CLI Scenario – [Bulk Library generation](https://adoption.microsoft.com/sample-solution-gallery/spo-create-bulk-libraries) - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/)
     * Updated CLI Scenario – [Run a search query and export to CSV](https://adoption.microsoft.com/sample-solution-gallery/spo-search-export-to-csv) - [Smita Nachan](https://www.linkedin.com/in/smitanachan/)
-    * Updated PowerShell Scenario – [Planner migration to SharePoint List](https://adoption.microsoft.com/sample-solution-gallery/planner-migration-spo-list) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated PowerShell Scenario – [Planner migration to SharePoint List](https://adoption.microsoft.com/sample-solution-gallery/planner-migration-spo-list) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Teams samples](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Teams&action=ajax_plugin_call_sample_solution_gallery)
-    * New - [Movie Vote - Tab meeting w/stageview](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-dev-teams-sample-tab-meeting-stageview-basic) - [Markus Moeller](http://twitter.com/Moeller2_0) \| @Moeller2_0
-* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
+    * New - [Movie Vote - Tab meeting w/stageview](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-dev-teams-sample-tab-meeting-stageview-basic) - [Markus Moeller](https://twitter.com/Moeller2_0) \| @Moeller2_0
+* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](https://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
 
 ### Demos
 
@@ -58,7 +58,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **List Formatting - Payment Registration** - extending Microsoft Lists Expense tracker template’s capabilities by adding file picker, locations (embedded Bing maps), payment timeline view and mobile view list formatting. Solution leverages a SharePoint page - filter web parts, Power Automate - declarative JSON for flow (expense approval), and Adaptive Cards for approval in a Teams channel. Create/populate a new expense item and call a flow action for large expense approval.
 * **Understanding Sites.Selected permissions in SharePoint Online** - the new Sites.Selected permission in AAD negates the need for ACS. Sites.Selected is an application permission for Microsoft Graph and/or SPO and allows Admins to grant Read or Write permission to the selected/targeted sites. Manage sites using Graph or CSOM/REST. PnP PowerShell can be used to Grant, Get, Revoke and Set AAD app permissions in Azure. Perfect for running an application in the background.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -66,17 +66,17 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:12](https://youtu.be/DPye7S6lVf0?t=372)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:14](https://youtu.be/DPye7S6lVf0?t=494)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:39](https://youtu.be/DPye7S6lVf0?t=579)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [10:00](https://youtu.be/DPye7S6lVf0?t=600)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [11:00](https://youtu.be/DPye7S6lVf0?t=660)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:22](https://youtu.be/DPye7S6lVf0?t=802)
-* Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [13:57](https://youtu.be/DPye7S6lVf0?t=837)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:33](https://youtu.be/DPye7S6lVf0?t=933)
-* Demo - Independent Publishing Connectors Sessionize Demo - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan & [Smita Nachan](http://twitter.com/SmitaNachan) \| @SmitaNachan – [17:00](https://youtu.be/DPye7S6lVf0?t=1020)
-* Demo - List Formatting - Payment Registration - [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [29:05](https://youtu.be/DPye7S6lVf0?t=1745)
-* Demo - Understanding Sites.Selected permissions in SharePoint Online - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) \| @PaoloPia – [43:56](https://youtu.be/DPye7S6lVf0?t=2636)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [6:12](https://youtu.be/DPye7S6lVf0?t=372)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:14](https://youtu.be/DPye7S6lVf0?t=494)
+* yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:39](https://youtu.be/DPye7S6lVf0?t=579)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [10:00](https://youtu.be/DPye7S6lVf0?t=600)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [11:00](https://youtu.be/DPye7S6lVf0?t=660)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:22](https://youtu.be/DPye7S6lVf0?t=802)
+* Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [13:57](https://youtu.be/DPye7S6lVf0?t=837)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:33](https://youtu.be/DPye7S6lVf0?t=933)
+* Demo - Independent Publishing Connectors Sessionize Demo - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan & [Smita Nachan](https://twitter.com/SmitaNachan) \| @SmitaNachan – [17:00](https://youtu.be/DPye7S6lVf0?t=1020)
+* Demo - List Formatting - Payment Registration - [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [29:05](https://youtu.be/DPye7S6lVf0?t=1745)
+* Demo - Understanding Sites.Selected permissions in SharePoint Online - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) \| @PaoloPia – [43:56](https://youtu.be/DPye7S6lVf0?t=2636)
 
 ## Actions
 

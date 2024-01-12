@@ -108,10 +108,10 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 *   Demo - [Introduction to HtwoO React library – Fluent UI experiences
     easily](https://www.youtube.com/watch?v=J7WxE18CMMQ) - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 *   Demo - [Getting started with HTWOO UI – Fluent Design in HTML and
     CSS](https://www.youtube.com/watch?v=_sPE3ARdRFs) - [Stefan
-    Bauer](http://twitter.com/StfBauer) (N8D) \| @StfBauer
+    Bauer](https://twitter.com/StfBauer) (N8D) \| @StfBauer
 *   Organization - [Open UI Platform](https://open-ui.org/)
 *   Documentation [PnPjs v2 - v3 Transition Guide](https://pnp.github.io/pnpjs/transition-guide/)
 *   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)

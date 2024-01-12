@@ -44,14 +44,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – Azure CLI + Microsoft Graph - [Uploads a large file to SharePoint using MS Graph REST API and PowerShell](https://pnp.github.io/script-samples/graph-upload-file-to-sharepoint/README.html?tabs=azure-cli) - [Paul Matthews](https://twitter.com/cann0nf0dder) \| @cann0nf0dder
     * New – Microsoft Graph PowerShell SDK - [Create Dynamic Install and Uninstall Azure AD Groups using Graph](https://pnp.github.io/script-samples/aad-graph-create-dynamic-groups-project-visio/README.html?tabs=graphps) - [Andrew Taylor](https://twitter.com/Andrewtaylor_2) \| @Andrewtaylor_2
-    * New – PnP PowerShell - [Creates and apply site designs](https://pnp.github.io/script-samples/spo-add-sitedesign-permissions/README.html?tabs=pnpps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * New – PnP PowerShell - [Enable page scheduling on a modern site pages library](https://pnp.github.io/script-samples/spo-enable-page-scheduling/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * New – PnP PowerShell - [Retrieve Message Centre announcements and post to teams](https://pnp.github.io/script-samples/spo-get-message-centre-announcements-and-post-to-teams-channel/README.html?tabs=pnpps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – PnP PowerShell - [Creates and apply site designs](https://pnp.github.io/script-samples/spo-add-sitedesign-permissions/README.html?tabs=pnpps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New – PnP PowerShell - [Enable page scheduling on a modern site pages library](https://pnp.github.io/script-samples/spo-enable-page-scheduling/README.html?tabs=pnpps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * New – PnP PowerShell - [Retrieve Message Centre announcements and post to teams](https://pnp.github.io/script-samples/spo-get-message-centre-announcements-and-post-to-teams-channel/README.html?tabs=pnpps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * New – PnP PowerShell - [Create Document Set in SharePoint Library](https://pnp.github.io/script-samples/spo-create-documentset/README.html?tabs=pnpps) - [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
-    * New – PnP PowerShell - [Enable Site Collection App Catalogs on a specific sites using CSV](https://pnp.github.io/script-samples/spo-enable-site-collection-app-catalog/README.html?tabs=spoms-ps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * New – PnP PowerShell - [Extract the employees shown on modern pages (Author byline) in a selection of Site Collections to CSV](https://pnp.github.io/script-samples/spo-export-people-web-part-users/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New – Azure AD Module - [Create AD app, add permissions and connect to SharePoint](https://pnp.github.io/script-samples/aad-add-app-permissions-and-connect-to-sharepoint/README.html?tabs=azuread) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
-    * Updated – CLI for Microsoft 365 - [Create AD app, add permissions, and connect to SharePoint](https://pnp.github.io/script-samples/aad-add-app-permissions-and-connect-to-sharepoint/README.html?tabs=azuread) - [Adam Wójcik](http://twitter.com/Adam25858782) \| @Adam25858782
+    * New – PnP PowerShell - [Enable Site Collection App Catalogs on a specific sites using CSV](https://pnp.github.io/script-samples/spo-enable-site-collection-app-catalog/README.html?tabs=spoms-ps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * New – PnP PowerShell - [Extract the employees shown on modern pages (Author byline) in a selection of Site Collections to CSV](https://pnp.github.io/script-samples/spo-export-people-web-part-users/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – Azure AD Module - [Create AD app, add permissions and connect to SharePoint](https://pnp.github.io/script-samples/aad-add-app-permissions-and-connect-to-sharepoint/README.html?tabs=azuread) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * Updated – CLI for Microsoft 365 - [Create AD app, add permissions, and connect to SharePoint](https://pnp.github.io/script-samples/aad-add-app-permissions-and-connect-to-sharepoint/README.html?tabs=azuread) - [Adam Wójcik](https://twitter.com/Adam25858782) \| @Adam25858782
     * Updated – PnP PowerShell - [Deploy sppkgs and install apps](https://pnp.github.io/script-samples/spo-deploy-sppkgs-and-install-apps/README.html?tabs=pnpps) - [Matteo Serpi](https://github.com/srpmtt)
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/) – Featured Teams App Samples with Full Tutorials
@@ -72,31 +72,31 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Extend Azure AD to add pronouns to a people card component in Power Apps using Microsoft Graph** – register application in AAD to create extension. In Graph Explorer - associate new property with user object, patch user with new property and get user to check if property is in place. Create custom connector for Power Platform (bring Graph API into Power Platform) and call custom connector in a Power Apps canvas app (people card you create) to display and patch pronouns. Conversation [aka.ms/Jan19-Demo1](https://aka.ms/Jan19-Demo1)
 * **Create a conversational bot in Microsoft Teams using OpenAI** – development - user sends message from Teams client to the Azure Bot ID defined in Teams app manifest, Azure Bot sends message to Bot code that is running in an Azure Function (doesn’t have to be an Azure Function), Bot sends the text from message sent from Teams to OpenAI API and answer/response is sent back to Teams (in Adaptive Cards). Conversation [aka.ms/Jan19-Demo2](https://aka.ms/Jan19-Demo2)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube SVfxqBpQF4o >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/SVfxqBpQF4o?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/SVfxqBpQF4o?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[06:20](https://youtu.be/SVfxqBpQF4o?t=380) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[06:20](https://youtu.be/SVfxqBpQF4o?t=380) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[08:14](https://youtu.be/SVfxqBpQF4o?t=494)<https://youtu.be/Qiw1jrys_lw?t=557> – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+[08:14](https://youtu.be/SVfxqBpQF4o?t=494)<https://youtu.be/Qiw1jrys_lw?t=557> – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
 
 [10:05](https://youtu.be/SVfxqBpQF4o?t=605) – yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser
 
 [11:19](https://youtu.be/SVfxqBpQF4o?t=679) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[13:48](https://youtu.be/SVfxqBpQF4o?t=828) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[13:48](https://youtu.be/SVfxqBpQF4o?t=828) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [14:20](https://youtu.be/SVfxqBpQF4o?t=860) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[15:37](https://youtu.be/SVfxqBpQF4o?t=937) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[15:37](https://youtu.be/SVfxqBpQF4o?t=937) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [18:34](https://youtu.be/SVfxqBpQF4o?t=1114) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
-[20:56](https://youtu.be/SVfxqBpQF4o?t=1256) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[20:56](https://youtu.be/SVfxqBpQF4o?t=1256) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [21:34](https://youtu.be/SVfxqBpQF4o?t=1294) – Together mode picture
 
@@ -134,7 +134,7 @@ Thanks everyone for joining the call and sinking into those new posh seats durin
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 

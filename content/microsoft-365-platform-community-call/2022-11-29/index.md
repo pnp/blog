@@ -45,13 +45,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Scale access to Microsoft 365 data with Microsoft Graph Data Connect** – look at new ways to power business decisions with M365 Data & Synapse Analytics. See how to configure your Office to share data with your Azure subscription and get back security and compliance insights regarding information oversharing inside your tenant. Configure Microsoft Graph Data Connect, set up an Azure Storage account and pipeline in Azure Synapse Analytics workspace. Use Power BI dashboard to deliver insights.
 * **What’s new in the Microsoft Teams Toolkit – Fall, 2022** – updates in the last 3 months on the Teams Toolkit that further simplify Teams app development. Highlights include - new sample app project, simpler APIs for bot and message extension SSO, New project template for Workflow bot, fine-tuned control of Teams Toolkit debussing steps, Add SSO after the fact feature, and more. Also covers what’s next. We always appreciate your feedback!
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout the call.
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout the call.
 
 {{< youtube AJWBNiTMsOk >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [6:48](https://youtu.be/AJWBNiTMsOk?t=408)
+* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [6:48](https://youtu.be/AJWBNiTMsOk?t=408)
 * Microsoft Teams Platform updates – Surbhi Gupta (Microsoft) – [8:49](https://youtu.be/AJWBNiTMsOk?t=529)
 * Demo - Preview updates on Microsoft Graph toolkit v3.0 – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert & [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) \| @gavinbarron – [12:03](https://youtu.be/AJWBNiTMsOk?t=723)
 * Demo - Scale access to Microsoft 365 data with Microsoft Graph Data Connect – [Philip Li](https://www.linkedin.com/in/philip-li-98920461) (Microsoft) & [Jose Barreto](https://twitter.com/josebarreto) (Microsoft) \| @josebarreto – [30:46](https://youtu.be/AJWBNiTMsOk?t=1846)

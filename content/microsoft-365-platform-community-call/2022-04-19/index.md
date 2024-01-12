@@ -30,7 +30,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article - [April 2022 – Viva Topics Integrations with Teams, Syntex, Outlook
     and
     Yammer](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/april-2022-viva-topics-integrations-with-teams-syntex-outlook/ba-p/3285296)
-    \| [Chris McNulty](http://twitter.com/cmcnulty2000) (Microsoft) \|
+    \| [Chris McNulty](https://twitter.com/cmcnulty2000) (Microsoft) \|
     @cmcnulty2000
 * Microsoft 365 PnP Weekly – Episode 162 (April 18th) with Stockholm, Sweden
     based Principal Program Manager, [Wictor Wilén](https://twitter.com/wictor)
@@ -39,7 +39,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     \|
     [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-162-wictor-wilen-microsoft/)
 * Microsoft 365 Developer Podcast - Development Topics with [Andrew
-    Connell](http://twitter.com/andrewconnell) (April 12th) \| @@andrewconnell
+    Connell](https://twitter.com/andrewconnell) (April 12th) \| @@andrewconnell
     \|[podcast](https://www.m365devpodcast.com/e/development-topics-with-andrew-connell/)
 * [Microsoft 365 Platform Community (PnP) – April 2022
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-april-2022-update/ba-p/3282997)
@@ -69,7 +69,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     described, see Graph connector search demo and finally step through how and
     why build a connector using Postman.
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett)
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett)
 (Microsoft) \| @BrianTJackett. Q&A takes place in chat throughout and live at
 end of the call.
 
@@ -78,19 +78,19 @@ end of the call.
 ## Agenda items
 
 * Latest updates and news on the Microsoft 365 platform – [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) \| @BrianTJackett –
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) \| @BrianTJackett –
     [6:53](https://youtu.be/JckgmonMbCM?t=413)
 * Monthly contributors on the Microsoft 365 platform community efforts – [Vesa
     Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen –
     [11:23](https://youtu.be/JckgmonMbCM?t=683)
 * Demo - Latest on Microsoft Graph Data Connect datasets – [Nik
-    Charlebois](http://twitter.com/NikCharlebois) (Microsoft) \| @NikCharlebois
+    Charlebois](https://twitter.com/NikCharlebois) (Microsoft) \| @NikCharlebois
     – [15:15](https://youtu.be/JckgmonMbCM?t=915)
 * Demo - Extending Teams apps to Outlook and Office.com – [Saurabh
-    Bhatia](http://twitter.com/iamSBTron) (Microsoft) \| @iamSBTron –
+    Bhatia](https://twitter.com/iamSBTron) (Microsoft) \| @iamSBTron –
     [29:36](https://youtu.be/JckgmonMbCM?t=1776)
 * Demo - Graph Connectors updates and Postman samples – [Brian T.
-    Jackett](http://twitter.com/BrianTJackett) (Microsoft) \| @BrianTJackett –
+    Jackett](https://twitter.com/BrianTJackett) (Microsoft) \| @BrianTJackett –
     [37:33](https://youtu.be/JckgmonMbCM?t=2253)
 
 Thank you for your creativity and work execution. Samples are often showcased in

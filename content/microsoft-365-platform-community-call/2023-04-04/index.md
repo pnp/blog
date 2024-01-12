@@ -58,7 +58,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Latest on the Microsoft Graph Connectors** – get a brief introduction to Microsoft Search & Graph connectors, latest GA and Preview releases from Graph connectors, content through Cloud SSA to Graph connectors (cloud hybrid search), and the availability of Graph connectors in Teams mobile and iOS devices. Viewers views on Cloud SSA and on how Teams content can be brought into Microsoft Search from Teams mobile devices is requested.
 * **Contributing to Microsoft Graph .NET SDK for improved batching** – preface from Waldek Mastykarz on this Hackathon entry that no less than improved the Graph SDK itself! Author’s approach: Extend the SDK so everyone can start using the new batching endpoint and at the same time, fix Blazor web assembly templates to get along with the Graph SDK for .NET v5. See measurable performance improvements adding/deleting 10 items to a ToDo task list with and without batching.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 1rnspoFtjt4 >}}
 
@@ -66,7 +66,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/1rnspoFtjt4?t=0) – Intro
 
-[11:18](https://youtu.be/1rnspoFtjt4?t=678) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[11:18](https://youtu.be/1rnspoFtjt4?t=678) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [13:18](https://youtu.be/1rnspoFtjt4?t=798) – Together mode picture
 
@@ -89,7 +89,7 @@ A lot of familiar faces, the room is packed, great smiles, thank you for joining
 ## Actions
 
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

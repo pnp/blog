@@ -39,17 +39,17 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * Updated - [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) (originally built by Rui Santos) - [Woong Choi](https://www.linkedin.com/in/woongchoi/)
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New for CLI - [Install Solution and Deploy to the SharePoint site](https://pnp.github.io/script-samples/spo-install-deploy-spfx-solution/README.html?tabs=cli-m365-ps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * New for CLI - [Install Solution and Deploy to the SharePoint site](https://pnp.github.io/script-samples/spo-install-deploy-spfx-solution/README.html?tabs=cli-m365-ps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
     * Updated for Power Apps/Power Shell - [Add/Remove users (bulk from Power Apps from CSV file](https://pnp.github.io/script-samples/powerapps-bulk-useraccess/README.html?tabs=powerapps-ps) - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
     * Updated for CLI - [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html?tabs=pnpps) - [Smita Nachan](https://twitter.com/SmitaNachan) \| @SmitaNachan
-    * Updated for CLI - [Bulk Create Teams with JSON File](https://pnp.github.io/script-samples/teams-bulk-create-teams/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated for CLI - [Export SharePoint List Data to CSV with attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated for CLI - [Bulk Create Teams with JSON File](https://pnp.github.io/script-samples/teams-bulk-create-teams/README.html?tabs=pnpps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated for CLI - [Export SharePoint List Data to CSV with attachments](https://pnp.github.io/script-samples/spo-export-sharepoint-list-items-to-csv/README.html?tabs=pnpps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
     * Updated for CLI - [Create bulk dummy documents, including major/minor versions](https://pnp.github.io/script-samples/create-dummy-docs-versions-in-library/README.html?tabs=pnpps) - [Mathijs Verbeeck](https://www.linkedin.com/in/mathijsverbeeck/)
-    * Updated for PowerShell - [Delete custom color themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
+    * Updated for PowerShell - [Delete custom color themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html?tabs=cli-m365-ps) - [Leon Armston](https://twitter.com/LeonArmston) \| @LeonArmston
     * Updated for PowerShell - [Read SharePoint List Items Using CAML Query](https://pnp.github.io/script-samples/spo-list-items-with-caml-query/README.html?tabs=pnpps) - [Jago Pauwels](https://github.com/jagopauwels/)
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Teams samples](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Teams&action=ajax_plugin_call_sample_solution_gallery)
-    * New - [Movie Vote - Tab meeting w/stageview](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-dev-teams-sample-tab-meeting-stageview-basic) - [Markus Moeller](http://twitter.com/Moeller2_0) \| @Moeller2_0
+    * New - [Movie Vote - Tab meeting w/stageview](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-dev-teams-sample-tab-meeting-stageview-basic) - [Markus Moeller](https://twitter.com/Moeller2_0) \| @Moeller2_0
 * Microsoft 365 PnP Weekly – Episode 171 (June 20th) with Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-171/) \| [podcast](https://www.podbean.com/media/share/pb-axtx9-1255b1a)
 
 ### Demos
@@ -58,7 +58,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Keep track of your activities with Microsoft Lists and Power Automate** – create a custom list that captures notes and automatically highlights, groups and sorts by date, is flexible and easy to use, tracks information about activities as well as operations, and is Microsoft Teams ready. Keeps track of attachments (Power Automate) and can be customized further. Each list record has Title, writing box and a tool bar. Edit content in list or on page.
 * **Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components** – why build your own version of Teams? Step through one business case and architecture. Uses a Graph Toolkit provider, mgt-get components, back-end implementation (.NET 5), Graph change subscription, SignalR implementation, client-side changes to get latest messages from Teams, and respond to all Graph calls (Proxy Provider). See demo of near instantaneous chat and notifications in the non-Teams app and Teams App side-by-side.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -66,14 +66,14 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [5:58](https://youtu.be/WZwg_Zo1ZL4?t=358)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:05](https://youtu.be/WZwg_Zo1ZL4?t=545)
-* yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) @wictor – [11:09](https://youtu.be/WZwg_Zo1ZL4?t=669)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [13:16](https://youtu.be/WZwg_Zo1ZL4?t=796)
-* Independent Publisher Connectors - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:04](https://youtu.be/WZwg_Zo1ZL4?t=904)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [15:25](https://youtu.be/WZwg_Zo1ZL4?t=925)
-* Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [17:38](https://youtu.be/WZwg_Zo1ZL4?t=1058)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [18:00](https://youtu.be/WZwg_Zo1ZL4?t=1080)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [5:58](https://youtu.be/WZwg_Zo1ZL4?t=358)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:05](https://youtu.be/WZwg_Zo1ZL4?t=545)
+* yo Teams updates - [Wictor Wilén](https://twitter.com/wictor) (Microsoft) @wictor – [11:09](https://youtu.be/WZwg_Zo1ZL4?t=669)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [13:16](https://youtu.be/WZwg_Zo1ZL4?t=796)
+* Independent Publisher Connectors - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:04](https://youtu.be/WZwg_Zo1ZL4?t=904)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [15:25](https://youtu.be/WZwg_Zo1ZL4?t=925)
+* Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [17:38](https://youtu.be/WZwg_Zo1ZL4?t=1058)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [18:00](https://youtu.be/WZwg_Zo1ZL4?t=1080)
 * Demo - List Formatting magic - Tab and Percentage Chart – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [19:47](https://youtu.be/WZwg_Zo1ZL4?t=1187)
 * Demo - Keep track of your activities with Microsoft Lists and Power Automate – Federico Sapia (ANPAL Servizi) – [28:17](https://youtu.be/WZwg_Zo1ZL4?t=1697)
 * Demo - Build your own Microsoft Teams using Microsoft Graph Toolkit and .NET Core API and Integrate using Web Components – [Sohil Bhalla](https://twitter.com/SohilBhalla) (Codeless Technology) \| @SohilBhalla – [35:20](https://youtu.be/WZwg_Zo1ZL4?t=2120)

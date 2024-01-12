@@ -18,11 +18,11 @@ draft: false
 
 ## This month's agenda and presenters
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut), Senior Technical Writer, Microsoft Office Developer Platform
+The call was hosted by [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft Office Developer Platform
 * **Excel add-in user pattern – Open in Excel.** Export data from any system to Excel. [Yawei Zhu](https://www.linkedin.com/in/yaweizhu-henson/), Senior Product Manager, Microsoft.
 * **Use Linq to XML in Office.js Add-ins.** Two TypeScript libraries for dealing with Open XML markup. [Thomas Barnekow](https://www.linkedin.com/in/thomas-barnekow-2580b11), Senior Principal Software Architect, [Analog Devices](https://www.analog.com/en/index.html).
 * **Office Add-ins community engagement update.** Help us select a single destination for product ideas and suggestions. [Linda Lu Cannon](https://www.linkedin.com/in/lindalu-msft/), Senior Content Project Manager Microsoft, Microsoft.
-* **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.** New event-based features in Mailbox v1.12 and REST decommission update. [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
+* **Outlook add-in API update: REST decommission and Mailbox 1.12 scope.** New event-based features in Mailbox v1.12 and REST decommission update. [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call.
 
 {{< youtube COic6ghBWsU >}}

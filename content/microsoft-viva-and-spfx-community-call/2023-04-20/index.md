@@ -58,7 +58,7 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 [07:41](https://youtu.be/AJ-zFICSyXY?t=461) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
-[08:56](https://youtu.be/AJ-zFICSyXY?t=536) – PnPjs Client-Side Libraries – [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+[08:56](https://youtu.be/AJ-zFICSyXY?t=536) – PnPjs Client-Side Libraries – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 
 [10:40](https://youtu.be/AJ-zFICSyXY?t=640) – CLI for Microsoft 365 – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
@@ -70,7 +70,7 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 [14:55](https://youtu.be/AJ-zFICSyXY?t=895) – PnP Modern Search – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
-[15:32](https://youtu.be/AJ-zFICSyXY?t=932) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[15:32](https://youtu.be/AJ-zFICSyXY?t=932) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
 [16:06](https://youtu.be/AJ-zFICSyXY?t=966) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 

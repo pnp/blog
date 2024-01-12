@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
 
 ## Topics discussed in this session
 
@@ -66,7 +66,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Generate Word Document Template Using Power Automate](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Generate-Word-Document-Template-Using-Power-Automate/ba-p/1874987) - [Ramprakash Duraisamy](https://twitter.com/rampprakashd) (Bosch) | @rampprakashd
 * [PnPjs 3.9.0 release](https://twitter.com/m365pnpjs/status/1591117187753775104) - [Microsoft 365 PnPjs](https://twitter.com/m365pnpjs) | @m365pnpjs
 * [How to copy views in SharePoint](https://www.blimped.nl/how-to-copy-views-in-sharepoint/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl
-* [Microsoft Teams Paging on Video Gallery - Message Center Show Ep. 261](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Microsoft Teams Paging on Video Gallery - Message Center Show Ep. 261](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [CLI for Microsoft 365 extension](https://marketplace.visualstudio.com/items?itemName=adamwojcikit.cli-for-microsoft-365-extension) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
 * [Library Components with Service Locator pattern in Viva Connections Adaptive Card extension - Part 2](https://www.youtube.com/watch?v=6bOu7xBjJ7c) - [Akshay Koul](https://twitter.com/TechAkki) | @TechAkki
 * [Episode 230 - Choosing the right extensibility model for Azure AD](https://www.youtube.com/watch?v=17d0Y44ebMs) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia

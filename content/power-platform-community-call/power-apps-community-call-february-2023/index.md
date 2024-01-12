@@ -21,7 +21,7 @@ Three demos delivered: Developing a personal wellness app to prevent burnout usi
 
 Activities: 4 articles, 3 documents, 1 landing page, 3 samples, 4 connectors, and 2 Power Platform related conversations recently delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on February 15, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on February 15, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -77,7 +77,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [03:23](https://youtu.be/MQyRjD1nVRQ?t=203) – Latest Power Apps Samples – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
 
-[06:44](https://youtu.be/MQyRjD1nVRQ?t=404) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[06:44](https://youtu.be/MQyRjD1nVRQ?t=404) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [10:59](https://youtu.be/MQyRjD1nVRQ?t=659) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 

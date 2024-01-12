@@ -28,14 +28,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) v3.3.2 GA
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) v5.3.0 beta
 * Microsoft 365 PnP Weekly – Episode 166 (May 16th) with US-based Principal PM Lead, DevDiv, VS extensions - Pierce Boggan (Microsoft) \| @pierceboggan \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/) \| [podcast](https://www.podbean.com/media/share/pb-66mt4-122a0e4)
-* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
+* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
 ### Demos
 
 * **Building Office Locations Viva Connections Adaptive Card Extension with SPFx** – Office locations ACE. See configuring this ACE with multiple card views showing the details of the geographically distributed offices for an organization. Key solution properties: Multiple data sources (local properties, taxonomy, or SharePoint list), Bing and Google for maps, PnP JS v3, OpenWeather API to get weather, Temporal API to get local time, Geolocation action type and Caching. Uses new Show location action.
 * **Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions** – see the new control to be included in the next version of the PnP Reusable React controls library. The control simplifies the use of Designer inside a SPFx web part. Essentially, the Host renders a single Adaptive Card in a web part and on the selected Adaptive Card now is a superimposed button ‘Open Designer’ that brings up the new and SPFx optimized, Designer control.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -43,14 +43,14 @@ call.
 
 ## Agenda items
 
-* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:44](https://youtu.be/NQUoEQZECe0?t=404)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:42](https://youtu.be/NQUoEQZECe0?t=519)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:39](https://youtu.be/NQUoEQZECe0?t=639)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:36](https://youtu.be/NQUoEQZECe0?t=696)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:38](https://youtu.be/NQUoEQZECe0?t=758)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:15](https://youtu.be/NQUoEQZECe0?t=795)
-* Demo - Building Office Locations Viva Connections Adaptive Card Extension with SPFx – [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) \| @anooptells – [15:10](https://youtu.be/NQUoEQZECe0?t=910)
-* Demo - Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [35:31](https://youtu.be/NQUoEQZECe0?t=2131)
+* SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:44](https://youtu.be/NQUoEQZECe0?t=404)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:42](https://youtu.be/NQUoEQZECe0?t=519)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:39](https://youtu.be/NQUoEQZECe0?t=639)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:36](https://youtu.be/NQUoEQZECe0?t=696)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:38](https://youtu.be/NQUoEQZECe0?t=758)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:15](https://youtu.be/NQUoEQZECe0?t=795)
+* Demo - Building Office Locations Viva Connections Adaptive Card Extension with SPFx – [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) \| @anooptells – [15:10](https://youtu.be/NQUoEQZECe0?t=910)
+* Demo - Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [35:31](https://youtu.be/NQUoEQZECe0?t=2131)
 
 
 ## Actions
@@ -76,7 +76,7 @@ call.
 
 * **Building Office Locations Viva Connections Adaptive Card Extension with SPF**
     * Sample - [Office locations](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ImageCard-OfficeLocations)
-    * Demo - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY) – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
+    * Demo - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY) – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
     * Ignite session - [Get started with Microsoft Viva Connections Extensibility](https://aka.ms/CONLL112) \| aka.ms/CONLL112
     * YouTube Channel - [PiaSys Tech Bites](https://www.youtube.com/c/PiaSysTechBites)
     * Documentation - [Location capabilities in Adaptive Card Extension](https://learn.microsoft.com/sharepoint/dev/spfx/viva/get-started/actions/geolocation/geolocationdocumentation)

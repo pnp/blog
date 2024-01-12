@@ -46,7 +46,7 @@ The host of this call is [Hugo Bernier](https://twitter.com/bernierh) (Microsoft
 
 [15:22](https://youtu.be/yjhh0opXPn0?t=922) – PnP Modern Search – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[15:44](https://youtu.be/yjhh0opXPn0?t=944) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[15:44](https://youtu.be/yjhh0opXPn0?t=944) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
 [16:07](https://youtu.be/yjhh0opXPn0?t=967) – Together mode picture
 

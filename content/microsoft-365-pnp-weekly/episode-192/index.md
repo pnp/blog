@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based CTO Low-Code Solutions and Microsoft MVP - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) \| @appieschot
 
 ## Topics discussed in this session
 

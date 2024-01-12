@@ -32,13 +32,13 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) – v5.4.0 preview
     * [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/) – v4.7.0 preview
 * Web part samples
-    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
     * [React Script Editor](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-script-editor)  [Felix Bohnacker](https://github.com/felixbohnacker) \| felixbohnacker
 * ACE samples
-    * New - Card Composition – Multi Card View - [Marcin Wojciechowski](http://twitter.com/mgwojciech) \| @mgwojciech
-    * Updated - My M365 Groups - *New Search & Grouping -* [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * New - Card Composition – Multi Card View - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech
+    * Updated - My M365 Groups - *New Search & Grouping -* [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
 * Microsoft 365 PnP Weekly – Episode 170 (June 13th) with Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-170/) \| [podcast](https://www.podbean.com/media/share/pb-w7j5e-124d4dc)
-* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
+* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](https://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
 
 ### Demos
 
@@ -47,7 +47,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 **MyShifts – SharePoint Framework Viva Connections - Adaptive Card Extension** – call Microsoft Graph API from an ACE, use Graph to store/read user's preferences on user's OneDrive. Uses card view (to display logged in user’s immediate upcoming Shift on a team) and quick view cards to display additional shifts, other teams and team selection confirmations. Delivers a Personalized Experience on the user’s Viva Connections dashboard. Complete CodeTour in this ACE sample.
 
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -55,13 +55,13 @@ call.
 
 ## Agenda items
 
-* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [7:09](https://youtu.be/cB63Da065dw?t=429)<https://youtu.be/3_QF94JWIlk?t=476>
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:45](https://youtu.be/cB63Da065dw?t=525)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:03](https://youtu.be/cB63Da065dw?t=663)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:52](https://youtu.be/cB63Da065dw?t=712)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:02](https://youtu.be/cB63Da065dw?t=782)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:37](https://youtu.be/cB63Da065dw?t=817)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –[14:55](https://youtu.be/cB63Da065dw?t=895)
+* SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [7:09](https://youtu.be/cB63Da065dw?t=429)<https://youtu.be/3_QF94JWIlk?t=476>
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:45](https://youtu.be/cB63Da065dw?t=525)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:03](https://youtu.be/cB63Da065dw?t=663)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:52](https://youtu.be/cB63Da065dw?t=712)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:02](https://youtu.be/cB63Da065dw?t=782)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:37](https://youtu.be/cB63Da065dw?t=817)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII –[14:55](https://youtu.be/cB63Da065dw?t=895)
 * Demo - Building a safer custom Content Editor Web Part​ with SPFx – [Christophe Humbert](https://twitter.com/Path2SharePoint) \| @Path2SharePoint – [16:39](https://youtu.be/cB63Da065dw?t=999)
 * Demo - Getting started on using GitHub Codespaces with your SharePoint Framework solutions​ – [Emanuele Bartolesi](https://twitter.com/kasuken) (SoftwareONE) \| @kasuken – [33:44](https://youtu.be/cB63Da065dw?t=2024)
 * Demo - MyShifts – SharePoint Framework Viva Connections - Adaptive Card Extension – [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me – [50:50](https://youtu.be/cB63Da065dw?t=3050)

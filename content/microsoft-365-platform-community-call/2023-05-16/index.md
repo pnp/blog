@@ -57,7 +57,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introduction to Live Share SDK for Microsoft Teams apps** – with Live Share, users co-watch, co-create, and co-edit what’s on screen during meetings. Meeting participants can annotate, manipulate, activate, edit the same object shown on all participants screens in real time. Learn about 3 SDK packages (groups of capabilities) – Live Share core, Live Share media, and Live Share canvas. Short demo shows complete interactivity now available across mobile and desktop devices.
 * **Latest on building Microsoft Viva extensibility with SharePoint Framework** – overviews on SharePoint Framework and Microsoft Viva - Viva home (desktop) experience and Viva Connections (mobile) experience. Cover off on segments - We’ve built a Teams app, what’s next? Quick operations using the ACE Quick View, Expanding from Teams to Teams+Viva, New partner opportunity – Viva apps in the Microsoft Store, and Future - ACEs, templates, card sizes, and UX capabilities.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube p2DZnli5w5Q >}}
 
@@ -90,7 +90,7 @@ Really great seeing everyone in the packed virtual room today during the call.
 * Register for [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| aka.ms/hack-together-teams
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

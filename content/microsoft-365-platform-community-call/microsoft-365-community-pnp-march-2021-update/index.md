@@ -49,7 +49,7 @@ initiative](https://aka.ms/m365pnp) from February 2021:
     [OneDrive](https://github.com/onedrive),
     [Microsoft-Search](https://github.com/microsoft-search),
     [OfficeDev](https://github.com/officedev) and [SharePoint GitHub
-    organization](http://github.com/sharepoint) repositories - 71,936
+    organization](https://github.com/sharepoint) repositories - 71,936
 -   Overall unique contributors in the [PnP](https://github.com/pnp),
     [OneDrive](https://github.com/onedrive),
     [Microsoft-Search](https://github.com/microsoft-search),
@@ -385,7 +385,7 @@ Microsoft are located in the SharePoint GitHub organization\
 
 -   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source
     for new SharePoint dev center documentation exposed from
-    [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
+    [https://learn.microsoft.com/sharepoint/dev](https://learn.microsoft.com/sharepoint/dev/)
 -   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) -
     Open-source templates used by the [SharePoint Look Book
     site](https://lookbook.microsoft.com/)

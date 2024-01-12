@@ -123,7 +123,7 @@ at <https://aka.ms/GraphTAPForm>.  
 
 -   Graph TAP Program -
     [**https://aka.ms/GraphTAPForm**](https://aka.ms/GraphTAPForm)** **
--   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
+-   Microsoft 365 Developer Podcast <https://www.m365devpodcast.com/>
 -   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Cloud Consultant, Viva Explorer Visionary and Microsoft MVP - [Leslie Crook](https://twitter.com/Lesley_wolan) (CloudWay) \| @Lesley_wolan
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by UK-based Cloud Consultant, Viva Explorer Visionary and Microsoft MVP - [Leslie Crook](https://twitter.com/Lesley_wolan) (CloudWay) \| @Lesley_wolan
 
 ## Topics discussed in this session
 

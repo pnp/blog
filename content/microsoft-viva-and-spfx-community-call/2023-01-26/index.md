@@ -67,9 +67,9 @@ The host of this call is [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.
 
 [11:50](https://youtu.be/49yC8DmN5lY?t=710) – PnP Modern Search – [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia
 
-[12:22](https://youtu.be/49yC8DmN5lY?t=742) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[12:22](https://youtu.be/49yC8DmN5lY?t=742) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[13:55](https://youtu.be/49yC8DmN5lY?t=835) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[13:55](https://youtu.be/49yC8DmN5lY?t=835) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [14:21](https://youtu.be/49yC8DmN5lY?t=861) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 

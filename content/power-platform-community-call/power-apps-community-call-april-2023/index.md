@@ -21,7 +21,7 @@ Two demos delivered: With Great Power (Apps) Comes Great Reusability and Copilot
 
 Activities: 3 articles, 3 documents, 4 connectors, 1 sample, 4 Power Platform related video conversations recently delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on April 19, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on April 19, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -68,13 +68,13 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [00:00](https://youtu.be/5ecCCyQSEsE?t=0) – Intro
 
-[01:46](https://youtu.be/5ecCCyQSEsE?t=106) – Power Platform News & Learn Updates – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[01:46](https://youtu.be/5ecCCyQSEsE?t=106) – Power Platform News & Learn Updates – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
-[02:35](https://youtu.be/5ecCCyQSEsE?t=155) – Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[02:35](https://youtu.be/5ecCCyQSEsE?t=155) – Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [03:19](https://youtu.be/5ecCCyQSEsE?t=199) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[08:08](https://youtu.be/5ecCCyQSEsE?t=488) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[08:08](https://youtu.be/5ecCCyQSEsE?t=488) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [10:13](https://youtu.be/5ecCCyQSEsE?t=613) – Together mode picture
 

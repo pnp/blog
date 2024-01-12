@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft MVP and Power Platform Technical Architect - [Kristine Kolodziejski](https://twitter.com/@kristinekk94) (Computacenter) \| @kristinekk94.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft MVP and Power Platform Technical Architect - [Kristine Kolodziejski](https://twitter.com/@kristinekk94) (Computacenter) \| @kristinekk94.
 
 ## Topics discussed in this session
 
@@ -69,7 +69,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Use Power Automate to Retrieve Data from an Azure Function for Reporting](https://blog.codewithdan.com/use-power-automate-to-retrieve-data-from-an-azure-function-for-reporting/) - [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [New! Format data by examples in Power Automate](https://sharepains.com/2022/10/21/new-format-data-by-examples-in-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Using Content Types in SharePoint’s Site Pages Library](https://sympmarc.com/2022/10/20/using-content-types-in-sharepoints-site-pages-library/) - [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
-* [Microsoft Teams Premium and other goodies - Message Center Show Ep. 258](https://regarding365.com/microsoft-teams-premium-and-other-goodies-5924c4a79a3a) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Microsoft Teams Premium and other goodies - Message Center Show Ep. 258](https://regarding365.com/microsoft-teams-premium-and-other-goodies-5924c4a79a3a) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [React Hooks: Class Components vs. Functional Components & Opinions on When & Where to use them](https://www.youtube.com/watch?v=1fItx3o4k_Q) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 & [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 * [Episode #227 - Extending Azure AD objects with Microsoft Graph and Directory Extensions](https://www.youtube.com/watch?v=kXot92o0n8Q) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Animating text using SVG and CSS for Power Apps!](https://www.youtube.com/watch?v=fbKyzFZodZs) - [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) | @kristinekk94

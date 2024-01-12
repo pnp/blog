@@ -22,7 +22,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 * Article – [Upcoming billing changes for Microsoft Graph APIs for Teams messages](https://devblogs.microsoft.com/microsoft365dev/upcoming-billing-changes-for-microsoft-graph-apis-for-teams-messages/) \| Microsoft
 * Article – [Breaking changes for the Insights API (beta)](https://devblogs.microsoft.com/microsoft365dev/breaking-changes-for-the-insights-api-beta/) \| Microsoft
-* Article – [SharePoint Framework 1.15 Release Candidate now available with new features and updates](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-1-15-release-candidate-new-features-for-viva-connections-microsoft-teams-and-sharepoint/) \| [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* Article – [SharePoint Framework 1.15 Release Candidate now available with new features and updates](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-1-15-release-candidate-new-features-for-viva-connections-microsoft-teams-and-sharepoint/) \| [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * Article – [Expanding background noise suppression across platforms and scenarios](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/expanding-background-noise-suppression-across-platforms-and/ba-p/3300366) \| Mehrsa Golestaneh (Microsoft)
 * Article – [Introducing Direct Guest Join for expanded capabilities in Microsoft Teams Rooms on Android](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-direct-guest-join-for-expanded-capabilities-in/ba-p/3467078) \| Matt Taylor (Microsoft)
 * Article – [‘Follow Office Preview’ update policy setting in Microsoft Teams available for Windows & Mac users](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/follow-office-preview-update-policy-setting-in-microsoft-teams/ba-p/3466821) \| Shikha Varshney (Microsoft)
@@ -34,7 +34,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Teams Samples – [SDK v2 changes](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples) (Samples updated to take advantage of updated SDK)
 * Authentication Samples – [updated samples to use the MSAL Library](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples)
 * Teams Documentation – [Enable SSO for tab app](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview)
-* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
+* Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](https://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
 
 ### Demos
 
@@ -42,16 +42,16 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office** – learn about recently announced enhancements (multi-host support, new namespaces, promises, new API calls, and backward compatibility) in the client-side SDK v2, along with concepts of capabilities and hosts. See how new capabilities can be queried, review several capability APIs, and then see capabilities in a demo of an app running in all 3 supported hosts. Code walkthrough and upgrade steps outlined.
 * **Send a SMS message with Azure Communication Services** – it’s super easy to send an SMS message from ACS. Review 5 ACS core services, dive into the SMS service looking at 4 SMS use cases and at specific SMS features. Step through creating an ACS service in Azure Portal, creating a toll free number, adding the ACS package to project, adding a connection string to project, creating the SmsClient Object and calling Send().
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube B4F0KY-qCUU >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:20](https://youtu.be/B4F0KY-qCUU?t=500)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:20](https://youtu.be/B4F0KY-qCUU?t=500)
 * Demo - Migrate your SharePoint workflows to Power Automate with migration tooling (preview) – Zac Sun (Microsoft) – [13:29](https://youtu.be/B4F0KY-qCUU?t=809)
-* Demo - TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office – [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [20:02](https://youtu.be/B4F0KY-qCUU?t=1202)
-* Demo - Send a SMS message with Azure Communication Services – [Dan Wahlin](http://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin – [39:10](https://youtu.be/B4F0KY-qCUU?t=2350)
+* Demo - TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office – [Bob German](https://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [20:02](https://youtu.be/B4F0KY-qCUU?t=1202)
+* Demo - Send a SMS message with Azure Communication Services – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin – [39:10](https://youtu.be/B4F0KY-qCUU?t=2350)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 

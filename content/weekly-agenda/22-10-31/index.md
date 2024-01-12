@@ -66,7 +66,7 @@ Update of the newly created videos in our two YouTube channels which are the [Mi
 * [Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=bwyd46tVzQo) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
 * [Introduction to Site Templates in SharePoint Online](https://www.youtube.com/watch?v=88bAFBfSm0o) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Latest status and the next investment areas for SharePoint Framework](https://www.youtube.com/watch?v=PKN0lYJHzWE) by [Alex Terentiev](https://twitter.com/alexaterentiev) | @Alexaterentiev and [Vesa Juvonen](https://twitter.com/vesajuvonen) | @Vesajuvonen
-* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
+* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
 
 ### Microsoft 365 Developer Channel
 

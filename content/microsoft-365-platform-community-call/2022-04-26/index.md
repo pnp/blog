@@ -19,7 +19,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 ### New this week
 
-* Article - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) | [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+* Article - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) | [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * Article - [Walkie Talkie in Microsoft Teams integrated with Kyocera 5G Rugged Smartphones](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/walkie-talkie-in-microsoft-teams-integrated-with-kyocera-5g/ba-p/3288641) | Christina Wu (Microsoft)
 * Article - [Delivering Professional Grade Broadcasts with New Microsoft Teams Integrations](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/delivering-professional-grade-broadcasts-with-new-microsoft/ba-p/3293454) | [Aaron Linne](https://twitter.com/linne) (Microsoft) | @linne
 * Teams paltform documentation update - [Create a Set up CI/CD pipelines sidepanel](https://learn.microsoft.com/microsoftteams/platform/sbs-meetings-sidepanel?tabs=vs)
@@ -31,14 +31,14 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Create an apps that extends across Teams, Outlook, and Office** - Focus on the new Microsoft Teams SDK v2 scenarios which enables you to create an application once and run that across Microsoft Teams, Outlook and Office. Example scenario on when this solution designs make sense. Using [Microsoft Teams Toolkit](https://aka.ms/VSTeamsToolkit) to create the solution in Visual Studio Code as your first hello world app for creating these kind of solutions with the Quick start model in the Teams Toolkit. Creating the hello world scenario from existing sample app directly from the VS Code.
 * **Easily fix errors in your SPFx projects with CLI for Microsoft 365** – Microsoft engineering partnered with the community to introduce new SharePoint Framework project specific command as part of the [CLI for Microsoft 365](https://aka.ms/cli-m365). This command can be used to validate and inspect the SPFx project situation. Command calls out any inconsistencies around the used versions or packages with suggested actions to perform. New [command](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-doctor/) is called "spfx project doctor".
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube bh2lbGamxPU >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:02](https://youtu.be/bh2lbGamxPU?t=482)
-* Demo - Create an apps that extends across Teams, Outlook, and Office – [Saurabh Bhatia](http://twitter.com/iamSBTron) (Microsoft) | @iamSBTron - [16:10](https://youtu.be/bh2lbGamxPU?t=970)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen – [8:02](https://youtu.be/bh2lbGamxPU?t=482)
+* Demo - Create an apps that extends across Teams, Outlook, and Office – [Saurabh Bhatia](https://twitter.com/iamSBTron) (Microsoft) | @iamSBTron - [16:10](https://youtu.be/bh2lbGamxPU?t=970)
 * Demo - Easily fix errors in your SPFx projects with CLI for Microsoft 365 – [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @alexaterentiev & [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm – [30:01](https://youtu.be/bh2lbGamxPU?t=1801)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.

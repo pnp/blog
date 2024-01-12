@@ -173,7 +173,7 @@ slides.
 
 -   **D1:**  Feedback - [Office Scripts Makers](https://aka.ms/oscripts)
     |
-    [aka.ms/](http://www.aka.ms/oscripts)[oscripts](http://www.aka.ms/oscripts) 
+    [aka.ms/](https://www.aka.ms/oscripts)[oscripts](https://www.aka.ms/oscripts) 
 
 -   **D2:** Roadmap - [Microsoft 365
     roadmap](https://www.microsoft.com/microsoft-365/roadmap)

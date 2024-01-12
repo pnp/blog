@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Kasper Larsen](https://twitter.com/kasperbolarsen), Senior Solution Architect at Fellowmind in Denmark.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Kasper Larsen](https://twitter.com/kasperbolarsen), Senior Solution Architect at Fellowmind in Denmark.
 
 ## Topics discussed in this session
 
@@ -72,14 +72,14 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Viva People Science Industry Trends: Technology](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-people-science-industry-trends-technology/ba-p/3925462) - Microsoft
 * [File and Document Management Considerations for Enterprise B2B SaaS Startups](https://techcommunity.microsoft.com/t5/microsoft-syntex-blog/file-and-document-management-considerations-for-enterprise-b2b/ba-p/3926681) - Reid Carlberg (Microsoft)
 * [Microsoft Teams Recording and Transcript APIs billing in public preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-recording-and-transcript-apis-billing-in-public-preview/) - Ayan Chakraborty (Microsoft)
-* [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/) - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+* [Announcing SharePoint Framework 1.18 with updates for Microsoft Teams, Microsoft Viva and SharePoint](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 
 ## Community articles
 
 * [Viva Connections Toolkit v2.0.0 release](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-0-release/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
-* [Simulate rate limits on any API with Microsoft 365 Developer Proxy](https://blog.mastykarz.nl/simulate-rate-limits-api-microsoft-365-developer-proxy/) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm
-* [Simulate rate limiting on Resend APIs](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-resend-rate-limiting/) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm
-* [365 Message Center Show - SharePoint News in Outlook and Viva Engage Campaigns - #301](https://www.messagecentershow.com/e/sharepoint-news-in-outlook-and-viva-engage-campaigns-301/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (CollabFront) | @DanielGlenn & [Darrell Webster](http://twitter.com/darrellaas) (Modern Work Mentor) | @darrellaas
+* [Simulate rate limits on any API with Microsoft 365 Developer Proxy](https://blog.mastykarz.nl/simulate-rate-limits-api-microsoft-365-developer-proxy/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
+* [Simulate rate limiting on Resend APIs](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-resend-rate-limiting/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
+* [365 Message Center Show - SharePoint News in Outlook and Viva Engage Campaigns - #301](https://www.messagecentershow.com/e/sharepoint-news-in-outlook-and-viva-engage-campaigns-301/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (CollabFront) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Work Mentor) | @darrellaas
 * [Microsoft Chat Copilot vs. Azure ChatGPT - Which generative AI capability to choose for the enterprise?](https://jussiroine.com/2023/09/microsoft-chat-copilot-vs-azure-chatgpt-which-generative-ai-capability-to-choose-for-the-enterprise/) - [Jussi Roine](https://twitter.com/JussiRoine) (North Advisors) | @JussiRoine
 * [M365 Voice - Episode 104 – Viva Amplify with Liz Sundet](https://m365voice.com/episode-104-viva-amplify-with-liz-sundet/) - [Liz Sundet](https://twitter.com/percusn) (Microsoft) | @percusn, [Sarah Haase](https://twitter.com/sarahhaase) | @sarahhaase, [Antonio Maio](https://twitter.com/AntonioMaio2) | @AntonioMaio2 and [Mike Maadarani](https://twitter.com/mikemaadarani) | @mikemaadarani
 

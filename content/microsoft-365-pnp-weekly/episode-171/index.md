@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon.
 
 ## Topics discussed in this session
 
@@ -46,8 +46,8 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Microsoft articles
 
 * [Microsoft 365 Assessment tool helps scan for active SharePoint 2013 workflows](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-365-assessment-tool-helps-scan-for-active-sharepoint/ba-p/3493331) - Sudha Narayanan (Microsoft)
-* [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266) - [Mark Kashman](http://twitter.com/mkashman) (Microsoft) \| @mkashman along with [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent and [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage
-* [Most used SharePoint Framework solutions from the Store - May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-may-2022/ba-p/3498944) - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
+* [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) \| @mkashman along with [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent and [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage
+* [Most used SharePoint Framework solutions from the Store - May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-may-2022/ba-p/3498944) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Introducing the first-annual Microsoft Power Platform Conference](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Introducing-the-first-annual-Microsoft-Power-Platform-Conference/ba-p/1630891) - heaher_italent (Microsoft)
 * [Coming soon to makers everywhere: make.powerautomate.com](https://powerautomate.microsoft.com/blog/flow-microsoft-com-is-moving-to-make-powerautomate-com/) - Kishor Subedi (Microsoft)
 * [Announcing general availability of wrap for Power Apps](https://powerapps.microsoft.com/blog/announcing-general-availability-of-wrap-for-power-apps/) - Larry Knibb (Microsoft)

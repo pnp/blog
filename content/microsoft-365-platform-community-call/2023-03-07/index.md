@@ -50,7 +50,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
         * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
-    * Microsoft 365 PnP Weekly – Episode 200 (March 6th) with hossts [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert, [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-200/) \| [podcast](https://www.podbean.com/eas/pb-cuzet-13ad58a)
+    * Microsoft 365 PnP Weekly – Episode 200 (March 6th) with hossts [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert, [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-200/) \| [podcast](https://www.podbean.com/eas/pb-cuzet-13ad58a)
     * Power Platform Connections - Power Platform Connections Ep 3 - Heidi Jordan (March 2nd) \| [video](https://www.youtube.com/watch?v=2kKFDT9aw5w&t)
 
 ### Demos
@@ -59,7 +59,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Dynamically Create an Azure Communication Services Identity and Token** – understand how does my external customer get a token that enables them to join my Teams meeting through ACS? Learn about the integrations between ACS, Teams and Azure functions. Use an Azure function (ACSTokenFunction) called from client’s React app, to make a dynamic ACS identity and token. Walk through the code and see the result in action. This is the 5th demo in this series.
 * **Teams Toolkit Learn Path - Build a Microsoft Teams tab app using Teams Toolkit for Visual Studio Code** – create a new Teams app that contains a tab. The Teams Toolkit enables you to build a half dozen different tab experiences with React based project templates. Covered in this session – tabs and Toolkit overviews, themes, router, app manifest, Toolkit installation, configuration, app and tab template selection. Walk through the scaffolded project code. This is the 3rd demo in this series.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube ZkD768EM-J4 >}}
 
@@ -67,7 +67,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/ZkD768EM-J4?t=0) – Intro
 
-[08:02](https://youtu.be/ZkD768EM-J4?t=482) – Latest updates - events and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[08:02](https://youtu.be/ZkD768EM-J4?t=482) – Latest updates - events and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [10:54](https://youtu.be/ZkD768EM-J4?t=654) – Microsoft Teams Platform updates – [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) \| @Wajeed_Shaikh
 
@@ -92,7 +92,7 @@ Thanks everyone for joining the call once again today. Great to see many new and
 ## Actions
 
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

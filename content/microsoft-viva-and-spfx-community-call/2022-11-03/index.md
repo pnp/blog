@@ -50,11 +50,11 @@ The host of this call is [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympr
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [5:11](https://youtu.be/j1cBiHY_06c?t=311)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:13](https://youtu.be/j1cBiHY_06c?t=433)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:13](https://youtu.be/j1cBiHY_06c?t=433)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – [8:54](https://youtu.be/j1cBiHY_06c?t=534)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [12:27](https://youtu.be/j1cBiHY_06c?t=747)
 * PnP Modern Search - [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) - @spdcp – [13:00](https://youtu.be/j1cBiHY_06c?t=780)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:26](https://youtu.be/j1cBiHY_06c?t=806)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:26](https://youtu.be/j1cBiHY_06c?t=806)
 * Demo – Getting started with PnPjs in SPFx solutions – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [15:14](https://youtu.be/j1cBiHY_06c?t=914)
 * Demo – Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant APIs hosted in Azure – [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia – [33:42](https://youtu.be/j1cBiHY_06c?t=2022)
 

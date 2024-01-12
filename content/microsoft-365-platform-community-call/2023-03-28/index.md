@@ -63,7 +63,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Kiota SDK generator is now available - What you need to know!** – Kiota is GA. It is presently being rolled into Graph Explorer and into a VS Code Extension. Kiota enables you to create and add a powerful, super specific API client to work inside your application. See how a package is created and added to your solution by stepping through a scenario to sync PRs from GitHub (a single endpoint) right into your Microsoft ToDo app.
 * **Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code** – you’ve built an awesome app on your local machine, now it’s time to move it to a remote environment to validate and share with others. The move is streamlined with 3 Toolkit features - provision to cloud, deploy to cloud, and publishing to your organization. In this example a simple tab app makes its way to the Teams admin portal and can be added to Teams.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 5YfG-9pjiic >}}
 
@@ -71,7 +71,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/5YfG-9pjiic?t=0) – Intro
 
-[10:08](https://youtu.be/5YfG-9pjiic?t=608) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:08](https://youtu.be/5YfG-9pjiic?t=608) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:33](https://youtu.be/5YfG-9pjiic?t=693) – Together mode picture
 
@@ -95,7 +95,7 @@ As always, it's awesome to have you on the call.  Idyllic - seated in the virtua
 
 * March 29, 2023, 9:00AM PST. Build once, deploy efficiently, connect across Microsoft 365 – Virtual event. [Register](https://aka.ms/BuildwithTeams)
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

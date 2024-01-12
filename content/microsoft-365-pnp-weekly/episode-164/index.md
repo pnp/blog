@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=h4pzXyF8cnc
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Consultant, Office Development MVP [ElioStruyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Consultant, Office Development MVP [ElioStruyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf.
 
 ## Topics discussed in this session
 

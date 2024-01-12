@@ -178,7 +178,7 @@ slides.
     control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyFieldCollectionData) 
 
 -   Hugo's Repo - [React Diagram Web
-    Parts](http://github.com/hugoabernier/react-diagram-webparts) 
+    Parts](https://github.com/hugoabernier/react-diagram-webparts) 
 
 -   Gallery - [SharePoint Framework Client-Side Web Part
     Samples](https://aka.ms/spfx-webparts) 

@@ -22,7 +22,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 * **Demo: How to create a spreadsheet from your website .** [David Chesnut](https://twitter.com/davidchesnut), Senior Technical Writer, Microsoft.
 * **Update on upcoming Preview Word APIs.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
-* **Add-in Support for new Outlook** Nikita Mittal, Senior Product Manager, Microsoft and [Juan Balmori](http://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
+* **Add-in Support for new Outlook** Nikita Mittal, Senior Product Manager, Microsoft and [Juan Balmori](https://twitter.com/juaneloBalmori), Principal Product Manager, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
 {{< youtube bUcpzn28VKs >}}
