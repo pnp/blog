@@ -16,7 +16,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@master
         with:
-          args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
+          args: --no-progress './content/**/*.md' --accept 200..204,301..302,429 --exclude-file ./.lychee/.lycheeignore
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 

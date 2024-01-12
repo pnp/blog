@@ -14,8 +14,6 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    paths:
-    - '**.md'
 
 jobs:
   lintify:
@@ -36,6 +34,6 @@ jobs:
         uses: lycheeverse/lychee-action@master
         with:
           fail: true
-          args: --no-progress './content/**/*.md' --accept 200,201,403,429,401 --exclude-file ./.lychee/.lycheeignore
+          args: --no-progress './content/**/*.md' --accept 200..204,301..302,429 --exclude-file ./.lychee/.lycheeignore
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
