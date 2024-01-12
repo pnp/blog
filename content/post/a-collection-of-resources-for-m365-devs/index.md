@@ -79,7 +79,7 @@ Keep up to date with what is moving in the community by listening to podcasts
 **Documentation**
 
 * [Official Microsoft Graph documentation](https://learn.microsoft.com/graph/)
-* [Official documentation github repo](https://github.com/microsoftgraph/microsoft-graph-docs)
+* [Official documentation github repo](https://learn.microsoft.com/graph/overview)
 * [Microsoft Graph authentication overview](https://learn.microsoft.com/graph/auth/)
 
 **Tutorials/guides**

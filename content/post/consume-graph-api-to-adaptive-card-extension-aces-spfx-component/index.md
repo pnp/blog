@@ -394,7 +394,7 @@ Run solution using below command
 gulp serve -l --nobrowser
 ```
  
-Open URL <https://contoso.sharepoint.com/_layouts/workbench.aspx>\
+Open URL `https://contoso.sharepoint.com/_layouts/workbench.aspx`
 Add your extension using select  add web part button.
 ![1.gif](images/1.gif)
 

@@ -20,7 +20,6 @@ Latest updates and news on Power Platform including community events, training o
 ### New this month
 
 * Monthly Community tip - Get notified before you run out of Office 365 storage space! - [Andre Galitsky](https://www.linkedin.com/in/andre-galitsky-mba-7999151/) and [Alex Baumgarten](https://www.linkedin.com/in/mihai-alexandru-baumgarten-4160bb13b/)
-    * Article - [Office 365 storage utilization alerts with a Power Automate workflow](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Power%20Platforms%20Calls/2022-09-21-PowerPlaform/o%09https:/sharepointnomad.wordpress.com/2020/06/29/office-365-storage-utilization-alerts-with-a-power-automate-workflow) \| <https://sharepointnomad.wordpress.com/2020/06/29/office-365-storage-utilization-alerts-with-a-power-automate-workflow>
 
 ### Demo summaries
 

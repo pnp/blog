@@ -30,7 +30,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Do more with less in Microsoft 365 by using SPFx
 
-SPFx is a great example of the investments we do in Microsoft enabling you to [do more with less](https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella/-nadella/). Write the solution once and **use the same component** without any code changes within Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (Office) and SharePoint.
+SPFx is a great example of the investments we do in Microsoft enabling you to do more with less. Write the solution once and **use the same component** without any code changes within Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (Office) and SharePoint.
 
 We want to ensure that you can **maximize the value of your existing investments within Microsoft 365** and easily integrate them with business systems hosted in Azure. Microsoft Cloud (Azure and Microsoft 365) provides an awesome combination for your business applications and supports to build solutions for your day-to-day work which improve communications and collaboration between your employees.
 

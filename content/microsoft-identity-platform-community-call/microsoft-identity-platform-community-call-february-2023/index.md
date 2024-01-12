@@ -26,7 +26,6 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 
 ## Referenced in this call
 
-* Documentation - [Zero Trust Guidance Center](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Identity%20Calls/2023-02-16-Identity/Zero%20Trust%20Guidance%20Center) \| <https://learn.microsoft.com/security/zero-trust/>
 * Documentation - [Overview of the Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/azure/active-directory/develop/msal-overview) \| aka.ms/msal
 * Documentation - [Conditional Access: Filter for devices](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-condition-filters-for-devices) \| <https://learn.microsoft.com/azure/active-directory/conditional-access/concept-condition-filters-for-devices>
 * Documentation - [Get started with the Microsoft Intune App SDK](https://learn.microsoft.com/mem/intune/developer/app-sdk-get-started) \| aka.ms/intunesdk

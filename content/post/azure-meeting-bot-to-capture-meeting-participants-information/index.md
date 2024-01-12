@@ -244,7 +244,7 @@ would be basically
 *Example(hosted on Azure) -
 <https://gameetingbotdemo.azurewebsites.net/api/calling>*
 
-*Example(ngrok url) - <https://ffe966ce902d.ngrok.io/api/calling>*
+*Example(ngrok url) - `https://ffe966ce902d.ngrok.io/api/calling`*
 
 All other attributes values, we have to extract from Teams meeting URL
 

@@ -43,7 +43,7 @@ Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-
 you can reuse the existing authentication context. But if you build a
 standalone web app, you need to register an application in Azure Active
 Directory and use it with MGT's [MSAL
-Provider](https://learn.microsoft.com/graph/toolkit/providers/msal?WT.mc_id=m365-12257-wmastyka),
+Provider](https://learn.microsoft.com/graph/toolkit/providers/providers),
 like:
 
 ``` highlight

@@ -87,7 +87,7 @@ Request Body:
 
   "displayName": "Microsoft Forms",
 
-  "teamsApp@odata.bind": "[https://graph.microsoft.com/beta/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web](https://graph.microsoft.com/beta/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web)",
+  "teamsApp@odata.bind": "https://graph.microsoft.com/beta/appCatalogs/teamsApps/com.microsoft.teamspace.tab.web",
 
   "configuration": {
 

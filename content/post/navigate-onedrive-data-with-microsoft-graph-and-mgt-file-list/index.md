@@ -115,8 +115,6 @@ options to use.
 
 -   [FileList
     specifications](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/specs/mgt-file-list.md)
--   [FileList
-    Stories](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/stories/components/fileList.stories.js)
 
 This main query will allow to fully explore the **Mgt-File-List**
 features that were used in sample
@@ -189,9 +187,7 @@ This can be achieve capturing the **itemID** of Folder listed
 in **Mgt-File-List,** using the event `itemClick={(e)=>{
 console.log(e.details);}`
 
-More information can be found on Mgt-File-List
-[documentation](https://github.com/microsoftgraph/microsoft-graph-toolkit/blob/main/stories/components/fileList.stories.js)
-or by sample
+More information can be found by sample
 "[react-onedrive-finder](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)".
 
 ### Filtering file extensions

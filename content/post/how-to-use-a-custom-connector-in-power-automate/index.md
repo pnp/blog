@@ -18,7 +18,7 @@ Microsoft 365 in Power Automate and even use an IOT button to trigger
 your flow.
 
 
-## Use case 
+## Use case
 
 To make things more approachable, here is a little use case for you:
 
@@ -29,7 +29,7 @@ The result will look like this:
 
 ![tweet.png](images/tweet.png)
 
-## What we need 
+## What we need
 
 
 To achieve this, we will need a couple of things:
@@ -55,7 +55,7 @@ If you like to, rename this button - please keep in mind, that one
 button can be used to trigger several flows, as we have three different
 event types: Select, Double-Select and Hold.
 
-### Spotify 
+### Spotify
 
 In this flow we want to trigger by one or any event of the flic button
 and then tweet the song we are currently listening to on Spotify. Turns
@@ -85,7 +85,7 @@ Log into your brand new Spotify for Developers account
 -   Select **Create**
 -   Copy the Client ID and the Client Secret
 
-### Build the custom Connector 
+### Build the custom Connector
 
 -   Go to flow.microsoft.com
 -   Select **Data**
@@ -104,11 +104,10 @@ Log into your brand new Spotify for Developers account
 -   Select **OAuth2.0**
 -   Select **Generic OAuth 2** as Identity Provider
 -   Paste in your Client ID and Client secret
--   enter [https://accounts.spotify.com/authorize
-    as](https://accounts.spotify.com/authorize&nbsp;as) **Authorization
+-   enter `https://accounts.spotify.com/authorize` as **Authorization
     URL**
--   enter[ https://accounts.spotify.com/api/token
-    as](https://accounts.spotify.com/api/token&nbsp;as) **Token URL**
+-   enter `https://accounts.spotify.com/api/token`
+    as **Token URL**
     and **Refresh URL**
 -   enter user-read-currently-playing as scope
 -   Select **Create connector**
@@ -130,11 +129,10 @@ Now go back to your Custom connector
     shouldn't start with an upper case letter
 -   Select **import from sample**
 -   Select verb Get
--   paste in [https://api.spotify.com/v1/me/player/currently-playing
-    as](https://api.spotify.com/v1/me/player/currently-playing&nbsp;as)
+-   paste in `https://api.spotify.com/v1/me/player/currently-playing` as
     URL\
     (For reference:
-    <https://developer.spotify.com/console/get-users-currently-playing-track/>)
+    https://developer.spotify.com/console/get-users-currently-playing-track)
 -   Select **Import**
 -   Select **Update connector**
 -   Select **Test**\
@@ -147,11 +145,11 @@ Now go back to your Custom connector
 -   Select Agree
 -   Select Close
 
-### Use the custom connector in our flow 
+### Use the custom connector in our flow
 
 Now it's time to build our flow
 
-#### Trigger flic 
+#### Trigger flic
 
 
 As already said, we want the flic button to be our trigger\
@@ -192,7 +190,7 @@ Now we want to get the current song from our shiny new Custom connector:
     Magic - Now we can see all the output from our custom action as
     Dynamic content. Next thing up is to send the tweet. We can use the
     twitter connector for it, but Buffer works fine as well.
-    
+
 
 -   Add the post a tweet action
     provide your tweet text with Dynamic content as you wish from your
@@ -213,7 +211,7 @@ Now we want to get the current song from our shiny new Custom connector:
 
 
 
-### Conclusion and what's next 
+### Conclusion and what's next
 
 
 In this post I explained, how you can create a custom connector and call

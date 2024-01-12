@@ -305,7 +305,7 @@ Remember to remove any personal or confidential data before using online JSON to
 
 ## Schema support
 
-It's often helpful to impose some structure on your JSON, specifying which name/value pairs are required and what value types they should contain. That's the role of [JSON Schema](https://github.com/BobGerman/BlogArticles/blob/dev/Intro%20to%20JSON). This allows validating the JSON and offering features such as intellisense.
+It's often helpful to impose some structure on your JSON, specifying which name/value pairs are required and what value types they should contain. That's the role of [JSON Schema](https://bob1german.com/2021/01/11/introduction-to-json/). This allows validating the JSON and offering features such as intellisense.
 
 A JSON Schema describes a specific JSON structure. For example, all animal mascots need to have a `name` and zero or more nicknames with an optional value for `quills`, such as:
 

@@ -86,7 +86,7 @@ required, for this you we recommend creating your own Azure AD app, and
 there are tools that can assist with this either the [Microsoft 365
 CLI](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/#register-azure-ad-application-in-your-tenant),
 [PnP
-PowerShell](https://learn.microsoft.com/powershell/module/sharepoint-pnp/register-pnpazureadapp?view=sharepoint-ps)
+PowerShell](https://pnp.github.io/powershell/cmdlets/Register-PnPAzureADApp.html)
 are great at making it easy to setup your own Azure AD Apps --
 additionally, [we also have documentation to help set up the
 app](https://pnp.github.io/pnpcore/using-the-sdk/configuring%20authentication.html).

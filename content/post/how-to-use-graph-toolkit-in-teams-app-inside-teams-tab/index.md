@@ -57,7 +57,7 @@ npm install /teams-js /mgt-element /mgt-teams-msal2-provider /mgt-components /mg
 
 _Note – To use Toolkit, we have to also install Teams SDK and required providers and components._
 
-In this sample we are going to use Teams Provider which uses MSAL provider internally, you can read about Teams provider at the below [link](https://learn.microsoft.com/graph/toolkit/providers/teams?tabs=ts)
+In this sample we are going to use Teams Provider which uses MSAL provider internally, you can read about Teams provider at the below [link](https://learn.microsoft.com/en-us/graph/toolkit/providers/teamsfx)
 
 _Ideally, we should use Teams MSAL2Provider for authentication purposes as it is more secure, but I had some difficulties making it run while writing this article so went ahead and used Teams Provider….After raising the issue in the repo, the Toolkit team has provided me instructions on a mistake I was making and it fixed it…but as all the screenshots, etc was referring to TeamsProvider I have kept the same as in this article…but later I tried with MSAL2Provider and it worked fine…so I have given a side note at end of the article to specify changes to make it work with MSAL2Provider._
 

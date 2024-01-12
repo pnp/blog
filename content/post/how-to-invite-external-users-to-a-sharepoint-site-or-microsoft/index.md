@@ -345,13 +345,11 @@ directly proceed to granting the external user access to SharePoint.
 
 Graph API to check if a guest user already exists:
 
-[https://graph.microsoft.com/v1.0/users?\$filter=UserType eq
-'Guest'&\$filter=mail eq
-exteruseremailadd\...](https://graph.microsoft.com/v1.0/users?$filter=UserType%20eq%20'Guest'&$filter=mail%20eq%20exteruseremailaddress@domain.com') 
+`https://graph.microsoft.com/v1.0/users?$filter=UserType%20eq%20'Guest'&$filter=mail%20eq%20exteruseremailaddress@domain.com`
 
 or
 
-[https://graph.microsoft.com/v1.0/users?\$filter=startswith(mail,'[exteruseremailaddress@domain.com]'u)](https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com'))
+`https://graph.microsoft.com/v1.0/users?$filter=startswith(mail,'fejom29487@troikos.com')`
 
 Find below the Graph API endpoint http request details to [invite the
 external
@@ -485,8 +483,7 @@ to a Microsoft Team is
 
 **Request Type**: POST
 
-**Request URL**:
-[https://graph.microsoft.com/v1.0/teams/{team-id}/members](https://graph.microsoft.com/v1.0/teams/%7bteam-id%7d/members)
+**Request URL**: `https://graph.microsoft.com/v1.0/teams/%7bteam-id%7d/members`
 
 The team-id is the Microsoft 365 group object Id, as there is always a
 Microsoft 365 group connected to a Microsoft Team.

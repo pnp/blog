@@ -113,7 +113,7 @@ detail later in this article.
 ngrok is a command line program that works on [Windows, Mac OS, Linux
 and FreeBSD](https://ngrok.com/download).
 Suppose your local web server is
-at [http://localhost:3978](http://localhost:3978/) (the default for
+at `http://localhost:3978` (the default for
 bots). Then run this ngrok command line:
 
 ```bash
@@ -126,7 +126,7 @@ You will then see a screen like this:
 ![ngrok-screenshot.png](images/ngrok-screenshot.png)
 The \"Forwarding\" lines show what's happening. Requests arriving at
 `http://(something).ngrok.io` or `https://(something).ngrok.io` will be
-forwarded to [http://localhost:3978](http://localhost:3978/) where your
+forwarded to `http://localhost:3978` where your
 bot code is running. At this point you would put the
 "something.ngrok.io" address into your Azure bot configuration, Teams
 app manifest etc. as the location, and leave the command running while

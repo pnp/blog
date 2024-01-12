@@ -89,7 +89,7 @@ scripts will be executed without the need for authentication every time.
 Since the solution is not a confidential or had complex business
 process, it is safe to go ahead with this approach. CLI for Microsoft
 365 also provides [logging in using a
-certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office-365/#log-in-using-a-certificate) if
+certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-microsoft-365#log-in-using-a-certificate) if
 you prefer that approach.
 
 

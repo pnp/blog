@@ -81,7 +81,7 @@ with *{taskListId}* being replaced with the *id* in the response.
 > just choose the list with the name *Tasks*
 >
 Based on my response above, my query would be
-*[https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1N\...](https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1NQAALgAAA_Q4rkw0lJdNrFQfLSNpWB8BAA_o0Quzv4FCs60F7sB5NAAAAwESAAAA/tasks)*
+`https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1NQAALgAAA_Q4rkw0lJdNrFQfLSNpWB8BAA_o0Quzv4FCs60F7sB5NAAAAwESAAAA/tasks`
 
 
 ![GraphExplorer2.png](images/GraphExplorer2.png)

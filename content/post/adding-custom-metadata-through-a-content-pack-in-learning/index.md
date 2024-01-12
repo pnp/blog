@@ -133,10 +133,7 @@ pathways](https://learn.microsoft.com/office365/customlearning/custom_partnergui
 adding the URL for your custom content pack, paste the URL from step
 3, add **learningpathways** to
 the
-URL, and select **Save**. For
-example:
-
-[https://eemancini.github.io/custom-learning-office-365/learningpathways/](https://eemancini.github.io/custom-learning-office-365/learningpathways/)
+URL, and select **Save**.
 
 This adds your forked copy of Learning Pathways as a tab in the site
 page CustomLearningAdmin.aspx of

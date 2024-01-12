@@ -13,7 +13,7 @@ summary: "This post shall show various application development scenarios that ca
 
 With [TeamsJS SDK 2.0](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?view=msteams-client-js-latest&tabs=javascript%2Cmanifest-teams-toolkit#whats-new-in-teamsjs-version-20&WT.mc_id=M365-MVP-5004617) and [Teams manifest 1.13 and above](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema) it is possible to extend Microsoft Teams applications across Microsoft 365 so you can also use  those apps in Outlook or Office.
 
-As you can also use SharePoint Framework (SPFx) to create Microsoft Teams applications you can [now use SPFx with 1.16 onwards across Microsoft 365 as well](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview&WT.mc_id=M365-MVP-5004617).
+As you can also use SharePoint Framework (SPFx) to create Microsoft Teams applications you can [now use SPFx with 1.16 onwards across Microsoft 365 as well](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview?WT.mc_id=M365-MVP-5004617).
 
 ## Teams extension options
 
@@ -78,7 +78,7 @@ SharePoint Framework (SPFx) provides full support for client-side SharePoint dev
 
 ## Summary
 
-The big benefit for this approach now is that [user permissions to such apps only need to be configured once](https://learn.microsoft.com/microsoftteams/platform/m365-apps/publish&WT.mc_id=M365-MVP-5004617) and not product (Teams, Office, Outlook) individually. As a downside it's not yet controllable if such an app (mostly a personal tab) shall be published to Teams only for instance. That is, a personal tab with Teams manifest 1.13+ published to your org's app catalog will be visible in Outlook, too, in targeted release tenants at the moment of writing this post. [A GA is awaited for first half of 2023](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview&WT.mc_id=M365-MVP-5004617).
+The big benefit for this approach now is that user permissions to such apps only need to be configured once and not product (Teams, Office, Outlook) individually. As a downside it's not yet controllable if such an app (mostly a personal tab) shall be published to Teams only for instance. That is, a personal tab with Teams manifest 1.13+ published to your org's app catalog will be visible in Outlook, too, in targeted release tenants at the moment of writing this post. [A GA is awaited for first half of 2023](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview?WT.mc_id=M365-MVP-5004617).
 Meanwhile you can only control the product inside the code which would [enable you at least to hide your functionality/UI in Office or Outlook](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/#distinct-host) wheras still showing it in Teams.
 
 I already provided one sample illustrating (not only) that capability which you may find [here](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/). And I am currently working on another one which will come in two flavors, realized by using [Yeoman Generator for Teams](https://pnp.github.io/generator-teams/) but also an alternative that uses SPFx.

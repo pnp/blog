@@ -31,14 +31,14 @@ accounting software (in this case Quick books online).
 
 So Let's get started.
 
-## What do you need? 
+## What do you need?
 
 -   Quick book online account.
 -   Intuit developer account.
 -   Postman
 -   Power automate (MS flow) license.
 
-## Quick book online account 
+## Quick book online account
 
 Create a Quickbook online account (if not already) by subscribing to the
 plan as per your requirement. For this sample, I have created a 30 days
@@ -46,7 +46,7 @@ trial account. You can check different pricing available at
 this [link](https://quickbooks.intuit.com/in/pricing/), based on your
 country different pricing and subscription are available.
 
-## Intuit developer account 
+## Intuit developer account
 
 You would need to create Intuit (company owning Quickbook) developer
 account.
@@ -124,8 +124,7 @@ Sandbox Base URL - sandbox-quickbooks.api.intuit.com
 
 Product Base URL - quickbooks.api.intuit.com (Production)
 
-Company ID -- You can find company ID by following
-this [link](https://quickbooks.intuit.com/learn-support/customer-company-settings/find-your-quickbooks-online-company-id/00/185551)
+Company ID --
 
 Invoice Id -- Set is 1(we will query invoiced Id 1 in one Get Invoice
 Webservice)
@@ -172,7 +171,7 @@ to add.
 Once this is done, come back to Postman and Select  Request token, it
 will ask you to authenticate with your Quickbook account, login with a
 valid account, and follow along. Once you are logged in you should see
-the below popup, rename the token name with your preference and select 
+the below popup, rename the token name with your preference and select
 use token.
 
 ![SiddharthVaghasia_11-1628135161603.png](images/SiddharthVaghasia_11-1628135161603.png)

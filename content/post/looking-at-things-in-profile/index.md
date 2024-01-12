@@ -74,7 +74,7 @@ Skills and expertise, Schools and education, Interests and hobbies*.
 
 There is also a deeper level (also based on the pre-Modern UI) which you
 can get to from this
-URL: [https://emicoltd-my.sharepoint.com//\_layouts/15/editprofile.aspx?UserSettingsProvider](https://emicoltd-my.sharepoint.com/_layouts/15/editprofile.aspx?UserSettingsProvider).
+URL: `https://emicoltd-my.sharepoint.com//_layouts/15/editprofile.aspx?UserSettingsProvider`.
 Custom Properties, if any, can be edited from the ellipsis (Custom
 Properties)
 
@@ -87,7 +87,7 @@ They can also set who can see the information via a small Globe icon.
 There are multiple 'ports of entry' to the profile update page:
 
 -   Delve *Me* page
-    ([https://\<tenantName>-my.sharepoint.com/person.aspx](https://%3Ctenantname%3E-my.sharepoint.com/person.aspx))
+    `https://%3Ctenantname%3E-my.sharepoint.com/person.aspx`
 -   Your account menu in Microsoft 365 (select your profile picture or
     initials)
 

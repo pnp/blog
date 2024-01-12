@@ -921,7 +921,7 @@ the related documentation sets and repositories as listed below:
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
     Docs](https://learn.microsoft.com/graph) |
-    [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+    [GitHub](https://learn.microsoft.com/graph/overview)
 -   Office add-in documentation - [Microsoft
     Docs](https://learn.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)

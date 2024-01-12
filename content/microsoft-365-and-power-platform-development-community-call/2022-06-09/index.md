@@ -81,7 +81,7 @@ call.
 ## Actions
 
 * Create a connector – [Top Power Platform Independent Publisher Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
-* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET at [aka.ms/](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%209%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)[PowerPlatformIntegrationLABs](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%209%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)
+* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
     * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)

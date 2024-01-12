@@ -26,7 +26,6 @@ This month’s in-depth topic: Microsoft Graph’s advanced capabilities for que
 * Documentation - [Advanced query capabilities on Azure AD directory objects](https://learn.microsoft.com/graph/aad-advanced-queries?tabs=http)
 * Sample - [Explore advanced Microsoft Graph Query Capabilities for Directory Objects (AAD) with .NET SDK](https://github.com/microsoftgraph/dotnet-aad-query-sample)
 * Feedback survey - [Feedback on Querying Directory Objects in Microsoft Graph](https://aka.ms/MsGraphAADSurveyComm)
-* Documentation – [Graph query - count parameter](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Identity%20Calls/2022-05-19-Identity/Graph%20query%20-%20count%20parameter)
 * Documentation - [Use query parameters to customize responses](https://learn.microsoft.com/graph/query-parameters#using-search-on-directory-object-collections)
 * Documentation – [Graph query - orderby parameter](https://learn.microsoft.com/graph/query-parameters#orderby-parameter)
 * Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)

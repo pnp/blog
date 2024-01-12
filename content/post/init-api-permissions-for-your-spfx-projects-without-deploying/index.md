@@ -87,7 +87,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
 
 Now run your sample with `gulp serve` and display your web part in your
 remote workbench
-(<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
+(`https://contoso.sharepoint.com/_layouts/15/workbench.aspx`). Try to
 use the `PeoplePicker` component: you'll see that just by clicking on
 the search box, you'll get *We didn't find any matches*.
 ![peoplepicker-ui-fail.png](images/peoplepicker-ui-fail.png)
@@ -115,7 +115,7 @@ available search box to get it easily).
 ![aad-app-spo-api-graph.png](images/aad-app-spo-api-graph.png)
 Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
-(<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
+(`https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement`),
 you should see something like this:
 ![(other Graph API permissions displayed here won't be necessary for the sample)](images/api-access-approved.png)
 **Warning**

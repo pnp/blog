@@ -44,7 +44,6 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 
 ## Referenced in the call
 
-* Documentation - [Contributing to MSAL.js](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Identity%20Calls/2023-03-16-Identity/Contributing%20to%20MSAL.js) \| <https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/contributing.md>
 * Release notes: [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js/releases) \| <https://github.com/AzureAD/microsoft-authentication-library-for-js/releases>
 * Repo - [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js/releases) \| <https://github.com/AzureAD/microsoft-authentication-library-for-js>
 * Documentation - [How to migrate a JavaScript app from ADAL.js to MSAL.js](https://learn.microsoft.com/azure/active-directory/develop/msal-compare-msal-js-and-adal-js) \| <https://learn.microsoft.com/azure/active-directory/develop/msal-compare-msal-js-and-adal-js>

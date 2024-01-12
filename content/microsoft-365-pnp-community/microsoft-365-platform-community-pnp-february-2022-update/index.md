@@ -380,7 +380,7 @@ Please see all the Microsoft 365 development documentation updates from the rela
 
 *   Microsoft Teams platform documentation - [Microsoft Docs](https://learn.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 *   SharePoint Developer documentation - [Microsoft Docs](https://learn.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
-*   Microsoft Graph documentation - [Microsoft Docs](https://learn.microsoft.com/graph) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+*   Microsoft Graph documentation - [Microsoft Docs](https://learn.microsoft.com/graph) | [GitHub](https://learn.microsoft.com/graph/overview)
 *   Office add-in documentation - [Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels

@@ -91,8 +91,8 @@ some I know of:
     available, but I didn't need them, so I didn't check.  Of those that
     are available, the documentation has properties/capabilities that
     are newer than what I was able to use.  Sometimes I went to the old
-    [Office UI Fabric
-    React](https://learn.microsoft.com/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest)
+    Office UI Fabric
+    React
     documentation, but even then that was sometimes too new for what I
     was using.
 -   I was unable to use [React

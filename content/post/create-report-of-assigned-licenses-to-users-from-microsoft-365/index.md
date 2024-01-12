@@ -185,7 +185,7 @@ JSON Schema for Parse JSON should be the same as below.
 
 "Http" Connector will be used to execute rest API in power automate.
 End Point URL
-: [https://graph.microsoft.com/beta/users?$filter=userType%20eq%20%27Member%27&$select=displayName,crea...](https://graph.microsoft.com/beta/users?$filter=userType%20eq%20%27Member%27&$select=displayName,createdDateTime,accountEnabled,userPrincipalName,givenName,surname,externalUserState,assignedLicenses)
+:  `https://graph.microsoft.com/beta/users?$filter=userType%20eq%20%27Member%27&$select=displayName,createdDateTime,accountEnabled,userPrincipalName,givenName,surname,externalUserState,assignedLicenses`
 Method: get
 Authentication: Azure Active Directory
 Tenant: Add Reference of TenantId variable

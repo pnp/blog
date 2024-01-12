@@ -36,9 +36,7 @@ how it goes 
 
  
 
-To be very honest: I worked with Graph before - see my blog posts
-here: [Microsoft Graph -- M365
-Princess](https://m365princess.com/category/microsoft-graph/) - but
+To be very honest: I worked with Graph before, but
 it's the first time I do this guided learning on Microsoft Learn. I
 will cover module 1 in this post and continue with module 2 and 3 in the
 following posts.
@@ -51,7 +49,7 @@ applications. With this, Microsoft Graph is your key to data. Here are
 three tremendous advantages of it:
 
 -   across all Microsoft services, you can use one
-    endpoint [https://graph.microsoft.com](https://graph.microsoft.com/) -
+    endpoint `https://graph.microsoft.com` -
     which makes development straightforward as you don't need to learn
     all the different APIs for mail and calendar and files and so on
 -   documentation is fantastic, and there is a ton of learning

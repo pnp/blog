@@ -81,7 +81,7 @@ call.
 ## Actions
 
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
-* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET at [aka.ms/](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%2023%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)[PowerPlatformIntegrationLABs](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/June%2023%20-%20M365%20Gen%20Dev%20Call/aka.ms/PowerPlatformIntegrationLABs)
+* Attend the next [Power Platform LABs call](https://aka.ms/PowerPlatformIntegrationLABs), June 29, 8am PT \|11am ET
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
     * Writing for the Web \| Monday, July 11th, 10am PT \| 1pm ET \| 7pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
     * Power Platform Samples Contributor \| Wednesday, June 29, 10:00 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN09VTVU2QzRLNE0yVERQMklHSDBMUTJGWC4u)

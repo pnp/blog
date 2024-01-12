@@ -113,7 +113,6 @@ A room filled with familiar faces including many from last week’s Microsoft 36
     * Templates - [SharePoint look book](https://lookbook.microsoft.com/)
     * Templates - [Apply and customize SharePoint site templates](https://support.microsoft.com/office/apply-and-customize-sharepoint-site-templates-39382463-0e45-4d1b-be27-0e96aeec8398)
     * Template - [Use the SharePoint Brand Central template](https://support.microsoft.com/office/use-the-sharepoint-brand-central-template-a5cb8333-75b6-4579-b159-1fdc182ba573)
-    * Documentation - [SharePoint site template and site script overview](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/May%209%20-%20Platform%20Call/o%09https:/learn.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview)
 * **Latest on using SharePoint Framework for Microsoft Teams extensibility**
     * Documentation - [Overview of the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
     * Documentation – [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)

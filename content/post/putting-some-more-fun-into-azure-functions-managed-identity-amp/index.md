@@ -179,8 +179,7 @@ Take a moment to understand what the code does:
 Watch out -- the Graph API will this way return up to 100 groups --
 Please adjust with [query
 parameters](https://learn.microsoft.com/graph/query-parameters) as
-needed like [https://graph.microsoft.com/v1.0/groups?\$top=42
-or](https://graph.microsoft.com/v1.0/groups?$top=42&nbsp;or) use paging,
+needed like `https://graph.microsoft.com/v1.0/groups?$top=42` or use paging,
 which is described here: [Paging Microsoft Graph data in your app --
 Microsoft Graph | Microsoft
 Docs](https://learn.microsoft.com/graph/paging)

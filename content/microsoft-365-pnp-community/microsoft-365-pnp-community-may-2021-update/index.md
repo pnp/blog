@@ -283,9 +283,6 @@ Latest community posts at <https://aka.ms/m365pnp/community/blog>
 -   23rd of April - [Yves Habersaat](https://twitter.com/yhabersaat)
     (Sword Group) - [Export Power Apps and Power Automate user
     licenses](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-power-apps-and-power-automate-user-licenses/ba-p/2281840)
--   21st of April - [Luise Freese](https://twitter.com/LuiseFreese) -
-    [How to beautify your Power
-    Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-beautify-your-power-apps/ba-p/2280799)
 -   17th of April - [Luise Freese](https://twitter.com/LuiseFreese) -
     [Microsoft 365 PnP Community Spotlight: Mikael
     Svenson](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-spotlight-mikael-svenson/ba-p/2276791)
@@ -996,7 +993,7 @@ the related documentation sets and repositories as listed below:
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
     Docs](https://learn.microsoft.com/graph) |
-    [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+    [GitHub](https://learn.microsoft.com/graph/overview)
 -   Office add-in documentation - [Microsoft
     Docs](https://learn.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)

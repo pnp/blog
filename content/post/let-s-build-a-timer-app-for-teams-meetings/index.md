@@ -50,8 +50,8 @@ I will split this blog into two parts:
 
 ## Prerequisites
 
-To build this app you just need access to the [maker portal of
-PowerApps](https://gezeitenbrandde-my.sharepoint.com/personal/michael_roth_gezeitenbrand_de/Documents/Blog/TimerApp/make.powerapps%20com).
+To build this app you just need access to the maker portal of
+PowerApps).
 You don't need any data source or premium connectors.
 
 When you want to make the app available in Microsoft Teams meetings you

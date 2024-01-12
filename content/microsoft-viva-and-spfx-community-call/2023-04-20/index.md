@@ -76,9 +76,8 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 [17:19](https://youtu.be/AJ-zFICSyXY?t=1039) – Demo – The Canary in the coalmine or how to keep an eye on the SharePoint Search updates - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) \| @kasperbolarsen
 
-[23:43](https://youtu.be/AJ-zFICSyXY?t=1423) – Demo – Building Service Health solution for Microsoft 365 with SharePoint Framework - [Harminder Singh](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Harminder%20Singh) (Nagarro) \| @Harminder_Sethi
 
-[33:23](https://youtu.be/AJ-zFICSyXY?t=2003) – Demo – Introduction to hTWOo v2.0 - a better Fluent UI framework - [Stefan Bauer](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Stefan%20Bauer) (N8D) \| @StfBauer
+[33:23](https://youtu.be/AJ-zFICSyXY?t=2003) – Demo – Introduction to hTWOo v2.0 - a better Fluent UI framework
 
 [52:34](https://youtu.be/AJ-zFICSyXY?t=3154) – Closing
 
@@ -111,7 +110,6 @@ Thanks everybody for joining today. Awesome to have you in the call and hopefull
     * Sample - [Service Health for Microsoft 365](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-m365-services-health)
 * **Introduction to hTWOo v2.0 - a better Fluent UI framework**
     * npm – [htwoo packages](https://www.npmjs.com/search?q=htwoo)
-    * Guidelines - [Web Content Accessibility Guidelines (WCAG)](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Web%20Content%20Accessibility%20Guidelines%20(WCAG))
     * Documentation – [hTWOo](https://lab.n8d.studio/htwoo/)
     * Blog – [n8d](https://n8d.at)
     * Items - [Quick Links Compact and List Items](https://lab.n8d.studio/htwoo/htwoo-core/?p=organism-pnp-search-grid)
