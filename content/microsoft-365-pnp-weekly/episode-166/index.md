@@ -27,15 +27,15 @@ In this installment of the weekly discussion revolving around the latest news an
     * Use the same product your customer is using and personally experience the pain and delight working with the product.
     * Mentor and be mentored.
     * Enjoy and enthusiastically crave learning and growing.
-* Why create apps with Teams Toolkit? 1) It exposes you to the right content at the time, 2) It has a really fast inner dev loop and 3) It has a stated way to do cloud development including ease of adding Microsoft 365 and Azure Cloud resources to your project using [Bicep](https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep) to deploy and manage Azure resources.
+* Why create apps with Teams Toolkit? 1) It exposes you to the right content at the time, 2) It has a really fast inner dev loop and 3) It has a stated way to do cloud development including ease of adding Microsoft 365 and Azure Cloud resources to your project using [Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep) to deploy and manage Azure resources.
 * Announced 3 new features in Teams Toolkit that will be announced at [Microsoft Build 2022](https://aka.ms/build)
     * **Scenario driven development templates** – for notification and command & response style bots. (Preview now)
     * **Integration with other Microsoft 365 services**. Build for Teams, Outlook and Office using the Teams Toolkit. F5 to Outlook and F5 to Office experiences now. (Preview now)
     * **Integrated Tunneling** (Preview soon) yet another integrated F5 experience.
 * Attend [Microsoft Build](https://aka.ms/build) May 24–26, 2022, and frequent the [Microsoft 365 Developer Blog](https://aka.ms/m365dev/blog) for late breaking announcements.
-* Documentation - [Teams Toolkit for Visual Studio](https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-overview)
+* Documentation - [Teams Toolkit for Visual Studio](https://learn.microsoft.com/microsoftteams/platform/toolkit/visual-studio-overview)
 
-Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -44,14 +44,14 @@ Also, we showcased 13 articles/videos published by Microsoft and the PnP Communi
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, May 16, 2022. Enjoy the show.  
+This session was recorded on Monday, May 16, 2022. Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube H5vGTfsJLrE >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-66mt4-122a0e4 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -79,7 +79,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Setting debug for Microsoft 365 CLI](https://robdy.io/debugging-cli-microsoft365/) - [Robert Dyjas](https://twitter.com/robdyy) (EQTek) | @robdyy
 * [Automate creation of new documents with SharePoint Syntex Content Assembly](https://www.sharepointnutsandbolts.com/2022/05/Syntex-Content-Assembly.html) - [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud) | @ChrisO_Brien
 * [Episode #205 - Using the PnP Carousel control in SPFx solutions](https://www.youtube.com/watch?v=Obt_bfe9qww)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
-  
+
 ## Additional resources
 
 * [365 EduCon - Seattle and PWR EduCon - Seattle](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/two-conferences-in-one-365-educon-amp-pwr-educon-seattle-wa/ba-p/3285243) - May 9-13, 2022

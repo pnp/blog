@@ -57,7 +57,7 @@ npm install /teams-js /mgt-element /mgt-teams-msal2-provider /mgt-components /mg
 
 _Note – To use Toolkit, we have to also install Teams SDK and required providers and components._
 
-In this sample we are going to use Teams Provider which uses MSAL provider internally, you can read about Teams provider at the below [link](https://docs.microsoft.com/graph/toolkit/providers/teams?tabs=ts)
+In this sample we are going to use Teams Provider which uses MSAL provider internally, you can read about Teams provider at the below [link](https://learn.microsoft.com/graph/toolkit/providers/teams?tabs=ts)
 
 _Ideally, we should use Teams MSAL2Provider for authentication purposes as it is more secure, but I had some difficulties making it run while writing this article so went ahead and used Teams Provider….After raising the issue in the repo, the Toolkit team has provided me instructions on a mistake I was making and it fixed it…but as all the screenshots, etc was referring to TeamsProvider I have kept the same as in this article…but later I tried with MSAL2Provider and it worked fine…so I have given a side note at end of the article to specify changes to make it work with MSAL2Provider._
 
@@ -229,7 +229,7 @@ Now let us see how we can use another component with some minor changes.
 
 ## Agenda Component
 
-The agenda component will display the currently logged-in user’s meeting. You can read about the Agenda component in the [Microsoft documentation](https://docs.microsoft.com/graph/toolkit/components/agenda) 
+The agenda component will display the currently logged-in user’s meeting. You can read about the Agenda component in the [Microsoft documentation](https://learn.microsoft.com/graph/toolkit/components/agenda) 
 
 First, modify import to include the Agenda component
 
@@ -292,7 +292,7 @@ Select **Sign In**, you must provide consent again as we have added new Scope. O
 
 ## Conclusion
 
-In this article, we have seen step by step guide on how to integrate Graph Toolkit in your Teams app and use the available component by just configuration. You can read more about all the components available in the [MGT documentation](https://docs.microsoft.com/graph/toolkit/components/login)
+In this article, we have seen step by step guide on how to integrate Graph Toolkit in your Teams app and use the available component by just configuration. You can read more about all the components available in the [MGT documentation](https://learn.microsoft.com/graph/toolkit/components/login)
 
 As of today, the below components are available which can be used easily and there are many configurations also available for each component to customize.
 

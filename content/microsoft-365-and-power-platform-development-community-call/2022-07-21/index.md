@@ -96,11 +96,11 @@ call.
     * Article – [Automate creation of new documents with SharePoint Syntex Content Assembly](https://www.sharepointnutsandbolts.com/2022/05/Syntex-Content-Assembly.html)
 * **Building a conversational tab in a Microsoft Teams app that captures external event conversations**
     * Sample - [Proactive Tab Conversations](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-tab-conversations/csharp)
-    * Documentation - [Create conversational tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/conversational-tabs)
-    * Documentation - [Messages in bot conversations](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/conversation-messages)
-    * Documentation - [ConversationsExtensions.CreateConversationAsync Method](https://docs.microsoft.com/dotnet/api/microsoft.bot.connector.conversationsextensions.createconversationasync)
+    * Documentation - [Create conversational tabs](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/conversational-tabs)
+    * Documentation - [Messages in bot conversations](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/conversation-messages)
+    * Documentation - [ConversationsExtensions.CreateConversationAsync Method](https://learn.microsoft.com/dotnet/api/microsoft.bot.connector.conversationsextensions.createconversationasync)
 * **Use folders to create a dynamic list filter and Power Automate to populate folders and create pages**
-* Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
+* Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
 * Icons - [Flicon.io](https://flicon.io/)
 * Repo - [Community-tooling](https://github.com/pnp/community-tooling)
 * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
@@ -116,7 +116,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

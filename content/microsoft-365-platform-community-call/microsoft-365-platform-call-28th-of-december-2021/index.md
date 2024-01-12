@@ -120,7 +120,7 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
     related to personal data security in EU. 
     <https://servicetrust.microsoft.com>
 -   Global datacenters - [Where your Microsoft 365 customer data is
-    stored](https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide)
+    stored](https://learn.microsoft.com/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide)
 -   Updates on combining PnP Community calls -- no changes at present.
 -   Microsoft 365 Developer call promotion (agenda, recordings, demos)
     on twitter [@Microsoft365Dev](https://twitter.com/microsoft365dev)
@@ -201,7 +201,7 @@ Juvonen](https://twitter.com/vesajuvonen) (Microsoft) |
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -239,7 +239,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

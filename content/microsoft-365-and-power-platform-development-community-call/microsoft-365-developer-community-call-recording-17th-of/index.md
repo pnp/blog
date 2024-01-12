@@ -143,10 +143,10 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Visual Studio Marketplace - [Adaptive Card Studio](https://marketplace.visualstudio.com/items?itemName=madewithcardsio.adaptivecardsstudiobeta)  
 *   **D2**:  Demo - [Solving reCaptcha v2 challenge with Power Automate Desktop](https://www.youtube.com/watch?v=9pgC02Co2rQ) 
 *   **D2**:  Demo – [Actionable Messages using Adaptive Cards - ultimate guide](https://www.youtube.com/watch?v=x5IXd-g8OXw&t=0s) 
-*   **D2**:  Documentation - [Send physical clicks on a web element](https://docs.microsoft.com/power-automate/desktop-flows/how-to/send-physical-clicks-web-element) 
-*   **D2**:  Documentation - [Introduction to Power Automate for desktop](https://docs.microsoft.com/power-automate/desktop-flows/introduction) 
+*   **D2**:  Documentation - [Send physical clicks on a web element](https://learn.microsoft.com/power-automate/desktop-flows/how-to/send-physical-clicks-web-element) 
+*   **D2**:  Documentation - [Introduction to Power Automate for desktop](https://learn.microsoft.com/power-automate/desktop-flows/introduction) 
 *   **D2**:  Demo - [Adaptive Cards and the Power Platform to solve captchas](https://www.youtube.com/watch?v=7xIIjrHoqq0) 
-*   **D3**:  Documentation - [externalConnection resource type](https://docs.microsoft.com/graph/api/resources/externalconnectors-externalconnection?view=graph-rest-1.0) 
+*   **D3**:  Documentation - [externalConnection resource type](https://learn.microsoft.com/graph/api/resources/externalconnectors-externalconnection?view=graph-rest-1.0) 
 *   **D3**:  Repo – [Create Schema example](https://github.com/kevmcdonk/S4MSC-Twitter/blob/main/schema.json) 
 *   **D3**:  Article - Creating a custom Microsoft Search connector with Logic Apps
 *   **D3**:  Templates - [Search Layout designer](https://searchlayoutdesigner.azurewebsites.net/chooseLayout) 

@@ -33,7 +33,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [What’s new in Viva Learning – May 2022](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/what-s-new-in-viva-learning-may-2022/ba-p/3435796) \| John Mighell (Microsoft)
 * Teams Samples – [SDK v2 changes](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples) (Samples updated to take advantage of updated SDK)
 * Authentication Samples – [updated samples to use the MSAL Library](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples)
-* Teams Documentation – [Enable SSO for tab app](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview)
+* Teams Documentation – [Enable SSO for tab app](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview)
 * Microsoft 365 PnP Weekly – Episode 169 (June 6th) with Belgium based Microsoft 365 Solution Architect and MVP at Qubix - [Yannick Reekmans](http://twitter.com/YannickReekmans) \| @YannickReekmans \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-169/) \| [podcast](https://www.podbean.com/media/share/pb-uvjxj-1244047)
 
 ### Demos
@@ -76,16 +76,16 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 * **Migrate your SharePoint workflows to Power Automate with migration tooling (preview)**
     * Register - [Welcome to the Early Adoption of SharePoint Workflow Migration](https://forms.office.com/r/SX9VBNFJbX)
-    * Documentation - [Overview: Migrate SharePoint Server 2010 workflows to Power Automate](https://docs.microsoft.com/sharepointmigration/spmt-workflow-overview)
-    * Documentation – [Overview of the SharePoint Migration Tool (SPMT)](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-    * Documentation - [Overview of the SharePoint Migration Assessment Tool](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+    * Documentation - [Overview: Migrate SharePoint Server 2010 workflows to Power Automate](https://learn.microsoft.com/sharepointmigration/spmt-workflow-overview)
+    * Documentation – [Overview of the SharePoint Migration Tool (SPMT)](https://learn.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+    * Documentation - [Overview of the SharePoint Migration Assessment Tool](https://learn.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 * **TeamsJS SDK V2 to extend your Microsoft Teams solutions to Outlook and Office**
     * Sample - [Extend Teams app to other M365 host apps like Outlook, Office.com](https://github.com/OfficeDev/m365-msteams-northwind-app-samples/tree/main/experimental/ExtendTeamsforM365) \| aka.ms/teamssdk-v2-sample
-    * Documentation - [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client) \| aka.ms/TeamsSDK-V2
+    * Documentation - [Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/javascript/api/overview/msteams-client) \| aka.ms/TeamsSDK-V2
     * NPM Package – [Microsoft Teams JavaScript client SDK](https://www.npmjs.com/package/@microsoft/teams-js/)
 * **Send a SMS message with Azure Communication Services**
     * Library - [Azure Communication Services UI Library](https://azure.github.io/communication-ui-library/?path=/docs/overview--page) \| aka.ms/acs-ui-library
-    * Documentation - [Quickstart: Send an SMS message](https://docs.microsoft.com/azure/communication-services/quickstarts/sms/send) \| aka.ms/acs-sms-quickstart
+    * Documentation - [Quickstart: Send an SMS message](https://learn.microsoft.com/azure/communication-services/quickstarts/sms/send) \| aka.ms/acs-sms-quickstart
 
 ## General resources
 

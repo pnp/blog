@@ -126,9 +126,9 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Sample - [My Emails](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-MyEmails) 
 *   **D2**:  Repo – [Microsoft Graph Toolkit - v2.4.0](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases)
 *   **D2**:  Demo - [Using the Microsoft Graph Toolkit Get Component in your solutions](https://youtu.be/9w2L3-7sCDI?t=2432) – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert 
-*   **D2**:  Documentation - [Get component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/get) 
+*   **D2**:  Documentation - [Get component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/get) 
 *   **D2**:  MGT Playground – [mgt-get](https://mgt.dev/?path=/story/components-mgt-get--get-email) 
-*   **D3**:  Documentation - [List events](https://docs.microsoft.com/graph/api/user-list-events) 
+*   **D3**:  Documentation - [List events](https://learn.microsoft.com/graph/api/user-list-events) 
 *   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
 *   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
 *   **Microsoft 365 PnP Weekly – Episode 155** (February 28th) with Dubai based, Senior Cloud Advocate, [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs| [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-155-ay%C3%A7a-ba%C5%9F/ba-p/3221686) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-155-%e2%80%93-28th-of-february-2022/)
@@ -156,7 +156,7 @@ Additional resources around the covered topics and links from the slides.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -175,7 +175,7 @@ Additional resources around the covered topics and links from the slides.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

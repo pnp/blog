@@ -9,7 +9,7 @@ type: "regular"
 ---
 
 
-## Introduction 
+## Introduction
 
 PnP Core SDK is a library designed to help you work with Microsoft 365
 services in your .NET projects, this currently focuses on SharePoint and
@@ -32,7 +32,7 @@ designed to use the latest development techniques and standards such as:
 -   **Batching support** at the API level to reduce the calls to the
     service with retry logic to handle cases such as service throttling.
 
-## Improved Quality 
+## Improved Quality
 
 The PnP Core SDK has a strong focus on quality, to help reduce bugs and
 issues, provide developers with better support working with the SDK,
@@ -63,7 +63,7 @@ SDK maintains a high standard of quality -- of course, we welcome any
 feedback, issues, suggestions from the community, ***all are
 welcome***.
 
-## Getting started building an app 
+## Getting started building an app
 
 We are next going to show you, the simplest method of creating a console
 app that interacts with Microsoft 365, provides you with a login window,
@@ -79,14 +79,14 @@ For the purposes of this example, we will use a Microsoft 365 Group
 connected team, please sure that you set one up for the application to
 connect to.
 
-### Azure AD App 
+### Azure AD App
 
 The application uses Azure AD app to authenticate into the services
 required, for this you we recommend creating your own Azure AD app, and
 there are tools that can assist with this either the [Microsoft 365
 CLI](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/#register-azure-ad-application-in-your-tenant),
 [PnP
-PowerShell](https://docs.microsoft.com/powershell/module/sharepoint-pnp/register-pnpazureadapp?view=sharepoint-ps)
+PowerShell](https://learn.microsoft.com/powershell/module/sharepoint-pnp/register-pnpazureadapp?view=sharepoint-ps)
 are great at making it easy to setup your own Azure AD Apps --
 additionally, [we also have documentation to help set up the
 app](https://pnp.github.io/pnpcore/using-the-sdk/configuring%20authentication.html).
@@ -98,7 +98,7 @@ to test the application in a non-production environment -- check out
 [this article to understand on how to get a free developer tenant from
 Microsoft](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610).
 
-### Building the Application 
+### Building the Application
 
 So, let's get going with using the SDK, so for this next section, we
 will show you how to get going in Visual Studio (btw, Visual Studio Code
@@ -160,7 +160,7 @@ You will need an additional NuGet Package called
 "Microsoft.Extensions.Hosting" -- this allows us to manage the services
 in the lifetime of running the app. For further information, [please
 refer the documentation around the generic host
-library](https://docs.microsoft.com/dotnet/core/extensions/generic-host).
+library](https://learn.microsoft.com/dotnet/core/extensions/generic-host).
 With regards to the way versioning is done for the SDK, there are major
 releases which currently is v1.0.0 and nightly releases e.g.,
 v1.0.1-nightly which are the prerelease versions allowing you to use the
@@ -168,7 +168,7 @@ very latest build this would include any fixes and new features.
 
 ![PnP Core SDK release versions](images/SDK Release versions.png)
 
-### Let's start writing some code 
+### Let's start writing some code
 
 Once you have added the NuGet packages, open the ***program.cs*** file,
 this is the entry point that the application runs calling on the Main
@@ -196,14 +196,14 @@ namespace GettingStartedConsoleApp
 {
     class Program
     {
-        // Update main method for asynchronous 
+        // Update main method for asynchronous
         static async Task Main(string[] args)
         {
             // Setup the host
             // This app uses interactive login
-            
+
             var host = Host.CreateDefaultBuilder()
-            
+
             .ConfigureServices((hostingContext, services) =>
             {
                 //    Add the PnP Core SDK library services
@@ -261,7 +261,7 @@ namespace GettingStartedConsoleApp
 
                     // Save the page
                     await page.SaveAsync("Awesomeness.aspx");
-                    
+
                     // Publish the page
                     await page.PublishAsync();
                 }
@@ -282,7 +282,7 @@ return type to allow the code inside to run.
  
 
 ```csharp
- // Update main method for asynchronous 
+ // Update main method for asynchronous
  static async Task Main(string[] args)
 ```
  
@@ -301,9 +301,9 @@ instructions](https://pnp.github.io/pnpcore/using-the-sdk/configuring%20authenti
 ```csharp
 // Setup the host
 // This app uses interactive login
-            
+
 var host = Host.CreateDefaultBuilder()
-            
+
 .ConfigureServices((hostingContext, services) =>
 {
   //    Add the PnP Core SDK library services
@@ -344,7 +344,7 @@ using (var scope = host.Services.CreateScope())
 {
    // Obtain a PnP Context factory
    var pnpContextFactory = scope.ServiceProvider.GetRequiredService<IPnPContextFactory>();
- 
+
   // Use the PnP Context factory to get a PnPContext for the given configuration
   using (var context = await pnpContextFactory.CreateAsync(new Uri("https://contoso.sharepoint.com/sites/pnpcoresdktestgroup")))
   {
@@ -383,7 +383,7 @@ page.AddControl(page.NewTextPart("<p style="text-align:center">" +
 
 // Save the page
 await page.SaveAsync("Awesomeness.aspx");
-                    
+
 // Publish the page
 await page.PublishAsync();
 ```
@@ -410,7 +410,7 @@ Once written, Hit F5, log in and see the result:
 
 ![Resulting page creation by the console app](images/result.png)
 
-## What's Next 
+## What's Next
 
 So, you have written the app, what's next, if you want a further
 examples and a video walkthrough, checkout the short video by Paolo

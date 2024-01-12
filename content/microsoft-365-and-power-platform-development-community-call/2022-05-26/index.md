@@ -82,14 +82,14 @@ call.
 ## Demo references
 
 * **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads**
-    * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/nederlandsespoorweip/)
+    * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/nederlandsespoorweip/)
     * Repo - [Nederlandse Spoorwegen](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Nederlandse%20Spoorwegen)
     * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/post/challenge-004)
     * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Miro)
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph**
-    * Documentation – [Get change notifications delivered in different ways](https://docs.microsoft.com/graph/change-notifications-delivery)
-    * Documentation - [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://docs.microsoft.com/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
-    * Documentation - [Azure Durable Functions documentation](https://docs.microsoft.com/azure/azure-functions/durable/)
+    * Documentation – [Get change notifications delivered in different ways](https://learn.microsoft.com/graph/change-notifications-delivery)
+    * Documentation - [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://learn.microsoft.com/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+    * Documentation - [Azure Durable Functions documentation](https://learn.microsoft.com/azure/azure-functions/durable/)
 * **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo**
     * Repo – [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio)
     * Forms - [Meziantou’s Blog](https://www.meziantou.net)
@@ -104,7 +104,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|Many bug fixes, also in progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1|Version 4.0 is imminent – pending an issue with the new Teams JS SDK
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.2

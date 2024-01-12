@@ -146,7 +146,7 @@ everyone for your contributions to the community!
 ## Additional resources
 
 -   [Extend Microsoft Viva
-    Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
+    Connections](https://learn.microsoft.com/learn/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa) -
     Microsoft Learn
 -   [Consume a multi-tenant API within a set of Microsoft Viva
     Connections Adaptive Card Extensions

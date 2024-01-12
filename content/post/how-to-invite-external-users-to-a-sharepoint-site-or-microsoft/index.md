@@ -27,13 +27,13 @@ To start building this experience, create a Microsoft form with the
 setting **Anyone can respond** and with fields (Name, Email address etc)
 to collect information from the external user to send invitation.
 
-## ![MSForm-ExternalUserdetails.png](images/MSForm-ExternalUserdetails.png) 
+## ![MSForm-ExternalUserdetails.png](images/MSForm-ExternalUserdetails.png)
 
 ## Azure Active Directory Application registration
 
 The next step after creating the form is to register an [application in
 Azure
-AD](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)
+AD](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app)
 with Microsoft graph API permission to send invitation to external user.
 After the app is registered obtain the client id, client secret & tenant
 id to be used in the Power Automate flow further down this article to
@@ -45,17 +45,17 @@ added to the app. Keep in mind the permission requires Admin consent.
 
 There is also delegated permission available for User.Invite.All.
 
-## Onboard External users to a SharePoint online site 
+## Onboard External users to a SharePoint online site
 
 Once the Microsoft form is ready, we can start building the Power
 Automate flow which can send the email invitation to the external user
 and for granting access to the SharePoint site. The [external
-sharing](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+sharing](https://learn.microsoft.com/sharepoint/external-sharing-overview)
 features of SharePoint Online enables users in your organization share
 content with people outside the organization. There is no limit to the
 number of guests you can invite to SharePoint sites as per this
 [SharePoint online
-limits](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#users)
+limits](https://learn.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#users)
 documentation. Find below steps to create the Power Automate flow with a
 custom approval on a Microsoft Team
 
@@ -195,7 +195,7 @@ Card payload:
 **Note**: Adaptive card can also be sent using a Microsoft Graph API
 with the card payload in Attachments field
 
-<https://docs.microsoft.com/graph/api/channel-post-messages?view=graph-rest-beta&tabs=http>
+<https://learn.microsoft.com/graph/api/channel-post-messages?view=graph-rest-beta&tabs=http>
 
 ### Adaptive card for Teams - Dynamic content Missing
 
@@ -254,7 +254,7 @@ invite, we will use the Azure AD application registered above.
 Be ready with the ClientId, Client Secret and Tenant Id collected from
 the AD app registration you have done initially. The only authentication
 flow to generate a access token for application permissions is [Client
-credentials](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows#client-credentials).
+credentials](https://learn.microsoft.com/azure/active-directory/develop/msal-authentication-flows#client-credentials).
 
 To generate a token
 
@@ -355,7 +355,7 @@ or
 
 Find below the Graph API endpoint http request details to [invite the
 external
-user](https://docs.microsoft.com/graph/api/invitation-post?view=graph-rest-1.0&tabs=http)
+user](https://learn.microsoft.com/graph/api/invitation-post?view=graph-rest-1.0&tabs=http)
 
 **Method**: POST
 
@@ -441,7 +441,7 @@ should have access to the SharePoint site. As of now, there is no Graph
 API for adding the user to a SharePoint group but you can register an
 app in Active directory and add permission for SharePoint to call the
 above REST API. Refer to the documentation [Granting access via Azure AD
-App-Only](https://docs.microsoft.com/sharepoint/dev/solution-guidance/security-apponly-azuread)
+App-Only](https://learn.microsoft.com/sharepoint/dev/solution-guidance/security-apponly-azuread)
 for calling the REST API using the registered AD app.
 
 ## Testing the flow
@@ -480,7 +480,7 @@ To onboard the external user to a Microsoft Team, the only change to the
 above flow is, instead of adding the user to the SharePoint group the
 user must be added as a Member to the Microsoft 365 group connected to
 the Microsoft Teams. The graph API to [add a
-member](https://docs.microsoft.com/graph/api/team-post-members?view=graph-rest-1.0&tabs=http)
+member](https://learn.microsoft.com/graph/api/team-post-members?view=graph-rest-1.0&tabs=http)
 to a Microsoft Team is
 
 **Request Type**: POST
@@ -528,11 +528,11 @@ members.
 I recommend you read the following documentation from Microsoft for
 External sharing
 
-<https://docs.microsoft.com/microsoftteams/manage-external-access>
+<https://learn.microsoft.com/microsoftteams/manage-external-access>
 
-<https://docs.microsoft.com/microsoftteams/guest-access>
+<https://learn.microsoft.com/microsoftteams/guest-access>
 
-<https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations>
+<https://learn.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations>
 
 ## Summary
 

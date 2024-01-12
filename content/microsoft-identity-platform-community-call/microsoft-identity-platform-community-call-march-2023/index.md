@@ -16,9 +16,9 @@ videos:
 
 ## Call summary
 
-This month’s in-depth topic: **Staying Up to Date with Authentication for JavaScript Applications** 
+This month’s in-depth topic: **Staying Up to Date with Authentication for JavaScript Applications**
 
-Microsoft is continually improving the Microsoft Authentication Libraries (MSAL) to benefit Microsoft web properties and your custom JavaScript applications. By staying up to date with the latest MSAL versions, your web application will receive the latest innovations on security, resiliency, and usability as they are released. If your application is still on ADAL, migrating to MSAL will enable pro-active token refreshing, extended outage resiliency, and improved OIDC-compliant flows moving from implicit flow to auth code token. Join this session to learn more about how your JavaScript application can leverage the latest features. Microsoft Presenters: [Emily Lauber](https://www.linkedin.com/in/emlauber/) – Product Manager and [Doğan Erişen](https://github.com/derisen) - Software Engineer. 
+Microsoft is continually improving the Microsoft Authentication Libraries (MSAL) to benefit Microsoft web properties and your custom JavaScript applications. By staying up to date with the latest MSAL versions, your web application will receive the latest innovations on security, resiliency, and usability as they are released. If your application is still on ADAL, migrating to MSAL will enable pro-active token refreshing, extended outage resiliency, and improved OIDC-compliant flows moving from implicit flow to auth code token. Join this session to learn more about how your JavaScript application can leverage the latest features. Microsoft Presenters: [Emily Lauber](https://www.linkedin.com/in/emlauber/) – Product Manager and [Doğan Erişen](https://github.com/derisen) - Software Engineer.
 
 ## Topic/Demo Summaries
 
@@ -63,13 +63,13 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 * Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=I5LYE8pBSlftGEofnz98KPtVi5KfZFts7UZ7CHjRRQk%3D&reserved=0)
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://docs.microsoft.com/learn/paths/m365-identity-associate/)
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on April 20th at 9:00am PT. Download the recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 

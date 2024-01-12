@@ -52,7 +52,7 @@ further than the basics that AAD provides.
 
 **See**: [Manage user profiles in the SharePoint admin center --
 SharePoint in Microsoft 365 | Microsoft
-Docs](https://docs.microsoft.com/sharepoint/manage-user-profiles#:~:text=%20Manage%20user%20profiles%20in%20the%20SharePoint%20admin,use%20OneDrive%2C%20but%20you%20don%27t%20want...%20More%20)
+Docs](https://learn.microsoft.com/sharepoint/manage-user-profiles#:~:text=%20Manage%20user%20profiles%20in%20the%20SharePoint%20admin,use%20OneDrive%2C%20but%20you%20don%27t%20want...%20More%20)
 
 **Access AAD
 profiles**: <https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphUsers>
@@ -114,7 +114,7 @@ specifically:
 SharePoint Server has its own user profile service, there are a few
 traces of that still to be found in SharePoint Online.
 
-### SharePoint User Profile Service 
+### SharePoint User Profile Service
 
 The SharePoint User Profile Service stores information about SharePoint
 users in a central location in SharePoint Server. It enables My Sites,
@@ -137,9 +137,9 @@ defining user managers) in the [Azure AD admin
 center](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade).
 
 **See** [Add or change profile information for a user in Azure Active
-Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal). 
+Directory](https://learn.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal). 
 
-### Adding custom profile attributes 
+### Adding custom profile attributes
 
 If you need to create custom user profile properties, such as languages
 spoken, emergency contact info, or sales account, you can use User
@@ -171,7 +171,7 @@ which uses the pre-modern SharePoint UI and profile service:
     the maximum number of characters allowed for property values.
 4.  If you selected string and want to associate the profile property
     with a [managed metadata term
-    set](https://docs.microsoft.com/sharepoint/managed-metadata),
+    set](https://learn.microsoft.com/sharepoint/managed-metadata),
     select Configure a Term Set to be used for this property. Then
     select a term set from the list.
 5.  Make sure Default User Profile Subtype is selected so the default
@@ -202,9 +202,9 @@ which uses the pre-modern SharePoint UI and profile service:
 Note: Custom properties from Active Directory or Azure AD are not
 synchronized with SharePoint.
 
-**See** <https://docs.microsoft.com/sharepoint/add-and-edit-user-profile-properties>
+**See** <https://learn.microsoft.com/sharepoint/add-and-edit-user-profile-properties>
 
-### Bulk updates profiles and custom attributes 
+### Bulk updates profiles and custom attributes
 
 Many enterprises need to replicate custom attributes to the SharePoint
 user profile service, or do bulk set up for multiple members of staff.
@@ -214,16 +214,16 @@ PowerShell is the usual way of driving this, with a JSON import file
 holding the attributes to be set.
 
 **See**: [Bulk update custom user profile properties for SharePoint
-Online](https://docs.microsoft.com/sharepoint/dev/solution-guidance/bulk-user-profile-update-api-for-sharepoint-online)
+Online](https://learn.microsoft.com/sharepoint/dev/solution-guidance/bulk-user-profile-update-api-for-sharepoint-online)
 
 **See:** [Call the import API from
-PowerShell](https://docs.microsoft.com/sharepoint/dev/solution-guidance/bulk-user-profile-update-api-for-sharepoint-online#call-the-import-api-from-powershell).
+PowerShell](https://learn.microsoft.com/sharepoint/dev/solution-guidance/bulk-user-profile-update-api-for-sharepoint-online#call-the-import-api-from-powershell).
 
 ## User Profile Sync
 
 Microsoft SharePoint uses the Active Directory synchronization job to
 import user and group attribute information into the [User Profile
-Application](https://docs.microsoft.com/sharepoint/install/create-a-user-profile-service-application#:~:text=%20Create%20a%20User%20Profile%20service%20application%20,an%20existing%20application%20pool%20from%20the...%20More%20) (UPA). When
+Application](https://learn.microsoft.com/sharepoint/install/create-a-user-profile-service-application#:~:text=%20Create%20a%20User%20Profile%20service%20application%20,an%20existing%20application%20pool%20from%20the...%20More%20) (UPA). When
 a new user is added to Azure Active Directory (Azure AD), the user
 account information is sent to the SharePoint directory store and the
 UPA sync process creates a profile in the User Profile Application based
@@ -232,9 +232,9 @@ any modifications to these attributes will be synced as part of
 regularly scheduled sync process.
 
  From
-`https://docs.microsoft.com/sharepoint/user-profile-sync`
+`https://learn.microsoft.com/sharepoint/user-profile-sync`
 
-### Properties that are synced into SharePoint user profiles 
+### Properties that are synced into SharePoint user profiles
 
 The following Azure AD user attributes are synced to the UPA.
 
@@ -262,7 +262,7 @@ guarantee consistent performance across the service.
 
 **See**: [About user profile synchronization -- SharePoint in Microsoft
 365 | Microsoft
-Docs](https://docs.microsoft.com/sharepoint/user-profile-sync)
+Docs](https://learn.microsoft.com/sharepoint/user-profile-sync)
 
 ## Viva
 
@@ -295,7 +295,7 @@ for this in Power Automate, Power Apps, Logic Apps.
 Then there is LinkedIn, which is being gradually embedded into the M365
 stack and adds yet another profile source.
 
-### Final word -- Profile Pictures 
+### Final word -- Profile Pictures
 
 Profile pictures are really important -- they not only help reinforce
 that you are working with a real person and let you recognise someone if

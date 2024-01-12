@@ -18,9 +18,9 @@ Listen to the show here: 
 ## Links from the show
 
 -   [What is Azure AD entitlement
-    management?](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview)
+    management?](https://learn.microsoft.com/azure/active-directory/governance/entitlement-management-overview)
 -   [Azure Active Directory Identity Governance
-    documentation](https://docs.microsoft.com/azure/active-directory/governance/)
+    documentation](https://learn.microsoft.com/azure/active-directory/governance/)
 
 ## Microsoft News
 

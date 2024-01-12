@@ -16,7 +16,7 @@ type: "regular"
 
 ## Call summary
 
- 
+
 
 This month's community call features presentations - **Word API
 updates** (extensibility API updates - Word Online Only APIs, Bookmarks
@@ -40,7 +40,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 -   David Chesnut - Senior Dev Writer
 
 
-## Agenda 
+## Agenda
 
 -   Word API updates - Abid Rahman, Program Manager (Microsoft) -- 
     [1:07](https://youtu.be/X_hNLKnx_GE?t=67)
@@ -52,7 +52,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
     [29:31](https://youtu.be/X_hNLKnx_GE?t=1773)
 -   Q&A -- [30:27](https://youtu.be/X_hNLKnx_GE?t=1828)
 
-## Actions 
+## Actions
 
 -   Please reach out to us to provide input on upcoming Word APIs such
     as the Bookmark APIs: <https://aka.ms/wordextensibilitysurvey> 
@@ -63,7 +63,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut
 
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 **Can you please demo, or provide sample code for events in Office Word
@@ -127,9 +127,9 @@ functionalities: Creating new slides based on different master slide
 templates, mass updates of footers, and mass updates of text string that
 follow certain logic (similar to Word placeholders).**
 To insert slides from different slide masters, use the
-[insertSlidesFromBase64()](https://docs.microsoft.com/javascript/api/powerpoint/powerpoint.presentation?view=powerpoint-js-preview#insertSlidesFromBase64_base64File__options_)
+[insertSlidesFromBase64()](https://learn.microsoft.com/javascript/api/powerpoint/powerpoint.presentation?view=powerpoint-js-preview#insertSlidesFromBase64_base64File__options_)
 API which supports [slide master
-options](https://docs.microsoft.com/javascript/api/powerpoint/powerpoint.addslideoptions?view=powerpoint-js-preview#slideMasterId)
+options](https://learn.microsoft.com/javascript/api/powerpoint/powerpoint.addslideoptions?view=powerpoint-js-preview#slideMasterId)
 (currently in beta).
 
 We don't have footer manipulation APIs, or find and replace logic
@@ -155,7 +155,7 @@ scenarios, see <https://www.npmjs.com/package/@microsoft/office-js>.
 Trying out preview APIs requires that you reference the beta endpoint.
 For more information on how to reference release and preview versions of
 the APIs, see [Referencing the Office JavaScript API
-library](https://docs.microsoft.com/office/dev/add-ins/develop/referencing-the-javascript-api-for-office-library-from-its-cdn).
+library](https://learn.microsoft.com/office/dev/add-ins/develop/referencing-the-javascript-api-for-office-library-from-its-cdn).
 
 
 **Will the BeforeSave and BeforeClose events be coming for Excel? Will
@@ -171,14 +171,14 @@ scenario. Please submit a feature request for this at
 <https://aka.ms/m365dev-suggestions>.
 
 
-## Resources 
+## Resources
 
-### Word Extensibility (API) Updates 
+### Word Extensibility (API) Updates
 
 -   Documentation -- [Word.Comment
-    class](https://docs.microsoft.com/javascript/api/word/word.comment?branch=master&view=word-js-preview)
+    class](https://learn.microsoft.com/javascript/api/word/word.comment?branch=master&view=word-js-preview)
 -   Documentation -- [Word.NoteItem
-    class](https://docs.microsoft.com/javascript/api/word/word.noteitem?branch=master&view=word-js-preview)
+    class](https://learn.microsoft.com/javascript/api/word/word.noteitem?branch=master&view=word-js-preview)
 -   GitHub Feedback -- [office-js
     issues](https://github.com/OfficeDev/office-js/issues)
 -   Article -- [Use the shared JavaScript runtime to improve the UI
@@ -186,27 +186,27 @@ scenario. Please submit a feature request for this at
     Add-in](https://devblogs.microsoft.com/microsoft365dev/use-the-shared-javascript-runtime-to-improve-the-ui-experience-of-your-office-add-in/)
 -   Documentation -- [Configure your Office Add-in to use a shared
     JavaScript
-    runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
+    runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime)
 -   Survey -- [Word Extensibility
     Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzgiSwR_LJpPryfdZMes2zpUNVVIT0hKMlFSQjA1TEtUWlZYNEo2TzFSQS4u%C2%A0)
 
-### Outlook extensibility on Mac API updates 
+### Outlook extensibility on Mac API updates
 
 -   Article -- [The new Outlook for
     Mac](https://support.microsoft.com/office/the-new-outlook-for-mac-6283be54-e74d-434e-babb-b70cefc77439)
 -   Documentation -- [Outlook add-in API requirement set
-    1.9](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.9/outlook-requirement-set-1.9)
+    1.9](https://learn.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.9/outlook-requirement-set-1.9)
 -   Documentation -- [Outlook add-in API requirement set
-    1.10](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
+    1.10](https://learn.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10)
 
-### Demo: Hello World code sample 
+### Demo: Hello World code sample
 
 -   Repo -- [Hello world
     samples](https://github.com/OfficeDev/PnP-OfficeAddins/pull/213)
 -   Article -- [Office Add-ins platform
-    overview](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+    overview](https://learn.microsoft.com/office/dev/add-ins/overview/office-add-ins)
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Upcoming agenda and previous call
     resources](https://aka.ms/officeaddinsagenda)
@@ -217,11 +217,11 @@ scenario. Please submit a feature request for this at
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)

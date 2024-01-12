@@ -202,7 +202,7 @@ If you notice here
 *   We would be using message object from state to populate the dynamic values…
 *   For user photo, we are using the userphoto.aspx page and passing the sender’s email address. this is one of the way to get photo
 *   We have also added one button in Quick view which will take user to target outlook email link, this we get from webLink property of email object.
-*   To find list of properties returned by the email object, you can refer to this  [link](https://docs.microsoft.com/graph/api/resources/message?view=graph-rest-1.0#properties)
+*   To find list of properties returned by the email object, you can refer to this  [link](https://learn.microsoft.com/graph/api/resources/message?view=graph-rest-1.0#properties)
 
 ```json
 {

@@ -122,7 +122,7 @@ Thank you for your work. Samples are often showcased in Demos.    Request a Demo
     * Tool – [Blazor - Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 * Controlling list toolbar with JSON using commandBarProps option – [Chris Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent – [38:15](https://youtu.be/5yULqXWIz2M?t=2295)
-    * Documentation - [Command bar customization syntax reference](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
+    * Documentation - [Command bar customization syntax reference](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
     * Icons – [Flicon](https://flicon.io/)
 
 * Building dynamic dashboard pages with list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent – [53:09](https://youtu.be/5yULqXWIz2M?t=3189)

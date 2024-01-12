@@ -201,7 +201,7 @@ call.
     *   Sample - [Adaptive Card Host control](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptive-card-host-control)
 *   **Navigating Cards in Viva Connections ACEs**
     *   Tools – [Adaptive Cards Schema Explorer](https://adaptivecards.io/explorer/)
-    *   Documentation – [ViewNavigator](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/advanced-quick-view-functionality#viewnavigator)
+    *   Documentation – [ViewNavigator](https://learn.microsoft.com/sharepoint/dev/spfx/viva/get-started/advanced-quick-view-functionality#viewnavigator)
     *   Sample - [aces-navigation-demo](https://github.com/PiaSys/Conferences-Samples/tree/master/ACEs/aces-navigation-demo)
 
 Thank you for your great work. Samples are often showcased in Demos.
@@ -242,7 +242,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -261,7 +261,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

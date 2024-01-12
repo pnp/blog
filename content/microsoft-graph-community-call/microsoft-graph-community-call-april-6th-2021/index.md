@@ -99,7 +99,7 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Repo -- [Microsoft Kiota](https://github.com/microsoft/kiota) 
 
 -   Learn Module - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)
+    Toolkit](https://learn.microsoft.com/learn/modules/msgraph-toolkit-intro/)
     | <https://aka.ms/mgt-learn>
 
 -   Repo - [Microsoft Graph Toolkit
@@ -107,7 +107,7 @@ at <https://aka.ms/GraphTAPForm>.  
     <https://aka.ms/mgt>  
 
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/graph/toolkit/overview)
+    Overview](https://learn.microsoft.com/graph/toolkit/overview)
     | <https://aka.ms/mgt-docs>
 
 -   Playground -- [Microsoft Graph Toolkit
@@ -115,7 +115,7 @@ at <https://aka.ms/GraphTAPForm>.  
     | <https://mgt.dev>
 
 -   Documentation - [Electron
-    Provider](https://docs.microsoft.com/graph/toolkit/providers/electron) 
+    Provider](https://learn.microsoft.com/graph/toolkit/providers/electron) 
 
 -   [Electron applications using Microsoft Graph Toolkit](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
 

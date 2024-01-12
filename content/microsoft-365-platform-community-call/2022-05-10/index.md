@@ -23,7 +23,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) - [Ayça Baş](http://twitter.com/aycabs) (Microsoft) \| @aycabs
 * Article - [Join the new Microsoft Viva Community Group on LinkedIn](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/join-the-new-microsoft-viva-community-group-on-linkedin/ba-p/3300541)
 * Sample - Teams platform update – [tab-people-picker](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/tab-people-picker)
-* Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
+* Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
 * Microsoft 365 Platform Community (PnP) – May 2022 update. Thank you to active community members and supportive organizations for your contributions. Not on the list? Join us!
 * Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
@@ -65,14 +65,14 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Extend your Teams Search Based Message Extension to Outlook**
-    * Documentation - [Extend a Teams message extension across Microsoft 365](https://docs.microsoft.com/microsoftteams/platform/m365-apps/extend-m365-teams-message-extension)
+    * Documentation - [Extend a Teams message extension across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/extend-m365-teams-message-extension)
     * Tool – [Teams Toolkit (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) \| aka.ms/VSTeamsToolkit
     * Topic related sessions at Microsoft Build \| May 24-26, 2022 \| [Register now](http://register.build.microsoft.com)
 * **Getting started on using Azure Communication Services in your web site**
-    * Documentation - [What is Azure Communication Services?](https://docs.microsoft.com/azure/communication-services/overview) \| aka.ms/communication-services-overview
+    * Documentation - [What is Azure Communication Services?](https://learn.microsoft.com/azure/communication-services/overview) \| aka.ms/communication-services-overview
     * Sample – [Azure Communication Services Quick Starter](https://github.com/davrous/acsauth)
     * Test Portal - [Azure Communication Services - Quick Test sample](https://david.azureedge.net/acs/samples/testacs.html) \| aka.ms/acsquicktest
-    * Documentation – [Calling SDK overview](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
+    * Documentation – [Calling SDK overview](https://learn.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
 
 ## General resources
 

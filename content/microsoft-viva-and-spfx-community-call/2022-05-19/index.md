@@ -79,7 +79,7 @@ call.
     * Demo - [Getting started on building Microsoft Viva Connection adaptive card components using SPFx](https://www.youtube.com/watch?v=KQGsY5fvLaY) – [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
     * Ignite session - [Get started with Microsoft Viva Connections Extensibility](https://aka.ms/CONLL112) \| aka.ms/CONLL112
     * YouTube Channel - [PiaSys Tech Bites](https://www.youtube.com/c/PiaSysTechBites)
-    * Documentation - [Location capabilities in Adaptive Card Extension](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/actions/geolocation/geolocationdocumentation)
+    * Documentation - [Location capabilities in Adaptive Card Extension](https://learn.microsoft.com/sharepoint/dev/spfx/viva/get-started/actions/geolocation/geolocationdocumentation)
     * Overview - [JavaScript Temporal API Cheatsheet](https://temporal-api-cheatsheet.rodneylab.com/)
 * **Using Adaptive Cards Designer control from the PnP control gallery in SPFx solutions**
     * Tools – [Adaptive Cards](https://adaptivecards.io/) \| adaptivecards.io/
@@ -124,7 +124,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -143,7 +143,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 Beta|v1.15 GA in June 2022
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

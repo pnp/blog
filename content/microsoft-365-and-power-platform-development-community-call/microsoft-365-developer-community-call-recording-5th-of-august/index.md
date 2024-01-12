@@ -7,7 +7,7 @@ categories: ["Microsoft 365 and Power Platform Development Community Call"]
 images:
 tags: []
 type: "regular"
---- 
+---
 
 
 ## Call summary
@@ -266,7 +266,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -308,4 +308,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 5th of August 2021*
-

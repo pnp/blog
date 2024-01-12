@@ -29,10 +29,10 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     * the [Microsoft 365 Developer Podcast](https://m365devpodcast.com/) focused exclusively on Microsoft 365 dev topics – hosted by [Jeremy Thake](http://twitter.com/jthake) (Microsoft) and [Paul Schaeflein](http://twitter.com/paulschaeflein) (Addin365).
     * Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on latest Microsoft 365 news and topics hosted by [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft).
 * Teams Platform Updates:
-    * Documentation - [Integrate People Picker](https://docs.microsoft.com/microsoftteams/platform/concepts/device-capabilities/people-picker-capability?tabs=Samplemobileapp)
-    * Documentation - [Share to Teams from personal app or tab](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams-from-personal-app-or-tab)
+    * Documentation - [Integrate People Picker](https://learn.microsoft.com/microsoftteams/platform/concepts/device-capabilities/people-picker-capability?tabs=Samplemobileapp)
+    * Documentation - [Share to Teams from personal app or tab](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams-from-personal-app-or-tab)
 * Teams Documentation Updates:
-    * Step-by-Step Guide - [Create Teams conversation bot](https://docs.microsoft.com/microsoftteams/platform/sbs-teams-conversation-bot)
+    * Step-by-Step Guide - [Create Teams conversation bot](https://learn.microsoft.com/microsoftteams/platform/sbs-teams-conversation-bot)
 * New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week&#39;s article:  [Learn from the community: Teams App Dev Challenge winner brings high quality training into Microsoft...](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-teams-app-dev-challenge-winner-brings-high-quality-training-into-microsoft-teams/).  Sign up to [Share your story](https://aka.ms/share-your-story)
 * Learn from 3 Microsoft 365 Platform related stories, 2 very useful demos, and 3 Teams documents delivered by Microsoft.
 
@@ -84,11 +84,11 @@ Thank you for your creativity and work execution.   Samples are often showcased 
 
 * Building in meeting document signing app for Microsoft Teams – SaiBhavya Reddy (Microsoft) and Eoin O&#39;Brien (Microsoft) – [15:14](https://youtu.be/6Zcba6w7TBs?t=914)
     * Sample - [In-Meeting Document Signing](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/meetings-share-to-stage-signing/csharp)
-    * Documentation - [Share app content to stage API](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet#share-app-content-to-stage-api)
-    * Documentation - [Share entire app to stage](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-entire-app-to-stage)
-    * Documentation - [Share specific parts of the app to stage](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-specific-parts-of-the-app-to-stage)
-    * Documentation – [People Picker in Adaptive Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/people-picker)
-    * Step-by-Step - [Share meeting stage in Teams](https://docs.microsoft.com/microsoftteams/platform/sbs-meetings-stage-view)
+    * Documentation - [Share app content to stage API](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet#share-app-content-to-stage-api)
+    * Documentation - [Share entire app to stage](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-entire-app-to-stage)
+    * Documentation - [Share specific parts of the app to stage](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings#share-specific-parts-of-the-app-to-stage)
+    * Documentation – [People Picker in Adaptive Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/people-picker)
+    * Step-by-Step - [Share meeting stage in Teams](https://learn.microsoft.com/microsoftteams/platform/sbs-meetings-stage-view)
 
 * Building wellbeing solution with Teams and Viva Connections – [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells – [36:45](https://youtu.be/6Zcba6w7TBs?t=2205)
     * Sample - [Wellbeing days requests and reminder - Adaptive Cards Extensions and Teams personal app](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-wellbeing)
@@ -128,7 +128,7 @@ Additional resources around the covered topics and links from the slides.
 * [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) - Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 * [SharePoint Provisioning Service ](https://provisioning.sharepointpnp.com/)- Easily provision look book designs to any tenant in the world
 * [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-* [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+* [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 * [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 * [PnP Power Shell](https://aka.ms/sppnp-powershell)
 * [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

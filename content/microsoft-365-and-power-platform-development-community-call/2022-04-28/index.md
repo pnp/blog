@@ -38,7 +38,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
         Windows
 * Project releases
     * [Microsoft 365 Assessment tool
-        1.0.0](https://docs.microsoft.com/assessments/) (successor to the
+        1.0.0](https://learn.microsoft.com/assessments/) (successor to the
         Modernization Scanner) released \| aka.ms/microsoft365assessment
     * Blog Post - [PnP PowerShell
         v1.10](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v1-10/)
@@ -174,15 +174,15 @@ call.
 
 * Updates on Independent Publisher Connectors & GitLab Connector Demo
     * Documentation - [GitLab (Independent Publisher)
-        (Preview)](https://docs.microsoft.com/connectors/gitlabip/)
+        (Preview)](https://learn.microsoft.com/connectors/gitlabip/)
     * Connector Repo –
         [GitLab](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GitLab)
     * Requested connector - [Top Connector
         Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Documentation - [Independent publisher certification
-        process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)
+        process](https://learn.microsoft.com/connectors/custom-connectors/certification-submission-ip)
     * Documentation - [Create a custom connector from
-        scratch](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
+        scratch](https://learn.microsoft.com/connectors/custom-connectors/define-blank)
 * List formatting magic - Discussion board formatting
     * Sample - [Board tag
         format](https://github.com/pnp/List-Formatting/tree/master/view-samples/board-tag-format)
@@ -206,7 +206,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|In progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA, v4.0.0-next(.2)|Planning v4.0.0 release in mid-May
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0, 1.6.0-next.1

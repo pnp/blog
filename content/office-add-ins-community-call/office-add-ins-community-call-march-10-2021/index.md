@@ -54,9 +54,9 @@ Platform Panel](https://aka.ms/SuccessPanel)  
 
 -   Documentation - [Integrate built-in Office buttons into custom
     control groups and
-    tabs](https://docs.microsoft.com/office/dev/add-ins/design/built-in-button-integration) 
+    tabs](https://learn.microsoft.com/office/dev/add-ins/design/built-in-button-integration) 
 -   Documentation - [Position a custom tab on the
-    ribbon](https://docs.microsoft.com/office/dev/add-ins/design/custom-tab-placement) 
+    ribbon](https://learn.microsoft.com/office/dev/add-ins/design/custom-tab-placement) 
 
 **Actions**:  
 
@@ -136,7 +136,7 @@ ribbon: [https://github.com/OfficeDev/office-control-ids](https://github.com/Of
 
 A:  We have some of the shapes API in preview documented in the
 article [PowerPoint JavaScript preview
-APIs](https://docs.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-preview-apis?view=common-js-preview).
+APIs](https://learn.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-preview-apis?view=common-js-preview).
 We also have some additional APIs planned around adding
 shapes, textbox and tags to shapes. We don't have a concrete timeline
 yet. 
@@ -156,4 +156,4 @@ A:  We haven't yet documented the Group Policy (\"Deactivate Outlook
 web add-ins whose equivalent COM or VSTO add-in is installed\") that
 configures this behavior. However, it will be added to the article [Make
 your Office Add-in compatible with an existing COM
-add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in). 
+add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in). 

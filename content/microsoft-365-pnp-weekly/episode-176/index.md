@@ -27,14 +27,14 @@ In this installment of the weekly discussion revolving around the latest news an
 
 ## Resources referenced during discussion
 
-* Documentation - [Overview of Microsoft Power Platform pro development 2021 release wave 1](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
-* Documentation - [Fusion development in Power Platform](https://docs.microsoft.com/power-platform/developer/fusion-development)
-* Video - [Listen to the WHY of the Power Platform with Charles Lamanna](https://docs.microsoft.com/shows/less-code-more-power/listen-to-the-why-of-the-power-platform-with-charles-lamanna)
+* Documentation - [Overview of Microsoft Power Platform pro development 2021 release wave 1](https://learn.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
+* Documentation - [Fusion development in Power Platform](https://learn.microsoft.com/power-platform/developer/fusion-development)
+* Video - [Listen to the WHY of the Power Platform with Charles Lamanna](https://learn.microsoft.com/shows/less-code-more-power/listen-to-the-why-of-the-power-platform-with-charles-lamanna)
 * Newsletter - [Power Platform Developers Weekly](https://www.ppdevweekly.com/)
 * Newsletter - [Power Platform Weekly](https://www.ppweekly.com/)
-* Documentation - [Rich pro developer tooling](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
+* Documentation - [Rich pro developer tooling](https://learn.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
 * Training - [FastTrack Recognized Solution Architects—Power Platform](https://powerplatform.microsoft.com/fasttrack/recognized-solution-architects/)
-* Documentation - [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
+* Documentation - [Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
 
 
 Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.

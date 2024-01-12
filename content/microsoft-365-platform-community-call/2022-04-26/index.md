@@ -22,7 +22,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article - [Updated preview of SharePoint Framework 1.15 – New release of the upcoming features](https://devblogs.microsoft.com/microsoft365dev/updated-preview-of-sharepoint-framework-1-15-new-release-of-the-upcoming-features/) | [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * Article - [Walkie Talkie in Microsoft Teams integrated with Kyocera 5G Rugged Smartphones](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/walkie-talkie-in-microsoft-teams-integrated-with-kyocera-5g/ba-p/3288641) | Christina Wu (Microsoft)
 * Article - [Delivering Professional Grade Broadcasts with New Microsoft Teams Integrations](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/delivering-professional-grade-broadcasts-with-new-microsoft/ba-p/3293454) | [Aaron Linne](https://twitter.com/linne) (Microsoft) | @linne
-* Teams paltform documentation update - [Create a Set up CI/CD pipelines sidepanel](https://docs.microsoft.com/microsoftteams/platform/sbs-meetings-sidepanel?tabs=vs)
+* Teams paltform documentation update - [Create a Set up CI/CD pipelines sidepanel](https://learn.microsoft.com/microsoftteams/platform/sbs-meetings-sidepanel?tabs=vs)
 * Microsoft 365 PnP Weekly – Episode 163 (April 26th) with Oslo, Norway based Principal Product Manager, [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @mikaelsvenson | [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-163/) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-163-mikael-svenson-microsoft/)
 * M365 Dev Podcast - Extensibility discussion with [Ed Averett](https://twitter.com/Ed_Averett) (April 20th) | @Ed_Averett |[podcast](https://www.m365devpodcast.com/e/extensibility-discussion-with-ed-averett/)
 
@@ -63,7 +63,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 * **Create an apps that extends across Teams, Outlook, and Office**
     * [VS Code Teams Toolkit](https://aka.ms/VSCodeTeamsToolkit)
-    * Documentation - [Microsoft Teams JavaScript client SDK v2 Preview](https://docs.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
+    * Documentation - [Microsoft Teams JavaScript client SDK v2 Preview](https://learn.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
 
 * **Easily fix errors in your SPFx projects with CLI for Microsoft 365**
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)

@@ -22,7 +22,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * On being recognized as a [GitHub Star](https://stars.github.com/).
 * Tips to young people considering a career in development.
 
-We also covered 2 events along with 17 articles/videos published by Microsoft and the PnP Community in the last week.  
+We also covered 2 events along with 17 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -31,14 +31,14 @@ We also covered 2 events along with 17 articles/videos published by Microsoft an
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, May 2, 2022. Enjoy the show.  
+This session was recorded on Monday, May 2, 2022. Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube h4pzXyF8cnc >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-euwht-1217b1b >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -48,7 +48,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Announcing General Availability (GA) for In-app notifications in Model-driven apps](https://powerapps.microsoft.com/blog/announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps/) - Adrian Orth (Microsoft)
 * [Meet the developers combining Power Platform and Azure to go faster](https://powerapps.microsoft.com/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/) - Sameer Bhangar (Microsoft)
-* [Set up CI/CD pipelines- Microsoft Teams Platform docs](https://docs.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template?referrer=whats.new.rssfeed) - Microsoft
+* [Set up CI/CD pipelines- Microsoft Teams Platform docs](https://learn.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template?referrer=whats.new.rssfeed) - Microsoft
 * [Power Apps String Interpolation How To](https://www.youtube.com/watch?v=33aiMrmelOI) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
 

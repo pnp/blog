@@ -13,7 +13,7 @@ type: "regular"
 
 This blog post will summarize how I did the brand new [Microsoft Graph
 Fundamentals Learning
-path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/).
+path](https://learn.microsoft.com/learn/paths/m365-msgraph-fundamentals/).
 Microsoft Graph Fundamentals consists of 3 modules:
 
 1.  What is Microsoft Graph - lets you understand the Graph services and
@@ -67,7 +67,7 @@ three tremendous advantages of it:
     with ready-to-use components and reduces the time you need to
     develop.
 
-### Intro 
+### Intro
 
 For this module, you will need to be a global admin in a Microsoft 365
 tenant. The easiest way to have this is to [join the Microsoft 365

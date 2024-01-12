@@ -59,7 +59,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 Thanks for your persistence! We're sorry you're blocked by this. Unfortunately, we can't add this to the roadmap at this time, but we'll continue to keep an eye on the request. Consider asking the [Office JS developer community](https://stackoverflow.com/questions/tagged/office-js) on Stack Overflow how others have addressed this issue.
 
-As a workaround you may want to explore continuing to use your COM add-in for full functionality while adding partial functionality in the web add-in for cross-platform support. For more information, we recommend exploring [Make your Office Add-in compatible with an existing COM add-in](https://docs.microsoft.com/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in).
+As a workaround you may want to explore continuing to use your COM add-in for full functionality while adding partial functionality in the web add-in for cross-platform support. For more information, we recommend exploring [Make your Office Add-in compatible with an existing COM add-in](https://learn.microsoft.com/office/dev/add-ins/develop/make-office-add-in-compatible-with-existing-com-add-in).
 
 **Open the Outlook mobile API to allow compose scenarios to insert attachments in emails. Currently, third-party cloud storage companies cannot integrate directly into Outlook mobile. With this API, we would be able to click a button and insert files from private cloud storage providers into emails.**
 
@@ -67,7 +67,7 @@ We'd like to know more about this scenario. Can you please create a feature requ
 
 **How can you communicate from a Word add-in to an Office JS task pane? For example, OnContentEnter, highlight one HTML control in the task pane.**
 
-We see this question was also [posted to the Q&A site](https://docs.microsoft.com/answers/questions/827167/how-to-call-office-js-function-hosted-in-taskpane.html). You should be able to use the [onSelectionChanged](https://docs.microsoft.com/javascript/api/word/word.contentcontrol?view=word-js-preview#word-word-contentcontrol-onselectionchanged-member) event. If not, can you please follow up with more information on the Q&A site? Thanks!
+We see this question was also [posted to the Q&A site](https://learn.microsoft.com/answers/questions/827167/how-to-call-office-js-function-hosted-in-taskpane.html). You should be able to use the [onSelectionChanged](https://learn.microsoft.com/javascript/api/word/word.contentcontrol?view=word-js-preview#word-word-contentcontrol-onselectionchanged-member) event. If not, can you please follow up with more information on the Q&A site? Thanks!
 
 **During the last call, one of my questions was is possible to programmatically let the compose window disappear after the user clicks a custom "Encrypt and Send" button, as the mail already is encrypted. Then send the email as a MIME payload via the send message Graph API. You suggested to use smart alerts to handle the send event. However, this is not ideal for our use case. The on-send event is triggered on each email, but we want the user to deliberately decide via the custom button if they want to encrypt the email or not. Also, encrypting "on the fly" via OnMessage events is not on option as not every mail should be encrypted. Also, it does not work well with our custom encryption protocol. Hence, a feature request could be to programmatically discard the current composed mail, and subsequently close the compose form.**
 
@@ -90,11 +90,11 @@ We are looking into some updates to the Visual Studio Office Add-in templates, b
 
 **Has the PowerPoint API 1.3 been officially released to all platforms?**
 
-The PowerPoint JavaScript API 1.3 requirement set is supported on Windows, Mac, and the web (but not iOS or mobile at this time.) See [PowerPoint JavaScript API requirement sets](https://docs.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-api-requirement-sets?view=powerpoint-js-preview) for complete details.
+The PowerPoint JavaScript API 1.3 requirement set is supported on Windows, Mac, and the web (but not iOS or mobile at this time.) See [PowerPoint JavaScript API requirement sets](https://learn.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-api-requirement-sets?view=powerpoint-js-preview) for complete details.
 
 **If the task pane is specified in the add in manifest.xml that is installed by an admin, it will always show in Excel files. Is there a way for Excel add-ins that are installed by an admin to appear for a user or group only when the Excel file is created by the SaaS application, and not for existing or new Excel files created by the user?**
 
-The **Show Taskpane** commands appear in all Excel workbooks once an add-in is deployed. To hide a custom tab, certain properties on the workbook must be present. See the [visible property](https://docs.microsoft.com/javascript/api/office/office.tab?view=common-js-preview#office-office-tab-visible-member) for more information.
+The **Show Taskpane** commands appear in all Excel workbooks once an add-in is deployed. To hide a custom tab, certain properties on the workbook must be present. See the [visible property](https://learn.microsoft.com/javascript/api/office/office.tab?view=common-js-preview#office-office-tab-visible-member) for more information.
 
 **The manifest validation service continues to fail for the Outlook add-in ItemSend event (see https://github.com/OfficeDev/Office-Addin-Scripts/issues/613). Our organization wants to use our build pipeline as we did in the past for admin deployed add-ins.**
 
@@ -102,7 +102,7 @@ Thanks for pinging us on this. It's possible that the PowerShell command is usin
 
 **Regarding Trident support, just for clarification, "support" could mean a friendly screen telling the user that Trident is not supported. Is that correct? "Not supporting" would mean some form of error and blank screen without any notification of what happens.**
 
-Supporting really implies that your add-in provides some functionality in Trident. We know that for some customers this is not required so the bare minimum we are asking is to "fail gracefully", which is basically the friendly screen you are referring to. We have some folks who only show a blank page, so that was not good and we used to reject on that situation. We have some guidance on how to fail gracefully at [Determine at runtime if the add-in is running in Internet Explorer](https://docs.microsoft.com/office/dev/add-ins/develop/support-ie-11#determine-at-runtime-if-the-add-in-is-running-in-internet-explorer)
+Supporting really implies that your add-in provides some functionality in Trident. We know that for some customers this is not required so the bare minimum we are asking is to "fail gracefully", which is basically the friendly screen you are referring to. We have some folks who only show a blank page, so that was not good and we used to reject on that situation. We have some guidance on how to fail gracefully at [Determine at runtime if the add-in is running in Internet Explorer](https://learn.microsoft.com/office/dev/add-ins/develop/support-ie-11#determine-at-runtime-if-the-add-in-is-running-in-internet-explorer)
 
 **Could AppSource submission provide a testing notes field with the submission that gets submitted with the app submission? Current testing notes always get lost between submissions! This might help get rid of the number one validation failures!**
 
@@ -114,7 +114,7 @@ This should not be the case; this could happen within 72 hours in the worst case
 
 **Regarding the add-in commands, there is noticeable lag between clicking a button and seeing the result. That lag does not exist when performing the exact same action from a task pane. Is there a reason for this, and a way around it?**
 
-When these commands are invoked, we start the runtime that is required to execute the action. This may result in the delay that you are experiencing. A work around is to use the shared runtime in your add-in. The shared runtime starts the same runtime as the task pane and it continues to run in the background even when the task pane is closed. This avoids having to start the runtime every time a ribbon button is invoked for an action. For more information, see [Configure your Office Add-in to use a shared JavaScript runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
+When these commands are invoked, we start the runtime that is required to execute the action. This may result in the delay that you are experiencing. A work around is to use the shared runtime in your add-in. The shared runtime starts the same runtime as the task pane and it continues to run in the background even when the task pane is closed. This avoids having to start the runtime every time a ribbon button is invoked for an action. For more information, see [Configure your Office Add-in to use a shared JavaScript runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
 
 **For Ribbon commands, is it ever going to be possible to have multiple add-ins appear in the same group?**
 
@@ -134,7 +134,7 @@ That is exactly what we're trying to determine. If we're going to ask customers 
 
 **Will Office.auth.getAccessToken ever return a Graph API compatible token?**
 
-We're investigating this. Ideally, we want to allow the same operations that we allow on Exchange Web Services (EWS). But there's a lot of complexity to solve to allow this. We'll let you know if we have updates. In the meantime, the recommended flow is that the server should get the Graph token using the [OAuth 2.0 On-Behalf-Of flow (OBO)](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
+We're investigating this. Ideally, we want to allow the same operations that we allow on Exchange Web Services (EWS). But there's a lot of complexity to solve to allow this. We'll let you know if we have updates. In the meantime, the recommended flow is that the server should get the Graph token using the [OAuth 2.0 On-Behalf-Of flow (OBO)](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
 
 **This might have come up before but since mobile add-ins only support the REST API, and REST is being decommissioned this year, any Outlook add-in on mobile that relies on REST API functionality with getAccessToken is going to break when REST API goes away right? There's no support for IdentityAPI 1.3 on mobile so no getAccessToken for Graph so no auth path it can take yeah?**
 
@@ -147,8 +147,8 @@ Yes, this should work. We do have customers who have implemented a service middl
 ## References
 
 * **AppSource Add-in Validation Improvements**
-    * Documentation – [Test your Office Add-in on Internet Explorer](https://docs.microsoft.com/office/dev/add-ins/testing/ie-11-testing)
-    * Documentation – [Microsoft AppSource submission FAQ](https://docs.microsoft.com/office/dev/store/appsource-submission-faq)
+    * Documentation – [Test your Office Add-in on Internet Explorer](https://learn.microsoft.com/office/dev/add-ins/testing/ie-11-testing)
+    * Documentation – [Microsoft AppSource submission FAQ](https://learn.microsoft.com/office/dev/store/appsource-submission-faq)
     * Article – [Announcing WebView2 for Office Add-ins Platform – Preview](https://devblogs.microsoft.com/microsoft365dev/announcing-webview2-for-office-add-ins-platform/)
 
 * **Blazor in Office Add-ins (Demo)**
@@ -159,7 +159,7 @@ Yes, this should work. We do have customers who have implemented a service middl
 * **Add-in command changes**
     * Article – [Announcing changes to Office Add-ins’ ExecuteFunction commands](https://devblogs.microsoft.com/microsoft365dev/announcing-changes-to-office-add-ins-executefunction-commands/)
     * Samples – [Office Add-in commands](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-add-in-commands)
-    * Documentation – [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://docs.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
+    * Documentation – [Create add-in commands in your manifest for Excel, PowerPoint, and Word](https://learn.microsoft.com/office/dev/add-ins/develop/create-addin-commands)
     * Issues – [Office Add-ins issues](https://github.com/OfficeDev/office-js/issues)
 
 * **Community ideas**
@@ -177,7 +177,7 @@ Yes, this should work. We do have customers who have implemented a service middl
 
 * **Office Add-ins feedback**
 
-    * Technical questions – Microsoft Q&A ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    * Technical questions – Microsoft Q&A ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
     * Issues – [GitHub](https://github.com/OfficeDev/office-js/issues)
     * Recommendations and suggestions – [Microsoft 365 Developer Platform ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 

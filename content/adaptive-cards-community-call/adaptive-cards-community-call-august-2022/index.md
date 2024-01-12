@@ -45,7 +45,7 @@ Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Co
 * **Tool**
     * Tool npm - [adaptivecards-reactnative](https://www.npmjs.com/package/adaptivecards-reactnative)
     * Repo - [BigThinkcode/AdaptiveCards](https://github.com/Bigthinkcode/AdaptiveCards/tree/main)
-    * Documentation - [ReactNative Renderer](https://docs.microsoft.com/adaptive-cards/sdk/rendering-cards/react-native/getting-started)
+    * Documentation - [ReactNative Renderer](https://learn.microsoft.com/adaptive-cards/sdk/rendering-cards/react-native/getting-started)
 * **Contributor**
     * Issues - [submit bugs](https://github.com/BigThinkcode/AdaptiveCards/issues/)
     * Review - [source code changes](https://github.com/BigThinkcode/AdaptiveCards/pulls)
@@ -57,7 +57,7 @@ Showcasing the use of the React Native Adaptive Cards SDK in a Microsoft Viva Co
 * **Viva Connections**
     * Video – [Demo of Viva Connections](https://www.microsoft.com/videoplayer/embed/RE4Ukqm?autoplay=true)
     * Website - [Microsoft Viva Connections](https://www.microsoft.com/microsoft-viva/connections)
-    * Documentation - [Overview of Viva Connections Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections)
+    * Documentation - [Overview of Viva Connections Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections)
     * Extensions - [Adaptive Card Extension Design Gallery](https://appsource.microsoft.com/product/office/WA200003929)
 
 ## Actions

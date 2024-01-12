@@ -160,14 +160,14 @@ slides.
     [microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) 
 
 -   Documentation - [Localizing the Microsoft Graph Toolkit
-    components](https://docs.microsoft.com/graph/toolkit/customize-components/localization) 
+    components](https://learn.microsoft.com/graph/toolkit/customize-components/localization) 
 
 -   Article - [Microsoft Graph .NET SDK v4 now generally available with
     streamlined authentication and
     more](https://developer.microsoft.com/microsoft-365/blogs/microsoft-graph-net-sdk-v4-now-generally-available-with-streamlined-authentication-and-more/) 
 
 -   Documentation - [Get change notifications delivered in different
-    ways](https://docs.microsoft.com/graph/change-notifications-delivery) 
+    ways](https://learn.microsoft.com/graph/change-notifications-delivery) 
 
 -   Community - [Microsoft Teams UI
     Kit](https://www.figma.com/community/file/916836509871353159) 
@@ -229,7 +229,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -275,4 +275,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 31st of August 2021*
-

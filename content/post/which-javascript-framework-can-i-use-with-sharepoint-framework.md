@@ -15,15 +15,15 @@ framework you should use? Here's my personal advice.
 ## Extend conversations and portals on Microsoft 365
 
 Using [SharePoint
-Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-16871-wmastyka)
+Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-16871-wmastyka)
 you can extend conversations and portals on Microsoft 365. With
 SharePoint Framework, you can build widgets, called [web
-parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts?WT.mc_id=m365-16871-wmastyka),
+parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts?WT.mc_id=m365-16871-wmastyka),
 which users can put on pages or open as tabs in Teams. You can also use
 SharePoint Framework to [add code to existing
-pages](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension?WT.mc_id=m365-16871-wmastyka)
+pages](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension?WT.mc_id=m365-16871-wmastyka)
 or [change how data in lists is
-displayed](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer?WT.mc_id=m365-16871-wmastyka).
+displayed](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer?WT.mc_id=m365-16871-wmastyka).
 
 If you have experience building web apps using JavaScript, you can build
 apps using SharePoint Framework. SharePoint Framework is based on open
@@ -38,7 +38,7 @@ But can you use any one of them when building apps with SharePoint
 Framework?
 
 
-### Use any JavaScript framework 
+### Use any JavaScript framework
 
 When building apps using SharePoint Framework, you can use any
 JavaScript framework. If you're comfortable working with Vue or

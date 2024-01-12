@@ -80,8 +80,8 @@ Thank you for taking the time to attend today’s call. Please keep the feedback
 ## Demo references
 
 * **Introduction to Records Management APIs on Microsoft Graph**
-    * Documentation – [Create retentionEvent](https://docs.microsoft.com/graph/api/security-retentionevent-post?view=graph-rest-beta)
-    * Documentation – [retentionLabel resource type](https://docs.microsoft.com/graph/api/resources/security-retentionlabel?view=graph-rest-beta)
+    * Documentation – [Create retentionEvent](https://learn.microsoft.com/graph/api/security-retentionevent-post?view=graph-rest-beta)
+    * Documentation – [retentionLabel resource type](https://learn.microsoft.com/graph/api/resources/security-retentionlabel?view=graph-rest-beta)
     * Documentation - [Use Postman with the Microsoft Graph API](https://learn.microsoft.com/graph/use-postman) \| aka.ms/GraphPostman
     * Licensing – [Microsoft Purview Data Lifecycle Management & Microsoft Purview Records Management](https://learn.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-purview-data-lifecycle-management--microsoft-purview-records-management) \| aka.ms/DLM/licensing
     * Documentation – [Permissions for retention policies and retention labels](https://learn.microsoft.com/microsoft-365/compliance/get-started-with-data-lifecycle-management#permissions-for-retention-policies-and-retention-labels)

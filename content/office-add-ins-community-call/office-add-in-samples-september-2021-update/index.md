@@ -14,7 +14,7 @@ type: "regular"
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-in samples.
 
-## Open data from your web site in a spreadsheet in Microsoft Teams 
+## Open data from your web site in a spreadsheet in Microsoft Teams
 
 ![DavidChesnut_0-1632174402426.png](images/DavidChesnut_0-1632174402426.png)
 
@@ -30,16 +30,16 @@ Check out the code sample: [Open data from your web site in a
 spreadsheet in Microsoft
 Teams.](https://github.com/officedev/pnp-officeaddins/tree/main/Samples/excel-open-in-teams)
 
-## Improvements to sample documentation 
+## Improvements to sample documentation
 
 We created a simple list of Office Add-in samples at [Office Add-in code
 samples - Office Add-ins | Microsoft
-Docs](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples).
+Docs](https://learn.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples).
 This should make it easier to search for and find the samples you need.
 Let us know if you have any feedback or suggestions about the samples at
 <https://github.com/OfficeDev/PnP-OfficeAddins>.
 
-## Contributors 
+## Contributors
 
 \
 Thank you to our contributors who are actively helping each month with
@@ -57,7 +57,7 @@ to <https://github.com/officedev/pnp-officeaddins> and helping with PRs,
 issues, or contributing [new
 samples](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-## Additional resources 
+## Additional resources
 
 -   Get started with Office development by joining the [Microsoft 365
     developer
@@ -66,6 +66,6 @@ samples](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3A
     downloading [Script
     Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 -   Automate your solutions with [Office
-    Scripts](https://docs.microsoft.com/office/dev/scripts/).
+    Scripts](https://learn.microsoft.com/office/dev/scripts/).
 
  

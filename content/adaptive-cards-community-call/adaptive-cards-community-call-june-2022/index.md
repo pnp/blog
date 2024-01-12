@@ -34,10 +34,10 @@ In this month’s community call the focus is on the newly released Teams Toolki
 
 *  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards**
     * Tenant – [Microsoft 365 Developer Tenant](https://developer.microsoft.com/microsoft-365/dev-program)
-    * Documentation - [Get started](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-overview?WT.mc_id=m365-66412-timura)
-    * Documentation - [Teams Toolkit Overview](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-66412-timura)
+    * Documentation - [Get started](https://learn.microsoft.com/microsoftteams/platform/get-started/get-started-overview?WT.mc_id=m365-66412-timura)
+    * Documentation - [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-66412-timura)
     * Article - [Microsoft Teams Toolkit for Visual Studio Code now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-toolkit-for-visual-studio-code-now-generally-available/)
-    * Documentation - [Build your first tab app using JavaScript](https://docs.microsoft.com/microsoftteams/platform/sbs-gs-javascript?tabs=vscode%2Cvsc%2Cviscode&%3FWT.mc_id=m365-55688-timura) \| aka.ms/TeamsAppJS
+    * Documentation - [Build your first tab app using JavaScript](https://learn.microsoft.com/microsoftteams/platform/sbs-gs-javascript?tabs=vscode%2Cvsc%2Cviscode&%3FWT.mc_id=m365-55688-timura) \| aka.ms/TeamsAppJS
     * Twitter - [Tomomi Imura](http://twitter.com/girlie_mac) \| @girlie_mac
 
 ## Other references

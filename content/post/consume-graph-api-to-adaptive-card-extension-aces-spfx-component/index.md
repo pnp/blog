@@ -34,7 +34,7 @@ connection dashboard.
 2.  Gulp v4
 3.  Yeoman v3
 4.  [Set up SPFx Development
-    Environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
+    Environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 Install latest beta release using below code
  
 ```bash

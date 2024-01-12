@@ -133,11 +133,11 @@ Additional resources on covered topics and discussions.
     | aka.ms/SharePointSyntex/roadmap
 
 -   Documentation - [Introduction to Microsoft SharePoint
-    Syntex](https://docs.microsoft.com/microsoft-365/contentunderstanding/)
+    Syntex](https://learn.microsoft.com/microsoft-365/contentunderstanding/)
      | aka.ms/SharePointSyntex/documentation
 
 -   Documentation -- [Scenario:  Manage contracts using a Microsoft 365
-    solution](https://docs.microsoft.com/microsoft-365/contentunderstanding/solution-manage-contracts-in-microsoft-365) 
+    solution](https://learn.microsoft.com/microsoft-365/contentunderstanding/solution-manage-contracts-in-microsoft-365) 
 
 -   SDK - [Working with SharePoint
     Syntex](https://pnp.github.io/pnpcore/using-the-sdk/syntex-intro.html) 
@@ -181,12 +181,12 @@ Additional resources on covered topics and discussions.
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/sharepoint/) -
+    Guidance](https://learn.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
     v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter

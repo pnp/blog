@@ -93,12 +93,12 @@ call.
     * Sample - [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs)
     * Article - [Community Sample: React FAQs webpart](https://pnp.github.io/blog/post/community-sample-faqs-with-propertyfieldcollectiondata/)
 * **Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions**
-    * Documentation – [Build Microsoft Teams tab using SharePoint Framework – Tutorial](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
-    * Documentation - [Isolated web parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts)
+    * Documentation – [Build Microsoft Teams tab using SharePoint Framework – Tutorial](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
+    * Documentation - [Isolated web parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts)
     * npm Tools - [@fluentui/react-theme-provider](https://www.npmjs.com/package/@fluentui/react-theme-provider)
 * **Getting started on building custom list form components with SPFx v1.15**
-    * Documentation - [SharePoint Framework v1.15 preview release notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.15)
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [SharePoint Framework v1.15 preview release notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.15)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
     * Control - [Dynamic Form](https://pnp.github.io/sp-dev-fx-controls-react/controls/DynamicForm/)
 
 Thank you for your great work. Samples are often showcased in Demos.
@@ -139,7 +139,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.15 GA in June 2022, v1.16 Beta
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -158,7 +158,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.15 GA in June 2022, v1.16 Beta
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

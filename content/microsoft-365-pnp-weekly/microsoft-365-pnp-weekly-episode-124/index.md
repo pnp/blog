@@ -149,7 +149,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Additional resources
 
 -   [Maturity Model for Microsoft
-    365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
+    365](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Microsoft 365 Community Survey](https://aka.ms/m365pnp/survey) -
     Open for April 2021 - please let us know how we can help to help
     you!

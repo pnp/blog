@@ -99,7 +99,7 @@ Get used to it and embrace failure as THE way of learning.
 
 Usually I have an idea in my mind, what I want my app to do. Then I
 start to google, if this is even possible, I'll find the right function
-and read on [Microsoft Docs](https://docs.microsoft.com/) how this
+and read on [Microsoft Docs](https://learn.microsoft.com/) how this
 works. I try it out. Doesn't' work? Back to Microsoft Docs. Are all the
 circumstances okay? Did you use the same data source as MS docs
 describes it? Try it out again. Still not working? Back to reading MS

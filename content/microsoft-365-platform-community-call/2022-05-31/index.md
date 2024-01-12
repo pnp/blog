@@ -33,12 +33,12 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [Announcing the public preview of Virtual Appointment Graph API](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-the-public-preview-of-virtual-appointment-graph-api/ba-p/3408285) - Evan Westenberger
 * Article – [Inside Microsoft Teams Season 5 Episode 2- “Simplifying productivity with Kent State University"](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/inside-microsoft-teams-season-5-episode-2-simplifying/ba-p/3423360)- Stephen Rose
 * Article – [What’s New in Microsoft Teams \| May 2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2022/ba-p/3440546) – Teams team
-* Teams Demo – [Live Share SDK](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-live-share-overview) – aka/ms/teams/liveshare
-* Teams Platform Documentation - [What's new for developers in Microsoft Teams](https://docs.microsoft.com/microsoftteams/platform/whats-new)
-* Teams Platform Documentation - [Extend Teams apps across Microsoft 365](https://docs.microsoft.com/microsoftteams/platform/m365-apps/overview)
-* Teams Platform Documentation – [Building tabs and other hosted experiences with the Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?tabs=javascript%2Cmanifest-teams-toolkit)
-* Teams Platform Documentation – [Teams Toolkit Overview](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)
-* Teams Platform Documentation – [Reference: Manifest schema for Microsoft Teams](https://docs.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema)
+* Teams Demo – [Live Share SDK](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-live-share-overview) – aka/ms/teams/liveshare
+* Teams Platform Documentation - [What's new for developers in Microsoft Teams](https://learn.microsoft.com/microsoftteams/platform/whats-new)
+* Teams Platform Documentation - [Extend Teams apps across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/overview)
+* Teams Platform Documentation – [Building tabs and other hosted experiences with the Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?tabs=javascript%2Cmanifest-teams-toolkit)
+* Teams Platform Documentation – [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)
+* Teams Platform Documentation – [Reference: Manifest schema for Microsoft Teams](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema)
 * Microsoft 365 PnP Weekly – Episode 168 (May 30th) with Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/) \| [podcast](https://www.podbean.com/media/share/pb-yvgjv-123b062)
 
 ### Demos

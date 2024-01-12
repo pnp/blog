@@ -22,9 +22,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [What’s New in Microsoft Teams \| April
     2022](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2022/ba-p/3297881)
 * Documentation - Teams feature update – [Set up CI/CD
-    pipelines](https://docs.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template)
+    pipelines](https://learn.microsoft.com/microsoftteams/platform/toolkit/use-cicd-template)
 * Documentation - Step-by-step guide updates – [Microsoft Teams Developer
-    Documentation](https://docs.microsoft.com/microsoftteams/platform/mstdd-landing)
+    Documentation](https://learn.microsoft.com/microsoftteams/platform/mstdd-landing)
 * Microsoft 365 PnP Weekly – Episode 164 (May 2nd) with Belgium based
     Consultant, Office Development MVP [Elio
     Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf
@@ -119,7 +119,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
         (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
         \| aka.ms/VSTeamsToolkit
     * Documentation - [Microsoft Teams JavaScript client SDK v2
-        Preview](https://docs.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
+        Preview](https://learn.microsoft.com/microsoftteams/platform/m365-apps/using-teams-client-sdk-preview?tabs=manifest-teams-toolkit%2Cjavascript)
         \| aka.ms/TeamsJSSDK
     * Demo - [Extending Teams apps to Outlook and
         Office.com](https://youtu.be/JckgmonMbCM?t=1776) – [Saurabh
@@ -136,15 +136,15 @@ Thank you for your creativity and work execution. Samples are often showcased in
     * Automate button – [New workbook -Excel](https://excel.new/)
     * Program - [Join the Microsoft 365 Developer Program
         today!](https://developer.microsoft.com/microsoft-365/dev-program)
-    * Scenario - [Office Scripts sample scenario: Punch clock button](https://docs.microsoft.com/office/dev/scripts/resources/scenarios/punch-clock)
-    * Documentation - [Office Scripts samples and scenarios](https://docs.microsoft.com/office/dev/scripts/resources/samples/samples-overview) \| aka.ms/sample-scripts
+    * Scenario - [Office Scripts sample scenario: Punch clock button](https://learn.microsoft.com/office/dev/scripts/resources/scenarios/punch-clock)
+    * Documentation - [Office Scripts samples and scenarios](https://learn.microsoft.com/office/dev/scripts/resources/samples/samples-overview) \| aka.ms/sample-scripts
     * Feedback - [Office Scripts @ M365 Developer
     Call](https://forms.office.com/r/0vP20FRKCN)
     * Resources - [Office Scripts
         Portal](https://developer.microsoft.com/office-scripts) \|
         aka.ms/office-scripts
     * Documentation - [Sample
-        Scripts](https://docs.microsoft.com/office/dev/scripts/resources/samples/excel-samples)
+        Scripts](https://learn.microsoft.com/office/dev/scripts/resources/samples/excel-samples)
         \| aka.ms/officesamplescripts
     * Program - [Office Scripts
         Makers](https://ux.microsoft.com/Panel/OfficeScriptsTrade?utm_campaign=tradesperson&utm_source=adhoc&utm_medium=presentation)

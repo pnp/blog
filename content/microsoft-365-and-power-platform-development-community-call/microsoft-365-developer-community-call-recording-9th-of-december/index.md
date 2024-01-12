@@ -220,10 +220,10 @@ slides.
 -   **D1: ** User Group - [SCMENA Power Platform User
     Group](https://powerusers.microsoft.com/t5/Subcontinent-MENA-Power-Platform/gh-p/pp_Subcontinent_usergroups) 
 -   **D2:** Documentation - [Microsoft 365 Learning Pathways Content
-    Updates](https://docs.microsoft.com/office365/customlearning/custom_contentupdates#december-2021-content-updates)
+    Updates](https://learn.microsoft.com/office365/customlearning/custom_contentupdates#december-2021-content-updates)
     (December update) 
 -   **D2:**Documentation - [Microsoft 365 learning
-    pathways](https://docs.microsoft.com/office365/customlearning/) 
+    pathways](https://learn.microsoft.com/office365/customlearning/) 
 -   **D2:**Look book -- [SharePoint look
     book](https://lookbook.microsoft.com/) 
 -   **D2:**Repo -- [Microsoft 365 learning
@@ -231,7 +231,7 @@ slides.
 -   **D3:  **Repo - [Elf Progress
     Board](https://github.com/pnp/List-Formatting/tree/master/view-samples/elf-progress-board) 
 -   **D3:** Documentation - [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa)
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa)
     | aka.ms/spdocs-column-formatting
 -   **PnP Weekly -- Episode 146** (December 6th) with Reykjavik,
     Iceland-based Consultant and MVP, [Derek
@@ -304,7 +304,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -328,7 +328,7 @@ slides.
     | <https://aka.ms/officeaddinscall>
 -   **Adaptive Cards monthly call** --January 13th[at 9:00 am PST
     | ]<https://aka.ms/adaptivecardscommunitycall>
-    
+
 General Microsoft 365 Dev Special Interest Group bi-weekly calls are
 targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft

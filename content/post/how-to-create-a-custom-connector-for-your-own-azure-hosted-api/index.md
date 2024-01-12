@@ -5,7 +5,7 @@ date: 2022-02-27T02:07:00-05:00
 author: "Luise Freese"
 githubname: "LuiseFreese"
 categories: ["Community post"]
-images: 
+images:
 - images/diagram.png
 tags: ["Azure", "Power Automate", "Power Apps"]
 type: "regular"
@@ -52,7 +52,7 @@ You can also see now, that you have a `package-lock.json` file - you may want 
 We will now go ahead, open our `index.js` file and first create the listener:
 
 ```typescript
-const PORT = process.env.PORT || 8000 
+const PORT = process.env.PORT || 8000
 
 const axios = require('axios')
 const cheerio = require('cheerio')
@@ -156,7 +156,7 @@ app.get('/news/:newspaperId', (req, res) => {
     const newspaperAddress = newspapers.filter(newspaper => newspaper.name == newspaperId)[0].address
     const newspaperBase = newspapers.filter(newspaper => newspaper.name == newspaperId)[0].base
 
-    
+
     axios.get(newspaperAddress)
         .then(response => {
             const pageHTML= response.data
@@ -175,7 +175,7 @@ app.get('/news/:newspaperId', (req, res) => {
             res.json(specificArticles)
         }).catch(err => console.log(err))
 })
-```   
+```
 
 You can now test this with `localhost:8000/news/bbc` or `localhost:8000/news/nyt`
 
@@ -192,7 +192,7 @@ so that you later on don’t commit the node modules.
 Cool, we made a service work on our machine, but more people could benefit if we deployed this API now to Azure. The service we will be using here is an Azure Web app. As I am a Windows person, I’d like to try more things on Linux, so we will be creating a Linux app :nerd\_face:
 
 1.  Open VS Code or the terminal of your choice
-2.  make sure you have [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli) installed
+2.  make sure you have [Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli) installed
 3.  Create a new web app with the following command: `az webapp up --sku F1 --name <mywebapp42> --location <location-name>`
 
 please note:
@@ -208,7 +208,7 @@ In the output, you will see something like:
     Starting zip deployment. This operation can take a while to complete ...
     Deployment endpoint responded with status code 202
     You can launch the app at http://<mywebapp42>.azurewebsites.net
-    
+
 
 Select that link! In case you didn’t delete the root endpoint, you should now see the greeting ❤ Test your other endpoints as well! Also go to the [Azure portal](https://portal.azure.com/) and check the resources that have been created for you.
 
@@ -274,13 +274,13 @@ You can wrap ANY API into a custom connector for Power Platform - even the ones 
 
 ## Resources
 
-Some helpful resources:   
-  
-[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://docs.microsoft.com/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
+Some helpful resources: 
+
+[Quickstart: Create a Node.js web app - Azure App Service | Microsoft Docs](https://learn.microsoft.com/azure/app-service/quickstart-nodejs?pivots=development-environment-cli&tabs=linux)
 
 [How to Scrape Websites with Node.js and Cheerio (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/)
 
-[Create a custom connector from scratch | Microsoft Docs](https://docs.microsoft.com/connectors/custom-connectors/define-blank)
+[Create a custom connector from scratch | Microsoft Docs](https://learn.microsoft.com/connectors/custom-connectors/define-blank)
 
 [How to use a custom connector in Power Automate (m365princess.com)](https://www.m365princess.com/blogs/2021-02-23-how-to-use-a-custom-connector-in-power-automate/)
 

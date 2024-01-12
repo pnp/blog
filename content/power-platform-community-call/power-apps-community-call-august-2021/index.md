@@ -78,7 +78,7 @@ August 18, 2021.  Thank for attending the call or viewing it on demand. 
 ## Recent News & Cool Stuff
 
 -   Microsoft Power Platform: 2021 release wave 2 plan -
-    <https://docs.microsoft.com/power-platform-release-plan/2021wave2/>
+    <https://learn.microsoft.com/power-platform-release-plan/2021wave2/>
 -   Announcing public preview of Custom Pages for converging
     model-driven apps and canvas apps - [Announcing public preview of
     Custom Pages for converging model-driven apps and canvas apps |

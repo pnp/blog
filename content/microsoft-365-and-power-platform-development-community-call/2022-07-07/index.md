@@ -101,7 +101,7 @@ call.
 ## Demo references
 
 * **Building Publishing Connectors for MailJet product**
-  * Connector - [MailJet (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/mailjetip/)
+  * Connector - [MailJet (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/mailjetip/)
   * Repo – [MailJet](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/MailJet)
   * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
 * **Microsoft Graph “Sites.Selected” permissions within SharePoint Online**
@@ -111,7 +111,7 @@ call.
 * **Introduction to available open-source list formatting samples from updated list formatting sample portal**
   * Repo - [Community-tooling](https://github.com/pnp/Community-Tooling)
   * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
-  * Documentation – [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) \| aka.ms/spdev-column-formatting
+  * Documentation – [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) \| aka.ms/spdev-column-formatting
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 
@@ -122,7 +122,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

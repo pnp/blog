@@ -43,16 +43,16 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded August 18, 2022
 * Demo - [Using MSAL.js to integrate React Single-page applications with Azure Active Directory – July 2022](https://youtu.be/7oPSL5wWeS0)
 * Repo - [Msal Angular Demo](https://github.com/derisen/msal-angular-demo)
 * Tutorial - [Tutorial: Enable your Angular single-page application to sign-in users and call APIs with the Microsoft identity platform](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/blob/main/README.md) \| aka.ms/msalangulartutorial
-* Samples - [Microsoft identity platform code samples](https://docs.microsoft.com/azure/active-directory/develop/sample-v2-code) \| aka.ms/aadcodesamples
+* Samples - [Microsoft identity platform code samples](https://learn.microsoft.com/azure/active-directory/develop/sample-v2-code) \| aka.ms/aadcodesamples
 * Documentation - [OWASP Cross Site Scripting (XSS) Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 * CAE Code sample - [Angular single-page application using MSAL Angular to sign-in users with Azure Active Directory and call the Microsoft Graph API](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/tree/main/2-Authorization-I/1-call-graph)
 * Library - [Microsoft Authentication Library for JavaScript (MSAL.js)](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 * Documentation – [MSAL Browser docs](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-browser/docs)
 * Documentation - [Microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular/docs)
 * Testing samples - [MSAL Angular v2 Samples](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/samples/msal-angular-v2-samples)
-* Documentation - [Microsoft identity platform and OAuth 2.0 authorization code flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
-* Documentation - [Single sign-on with MSAL.js](https://docs.microsoft.com/azure/active-directory/develop/msal-js-sso)
-* Documentation - [Continuous access evaluation](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
+* Documentation - [Microsoft identity platform and OAuth 2.0 authorization code flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
+* Documentation - [Single sign-on with MSAL.js](https://learn.microsoft.com/azure/active-directory/develop/msal-js-sso)
+* Documentation - [Continuous access evaluation](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
 * Documentation – [Using MSAL in iframed apps](https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/iframe-usage.md)
 * Documentation – [Angular single-page application using MSAL Angular to sign-in users against Azure AD B2C](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/blob/main/1-Authentication/2-sign-in-b2c/README-incremental.md)
 
@@ -67,14 +67,14 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded August 18, 2022
 * Get started with [free training modules](https://aka.ms/m365/dev/learn)
     covering Microsoft 365 platform capabilities including Learning Path -
     [Implement Microsoft identity –
-    Associate](https://docs.microsoft.com/en-us/learn/paths/m365-identity-associate/)
+    Associate](https://learn.microsoft.com/en-us/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on September 15th at 9:00am PT. Download the
     recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 

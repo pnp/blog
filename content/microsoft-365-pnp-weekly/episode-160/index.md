@@ -28,25 +28,25 @@ In this installment of the weekly discussion revolving around the latest news an
 *   Advice for others wanting to do what I do.
 *   What is it like to participate in an MVP Summit?
 *   3 tips for anybody wanting to start contributing to this community?
-*   From a Teams connections perspective, how might we look at the future of meetings/travel? 
+*   From a Teams connections perspective, how might we look at the future of meetings/travel?
 
-We also covered 17 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 17 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
-*   **Waldek** – processing PRs for CLI for Microsoft 365, catching up with MVP Summit recordings and learnings that will influence announcements at [Microsoft Build](https://mybuild.microsoft.com/) – May 24–26, 2022, and previewing with a small target group concepts for improving the experience for Angular Devs wanting to build Teams tabs with SSO.   If you use Angular and build for Teams, please contact Waldek, to show you what we have built and subsequently provide your feedback. 
+*   **Waldek** – processing PRs for CLI for Microsoft 365, catching up with MVP Summit recordings and learnings that will influence announcements at [Microsoft Build](https://mybuild.microsoft.com/) – May 24–26, 2022, and previewing with a small target group concepts for improving the experience for Angular Devs wanting to build Teams tabs with SSO.   If you use Angular and build for Teams, please contact Waldek, to show you what we have built and subsequently provide your feedback.
 *   **Vesa** – catch up after MVP Summit week and preparing this week’s release of SPFx v1.15 beta with List extensibility (custom forms for creating, viewing and editing an item) capability.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, April 4, 2022.   Enjoy the show.  
+This session was recorded on Monday, April 4, 2022.   Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube Knw9k_sV1qI >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-qvxfm-11ee478 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -120,9 +120,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Additional resources
 
 *   Documentation [PnPjs v2 - v3 Transition Guide](https://pnp.github.io/pnpjs/transition-guide/)
-*   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+*   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 *   Microsoft 365 Maturity Model on Twitter @[M365Maturity](https://twitter.com/M365Maturity)
-*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples) 
+*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
 *   [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 *   Want to ask a question or in general engage with the community - Add a note in the Microsoft 365 PnP Community hub at [https://aka.ms/m365pnp/community](https://aka.ms/m365pnp/community)
 *   Check out all the great community calls, SDKs, and tooling for Microsoft 365 from [https://aka.ms/m365pnp](https://aka.ms/m365pnp)
@@ -130,4 +130,4 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
-_"Sharing is caring!"_ 
+_"Sharing is caring!"_

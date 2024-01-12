@@ -168,17 +168,17 @@ slides.
     reminder](http://github.com/officedev/microsoft-teams-samples) 
 
 -   **D2:** Documentation -- [Send Proactive
-    Messages](https://docs.microsoft.com/microsoftteams/platform/sbs-send-proactive) 
+    Messages](https://learn.microsoft.com/microsoftteams/platform/sbs-send-proactive) 
 
 -   **D2:** Documentation -- [Proactive
-    Messages](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet) 
+    Messages](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet) 
 
 -   **D2:** Feedback -- [Teams
     Feedback](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/preview-of-feedback-for-microsoft-teams-now-available/ba-p/2896845)
     | aka.ms/TeamsPlatformFeedback
 
 -   **D3:** Documentation - [People component in the Microsoft Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/components/people) 
+    Toolkit](https://learn.microsoft.com/graph/toolkit/components/people) 
 
 -   **D3:** Playgound --
     [People](https://mgt.dev/?path=/story/components-mgt-people–people)
@@ -190,7 +190,7 @@ slides.
 
 -   **D3:** Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
+    Graph](https://learn.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D3:** Learn - [Develop apps with the Microsoft Graph
@@ -268,7 +268,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -307,7 +307,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
@@ -321,4 +321,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 12th of January 2022*
-

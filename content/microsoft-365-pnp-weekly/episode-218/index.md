@@ -22,18 +22,18 @@ In this episode of the weekly discussion revolving around the latest news and to
 - The need for a provisioning solution on Microsoft 365
 - The challenges and opportunities of working as a consultant in the Microsoft 365 ecosystem
 - The PnP modern search project
- 
+
 ## Referenced during conversation
 
 - [PnP provisioning engine](https://learn.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning)
-- [PnP PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps&WT.mc_id=m365-12936-cxa)
+- [PnP PowerShell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps&WT.mc_id=m365-12936-cxa)
 - [Microsoft 365 & Power Platform community](https://aka.ms/m365/community)
 - [PnP modern search](https://microsoft-search.github.io/pnp-modern-search/)
 - [Microsoft 365 Developer Proxy](https://aka.ms/m365/proxy)
 - [SPFx v1.18](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-18-with-updates-for-microsoft-teams-microsoft-viva-and-sharepoint/)
 - [Viva Connections](https://learn.microsoft.com/en-us/viva/connections/viva-connections-overview)
 
-There were 17 articles or videos covered within this episode produced by Microsoft and community members.  
+There were 17 articles or videos covered within this episode produced by Microsoft and community members.
 
 ## This week
 
@@ -59,10 +59,10 @@ This session was recorded on Monday 4th of September and released on 5th of Sept
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 8C7hWf8_qvE >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-5x85w-14ac31c >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -116,4 +116,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

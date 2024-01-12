@@ -32,11 +32,11 @@ throughout the call.
 ### New this month
 
 * [Microsoft Power Platform: 2022 release wave 1
-    plan](https://docs.microsoft.com/power-platform-release-plan/2022wave1/) -
+    plan](https://learn.microsoft.com/power-platform-release-plan/2022wave1/) -
     features in latest release - [New Undo
-    Button](https://docs.microsoft.com/power-platform-release-plan/2022wave1/power-automate/undo-feature-cloud-designer)
+    Button](https://learn.microsoft.com/power-platform-release-plan/2022wave1/power-automate/undo-feature-cloud-designer)
     and [OData Editor
-    Improvements](https://docs.microsoft.com/power-platform-release-plan/2022wave1/power-automate/odata-editor-improvements-cloud-flows)
+    Improvements](https://learn.microsoft.com/power-platform-release-plan/2022wave1/power-automate/odata-editor-improvements-cloud-flows)
 * [Announcing Public Preview of a new Power Apps application on
     Windows](https://powerapps.microsoft.com/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/)
     \- run your Power Apps offline on the desktop, supports native device
@@ -140,7 +140,7 @@ throughout the call.
     * PnP Power Platform Samples - <https://www.aka.ms/powerplatform-samples>
 * **Introduction to Power Apps Portals**
     * Learning Path - [Get Started with Power Apps
-        portals](https://docs.microsoft.com/learn/paths/get-started-power-apps-portals/)
+        portals](https://learn.microsoft.com/learn/paths/get-started-power-apps-portals/)
 
 Request to present a demo during this call - aka.ms/PPCCDemoRequest
 

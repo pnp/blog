@@ -23,7 +23,7 @@ a shopping list or a project or anything that can be split down into
 individual tasks.
 
 With the [release of the To Do APIs in Microsoft
-Graph](https://docs.microsoft.com/en-gb/graph/todo-concept-overview), it
+Graph](https://learn.microsoft.com/en-gb/graph/todo-concept-overview), it
 is now possible to integrate with your To Do tasks outside of To Do.
 
 
@@ -47,7 +47,7 @@ will undertake the following:
     [Microsoft Graph
     Explorer](https://developer.microsoft.com/graph/graph-explorer)
 -   Register an [Azure Active Directory
-    app](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)
+    app](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app)
 -   Create a Power Automate Custom Connector to interface with the
     Microsoft Graph To Do APIs
 -   Create a Power Automate Flow to automate sending tasks to Microsoft
@@ -79,7 +79,7 @@ with *{taskListId}* being replaced with the *id* in the response.
 
 > If the task lists response contains multiple task lists, don't worry,
 > just choose the list with the name *Tasks*
-> 
+>
 Based on my response above, my query would be
 *[https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1N\...](https://graph.microsoft.com/v1.0/me/todo/lists/AQMkAGYxYjhlNDIxLTRlN2YtNGMwNi1hYzg2LTJmMzVkMDYxYzQ1NQAALgAAA_Q4rkw0lJdNrFQfLSNpWB8BAA_o0Quzv4FCs60F7sB5NAAAAwESAAAA/tasks)*
 
@@ -98,7 +98,7 @@ need to grant an Azure AD application permission to access it.
 > This app registration can be used for more than one user, should you
 > wish for multiple users to use this solution, the same registration
 > can be used for each Power Automate Flow
-> 
+>
 ### Registration
 
 First, go to **Azure Active Directory** in the [Azure
@@ -154,7 +154,7 @@ You should now see *Tasks.Read* under **Configured permissions**.
 
 > Tasks.Read is one of many different API permissions in Graph.
 > Helpfully, there is a full breakdown of the different [Microsoft Graph
-> Permissions](https://docs.microsoft.com/graph/permissions-reference)
+> Permissions](https://learn.microsoft.com/graph/permissions-reference)
 ![AADApp9.png](images/AADApp9.png)
 That is all we need to do here for now, but there is one final step to
 be done, later on, so leave the page open in your browser.
@@ -273,7 +273,7 @@ Next, you need to sign in to your account to get your tasks.
 
 > As mentioned earlier, this can be used in multiple flows, allowing a
 > whole team to use the connector to get their own tasks
-> 
+>
 ![PA11.png](images/PA11.png)
 
 During the sign-in process, you will need to consent the app to read
@@ -374,8 +374,8 @@ we do something with it. Add another **Apply to each** and like the
 previous loop, select *value* output from **Parse JSON**.
 
 ![PA24.png](images/PA24.png)
-             
-             
+
+
 Within this **Apply to each** step, **Add an action** and choose
 **Condition**. A **Condition** is a way to verifying a value is what we
 want/don't want. In our scenario, we are looping through tasks and
@@ -384,7 +384,7 @@ this set the first value as *selectedOption* under **Post a choice\...**
 and the second value is *title* under **Parse JSON**.
 
 ![PA25.png](images/PA25.png)
-  
+
 We now need to act upon when the condition is met (the task equals the
 chosen option in Teams). Under **If yes**, add **Post message as the
 Flow bot to a user**. Complete it as follows:

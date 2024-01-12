@@ -15,11 +15,11 @@ The following topics are covered in this month's community call: 
 - **Microsoft Search and Adaptive Cards** (Intelligent search for the
 modern workplace, architecture, Microsoft Graph connectors, rendering
 using Adaptive Cards, and Search Layout Designer) - Jyoti Pal
-(Microsoft), 
+(Microsoft),
 - **A closer look at v1.5 SDK** (3 features included in v1.5
 preview are Table element; Input.ChoiceSet search, filtering, and auto
 complete; and ActionSet Overflow due out end of September - J.P. Roca
-(Microsoft) and finally 
+(Microsoft) and finally
 - **Q&A** -- members of the Developer team and PM
 team fielded questions on a host of topics for 8 minutes.
 - This call
@@ -41,11 +41,11 @@ was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) |
 -   Website - [Microsoft 365 roadmap (Microsoft
     Search)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=81952)
 -   Documentation - [Dynamics 365 federation search
-    (preview)](https://docs.microsoft.com/microsoftsearch/manage-dynamics365) 
+    (preview)](https://learn.microsoft.com/microsoftsearch/manage-dynamics365) 
 -   Documentation - [Adaptive Cards
-    Templating](https://docs.microsoft.com/adaptive-cards/templating/) 
+    Templating](https://learn.microsoft.com/adaptive-cards/templating/) 
 -   Documentation -- [Adaptive Cards
-    Partners](https://docs.microsoft.com/adaptive-cards/resources/partners) 
+    Partners](https://learn.microsoft.com/adaptive-cards/resources/partners) 
 
 
 ## Resources in General

@@ -119,7 +119,7 @@ So that we could help you further, please [open an issue on GitHub](https://gith
 ## General Resources
 
 * [Documentation](https://aka.ms/office-add-ins-docs)
-* Quick Starts: [Outlook](https://docs.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart), [Excel](https://docs.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery), [Word](https://docs.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart), and [PowerPoint](https://docs.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
+* Quick Starts: [Outlook](https://learn.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart), [Excel](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery), [Word](https://learn.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart), and [PowerPoint](https://learn.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
 * [Script Lab](https://aka.ms/getscriptlab)
 * [Samples](https://aka.ms/officeaddinsamples)
 * [Microsoft 365 Developer Program](https://aka.ms/M365devprogram)

@@ -95,11 +95,11 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
     * Videos - [Kristine Kolodziejski](https://www.youtube.com/c/KristineKolodziejski/videos) (channel)
     * Sample - [Doughnut Chart](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-doughnut-chart)
 * **Using Mockaroo Independent Publisher Connectors to automatically generate sample data**
-    * Connector - [Mockaroo (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/mockarooip/)
+    * Connector - [Mockaroo (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/mockarooip/)
     * Repo – [Mockaroo](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Mockaroo)
     * Article - [Power Fx: Introducing ParseJSON](https://powerapps.microsoft.com/blog/power-fx-introducing-parsejson/)
     * Data mocking library – [mockaroo.com](https://www.mockaroo.com/)
-    * Documentation - [Independent publisher certification process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)
+    * Documentation - [Independent publisher certification process](https://learn.microsoft.com/connectors/custom-connectors/certification-submission-ip)
     * Video - [Independent Publisher connectors step by step](https://www.youtube.com/watch?v=wGFWZqsxIBQ) - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \| @TomaszPoszytek
     * Video - [Power Platform Connectors (Visual Studio Code Extension)](https://www.youtube.com/watch?v=IyZ1jD_XPas&list=PLWGhKdEl5HpqPW49b2HlApEobW6MF2rD7&index=13) - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskwitz
     * Session - [Build and Submit an Independent Publisher Connector in Under 60 Minutes](https://powerplatformconf.com/#!/session/Build%20and%20Submit%20an%20Independent%20Publisher%20Connector%20in%20Under%2060%20Minutes/5434) – [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \| @troystaylor
@@ -113,7 +113,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

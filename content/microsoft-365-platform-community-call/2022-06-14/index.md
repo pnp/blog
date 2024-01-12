@@ -30,7 +30,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [Updated integrations with Confluence and Zendesk now available in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/updated-integrations-with-confluence-and-zendesk-now-available/ba-p/3474204) \| Microsoft
 * Article – [Crafting a new hybrid meeting room experience at Microsoft with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/crafting-a-new-hybrid-meeting-room-experience-at-microsoft-with/ba-p/3478711) \| Lukas Velush (Microsoft)
 * Article – [Expanding background noise suppression across platforms and scenarios](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/expanding-background-noise-suppression-across-platforms-and/ba-p/3300366) \| Mehrsa Golestaneh (Microsoft)
-* Documentation - [Conversation events in your Teams bot](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/subscribe-to-conversation-events?tabs=dotnet) \| Teams Platform Update
+* Documentation - [Conversation events in your Teams bot](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/subscribe-to-conversation-events?tabs=dotnet) \| Teams Platform Update
 * App Studio will be deprecated by June 30, 2022, use [Developer Portal](https://dev.teams.microsoft.com/home) \| Teams Platform Update
 * Dev Podcast - [Day in the life of an API Architect on Microsoft Graph with Darrel Miller](https://www.m365devpodcast.com/e/microsoft-apis-with-darrel-miller/) (June 1)
 * Microsoft 365 PnP Weekly – Episode 170 (June 13th) with Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-170/) \| [podcast](https://www.podbean.com/media/share/pb-w7j5e-124d4dc)
@@ -78,23 +78,23 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Latest on deprecating basic auth for Exchange**
-    * Documentation - [Deprecation of Basic authentication in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online)
+    * Documentation - [Deprecation of Basic authentication in Exchange Online](https://learn.microsoft.com/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online)
     * Article - [Basic Authentication and Exchange Online – September 2021 Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210)
-    * Documentation - [How modern authentication works for Office 2013, Office 2016, and Office 2019 client apps](https://docs.microsoft.com/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016?view=o365-worldwide)
+    * Documentation - [How modern authentication works for Office 2013, Office 2016, and Office 2019 client apps](https://learn.microsoft.com/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016?view=o365-worldwide)
     * Article – [Enabling Modern Auth for Outlook – How Hard Can It Be?](https://techcommunity.microsoft.com/t5/exchange-team-blog/enabling-modern-auth-for-outlook-how-hard-can-it-be/ba-p/2278411)
-    * Documentation – [About the Exchange Online PowerShell V2 module](https://docs.microsoft.com/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps)
-    * Documentation – [Connect to Security & Compliance PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
-    * Documentation – [Exchange Online and Exchange development](https://docs.microsoft.com/exchange/client-developer/exchange-server-development)
-    * Documentation – [Authentication and EWS in Exchange](https://docs.microsoft.com/exchange/client-developer/exchange-web-services/authentication-and-ews-in-exchange)
-    * Documentation – [Microsoft identity platform and OAuth 2.0 authorization code flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
-    * Documentation – [Authentication flow support in MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows)
+    * Documentation – [About the Exchange Online PowerShell V2 module](https://learn.microsoft.com/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps)
+    * Documentation – [Connect to Security & Compliance PowerShell](https://learn.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps)
+    * Documentation – [Exchange Online and Exchange development](https://learn.microsoft.com/exchange/client-developer/exchange-server-development)
+    * Documentation – [Authentication and EWS in Exchange](https://learn.microsoft.com/exchange/client-developer/exchange-web-services/authentication-and-ews-in-exchange)
+    * Documentation – [Microsoft identity platform and OAuth 2.0 authorization code flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
+    * Documentation – [Authentication flow support in MSAL](https://learn.microsoft.com/azure/active-directory/develop/msal-authentication-flows)
     * Repo - [Using MSAL in the EWS Managed API and doing auto token expiration and renewal in Delegate and Client Credential Azure oAuth Flows](https://github.com/gscales/EWS-BasicToOAuth-Info/blob/main/EWA%20Managed%20API%20MASL%20Token%20Refresh.md)
-    * Documentation – [Authenticate an IMAP, POP or SMTP connection using OAuth](https://docs.microsoft.com/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth)
+    * Documentation – [Authenticate an IMAP, POP or SMTP connection using OAuth](https://learn.microsoft.com/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth)
 * **Introduction to Microsoft Graph .Net SDK v5**
     * Repo – [Project Kiota](https://github.com/microsoft/kiota) \| aka.ms/Kiota
     * Repo - [Microsoft Graph .NET SDK v5 changelog and upgrade guide](https://github.com/microsoftgraph/msgraph-sdk-dotnet/blob/feature/5.0/docs/upgrade-to-v5.md) \| aka.ms/graph/sdk/dotnet-preview
 * **Introduction to Microsoft Graph Postman collection**
-    * Documentation - [Use Postman with the Microsoft Graph API](https://docs.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
+    * Documentation - [Use Postman with the Microsoft Graph API](https://learn.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
 
 ## General resources
 

@@ -336,7 +336,7 @@ when **Mgt-File-List** is available by the Microsoft Graph Toolkit.*
 
 There is a very good articles on how to start for example, [Build a
 SharePoint web part with the Microsoft Graph
-Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
+Toolkit](https://learn.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
 
 To use the **Mgt-File-List control in Beta version** please use the
 following packages.
@@ -355,17 +355,17 @@ I will hope this article could help you onboard when the
 Support Documentation:
 
 -   [Build a SharePoint web part with the Microsoft Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
+    Toolkit](https://learn.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
 -   [PnP SPFX Samples "One Drive
     finder"](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-onedrive-finder)
 -   [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 -   [OneDrive file storage API
-    overview](https://docs.microsoft.com/graph/onedrive-concept-overview)
+    overview](https://learn.microsoft.com/graph/onedrive-concept-overview)
 -   [Working with files in Microsoft
-    Graph](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0)
+    Graph](https://learn.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0)
 -   [Working with SharePoint sites in Microsoft
-    Graph](https://docs.microsoft.com/graph/api/resources/sharepoint?view=graph-rest-1.0)
+    Graph](https://learn.microsoft.com/graph/api/resources/sharepoint?view=graph-rest-1.0)
 -   [Graph
     Explorer](https://developer.microsoft.com/graph/graph-explorer)
 -   [FileList

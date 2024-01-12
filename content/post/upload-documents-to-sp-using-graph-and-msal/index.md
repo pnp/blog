@@ -67,7 +67,7 @@ If you don’t have admin privileges to Azure AD you need to get someone who doe
 
 ![Image of AD menu](images/image-2.png)
 
-1. Fill in the name, select the account types you would like to support. And set the Redirect URI type to **Single-page application (SPA)**. 
+1. Fill in the name, select the account types you would like to support. And set the Redirect URI type to **Single-page application (SPA)**.
 
 _Note, the URI you fill in must match the url where your app is running. In my example code that is localhost:3000. You can change this URI later when the code is running from somewhere else._
 
@@ -99,7 +99,7 @@ const msalConfig = {
 };
 
 const msalRequest = {
-  scopes: ["User.Read", "Files.ReadWrite", "Files.ReadWrite.All"] 
+  scopes: ["User.Read", "Files.ReadWrite", "Files.ReadWrite.All"]
 };
 
 ```
@@ -151,9 +151,9 @@ Graph will accept the file as an ArrayBuffer, a Buffer or a Blob. In my example 
 Obtain the filename and the file itself from the input field.
 
 ```javascript
-const filename = 
+const filename =
           document.getElementById("selectedFile").files[0].name;
-const fileToUplode = 
+const fileToUplode =
           document.getElementById("selectedFile").files[0];
 ```
 
@@ -178,7 +178,7 @@ const onSubmit = async (event) => {
       //obtain the filename from the file
       const filename = document.getElementById("selectedFile").files[0].name;
       //obtain the file itself
-      const fileToUplode = 
+      const fileToUplode =
           document.getElementById("selectedFile").files[0];
       //create filereader
       const filereader = new FileReader();
@@ -250,7 +250,7 @@ export async function uploadDocument(filename, fileToUpload){
       body: fileToUpload,
     })
     .then((response) => {
-        // Here you can implement some user feedback. "File uploaded" etc.. 
+        // Here you can implement some user feedback. "File uploaded" etc..
     })
     .catch((error) => {
       console.error("ERROR UPLOADING");
@@ -269,8 +269,8 @@ If you are working with larger files (4MB+) you could use an upload session to h
 ## Resources
 
 * [Microsoft Graph JavaScript Client Library](https://www.npmjs.com/package/@microsoft/microsoft-graph-client) – npm site.
-* [Make API calls using the Microsoft Graph SDK](https://docs.microsoft.com/en-us/graph/sdks/create-requests?tabs=TypeScript) – Microsoft docs
-* [Upload a large file with a upload session](https://docs.microsoft.com/en-us/graph/api/driveitem-createuploadsession?view=graph-rest-1.0&preserve-view=true) – Microsoft docs
+* [Make API calls using the Microsoft Graph SDK](https://learn.microsoft.com/en-us/graph/sdks/create-requests?tabs=TypeScript) – Microsoft docs
+* [Upload a large file with a upload session](https://learn.microsoft.com/en-us/graph/api/driveitem-createuploadsession?view=graph-rest-1.0&preserve-view=true) – Microsoft docs
 * [Upload small or large files using Graph](https://www.youtube.com/watch?v=YYMFP8xcNOQ) – YouTube, Microsoft 365 Developer channel
 * [Microsoft Graph JavaScript Client Library](https://github.com/microsoftgraph/msgraph-sdk-javascript) – GitHub, Microsoft Graph repo
-* [Build JavaScript single page apps with Graph](https://docs.microsoft.com/en-us/graph/tutorials/javascript) – Tutorial – Microsoft docs
+* [Build JavaScript single page apps with Graph](https://learn.microsoft.com/en-us/graph/tutorials/javascript) – Tutorial – Microsoft docs

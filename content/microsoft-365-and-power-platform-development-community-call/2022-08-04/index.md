@@ -40,7 +40,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Wanted – Updated Microsoft Teams JavaScript samples using Teams SDK v2 \| [Microsoft Teams Development Samples](https://pnp.github.io/teams-dev-samples/) \| aka.ms/Teams-Samples
-    * Documentation – [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client) \| aka.ms/TeamsSDK-v2
+    * Documentation – [Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/javascript/api/overview/msteams-client) \| aka.ms/TeamsSDK-v2
     * Documentation – [Microsoft 365 Platform Community Call – 7th of June, 2022](https://www.youtube.com/watch?v=B4F0KY-qCUU&t=1202s) \| aka.ms/TeamsSDK-v2-Community-Call
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
     * New – [Progress-Bar Components](https://www.m365princess.com/blogs/build-powerapps-progressbar-component/) - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
@@ -97,7 +97,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * **List formatting backgrounds and borders using new isSelected placeholder**
     * List Formatting Samples - [Samples by Class: ms-bgColor-\*](https://pnp.github.io/List-Formatting/groupings/classes/ms-bgColor/)
     * List Formatting Samples - [Samples by Class: sp-field-border\*](https://pnp.github.io/List-Formatting/groupings/classes/sp-field-border/)
-    * Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
+    * Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
     * Icons - [Flicon.io](https://flicon.io/)
     * Repo - Farrier [Community-tooling](https://github.com/pnp/community-tooling)
     * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
@@ -111,7 +111,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

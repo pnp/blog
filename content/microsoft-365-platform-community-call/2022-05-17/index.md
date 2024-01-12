@@ -26,7 +26,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article - [Microsoft Teams Webinars: Celebrating One Year Together](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-webinars-celebrating-one-year-together/ba-p/3334292)
 * Article - [Most used SharePoint Framework solutions from the Store - April 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-april/ba-p/3378662) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * Sample – [Bot Release Management](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-release-management)
-* Documentation - [Teams Glossary](https://docs.microsoft.com/microsoftteams/platform/get-started/glossary)
+* Documentation - [Teams Glossary](https://learn.microsoft.com/microsoftteams/platform/get-started/glossary)
 * Microsoft 365 PnP Weekly – Episode 166 (May 16th) with US-based Principal PM Lead, DevDiv, VS extensions - Pierce Boggan (Microsoft) \| @pierceboggan \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-166/) \| [podcast](https://www.podbean.com/media/share/pb-66mt4-122a0e4)
 
 ### Next week's call
@@ -72,8 +72,8 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Integrate Microsoft Graph connector content on Office.com**
-    * Documentation - [Microsoft Graph connectors overview for Microsoft Search](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) \| aka.ms/graphconnectors
-    * Documentation - [Microsoft Graph connectors overview](https://docs.microsoft.com/graph/connecting-external-content-connectors-overview) \| aka.ms/graphconnectorsapi
+    * Documentation - [Microsoft Graph connectors overview for Microsoft Search](https://learn.microsoft.com/MicrosoftSearch/connectors-overview) \| aka.ms/graphconnectors
+    * Documentation - [Microsoft Graph connectors overview](https://learn.microsoft.com/graph/connecting-external-content-connectors-overview) \| aka.ms/graphconnectorsapi
     * Gallery - [Microsoft Graph connectors](https://www.microsoft.com/microsoft-search/connectors/?category=) \| aka.ms/graphconnectorsgallery
     * Article - [Microsoft Editor is now superpowered using Context IQ to help you stay in the flow of your work](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-editor-is-now-superpowered-using-context-iq-to-help/ba-p/2897180)
 * **Your Microsoft 365 app within the fingertips of employees with Viva Connections**

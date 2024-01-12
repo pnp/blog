@@ -40,7 +40,7 @@ well:
 
 If you are new to running Azure Containers and using Logic Apps there is
 a great [walkthrough on running sentiment analysis with Azure Container
-Instances](https://docs.microsoft.com/en-gb/samples/azure-samples/aci-logicapps-integration/aci-logicapps-integration/ "running sentiment analysis with Azure Container Instances ").
+Instances](https://learn.microsoft.com/en-gb/samples/azure-samples/aci-logicapps-integration/aci-logicapps-integration/ "running sentiment analysis with Azure Container Instances ").
 But let us get started with the first step.
 
 Create an Azure Resource Group

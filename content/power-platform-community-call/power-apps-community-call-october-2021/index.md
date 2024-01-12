@@ -130,7 +130,7 @@ on demand. 
     Fundamentals (Hints, Tips,
     Advice)](https://www.youtube.com/watch?v=JAFX9IJ9fBI&list=PLKZVDmaJ3IRJy__kzsxc1SpxH-UALeVPy) 
 -   D2:  Documentation - [Microsoft
-    Learn](https://docs.microsoft.com/learn/)
+    Learn](https://learn.microsoft.com/learn/)
 
 ## Learn more
 

@@ -84,9 +84,9 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D1**:  Repo - [Microsoft Graph connector Sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) 
 
-*   **D1**:  Documentation - [Overview of Microsoft Graph connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
+*   **D1**:  Documentation - [Overview of Microsoft Graph connectors](https://learn.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
 
-*   **D1**:  Documentation - [Microsoft Graph connectors overview](https://docs.microsoft.com/graph/connecting-external-content-connectors-overview) | aka.ms/GraphConnectorsAPI
+*   **D1**:  Documentation - [Microsoft Graph connectors overview](https://learn.microsoft.com/graph/connecting-external-content-connectors-overview) | aka.ms/GraphConnectorsAPI
 
 *   **D1**:  Catalog - [Microsoft Graph connectors](https://www.microsoft.com/microsoft-search/connectors/) | aka.ms/GraphConnectorsCatalog
 
@@ -100,7 +100,7 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D2**:  Repo - [SharePoint Framework Reference Samples](https://github.com/pnp/spfx-reference-scenarios) 
 
-*   **D3**:  Documentation - [Microsoft Teams Channel Picker component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/teams-channel-picker) 
+*   **D3**:  Documentation - [Microsoft Teams Channel Picker component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/teams-channel-picker) 
 
 *   **D3**:  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) Seb’s demos 
 
@@ -108,7 +108,7 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D3**:  Repo – [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) | [aka.ms/mgt](https://aka.ms/mgt)
 
-*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
+*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
 
@@ -148,7 +148,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

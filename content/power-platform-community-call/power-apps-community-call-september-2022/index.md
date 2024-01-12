@@ -67,7 +67,7 @@ Latest updates and news on Power Platform including community events, training o
     * Article - [Introducing the Modern App Designer (Preview)](https://powerapps.microsoft.com/blog/introducing-the-modern-app-designer-preview/)
 * **You can be an author of an Independent Publisher Connector**
     * Repo - [Microsoft Power Platform Connectors](https://github.com/microsoft/powerplatformconnectors)
-    * Documentation – [Independent publisher certification process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)
+    * Documentation – [Independent publisher certification process](https://learn.microsoft.com/connectors/custom-connectors/certification-submission-ip)
 
 Request to present a demo during this call - aka.ms/PPCCDemoRequest
 

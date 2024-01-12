@@ -95,15 +95,15 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 ## Demo references
 
 * **Independent Publisher Connectors - RegEx Matching Demo**
-    * Documentation – [RegEx Connector](https://docs.microsoft.com/connectors/regexmatchingip/)
+    * Documentation – [RegEx Connector](https://learn.microsoft.com/connectors/regexmatchingip/)
     * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/)
 * **List Formatting Magic – Data and Time formatting options**
-    * Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| aka.ms/spdev-column-formatting
+    * Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| aka.ms/spdev-column-formatting
     * Icons - [Flicon.io](https://flicon.io/)
     * Repo - Farrier [Community-tooling](https://github.com/pnp/community-tooling)
     * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
 * **Create a list template from your pre-configured list with list formatting definitions**
-    * Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| aka.ms/spdev-column-formatting
+    * Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| aka.ms/spdev-column-formatting
     * Icons - [Flicon.io](https://flicon.io/)
     * Repo - Farrier [Community-tooling](https://github.com/pnp/community-tooling)
     * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
@@ -117,7 +117,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

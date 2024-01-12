@@ -66,7 +66,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * Microsoft 365 PnP Weekly – Episode 211 (May 22nd) with Belgium-based consultant - [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-211/) \| [podcast](https://www.podbean.com/eas/pb-2uy4b-141643c)
     * Jocelyn Panchal - Power Platform Connections Ep 14 (May 19th) \| [video](https://www.youtube.com/watch?v=zFFTeYiKFTw)
     * Microsoft 365 Developer Podcast – Open AI Chat GPT, Azure Communication Services and Microsoft Graph with Dan Wahlin (May 22nd) \| [podcast](https://m365devpodcast.com/e/open-ai-chat-gpt-azure-communication-services-and-microsoft-graph-with-dan-wahlin/)
-    * [Monday’s @ Microsoft](https://www.linkedin.com/company/microsoft-community/) 
+    * [Monday’s @ Microsoft](https://www.linkedin.com/company/microsoft-community/)
 
 ### Demos
 
@@ -115,7 +115,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (M
 
 ![together-230525.png](images/together-230525.png)
 
-Thank you everyone for joining the call today. It was great seeing some of you in person at ECS last week.     
+Thank you everyone for joining the call today. It was great seeing some of you in person at ECS last week.
 
 ## Actions
 
@@ -165,9 +165,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/powershell)|v1.12.0 GA, v2.1.1 GA|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.0-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

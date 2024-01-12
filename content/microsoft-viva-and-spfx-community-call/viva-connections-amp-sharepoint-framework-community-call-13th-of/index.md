@@ -239,9 +239,9 @@ slides.
 -   **D3**:  Documentation - [Use the Quick Links web
     part](https://support.microsoft.com/office/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82#:~:text=Add%20the%20Quick%20links%20web%20part%201%20If,button%20to%20set%20your%20options%3A%20More%20items...%20) 
 -   **D3**:  Documentation - [Make your SharePoint client-side web part
-    configurable](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
+    configurable](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
 -   **D3**:  Documentation - [Integrate web part properties with
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
 -   **D3**[:  ]Previous demos from [Hugo
     Bernier](https://twitter.com/bernierh)[ (Microsoft) |
     @bernierh,][ on SPFx Design Patterns
@@ -322,7 +322,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -368,7 +368,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **

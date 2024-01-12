@@ -69,11 +69,11 @@ The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microso
 
 * **Using the Microsoft Graph education endpoints in SPFx to create a my assignments web part**
     * Repo - [My Assignments Web Part by Cloud Design Box](https://github.com/CloudDesignBox/CDBAssignments)
-    * Documentation - [Education API overview](https://docs.microsoft.com/graph/education-concept-overview)
-    * Documentation - [Overview of School Data Sync](https://docs.microsoft.com/schooldatasync/overview-of-school-data-sync)
-    * Documentation - [Assignments in Teams for Education](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)
+    * Documentation - [Education API overview](https://learn.microsoft.com/graph/education-concept-overview)
+    * Documentation - [Overview of School Data Sync](https://learn.microsoft.com/schooldatasync/overview-of-school-data-sync)
+    * Documentation - [Assignments in Teams for Education](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)
 * **Getting started on building custom list form experiences with SharePoint Framework**
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
 
 Thank you for your great work. Samples are often showcased in Demos.
 
@@ -113,7 +113,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -132,7 +132,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

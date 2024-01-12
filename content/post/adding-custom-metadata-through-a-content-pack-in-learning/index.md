@@ -11,20 +11,20 @@ type: "regular"
 ---
 
 Learning Pathways is
-a [customizable](https://docs.microsoft.com/office365/customlearning/custom_accessadmin)
+a [customizable](https://learn.microsoft.com/office365/customlearning/custom_accessadmin)
 on-demand learning solution in Microsoft 365. Learning Pathways offers - a
 customizable SharePoint Online communication site (that may be used as a
-training portal), 
+training portal),
 
 - easy provisioning from
 the [SharePoint Look
 Book](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239?source=default)
 - the ability to make your own training playlists with
 [custom
-assets](https://docs.microsoft.com/office365/customlearning/custom_addassets)
+assets](https://learn.microsoft.com/office365/customlearning/custom_addassets)
 - a [custom web
-part](https://docs.microsoft.com/office365/customlearning/custom_whereiswebpart) to 
-surface training content across your SharePoint site collections, 
+part](https://learn.microsoft.com/office365/customlearning/custom_whereiswebpart) to
+surface training content across your SharePoint site collections,
 - and
 up-to-date Microsoft documentation for Microsoft 365
 solutions
@@ -66,7 +66,7 @@ pack:
     Learning Pathways. Some organizations might want to review the new
     content releases to evaluate what is applicable to the organization
     before it appears in their Learning Pathways
-    instance. 
+    instance.
 
 Please note, creating a custom content pack also
 means you will need to submit a pull request from the
@@ -85,7 +85,7 @@ pack.
 
 [Follow the docs.microsoft.com instructions
 for [provisioning Learning
-Pathways] ](https://docs.microsoft.com/office365/customlearning/custom_provision#to-provision-learning-pathways)
+Pathways] ](https://learn.microsoft.com/office365/customlearning/custom_provision#to-provision-learning-pathways)
 
 ### Step 1: Fork the Learning Pathways Repo
 
@@ -129,7 +129,7 @@ pages:
 
 Follow the docs.microsoft.com instructions
 for [adding a content pack to learning
-pathways](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#add-a-content-pack-to-learning-pathways). When
+pathways](https://learn.microsoft.com/office365/customlearning/custom_partnerguide_contint#add-a-content-pack-to-learning-pathways). When
 adding the URL for your custom content pack, paste the URL from step
 3, add **learningpathways** to
 the
@@ -160,7 +160,7 @@ Select **metadata.json**
 ![eemancini_3-1613663112898.png](images/eemancini_3-1613663112898.png)
 
 Explore the [metadata.json
-structure](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for
+structure](https://learn.microsoft.com/office365/customlearning/custom_partnerguide_contint#metadatajson-structure) for
 more guidance on  how to edit the information architecture
 within this JSON
 file. If you are new to
@@ -189,7 +189,7 @@ Now that your custom content is added to Learning Pathways, you can
 surface it by adding a Learning Pathways web part to a page. Follow the
 docs.microsoft.com instructions on how to [filter to
 the content
-pack](https://docs.microsoft.com/office365/customlearning/custom_partnerguide_contint#filter-to-the-content-pack-in-the-web-part)
+pack](https://learn.microsoft.com/office365/customlearning/custom_partnerguide_contint#filter-to-the-content-pack-in-the-web-part)
 
 
 **Conclusion**

@@ -8,7 +8,7 @@ images:
 - images/Thumb-Ep125.png
 tags: []
 type: "regular"
-summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools Sandy Ussia.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of \"Good-enough IT\", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. " 
+summary: "In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts -- Vesa Juvonen (Microsoft), Waldek Mastykarz (Microsoft) are joined by Business Applications MVP, Flow Pro Show co-host, NLightning co-founder and Technical Evangelist at SharePoint ISV Lightning Tools Sandy Ussia.   Topics discussed in this session include:  The appeal of Power Apps and Power Automate - enabling Power Users especially in resource constrained smaller businesses, whether or not Power Apps is the epitome or fulfillment of \"Good-enough IT\", Sandy 2.0, and Lightning Tools' business in COVID times.    Microsoft and the Community delivered 22 articles in this last week.  This session was recorded on Monday, May 3, 2021. "
 videos:
 - https://www.youtube.com/watch?v=APGShP4J1so
 ---
@@ -140,7 +140,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Additional resources
 
--   [Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
+-   [Maturity Model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Power Platform Sample
     Gallery](https://aka.ms/powerplatform-samples) - for finding easily
     samples from the GitHub - contributions from the community are

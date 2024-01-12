@@ -86,9 +86,9 @@ call.
 
 * **How to build an SSO bot using yo teams for Microsoft Teams**
     * Tool - [Microsoft Teams App Project Generator - \#YoTeams](https://github.com/pnp/generator-teams)
-    * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://docs.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
+    * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://learn.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
     * Training - [SSO Teams Bot - Microsoft Teams App](https://github.com/OfficeDev/TrainingContent/tree/master/Teams/80%20Using%20Single%20Sign-On%20with%20Microsoft%20Teams/Demos/02-learn-msteams-sso-bot)
-    * Documentation - [Single sign-on (SSO) support for bots](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
+    * Documentation - [Single sign-on (SSO) support for bots](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
 * **List formatting magic – Advance discussion board formatting with Power Automate**
     * Sample - [Discussion board format](https://github.com/pnp/List-Formatting/tree/master/view-samples/discussion-board-format)
     * Sample - [Calculator sample](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-calculator)
@@ -109,7 +109,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|In progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.2

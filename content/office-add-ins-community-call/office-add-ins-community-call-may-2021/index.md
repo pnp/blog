@@ -34,7 +34,7 @@ presenters and topics:
 
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 Unfortunately, we had some issues with the chat during the call. We
@@ -102,39 +102,39 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 
 ## Resources
 
-### Keyboard shortcuts 
+### Keyboard shortcuts
 
 -   [Custom keyboard shortcuts in Office Add-ins - Office Add-ins |
     Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts)
 -   [PnP sample: Use keyboard shortcuts for Office add-in
     actions](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/excel-keyboard-shortcuts)
 
-### Custom contextual tabs 
+### Custom contextual tabs
 
 -   [Create custom contextual tabs in Office Add-ins - Office Add-ins |
     Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/design/contextual-tabs)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/design/contextual-tabs)
 -   [PnP sample: Create custom contextual tabs on the
     ribbon](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/office-contextual-tabs)
 
-### Office Scripts demo by Damien Bird 
+### Office Scripts demo by Damien Bird
 
 -   Excel demo: <https://damobird365.birdhoose.co.uk/exceldemo>
 -   [DamoBird365 -
     YouTube](https://www.youtube.com/channel/UC-NCKrEw6CM8fidaIk-yrUQ)
 
-### Outlook event-based activation 
+### Outlook event-based activation
 
 -   [Outlook add-ins overview - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/outlook-add-ins-overview)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/outlook/outlook-add-ins-overview)
 -   [Configure your Outlook add-in for event-based activation
     (preview) - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch)
 -   PnP sample: [Use Outlook event-based activation to set the signature
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/outlook-set-signature)
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -143,15 +143,14 @@ page](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/id
 -   Community call recordings on the [YouTube Office Dev
     channel](https://aka.ms/OfficeDevYouTube)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues) 
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 The next Office Add-ins community call is on **Wednesday, June 9, 2021**
 at 8:00AM PDT. Get the calendar invite at
 <https://aka.ms/officeaddinscommunitycall>.
-

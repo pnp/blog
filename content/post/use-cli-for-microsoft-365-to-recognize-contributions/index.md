@@ -22,7 +22,7 @@ Office 365 provides a whole lot of data you can use. You can choose to
 get all actions yourself or using existing reports that are available.
 Most of those reports can also be retrieved by the CLI for Microsoft
 365. You can use the [Microsoft Docs to read what activity reports are
-available](https://docs.microsoft.com/microsoft-365/admin/activity-reports/activity-reports?view=o365-worldwide "Microsoft Docs to read what activity reports are available").
+available](https://learn.microsoft.com/microsoft-365/admin/activity-reports/activity-reports?view=o365-worldwide "Microsoft Docs to read what activity reports are available").
 Querying these reports using the CLI is done using a pattern: 
 
 -   *m365* to execute the cli

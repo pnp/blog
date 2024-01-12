@@ -88,13 +88,13 @@ The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (M
 * **Building polished form experiences with SPFx form customizer**
     * Documentation - [Getting Started with SPFx Form Customizer](https://www.office365clinic.com/2022/07/11/getting-started-with-spfx-form-customizer/)
     * Repo - [cc-formcustomizer-playground](https://github.com/ejazhussain/spfx-projects/tree/main/react-formcustomizer-customers)
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
 * **Building SPFx solution with Azure Communication Services integration**
-    * Documentation - [What is Azure Communication Services?](https://docs.microsoft.com/azure/communication-services/overview)
+    * Documentation - [What is Azure Communication Services?](https://learn.microsoft.com/azure/communication-services/overview)
     * Tools – [ACS UI Library](https://azure.github.io/communication-ui-library/?path=/story/overview--page) \| aka.ms/acsstroybook
     * Sample - [Room Chat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat)
-    * Documentation - [SharePoint Online tenant properties](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties?tabs=sprest)
-    * ACS Quick Start - [Get started with the calling hero sample](https://docs.microsoft.com/azure/communication-services/samples/calling-hero-sample)
+    * Documentation - [SharePoint Online tenant properties](https://learn.microsoft.com/sharepoint/dev/spfx/tenant-properties?tabs=sprest)
+    * ACS Quick Start - [Get started with the calling hero sample](https://learn.microsoft.com/azure/communication-services/samples/calling-hero-sample)
 
 Thank you for your great work. Samples are often showcased in Demos.
 
@@ -134,7 +134,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -153,7 +153,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

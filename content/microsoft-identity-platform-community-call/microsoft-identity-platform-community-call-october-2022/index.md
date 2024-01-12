@@ -49,13 +49,13 @@ This month’s in-depth topic: **Deep dive on using MSAL Node to integrate Elect
 * Let us know how we’re doing and suggest topics for future calls, please complete this survey [- aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 * Opt into PnP Recognition Program \| [aka.ms/m365pnp-recognition](https://aka.ms/m365pnp-recognition)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://docs.microsoft.com/learn/paths/m365-identity-associate/)
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on November 17th at 9:00am PT. Download the recurrent invite for this call \| [aka.ms/IDDevCommunityCalendar](https://aka.ms/IDDevCommunityCalendar)
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Samples - [Microsoft 365 Unified Sample gallery](https://adoption.microsoft.com/sample-solution-gallery/) \| aka.ms/m365/samples
 

@@ -41,9 +41,9 @@ In this month’s community call the following topics were presented - Action.To
     * Feedback - [[Feature Request] Action.ToggleVisibility -\> Expander Control \#7678](https://github.com/microsoft/AdaptiveCards/issues/7678) Adaptive Cards
 * **Handle Responses Connector in GA**
     * Website – [Power Automate](https://powerautomate.microsoft.com/) \| flow.microsoft.com
-    * Documentation Trigger - [When someone responds to an adaptive card](https://docs.microsoft.com/connectors/teams/#when-someone-responds-to-an-adaptive-card)
+    * Documentation Trigger - [When someone responds to an adaptive card](https://learn.microsoft.com/connectors/teams/#when-someone-responds-to-an-adaptive-card)
     * May call - [Handling multi-user responses for Adaptive Cards in Microsoft Teams](https://youtu.be/V0iTtOYcP6w) **-** [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft)
-    * MSA Account - [Getting Started with Group Managed Service Accounts](https://docs.microsoft.com/windows-server/security/group-managed-service-accounts/getting-started-with-group-managed-service-accounts)
+    * MSA Account - [Getting Started with Group Managed Service Accounts](https://learn.microsoft.com/windows-server/security/group-managed-service-accounts/getting-started-with-group-managed-service-accounts)
 * **React Native Adaptive Cards Renderer**
     * Tool npm - [adaptivecards-reactnative](https://www.npmjs.com/package/adaptivecards-reactnative)
     * Repo - [BigThinkcode/AdaptiveCards](https://github.com/Bigthinkcode/AdaptiveCards/tree/main)

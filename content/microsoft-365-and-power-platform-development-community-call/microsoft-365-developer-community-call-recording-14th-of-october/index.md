@@ -231,7 +231,7 @@ slides.
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-record-name) 
 
 -   D2:  Documentation - [Apps for Teams
-    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings) 
+    meetings](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings) 
 
 -   D3:  Article - [Universal Actions for Adaptive Cards in a NodeJs
     project](https://rabiawilliams.com/teams/uam-bot/)
@@ -241,10 +241,10 @@ slides.
     Node/TypeScript](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-uam-cardbot) 
 
 -   D3:  Documentation - [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?WT.mc_id=m365-42737-rwilliams&tabs=mobile) 
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?WT.mc_id=m365-42737-rwilliams&tabs=mobile) 
 
 -   D3:  Documentation - [Bots and
-    SDKs](https://docs.microsoft.com/microsoftteams/platform/bots/bot-features#bots-with-the-microsoft-bot-framework?WT.mc_id=m365-42737-rwilliams&tabs=mobile) 
+    SDKs](https://learn.microsoft.com/microsoftteams/platform/bots/bot-features#bots-with-the-microsoft-bot-framework?WT.mc_id=m365-42737-rwilliams&tabs=mobile) 
 
 -   D3:  Samples -
     [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples/tree/main/samples/javascript_nodejs) 
@@ -322,7 +322,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

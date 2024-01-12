@@ -103,7 +103,7 @@ call.
 ## Demo references
 
 * **Independent Publishing Connectors Sessionize Demo**
-    * Documentatiuon - [Sessionize (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/sessionizeip/)
+    * Documentatiuon - [Sessionize (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/sessionizeip/)
     * Repo – [Sessionize](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Sessionize)
     * Blog – [Nadddeep Nachan](https://nanddeepnachanblogs.com/)
     * Documentation – [Sessionize API / Embed Documentation for Developers](https://sessionize.com/api-documentation)
@@ -114,7 +114,7 @@ call.
     * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
 * **Understanding Sites.Selected permissions in SharePoint Online**
     * Video - [Sites.Selected Application permission for Graph and SharePoint APIs](https://youtu.be/mz4ye-AsUnY)
-    * Documentation - [Sites permissions - Application permissions](https://docs.microsoft.com/graph/permissions-reference#application-permissions-56)
+    * Documentation - [Sites permissions - Application permissions](https://learn.microsoft.com/graph/permissions-reference#application-permissions-56)
     * Article - [Controlling app access on a specific SharePoint site collections is now available in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/controlling-app-access-on-specific-sharepoint-site-collections/)
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
@@ -126,7 +126,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0 (end of June)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0 (end of June)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|Bug fixes and improvements continue to 1.11 release (end of June)
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.3|Version 4.0 is imminent – pending an issue with the new Teams JS SDK
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.3

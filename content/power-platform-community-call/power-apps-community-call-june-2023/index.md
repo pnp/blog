@@ -109,27 +109,27 @@ Thank you for joining us live and remotely today at the European Power Platform 
     * Documentation - [Security in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security)
     * Documentation - [Security concepts in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security-cds)
 * **How to Prepare for Microsoft Power Platform Certifications**
-    * <https://docs.microsoft.com/learn/certifications/>
+    * <https://learn.microsoft.com/learn/certifications/>
     * <https://aka.ms/community/recognition>
-    * <https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification>
+    * <https://learn.microsoft.com/learn/certifications/browse/?resource_type=certification>
     * <https://aka.ms/TrainCertPoster>
     * <https://aka.ms/TrainingCertDeck>
-    * <https://docs.microsoft.com/learn/certifications/>
-    * <https://docs.microsoft.com/learn/certifications/register-schedule-exam>
+    * <https://learn.microsoft.com/learn/certifications/>
+    * <https://learn.microsoft.com/learn/certifications/register-schedule-exam>
     * <https://learn.microsoft.com/certifications/exam-duration-question-types>
-    * <https://docs.microsoft.com/learn/certifications/exam-scoring-reports>
-    * <https://docs.microsoft.com/learn/certifications/certification-exam-policies>
-    * <https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification>
+    * <https://learn.microsoft.com/learn/certifications/exam-scoring-reports>
+    * <https://learn.microsoft.com/learn/certifications/certification-exam-policies>
+    * <https://learn.microsoft.com/learn/certifications/renew-your-microsoft-certification>
     * <https://learn.microsoft.com/training/>
     * <https://learn.microsoft.com/certifications/exams/pl-900/>
     * <https://aka.ms/examdemo>
     * <https://learn.microsoft.com/shows/exam-readiness-zone/>
-    * <https://docs.microsoft.com/certifications/resources/az-900-sample-questions?azure-portal=true>
+    * <https://learn.microsoft.com/certifications/resources/az-900-sample-questions?azure-portal=true>
     * <https://learn.microsoft.com/certifications/practice-assessments-for-microsoft-certifications>
     * <https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ>
     * <https://solutionsreview.com/cloud-platforms/the-top-microsoft-azure-books/>
     * <https://partneruniversity.microsoft.com/>
-    * <https://docs.microsoft.com/learn/certifications/partners>
+    * <https://learn.microsoft.com/learn/certifications/partners>
     * <https://uk.mindhub.com/pl-900-microsoft-power-platform-fundamentals-microsoft-official-practice-test/p/MU-PL-900>
     * <https://developer.microsoft.com/offers/30-days-to-learn-it>
     * <https://www.studentminds.org.uk/examstress.html>

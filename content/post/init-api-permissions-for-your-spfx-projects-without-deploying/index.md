@@ -42,7 +42,7 @@ access* page.
 ## With Graph API
 
 First, we're going to play with Graph API through the [Microsoft Graph
-Toolkit](https://docs.microsoft.com/fr-fr/graph/toolkit/overview).
+Toolkit](https://learn.microsoft.com/fr-fr/graph/toolkit/overview).
 
 ### Prepare your sample
 
@@ -149,9 +149,9 @@ component!
 When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
 You can follow [this Microsoft
-article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
+article](https://learn.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
 the "[Deploy the
-solution](https://docs.microsoft.com/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
+solution](https://learn.microsoft.com/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
 part.
 Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)

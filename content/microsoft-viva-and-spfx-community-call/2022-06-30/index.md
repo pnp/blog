@@ -77,7 +77,7 @@ call.
 * **Building custom accordion Tabs experience with rich text experiences**
     * Sample - [Tab Accordion Web Part with Property Field Collection Data and tinyMCE for Rich Text Editing](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-accordion-with-richtext)
 * **Using Microsoft Graph Profile API in SPFx for awards web part experience**
-    * Documentation - [profile resource type](https://docs.microsoft.com/graph/api/resources/profile?view=graph-rest-beta)
+    * Documentation - [profile resource type](https://learn.microsoft.com/graph/api/resources/profile?view=graph-rest-beta)
     * Sample - [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards)
 * **Adaptive Cards Extensions strategy pattern for multi-action QuickView**
     * Sample - [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern)
@@ -121,7 +121,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -140,7 +140,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

@@ -31,7 +31,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Book - <https://tonyfadell.com/the-book/>
 * Event September 22nd - Empowering Your Workforce in Economic Uncertainty - Satya Nadella, <https://www.microsoft.com/microsoft-viva/event>
 * Podcast Series - [GreyHatBeardPrincess Podcast](https://www.greyhatbeard.com/) \| @greyhatbeard
-* Documentation - [Introduction to Microsoft Viva Goals](https://docs.microsoft.com/viva/goals/intro-to-ms-viva-goals)
+* Documentation - [Introduction to Microsoft Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals)
 
 
 Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.

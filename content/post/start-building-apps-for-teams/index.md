@@ -17,7 +17,7 @@ people every day. By building custom apps for Teams you can help them
 work more effectively and connect them with even more knowledge and
 insights. Here are some resources to help you get started.
 
-## What kind of apps can you build on Teams 
+## What kind of apps can you build on Teams
 
 The Microsoft Teams platform offers you several extensibility points for
 building apps. On Teams you can build:
@@ -36,12 +36,12 @@ building apps. On Teams you can build:
 If you have an existing web or mobile app, you can also bring
 information from Teams into your app.
 
-## Resources for getting started with building apps for Teams 
+## Resources for getting started with building apps for Teams
 
 Sounds interesting? Here are some resources to help you get started
 building apps for Teams.
 
-### [Develop apps for Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m365-15200-wmastyka) (learning path) 
+### [Develop apps for Microsoft Teams](https://learn.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m365-15200-wmastyka) (learning path)
 
 If you learn in a structured way and like to understand the concepts
 before getting to code, this is the best place to start. This learning
@@ -51,9 +51,9 @@ to use the available tools. This learning path is a part of preparation
 for a Microsoft 365 developer certification.
 
 [View the learning
-path](https://docs.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m365-15200-wmastyka)
+path](https://learn.microsoft.com/learn/paths/m365-msteams-associate/?WT.mc_id=m365-15200-wmastyka)
 
-### [Microsoft Teams developer documentation](https://docs.microsoft.com/microsoftteams/platform/overview?WT.mc_id=m365-15200-wmastyka)
+### [Microsoft Teams developer documentation](https://learn.microsoft.com/microsoftteams/platform/overview?WT.mc_id=m365-15200-wmastyka)
 
 Another great place to start is the developer documentation. It's a
 complete reference of the different development capabilities on the
@@ -64,18 +64,18 @@ that you can choose your own path and which topics you want to learn
 first.
 
 [View Microsoft Teams developer
-documentation](https://docs.microsoft.com/microsoftteams/platform/overview?WT.mc_id=m365-15200-wmastyka)
+documentation](https://learn.microsoft.com/microsoftteams/platform/overview?WT.mc_id=m365-15200-wmastyka)
 
-### [Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka) 
+### [Teams app templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka)
 
 One way to learn is to see what's possible and what others build. If
 you want to get inspired, see what's possible or look at how you could
 implement a specific scenario, you should check out the [Teams app
-templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
+templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates?WT.mc_id=m365-15200-wmastyka).
 There are over 40 sample ready-to-use apps including their source code
 for you to explore!
 
-### [Tutorials for the Microsoft Teams developer platform](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka) 
+### [Tutorials for the Microsoft Teams developer platform](https://learn.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka)
 
 A part of the docs are tutorials for the Teams developer platform. If
 you want to get hands-on, this is a great place to start. You can find
@@ -84,9 +84,9 @@ or C#. And don't forget to check out [code
 samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) too!
 
 [View tutorials for the Teams developer
-platform](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka)
+platform](https://learn.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio?WT.mc_id=m365-15200-wmastyka)
 
-### [Microsoft 365 PnP Community](https://pnp.github.io/) 
+### [Microsoft 365 PnP Community](https://pnp.github.io/)
 
 Microsoft 365 has a vibrant community that supports each other in
 building apps on Microsoft 365. We share our experiences through regular
@@ -94,7 +94,7 @@ community calls, offer guidance, record videos, share sample apps, and
 build tools to speed up development. You can find everything we have to
 offer at [aka.ms/m365pnp](https://aka.ms/m365pnp).
 
-## today 
+## today
 
 Over 250 million users work with Microsoft 365 and Microsoft Teams plays
 a key role in people's workdays. By integrating your app with Teams you

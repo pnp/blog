@@ -24,7 +24,7 @@ get started with Microsoft Teams development.  See the new [Microsoft
 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)
 co-developed by Microsoft Teams and SharePoint engineering.  Get the
 Microsoft Teams Toolkit (Controls) -- "[Designing your Microsoft Teams
-app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
+app](https://learn.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.   Three great demos delivered
 during this session.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen.
@@ -144,10 +144,10 @@ slides.
     Teams](http://dev.teams.microsoft.com/home) 
 
 -   Documentation - [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview) 
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview) 
 
 -   Quick Start Guide - [Work with Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/work-with-universal-actions-for-adaptive-cards)  
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/work-with-universal-actions-for-adaptive-cards)  
 
 -   Blog - [Rick's blog](https://www.rickvanrousselt.com/) 
 
@@ -177,11 +177,11 @@ slides.
 
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://learn.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube

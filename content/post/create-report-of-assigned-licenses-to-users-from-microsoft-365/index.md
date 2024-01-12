@@ -10,7 +10,7 @@ tags: ["Power Automate", "Microsoft Graph"]
 type: "regular"
 ---
 
-### Introduction 
+### Introduction
 
 Power Automate is a tool that enables you to implement queries without
 knowing hardcore coding patterns. Microsoft Graph API is the universal
@@ -39,7 +39,7 @@ store excel report in the SharePoint document library.
 5.  Connect to Graph API
 6.  Excel Online Connectors in Power Automate
 7.  Add row to Excel Worksheet.
-   
+
 **Prerequisites**
 
 1.  Microsoft 365 Account
@@ -56,7 +56,7 @@ and SKU IDs**
 When we get the user's assigned licenses from Graph API then it returns
 SKU ID only. So, we can use this list to filter Product Names from SKU
 ID. [Select
-here](https://docs.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference) to
+here](https://learn.microsoft.com/azure/active-directory/enterprise-users/licensing-service-plan-reference) to
 get a list of licenses product names and SKU IDs.
 
 Create a new list called "licenses" in SharePoint Site and add a column
@@ -188,8 +188,8 @@ End Point URL
 : [https://graph.microsoft.com/beta/users?$filter=userType%20eq%20%27Member%27&$select=displayName,crea...](https://graph.microsoft.com/beta/users?$filter=userType%20eq%20%27Member%27&$select=displayName,createdDateTime,accountEnabled,userPrincipalName,givenName,surname,externalUserState,assignedLicenses)
 Method: get
 Authentication: Azure Active Directory
-Tenant: Add Reference of TenantId variable 
-Client Id: Add Reference of Client ID Variable 
+Tenant: Add Reference of TenantId variable
+Client Id: Add Reference of Client ID Variable
 Secret: Add Reference of Client Secret Variable
 Audience: Add Reference of AudienceURL variable
  ![reports7.png](images/reports7.png)
@@ -293,7 +293,7 @@ Full Power automate will look like as below.
 The output will be as below.
 ![Create report of assigned licenses for users from Microsoft 36512.png](images/Create report of assigned licenses for users from Microsoft 36512.png)
 
-### Conclusion 
+### Conclusion
 
 We learned how to connect the SharePoint site and list to Power
 automate, Create and append array, Call graph End point, Register

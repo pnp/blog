@@ -19,11 +19,11 @@ This month's community call features presentations - **Dialog API
 security updates** (recent changes to dialog API that address a security
 vulnerability requires action from you IF your add-in uses cross-domain
 communication between the dialog and taskpane.  Requirements and
-timeline with grace period), 
+timeline with grace period),
 **PowerPoint API update: Shape object**
 (preview the new Shape APIs -- insertion APIs along with ability to
 manipulate basic, line & fill, text frame & range properties of these
-objects.), and 
+objects.), and
 **PnP: Open in Teams** (access data hosted on a website
 inside a Microsoft Teams channel for purposes of collaborating on the
 data).  This month's Community spotlight recognizes MVP Maarten van Stam
@@ -62,7 +62,7 @@ Manager and Onur Onder, Senior Software Engineer.   Recorded August 11,
     available.   Script Lab add-in uses Graph APIs and  ASP.NET.
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 **In response to your post about runtimes and XML errors - I am also
@@ -73,7 +73,7 @@ We recently added some guidance about how to update the XSD files in
 Visual Studio to solve this problem. For full details, see [Troubleshoot
 development errors with Office Add-ins - Manifest schema validation
 errors in Visual
-St\...](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-development-errors#manifest-schema-validation-errors-in-visual-studio-projects).
+St\...](https://learn.microsoft.com/office/dev/add-ins/testing/troubleshoot-development-errors#manifest-schema-validation-errors-in-visual-studio-projects).
 
 
 **When is the GA for custom contextual tab on Mac?**
@@ -103,7 +103,7 @@ async function run() {
 async function tryCatch(callback) {
     try {
         await callback();
-    } 
+    }
     catch (error) {
 // Note: In a production add-in, you'd want to notify the user through your add-in's UI.
         console.error(error);
@@ -133,7 +133,7 @@ web, which only supports .docx and .dotx formats.
 well as Slide and Presentation objects)? Developers REALLY like to store
 information in Tags objects.**
 Yes, tag support is currently in preview -
-<https://docs.microsoft.com/office/dev/add-ins/reference/requirement-sets/powerpoint-preview-apis> 
+<https://learn.microsoft.com/office/dev/add-ins/reference/requirement-sets/powerpoint-preview-apis> 
 
 **How do I add an officeGroup to my CustomTab for my Word add-in? I
 can't seem to find much info on this.**
@@ -143,7 +143,7 @@ support Word and Excel in the future but we don't have an ETA just yet.
 
 **Could we manage the shape object in a different slide?**
 
-Yes. 
+Yes.
 
 **context.presentation.slides** has a collection of slides. Use the
 **slide.shapes** collection to access a shape on another slide.
@@ -162,7 +162,7 @@ set of APIs.
 
 For Excel support, more information is in the article, [Work with shapes
 using the Excel JavaScript
-API](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-shapes).
+API](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-shapes).
 
 **Will the shapes API also include things like pictures and tables?**
 
@@ -180,7 +180,7 @@ We're trying out the beta of shared/delegated mailbox support and
 finding that in OWA, we still can't open a shared mailbox. We get the
 error: \"The operation on mailbox failed because it's out of the
 current user's write scope.\" There are more details
-here([https://docs.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://docs.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
+here([https://learn.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-\...](https://learn.microsoft.com/answers/questions/506662/outlook-owa-addin-installation-permission-issue-de.html)).
 Is this something we can expect to work in the release?**
 
 This is a known outcome and you can find more information, including how
@@ -203,7 +203,7 @@ There shouldn't be any licensing issues, as long as they are licensed
 for Microsoft 365 (the new name for Office 365).
 
 **Last month I asked about the ability to change the width of a task
-pane in Outlook. 
+pane in Outlook.
 
 Can someone update me or share a link to the response
 from last month?**
@@ -237,13 +237,13 @@ development in Office.JS?**
 
 
 For books you might take a look at [Building Office Add-ins Using
-Office.js](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/develop-overview).
+Office.js](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/develop-overview).
 There isn't a specific certification for Office Add-in development, but
 there is a [Microsoft 365 Certified: Developer
-Associate](https://docs.microsoft.com/learn/certifications/m365-developer-associate/)
+Associate](https://learn.microsoft.com/learn/certifications/m365-developer-associate/)
 certification. There is an Office Add-in specific learning at [Extend
 Office clients with Office add-ins -- Associate - Learn | Microsoft
-Docs](https://docs.microsoft.com/learn/paths/m365-office-add-in-associate/).
+Docs](https://learn.microsoft.com/learn/paths/m365-office-add-in-associate/).
 
 **Does anyone know when VSTO will reach official end of life?**
 
@@ -257,7 +257,7 @@ custom function?**
 We don't have official support for custom functions to share previous
 values. But there are mechanisms available that let you enable this. You
 need to [configure your add-in to use the shared
-runtime](https://docs.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
+runtime](https://learn.microsoft.com/office/dev/add-ins/develop/configure-your-add-in-to-use-a-shared-runtime).
 Cache the results back from your custom function, and use the
 **caller.address** parameter so you know where the custom function was
 being called from (where you can get the old value from your cache).
@@ -271,14 +271,14 @@ be available.
 
 ## Resources
 
-### Dialog API security updates 
+### Dialog API security updates
 
 -   [Cross-domain messaging to the host
-    runtime](https://docs.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins#cross-domain-messaging-to-the-host-runtime)
+    runtime](https://learn.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins#cross-domain-messaging-to-the-host-runtime)
 -   [Cross-domain messaging to the dialog
-    runtime](https://docs.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins#cross-domain-messaging-to-the-dialog-runtime)
+    runtime](https://learn.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins#cross-domain-messaging-to-the-dialog-runtime)
 
-### PowerPoint new Shape APIs 
+### PowerPoint new Shape APIs
 
 -   npm
     package: [<https://www.npmjs.com/package/@microsoft/office-js/v/1.1.71-custom.37>]
@@ -288,14 +288,14 @@ be available.
 -   Add a simple shape with some
     properties: <https://gist.github.com/ononder/3f8986126d07a3f81d7fc36af80dbe72>
 
-### PnP open in Microsoft Teams sample 
+### PnP open in Microsoft Teams sample
 
 -   Readme and
     sample: <https://github.com/OfficeDev/PnP-OfficeAddins/tree/davech-open-in-teams/Samples/excel-open-in-teams>. 
 -   Pull
     request: <https://github.com/OfficeDev/PnP-OfficeAddins/pull/197>. 
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -304,11 +304,11 @@ be available.
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
@@ -316,4 +316,3 @@ be available.
 The next Office Add-ins community call is on Wednesday, September 8,
 2021 at 8:00AM PDT. Get the calendar invite at
 <https://aka.ms/officeaddinscommunitycall>.
-

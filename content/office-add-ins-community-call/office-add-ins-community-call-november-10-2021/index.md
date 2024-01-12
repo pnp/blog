@@ -27,7 +27,7 @@ Technical Marketing Manager (CodeTwo), **Microsoft 365 instant sandbox**
 Packs) - Michael Aldridge -- Principal Program Manager (Microsoft), and
 a demo - **Unit testing Office JavaScript with Office-Addin-Mock
 library** (an NPM library to facilitate unit testing) - Igor Ribeiro --
-Software Engineer (Microsoft) 
+Software Engineer (Microsoft)
 
  This month's Community spotlight
 recognizes MVP Maarten van Stam and Eric Legault for their continued
@@ -36,14 +36,14 @@ contributions to this community.  Greatly appreciated!  Register for the
 and in chat throughout call.  The call was hosted by David Chesnut
 (Microsoft) | @davidchesnut. Recorded November 10, 2021.
 
-## Presenters 
+## Presenters
 
 -   Michał Królewicz - Technical Marketing Manager​ at CodeTwo
 -   Michael Aldridge - Principal Content Program Manager
 -   Igor Ribeiro - Software Engineer
 
 
-## Topics 
+## Topics
 
 -   **CodeTwo Outlook Add-in for email signature management --**
     Microsoft Gold Partner CodeTwo demonstrates their email signature
@@ -70,7 +70,7 @@ and in chat throughout call.  The call was hosted by David Chesnut
     TypeScript.   Office Addin Mock along with test examples are
     available now. Future work items called out.    
 
-## Agenda 
+## Agenda
 
 -   **T1:  Customer presentation:** CodeTwo Outlook Add-in for email
     signature management - Michał Królewicz (CodeTwo) --
@@ -84,7 +84,7 @@ and in chat throughout call.  The call was hosted by David Chesnut
     [35:00](https://youtu.be/7hGsmgNHqow?t=2100)
 -   **Q&A** -- [35:44](https://youtu.be/7hGsmgNHqow?t=2144)
 
-## Actions 
+## Actions
 
 -   Provide input on Mocking Office.js for unit tests -- [Standard way
     to unit test and mock office-js
@@ -99,10 +99,10 @@ and in chat throughout call.  The call was hosted by David Chesnut
     <https://aka.ms/officeaddinscommunitycall>
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
-### **Microsoft 365 developer program and instant sandbox** 
+### **Microsoft 365 developer program and instant sandbox**
 
 **Is the developer subscription as persistent as a paid subscription? To
 mimic a real environment I also attached my custom domain. Is that still
@@ -125,7 +125,7 @@ expire naturally if you don't use it.
 Visio is not included in the Microsoft 365 developer program E5
 subscription today.
 
-### Unit testing with the Office JS Office-Addin-Mock library** 
+### Unit testing with the Office JS Office-Addin-Mock library**
 
 **How do we unit test or integrate Cypress into an Outlook plugin?**\
 It doesn't seem likely this would work as Cypress is more focused on
@@ -135,7 +135,7 @@ designed for unit testing frameworks.
 Yes, there's a sample demonstrating this:
 <https://github.com/OfficeDev/Office-Addin-TaskPane/tree/master/test/unit> 
 
-### Miscellaneous 
+### Miscellaneous
 
 -   **With the Outlook REST API being decommissioned in November 2022 in
     favor of Graph API, what happens to on-premise Exchange REST API
@@ -165,13 +165,13 @@ web app instance.**\
 For a single tenant, the best approach is typically to have the admin
 distribute your add-in by using centralized deployment. For more
 information, see [Deploy add-ins in the admin
-center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins).
+center](https://learn.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins).
 If you are planning to use a separate manifest for each customer, then
 you will still want to use centralized deployment and provide the
 correct version of the manifest to each customer. If you want to support
 multiple customers with one manifest, then we recommend to [Publish your
 add-in on Microsoft
-AppSource](https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
+AppSource](https://learn.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
 **I am an Office Add-in developer, eager to work with the new PowerPoint
 Shape API since the August 2021 community call. When I run the "Insert
 shape, line and text box" sample code on Script Lab, unlike what
@@ -188,7 +188,7 @@ learn more about your scenario. Please consider submitting a feature
 request for this at <https://aka.ms/m365dev-suggestions>. If you intend
 to read a file then this is possible. Please refer to the [OneDrive file
 storage API overview - Microsoft Graph | Microsoft
-Docs](https://docs.microsoft.com/graph/onedrive-concept-overview).
+Docs](https://learn.microsoft.com/graph/onedrive-concept-overview).
 
 **Any news when the current PowerPoint Preview API will go live?**
 
@@ -197,7 +197,7 @@ by end of month. The rest of the API's will GA tentatively sometime
 early next year.
 
 
-## Resources 
+## Resources
 
 -   **T1:**  Website - [www.codetwo.com](http://www.codetwo.com) 
 -   **T1:**  Blog - [What's new for Office Add-ins at Ignite
@@ -218,7 +218,7 @@ early next year.
 -   **T3:**  Issues -- [GitHub
     Issues](https://github.com/OfficeDev/Office-Addin-Scripts/issues) 
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Upcoming agenda and previous call
     resources](https://aka.ms/officeaddinsagenda)
@@ -229,11 +229,11 @@ early next year.
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)

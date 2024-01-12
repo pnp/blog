@@ -14,9 +14,9 @@ automate, deploy or manage Microsoft 365, those written with:
 -   [PnP PowerShell](https://pnp.github.io/powershell/)
 -   [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 -   [SPO Management
-    shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?WT.mc_id=M365-MVP-5003816)
+    shell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?WT.mc_id=M365-MVP-5003816)
 -   [Graph
-    PowerShell](https://docs.microsoft.com/graph/powershell/get-started?WT.mc_id=M365-MVP-5003816)
+    PowerShell](https://learn.microsoft.com/graph/powershell/get-started?WT.mc_id=M365-MVP-5003816)
 -   [Graph
     CLI ](https://developer.microsoft.com/graph/blogs/access-microsoft-graph-through-a-new-preview-cli/)
 -   other Microsoft 365 related scripts\...
@@ -33,7 +33,7 @@ to this resource to leverage existing scripts to achieve your goals
 quicker and easier.
 ![Script Samples - Homepage](images/script-samples-home.png)
 
-## Scenarios and Scripts 
+## Scenarios and Scripts
 
 When working with Microsoft 365 using scripts, there is a scenario that
 you are trying to achieve, e.g. "Install a site design into the
@@ -46,7 +46,7 @@ Each script is represented as tabs, giving you the option to choose the
 preferred tool and learn about how the same goal can be achieved by
 different tools.
 
-## Search and Filtering 
+## Search and Filtering
 
 Each of the scenario samples are bundled with metadata to allow for
 identification of authors - crediting you on your contributions, the
@@ -56,7 +56,7 @@ Using the metadata, we can provide filters and search capabilities on
 the listing pages enabling you to search for the scenario and script.
 ![Searching Script Samples](images/script-samples-search.png)
 
-## Copy to Clipboard 
+## Copy to Clipboard
 
 We have introduced a feature within each of the script to copy to
 clipboard allowing you to quickly grab the sample to use in your
@@ -65,7 +65,7 @@ script blocks:
 ![Copy to Clipboard feature](images/copt-to-clipboard.png)
 
 
-## Clickable commands 
+## Clickable commands
 
 In the scripts, there will be example usage of commands that each tool
 provides for the scenario. We have made it easier for you to learn about
@@ -84,7 +84,7 @@ If you are think a command should be highlighted and linked to the
 documentation [please raise an issue in the GitHub
 repo](https://github.com/pnp/script-samples/issues).
 
-## Contributing 
+## Contributing
 
 If you would like to contribute to the samples, you are absolutely
 welcomed to do so, we have created [guidance to help

@@ -169,7 +169,7 @@ slides.
 
 -   **D1**:  Learn - [Show a user's emails in an ASP.NET Core app with
     Microsoft
-    Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-show-user-emails/?WT.mc_id=m365-0000-dwahlin) 
+    Graph](https://learn.microsoft.com/learn/modules/msgraph-dotnet-core-show-user-emails/?WT.mc_id=m365-0000-dwahlin) 
 
 -   **D1**:  Tool -- [Graph
     Explorer](https://developer.microsoft.com/graph/graph-explorer) |
@@ -188,12 +188,12 @@ slides.
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
+    Graph](https://learn.microsoft.com/graph/toolkit/overview) |
     aka.ms/mgt/docs
 
 -   **D3**:  Documentation - [People-Picker component in the Microsoft
     Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/components/people-picker) 
+    Toolkit](https://learn.microsoft.com/graph/toolkit/components/people-picker) 
 
 -   **D3**:  MGT Playground -- [People
     Picker](https://mgt.dev/?path=/story/components-mgt-people-picker--people-picker) 
@@ -204,7 +204,7 @@ slides.
 
 -   **D3**:  Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
+    Graph](https://learn.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D3**:  Learn - [Develop apps with the Microsoft Graph
@@ -284,7 +284,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

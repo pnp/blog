@@ -34,7 +34,7 @@ the most noteworthy additions.
 ### Upgrade SharePoint Framework projects to SPFx v1.13.1 
  
 With the [release of SharePoint Framework
-v1.13.1](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.13.1 "SharePoint Framework v1.13.1") we
+v1.13.1](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.13.1 "SharePoint Framework v1.13.1") we
 made sure to provide you with the tools to upgrade your solutions using
 the CLI for Microsoft 365. 
  

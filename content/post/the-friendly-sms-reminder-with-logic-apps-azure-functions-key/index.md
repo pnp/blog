@@ -22,7 +22,7 @@ similar.
 There will be of course more sophisticated use cases, for the sake of an
 easy demonstration we will stick to this and use a simple SMS. 
 
-## Prerequisites 
+## Prerequisites
 
 -   Azure subscription -If you don't have one, you can get one for [free
     here](https://azure.microsoft.com/free/)
@@ -52,7 +52,7 @@ As you can see, we will touch some interesting things like 
 I will sometimes provide several approaches to reach the same goal, you
 can pick whatever feels right to you. 
 
-## Azure Resource group & Function App 
+## Azure Resource group & Function App
 
 Ok, so we will create an Azure Function App that will do the heavy
 lifting for us. Our Azure Function needs a Resource group to live in,
@@ -96,7 +96,7 @@ the Function App. You will be notified when everything is ready for you.
 As an alternative, you may want to create your Azure Function from
 within Visual Studio Code: 
 
-## Creating the Azure Function in Visual Studio Code 
+## Creating the Azure Function in Visual Studio Code
 
 Please follow these steps: 
 
@@ -143,7 +143,7 @@ let you know once this is done 
 ![confirmdeploysuccess.png](images/confirmdeploysuccess.png)
  
 
-## Twilio 
+## Twilio
 
 Before we add a function and some code to it, let's understand first
 what we will be doing: We want to automagically send a text message to
@@ -166,7 +166,7 @@ look a little like this:
 
 We will need these values in a moment!
 
-## **Azure Function App configuration** 
+## **Azure Function App configuration**
 
 Head over to your Azure Function App
 
@@ -188,7 +188,7 @@ Hit save Your App setting should now look like this:
 
 ![LuiseFreese_41-1627337799414.png](images/LuiseFreese_41-1627337799414.png)
 
-## **Azure Function App -add function** 
+## **Azure Function App -add function**
 
 Now its time to add some functionality to our app:
 
@@ -215,15 +215,15 @@ Now its time to add some functionality to our app:
     module.exports = function (context) {
     client.messages
     .create({ from: process.env.SENDER_NUMBER,
-    body: `This is your friendly weekly reminder to put away the laundry 🧺 you folded last weekend. 
+    body: `This is your friendly weekly reminder to put away the laundry 🧺 you folded last weekend.
     Also, you go girl 😎`,
     to: process.env.RECIPIENT_NUMBER
     })
-    .then(message => { 
+    .then(message => {
     context.log("Message sent");
     context.res = {
     body: 'YAY it worked - girl check your phone  '
-    }; 
+    };
     context.done();
     }).catch(err => {
     context.log.error("Twilio Error: " + err.message + " -- " + err.code);
@@ -242,7 +242,7 @@ Please note
     variables -- If this is your first Azure Function app, I can highly
     recommend that you have a look over here: [JavaScript developer
     reference for Azure Functions | Microsoft
-    Docs](https://docs.microsoft.com/azure/azure-functions/functions-reference-node?tabs=v2)
+    Docs](https://learn.microsoft.com/azure/azure-functions/functions-reference-node?tabs=v2)
 -   that we of course want a success (for status 200/default) or error
     message (for status 500) to log
 -   More information on how to work with Twilio -- including code
@@ -252,7 +252,7 @@ Please note
 Now Select **Overview** and then **Get Function URL --** copy the URL-
 we will need this in the next step.
 
-## Azure Logic Apps workflow 
+## Azure Logic Apps workflow
 
 Let's now have some more fun in Azure and use a Logic Apps workflow to
 trigger our Azure Function. We will first add a Logic App to our
@@ -295,7 +295,7 @@ Now select your new workflow and follow these steps:
     example) by adding parameters **Start time **and **On these
     days** -- For testing purposes I'd choose a higher frequency 
 
-    
+
 
      
 
@@ -308,7 +308,7 @@ Now select your new workflow and follow these steps:
 as stated above, there are (at least) two ways to call our Azure
 function, this is:
 
-### Option A with the built-in 'Call an Azure Function' 
+### Option A with the built-in 'Call an Azure Function'
 
 -   Select the **+ **icon in the designer
 -   Select **Add an action**
@@ -333,7 +333,7 @@ Note the custom output body that we defined in our Azure Function
 
 Now let's discover the other option to call our Azure function:
 
-### Option B with the generic HTTP action 
+### Option B with the generic HTTP action
 
 Create your workflow as above, but instead of searching for **Azure
 Fun**, search for **HTTP**
@@ -351,7 +351,7 @@ Next step, makes this even more secure by storing our Twilio token and
 the Twilio SID in an Azure Key vault so that we can refer to it in our
 app configuration. 
 
-## Azure Key Vault 
+## Azure Key Vault
 
 Head over to your Resource Group
 
@@ -521,7 +521,7 @@ nicely together. Some thoughts though for everyone who wondered: 
     here](https://www.youtube.com/watch?v=_K30eBabb3A)
 -   yes, you can do all of the above in Azure CLI as well, to get you
     started, please read here: [Azure Functions | Microsoft
-    Docs](https://docs.microsoft.com/cli/azure/service-page/azure%20functions?view=azure-cli-latest)
+    Docs](https://learn.microsoft.com/cli/azure/service-page/azure%20functions?view=azure-cli-latest)
 
 You have a more fancy use case? Let me know about it! Just imagine that
 we can integrate other services/data in Azure and/or Microsoft 365 and
@@ -529,22 +529,22 @@ beyond -- and decide if we want to do this in a low code or code
 manner.  In my next post I will show how to templatize and deploy a
 solution. 
 
-## Additional resources 
+## Additional resources
 
 NeverStopLearning! Here are some resources that may help you get
 started! 
 
 [Getting started with Azure Functions | Microsoft
-Docs](https://docs.microsoft.com/azure/azure-functions/functions-get-started?pivots=programming-language-javascript)
+Docs](https://learn.microsoft.com/azure/azure-functions/functions-get-started?pivots=programming-language-javascript)
 
 [Quickstart - Create integration workflows with Azure Logic Apps in the
 Azure portal - Azure Logic
-Ap\...](https://docs.microsoft.com/azure/logic-apps/quickstart-create-first-logic-app-workflow)
+Ap\...](https://learn.microsoft.com/azure/logic-apps/quickstart-create-first-logic-app-workflow)
 
 [Azure Quickstart - Set and retrieve a secret from Key Vault using Azure
 portal | Microsoft
-Docs](https://docs.microsoft.com/azure/key-vault/secrets/quick-create-portal)
+Docs](https://learn.microsoft.com/azure/key-vault/secrets/quick-create-portal)
 
 [Managed identities for Azure resources | Microsoft
-Docs](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)
+Docs](https://learn.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)
  

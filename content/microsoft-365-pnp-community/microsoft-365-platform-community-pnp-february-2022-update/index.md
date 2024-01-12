@@ -142,14 +142,14 @@ Most of the community driven repositories are in the [PnP GitHub organization](
 *   [sp-dev-site-scripts](https://github.com/SharePoint/sp-dev-site-scripts) - Open-source community-driven repository for community Site Designs and Site Scripts
 *   [sp-dev-modernization](https://github.com/SharePoint/sp-dev-modernization) \- Tooling and guidance around modernizing SharePoint from classic to modern
 *   [sp-power-platform-solutions](https://github.com/SharePoint/sp-power-platform-solutions) \- Solution and sample code for SharePoint Power Platform solutions
-*   [powerfx-samples](https://github.com/pnp/powerfx-samples) \- Samples that demonstrate different usage patterns for the Power Fx low-code programming language  
+*   [powerfx-samples](https://github.com/pnp/powerfx-samples) \- Samples that demonstrate different usage patterns for the Power Fx low-code programming language
 *   [powerapps-samples](https://github.com/pnp/powerapps-samples) - Samples that demonstrate different usage patterns for Power Apps
 *   [powerautomate-samples](https://github.com/pnp/powerautomate-samples) - Samples that demonstrate different usage patterns for Power Automate
 *   [powerva-samples](https://github.com/pnp/powerva-samples) - Samples that demonstrate different usage patterns for Power Virtual Agents
 *   [AdaptiveCards-Templates](https://github.com/pnp/AdaptiveCards-Templates) - Samples on showcasing the art of possible with adaptive cards
 
-All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization  
-  
+All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization
+
 
 *   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) \- Source for new SharePoint dev center documentation exposed from [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
 *   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) \- Open-source templates used by the [SharePoint Look Book site](https://lookbook.microsoft.com/)
@@ -172,7 +172,7 @@ Other related resources from GitHub
 
 ## What's supportability story around the community tooling and assets?
 
-Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like [SharePoint Starter Kit](https://github.com/SharePoint/sp-starter-kit), [yo teams](https://aka.ms/yoteams) or [PnP PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps). All Microsoft released SDKs and tools are supported based on the specific tool policies.
+Following statements apply across all of the community lead and contributed samples and solutions, including samples, core component(s) and solutions, like [SharePoint Starter Kit](https://github.com/SharePoint/sp-starter-kit), [yo teams](https://aka.ms/yoteams) or [PnP PowerShell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps). All Microsoft released SDKs and tools are supported based on the specific tool policies.
 
 *   PnP guidance and samples are created by Microsoft & by the Community
 *   PnP guidance and samples are maintained by Microsoft & community
@@ -200,7 +200,7 @@ We welcome all community members to get involved on the community and open-sourc
 
 Got feedback, suggestions or ideas? - Please let us know. Everything we do in this program is **for your benefit**. Feedback and ideas are more than welcome so that we can adjust the process for benefitting you even more.
 
-Microsoft 365 PnP Recognition Program  
+Microsoft 365 PnP Recognition Program
 
 ![thumbnail image 3 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update ](images/LuiseFreese_1-1644235186709.png)
 
@@ -234,7 +234,7 @@ Community docs model was announced in the April 2020 and it's great to see the i
 #### New articles
 
 *   [Advanced Highlighted Content Web Part](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/highlighted-content-web-part.md) \- [Patrick Doran](https://twitter.com/swearpointjs) (NCDIT) | @swearpointjs
-*   [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) - [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud Communications) | @chapplenikki
+*   [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) - [Nikki Chapple](https://www.twitter.com/chapplenikki) (NTT Cloud Communications) | @chapplenikki
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -271,7 +271,7 @@ These are samples which have been contributed on the community samples since las
 
 *   Numerous adjustments on existing samples and solutions
 
-If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://aka.ms/teams-samples). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
+If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://aka.ms/teams-samples). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
@@ -289,7 +289,7 @@ If you have any existing samples which you'd be willing to share with others - p
 
 ![thumbnail image 9 of blog post titled Microsoft 365 Platform Community (PnP) – February 2022 update ](images/LuiseFreese_0-1644314425708.png)
 
-  
+
 We have released new Microsoft 365 Script Sample gallery within past month. We welcome all scripts on Microsoft 365 automation to this centralized repository, targeted to help to manage and automate day-to-day operations.
 
 Here are the latest updates on the Script Samples
@@ -378,10 +378,10 @@ See exact details on the latest updates from the specific open-source project re
 
 Please see all the Microsoft 365 development documentation updates from the related documentation sets and repositories as listed below:
 
-*   Microsoft Teams platform documentation - [Microsoft Docs](https://docs.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
-*   SharePoint Developer documentation - [Microsoft Docs](https://docs.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
-*   Microsoft Graph documentation - [Microsoft Docs](https://docs.microsoft.com/graph) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
-*   Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+*   Microsoft Teams platform documentation - [Microsoft Docs](https://learn.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
+*   SharePoint Developer documentation - [Microsoft Docs](https://learn.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
+*   Microsoft Graph documentation - [Microsoft Docs](https://learn.microsoft.com/graph) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+*   Office add-in documentation - [Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
 
@@ -664,7 +664,7 @@ Here are the companies, which provided support the community initiative for thi
 *   [Sympraxis Consulting](https://sympraxisconsulting.com/)
 *   [ThreeWill](https://threewill.com/)
 *   [Valo](https://www.valointranet.com/)
-*   [Voitanos](https://www.voitanos.io/)  
+*   [Voitanos](https://www.voitanos.io/)
 
 
 ## Microsoft people

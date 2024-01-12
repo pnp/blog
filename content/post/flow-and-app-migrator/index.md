@@ -14,11 +14,11 @@ type: "regular"
 
 If you are a Power App or Power Automate developer, chances are you had to move your creations between SharePoint sites or even Microsoft 365 tenants. At the very least, you were probably wondering about the easiest ways of doing it. Perhaps, you were trying to establish separate development, staging and production environments. Or you wanted to share your solution with a client or a friendly department within your organization.
 
-If you are using [Solutions](https://docs.microsoft.com/powerapps/maker/data-platform/solutions-overview) and [Dataverse](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro) for your development, chances are these migrations are not very difficult. A combination of [environment variables](https://docs.microsoft.com/powerapps/maker/data-platform/environmentvariables) and the **Dataverse** tables, takes care of most complexities including packaging data sources and parametrization
+If you are using [Solutions](https://learn.microsoft.com/powerapps/maker/data-platform/solutions-overview) and [Dataverse](https://learn.microsoft.com/powerapps/maker/data-platform/data-platform-intro) for your development, chances are these migrations are not very difficult. A combination of [environment variables](https://learn.microsoft.com/powerapps/maker/data-platform/environmentvariables) and the **Dataverse** tables, takes care of most complexities including packaging data sources and parametrization
 
 This is why it is recommended to always develop apps and flows as part of a **solution** as opposed to standalone ones. **Solutions** allow us to expose all configurations via environment variables.
 
-However, **solutions** are not used every time for one reason or another. On top of it, the majority of apps and flows are still using SharePoint lists and libraries as a data source instead of **Dataverse** tables. 
+However, **solutions** are not used every time for one reason or another. On top of it, the majority of apps and flows are still using SharePoint lists and libraries as a data source instead of **Dataverse** tables.
 
 As a result, you will still face a few challenges when migrating:
 
@@ -29,7 +29,7 @@ As a result, you will still face a few challenges when migrating:
 
 **[Flows and Power Apps Migrator](https://github.com/Zerg00s/FlowPowerAppsMigrator)** is an open-source portable tool that lets you migrate apps and flows that primarily use **SharePoint** as a data source. With it:
 
-- You can continue developing with or without solutions and environment variables. 
+- You can continue developing with or without solutions and environment variables.
 - Don't have to worry about hardcoded SharePoint URLs.
 - Don't have to migrate SharePoint lists, libraries and content types. The tool does it for you.
 
@@ -43,9 +43,9 @@ As a result, you will still face a few challenges when migrating:
     ![Exporting a Package as .ZIP](images/export.png)
      
     ![Exporting Apps](images/export-apps.png)
-    
+
     ![The source](images/src.png)
-    
+
     ![Migrate Packages.bat](images/contents.png)
 
 
@@ -88,7 +88,7 @@ As a result, you will still face a few challenges when migrating:
 
 - If not already exists, create a SharePoint Online site. It will contain SharePoint Lists and Libraries that Power Apps/Flows require.
 - Open the `package` directory.
-- Run the `Convert-Packages.bat` script. 
+- Run the `Convert-Packages.bat` script.
 - Provide a target site URL.
 - Import all solutions, flows and apps from the `dist` directory.
 

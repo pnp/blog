@@ -50,18 +50,18 @@ stories and value, how to onboard and build resources and Q&A at end.
 ## Referenced in this call
 
 * Documentation – [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
 * Documentation – [Messaging
-    extensions](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+    extensions](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
 * Documentation – [Link
-    unfurling](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/link-unfurling)
+    unfurling](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/link-unfurling)
 * Tool - [Microsoft Bot Framework](https://dev.botframework.com/) \|
     <https://dev.botframework.com/>
 * Demo – [Adaptive Cards Video Player Bot on
     Teams](https://youtu.be/-Y7_nNwC20w?t=28) - [Alexis
     Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft)
 * Tool - [Microsoft Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/overview)
+    Toolkit](https://learn.microsoft.com/graph/toolkit/overview)
 
 ## Actions
 
