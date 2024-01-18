@@ -9,7 +9,7 @@ images:
 - images/pnp-weekly-231-promo.png
 tags: []
 videos:
-- hhttps://www.youtube.com/watch?v=cqY3lfKMVok
+- https://www.youtube.com/watch?v=cqY3lfKMVok
 draft: false
 ---
 
