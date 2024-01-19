@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 15th of January 2024 week
-date: 2024-01-12T02:24:49.939Z
+title: Weekly Agenda - 22nd of January 2024 week
+date: 2024-01-19T02:00:49.939Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary3.png
+  - images/weeklysummary4.png
 tags: []
-type: regular
+type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
 draft: false
@@ -22,52 +22,32 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 16th of January
+### Microsoft 365 & Power Platform weekly call - 23rd of January
 
-* Tuesday, 16th of January 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 23rd of January 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder - Extend Copilot for Microsoft 365 with plugins
-* Grant Archibald (Microsoft) - Introduction to Approvals Kit for Power Platform
-* [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler - Expanded Authentication Options for Sites.Selected permission and AppFolders
+* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Extend Copilot for Microsoft 365 with Graph connectors
+* [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur - Latest on the SharePoint Pages API in Microsoft Graph
+* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - What's new in Microsoft Graph Toolkit v4
 
 Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Power Platform monthly Community Call - 17th of January
+### Viva Connections & SharePoint Framework Community Call - 25th of January
 
-Typically demos here are from the community by the community. You are welcome to demo here 👋
-
-* Wednesday, 17th of January, 8:00 AM PT / 4:00 PM GMT
-* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
-* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
-
-Demos: 
-
-* Fernando Calero (Alta Symposium) – Get efficient reclassifications using Dataverse for Teams and Power BI
-* Ryan Johnston - Tips and Tricks for Developing Elegant UI/UX in Canvas Apps
-* Heidi Jordan (Avanade) - Practical tips for Copilot Readiness
-
-Also: 📷 Picture Time with community in Together Mode!
-
-**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
----
-
-### Microsoft 365 & Power Platform bi-weekly community Call - 18th of January
-
-* Thursday, 18th of January 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
+* Thursday, 25th of January, 7:00 AM PT / 2:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=Sxrnc7gSw4A&list=PLR9nK3mnD-OXdcwfcHGsGr78nHWLRsv1x)
 
 Demos this time
 
-* Frank Cornu (Ubisoft) - Build Microsoft Graph connected web sites for a custom enterprise search experience
-* Shrushti Shah (Rapid Circle) - Build custom connector in Power Platform to generate images from Azure OpenAI DALLE model
+* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 - SPFx extension for search-driven navigation and security controls​
+* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia- Permission management and other advance considerations for Bot Powered Viva Connection ACEs
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -79,24 +59,24 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Building AI powered code summary and comment tool with Power Platform - Hackathon winner](https://www.youtube.com/watch?v=eLGRjh5dGnw) by [Robert Perillo](https://twitter.com/Rob__Developer) (Pait Group) | @Rob__Developer
-* [Introduction to Viva Toolkit v2 – SPFx development made easy in VS Code](https://www.youtube.com/watch?v=zGNxoeK2M_o) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-* [Implementing SSO-enabled Microsoft Teams Message Extensions with Teams Toolkit](https://www.youtube.com/watch?v=TWJTKruTttk) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
-* [Build Microsoft Graph connected web sites for a custom enterprise search experience](https://www.youtube.com/watch?v=fUTNczMOo2w) by Franck Cornu (Ubisoft)
-* [Import an existing SharePoint Framework solution and continue development with Teams Toolkit](https://www.youtube.com/watch?v=1bQyZFRt9ls) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Microsoft 365 PnP Weekly – Episode 231 – Lindsay Shelton](https://www.youtube.com/watch?v=cqY3lfKMVok)
-* [Integrate your organizational data to Azure Open AI service with Microsoft Graph](https://www.youtube.com/watch?v=vuY70gcbAQo) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
+* [Building Adaptive Card extension (ACE) that shows weather information for office locations](https://www.youtube.com/watch?v=rkektmwaUAI) by [Lakshmana Rao](https://twitter.com/dlrao) Duppala (Diaspark Inc) | @dlrao
+* [Targeting news items based on user preference - Microsoft Graph open extension integration](https://www.youtube.com/watch?v=n_hbAIXzcA8) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania) | @EjazHussain_
+* [Introduction on extending Copilot for Microsoft 365](https://www.youtube.com/watch?v=5ifBWFlO6p0) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
+* [Microsoft 365 PnP Weekly – Episode 232 – Emily Mancini](https://www.youtube.com/watch?v=2ieeEmldqsY)
+* [Introduction to new Viva Connection version 3.0](https://www.youtube.com/watch?v=pLvxxYXyWfU) by [Nancy Handa](https://www.linkedin.com/in/nancy-handa-3b7b8b35/) (Microsoft)
+* [Thank your for your participation on our community calls during 2023 🧡](https://www.youtube.com/watch?v=yu1As19RVfY)
+* [Signing in and getting an access token for organizational data using Microsoft Graph Toolkit](https://www.youtube.com/watch?v=H6_bvQHGA1U) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Automate - Automate root cause analysis | Power Platform Shorts](https://www.youtube.com/watch?v=pA_Yb-FXTs4)
+* [Power Apps Copilot Control | Power Platform Shorts](https://www.youtube.com/watch?v=11mTv6vZTvY)
+
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [The ultimate solution for debugging your Teams bot without needing an account or admin permissions](https://www.youtube.com/watch?v=IiuAWrZYmoo)
-* [Extend Copilot for Microsoft 365 with custom skills and knowledge](https://www.youtube.com/watch?v=Ivl4XsorAn8)
-* [Fluid Framework 2.0 Beta - Build collaborative apps fast!](https://www.youtube.com/watch?v=uL2nMYk6WTQ)
+* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
+* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
 
 ---
 
@@ -104,18 +84,15 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Announcing Fluid Framework 2.0 Beta](https://devblogs.microsoft.com/microsoft365dev/announcing-fluid-framework-2-0-beta/) by Kashif Qureshi (Microsoft) and Nick Simons (Microsoft)
-* [Custom encryption with customer owned keys now generally available](https://devblogs.microsoft.com/microsoft365dev/custom-encryption-with-customer-owned-keys-now-generally-available/) by Richa Misra (Microsoft)
-* [Deprecation of entity-based contextual Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-entity-based-contextual-outlook-add-ins/) by Sam Ramon (Microsoft)
+* [Dev Proxy v0.14 with generating OpenAPI specs and simulating CRUD APIs](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-14-with-generating-openapi-specs-and-simulating-crud-apis/)
+
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 231 - Lindsay Shelton](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-231/)
-* [Improve Dataverse Search for Autonumber Columns with Power Fx Formula Columns](https://pnp.github.io/blog/post/improve-dataverse-search-autonumber-with-formula-columns/) by [Alex McLachlan](https://twitter.com/alex_mcla) | @alex_mcla
-
+* [Microsoft 365 PnP Weekly - Episode 232 - Emily Mancini]([Microsoft 365 PnP Weekly - Episode 232 - Emily Mancini](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-232/)
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -125,8 +102,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections and SharePoint Framework community call 11th of January 2024](https://www.youtube.com/watch?v=5ZMujMo4cf0)
-* [Microsoft 365 & Power Platform weekly call – 9th of January, 2024](https://www.youtube.com/watch?v=4qp8rwm2nd0)
+* [Microsoft 365 & Power Platform Development community call - 18th of January, 2024](https://www.youtube.com/watch?v=Q4Nup0ITFhs)
+* [Microsoft Power Platform community call – January 2024](https://www.youtube.com/watch?v=v7vUostPm4c)
 
 ---
 
@@ -166,9 +143,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Intrateam Event Online Volume 9](https://communitydays.org/event/2024-01-17/intrateam-event-online-volume-9-about-modern-intranets-and-ai) – Aubout Modern Intranets and AI - January 17-18, 2024 - Virtual
-* [AMS Strasbourg 2024](https://communitydays.org/event/2024-01-18/ams-strasbourg-2024) - January 18, 2024 - Strasbourg, France
-* [Azure OpenAI & ChatGPT Fest 2024](https://communitydays.org/event/2024-01-18/azure-openai-and-chatgpt-fest-2024) - January 18 - 19, 2024 - Reston, Virginia, USA
 * [M365 Community Days Lagos 2024](https://communitydays.org/event/2024-01-27/m365-community-days-lagos-2023) - January 27, 2024 - Lagos, Nigeria
 * [AMS Luxembourg 2024](https://communitydays.org/event/2024-01-30/ams-luxembourg-2024) - January 30, 2024 - Luxembourg
 * [Cloud Technology Townhall Tallinn 2024](https://www.communitydays.org/event/2024-02-01/cloud-technology-townhall-tallinn-2024) - February 1-2, 2024 - Tallinn, Estonia
