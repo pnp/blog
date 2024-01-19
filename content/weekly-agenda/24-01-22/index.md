@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 15th of January 2024 week
-date: 2024-01-12T02:24:49.939Z
+title: Weekly Agenda - 22nd of January 2024 week
+date: 2024-01-19T02:00:49.939Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary3.png
+  - images/weeklysummary4.png
 tags: []
 type: trending
 videos:
@@ -30,9 +30,9 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 - SPFx extension for search-driven navigation and security controls​
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia- Permission management and other advance considerations for Bot Powered Viva Connection ACEs
-
+* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Extend Copilot for Microsoft 365 with Graph connectors
+* [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur - Latest on the SharePoint Pages API in Microsoft Graph
+* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - What's new in Microsoft Graph Toolkit v4
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -46,10 +46,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm - Extend Copilot for Microsoft 365 with Graph connectors
-* [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur - Latest on the SharePoint Pages API in Microsoft Graph
-* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - What's new in Microsoft Graph Toolkit v4
-
+* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0 - SPFx extension for search-driven navigation and security controls​
+* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia- Permission management and other advance considerations for Bot Powered Viva Connection ACEs
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -61,10 +59,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Targeting news items based on user preference - Microsoft Graph open extension integration](https://www.youtube.com/watch?v=n_hbAIXzcA8)
+* [Building Adaptive Card extension (ACE) that shows weather information for office locations](https://www.youtube.com/watch?v=rkektmwaUAI) by [Lakshmana Rao](https://twitter.com/dlrao) Duppala (Diaspark Inc) | @dlrao
+* [Targeting news items based on user preference - Microsoft Graph open extension integration](https://www.youtube.com/watch?v=n_hbAIXzcA8) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania) | @EjazHussain_
 * [Introduction on extending Copilot for Microsoft 365](https://www.youtube.com/watch?v=5ifBWFlO6p0) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Microsoft 365 PnP Weekly – Episode 232 – Emily Mancini](https://www.youtube.com/watch?v=2ieeEmldqsY)
-* [Introduction to new Viva Connection version 3.0](https://www.youtube.com/watch?v=pLvxxYXyWfU) by Nancy Handa (Microsoft)
+* [Introduction to new Viva Connection version 3.0](https://www.youtube.com/watch?v=pLvxxYXyWfU) by [Nancy Handa](https://www.linkedin.com/in/nancy-handa-3b7b8b35/) (Microsoft)
 * [Thank your for your participation on our community calls during 2023 🧡](https://www.youtube.com/watch?v=yu1As19RVfY)
 * [Signing in and getting an access token for organizational data using Microsoft Graph Toolkit](https://www.youtube.com/watch?v=H6_bvQHGA1U) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 
@@ -143,7 +142,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [M365 Community Days Lagos 2024](https://communitydays.org/event/2024-01-27/m365-community-days-lagos-2023) - January 27, 2024 - Lagos, Nigeria
 * [AMS Luxembourg 2024](https://communitydays.org/event/2024-01-30/ams-luxembourg-2024) - January 30, 2024 - Luxembourg
