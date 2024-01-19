@@ -144,7 +144,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-git a
+
 * [M365 Community Days Lagos 2024](https://communitydays.org/event/2024-01-27/m365-community-days-lagos-2023) - January 27, 2024 - Lagos, Nigeria
 * [AMS Luxembourg 2024](https://communitydays.org/event/2024-01-30/ams-luxembourg-2024) - January 30, 2024 - Luxembourg
 * [Cloud Technology Townhall Tallinn 2024](https://www.communitydays.org/event/2024-02-01/cloud-technology-townhall-tallinn-2024) - February 1-2, 2024 - Tallinn, Estonia
