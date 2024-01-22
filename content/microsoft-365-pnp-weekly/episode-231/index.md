@@ -86,7 +86,7 @@ As we recorded the previous and this episode close by, we wanted to focus on com
 
 ## Videos
 
-* [hat's a Prompt Catalog and how do you build one? | Copilot Chronicles](https://www.youtube.com/watch?v=bgzSSOC52DE) - [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft)
+* [What's a Prompt Catalog and how do you build one? | Copilot Chronicles](https://www.youtube.com/watch?v=bgzSSOC52DE) - [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft)
 * [Power Apps Select Multiple Items in A Gallery](https://www.youtube.com/watch?v=wpZbYPvPO68) - [Shane Young](https://www.linkedin.com/in/cincyshane/) (PowerApps911)
 * [Benefits Of Sharepoint Embedded: An Overview With Examples](https://www.youtube.com/watch?v=gEU8NxNWLCI) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
 * [Episode #274 - Testing RateLimit headers using the Microsoft Dev Proxy](https://www.youtube.com/watch?v=_l_TqUMXPy8) - [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys)
