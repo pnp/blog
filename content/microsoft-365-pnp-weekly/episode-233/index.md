@@ -53,7 +53,7 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday 22nd of January. Session was published on Tuesday 23rd of January, 2024.
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube 2ieeEmldqsY >}}
+    {{< youtube Y6stCc4H-SM >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-ma3ur-15597b0 >}}
 
