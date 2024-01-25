@@ -26,8 +26,6 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## This week
 
-Skipped this week.
-
 - **Emily** – Prepping for the Miami Community Days event in early February
 - **Waldek** – Working on new features and docs for Dev Proxy, wrapping up work on new learn content for extending Copilot for Microsoft 365
 - **Vesa** – Miscellanious tasks across the community and product engineering
@@ -70,8 +68,6 @@ These videos and podcasts are published each week and are intended to be roughly
 
 ## Community articles
 
-As we recorded the previous and this episode close by, we wanted to focus on community assets in this one.
-
 * [Demystifying Author properties on files in SharePoint and search](https://www.techmikael.com/2024/01/demystifying-author-properties-on-files.html) - [Mikael Svenson](https://www.linkedin.com/in/mikaels/) (Microsoft)
 * [Topics in Viva & Copilot for Microsoft 365 (M365 Chat) Integration](https://www.linkedin.com/posts/mahmoudhamedhassan_microsoftcopilottips-modernworkplaceai-copilotformicrosoft365-activity-7151289044801335296-gd60) - [Mahmoud Hassan](https://de.linkedin.com/in/mahmoudhamedhassan) (Avanade)
 * [Unveiling Audit Logs with PnP PowerShell](https://reshmeeauckloo.com/posts/powershell-get-log-sharepoint-dlp-exchange-entra-pnpunifiedlog/) - [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Pension Protection Fund)
@@ -91,7 +87,6 @@ Check out all cool samples from community and from Microsoft. You can access all
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
-* [M365 Saturday Ahmedabad](https://www.communitydays.org/event/2024-01-13/m365-community-day-phoenix) - January 6, 2024 - Ahmedabad, India
 * [Intrateam Event Online Volume 9](https://communitydays.org/event/2024-01-17/intrateam-event-online-volume-9-about-modern-intranets-and-ai) – Aubout Modern Intranets and AI - January 17-18, 2024 - Virtual
 * [AMS Strasbourg 2024](https://communitydays.org/event/2024-01-18/ams-strasbourg-2024) - January 18, 2024 - Strasbourg, France
 * [Azure OpenAI & ChatGPT Fest 2024](https://communitydays.org/event/2024-01-18/azure-openai-and-chatgpt-fest-2024) - January 18 - 19, 2024 - Reston, Virginia, USA
