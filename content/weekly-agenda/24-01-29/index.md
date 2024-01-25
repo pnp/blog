@@ -46,7 +46,7 @@ Demos this time
 
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_ - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0- Creating Teams Meetings and install Teams Meeting App + custom data​
-* [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII - Power Platform Animation Techniques
+* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Tips & Tricks
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -75,6 +75,9 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 * [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
 * [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
+* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM&t=56s)
+* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by  [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
+* [Mesh 101: Prepare the Project](https://www.youtube.com/watch?v=snvNgvZIO4E)
 
 ---
 
@@ -82,16 +85,15 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM&t=56s)
-* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by  [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
-* [Mesh 101: Prepare the Project](https://www.youtube.com/watch?v=snvNgvZIO4E)
+* [A pro-code guide to build your custom copilot faster](https://devblogs.microsoft.com/microsoft365dev/a-pro-code-guide-to-build-your-custom-copilot-faster/) by Joey Glocke (Microsoft), Carter Gilliam (Microsoft), Ankit Govil (Microsoft)
+* [New Microsoft Graph callRecords API capabilities](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-graph-callrecords-api-capabilities/) by Matthew McGrath (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 232 - Emily Mancini](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-232/)
+* [Microsoft 365 PnP Weekly - Episode 233 - Stephan van Rooij](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-233/) with [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
