@@ -1,6 +1,6 @@
 ---
 title: "How to add record with pac power-fx"
-date: 2024-01-24T08:40:00-04:00
+date: 2024-01-29T08:40:00-04:00
 author: "Andrzej Bożyk"
 githubname: abozyk1990
 categories: ["Community post"]
