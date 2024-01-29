@@ -14,7 +14,7 @@ type: "regular"
 The Office Add-ins developer platform team has new updates to share this
 month on Office Add-in samples.
 
-## Encrypt attachments and more with Outlook event-based activation 
+## Encrypt attachments and more with Outlook event-based activation
 
 ![outlook-event-based-activation.png](images/outlook-event-based-activation.png)
 
@@ -40,7 +40,7 @@ Check out the code sample: [Use Outlook event-based activation to
 encrypt attachments, process meeting request attendees and
 rea\...](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-encrypt-attachments)
 
-## Get started with hello world samples 
+## Get started with hello world samples
 
 ![hello-world.png](images/hello-world.png)
 Learn how to build the simplest Office Add-in with only a manifest, HTML
@@ -58,7 +58,7 @@ Get started with the following code samples:
 -   [Word hello
     world](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/hello-world/word-hello-world)
 
-## Contributors 
+## Contributors
 
 Thank you to our contributors who are actively helping each month with
 the Office Add-ins community effort.
@@ -85,7 +85,7 @@ to [https://github.com/officedev/Office-Add-in-samples](https://github.com/Offi
 helping with PRs, issues, or contributing [new
 samples](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-## Additional resources 
+## Additional resources
 
 -   Get started with Office development by joining the [Microsoft 365
     developer
@@ -94,4 +94,4 @@ samples](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3A
     downloading [Script
     Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 -   Automate your solutions with [Office
-    Scripts](https://docs.microsoft.com/office/dev/scripts/).
+    Scripts](https://learn.microsoft.com/office/dev/scripts/).

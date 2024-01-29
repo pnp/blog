@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Principal Power Platform Advocacy Team Lead at Microsoft - [April Dunnam](https://twitter.com/aprildunnam) \| @aprildunnam
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Principal Power Platform Advocacy Team Lead at Microsoft - [April Dunnam](https://twitter.com/aprildunnam) \| @aprildunnam
 
 ## Topics discussed in this session
 
@@ -79,7 +79,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Microsoft events
 
-* [Activate your workforce to accelerate business impact](https://msvivasummit.eventcore.com/?ocid=cmmsrsdhi5a&culture=en-us&country=us) - 20th of April, 2023
+* Activate your workforce to accelerate business impact - 20th of April, 2023
 * [Microsoft 365 Conference](https://m365conf.com/) - May 2-4, 2023
 
 ## Community articles

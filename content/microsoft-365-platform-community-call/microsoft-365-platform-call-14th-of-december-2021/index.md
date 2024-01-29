@@ -164,22 +164,22 @@ slides.
     | [aka.ms/office-scripts](https://aka.ms/office-scripts)
 
 -   **D1:**  Documentation -- [Office Scripts
-    documentation](https://docs.microsoft.com/office/dev/scripts/) |
-    [aka.ms/officedevscripts](https://docs.microsoft.com/office/dev/scripts/)
+    documentation](https://learn.microsoft.com/office/dev/scripts/) |
+    [aka.ms/officedevscripts](https://learn.microsoft.com/office/dev/scripts/)
 
 -   **D1:**  Samples - [Basic scripts for Office Scripts in Excel on the
     web](https://aka.ms/officesamplescripts) |
-    [aka.ms/officesamplescripts](https://docs.microsoft.com/office/dev/scripts/resources/excel-samples)
+    [aka.ms/officesamplescripts](https://learn.microsoft.com/office/dev/scripts/resources/excel-samples)
 
 -   **D1:**  Feedback - [Office Scripts Makers](https://aka.ms/oscripts)
     |
-    [aka.ms/](http://www.aka.ms/oscripts)[oscripts](http://www.aka.ms/oscripts) 
+    [aka.ms/](https://www.aka.ms/oscripts)[oscripts](https://www.aka.ms/oscripts) 
 
 -   **D2:** Roadmap - [Microsoft 365
     roadmap](https://www.microsoft.com/microsoft-365/roadmap)
 
 -   **D2:** [Documentation - [Office 365
-    Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)]
+    Government](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)]
 
 -   **D3:** Repo -- [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
@@ -187,7 +187,7 @@ slides.
 
 -   **D3:** Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
+    Graph](https://learn.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D3:** Sandbox - [Microsoft Graph Toolkit
@@ -254,7 +254,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -293,7 +293,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

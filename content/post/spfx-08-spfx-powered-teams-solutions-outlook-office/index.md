@@ -9,7 +9,7 @@ images:
   - images/08-spfx-outlook-office-teams.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -44,7 +44,7 @@ By default we are also making the new web parts to support Microsof Teams by add
 
 ![Detecting current host](images/webpart-manifest.png)
 
-You will also need to consider the solution packaging and to ensure that you are using [Teams manifest](https://learn.microsoft.com/en-us/microsoftteams/platform/resources/schema/manifest-schema) version **1.13 or newer**, which will be then detected properly as part the deployment of the package. Notice that this is not currently supported with the automated `Sync to Teams` feature, but you can create used manifest manually and package that as part of your solution package. See the `TeamsSPFxApp.zip` file in the below picture which will be automatically packaged to the solution package and also synced automatically to Microsoft Teams as part of the deployment.
+You will also need to consider the solution packaging and to ensure that you are using [Teams manifest](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema) version **1.13 or newer**, which will be then detected properly as part the deployment of the package. Notice that this is not currently supported with the automated `Sync to Teams` feature, but you can create used manifest manually and package that as part of your solution package. See the `TeamsSPFxApp.zip` file in the below picture which will be automatically packaged to the solution package and also synced automatically to Microsoft Teams as part of the deployment.
 
 ![Detecting current host](images/teams-maniest.png)
 
@@ -59,27 +59,27 @@ We also demonstrated the setup and required steps in a recent [Microsoft 365 Pla
 
 Documentation
 
--	[Extend Outlook and Office with the SharePoint Framework ](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/office/overview )
--	[Extend Teams apps across Microsoft 365](https://learn.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview)
+-	[Extend Outlook and Office with the SharePoint Framework ](https://learn.microsoft.com/sharepoint/dev/spfx/office/overview )
+-	[Extend Teams apps across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/overview)
 
 
 ## Frequent questions around exposing SPFx solutions in Outlook and Office
 
-**I tried this process and can’t get the Teams solutions visible in Outlook or Office - what could be wrong?** 
+**I tried this process and can’t get the Teams solutions visible in Outlook or Office - what could be wrong?**
 
-This experience is still in preview for Outlook and Office, so it will not work in a normal production tenant. To enable the preview feature, you will need to configure the tenant to be in preview status for Office. See following article for more details – [Extend Teams apps across Microsoft 365](https://learn.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview).
+This experience is still in preview for Outlook and Office, so it will not work in a normal production tenant. To enable the preview feature, you will need to configure the tenant to be in preview status for Office. See following article for more details – [Extend Teams apps across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/overview).
 
 Notice that it can take up to 5 days for this setting to be applied.
 
-**Does this mean that the SPFx support is still in preview?** 
+**Does this mean that the SPFx support is still in preview?**
 
 Yes and no. Technically SPFx already supports this experiences with the native support of Microsoft Teams v2 JavaScript SDK, but we are still waiting for this to be supported in the web and desktop versions of Outlook and Office. This is planned to happen later during 2023.
 
-**Is there a way for me to target only one of the services – like only Outlook?** 
+**Is there a way for me to target only one of the services – like only Outlook?**
 
 Not currently, but this in the plans for the Teams manifest.
 
-**At some point you were able to build Office add-ins with SPFx – is this the same thing?** 
+**At some point you were able to build Office add-ins with SPFx – is this the same thing?**
 
 No. We did preview Office add-in model with SPFx few years back, but this is not the same model. This model focuses first on the Microsoft Teams personal app experience and exposing that across the other services. Other scenarios will be provided future.
 
@@ -91,7 +91,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

@@ -38,13 +38,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Test how your SPFx solutions respond to throttling with Graph Developer Proxy** – in SharePoint Workbench, in your tenant of 1, keeping you’re app code as is, simulate your app’s resilience under heavy load. Example: Test specifically for 429 errors. See configuring Proxy for scenario and then see how Proxy simulates/identifies 429s on a Microsoft Graph API. Once issue identified, remediate - add a sleep function, use PnPjs that handles 429s for you, etc.
 * **Introduction to Microsoft Viva ACE development learn module - Getting started** – learn about the new module in general and do 1st Exercise - Create a SPFx Basic Card ACE showing SharePoint list data. This ACE reads and writes to a SharePoint List. In hands-on lab, open your Workbench and site and add ACE to page. Look at operation of Card View, Quick View and at the target SharePoint list. Step through the AdaptiveCardExtension.ts, CardView.ts and QuickView.ts files.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube vCFnqq690p8 >}}
 
 ## Agenda items
 
-* [08:44](https://youtu.be/vCFnqq690p8?t=524) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* [08:44](https://youtu.be/vCFnqq690p8?t=524) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * [09:55](https://youtu.be/vCFnqq690p8?t=595) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 * [10:48](https://youtu.be/vCFnqq690p8?t=648) – Together mode picture
 * [11:58](https://youtu.be/vCFnqq690p8?t=718) – Demo Introduction Microsoft Graph PowerShell v2 preview release – [Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) \| @maisarissi_msft and [Peter Ombwa](https://www.linkedin.com/in/peterombwa/) (Microsoft)

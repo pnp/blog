@@ -18,8 +18,8 @@ Introducing the latest release of CLI for Microsoft 365
 
 [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces a number of new administrative commands as well as a ton of awesome improvements.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### Microsoft Entra
@@ -129,7 +129,7 @@ m365 spfx project doctor --output md > "doctor-report.md"
 
 ### Enhancements to interactive mode
 
-CLI for Microsoft 365 is interactive by default. This means that you only need to type the command, hit enter and CLI will do the rest. It will ask for a minimal set of required information to execute the command. It will even help you determine the correct result from a list of found items. Now we extended this behavior with an additional improvement. Till now you always needed to type the option value even if some only allowed specific values from a list of possible options. Now CLI will present you a list of possible choices for you to select the wanted option. This means less typing and fewer mistakes. 
+CLI for Microsoft 365 is interactive by default. This means that you only need to type the command, hit enter and CLI will do the rest. It will ask for a minimal set of required information to execute the command. It will even help you determine the correct result from a list of found items. Now we extended this behavior with an additional improvement. Till now you always needed to type the option value even if some only allowed specific values from a list of possible options. Now CLI will present you a list of possible choices for you to select the wanted option. This means less typing and fewer mistakes.
 
 ![interactive-mode-improvement](./images/interactive-mode-improvement.png)
 
@@ -141,7 +141,7 @@ If you are eager to go over all of the details and improvements added in this re
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 90 issues that are actively being developed and 61 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 90 issues that are actively being developed and 61 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 
@@ -199,4 +199,4 @@ For additional guidance on getting started or to explore detailed information ab
 
 ## Stay Connected!
 
-We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://twitter.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.

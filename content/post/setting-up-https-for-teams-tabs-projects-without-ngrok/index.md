@@ -15,7 +15,7 @@ Studio Code extension and generator for Teams applications. One thing I
 noticed is a little challenge when creating tabs, and that's due to the
 requirement to use SSL. The documentation is fine and [explains how to
 trust your local
-project](https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-blog-rogerman#add-a-trusted-certificate-for-localhost),
+project](https://learn.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview?WT.mc_id=m365-blog-rogerman#add-a-trusted-certificate-for-localhost),
 but I found it a little painful since the certificates only last 1 month
 and there's a different one for each project, so I need repeat the
 process frequently. Your teammates will need to do that as well.
@@ -37,7 +37,7 @@ has to go installing certs.]
 > one](https://dev.to/maximization/setup-https-in-development-with-create-react-app-3ien) helped
 > me figure this out!
 
-## Step 1: Create and trust a certificate authority (CA) 
+## Step 1: Create and trust a certificate authority (CA)
 
 This step only needs to be done once for as many projects as you wish.
 It assumes you already have Node.js installed, as required by the Teams
@@ -71,7 +71,7 @@ issued from it. You should see 4 files:
 that any cert you create will be trusted with no additional action on
 your part.
 
-### On Windows 
+### On Windows
 
 -   Double select  the `ca.crt` file and select "Install Certificate".
     \
@@ -93,7 +93,7 @@ your part.
 -   Restart all instances of your browser to force it to re-read its
     trusted roots. If in doubt, reboot your computer.
 
-### On Mac 
+### On Mac
 
 -   Double select  the **ca.crt** file, which should be found
     under `/Users/[your-name]/`. It will launch Keychain Access app.
@@ -111,7 +111,7 @@ your part.
 -   Restart all instances of your browser to force it to re-read its
     trusted roots. If in doubt, reboot your computer.
 
-### On Linux 
+### On Linux
 
 There are more steps on Linux as most browsers don't use the operating
 system's certificate store, and a tool called `certutil` is needed to
@@ -119,7 +119,7 @@ modify the browsers' `cert?.db` files. [This
 article](https://thomas-leister.de/en/how-to-import-ca-root-certificate/) explains
 how to install your new root certificate on Linux.
 
-## Step 2 -- Add the certs to your project 
+## Step 2 -- Add the certs to your project
 
 This is what you need to do for each project.
 
@@ -146,7 +146,7 @@ to the `.gitignore` file.
 `.cert`{.plain .plain}
 
 
-## Azure Active Directory SSO Tabs 
+## Azure Active Directory SSO Tabs
 
 Tabs that implement Azure Active Directory Single Sign-On need to
 implement more than just a web page; they need to implement a web
@@ -186,7 +186,7 @@ with this code:
 const fs = require('fs');const https = require('https');var privateKey = fs.readFileSync(process.env.SSL_KEY_FILE );var certificate = fs.readFileSync(process.env.SSL_CRT_FILE);https.createServer({    key: privateKey,    cert: certificate}, app).listen(port);
 ```
 
-## Working in a team 
+## Working in a team
 
 Each team member needs to do Step 1 on their computer just once. When a
 developer starts working on a project they can simply copy their .cert

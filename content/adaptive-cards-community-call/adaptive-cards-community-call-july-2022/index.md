@@ -16,7 +16,7 @@ videos:
 
 ## Call summary
 
-In this month’s community call the following topics were presented - Action.ToggleVisibility Deprecation (a non-breaking change for a control that needs to support accessibility requirements for all users), GA release for Adaptive Cards Handle Responses Connector, teaser on the React Native Adaptive Cards Renderer capability used in Microsoft Viva Connections mobile app to be demoed next month, and a 10-minute Q&A covering a host of topics - release schedule, integration, challenges and demo requests. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on July 14, 2022.
+In this month’s community call the following topics were presented - Action.ToggleVisibility Deprecation (a non-breaking change for a control that needs to support accessibility requirements for all users), GA release for Adaptive Cards Handle Responses Connector, teaser on the React Native Adaptive Cards Renderer capability used in Microsoft Viva Connections mobile app to be demoed next month, and a 10-minute Q&A covering a host of topics - release schedule, integration, challenges and demo requests. This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on July 14, 2022.
 
 {{< youtube YtnW60YHwS8 >}}
 
@@ -41,9 +41,9 @@ In this month’s community call the following topics were presented - Action.To
     * Feedback - [[Feature Request] Action.ToggleVisibility -\> Expander Control \#7678](https://github.com/microsoft/AdaptiveCards/issues/7678) Adaptive Cards
 * **Handle Responses Connector in GA**
     * Website – [Power Automate](https://powerautomate.microsoft.com/) \| flow.microsoft.com
-    * Documentation Trigger - [When someone responds to an adaptive card](https://docs.microsoft.com/connectors/teams/#when-someone-responds-to-an-adaptive-card)
+    * Documentation Trigger - [When someone responds to an adaptive card](https://learn.microsoft.com/connectors/teams/#when-someone-responds-to-an-adaptive-card)
     * May call - [Handling multi-user responses for Adaptive Cards in Microsoft Teams](https://youtu.be/V0iTtOYcP6w) **-** [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft)
-    * MSA Account - [Getting Started with Group Managed Service Accounts](https://docs.microsoft.com/windows-server/security/group-managed-service-accounts/getting-started-with-group-managed-service-accounts)
+    * MSA Account - [Getting Started with Group Managed Service Accounts](https://learn.microsoft.com/windows-server/security/group-managed-service-accounts/getting-started-with-group-managed-service-accounts)
 * **React Native Adaptive Cards Renderer**
     * Tool npm - [adaptivecards-reactnative](https://www.npmjs.com/package/adaptivecards-reactnative)
     * Repo - [BigThinkcode/AdaptiveCards](https://github.com/Bigthinkcode/AdaptiveCards/tree/main)
@@ -60,7 +60,7 @@ In this month’s community call the following topics were presented - Action.To
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 * Join us on August 11th at 09:00 am PT, Download the recurrent invite for this call – <https://aka.ms/adaptivecardscommunitycall>
 
 ## Resources in general

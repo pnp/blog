@@ -48,7 +48,7 @@ presenters and topics:
 
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 Unfortunately, we had some issues with the chat during the call. We
 apologize to folks who were not able to ask a question. If you have a
@@ -65,7 +65,7 @@ time.**
 We can help with Office Add-ins development, but this is a good question
 for Microsoft Teams. We recommend asking this question on
 [office-teams-app-dev - Microsoft
-Q&A.](https://docs.microsoft.com/answers/topics/office-teams-app-dev.html)
+Q&A.](https://learn.microsoft.com/answers/topics/office-teams-app-dev.html)
 Thanks!
 **Are there plans to provide access to the Outlook auto-complete list
 via office-js? The list is available in the UI on mobile, OWA and
@@ -89,7 +89,7 @@ Add-in? Which ones are the recommended ones to use?**
  In general you can use most web libraries with an Office Add-in. For
 SSO you don't need an authentication library to get the user identity
 token, since you just call
-[**getAccessToken**](https://docs.microsoft.com/javascript/api/office-runtime/officeruntime.auth?view=excel-js-preview#getAccessToken_options_)().
+[**getAccessToken**](https://learn.microsoft.com/javascript/api/office-runtime/officeruntime.auth?view=excel-js-preview#getAccessToken_options_)().
 However, you should implement a fallback sign-in dialog for scenarios
 where SSO will fail. In these cases using an authentication library
 makes the process easier. There is no requirement to use MSAL, but if
@@ -97,7 +97,7 @@ you do, you should use the official MSAL package for the
 framework/language of choice as recommended by Microsoft Azure. For more
 information see [Enable single sign-on for Office Add-ins - Office
 Add-ins | Microsoft
-Docs](https://docs.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins)
+Docs](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins)
 
 
 **I am attempting to implement the shared JavaScript runtime. However, I
@@ -129,41 +129,41 @@ manifest](https://github.com/OfficeDev/PnP-OfficeAddins/blob/main/Samples/excel-
 that uses a shared runtime.
 
 You can also run [manifest
-validation](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest)
+validation](https://learn.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest)
 which can provide more information about the error.
 
 ## Resources
 
-### Excel API updates 
+### Excel API updates
 
 -   insertWorksheetsFromBase64 - [Work with workbooks using the Excel
     JavaScript API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#insert-a-copy-of-an-existing-workbook-into-the-current-one-preview)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#insert-a-copy-of-an-existing-workbook-into-the-current-one-preview)
 -   onFormulaChanged - [Work with worksheets using the Excel JavaScript
     API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-worksheets#detect-formula-changes-preview)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-worksheets#detect-formula-changes-preview)
 -   getDirectDependents - [Work with formula precedents and dependents
     using the Excel JavaScript API - Office Add-ins |
-    Micros\...](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-ranges-precedents-dependents)
+    Micros\...](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-ranges-precedents-dependents)
 -   Workbook.onActivated - [Work with workbooks using the Excel
     JavaScript API - Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#detect-workbook-activation-preview)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-workbooks#detect-workbook-activation-preview)
 -   Table.resize - [Work with tables using the Excel JavaScript API -
     Office Add-ins | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/excel/excel-add-ins-tables#resize-a-table-online-only)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/excel/excel-add-ins-tables#resize-a-table-online-only)
 
-### Outlook add-ins Build conference recap 
+### Outlook add-ins Build conference recap
 
 -   Try out event-based activation -
     <https://aka.ms/LearnEventBasedAddIns>
 
 
-### PnP: Insert an external Excel file and populate it with JSON data 
+### PnP: Insert an external Excel file and populate it with JSON data
 
 -   PnP sample: [Insert an external Excel file and populate it with JSON
     data](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/excel-insert-file)
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -172,11 +172,11 @@ which can provide more information about the error.
 -   Community call recordings on the [YouTube Office Dev
     channel](https://aka.ms/OfficeDevYouTube)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues) 
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
@@ -184,4 +184,3 @@ which can provide more information about the error.
 The next Office Add-ins community call is on **Wednesday, July 14,
 2021** at 8:00AM PDT. Get the calendar invite at
 <https://aka.ms/officeaddinscommunitycall>.
-

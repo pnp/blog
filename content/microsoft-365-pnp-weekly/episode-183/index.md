@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Italy based Solution Architect [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Italy based Solution Architect [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia
 
 ## Topics discussed in this session
 
@@ -68,7 +68,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [PnPjs 3.8 release published](https://twitter.com/m365pnpjs/status/1580954736723124226)
 * [Episode #226 - Extending users and devices with Microsoft Graph and Extension attributes](https://www.youtube.com/watch?v=kBm-fjqg0PU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Microsoft Ignite - My favorite Power Platform Announcements](https://www.youtube.com/watch?v=hMAdr3BKIR8) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
-* [MFA. On for everyone? - Message Center Show Ep. 257](https://regarding365.com/mfa-on-for-everyone-8f07246f6087) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [MFA. On for everyone? - Message Center Show Ep. 257](https://regarding365.com/mfa-on-for-everyone-8f07246f6087) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 
 ## Additional resources
 

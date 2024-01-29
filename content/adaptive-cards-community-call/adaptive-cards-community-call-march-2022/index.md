@@ -39,10 +39,6 @@ The following topics are covered in this month’s community call.  Demo:  **A
 *   Power Automate for Desktop Announcement - [https://powerautomate.microsoft.com/blog/power-automate-for-desktop-february-2022-update/](https://powerautomate.microsoft.com/blog/power-automate-for-desktop-february-2022-update/)
 *   The latest Fluent React v9 here - [fluentui/packages/react-components at master · microsoft/fluentui (github.com)](https://github.com/microsoft/fluentui/tree/master/packages/react-components#readme)
 
-## Actions 
-
-*   Register for teams community conference - [https://teamsnation.rocks/register](https://teamsnation.rocks/register)
-
 ## Resources in General
 
 *   Let us know the features you need    [https://aka.ms/ACRoadmap](https://aka.ms/ACRoadmap)

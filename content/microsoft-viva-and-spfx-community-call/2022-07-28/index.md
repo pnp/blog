@@ -27,11 +27,11 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) –
         v5.5.0 (GA)
 * Web part samples
-    * Room Chat - [João Mendes](http://twitter.com/joaojmendes) \|
+    * Room Chat - [João Mendes](https://twitter.com/joaojmendes) \|
         @joaojmendes
     * [Page
         Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator)
-        \- [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+        \- [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
 
 ### Demos
 
@@ -52,7 +52,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     package and deploy using PowerShell.
 
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -60,19 +60,19 @@ call.
 
 ## Agenda items
 
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997)
     (Sympraxis Consulting) \| @jfj1997 –
     [7:02](https://youtu.be/oheJxCGA_cw?t=422)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder)
     (CPS Solutions) \| @garrytrinder –
     [8:59](https://youtu.be/oheJxCGA_cw?t=539)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [11:47](https://youtu.be/oheJxCGA_cw?t=707)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler)
     (Microsoft) \| @mediocrebowler – [13:01](https://youtu.be/oheJxCGA_cw?t=781)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerI – [14:14](https://youtu.be/oheJxCGA_cw?t=854)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII)
     (Microsoft) \| @DavidWarnerII –[14:53](https://youtu.be/oheJxCGA_cw?t=893)
 * Demo - Using OneDrive File Picker v8 control in your solution – [Patrick
     Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler
@@ -118,13 +118,13 @@ call.
 
 * **Using OneDrive File Picker v8 control in your solution**
     * Documentation – [File
-        picker](https://docs.microsoft.com/onedrive/developer/controls/file-pickers/)
+        picker](https://learn.microsoft.com/onedrive/developer/controls/file-pickers/)
     * Samples – [OneDrive File Picker v8
         Samples](https://github.com/OneDrive/samples/tree/master/samples/file-picking)
         \| aka.ms/OneDrive/samples/file-picking
 * **How to create custom list forms with SPFx**
     * Documentation - [Build your first Form Customizer extension
-        (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+        (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
     * SPFx Controls [- Reusable React controls for your SharePoint Framework
         solutions](https://pnp.github.io/sp-dev-fx-controls-react/)
     * SPFx Controls - [Dynamic
@@ -170,7 +170,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -189,7 +189,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

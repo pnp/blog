@@ -121,7 +121,7 @@ SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 Additional resources on covered topics and discussions.
 
 -   Documentation - [Add Viva Connections for Microsoft Teams
-    desktop](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    desktop](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   Overview - [Microsoft Viva](https://aka.ms/Viva) |
     <https://aka.ms/Viva>
@@ -150,16 +150,16 @@ Additional resources on covered topics and discussions.
 ## Additional resources
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
--   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com/)
+-   [PnP Weekly - Podcasts](https://pnpweekly.podbean.com/)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/sharepoint/) -
+    Guidance](https://learn.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
     v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -168,7 +168,7 @@ Additional resources on covered topics and discussions.
     - <https://aka.ms/spdev-call>
 -   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
 -   SharePoint Development Issues - <https://aka.ms/spdev-issues>
--   SharePoint GitHub organization - <http://github.com/SharePoint>
+-   SharePoint GitHub organization - <https://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests
     - <https://aka.ms/spdev-uservoice>
 

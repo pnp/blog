@@ -401,6 +401,6 @@ Hope this helps to understand the SPFx Adaptive Card Extension concept, Happy co
 
 ## Reference links
 
-[https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension](https://docs.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension)
+[https://learn.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension](https://learn.microsoft.com/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension)
 
 [https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/](https://nanddeepnachanblogs.com/posts/2021-09-21-build-ace-spfx/)

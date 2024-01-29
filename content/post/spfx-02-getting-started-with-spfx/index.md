@@ -9,7 +9,7 @@ images:
   - images/02-getting-started-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -46,7 +46,7 @@ Here are the steps to get started on building SPFx solutions within Microsoft 36
 3.	Scaffold your first SPFx solution using the SPFx Yeoman generator
 4.	Develop, test and debug the solution in a tenant based on your objectives
 
-One of the coolest things in the SPFx is its ability to package solutions as automatically hosted packages in the tenant. This means that when the solution is ready to be used, you can simply package the solution to a specific package type, which can be easily deployed to any tenant in the world. 
+One of the coolest things in the SPFx is its ability to package solutions as automatically hosted packages in the tenant. This means that when the solution is ready to be used, you can simply package the solution to a specific package type, which can be easily deployed to any tenant in the world.
 
 You are **production ready in a matter of minutes** with the automatically hosted code without any need to figure out a location to host your code in Microsoft Azure or in other location in cloud.
 
@@ -57,42 +57,42 @@ Following 6 videos is a great baseline series on getting started with SPFx. This
 
 **Setting up your Microsoft 365 tenant**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=ijaJgc3J-iE&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=1)
 
   {{< youtube ijaJgc3J-iE >}}
 
 **Set up development environment**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=Cxx9MdjEiEw&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=2)
 
   {{< youtube Cxx9MdjEiEw >}}
 
 **Build your first SharePoint client-side web part (Hello World part 1)**
 
--	[Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
+-	[Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
 -	[Tutorial in video format in YouTube](https://www.youtube.com/watch?v=6WTtjXP5yW4&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=3)
 
   {{< youtube 6WTtjXP5yW4 >}}
 
 **Connect your client-side web part to SharePoint (Hello World part 2)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint)
 -	[Tutorial in video format in YouTube](https://www.youtube.com/watch?v=5M3zDpgxIMs&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=4)
 
   {{< youtube 5M3zDpgxIMs >}}
 
 **Deploy your client-side web part to a SharePoint page (Hello World part 3)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/serve-your-web-part-in-a-sharepoint-page)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/serve-your-web-part-in-a-sharepoint-page)
 -	[Tutorial in video format in YouTube](https://www.youtube.com/watch?v=FkFg32NSTM0&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=5)
 
   {{< youtube FkFg32NSTM0 >}}
 
 **Host your client-side web part from Microsoft 365 CDN (Hello World part 4)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn)
 -	[Tutorial in video format in YouTube](https://www.youtube.com/watch?v=N-KowN-UwTM&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=6)
 
   {{< youtube N-KowN-UwTM >}}
@@ -100,19 +100,19 @@ Following 6 videos is a great baseline series on getting started with SPFx. This
 
 ## Frequent questions around getting started with SPFx
 
-**Which Node version is supported by SPFx?** 
+**Which Node version is supported by SPFx?**
 
 This depends on the used version. In the time of writing this blog post, the supported version would be Node 16.x. Version is updated as part of the new version of the SPFx. You can always find the latest status from the official documentation.
 
-As SPFx is also used by the Microsoft engineering team to build the native experiences in the Microsoft 365, updating to the latest Node can take a while, as the native out-of-the-box experiences will need to be updated for the latest version. This is why the supported Node version might be a bit behind the latest released version. 
+As SPFx is also used by the Microsoft engineering team to build the native experiences in the Microsoft 365, updating to the latest Node can take a while, as the native out-of-the-box experiences will need to be updated for the latest version. This is why the supported Node version might be a bit behind the latest released version.
 
-**What’s the most common issue with getting started?** 
+**What’s the most common issue with getting started?**
 
-Most common issue is a mismatch of the environment with the supported technologies, so for example you are using too new Node version vs what’s supported by the SPFx tooling. 
+Most common issue is a mismatch of the environment with the supported technologies, so for example you are using too new Node version vs what’s supported by the SPFx tooling.
 
-**I’m having challenges with the dev certificate installation** 
+**I’m having challenges with the dev certificate installation**
 
-Notice that you’ll need to first scaffold a project and after that you can execute the ‘gulp dev-cert’ command to create the developer certificate for hosting the code locally. This is needed so that the Microsoft 365 hosted online workbench can request the locally hosted files with https. 
+Notice that you’ll need to first scaffold a project and after that you can execute the ‘gulp dev-cert’ command to create the developer certificate for hosting the code locally. This is needed so that the Microsoft 365 hosted online workbench can request the locally hosted files with https.
 
 **I still can’t make things work – where to get help?**
 
@@ -125,7 +125,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

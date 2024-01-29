@@ -41,16 +41,16 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 
 ## Actions
 
-* Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=I5LYE8pBSlftGEofnz98KPtVi5KfZFts7UZ7CHjRRQk%3D&reserved=0)
+* Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://docs.microsoft.com/learn/paths/m365-identity-associate/)
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on February 16th at 9:00am PT. Download the recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 
@@ -59,7 +59,7 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 * Twitter [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​ and **@azuread**
 * LinkedIn [Nandeesh Swami](https://www.linkedin.com/in/nandeesh-s-301a7514/) \| <https://www.linkedin.com/in/nandeesh-s-301a7514/>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/m365/videos>
-* Microsoft 365 Platform Community - <http://aka.ms/m365/community>
+* Microsoft 365 Platform Community - <https://aka.ms/m365/community>
 * YouTube [https://aka.ms/M365DevYouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RzWmpNU2VPRmh6dXBad3hKMmxySjBaQVl6Z3xBQ3Jtc0trVjYyeXZlSXZiX0JydHlyeHdqcTRSUnczX2xrVDloOWhzeGVCYXFibjBiM1VpXzFOd2dZX2dJdlNYQWYtekcyWXZOTHp3VkdoU2JsdmNVQ3dtdkw2ZHF0cVdCS29TQmJ1Z3hoVmJyd3JtYlFxUW92WQ&q=https%3A%2F%2Faka.ms%2FM365DevYouTube)​ (Developer channel)
 * Blogs <https://aka.ms/m365pnp/blog>
 

@@ -96,7 +96,7 @@ In order to create a deployable Bicep file, we will need to use some tools. I wi
 ### Tools
 
 - In [Visual Studio Code](https://code.visualstudio.com/) (VS Code), install the [Bicep extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep). (Most probably you will need to restart VS Code after installing the extension.)
-- Install [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli-windows?tabs=azure-cli) - You can validate which version you have installed when you run `az --version` in your terminal.
+- Install [Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli-windows?tabs=azure-cli) - You can validate which version you have installed when you run `az --version` in your terminal.
 - Install **Bicep CLI** in terminal by running `az bicep install`. If you did that already a while ago, it's a good idea to upgrade to the latest version with `az bicep upgrade`
 
 ### Get the ARM template
@@ -123,7 +123,7 @@ This will create a new file `template.bicep`. To make this template file better,
 
 ### Modules
 
-If you want to deploy more than one resource, you will end up with a very lengthy file, which makes it hard to gain overview - also collaboration and debugging is hard with that. Luckily, Bicep knows a concept that is called modules, which are also Bicep files that can be deployed from a root Bicep file. You can even [share modules](https://docs.microsoft.com/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell) for reusing modules in your organization.
+If you want to deploy more than one resource, you will end up with a very lengthy file, which makes it hard to gain overview - also collaboration and debugging is hard with that. Luckily, Bicep knows a concept that is called modules, which are also Bicep files that can be deployed from a root Bicep file. You can even [share modules](https://learn.microsoft.com/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell) for reusing modules in your organization.
 
 This is how we do it:
 

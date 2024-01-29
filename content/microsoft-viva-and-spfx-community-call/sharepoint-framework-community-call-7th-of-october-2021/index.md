@@ -221,23 +221,23 @@ slides.
     [ace-cardgallery](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-CreateTeam) 
 
 -   D1:  Documentation - [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   [D2:  Sample - ][Lead Assist
     Dashboard](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-teams-lead-dashboard)
 
 -   [D2:  Documentation - ][Build for
     Microsoft Teams using SharePoint
-    Framework](https://docs.microsoft.com/sharepoint/dev/spfx/build-for-teams-overview)
+    Framework](https://learn.microsoft.com/sharepoint/dev/spfx/build-for-teams-overview)
 
 -   [D2:  Documentation - ][Use Microsoft
     Graph in your
-    solution](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
+    solution](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 
 -   [D2:  Documentation - ][Microsoft
     Graph Toolkit: UI Components and Authentication Providers for
     Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview)
+    Graph](https://learn.microsoft.com/graph/toolkit/overview)
 
 -   [D2:  Tools - ][Reusable React
     controls for your SharePoint Framework
@@ -329,7 +329,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -374,7 +374,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in

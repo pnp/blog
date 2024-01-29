@@ -199,7 +199,7 @@ slides.
     part](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-sites-selected-admin) 
 
 -   Documentation - [Permission resource
-    type](https://docs.microsoft.com/graph/api/resources/permission?view=graph-rest-1.0) 
+    type](https://learn.microsoft.com/graph/api/resources/permission?view=graph-rest-1.0) 
 
 -   Video -- [Requesting API Permissions in
     Azure](https://www.youtube.com/watch?v=wcJRQDsXMQ8&list=PLWZJrkeLOrbYJEr_LoIJ7-1Goy09XJzha) 
@@ -245,7 +245,7 @@ slides.
     Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV)
     (6 videos)
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -275,7 +275,7 @@ slides.
 **Other mentioned topics**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
@@ -325,4 +325,3 @@ calls are used for the following objectives.
 ------------------------------------------------------------------------
 
 *Microsoft 365 Patterns and Practices team - 12th of March, 2021*
-

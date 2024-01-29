@@ -50,23 +50,23 @@ For 3rd-party Api access SPFx offers two clients: MSGraphClient and AadHttpClien
 
 <a name="secure-user-specific"></a>
 
-Therefore it’s better to handle this with AadHttpClient in the backend and a specific app registration. It still allows to be consumed by any app but only in the way you implement it. 
-You still need one public Enterprise application. But only to access your backend function which can be considered less critical than directly granted Microsoft Graph permissions, such as Directory.Read.All. Those critical permissions for Microsoft Graph e.g. you can handle in your app specific app registration available only to your specific backend application. 
+Therefore it’s better to handle this with AadHttpClient in the backend and a specific app registration. It still allows to be consumed by any app but only in the way you implement it.
+You still need one public Enterprise application. But only to access your backend function which can be considered less critical than directly granted Microsoft Graph permissions, such as Directory.Read.All. Those critical permissions for Microsoft Graph e.g. you can handle in your app specific app registration available only to your specific backend application.
 
 You can further [secure your backend function either server-side](https://mmsharepoint.wordpress.com/2022/03/02/restrict-calls-from-spfx-inside-azure-functions/) or [client-side](https://mmsharepoint.wordpress.com/2021/08/20/restrict-calls-to-azure-functions-from-spfx/) on behalf of Azure AD security groups.
 
-Client-side makes sense to disable or hide functionality in the UI immediately while server-side of course is the more secure one as the API cannot be called by any client without an appropriate user. 
+Client-side makes sense to disable or hide functionality in the UI immediately while server-side of course is the more secure one as the API cannot be called by any client without an appropriate user.
 
 <a name="avoid-app-permissions"></a>
 ## Avoid app permissions
 
-To be precisely and clear: Always prefer to use delegated access and delegated permissions. App permissions always are applied non-resource specific. This means what you can do with one site you can do with every site. No user specific access to specific resources is possible that way. In the past there was the option to authenticate with ACS site-scoped which is not recommended anymore. For instance this is not centrally managed in Azure AD where you could apply conditional access policies as an example from a typical ZeroTrust scenario. A new option is the so called [resource specific consent (RSC)](https://mmsharepoint.wordpress.com/2021/08/18/accessing-sharepoint-sites-with-resource-specific-consent-rsc-and-microsoft-graph/). This is not SharePoint specific as for instance it also works with Teams. 
+To be precisely and clear: Always prefer to use delegated access and delegated permissions. App permissions always are applied non-resource specific. This means what you can do with one site you can do with every site. No user specific access to specific resources is possible that way. In the past there was the option to authenticate with ACS site-scoped which is not recommended anymore. For instance this is not centrally managed in Azure AD where you could apply conditional access policies as an example from a typical ZeroTrust scenario. A new option is the so called [resource specific consent (RSC)](https://mmsharepoint.wordpress.com/2021/08/18/accessing-sharepoint-sites-with-resource-specific-consent-rsc-and-microsoft-graph/). This is not SharePoint specific as for instance it also works with Teams.
 In fact here app permissions are granted only to "resource specific consent"ed objects such as Sites or Teams. First your app gets "Sites.Selected" as app permission, ONLY in a second step "selected" sites (or teams) get "consented" access by your app registration.
 This is a big advantage over the old site-scoped ACS approach. One disadvantage is, this approach still requires a high privileged app permission needed at least for setup. So if your organization does not allow app permissions at all you need really good arguments for this approach. A request for “Sites.FullControl.All” app permission is a bit like requesting a bazooka...
 
 ### Domain Isolated
 
-Of course there is another option to prevent granting permissions too broad. You could make use of [domain isolated web parts](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/isolated-web-parts?WT.mc_id=M365-MVP-5004617). But honestly I’ve never seen a really good enterprise implementation nor have I met an expert actively promoting this. Furthermore, as you can guess from above's Azure AD screenshot, it also works in combination with a public enterprise application. A potential showstopper in ZeroTrust environments as we have seen, already ...
+Of course there is another option to prevent granting permissions too broad. You could make use of [domain isolated web parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts?WT.mc_id=M365-MVP-5004617). But honestly I’ve never seen a really good enterprise implementation nor have I met an expert actively promoting this. Furthermore, as you can guess from above's Azure AD screenshot, it also works in combination with a public enterprise application. A potential showstopper in ZeroTrust environments as we have seen, already ...
 
 ## Managed Identities
 
@@ -78,7 +78,7 @@ Dealing with sensitive information of course always is a potential security risk
 
 Nevertheless there is one disadvantage in managed identities. In combination with Microsoft Graph or SharePoint permissions it only works with app permissions. Although I already implemented a delegated sample working in AzureAutomation I couldn’t reproduce this as an Azure function and I’m quite sure this is not yet supported. So my wish would be this becomes a valid scenario in the near future:
 
-Managed Identity—>Member of AD security group—>Granted access to Graph or SharePoint resource—>Access Token with delegated permissions works 
+Managed Identity—>Member of AD security group—>Granted access to Graph or SharePoint resource—>Access Token with delegated permissions works
 
 ## Use SSO wherever possible
 

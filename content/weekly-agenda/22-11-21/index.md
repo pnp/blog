@@ -27,7 +27,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
-Demos: 
+Demos:
 
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen - Creating SPFx powered multi-tab solution using Microsoft Teams Toolkit
 * [Bill Baer](https://twitter.com/billbaer) (Microsoft) | @billbaer - What’s new for Microsoft Search Usage reports
@@ -42,7 +42,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent - List formatting magic - Warrior horses
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam258587 - Introduction to CLI for Microsoft 365 and PnP PowerShell VS Code extensions
@@ -63,7 +63,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 * [Access Microsoft Teams meeting details in a meeting app](https://www.youtube.com/watch?v=1GWRmmELYcI) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Building a Copy Views SharePoint Framework Web Part](https://www.youtube.com/watch?v=x7BRYidNKRg&t=5s) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 * [Extend Microsoft Teams apps to Office and Outlook Mobile](https://www.youtube.com/watch?v=kcHBiXUxHzU&t=2s) by Sheena Makker (Microsoft) and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-* [Power Pages - General Availability – Getting started](https://www.youtube.com/watch?v=HjTmdFGCbqE&t=4s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh 
+* [Power Pages - General Availability – Getting started](https://www.youtube.com/watch?v=HjTmdFGCbqE&t=4s) by [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 * [Using the Azure AD on-behalf-of flow within your SharePoint Framework solution](https://www.youtube.com/watch?v=R86R1kM3Byk&t=106s) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 
 ---
@@ -113,7 +113,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -122,7 +122,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
 
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
+* M365 Saturday Coimbatore 2022 - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 
@@ -132,4 +132,3 @@ Please take the opportunity to join these great conferences organized by the bes
 We hope to see you around!
 
 _Sharing is caring 🧡_
-

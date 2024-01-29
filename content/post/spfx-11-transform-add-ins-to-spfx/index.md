@@ -9,7 +9,7 @@ images:
   - images/11-sharepoint-add-ins-to-spfx-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -32,7 +32,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Transforming and modernizing SharePoint add-ins
 
-Microsoft initially released the [SharePoint add-in model](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/sharepoint-add-ins) (and Office add-in model) back in 2012 with the SharePoint 2013 release. This technique was designed to be the cloud first extensibility model with an option to use it in Microsoft 365 (Office 365 at the time). Previously SharePoint extensibility was based on the server-side extensibility which was deployed to the specific servers or with the Sandbox solution model, which never really took off.
+Microsoft initially released the [SharePoint add-in model](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/sharepoint-add-ins) (and Office add-in model) back in 2012 with the SharePoint 2013 release. This technique was designed to be the cloud first extensibility model with an option to use it in Microsoft 365 (Office 365 at the time). Previously SharePoint extensibility was based on the server-side extensibility which was deployed to the specific servers or with the Sandbox solution model, which never really took off.
 
 This means that the add-in model is already more than 10 years old, and Microsoft has not really invested in this model since the introduction of SPFx development pattern. SharePoint add-ins are still fully supported in SharePoint Online or in the on-premises, but it's expected that the support will be removed at some point, and we do not recommend investing in this model for any new features or capabilities.
 
@@ -43,12 +43,12 @@ Depending on the add-in implementation details, you should be looking at followi
 
 Documentation and references
 
-- [Migrating JSLink customizations to SharePoint Framework Field Customizers](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/guidance/migrate-jslink-to-spfx-extensions)
-- [Migrating user custom actions and ECB menu items to SharePoint Framework Extensions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/guidance/migrate-user-customactions-to-spfx-extensions)
-- [Migrate Edit Control Block (ECB) menu items to SharePoint Framework extensions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/guidance/migrate-from-ecb-to-spfx-extensions)
-- [Migrating from JSLink to SharePoint Framework extensions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/guidance/migrate-from-jslink-to-spfx-extensions)
-- [Migrating from UserCustomAction to SharePoint Framework extensions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/guidance/migrate-from-usercustomactions-to-spfx-extensions)
-- [Migrate existing Script Editor web part customizations to the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/migrate-script-editor-web-part-customizations)
+- [Migrating JSLink customizations to SharePoint Framework Field Customizers](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/guidance/migrate-jslink-to-spfx-extensions)
+- [Migrating user custom actions and ECB menu items to SharePoint Framework Extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/guidance/migrate-user-customactions-to-spfx-extensions)
+- [Migrate Edit Control Block (ECB) menu items to SharePoint Framework extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/guidance/migrate-from-ecb-to-spfx-extensions)
+- [Migrating from JSLink to SharePoint Framework extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/guidance/migrate-from-jslink-to-spfx-extensions)
+- [Migrating from UserCustomAction to SharePoint Framework extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/guidance/migrate-from-usercustomactions-to-spfx-extensions)
+- [Migrate existing Script Editor web part customizations to the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/migrate-script-editor-web-part-customizations)
 
 ## Frequent questions around single part app pages
 
@@ -82,7 +82,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

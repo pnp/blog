@@ -221,7 +221,7 @@ Topics covered in this call
     @NataliePienkow1 & ][Tomasz
     Poszytek](https://twitter.com/TomaszPoszytek)[ |
     @TomaszPoszytek ][--][ [41:46](https://youtu.be/frJnxOITmSU?t=2506)]
-    
+
 
 
 ## Resources
@@ -233,7 +233,7 @@ slides.
     [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie) 
 -   D1:  Documentation - [ProvisionGenie](https://provisiongenie.com/) 
 -   D2:  Documentation - [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
 -   D2:  Samples -- [List
     Formatting](https://github.com/pnp/List-Formatting) (View samples \>
     Content-browser) | (Sample available very soon)
@@ -314,7 +314,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

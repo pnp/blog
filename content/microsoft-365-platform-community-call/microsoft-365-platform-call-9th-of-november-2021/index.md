@@ -177,18 +177,18 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   **D1:**  Documentation - [Add a search box to your intranet
-    site](https://docs.microsoft.com/microsoftsearch/add-a-search-box-to-your-intranet-site) 
+    site](https://learn.microsoft.com/microsoftsearch/add-a-search-box-to-your-intranet-site) 
 
 -   **D1:**  Documentation - [Security and Privacy for Microsoft Search
     in
-    Bing](https://docs.microsoft.com/microsoftsearch/security-for-search) 
+    Bing](https://learn.microsoft.com/microsoftsearch/security-for-search) 
 
 -   **D2:**  Learn - [Extend Microsoft Viva
-    Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/) 
+    Connections](https://learn.microsoft.com/learn/paths/m365-extend-viva-connections/) 
 
 -   **D2:**  Documentation - [Plan, build, and launch a home site for
     your
-    organization](https://docs.microsoft.com/sharepoint/home-site-plan) 
+    organization](https://learn.microsoft.com/sharepoint/home-site-plan) 
 
 ## General resources
 
@@ -241,7 +241,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -279,7 +279,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

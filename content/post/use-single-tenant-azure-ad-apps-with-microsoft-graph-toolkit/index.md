@@ -16,7 +16,7 @@ Here is how.
 ## Microsoft Graph Toolkit - the easiest way to connect to Microsoft 365
 
 [Microsoft Graph
-Toolkit](https://docs.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-12257-wmastyka)
+Toolkit](https://learn.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-12257-wmastyka)
 (MGT) is a set of web components that abstract away the plumbing behind
 connecting to Microsoft Graph and allow you to focus on your application
 instead.
@@ -24,7 +24,7 @@ Microsoft Graph Toolkit is available as a generic set of web components
 distributed through the
 **@microsoft/mgt** npm
 package. If you're [building apps with
-React](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react?WT.mc_id=m365-12257-wmastyka),
+React](https://learn.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react?WT.mc_id=m365-12257-wmastyka),
 you can use the
 **@microsoft/mgt-react**
 package which wraps MGT web component in React components making it
@@ -39,11 +39,11 @@ To do that, it needs to authenticate the user working with your web app
 against their tenant.
 
 If you build applications using [SharePoint
-Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-12257-wmastyka),
+Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-12257-wmastyka),
 you can reuse the existing authentication context. But if you build a
 standalone web app, you need to register an application in Azure Active
 Directory and use it with MGT's [MSAL
-Provider](https://docs.microsoft.com/graph/toolkit/providers/msal?WT.mc_id=m365-12257-wmastyka),
+Provider](https://learn.microsoft.com/graph/toolkit/providers/providers),
 like:
 
 ``` highlight

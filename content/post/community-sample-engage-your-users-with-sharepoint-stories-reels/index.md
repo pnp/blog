@@ -72,7 +72,7 @@ couple of texts for heading and subheading. Although we could get the
 Author profile image, username and email using Graph API, it is going to
 be much easier to make use of the MS Graph Toolkit library, and use the
 [MGT Person
-component](https://docs.microsoft.com/graph/toolkit/components/person).
+component](https://learn.microsoft.com/graph/toolkit/components/person).
 In order to render the GMT Person component, we cannot use the Story
 Header property, however, the Story object allow us to specify a custom
 render function for the entire Story, and in that function, we can use

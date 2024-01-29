@@ -4,7 +4,7 @@ date: 2021-07-09T05:07:00-04:00
 author: "Matt Hidinger"
 githubname: MattHidinger
 categories: ["Adaptive Cards community call"]
-images: 
+images:
 - images/ThumbnailAC-July2021.png
 tags: ["Adaptive Cards"]
 type: "regular"
@@ -15,13 +15,13 @@ Covered off in this month's "conversational" community call:
 -  A lap
 around **MadeWithCards.io** community site (guidance, cards, tools, news
 and updates by and for Adaptive Cards Community that nicely complements
-the content found on Microsoft's Adaptive Cards site).  
+the content found on Microsoft's Adaptive Cards site). 
 - Also toured
 **Adaptive Card Studio - VS Code Extension** (Cards, templates, sample
 data, snippets, guidance, etc).   
 
 - As well, two new program managers -
-Rahul and J.P., are welcomed to the Adaptive Cards team.    
+Rahul and J.P., are welcomed to the Adaptive Cards team.   
 
 - There is Q&A
 throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
@@ -43,7 +43,7 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
     MadeWithCards.io community site and pulled from
     AdaptiveCards.io/designer site.   Cards, templates, sample data,
     snippets, guidance, card submissions, full syntax highlighting and
-    more.   
+    more.  
     - Also a sneak peek at MadeWithCards API -- work in progress. 
 
 ## Referenced in this call
@@ -54,7 +54,7 @@ throughout the call.  This call was hosted by Matt Hidinger (Microsoft)
 -   Tools -- [Microsoft Teams Developer Portal
     (Preview)](http://dev.teams.microsoft.com) 
 -   Documentation - [Universal Action
-    Model](https://docs.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
+    Model](https://learn.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
 -   Video - [Deep dive into Universal Actions for Microsoft Teams and
     Outlook](https://youtu.be/mwWAFw8df50) 
 

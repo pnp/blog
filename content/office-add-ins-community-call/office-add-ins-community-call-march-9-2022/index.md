@@ -24,8 +24,8 @@ This month's community call features an update on **Excel API 1.15 preview** (ac
 *   **Excel API 1.15 preview** – Sirui Sun, Software Engineer (Microsoft) – [00:31](https://youtu.be/eC94i0ZJkao?t=31)
 *   **Q&A** – [05:10](https://youtu.be/eC94i0ZJkao?t=310)
 
-> Last updated: July 7. The presentation **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** was removed from this call. Upon further research, it came to our attention that this approach has a potential security risk. Once the Microsoft Graph token is obtained by the middle-tier, it sends the token to the add-in's client code running in Outlook. The Microsoft Graph access token created by the Microsoft identity platform as part of the on-behalf-of flow is only intended to be used by the middle-tier. Find more details about this security risk at [Middle-tier access token request](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request).
-> We are working on creating a sample with prescriptive guidance on how to implement event-based add-ins in Outlook using SSO with the guidance documented at [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
+> Last updated: July 7. The presentation **Consuming Graph Services using SSO and CORS from event–based Outlook add–ins** was removed from this call. Upon further research, it came to our attention that this approach has a potential security risk. Once the Microsoft Graph token is obtained by the middle-tier, it sends the token to the add-in's client code running in Outlook. The Microsoft Graph access token created by the Microsoft identity platform as part of the on-behalf-of flow is only intended to be used by the middle-tier. Find more details about this security risk at [Middle-tier access token request](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow#middle-tier-access-token-request).
+> We are working on creating a sample with prescriptive guidance on how to implement event-based add-ins in Outlook using SSO with the guidance documented at [Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow).
 
 ## Actions
 
@@ -50,7 +50,7 @@ We’re sorry to hear you’ve been experiencing issues with your add-in. Unless
 
 We strive to update our documentation to reflect upcoming changes, but we recognize that these may not be immediately visible to our developer community. We are currently working on posting changes and new features to the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) to better communicate these to the community. In addition to updating our documentation, we also highlight upcoming changes and features in our monthly community call. Again, if you run into a particular issue during development, we encourage you to report the issue at [https://github.com/officedev/office-js](https://github.com/officedev/office-js), so that we can provide you with further assistance.
 
-  
+
 ### Is the ability to call the Microsoft Graph API for various customer tenants via JS runtime available for add-ins in Excel and Word? What about shared runtime?
 
 It is available for Excel, but not available in Word yet. If you use shared runtime for Excel, CORS is already supported prior to this. For Excel custom functions that do not use shared runtime, CORS was recently enabled.
@@ -81,7 +81,7 @@ We see this issue is affecting multiple customers and we’ve moved this up in p
 
 ### Should we post in the Microsoft Q&A forum or StackOverflow or GitHub?
 
-The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://docs.microsoft.com/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
+The team monitors all of these locations. For development assistance, particularly with coding, please post your questions to [Microsoft Q&A](https://learn.microsoft.com/answers/products/m365) or [Stack Overflow](https://stackoverflow.com). To report bugs, please open an issue in [GitHub](https://github.com/OfficeDev/office-js).
 
 ### Is there a documented or known issue that anyone is aware of with the Word API and supporting older versions of Word documents?
 
@@ -99,10 +99,10 @@ Enabling the APIs available across all endpoints is our strategy. However, due t
 *   Office Scripts | [https://aka.ms/office-scripts-docs](https://aka.ms/office-scripts-docs)
 *   Microsoft 365 Developer Program | [https://aka.ms/M365devprogram](https://aka.ms/M365devprogram)
 *   Script Lab | [https://aka.ms/getscriptlab](https://aka.ms/getscriptlab)
-*   Office Add–ins documentation | [https://aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs) 
+*   Office Add–ins documentation | [https://aka.ms/office-add-ins-docs](https://aka.ms/office-add-ins-docs)
 *   Twitter | [https://twitter.com/microsoft365dev](https://twitter.com/microsoft365dev)
 *   YouTube | [https://aka.ms/m365pnp/videos](https://aka.ms/m365pnp/videos)
-*   Link to all Microsoft Developer Community calls | [https://aka.ms/M365DevCalls](https://aka.ms/M365DevCalls) 
+*   Link to all Microsoft Developer Community calls | [https://aka.ms/M365DevCalls](https://aka.ms/M365DevCalls)
 
 ### Office Add-ins community call
 
@@ -113,7 +113,7 @@ Enabling the APIs available across all endpoints is our strategy. However, due t
 
 ### Office Add-ins feedback
 
-*   Technical questions – Microsoft Q&A ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+*   Technical questions – Microsoft Q&A ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 *   ​Questions for the developer community – [Stack Overflow](https://stackoverflow.com) (**office-js,​ outlook-web-addins​, office-scripts**)
 *   Issues – [GitHub](https://github.com/OfficeDev/office-js/issues)
 *   Recommendations and suggestions – [Microsoft 365 Developer Platform ideas](https://aka.ms/m365dev-suggestions)

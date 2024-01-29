@@ -143,7 +143,7 @@ For adding users to SharePoint group using Group name, execute :
 m365 spo group user add --webUrl https://contoso.sharepoint.com/sites/SiteA --groupName "Contoso Site Owners" --email "Alex.Wilber@contoso.com, Adele.Vance@contoso.com"
 ```
 
-For more information about adding users to SharePoint group, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-user-add/)
+For more information about adding users to SharePoint group, see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-member-add)
 
 ### Enhanced Documentation for managing Microsoft 365 Apps
 
@@ -153,7 +153,7 @@ For knowing more details on managing Microsoft 365 Apps, see the [documentation]
 
 ## New script samples
 
-CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
 ### List all large files in a SharePoint site
 
@@ -222,5 +222,3 @@ docker run --rm -it m365pnp/cli-microsoft365:latest
 If you need more help getting started or want more details about the commands, the architecture or the project, go to [aka.ms/cli-m365](https://aka.ms/cli-m365).
 
 If you see any room for improvement, please, don’t hesitate to reach out to us either on [GitHub](https://github.com/pnp/cli-microsoft365/issues) or [twitter](https://twitter.com/climicrosoft365).
-
-

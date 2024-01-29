@@ -13,7 +13,7 @@ summary: ""
 # Taxonomies
 categories: ["Community post"]
 tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva"]
-type: "regular" 
+type: "regular"
 ---
 
 ## TL;DR
@@ -25,7 +25,7 @@ This article is about Viva Connections Toolkit which is a Visual Studio Code ext
 
 ## 🗒️ Quick intro
 
-[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code 🚀.
+[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code 🚀.
 
 All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with PnP samples, upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
@@ -33,7 +33,7 @@ All of that is possible due to the awesome work done by the [PnP community](http
 
 ![welcome experience](images/welcome-experience.png)
 
-Viva Connections Toolkit gets your back at the very beginning by providing a welcome experience that may be used before you even created your SPFx project 🤯! As we all know, everybody needs to set up their own workspace. When working with SharePoint framework you will need a proper Node version and NPM dependencies: Gulp, Yeoman, and [SharePoint generator](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/yeoman-generator-for-spfx-intro). This may seem simple but for someone new to this technology it’s easy to make mistakes, like installing the latest version of Node instead of the required one. Viva Connections Toolkit comes to the rescue 🦸‍♂️ by providing a dependencies check action to validate your workspace and if something is missing there is even a dedicated install dependencies action as well. That’s right, it’s as simple as a single button click.
+Viva Connections Toolkit gets your back at the very beginning by providing a welcome experience that may be used before you even created your SPFx project 🤯! As we all know, everybody needs to set up their own workspace. When working with SharePoint framework you will need a proper Node version and NPM dependencies: Gulp, Yeoman, and [SharePoint generator](https://learn.microsoft.com/sharepoint/dev/spfx/yeoman-generator-for-spfx-intro). This may seem simple but for someone new to this technology it’s easy to make mistakes, like installing the latest version of Node instead of the required one. Viva Connections Toolkit comes to the rescue 🦸‍♂️ by providing a dependencies check action to validate your workspace and if something is missing there is even a dedicated install dependencies action as well. That’s right, it’s as simple as a single button click.
 
 ![dependency check](images/dependency-check.png)
 
@@ -105,6 +105,6 @@ Of course, we are open to contributions. If you would like to participate do not
 - [Viva Connections Toolkit GitHub repo](https://github.com/pnp/vscode-viva)
 - [Microsoft 365 & Power Platform Community](https://pnp.github.io/#home)
 - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
-- [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa)
-- [Overview of Viva Connections Extensibility](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/overview-viva-connections?WT.mc_id=m365-47395-cxa)
-- [Microsoft Learn – Extend Microsoft Viva Connections](https://learn.microsoft.com/en-us/training/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa)
+- [Overview of the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa)
+- [Overview of Viva Connections Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections?WT.mc_id=m365-47395-cxa)
+- [Microsoft Learn – Extend Microsoft Viva Connections](https://learn.microsoft.com/training/paths/m365-extend-viva-connections/?WT.mc_id=m365-47395-cxa)

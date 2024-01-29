@@ -42,38 +42,38 @@ Q&A throughout call. 
 
 -   Documentation - [Developers' guide to Conditional Access
     authentication
-    context](https://docs.microsoft.com/azure/active-directory/develop/developer-guide-conditional-access-authentication-context)
+    context](https://learn.microsoft.com/azure/active-directory/develop/developer-guide-conditional-access-authentication-context)
 
 -   Documentation - [MS Graph
-    -](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
-    [authenticationContextClassReference](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    -](https://learn.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    [authenticationContextClassReference](https://learn.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
     [resource
-    type](https://docs.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
+    type](https://learn.microsoft.com/graph/api/resources/authenticationcontextclassreference?view=graph-rest-beta)
 
 -   Documentation - [Claims challenges, claims requests, and client
-    capabilities](https://docs.microsoft.com/azure/active-directory/develop/claims-challenge)
+    capabilities](https://learn.microsoft.com/azure/active-directory/develop/claims-challenge)
 
 -   Documentation - [Microsoft identity platform
-    documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+    documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 
 -   Documentation - [Microsoft Authentication Libraries
-    (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview)
+    (MSAL)](https://learn.microsoft.com/azure/active-directory/develop/msal-overview)
 
 -   Documentation - [Microsoft identity platform code
-    samples](https://docs.microsoft.com/azure/active-directory/develop/sample-v2-code) 
+    samples](https://learn.microsoft.com/azure/active-directory/develop/sample-v2-code) 
 
 -   Documentation - [Building Zero Trust ready apps with the Microsoft
     identity
-    platform](https://docs.microsoft.com/security/zero-trust/identity-developer)
+    platform](https://learn.microsoft.com/security/zero-trust/identity-developer)
 
 -   Documentation - [Introduction to Conditional
-    Access](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
+    Access](https://learn.microsoft.com/azure/active-directory/conditional-access/overview)
 
 -   Documentation - [Create a Conditional access
-    Policy](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-cloud-apps)
+    Policy](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-cloud-apps)
 
 -   Documentation - [Continuous Access
-    Evaluation](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
+    Evaluation](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
 
 ** **
 

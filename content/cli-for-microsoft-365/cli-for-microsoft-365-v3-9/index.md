@@ -10,7 +10,7 @@ tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
-## Manage Microsoft 365 and SharePoint Framework projects on any platform 
+## Manage Microsoft 365 and SharePoint Framework projects on any platform
 
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
@@ -26,7 +26,7 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
-## New version of CLI for Microsoft 365 -- v3.9 
+## New version of CLI for Microsoft 365 -- v3.9
 
 
 Following our monthly release cadence, we've released a new version of
@@ -34,7 +34,7 @@ the CLI for Microsoft 365 with some new capabilities. Here are a few of
 the most noteworthy additions.
 
 
-## Changes 
+## Changes
  
 We've continued improving CLI building upon the changes we've introduced
 in the previous version.
@@ -150,7 +150,7 @@ of new authentication features added to msal-node going forwards. 
 
 
 
-## New Commands 
+## New Commands
  
 **Add a role to a specified Azure Active Directory (AAD) app
 registration**
@@ -225,7 +225,7 @@ m365 viva connections app create --portalUrl https://contoso.sharepoint.com --ap
 m365 teams app publish --filePath ./contoso.zip
 ```
 
-## New script samples 
+## New script samples
  
 
 
@@ -235,7 +235,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
  
 
@@ -323,7 +323,7 @@ subfolder](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/upload-loca
 Adding new team members to an existing Team through the Teams user
 interface can be time consuming, this script will [add users to existing
 Teams contained in a .csv
-file](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/add-bulk-users-teams/). 
+file](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/bulk-add-users-teams/). 
 
 
 
@@ -375,7 +375,7 @@ SharePoint Admin Center such as Microsoft Teams Private Channels.
 
 
 
-## Contributors 
+## Contributors
 
 
 This release wouldn't be possible without the help of (in alphabetical
@@ -401,13 +401,13 @@ Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
 
 
-## Work in progress 
+## Work in progress
  
 
 Here are some things that we're currently working on.
 
  
-### More commands, what else 
+### More commands, what else
 
 
 Microsoft 365 is evolving and new capabilities are being released every
@@ -420,7 +420,7 @@ for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
 
 
-### Improved managing SharePoint pages 
+### Improved managing SharePoint pages
  
 
 
@@ -430,7 +430,7 @@ looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
 
 
-### Improved creating Azure AD apps 
+### Improved creating Azure AD apps
  
 
 Recently, we've introduced a command to easily create Azure AD app
@@ -444,7 +444,7 @@ In the future versions of CLI for Microsoft 365 you can expect us extend
 the capabilities with additional scenarios and features supported by
 Azure AD.
 
-### Script examples 
+### Script examples
  
 
 In every release of the CLI for Microsoft 365, we introduce new commands
@@ -460,7 +460,7 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### 'ensure' commands 
+### 'ensure' commands
  
 
 
@@ -471,7 +471,7 @@ one line of code. We'd love to hear from you how you like it and if
 it's something you'd like us to implement for other commands as well.
 
  
-## Try it today 
+## Try it today
  
 
 Get the latest release of the CLI for Microsoft 365 from npm by

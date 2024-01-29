@@ -14,7 +14,7 @@ We've just published a new version of the CLI for Microsoft 365 with
 new commands for working with and managing Microsoft 365 tenants and
 SharePoint Framework projects on any platform.
  
-Manage Microsoft 365 and SharePoint Framework projects on any platform 
+Manage Microsoft 365 and SharePoint Framework projects on any platform
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
 various configuration settings of Microsoft 365 and SharePoint Framework
 projects no matter which operating system or shell you use.
@@ -28,13 +28,13 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
  
-## New version of CLI for Microsoft 365 -- v3.13 
+## New version of CLI for Microsoft 365 -- v3.13
 
 Following our monthly release cadence, we've released a new version of
 the CLI for Microsoft 365 with some new capabilities. Here are a few of
 the most noteworthy additions.
  
-### Upgrade SharePoint Framework projects to SPFx v1.13 preview 
+### Upgrade SharePoint Framework projects to SPFx v1.13 preview
 
 Recently, Microsoft released a new [preview version of the SharePoint
 Framework -
@@ -64,7 +64,7 @@ For more information about upgrading SharePoint Framework projects, see
 the [CLI
 documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/).
  
-### Login with client ID and secret 
+### Login with client ID and secret
 
 When using CLI for Microsoft 365 in unattended scenarios, like building
 monitoring solutions or long-running automations, it's recommended that
@@ -83,7 +83,7 @@ For more information about the different abilities to login to Microsoft
 365 with CLI for Microsoft 365 see [the
 documentation](https://pnp.github.io/cli-microsoft365/cmd/login/).
  
-### Retrieve apps installed in a SharePoint site 
+### Retrieve apps installed in a SharePoint site
 
 A part of governance of every Microsoft 365 tenant is keeping track of
 which applications are installed where in the tenant. Since Microsoft
@@ -103,7 +103,7 @@ For more information about managing apps with the CLI for Microsoft 365,
 see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/app/app-instance-list/).
  
-### Add one or more users to a SharePoint group 
+### Add one or more users to a SharePoint group
 
 Permission management is one of the core activities of every Microsoft
 365 tenant admin. Whenever someone joins or leaves the organization or
@@ -122,7 +122,7 @@ m365 spo group user add --webUrl https://contoso.sharepoint.com/sites/SiteA --gr
 For more information about managing users in SharePoint groups, see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/group/group-add/).
  
-### Manage application permissions for SharePoint sites 
+### Manage application permissions for SharePoint sites
 
 When building applications, one of the common requirements is to grant
 these applications access to information stored in SharePoint. Typically
@@ -158,7 +158,7 @@ m365 planner plan get --title "MyPlan" --ownerGroupName "My Planner Group"
 For more information about managing Microsoft Planner plans, see the
 [documentation](https://pnp.github.io/cli-microsoft365/cmd/planner/plan/plan-get/).
  
-### New script samples 
+### New script samples
 
 CLI for Microsoft 365 is a great tool both for quick adjustments to the
 configuration of your Microsoft 365 tenant as well as automating more
@@ -166,14 +166,14 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
  
 If you have any scripts that you use frequently, please
 [share](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=sample.md&title=New+sample+script%3A+%3Cshort+description%3E)
 them with us so that we can learn more about the common automation
 scenarios.
  
-#### Share social champions to Teams 
+#### Share social champions to Teams
 
 This [sample
 script](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/share-socialchampions/)
@@ -181,7 +181,7 @@ shows how to retrieve activities for SharePoint Online, Teams and Yammer
 and shares the top 3 contributors for each category as an adaptive card
 to the specified webhook url.
  
-#### Recognize most active users for a specific Team 
+#### Recognize most active users for a specific Team
 
 This [sample
 script](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/recognize-most-active-users-specific-team/)
@@ -189,7 +189,7 @@ shows how to retrieve all activities for a specific Microsoft Teams Team
 and shares the top 3 contributors based on their score as an adaptive
 card to the specified webhook url.
  
-## Contributors 
+## Contributors
 
 This release wouldn't be possible without the help of (in alphabetical
 order):
@@ -206,11 +206,11 @@ order):
 Thank you all for your help and effort to improve CLI for Microsoft 365
 for our users.
 
-## Work in progress 
+## Work in progress
 
 Here are some things that we're currently working on.
  
-### CLI for Microsoft 365 v4 
+### CLI for Microsoft 365 v4
 
 For the last few months we've been working on a new major version of
 CLI for Microsoft 365 - v4. The v4 release is a result of the evolution
@@ -228,7 +228,7 @@ updated, which is why we recommend that you upgrade to v4. Along with
 the release, we'll publish an upgrade guidance to help you determine
 the impact of the upgrade on your work.
  
-### More commands, what else 
+### More commands, what else
 
 Microsoft 365 is evolving and new capabilities are being released every
 day. With CLI for Microsoft 365, we aim to help you manage your tenant
@@ -239,7 +239,7 @@ what's possible in Microsoft 365. In the upcoming versions of the CLI
 for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
  
-### Script examples 
+### Script examples
 
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
@@ -252,7 +252,7 @@ automation scripts in PowerShell Core and Bash. If you have any scripts
 using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
  
-## Try it today 
+## Try it today
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:

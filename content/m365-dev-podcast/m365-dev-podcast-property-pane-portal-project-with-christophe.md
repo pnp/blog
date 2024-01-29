@@ -5,7 +5,7 @@ date: 2022-01-31T06:04:00-05:00
 author: "Paul Schaeflein"
 githubname: pschaeflein
 categories: ["Microsoft 365 developer podcast"]
-images: 
+images:
   - images/blog/m365-dev-podcast/m365podcast_artwork_copy.jpg
 tags: []
 type: "regular"
@@ -19,7 +19,7 @@ Listen to the show here:  [(m365devpodcast.com)](https://www.m365devpodcast.com
 ## Links from the show
 
 *   [inPerson helps you manage your flexible office hours and look up your team members' current location](https://appsource.microsoft.com/product/office/WA200002915?tab=Overview)
-*   [Overview of Progressive Web Apps (PWAs)](https://docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/)
+*   [Overview of Progressive Web Apps (PWAs)](https://learn.microsoft.com/microsoft-edge/progressive-web-apps-chromium/)
 
 ## Microsoft News
 

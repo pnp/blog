@@ -13,7 +13,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Stockholm, Sweden based Principal Program Manager, [Wictor Wilén](https://twitter.com/wictor) (Microsoft) | @wictor.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Stockholm, Sweden based Principal Program Manager, [Wictor Wilén](https://twitter.com/wictor) (Microsoft) | @wictor.
 
 ## Topics discussed in this session
 
@@ -24,7 +24,7 @@ In this installment of the weekly discussion revolving around the latest news an
 - Centralized services and experiences around personal information and upcoming plans for both 1st party and 3rd party 
 - Importance of privacy and transparency on the collected information in cloud
 
-We also covered 17 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 17 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
@@ -34,14 +34,14 @@ We also covered 17 articles published by Microsoft and the PnP Community over th
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, April 11, 2022.   Enjoy the show.  
+This session was recorded on Monday, April 11, 2022.   Enjoy the show.
 
 - Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube HFPT9msun5c >}}
-- Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+- Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-h36de-1204cb4 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -52,7 +52,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 - [Most used SharePoint Framework solutions from the Store - March 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-march/ba-p/3284972) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 - [Get inspired with Microsoft 365 apps at Microsoft Tech Days](https://devblogs.microsoft.com/microsoft365dev/get-inspired-with-microsoft-365-apps-at-microsoft-tech-days/) - Microsoft
 - [Two conferences in one! 365 EduCon & PWR EduCon - Seattle, WA](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/two-conferences-in-one-365-educon-amp-pwr-educon-seattle-wa/ba-p/3285243) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
-- [Microsoft 365 Platform Call – 12th of April 2022 - Wellbeing sample](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-12th-of-april-2022/ba-p/3283301) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](http://twitter.com/anooptells) (Content+Cloud) | @anooptells
+- [Microsoft 365 Platform Call – 12th of April 2022 - Wellbeing sample](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-12th-of-april-2022/ba-p/3283301) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm, [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @anooptells
 - [Introducing the new Power Automate pane in Power Apps!](https://powerapps.microsoft.com/blog/introducing-the-new-power-automate-pane-in-power-apps/) - Tasha Scott (Microsoft)
 
 ## Community articles
@@ -81,4 +81,4 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
-_"Sharing is caring!"_ 
+_"Sharing is caring!"_

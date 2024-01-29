@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based Global XR Technology and Metaverse Lead - [Alexander Meijers](https://twitter.com/ameijers) (Avanade) \| @ameijers.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based Global XR Technology and Metaverse Lead - [Alexander Meijers](https://twitter.com/ameijers) (Avanade) \| @ameijers.
 
 ## Topics discussed in this session
 
@@ -75,7 +75,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [How to generate an HTML table with the output of a SQL Server query and send it from Outlook by using Power Platform](https://pnp.github.io/blog/post/how-to-generate-an-html-table-with-sql-server-query-and-send-from-outlook-with-using-power-platform/) - [Duvan Baena](https://github.com/DuvanBaena/)
 * [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://pnp.github.io/blog/post/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Getting notified of changes in guests accessing SharePoint](https://www.blimped.nl/getting-notified-of-changes-in-guests-accessing-sharepoint/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
-* [Video messages in Microsoft Teams Chat](https://regarding365.com/video-messages-in-microsoft-teams-chat-8930eac675ae) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Video messages in Microsoft Teams Chat](https://regarding365.com/video-messages-in-microsoft-teams-chat-8930eac675ae) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [How we built the OnePlaceMail Outlook App on the Microsoft 365 Platform & Azure Cloud](https://camerondwyer.com/2022/09/13/how-we-built-the-oneplacemail-outlook-app-on-the-microsoft-365-platform-azure-cloud/) - [Cameron Dwyer](https://twitter.com/CameronDwyer) (OnePlace Solutions) | @CameronDwyer
 * [CloudDev Clarity | Episode 8 - Introducing Browser Native](https://www.voitanos.io/blog/clouddev-clarity-episode-008-introducing-browser-native/) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997 & [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Power Hour: Flow Excel Actions Generate Chart Report](https://www.youtube.com/watch?v=LN_L-SPlP4Q) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @wonderlaura & [Joelle Jobson](https://twitter.com/Joelle_Shmoelle) (IW Mentor) | @Joelle_Shmoelle

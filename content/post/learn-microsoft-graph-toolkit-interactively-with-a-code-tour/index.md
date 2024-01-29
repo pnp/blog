@@ -16,13 +16,13 @@ with Microsoft Graph Toolkit
 ## The easiest way to connect your app to Microsoft 365
 
 Using [Microsoft Graph
-Toolkit](https://docs.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-33009-wmastyka)
+Toolkit](https://learn.microsoft.com/graph/toolkit/overview?WT.mc_id=m365-33009-wmastyka)
 is the easiest way to connect your app to Microsoft 365. Toolkit's
 components help you retrieve relevant data from Microsoft 365 and show
 it in your app in [any way you
-want](https://docs.microsoft.com/graph/toolkit/customize-components/templates?WT.mc_id=m365-33009-wmastyka).
+want](https://learn.microsoft.com/graph/toolkit/customize-components/templates?WT.mc_id=m365-33009-wmastyka).
 And with toolkit's [authentication
-providers](https://docs.microsoft.com/graph/toolkit/providers/providers?WT.mc_id=m365-33009-wmastyka),
+providers](https://learn.microsoft.com/graph/toolkit/providers/providers?WT.mc_id=m365-33009-wmastyka),
 setting up auth is a matter of adding a few lines of code. Never again
 fiddle with setting up a login, handling access tokens, building web
 requests, and dealing with errors.
@@ -31,7 +31,7 @@ requests, and dealing with errors.
 
 To help you learn what Microsoft Graph Toolkit has to offer and how
 you'd use it in your app, we recently released a new [learning
-path](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-33009-wmastyka)
+path](https://learn.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-33009-wmastyka)
 on Microsoft Learn. By following a few learn modules you'll learn
 everything that you need to know to use the toolkit in your app. But
 that's not all.

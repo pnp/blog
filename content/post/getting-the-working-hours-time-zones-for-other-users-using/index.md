@@ -19,7 +19,7 @@ different countries) or use this information and delay actions until the
 person is available (for example, do not send emails out-of-hours).
 When searching for this option on the web, most of the references will
 mention
-the **[mailBoxSettings](https://docs.microsoft.com/graph/api/user-get-mailboxsettings?view=graph-rest-1.0&tabs)**
+the **[mailBoxSettings](https://learn.microsoft.com/graph/api/user-get-mailboxsettings?view=graph-rest-1.0&tabs)**
 object available through the user properties in Graph:
 
 **/users/{id|userPrincipalName}/mailboxSettings**
@@ -43,7 +43,7 @@ permission will work only for the current user's data.
 ## The alternative
 
 By using the
-**[calendar/getSchedule](https://docs.microsoft.com/graph/api/calendar-getschedule?view=graph-rest-1.0&tabs=http)**
+**[calendar/getSchedule](https://learn.microsoft.com/graph/api/calendar-getschedule?view=graph-rest-1.0&tabs=http)**
 action it is possible to get not only the user's free/busy schedule but
 also the working hours and time zone for any user in the tenant, using
 delegated permissions in Microsoft Graph.

@@ -45,17 +45,17 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Create a useful People Search with PnP Modern Search Web Parts** – description to be added week of December 5th
 * **Building Flight tracker solution with SPFx for Microsoft Teams, Microsoft Viva and SharePoint** – description to be added week of December 5th
 
-The host of this call is [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) @DavidWarnerII. Q&A takes place as always in chat throughout the call.
+The host of this call is [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) @DavidWarnerII. Q&A takes place as always in chat throughout the call.
 
 {{< youtube kFPvllcnzuo >}}
 
 ## Agenda items
 
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:02](https://youtu.be/kFPvllcnzuo?t=482)
-* CLI for Microsoft 365 - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:23](https://youtu.be/kFPvllcnzuo?t=563)
-* PnP SPFx Controls [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:12](https://youtu.be/kFPvllcnzuo?t=612)
-* PnP Modern Search - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:55](https://youtu.be/kFPvllcnzuo?t=655)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:40](https://youtu.be/kFPvllcnzuo?t=700)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:02](https://youtu.be/kFPvllcnzuo?t=482)
+* CLI for Microsoft 365 - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:23](https://youtu.be/kFPvllcnzuo?t=563)
+* PnP SPFx Controls [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:12](https://youtu.be/kFPvllcnzuo?t=612)
+* PnP Modern Search - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:55](https://youtu.be/kFPvllcnzuo?t=655)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:40](https://youtu.be/kFPvllcnzuo?t=700)
 * Demo – Create a useful People Search with PnP Modern Search Web Parts – [David Mehr](https://twitter.com/davemehr) (IOZ) \| @davemehr – (Link to demo to be inserted here the week of December 5th)
 * Demo – Building Flight tracker solution with SPFx for Microsoft Teams, Microsoft Viva and SharePoint – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh & [João Mendes](https://twitter.com/joaojmendes) \| @joaojmendes – (Link to demo to be inserted here the week of December 5th)
 
@@ -124,7 +124,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -143,7 +143,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

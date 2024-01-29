@@ -8,16 +8,16 @@ tags: ["SharePoint", "Power Automate"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 Send an HTTP request to SharePoint action is used to execute REST
 queries. As we know when we want to perform any operations in SharePoint
 then we are using APIs so in the flow, we can use fro the same
 requirements.
 For more details refer to
-[working with send sp http request](https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
+[working with send sp http request](https://learn.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request).
 
-## Implementation 
+## Implementation
 
 We will create a SharePoint list and we will perform Create, Read,
 Update and Delete operations. we will create an instant flow. let's see
@@ -130,7 +130,7 @@ actions
 **Body:** *Not required*
 *![Delete ietm.png](images/Delete ietm.png)
 
-## Summary 
+## Summary
 
 In this article, we have seen the step-by-step implementation of CRUD
 operation of SharePoint list items using Send an HTTP request to

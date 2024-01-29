@@ -10,17 +10,17 @@ tags: ["Power Automate", "Power Apps"]
 type: "regular"
 ---
 
-The Microsoft 365 Developer tenant is an amazing feature to learn and experiment in the Microsoft 365 universe (actually I'm talking about your personal development "sandbox" of the Microsoft 365 developer program. 
+The Microsoft 365 Developer tenant is an amazing feature to learn and experiment in the Microsoft 365 universe (actually I'm talking about your personal development "sandbox" of the Microsoft 365 developer program.
 
-If you have no idea, what a "dev tenant" is, read the article "[What is a "Dev tenant" and why would you want one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)" from [Julie Turner](https://github.com/juliemturner)). 
+If you have no idea, what a "dev tenant" is, read the article "[What is a "Dev tenant" and why would you want one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)" from [Julie Turner](https://github.com/juliemturner)).
 
 But there are limitations if it comes to experience the full potential of the Power Platform. Power Platform licensing is a bit complex, but to simplify things: You may use standard connectors within most Microsoft 365 licenses (like E3 or E5), but you can't you can't use premium connectors, or on prem data gateways, or add Microsoft Dataverse to your environments. Since the dev tenant gives only you a Microsoft  365 E5 license, you would need to purchase a standalone license., Which is not ideal if you just want to learn and decide later on if you want to dig deeper into the Power Platform.
 
-Luckily there is the [Power Apps Community Plan](https://powerapps.microsoft.com/communityplan/) and you can add this plan to your developer tenant. 
+Luckily there is the [Power Apps Community Plan](https://powerapps.microsoft.com/communityplan/) and you can add this plan to your developer tenant.
 
 ## What are the advantages of the Power App Community Plan?
 
-With the Community plan, you get a developer environment for free which gives you the possibility to learn and develop your skills (check out the [Power Platform Apps plan docs article](https://docs.microsoft.com/powerapps/maker/dev-community-plan) for more information). Developer environments are exclusively for the Community Plan , you can learn more here in the [environments overview](https://docs.microsoft.com/power-platform/admin/environments-overview) documentation. In this environment you get a lot of possibilities which are not included in the Power Apps license seeded in the Microsoft 365 E5 license:
+With the Community plan, you get a developer environment for free which gives you the possibility to learn and develop your skills (check out the [Power Platform Apps plan docs article](https://learn.microsoft.com/powerapps/maker/dev-community-plan) for more information). Developer environments are exclusively for the Community Plan , you can learn more here in the [environments overview](https://learn.microsoft.com/power-platform/admin/environments-overview) documentation. In this environment you get a lot of possibilities which are not included in the Power Apps license seeded in the Microsoft 365 E5 license:
 
 -   You can use premium connectors (only for data sources within Power
     Apps)
@@ -96,7 +96,7 @@ environment. In the upper right corner of your browser you can see, what
 environment you're currently in. Select  the button **Environments** to
 see a list of all your available environments. Now select you newly
 created Developer environment (in my case it's **Michael Roth's
-Environment**). 
+Environment**).
 
 Now you're using the newly created Developer environment
 with all the benefits from the Power Apps Community Plan.

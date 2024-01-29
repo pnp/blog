@@ -248,7 +248,7 @@ slides.
     Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6
     videos)
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -278,7 +278,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 

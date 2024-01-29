@@ -107,9 +107,9 @@ Demos delivered in this session
 -   **Introduction to Microsoft Teams Toolkit v2** -- helps developers
     create and deploy Teams apps with integrated Identity, access to
     cloud storage, data from [Microsoft
-    Graph](https://docs.microsoft.com/graph/teams-concept-overview),
+    Graph](https://learn.microsoft.com/graph/teams-concept-overview),
     and other services
-    in [Azure](https://docs.microsoft.com/microsoftteams/platform/build-your-first-app/build-bot) and [M365](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) with
+    in [Azure](https://learn.microsoft.com/microsoftteams/platform/build-your-first-app/build-bot) and [M365](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant) with
     a "zero-configuration" approach (single-line statements and no side
     trips to Azure and ADD) to the developer experience.  Efficiently
     configures front-end, back-end, bot at same time.   Simplifies
@@ -171,10 +171,10 @@ slides.
     API](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-create-engaging-apps-with-the-microsoft-teams-activity-feed-api/) 
 
 -   Documentation - [Messaging extensions -- Search
-    Commands](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions#search-commands) 
+    Commands](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions#search-commands) 
 
 -   Documentation - [User Specific
-    Views](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/user-specific-views) 
+    Views](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/user-specific-views) 
 
 -   Repo - [Document
     Manager](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-bot-SPUploader) 
@@ -213,11 +213,11 @@ slides.
     app](https://pnp.github.io/blog/microsoft-teams-community-call/microsoft-teams-community-call-may-2021) | <https://aka.ms/teams/ui/design>
 -   Viva Connections <https://aka.ms/VivaConnections>
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://learn.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube

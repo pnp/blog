@@ -18,9 +18,9 @@ while 2013's retirement date(s) are still looming. 
 Microsoft has advised users to manually rebuild their necessary
 SharePoint workflows (SPWF's) as comparable
 [M365 Power
-Automate](https://docs.microsoft.com/power-automate/getting-started) flows. To that end, Microsoft has provided some
+Automate](https://learn.microsoft.com/power-automate/getting-started) flows. To that end, Microsoft has provided some
 ][, including ][a
-tool](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) to sniff out SPWF's within your cloud
+tool](https://learn.microsoft.com/sharepoint/dev/transform/modernize-scanner) to sniff out SPWF's within your cloud
 environment. 
 When it comes to planning the migration of your SPWF's to Power Automate
 flows, it helps to think of them as two completely different platforms.
@@ -37,23 +37,23 @@ through the details of programmatically creating Power Automate flows
 with links to a [sample C# console
 app](https://github.com/TracyGH/CreatePowerAutomateFlow/tree/master/CreateFlows). 
 
-### Part 1 --- Interacting with 'Solution' Flows 
+### Part 1 --- Interacting with 'Solution' Flows
 
 Because flows under the 'My Flows' tab [are not currently
-supported](https://docs.microsoft.com/power-automate/web-api) by Power Automate web API's, you will need to
+supported](https://learn.microsoft.com/power-automate/web-api) by Power Automate web API's, you will need to
 interact with all programmatic flows via the 'Solutions' tab. 
 
 ![](images/Tracy_1-1627940128961.png)
  
 **\*\*Note: I have only been able to programmatically create/access
 flows within the Default Solution for a relevant [Dataverse
-environment](https://docs.microsoft.com/learn/modules/create-manage-environments/). Microsoft does not mention this limitation
+environment](https://learn.microsoft.com/learn/modules/create-manage-environments/). Microsoft does not mention this limitation
 in their [web API
-documentation](https://docs.microsoft.com/power-automate/web-api) and I am uncertain of the
+documentation](https://learn.microsoft.com/power-automate/web-api) and I am uncertain of the
 scalability/performance implications.**
 
 
-To manually create a new Solutions flow, navigate to the Solutions tab and select Default Solution > New > Cloud flow 
+To manually create a new Solutions flow, navigate to the Solutions tab and select Default Solution > New > Cloud flow
 
 ![](images/Tracy_2-1627940129014.png)
 
@@ -63,16 +63,16 @@ To obtain the ID for a specific Solutions flow, select it and copy the GUID valu
 ![](images/Tracy_3-1627940128946.png)
 
 
-### Part 2 --- Get ClientData Content for New Flows 
+### Part 2 --- Get ClientData Content for New Flows
 
 In order to create flows programmatically, we will use the [Power
 Automate Management Web
-API](https://docs.microsoft.com/power-automate/web-api). The meat and potatoes of the flow payload is
+API](https://learn.microsoft.com/power-automate/web-api). The meat and potatoes of the flow payload is
 contained in the `clientdata`
-[property](https://docs.microsoft.com/power-automate/web-api#create-a-cloud-flow). To help determine appropriate content for populating
+[property](https://learn.microsoft.com/power-automate/web-api#create-a-cloud-flow). To help determine appropriate content for populating
 this section, I recommend manually creating a 'base' Power Automate flow
 using the UI. Then, you can [leverage the
-API](https://docs.microsoft.com/power-automate/web-api#list-flows) to get the `clientdata`content from that manual flow and copy/paste it into
+API](https://learn.microsoft.com/power-automate/web-api#list-flows) to get the `clientdata`content from that manual flow and copy/paste it into
 the payload for new flow(s).
 
 1.  Follow the instructions for creating a new Solutions flow as shown
@@ -95,11 +95,11 @@ the payload for new flow(s).
     #122](https://github.com/TracyGH/CreatePowerAutomateFlow/blob/master/CreateFlows/SampleProgram.cs)
 6.  Run the project, providing credentials for a user who has access to
     the [Dataverse Web
-    API](https://docs.microsoft.com/powerapps/developer/data-platform/authenticate-oauth). (I have only tested with a global admin
+    API](https://learn.microsoft.com/powerapps/developer/data-platform/authenticate-oauth). (I have only tested with a global admin
     account.)
 7.  Copy the string value within the `clientdata` .
 
-### Part 3 --- Programmatically Create a New Flow 
+### Part 3 --- Programmatically Create a New Flow
 
 1.  Paste the `clientdata` content from
     above into the variable located on line #61.
@@ -115,12 +115,12 @@ If everything works as expected, you should be able to locate your new
 flow by following the instructions in Part 1 to view Solutions
 flows. Test your new flow to confirm everything works as expected. 
  
-### Part 4 --- 'Tweak' the ClientData Content 
+### Part 4 --- 'Tweak' the ClientData Content
 
 Below is a de-serialized example of the content within the
 `clientdata`property of a Power Automate
 flow. This particular flow is [triggered when a new
-item](https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/sharepoint-connector-actions-triggers#when-an-item-is-created) is created within a SharePoint list. The indicated
+item](https://learn.microsoft.com/sharepoint/dev/business-apps/power-automate/sharepoint-connector-actions-triggers#when-an-item-is-created) is created within a SharePoint list. The indicated
 `table`property at line #52 holds the
 value for the GUID of the relevant SharePoint list.
  

@@ -20,4 +20,4 @@ Biret
 
 ## Links from the show
 
--   <https://microsoft.github.io/kiota/>
+-   <https://learn.microsoft.com/openapi/kiota/>

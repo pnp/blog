@@ -131,13 +131,13 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Sample - [Documents Links Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-document-links-accordion) 
 *   **D1**:  Tools - [Reusable React controls for your SharePoint Framework solutions](https://pnp.github.io/sp-dev-fx-controls-react) 
 *   **D1**:  Tools – [PnP/PnPjs](https://pnp.github.io/pnpjs/) – [https://aka.ms/pnpjs](https://aka.ms/pnpjs)
-*   **D2**:  Documentation - [SharePoint Framework development tools and libraries compatibility](https://docs.microsoft.com/sharepoint/dev/spfx/compatibility) 
+*   **D2**:  Documentation - [SharePoint Framework development tools and libraries compatibility](https://learn.microsoft.com/sharepoint/dev/spfx/compatibility) 
 *   **D2**:  Site - [Get Started with Docker](https://www.docker.com/get-started) 
 *   **D2**:  VS Marketplace - [Visual Studio Code Remote – Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) 
 *   **D2**:  Documentation - [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) | aka.ms/vscode-remote
 *   **D2**:  Docker Hub - [m365pnp/spfx](https://hub.docker.com/r/m365pnp/spfx) 
 *   **D2**:  Guidance - [Opening a sample using a development container](https://github.com/pnp/sp-dev-fx-webparts/wiki/Opening-a-sample-using-a-development-container) | aka.ms/spfx-devcontainer
-*   **D2**:  Documentation - [Set up your SharePoint Framework development environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) 
+*   **D2**:  Documentation - [Set up your SharePoint Framework development environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) 
 *   **D3**:  Demo - [Viva Connections – Data Binding in SPFx Adaptive Card Extensions](https://youtu.be/WkFVkFKPDMc?t=1297) – [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia 
 *   **Microsoft 365 PnP Weekly – Episode 152** (February 7th) with Toronto, Ontario, Canada-based Microsoft Cloud Solution Architect and MVP Alum, [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-152-hugo-bernier/ba-p/3131722) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-152-%E2%80%93-7th-of-february-2022/)
 *   **Microsoft 365 PnP Weekly – Episode 151** (January 31st) with UK-based SharePoint developer, architect and MVP, [Paul Bullock](https://twitter.com/pkbullock) | @pkbullock | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-151-paul-bullock/ba-p/3091966) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-151-%E2%80%93-31st-of-january-2022/)
@@ -165,7 +165,7 @@ Additional resources around the covered topics and links from the slides.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -184,7 +184,7 @@ Additional resources around the covered topics and links from the slides.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

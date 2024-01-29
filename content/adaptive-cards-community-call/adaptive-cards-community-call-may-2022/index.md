@@ -16,16 +16,16 @@ videos:
 
 ## Call summary
 
-In this month’s community call. Featured demo - Handling multi-user responses for Adaptive Cards in Teams (posting a card with Power Automate in a Teams meeting chat that can handle multiple responses to it) - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft). As well, there are prompts to register for Microsoft Build 2022 and to respond to a 2-question survey. Finally, a deep dive Q&A into today’s demo topic that also yielded a sneak peek at 2 new capabilities from Josh’s team – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft), [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) and [Tomasz Poszytek](http://twitter.com/TomaszPoszytek). This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on May 12, 2022.
+In this month’s community call. Featured demo - Handling multi-user responses for Adaptive Cards in Teams (posting a card with Power Automate in a Teams meeting chat that can handle multiple responses to it) - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft). As well, there are prompts to register for Microsoft Build 2022 and to respond to a 2-question survey. Finally, a deep dive Q&A into today’s demo topic that also yielded a sneak peek at 2 new capabilities from Josh’s team – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft), [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) and [Tomasz Poszytek](https://twitter.com/TomaszPoszytek). This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on May 12, 2022.
 
 {{< youtube 3nZRgt-WUv0 >}}
 
 ## Agenda
 
 * Handling multi-user responses for Adaptive Cards in Microsoft Teams - [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) – [00:33](https://youtu.be/3nZRgt-WUv0?t=33)
-* Microsoft Build 2022 - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [15:07](https://youtu.be/3nZRgt-WUv0?t=907)
-* Call to Action - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [15:42](https://youtu.be/3nZRgt-WUv0?t=942)
-* Q&A - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm, [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) and [Tomasz Poszytek](http://twitter.com/TomaszPoszytek) \| @TomaszPoszytek – [16:29](https://youtu.be/3nZRgt-WUv0?t=989)
+* Microsoft Build 2022 - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [15:07](https://youtu.be/3nZRgt-WUv0?t=907)
+* Call to Action - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [15:42](https://youtu.be/3nZRgt-WUv0?t=942)
+* Q&A - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm, [Josh Friedman](https://www.linkedin.com/in/josh-friedman-2a812254) (Microsoft) and [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \| @TomaszPoszytek – [16:29](https://youtu.be/3nZRgt-WUv0?t=989)
 
 ## Demo summary
 

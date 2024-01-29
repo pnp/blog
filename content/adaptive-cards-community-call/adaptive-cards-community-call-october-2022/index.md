@@ -16,13 +16,13 @@ videos:
 
 ## Call summary
 
-The focus in this month’s community call is **Building Windows 11 Widgets with Adaptive Cards** and post demo related **Q&A.** This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on October 13, 2022.
+The focus in this month’s community call is **Building Windows 11 Widgets with Adaptive Cards** and post demo related **Q&A.** This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on October 13, 2022.
 
 {{< youtube Uk1p6OaXaNI >}}
 
 ## Agenda
 
-* Building Windows 11 Widgets with Adaptive Cards – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm
+* Building Windows 11 Widgets with Adaptive Cards – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm
     * Presentation – [0:24](https://youtu.be/Uk1p6OaXaNI?t=24)
     * Demo – [6:14](https://youtu.be/Uk1p6OaXaNI?t=374)
     * Q&A – [25:53](https://youtu.be/Uk1p6OaXaNI?t=1553)

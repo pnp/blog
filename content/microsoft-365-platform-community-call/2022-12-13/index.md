@@ -38,13 +38,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Introduction to Microsoft Graph Developer Proxy** – a load test simulation tool in preview for Pro Developers building apps on top of Microsoft Graph. Learn what is the Microsoft Graph Developer Proxy, install and see it in action. The Dev Proxy generates issues/errors so you can see how your app that’s making requests to the Graph API reacts under load, with and without the Graph SDK. Please use the tool and provide feedback.
 * **Introduction to Microsoft 365 App Compliance Automation Tool** – a service in Azure portal that simplifies the process of demonstrating security and compliance for applications published on Microsoft 365 by automating many (40%) of the validation processes, i.e., collecting and analyzing compliance data, generating compliance reports with prescriptive guidance. The compliance report integrates seamlessly into the Microsoft 365 Certification process in Partner Center. See creation of report in Azure portal, remediation, and integration in Partner Center.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube F5c4Y3PkiEc >}}
 
 ## Agenda items
 
-* [09:21](https://youtu.be/F5c4Y3PkiEc?t=561) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* [09:21](https://youtu.be/F5c4Y3PkiEc?t=561) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * [10:19](https://youtu.be/F5c4Y3PkiEc?t=619) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 * [11:29](https://youtu.be/F5c4Y3PkiEc?t=689) – Together mode picture
 * [12:45](https://youtu.be/F5c4Y3PkiEc?t=765) – Demo - Using dynamic SVG images with Viva ACEs for business charts – [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler

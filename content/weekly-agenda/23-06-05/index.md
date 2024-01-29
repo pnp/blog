@@ -41,21 +41,21 @@ Typically demos here are from the community by the community. You are welcome to
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Martin Heusser](https://twitter.com/mozzeph) (Houlihan Lokey) | @mozzeph - Build your own Documentation Website with DocFX on SharePoint
 * Samir Daoudi (Logisam) – Power Platform Custom Connector for ChatGPT
-* [Jonathan Weaver](https://twitter.com/j_weaver74) (Smarter Consulting) | @j_weaver74 – Tracking workflow runs and errors using Power Automate and SharePoint 
+* [Jonathan Weaver](https://twitter.com/j_weaver74) (Smarter Consulting) | @j_weaver74 – Tracking workflow runs and errors using Power Automate and SharePoint
 
 
-## New videos 
+## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [The Canary in the coalmine or how to keep an eye on the SharePoint Search updates](https://www.youtube.com/watch?v=WWh6qF4UlJU) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) | @kasperbolarsen  
+* [The Canary in the coalmine or how to keep an eye on the SharePoint Search updates](https://www.youtube.com/watch?v=WWh6qF4UlJU) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) | @kasperbolarsen
 * [Bring your existing projects to Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=xp8Mev6l3Qg) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Customizing your Viva Connections dashboard with partner offerings in AppSource](https://www.youtube.com/watch?v=8wvJRtt-Sdk) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
-* [Why build Power Platform Solutions in Microsoft Teams?](https://www.youtube.com/watch?v=AtW0kW-rzhU) by Stuart McCarthy (Microsoft) and Marcus Castro (Microsoft) 
+* [Why build Power Platform Solutions in Microsoft Teams?](https://www.youtube.com/watch?v=AtW0kW-rzhU) by Stuart McCarthy (Microsoft) and Marcus Castro (Microsoft)
 * [Building Service Health solution for Microsoft 365 with SharePoint Framework](https://www.youtube.com/watch?v=uofMbYeLJfs) by [Harminder Singh](https://twitter.com/Harminder_Sethi) | @Harminder_Sethi
 * [Introduction to hTWOo v2.0 - a better Fluent UI framework](https://www.youtube.com/watch?v=_W09-BGsQEo) by [Stefan Bauer](https://twitter.com/StfBauer) (n8d) | @StfBauer
 
@@ -91,8 +91,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 * [CLI for Microsoft 365 v6.8](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v6-8/) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuy
 * [Microsoft 365 PnP Weekly - Episode 212](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-212/) with [Leslie Crook](https://twitter.com/Lesley_wolan) (CloudWay) | @Lesley_wolan
-* [Display instagram posts into SharePoint using Instagram Basic Display Independent Publisher Connector](https://pnp.github.io/blog/post/instagrampostsintosharepoint/) by [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo
-
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -118,7 +116,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -132,7 +130,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
 * [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
 * [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
-* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
+* Iowa Code Camp 2023 - June 17-18, 2023 - Iowa, USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 * [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom

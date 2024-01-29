@@ -63,10 +63,10 @@ everyone for your contributions to the community!
     available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-connections-public-preview-is-now-available/ba-p/2768541) -
     Brad McCabe (Microsoft)
 -   [Overview: Viva Connections
-    (Preview)](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) -
+    (Preview)](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) -
     Microsoft
 -   [Set up and launch Viva Connections
-    (Preview)](https://docs.microsoft.com/sharepoint/guide-to-setting-up-viva-connections) -
+    (Preview)](https://learn.microsoft.com/sharepoint/guide-to-setting-up-viva-connections) -
     Microsoft
 
 ## Community articles

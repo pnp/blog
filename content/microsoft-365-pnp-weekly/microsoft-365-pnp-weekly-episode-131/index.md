@@ -116,7 +116,7 @@ everyone for your contributions to the community!
     only show a specific
     folder)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/use-pnp-powershell-to-add-a-document-library-webpart-to-a-page/ba-p/2428310?WT.mc_id=m365-31622-wmastyka)
     - [Marijn
-    Somers](http://www.twitter.com/marijnsomers) | @marijnsomers
+    Somers](https://www.twitter.com/marijnsomers) | @marijnsomers
 -   [Preconsent multiple scopes with Microsoft Graph
     Toolkit](https://blog.mastykarz.nl/preconsent-multiple-scopes-microsoft-graph-toolkit/)
     - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft)

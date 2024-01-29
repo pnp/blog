@@ -37,7 +37,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Building Metaverse experiences using Teams LiveShare SDK** – (preview) for building collaborative meeting extensions. Secure real-time collaboration for Teams. Low-friction dev - web-based SDK, fast integration time, robust distributed data structures, free fully managed service, regional scaling, local browser testing. Demo, how to get started, sample and resources. Uses Fluid Framework and the LivePresence data structure (component). Package simulated environment as a Teams app that’s seen by all meeting participants.
 * **Create an SPFx Image Card ACE displaying image carousel - ACE learning module** – opens with basics on ACEs and underlaying SPFx and Adaptive Cards technologies for building experiences in Microsoft Viva. Demo geared for people with SPFx, but no experience building Adaptive Card Extensions. See UI for card that displays dynamic images from an external service, namely NASA. Configure Property pane for the ACEImageViewer component, look at the code for this web part.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube _Y1brrudYxE >}}
 
@@ -45,7 +45,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/_Y1brrudYxE?t=0) – Intro
 
-[08:06](https://youtu.be/_Y1brrudYxE?t=486) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[08:06](https://youtu.be/_Y1brrudYxE?t=486) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [09:44](https://youtu.be/_Y1brrudYxE?t=584) – Together mode picture
 

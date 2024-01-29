@@ -23,7 +23,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * Project releases
     * [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react) – v3.8.1(GA) – Fixed: LivePersona not showing card on hover
 * Web part samples
-    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
     * [Staff Directory](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-staffdirectory) **-** [Milan Holemans](https://github.com/milanholemans) \| milanholemans
 * Microsoft 365 Developer Podcast (June 28th) - PowerShell and Azure AD with Merill Fernando \| [podcast](https://www.m365devpodcast.com/e/powershell-and-azure-ad-with-merill-fernando/)
 * Microsoft 365 PnP Weekly – Episode 172 (June 27th) with by Colorado, US based Architect, Developer and MVP at DMI - [Beau Cameron](https://twitter.com/Beau__Cameron) \| @Beau__Cameron \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-172/) \| [podcast](https://www.podbean.com/media/share/pb-itk6r-125e65b)
@@ -36,7 +36,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Adaptive Cards Extensions strategy pattern for multi-action QuickView** – with complex ACE’s, handling many conditional quick view onActions (many if action.id statements), can seriously complicate code. Example scenario – exposing news items with next and previous actions, options to like and comment, and the ability to post news in a Teams channel. Move from many onActions to a single action with refactoring. See how acions are handled/combined by the ActionExecutor!
 
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -44,13 +44,13 @@ call.
 
 ## Agenda items
 
-* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| vesajuvonen – [5:35](https://youtu.be/y-XxYJiEINM?t=335)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:24](https://youtu.be/y-XxYJiEINM?t=444)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [9:27](https://youtu.be/y-XxYJiEINM?t=567)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:18](https://youtu.be/y-XxYJiEINM?t=678)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:55](https://youtu.be/y-XxYJiEINM?t=715)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [12:33](https://youtu.be/y-XxYJiEINM?t=753)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:58](https://youtu.be/y-XxYJiEINM?t=838)
+* SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| vesajuvonen – [5:35](https://youtu.be/y-XxYJiEINM?t=335)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:24](https://youtu.be/y-XxYJiEINM?t=444)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [9:27](https://youtu.be/y-XxYJiEINM?t=567)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:18](https://youtu.be/y-XxYJiEINM?t=678)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:55](https://youtu.be/y-XxYJiEINM?t=715)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [12:33](https://youtu.be/y-XxYJiEINM?t=753)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:58](https://youtu.be/y-XxYJiEINM?t=838)
 * Demo - Building custom accordion Tabs experience with rich text experiences – [Arun Kumar Perumal](https://twitter.com/arun_perumal16) (Wipro) \| @arun_perumal16 – [15:36](https://youtu.be/y-XxYJiEINM?t=936)
 * Demo - Using Microsoft Graph Profile API in SPFx for awards web part experience – [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez – [24:49](https://youtu.be/y-XxYJiEINM?t=1489)
 * Demo - Adaptive Cards Extensions strategy pattern for multi-action QuickView – [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo) \| @mgwojciech – [32:38](https://youtu.be/y-XxYJiEINM?t=1958)
@@ -77,7 +77,7 @@ call.
 * **Building custom accordion Tabs experience with rich text experiences**
     * Sample - [Tab Accordion Web Part with Property Field Collection Data and tinyMCE for Rich Text Editing](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-accordion-with-richtext)
 * **Using Microsoft Graph Profile API in SPFx for awards web part experience**
-    * Documentation - [profile resource type](https://docs.microsoft.com/graph/api/resources/profile?view=graph-rest-beta)
+    * Documentation - [profile resource type](https://learn.microsoft.com/graph/api/resources/profile?view=graph-rest-beta)
     * Sample - [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards)
 * **Adaptive Cards Extensions strategy pattern for multi-action QuickView**
     * Sample - [ace-strategy-pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern)
@@ -121,7 +121,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -140,7 +140,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

@@ -23,9 +23,9 @@ Then presenter will step through 4 scenarios for accessing Azure resources witho
 ## Referenced in this call
 
 *   Articles - [Identity in the cloud](https://blog.identitydigest.com/) 
-*   Documentation - [Overview of federated identity credentials in Azure Active Directory (preview)](https://docs.microsoft.com/graph/api/resources/federatedidentitycredentials-overview?view=graph-rest-beta) 
-*   Documentation - [Workload identity federation (preview)](https://docs.microsoft.com/azure/active-directory/develop/workload-identity-federation) 
-*   Documentation - [What are workload identities?](https://docs.microsoft.com/azure/active-directory/develop/workload-identities-overview) 
+*   Documentation - [Overview of federated identity credentials in Azure Active Directory (preview)](https://learn.microsoft.com/graph/api/resources/federatedidentitycredentials-overview?view=graph-rest-beta) 
+*   Documentation - [Workload identity federation (preview)](https://learn.microsoft.com/azure/active-directory/develop/workload-identity-federation) 
+*   Documentation - [What are workload identities?](https://learn.microsoft.com/azure/active-directory/develop/workload-identities-overview) 
 
 ## Actions
 
@@ -34,8 +34,8 @@ Then presenter will step through 4 scenarios for accessing Azure resources witho
 
 ## Resources in General
 
-*   Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) 
-*   Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
+*   Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview) 
+*   Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/) 
 *   Microsoft Security - [Integrate modern identity capabilities into your apps](https://www.microsoft.com/security/business/identity-access-management/microsoft-identity-management-platform) 
 *   Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity) 
 

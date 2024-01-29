@@ -74,7 +74,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Taking advantage of the Microsoft Graph Postman collections**
-    * Documentation - [Use Postman with the Microsoft Graph API](https://docs.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
+    * Documentation - [Use Postman with the Microsoft Graph API](https://learn.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
     * Demo - [Introduction to Microsoft Graph Postman collection](https://youtu.be/y9FsUBzCRF8?t=2232) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
     * Changelog - [Microsoft Graph Changelog (Preview)](https://developer.microsoft.com/graph/changelog/) \| aka.ms/graph/changelog
     * Tool - [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
@@ -84,12 +84,12 @@ Thank you for your creativity and work execution. Samples are often showcased in
     * Web page - [Microsoft Viva Learning](https://www.microsoft.com/microsoft-viva/learning) \| aka.ms/VivaLearning
     * Article - [Viva Learning now generally available!](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/viva-learning-now-generally-available/ba-p/2898228) \| aka.ms/VivaLearningGA
     * Get started - [Microsoft Viva](https://adoption.microsoft.com/viva/) \| aka.ms/VivaLearningAdoption
-    * Documentation - [Introduction to Microsoft Viva Learning](https://docs.microsoft.com/viva/learning/?view=o365-worldwide) \| aka.ms/VivaLearningDocs
+    * Documentation - [Introduction to Microsoft Viva Learning](https://learn.microsoft.com/viva/learning/?view=o365-worldwide) \| aka.ms/VivaLearningDocs
     * Skill up - [Microsoft Viva Learning](https://cloudpartners.transform.microsoft.com/practices/modern-work/employee-experience/learning) \| aka.ms/Viva/Learning/PracticePage
 * **Introduction to Virtual Appointment Microsoft Graph API**
     * Article - [Announcing the public preview of Virtual Appointment Graph API](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-the-public-preview-of-virtual-appointment-graph-api/ba-p/3408285)
     * Registration - [Virtual Appointment Graph API Public Preview](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR8xPKbPv3d1Amfx0BiaVqPZUQ1AxSlYwSkdMRlpMWEMyNDdQT082RldLMS4u&wdLOR=cD5DD791E-0885-4748-951A-6CD98F3330AF)
-    * Documentation - [Create onlineMeeting](https://docs.microsoft.com/graph/api/application-post-onlinemeetings)
+    * Documentation - [Create onlineMeeting](https://learn.microsoft.com/graph/api/application-post-onlinemeetings)
 
 ## General resources
 

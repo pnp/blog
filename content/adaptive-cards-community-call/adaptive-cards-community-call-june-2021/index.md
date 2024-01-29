@@ -33,7 +33,7 @@ John Nguyen and Pat Miller.  Recorded on June 10, 2021.
     connector &
     Ad\...](https://mybuild.microsoft.com/sessions/337ee14e-a234-4c63-95dd-117dbe05d1bc)
 -   Documentation - [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
 -   Tool - Imaginea ReactNative renderer package -
     [adaptivecards-reactnative](https://www.npmjs.com/package/adaptivecards-reactnative) 
 -   Preview - [Viva Connections private

@@ -14,15 +14,15 @@ tags: ["Power Automate"]
 type: "regular"
 ---
 
-This Step in this blog shows you how to Update a row in [Microsoft SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16) from the response of a [Microsoft Forms](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes) using Power Automate
+This Step in this blog shows you how to Update a row in [Microsoft SQL Server Management Studio](https://learn.microsoft.com/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16) from the response of a [Microsoft Forms](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes) using Power Automate
 
 ## Technologies Used
 
 * [Microsoft Form](https://www.microsoft.com/microsoft-365/online-surveys-polls-quizzes) is used to easily create surveys and polls to collect customer feedback, measure employee satisfaction, and organize team events.
 
-* [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16) (SSMS) is an integrated environment for managing any SQL infrastructure.
+* [SQL Server Management Studio](https://learn.microsoft.com/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16) (SSMS) is an integrated environment for managing any SQL infrastructure.
 
-* The on-premises [Data Gateway](https://docs.microsoft.com/power-automate/gateway-reference) acts as a bridge to provide quick and secure data transfer between on-premises data (data that isn’t in the cloud) and several Microsoft cloud services.
+* The on-premises [Data Gateway](https://learn.microsoft.com/power-automate/gateway-reference) acts as a bridge to provide quick and secure data transfer between on-premises data (data that isn’t in the cloud) and several Microsoft cloud services.
 
 * [Microsoft Power Automate](https://flow.microsoft.com) is a tool that helps users create workflows between desired applications to synchronize files, get notifications, and collect data.
 
@@ -83,7 +83,7 @@ On the left-hand side of your screen, click on the drop-down **Data** and Select
 
 ### Step 4
 
-Create an [automated cloud flow](https://docs.microsoft.com/en-us/power-automate/flow-types)
+Create an [automated cloud flow](https://learn.microsoft.com/power-automate/flow-types)
 
 ![automate-flow.png](images/automate-flow.png)
 

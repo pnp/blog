@@ -37,9 +37,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 201 (March 13tht) with US-based Microsoft MVP, Microsoft RD and CPO of PixelMill, Cloudspark, and Creospark - [Eric Overfield](https://twitter.com/EricOverfield) \| @EricOverfield \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-201/) \| [podcast](https://www.podbean.com/eas/pb-6vf3z-13b6d1d)
@@ -52,7 +52,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Boost your conversations in Microsoft Teams with Chat GPT AI and Power Virtual Agents** – by creating responses in real time with GPT and without needing to author content in the bot. Control GPT experience by limiting the content accessed (corporate approved), by the Power Virtual Agent (PVT). Generated responses include short answer and links to supporting content. Capability included in the Public Preview delivers a new paradigm for how topics will be created and managed for conversational agents.
 * **Deploying the Azure Communications Services Application to Azure** – many deployment options, in this demo we will use Azure Static Web Apps. Set up a GitHub Repo using the GitHub command line tool. Insert your ACS React app in Repo. Go to Azure Portal and create a Static Web App, point to your app in Repo. Pass in environment variables and click to deploy app and APIs. Part 6 – final in series.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 0m2f8gP57u8 >}}
 
@@ -60,7 +60,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/0m2f8gP57u8?t=0) – Intro
 
-[10:11](https://youtu.be/0m2f8gP57u8?t=611) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:11](https://youtu.be/0m2f8gP57u8?t=611) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:14](https://youtu.be/0m2f8gP57u8?t=674) – Together mode picture
 
@@ -83,7 +83,7 @@ Thanks everyone for joining the call once again today. Hope to see you in some o
 ## Actions
 
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

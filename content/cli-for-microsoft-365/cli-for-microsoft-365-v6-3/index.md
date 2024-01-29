@@ -52,7 +52,7 @@ m365 aad user license list --userName john.doe@contoso.com
 
 Here's a list of all new Azure AD commands for this release:
 
-- [aad license list](https://pnp.github.io/cli-microsoft365/cmd/aad/license-list)
+- [aad license list](https://pnp.github.io/cli-microsoft365/cmd/entra/license/license-list)
 - [aad user add](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-add)
 - [aad user remove](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-remove)
 - [aad user license list](https://pnp.github.io/cli-microsoft365/cmd/aad/user/user-license-list)
@@ -67,19 +67,19 @@ Here's a list of all new Azure AD commands for this release:
 
 In this release, another series of Microsoft Planner commands are introduced. With these commands you can manage Planner Roster. Rosters are a new type of container that you can use to manage access to planner plans without the need for a Microsoft 365 group.
 
-To create a new Microsoft Planner Roster, run: 
+To create a new Microsoft Planner Roster, run:
 
 ```sh
 m365 planner roster add
 ```
 
-To give a user access to a Microsoft Planner Roster, run: 
+To give a user access to a Microsoft Planner Roster, run:
 
 ```sh
 m365 planner roster member add --rosterId tYqYlNd6eECmsNhN_fcq85cAGAnd --userName john.doe@contoso.com
 ```
 
-To list all users having access to a Microsoft Planner Roster, run: 
+To list all users having access to a Microsoft Planner Roster, run:
 
 ```sh
 m365 planner roster member list --rosterId tYqYlNd6eECmsNhN_fcq85cAGAnd
@@ -168,11 +168,11 @@ Here's a list of all new SharePoint commands for this release:
 
 ## Making SharePoint Framework Development easier
 
-Granting permissions in SharePoint Framework projects can be a bother. Developers need to deploy the package before the permissions are visible on the API access page of the SharePoint admin dashboard. This process takes a lot of small steps. In this release we introduce a new command to make this process easier. You can now grant consent to all API permissions that are included in your SPFx project. No need to execute multiple gulp commands. No need to leave VS Code. 
+Granting permissions in SharePoint Framework projects can be a bother. Developers need to deploy the package before the permissions are visible on the API access page of the SharePoint admin dashboard. This process takes a lot of small steps. In this release we introduce a new command to make this process easier. You can now grant consent to all API permissions that are included in your SPFx project. No need to execute multiple gulp commands. No need to leave VS Code.
 
 You can now simply run:
 
-```sh 
+```sh
 m365 spfx project permissions grant
 ```
 
@@ -194,25 +194,25 @@ To get a list of all currently running instances of a Power Automate flow, run:
 
 ```sh
 m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --status Running
-```    
+```
 
 To list runs of the specified Microsoft Flow between a specific time range, run:
 
 ```sh
 m365 flow run list --environmentName Default-d87a7535-dd31-4437-bfe1-95340acd55c5 --flowName 5923cb07-ce1a-4a5c-ab81-257ce820109a --triggerStartTime 2023-01-21T18:19:00Z --triggerEndTime 2023-01-22T00:00:00Z
-```    
+```
 
 ## What's next
 
 Here are some things that we are currently working on.
 
-### Power Platform 
+### Power Platform
 
 We're currently busy implementing a new commands for managing the owners of a Power Automate flow. Things like listing, adding and removing owners.
 
 ### Microsoft 365 Purview
 
-We're currently busy implementing the last of a series of commands around retention labels. Aside from that, work is also being done to build new commands to manage threat assessments and sensitivity labels. 
+We're currently busy implementing the last of a series of commands around retention labels. Aside from that, work is also being done to build new commands to manage threat assessments and sensitivity labels.
 
 ### Manage SPFx extensions
 
