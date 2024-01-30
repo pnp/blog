@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 11th of December 2023 week
-date: 2023-12-08T02:44:40.416Z
+title: Weekly Agenda - 18th of December 2023 week - Holiday season
+date: 2023-12-15T02:44:40.416Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda50.png
+  - images/weeklyagenda51.png
 tags: []
 type: regular
 videos:
@@ -18,38 +18,57 @@ We want to give you a better overview on what's happening each week. This is a s
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
-This is the agenda for the following week:
+This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 12th of December
+### Microsoft 365 & Power Platform weekly call - 19th of December
 
-* Tuesday, 12th of December 2023, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 19th of December 2023, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert - What's new in Microsoft Graph Toolkit v4
-* Shawn Henry (Microsoft) - Introduction to WhatsApp support in Azure Communication Services
-* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev - Introduction to bot framework powered Viva Connections ACEs
+* [Marcel Ferreira](htts://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira - Power Platform CLI – Simplifying authentication profiles
+* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen - Introduction to new Viva Connections Card Designer capabilities with API support
+* [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen  - SharePoint add-in model deprecation and end of life
 
 Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework Community Call - 14th of December
+### Power Platform monthly Community Call - 20th of December
 
-* Thursday, 14th of December, 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=Sxrnc7gSw4A&list=PLR9nK3mnD-OXdcwfcHGsGr78nHWLRsv1x)
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Wednesday, 20th of December, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+
+Demos: 
+
+* Patch Multiple Rows In Power Apps Like A Jedi! by [Craig White](https://twitter.com/platformspower) | @platformspower- 
+* Using Power Apps, ChatGPT & JSON to generate BedtAIme stories & More!!! by [Robin Rosengrün](https://twitter.com/power_r2) (EnBw) | @power_r2
+* Building Live with Co-Pilot at Ludicrous Speed! by [Chris Huntingford](https://twitter.com/ThatPlatformGuy) (ANS Group) | @ ThatPlatformGuy
+
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+---
+
+### Microsoft 365 & Power Platform bi-weekly community Call - 21st of December
+
+* Thursday, 21st of December 7:00 AM PT / 2:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_ - Building a List webhook notification service + Realtime Incident Dashboard
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Building your first bot powered Viva Connection ACE experience
-* [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen - Building enterprise search center with the PnP search web parts
-
+* During the holiday season, we will transform the calls to be coffee & tea meetings with the community – without specific demos and agenda
+* Q&A and discussions
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -61,47 +80,43 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Managing SharePoint Webhook subscriptions using SPFx web part](https://www.youtube.com/watch?v=NoSeMoZ9WtU) by [Nishkalank Bezawada](https://twitter.com/im_nishkalank) (Bravero) | @im_nishkalank
-* [Close OKRs with Microsoft Viva Goals](https://www.youtube.com/watch?v=B-u1yYBZxHo)
-* [How to Securely Consume Azure Resources from SharePoint Framework with Azure API Management](https://www.youtube.com/watch?v=ewIyvfSb2lA) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_
-* [Use the OneDrive mobile app](https://www.youtube.com/watch?v=qqLjsAz-39A)
-* [uilding your own custom AI chat bot based on company data stored in SharePoint](https://www.youtube.com/watch?v=EHADCaHXkko) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
-* [Discover content in Microsoft Viva Learning](https://www.youtube.com/watch?v=3g-nT4c-7bc)
-* [Introduction to Viva Connections Announcements](https://www.youtube.com/watch?v=AaBJa07cgss) by Nancy Handa (Microsoft)
-* [Microsoft 365 PnP Weekly – Episode 229 – Agnes Molnar](https://www.youtube.com/watch?v=YBBiljPWySw) with [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-* [Introduction to Microsoft Teams Recording and Transcript APIs](https://www.youtube.com/watch?v=YHVMERrV8Hw) by Ayan Chakraborty (Microsoft)
+* [Creating a single custom connector for multiple Azure OpenAI Models](https://www.youtube.com/watch?v=SNl4xvQXoac) by [Matt Jimison](https://twitter.com/mjimison) (Takeda) | @mjimison
+* [Reminding Users To Respond To Approvals using Power Automate](https://www.youtube.com/watch?v=MYWiK3-3qY8) by [Steve Corey](https://twitter.com/stevecorey365) (Quisitive) | @SteveCorey365
+* [Introduction to new advance API features in Viva Connections Card Designer](https://www.youtube.com/watch?v=NjZj1F6D6jw) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen 
+* [Create Objectives, Key Results, and Initiatives with Microsoft Viva Goals](https://www.youtube.com/watch?v=dgQSPS2SBSE)
+* [Teams Activity Notification APIs: Now supporting new Resource-Specific Consent permissions](https://www.youtube.com/watch?v=Z488U434XEg) by Luyao Wang (Microsoft)
+* [Getting started with Microsoft Viva Amplify](https://www.youtube.com/watch?v=hQ9gWCBd_80) by [Liz Sundet](https://twitter.com/percusn) (Microsoft) | @percusn
+* [Upload files and folders to OneDrive](https://www.youtube.com/watch?v=xD9xJZr_5do)
+* [Building cascading dropdowns in SharePoint Framework solutions](https://www.youtube.com/watch?v=lJTuwbMWbNc) by [Hugo Bernier](https://twitter.com/bernierh) | @bernierh
+* [Microsoft 365 PnP Weekly – Episode 230 – Federico Porceddu](https://www.youtube.com/watch?v=XwEFycaIlaI)
+* [Managing SharePoint Webhook subscriptions using SPFx web part](https://www.youtube.com/watch?v=NoSeMoZ9WtU) by [Nishkalank Bezawada](https://twitter.com/im_nishkalan) (Bravero) | @im_nishkalan
+* [Use Azure Cognitive Search and Azure OpenAI to generate completions based upon your own data](https://www.youtube.com/watch?v=9PmfonSzjlw) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Dataverse and Copilot are the aces in the pack at MPPC23](https://www.youtube.com/watch?v=KAMoaa1raTw)
-* [Security is key at MPPC23](https://www.youtube.com/watch?v=fX4JOXHHyyY)
-* [Dataverse keeping things safe and secure at MPPC23](https://www.youtube.com/watch?v=-7vcE6nEICg)
-* [The future looks bright with Power Automate](https://www.youtube.com/watch?v=eNI2Uwo4qQU)
-* [Copilot driving real change at MPPC23](https://www.youtube.com/watch?v=0vaRpgO3IjM)
-* [MPPC23 hits the jackpot in Las Vegas!](https://www.youtube.com/watch?v=MKPYp8BvsMY)
-* [Making memories at MPPC23](https://www.youtube.com/watch?v=J2DzLta8Fws)
+* [The building blocks of a Microsoft Graph connector](https://www.youtube.com/watch?v=lqHVwzAIQ_0)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [The building blocks of a Microsoft Graph connector](https://www.youtube.com/watch?v=lqHVwzAIQ_0)
-
+* [Extend Copilot for Microsoft 365](https://www.youtube.com/watch?v=NJ017ioGsiA)
+* [Build virtual appointments without Microsoft 365 license](https://www.youtube.com/watch?v=_BCezKz9f_I)
 ---
 
 ## New Microsoft 365 Developer Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Dev Proxy v0.13 with new guidance and inspecting web requests](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-13-with-new-guidance-and-inspecting-web-requests/) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
-* [Microsoft Teams webinar APIs in public preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-webinar-apis-in-public-preview/) by Sheri Mehmood (Microsoft)
+* [Introducing the mobile optimized framework for Microsoft Teams apps](https://devblogs.microsoft.com/microsoft365dev/introducing-the-mobile-optimized-framework-for-microsoft-teams-apps/) by Supriti Bhan (Microsoft)
+* [The future of collaboration and AI: Opportunities for partners in the Microsoft Teams AI ecosystem](https://devblogs.microsoft.com/microsoft365dev/the-future-of-collaboration-and-ai-opportunities-for-partners-in-the-microsoft-teams-ai-ecosystem/) by Joey Glocke (Microsoft) and Carter Gilliam (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 229 - Agnes Molnar](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-229/) with [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-
+* [The Ultimate Guide for First-Time Presenters at Microsoft 365 & Power Platform Community Calls](https://pnp.github.io/blog/post/guide-to-demo-in-a-community-call/) by [Luise Freese](https://twitter.com/LuiseFreese) (M365Princess) | @LuiseFreese
+* [PnP Core SDK v1.11](https://pnp.github.io/blog/pnp-core-sdk/pnp-core-sdk-v1-11/) by [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) | @O365Bert
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -111,8 +126,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform Development community call - 7th of December, 2023](https://www.youtube.com/watch?v=tYBYgpfcVG0)
-* [Microsoft 365 & Power Platform weekly call – 5th of December, 2023](https://www.youtube.com/watch?v=mXg82s0wFrE)
+* [Viva Connections and SharePoint Framework community call 14th of December 2023](https://www.youtube.com/watch?v=wjmxsMbmQwk)
+* [Microsoft 365 & Power Platform weekly call – 12th of December, 2023](https://www.youtube.com/watch?v=nX1mRZWFuF0)
 
 ---
 

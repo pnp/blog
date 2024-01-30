@@ -21,8 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api
+canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/
 ---
+> This article originally appeared on Andrew Connell's site, **[How to register SPFx field customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=how+to+register+spfx+field+customizers+with+the+sharepoint+rest+api)**, where it's [also available as a video](https://youtu.be/jUW7xkPFjbA) and podcast episode.
 
 The SharePoint Framework enables developers to customize the rendering of data in a SharePoint list’s column. This is done by creating a custom field customizer and associating it with column.
 
