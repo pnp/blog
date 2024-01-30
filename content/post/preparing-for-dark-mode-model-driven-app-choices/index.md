@@ -14,7 +14,7 @@ tags: [Power Apps]
 type: "regular"
 ---
 
-[Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) can be viewed now using the URL flag
+[Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) is not officially available, but can be experimented with now by adding the following URL flag with the new look enabled:
 
 ```
 &flags=themeOption%3Ddarkmode
