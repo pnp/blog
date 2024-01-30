@@ -54,7 +54,7 @@ For more information check the following resources:
 
 As an important part of our work, we squashed some major bugs and polished the codebase some more. We also added some additional options. A major change that has been made is the renaming of the `aad` command group to `entra`. This is to better reflect the change Microsoft has made to the name of the service.
 
-### Renamed to `entra`
+### Renamed `aad` to `entra`
 
 The command group `aad` has undergone a name change and is now known as `entra`, mirroring the rebranding to Microsoft Entra ID. This modification has been implemented to align with Microsoft's recent renaming of the service. While the previous command group will remain accessible for some time, it is slated for removal in an upcoming release. We encourage users to familiarize themselves with the `entra` command group to ensure a smooth transition when the `aad` command group is eventually phased out.
 
