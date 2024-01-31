@@ -214,24 +214,24 @@ slides.
 -   Repository - [Microsoft Power Platform
     Connectors](https://github.com/microsoft/PowerPlatformConnectors) 
 -   Documentation - [Extend an OpenAPI definition for a custom
-    connector](https://docs.microsoft.com/connectors/custom-connectors/openapi-extensions) 
+    connector](https://learn.microsoft.com/connectors/custom-connectors/openapi-extensions) 
 -   Article - [Using Dynamic Values in Microsoft
     Flow](https://www.schaeflein.net/using-dynamic-values-in-microsoft-flow/) 
 -   Documentation - [Microsoft Power Platform Connectors
-    CLI](https://docs.microsoft.com/connectors/custom-connectors/paconn-cli) 
+    CLI](https://learn.microsoft.com/connectors/custom-connectors/paconn-cli) 
 -   Demo - [Publish a connector to the Power Platform with Independent
     Publisher Connector
     Program](https://www.youtube.com/watch?v=ulTBvCHw8MU) Natalie
     Pienkowska (Microsoft) 
 -   [Documentation --
-    ][Operators](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting#operators)
+    ][Operators](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting#operators)
 -   Documentation - [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) 
 -   All Samples - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
 -   Videos - [Microsoft Lists](https://bit.ly/lf-videos) 
 -   Documentation - [Prerequisites: Get started with Microsoft Teams app
-    development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
+    development](https://learn.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   Issues List -
     [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues) 
 -   Tool -- [Graph Explorer](https://aka.ms/ge) 
@@ -300,7 +300,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -344,4 +344,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 20th of August 2021*
-

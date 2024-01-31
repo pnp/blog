@@ -9,7 +9,7 @@ images:
   - images/17-using-mgt-with-spfx-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -45,26 +45,26 @@ The process to get started on using the MGT within your SPFx solution is as foll
 3. Import the SharePoint Provider in your code
 4. Use MGT components based on your business requirements
 5. Configure permissions for the SPFx solution in `package-solution.json` file
-6. Deploy the [Microsoft Graph Toolkit SharePoint Framework package](https://learn.microsoft.com/en-us/graph/toolkit/get-started/mgt-spfx) to tenant app catalog – this package contains MGT SPFx provider as a library component which is then used by all SPFx solutions in the tenant
+6. Deploy the [Microsoft Graph Toolkit SharePoint Framework package](https://learn.microsoft.com/graph/toolkit/get-started/mgt-spfx) to tenant app catalog – this package contains MGT SPFx provider as a library component which is then used by all SPFx solutions in the tenant
 7. Build and deploy your solution to the tenant - remember to grant the required API permissions
 8. Test your solution and start using it in the production
 
-Here’s a great video by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) on the required steps. 
+Here’s a great video by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) on the required steps.
 
 {{< youtube PTWXRuPbSEw >}}
 
 Documentation and references for the Microsoft Graph Toolkit usage within SPFx solutions
 
 - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph ](https://aka.ms/mgt/docs)
-- [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-web-part-microsoft-graph-toolkit)
-- [Use Microsoft Graph Toolkit to connect your solution to Microsoft Graph](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-microsoft-graph-toolkit)
-- [SharePoint Framework library for Microsoft Graph Toolkit ](https://learn.microsoft.com/en-us/graph/toolkit/get-started/mgt-spfx)
+- [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-web-part-microsoft-graph-toolkit)
+- [Use Microsoft Graph Toolkit to connect your solution to Microsoft Graph](https://learn.microsoft.com/sharepoint/dev/spfx/use-microsoft-graph-toolkit)
+- [SharePoint Framework library for Microsoft Graph Toolkit ](https://learn.microsoft.com/graph/toolkit/get-started/mgt-spfx)
 
 ## Frequently asked questions on MGT usage within SPFx solutions
 
-**Do I need to use MSAL in my code to make this work?** 
+**Do I need to use MSAL in my code to make this work?**
 
-No. MSAL and auth is completely automatic with the SPFx and you do not need to perform any additional tricks to get the access token for the used APIs. All of this is abstracted from your code. 
+No. MSAL and auth is completely automatic with the SPFx and you do not need to perform any additional tricks to get the access token for the used APIs. All of this is abstracted from your code.
 
 **Can I use any Microsoft Graph Toolkit Control?**
 
@@ -77,7 +77,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other Microsoft 365 platform community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other Microsoft 365 platform community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

@@ -46,7 +46,7 @@ adaptive card using auto invoke and synchronized refresh capabilities. 
 
 -   Portal - [Roadmap updates](https://aka.ms/ACRoadmap) 
 -   Document - [Universal Action
-    Model](https://docs.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
+    Model](https://learn.microsoft.com/adaptive-cards/authoring-cards/universal-action-model) 
      
 -   Schema Explorer - [Schema v1.4
     Docs](https://adaptivecards.io/explorer/Action.Execute.html)

@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – Dataverse Dataflows as a sync mechanism, Power Automate and Microsoft Teams approvals advanced scenarios, and Power Pages General Availability. Connect to other makers in your organization via chatbot, now in public preview - aka.ms/makermatch. Monthly Community Tip - Handle duplicate property names in JSON objects in Power Automate - George Doubinski \| @georgedude. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on October 19, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos delivered – Dataverse Dataflows as a sync mechanism, Power Automate and Microsoft Teams approvals advanced scenarios, and Power Pages General Availability. Connect to other makers in your organization via chatbot, now in public preview - aka.ms/makermatch. Monthly Community Tip - Handle duplicate property names in JSON objects in Power Automate - George Doubinski \| @georgedude. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on October 19, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -35,8 +35,8 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Agenda items
 
-* Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:39](https://youtu.be/MqAmuF8yA48?t=99)
-* Latest updates and news on Power Platform - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:15](https://youtu.be/MqAmuF8yA48?t=315)
+* Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:39](https://youtu.be/MqAmuF8yA48?t=99)
+* Latest updates and news on Power Platform - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:15](https://youtu.be/MqAmuF8yA48?t=315)
 * Monthly Community Tip – Get notified before you run out of Office 365 storage space! - [Todd Baginski](https://twitter.com/toddbaginski) - (Canviz) \| @toddbaginski – [8:37](https://youtu.be/MqAmuF8yA48?t=517)
 * Demo - Dataverse Dataflows as a sync mechanism – [Eickhel Mendoza](https://twitter.com/eickhel) (Intelequia Technologies) \| @eickhel – [12:15](https://youtu.be/MqAmuF8yA48?t=735)
 * Demo - Power Automate and Microsoft Teams approvals advanced scenarios – [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \| @TomaszPoszytek – [28:00](https://youtu.be/MqAmuF8yA48?t=1680)

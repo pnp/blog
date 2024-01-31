@@ -14,8 +14,8 @@ videos:
 
 The following topics are covered in this month's community call:
 
-- **Contribution Guidelines** (process for taking on feature requests in Adaptive Cards Repo), 
-- **Announcing v1.5** (Preview build of v1.5 is scheduled for September release.  Key features - Input.ChoiceSet search and filtering, Input.ChoiceSet auto complete, Improvements to table layouts) - J.P. Roca (Microsoft), 
+- **Contribution Guidelines** (process for taking on feature requests in Adaptive Cards Repo),
+- **Announcing v1.5** (Preview build of v1.5 is scheduled for September release.  Key features - Input.ChoiceSet search and filtering, Input.ChoiceSet auto complete, Improvements to table layouts) - J.P. Roca (Microsoft),
 - **Teams support for v1.4** (Teams now has partial support of v1.4) - Steven Kong (Microsoft) and finally
 - **Q&A** (members of the Developer team and PM team field questions on a host of topics -- updating documentation, functionality with Power Platform, multi-line support, adaptive components, etc.) for 30 minutes.
 
@@ -41,7 +41,7 @@ This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) | @
 ## Referenced in this call
 
 -   Documentation -
-    [Extensibility](https://docs.microsoft.com/adaptive-cards/sdk/rendering-cards/javascript/extensibility)
+    [Extensibility](https://learn.microsoft.com/adaptive-cards/sdk/rendering-cards/javascript/extensibility)
 -   Onboard OEM Contact - <onboardoam@microsoft.com>
 
 

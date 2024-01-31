@@ -16,7 +16,7 @@ type: "regular"
 
 ## Call summary
 
- 
+
 
 This month's community call features an Outlook: Ignite recap from
 [Juan
@@ -49,7 +49,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) Recorded December
     Consulting) | @elegault
 
 
-## Agenda 
+## Agenda
 
 -   **D1:  Outlook: Ignite recap **-- [Juan
     Balmori](https://twitter.com/juaneloBalmori) (Microsoft) |
@@ -62,7 +62,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) Recorded December
     Eric Legault -- [37:47](https://youtu.be/Yx2oCeEtbQQ?t=2267)
 -   **Q&A** -- [39:02](https://youtu.be/Yx2oCeEtbQQ?t=2342)
 
-## Topics 
+## Topics
 
 -   **D1:  Outlook:  Ignite recap** -- new features to create Outlook
     add-ins that improve collaboration in a hybrid world. Mailbox 1.11
@@ -82,7 +82,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) Recorded December
     Notifications based on date/time changes.** **Good-to-knows,
     pre-demo jingle, and samples in repo. ** **
 
-## Actions 
+## Actions
 
 -   Please complete the [Office Add-in developing experience
     survey](https://forms.office.com/r/wmzCgccbPa)
@@ -95,7 +95,7 @@ Chesnut](https://twitter.com/davidchesnut) (Microsoft) Recorded December
     12th at 08:00am PST - <https://aka.ms/officeaddinscommunitycall>
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 **When the Outlook REST API is decommissioned in October 2022, what API
@@ -118,7 +118,7 @@ on-premise (2016/2019), with the exception of hybrid environments. A
 hybrid environment does support Microsoft Graph so we still encourage
 looking into the Microsoft Graph APIs for new solutions. For access
 tokens we recommend looking to the [SSO
-documentation](https://docs.microsoft.com/office/dev/add-ins/develop/authorize-to-microsoft-graph) on
+documentation](https://learn.microsoft.com/office/dev/add-ins/develop/authorize-to-microsoft-graph) on
 how to access Microsoft Graph.
 
 **The Microsoft Graph SSO documentation focuses on calling Graph from
@@ -131,7 +131,7 @@ Passing a token to the client increases the risk of it getting leaked
 through browser history, caching, or other mechanisms. Keeping tokens on
 the server is a more secure way of managing them. For more guidance we
 recommend reaching out to the Microsoft identity platform team at
-<https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options>.
+<https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options>.
 
 **I have a question on unit testing. I created my office.js add-in for
 Word, that is working with existing documents, and it is
@@ -158,7 +158,7 @@ on desktop instead.**
 Unfortunately, Word add-ins are not supported on Office Online Server.
 For these scenarios, we recommend that you check that Office is properly
 initialized as described in
-<https://docs.microsoft.com/office/dev/add-ins/develop/initialize-add-in>.
+<https://learn.microsoft.com/office/dev/add-ins/develop/initialize-add-in>.
 
 
 **Can the Outlook event-based add-in be triggered by a user typing a
@@ -236,7 +236,7 @@ in script lab?**
 
 There is an API in Office.js to get the attachments. Check out the
 [Office.AttachmentContent
-interface. ](https://docs.microsoft.com/javascript/api/outlook/office.attachmentcontent)In
+interface. ](https://learn.microsoft.com/javascript/api/outlook/office.attachmentcontent)In
 script lab for Outlook search for "Get attachments" in the samples and
 you will find a sample.
 
@@ -245,7 +245,7 @@ you will find a sample.
 We are looking at early next year.
 
 
-## Resources 
+## Resources
 
 -   **D1:** Article - [What's new for Office Add-ins at Ignite
     2021](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-office-add-ins-at-ignite-2021/) 
@@ -256,19 +256,19 @@ We are looking at early next year.
 
 -   **D2:** Documentation - [Configure your Outlook add-in for
     event-based
-    activation](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch) 
+    activation](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch) 
 
 -   **D2:** Documentation - [Outlook add-in API requirement set
-    1.11](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.11/outlook-requirement-set-1.11) 
+    1.11](https://learn.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.11/outlook-requirement-set-1.11) 
 
 -   **D2:** Documentation - [Authenticate a user with a single-sign-on
     token in an Outlook
-    add-in](https://docs.microsoft.com/office/dev/add-ins/outlook/authenticate-a-user-with-an-sso-token) 
+    add-in](https://learn.microsoft.com/office/dev/add-ins/outlook/authenticate-a-user-with-an-sso-token) 
 
 -   **D2:** Song -- [Office Add-ins
     Song](https://youtu.be/YdQouPsW1qo) 
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Upcoming agenda and previous call
     resources](https://aka.ms/officeaddinsagenda)
@@ -279,11 +279,11 @@ We are looking at early next year.
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)

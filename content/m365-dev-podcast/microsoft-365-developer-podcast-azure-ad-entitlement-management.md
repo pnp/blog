@@ -18,21 +18,20 @@ Listen to the show here: 
 ## Links from the show
 
 -   [What is Azure AD entitlement
-    management?](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview)
+    management?](https://learn.microsoft.com/azure/active-directory/governance/entitlement-management-overview)
 -   [Azure Active Directory Identity Governance
-    documentation](https://docs.microsoft.com/azure/active-directory/governance/)
+    documentation](https://learn.microsoft.com/azure/active-directory/governance/)
 
-## Microsoft News 
+## Microsoft News
 
 -   [Microsoft Graph Mailbag -- Azure AD applications and users for
     testing](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-azure-ad-applications-and-users-for-testing/)
 -   [Microsoft Graph .NET SDK v4 adds enhanced features -- now in
     preview](https://developer.microsoft.com/graph/blogs/microsoft-graph-net-sdk-v4-adds-enhanced-features-now-in-preview/)
--   [425 Show: A visit from the Graph Team and then some more B2C custom
-    policies](https://www.pscp.tv/w/1OwxWVkLVvpJQ)
+-   425 Show: A visit from the Graph Team and then some more B2C custom
+    policies
 
-## Community Links 
+## Community Links
 
 -   [SPFx People Search web part,
     v2.5.0](https://blog.yannickreekmans.be/spfx-people-search-web-part-v2-5-0/)
-    

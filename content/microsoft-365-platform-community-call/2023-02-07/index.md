@@ -51,7 +51,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Turn text to images in Microsoft Teams using OpenAI DALL-E 2 and Teams Toolkit for Visual Studio Code** – build a personal app (DALL-E 2 Image Generator) with a workflow bot that returns images based on text entries. Toolkit orchestrates creation of welcome message, activity and message handlers, dialog menus, Adaptive Cards, conversation states, querying OpenAI service for images, task modules, publishing to organization’s App Catalog and Azure integration - authentication, provisioning Azure storage, etc. Demo functionality, code walkthrough and sample available.
 * **Power Pages Data workspace is now solution aware** – overview of Power Pages and 4 Design Studio workspaces. This demo is focused on the now solution aware Data workspace in which Makers create/modify tables, forms and views stored in Dataverse. Now when one creates a table, table column, etc., it is aligned to the solution name (prefix) that’s automatically appended to table, etc. names. Simplifies moving site from Dev to Prod following [(ALM)](https://learn.microsoft.com/power-platform/alm/) best practices.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube xDXS9muZ0DI >}}
 
@@ -59,7 +59,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/xDXS9muZ0DI?t=0) – Intro
 
-[08:46](https://youtu.be/xDXS9muZ0DI?t=526) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[08:46](https://youtu.be/xDXS9muZ0DI?t=526) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [09:56](https://youtu.be/xDXS9muZ0DI?t=596) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 

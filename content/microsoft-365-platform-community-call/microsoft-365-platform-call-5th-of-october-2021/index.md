@@ -107,7 +107,7 @@ slides.
     V4](https://github.com/microsoftgraph/microsoft-graph-explorer-v4) 
 
 -   D2:  Documentation - [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   **PnP Weekly -- Episode 137** (October 4th) with Canada-based MVP
     and Consultant from [Technologia](https://www.technologia.com/en) -
@@ -174,7 +174,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -202,7 +202,7 @@ slides.
 
 Microsoft 365 Platform community call focuses on latest Microsoft 365 Platform updates and demos delivered by Microsoft presenters and takes place weekly on Tuesday.  The alternating Special Interest Group community calls each Thursday focus on SharePoint Framework (client-side development/implementation) and Microsoft 365 Platform (includes Microsoft Teams, Bots, Microsoft Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core, Site Designs, Power Automate, PowerApps, Column Formatting, list formatting, etc. topics.) with demos commonly delivered by community members. 
 
-More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).  You can download recurrent invite for this call from <https://aka.ms/m365-dev-call>.  
+More details on the Microsoft 365 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp).  You can download recurrent invite for this call from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the discussion. If you have any questions, comments, or feedback, feel free to provide your input as comments to this post as well. More details on the Microsoft 365 community and options to get involved are available from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 

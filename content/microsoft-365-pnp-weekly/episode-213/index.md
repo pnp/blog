@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
 
 ## Topics discussed in this session
 
@@ -102,7 +102,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
 * [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
 * [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
-* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
+* Iowa Code Camp 2023 - June 17-18, 2023 - Iowa, USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 * [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom

@@ -31,18 +31,18 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/) - v3.4.0 to be released June 10th
     * [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/) - Adaptive Card support in the dev branch
 * Web part samples
-    * [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) - [Arun Kumar Perumal](http://twitter.com/arun_perumal16) \| @arun_perumal16
-    * [Pages Hierarchy](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-page-navigator) - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
-    * [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards/README.md) - [Luis Mañez](http://twitter.com/luismanez) \| @luismanez
-    * [Filterable Image Gallery](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-image-gallery/README.md) - [Ari Gunawan](http://twitter.com/arigunawan3023) \| @arigunawan3023
-    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
-    * [ACE Strategy Pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) - [Marcin Wojciechowski](http://twitter.com/mgwojciech) \| @mgwojciech
+    * [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs) - [Arun Kumar Perumal](https://twitter.com/arun_perumal16) \| @arun_perumal16
+    * [Pages Hierarchy](https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-page-navigator) - [Nick Brown](https://twitter.com/techienickb) \| @techienickb
+    * [My Awards](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-graph-profile-awards/README.md) - [Luis Mañez](https://twitter.com/luismanez) \| @luismanez
+    * [Filterable Image Gallery](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-image-gallery/README.md) - [Ari Gunawan](https://twitter.com/arigunawan3023) \| @arigunawan3023
+    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
+    * [ACE Strategy Pattern](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/ace-strategy-pattern) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech
 * ACE samples
-    * Updated - [Office Locations](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-officelocations) – Image Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
-    * Updated - [Unread Emails](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-graph-unreademails) – Primary Text Card – [Nick Brown](http://twitter.com/techienickb) \| @techienickb
-    * Updated - [My Calendar Plan](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-my-calendar) – Primary Text Card - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
-    * Updated - [News Feed](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-NewsFeed) – Primary Text Card - [Nick Brown](http://twitter.com/techienickb) \| @techienickb
-* Microsoft 365 PnP Weekly – Episode 168 (May 30th) with Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/) \| [podcast](https://www.podbean.com/media/share/pb-yvgjv-123b062)
+    * Updated - [Office Locations](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-officelocations) – Image Card – [Nick Brown](https://twitter.com/techienickb) \| @techienickb
+    * Updated - [Unread Emails](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-graph-unreademails) – Primary Text Card – [Nick Brown](https://twitter.com/techienickb) \| @techienickb
+    * Updated - [My Calendar Plan](https://adoption.microsoft.com/sample-solution-gallery/pnp-sp-fx-aces-my-calendar) – Primary Text Card - [Nick Brown](https://twitter.com/techienickb) \| @techienickb
+    * Updated - [News Feed](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-NewsFeed) – Primary Text Card - [Nick Brown](https://twitter.com/techienickb) \| @techienickb
+* Microsoft 365 PnP Weekly – Episode 168 (May 30th) with Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](https://twitter.com/sebastienlevert) \| @sebastienlevert \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-168/) \| [podcast](https://www.podbean.com/media/share/pb-yvgjv-123b062)
 * Microsoft 365 PnP Weekly – Episode 167 (May 23rd) with Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP Gautam Sheth (Valo Solutions) \| @gautamdsheth. \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/) \| [podcast](https://www.podbean.com/media/share/pb-2jtm9-1232f34)
 
 ### Demos
@@ -51,7 +51,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions** – introduction to the “Enhanced Theme Provider” control, what problem it solves (lack of support for Teams high contrast theme and basic styles), how it’s implemented, and how to use it in SPFx. Extends functionality of the Fluent UI ThemeProvider control by adding some logic and considered as a sort-of wrapper for all react and non-react controls that you want to add to the WebPart.
 * **Getting started on building custom list form components with SPFx v1.15** – introducing a new component type in v1.15 called Form customizer. Enabling development of custom modern forms with custom edit experience. Delivering API level support for content types with 6 new properties for separately configuring new form, edit form and display form. Look at how to debug your form customizer and how form customizer will work in your production environment. Review List extensibility roadmap.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -59,16 +59,16 @@ call.
 
 ## Agenda items
 
-* SharePoint Framework - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:19](https://youtu.be/XvZz75q8vag?t=379)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [9:04](https://youtu.be/XvZz75q8vag?t=544)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:35](https://youtu.be/XvZz75q8vag?t=635)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:15](https://youtu.be/XvZz75q8vag?t=675)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:09](https://youtu.be/XvZz75q8vag?t=729)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:01](https://youtu.be/XvZz75q8vag?t=781)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:10](https://youtu.be/XvZz75q8vag?t=910)
-* Demo - Building Frequently Asked Questions web part with Property Field Collection Data – [Arun Kumar Perumal](http://twitter.com/arun_perumal16) \| @arun_perumal16 – [17:08](https://youtu.be/XvZz75q8vag?t=1028)
-* Demo - Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions – [Fabio Franzini](http://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [25:58](https://youtu.be/XvZz75q8vag?t=1558)
-* Demo - Getting started on building custom list form components with SPFx v1.15 – [Alex Terentiev](http://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev & [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [36:40](https://youtu.be/XvZz75q8vag?t=2200)
+* SharePoint Framework - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:19](https://youtu.be/XvZz75q8vag?t=379)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [9:04](https://youtu.be/XvZz75q8vag?t=544)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:35](https://youtu.be/XvZz75q8vag?t=635)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:15](https://youtu.be/XvZz75q8vag?t=675)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:09](https://youtu.be/XvZz75q8vag?t=729)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:01](https://youtu.be/XvZz75q8vag?t=781)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:10](https://youtu.be/XvZz75q8vag?t=910)
+* Demo - Building Frequently Asked Questions web part with Property Field Collection Data – [Arun Kumar Perumal](https://twitter.com/arun_perumal16) \| @arun_perumal16 – [17:08](https://youtu.be/XvZz75q8vag?t=1028)
+* Demo - Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [25:58](https://youtu.be/XvZz75q8vag?t=1558)
+* Demo - Getting started on building custom list form components with SPFx v1.15 – [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev & [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [36:40](https://youtu.be/XvZz75q8vag?t=2200)
 
 
 ## Actions
@@ -93,12 +93,12 @@ call.
     * Sample - [Frequently Asked Questions with Property Field Collection Data](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-faqs)
     * Article - [Community Sample: React FAQs webpart](https://pnp.github.io/blog/post/community-sample-faqs-with-propertyfieldcollectiondata/)
 * **Solve Teams and SharePoint Theme problems with the "Enhanced Theme Provider" control for SPFx solutions**
-    * Documentation – [Build Microsoft Teams tab using SharePoint Framework – Tutorial](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
-    * Documentation - [Isolated web parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts)
+    * Documentation – [Build Microsoft Teams tab using SharePoint Framework – Tutorial](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
+    * Documentation - [Isolated web parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts)
     * npm Tools - [@fluentui/react-theme-provider](https://www.npmjs.com/package/@fluentui/react-theme-provider)
 * **Getting started on building custom list form components with SPFx v1.15**
-    * Documentation - [SharePoint Framework v1.15 preview release notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.15)
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [SharePoint Framework v1.15 preview release notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.15)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
     * Control - [Dynamic Form](https://pnp.github.io/sp-dev-fx-controls-react/controls/DynamicForm/)
 
 Thank you for your great work. Samples are often showcased in Demos.
@@ -139,7 +139,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.15 GA in June 2022, v1.16 Beta
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -158,7 +158,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.15 GA in June 2022, v1.16 Beta
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

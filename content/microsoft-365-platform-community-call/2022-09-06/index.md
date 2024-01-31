@@ -31,12 +31,12 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [Driving adoption of Microsoft Viva at Microsoft](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/driving-adoption-of-microsoft-viva-at-microsoft/ba-p/3612072) - Shin-Yi Lim (Microsoft)
 * Article – [Microsoft Viva Engage is now generally available](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-engage-is-now-generally-available/ba-p/3595300) - [Michael Holste](https://twitter.com/Mike_Holste) (Microsoft) \| @Mike_Holste
 * Microsoft Teams Platform Updates
-    * Document – [Teams Toolkit for Visual Studio is GA in Visual Studio 2022](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-overview-visual-studio)
-    * Document – [Retrieving meeting transcripts in the post-meeting scenario (Beta) using Graph APIs](https://docs.microsoft.com/microsoftteams/platform/graph-api/meeting-transcripts/overview-transcripts)
-    * Document – [Share apps to the Teams meeting stage in mobile (Dev Preview)](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings?tabs=mobile#shared-meeting-stage)
-    * Document – [Enable your app for shared channels](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/shared-channels)
+    * Document – [Teams Toolkit for Visual Studio is GA in Visual Studio 2022](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-overview-visual-studio)
+    * Document – [Retrieving meeting transcripts in the post-meeting scenario (Beta) using Graph APIs](https://learn.microsoft.com/microsoftteams/platform/graph-api/meeting-transcripts/overview-transcripts)
+    * Document – [Share apps to the Teams meeting stage in mobile (Dev Preview)](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/enable-and-configure-your-app-for-teams-meetings?tabs=mobile#shared-meeting-stage)
+    * Document – [Enable your app for shared channels](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/shared-channels)
     * Portal – [Developer Portal](https://dev.teams.microsoft.com/) is now GA and App Studio is deprecated
-    * Latest – [What’s new for developers in Microsoft Teams](https://docs.microsoft.com/microsoftteams/platform/whats-new)
+    * Latest – [What’s new for developers in Microsoft Teams](https://learn.microsoft.com/microsoftteams/platform/whats-new)
 * Microsoft 365 Developer Podcast (August 1st) - TeamsJS SDK Update with Alicia Lu \| [podcast](https://www.m365devpodcast.com/e/teamsjs-sdk-update-with-alicia-liu/)
 * Microsoft 365 PnP Weekly – Episode 177 (September 5th) with UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-177/) \| [podcast](https://pnpweekly.podbean.com/)
 
@@ -79,23 +79,23 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Latest on eDiscovery Premium APIs on Microsoft Graph**
-    * Documentation – [ediscoveryCase resource type](https://docs.microsoft.com/graph/api/resources/security-ediscoverycase?view=graph-rest-1.0) \| aka.ms/ediscographapi
-    * Documentation – [Create searches](https://docs.microsoft.com/graph/api/security-ediscoverycase-post-searches)
-    * Documentation – [Create ediscoveryCase](https://docs.microsoft.com/graph/api/security-casesroot-post-ediscoverycases)
+    * Documentation – [ediscoveryCase resource type](https://learn.microsoft.com/graph/api/resources/security-ediscoverycase?view=graph-rest-1.0) \| aka.ms/ediscographapi
+    * Documentation – [Create searches](https://learn.microsoft.com/graph/api/security-ediscoverycase-post-searches)
+    * Documentation – [Create ediscoveryCase](https://learn.microsoft.com/graph/api/security-casesroot-post-ediscoverycases)
     * Article – [eDiscovery API for Microsoft Graph is now generally available](https://devblogs.microsoft.com/microsoft365dev/ediscovery-api-for-microsoft-graph-is-now-generally-available/)
-    * Documentation – [Effective permissions](https://docs.microsoft.com/graph/auth/auth-concepts?context=graph%2Fapi%2F1.0&view=graph-rest-1.0#effective-permissions)
-    * Documentation – [Use the Microsoft Graph eDiscovery API](https://docs.microsoft.com/graph/api/resources/ediscovery-ediscoveryapioverview?view=graph-rest-beta) \| aka.ms/eDiscovery/API
+    * Documentation – [Effective permissions](https://learn.microsoft.com/graph/auth/auth-concepts?context=graph%2Fapi%2F1.0&view=graph-rest-1.0#effective-permissions)
+    * Documentation – [Use the Microsoft Graph eDiscovery API](https://learn.microsoft.com/graph/api/resources/ediscovery-ediscoveryapioverview?view=graph-rest-beta) \| aka.ms/eDiscovery/API
     * Sandbox – [Join the Microsoft 365 Developer Program today!](https://developer.microsoft.com/microsoft-365/dev-program) \| aka.ms/M365DevProgram
     * Documentation – [Postman Collection](https://www.postman.com/collections/c487712c67308f02c822) \| aka.ms/eDiscovery/Postman
-    * Documentation - [Assign eDiscovery permissions in the compliance portal](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions?view=o365-worldwide)
+    * Documentation - [Assign eDiscovery permissions in the compliance portal](https://learn.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions?view=o365-worldwide)
 * **New features in SharePoint Framework 1.16 preview**
-    * Documentation - [SharePoint Framework v1.16 release notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.16)
+    * Documentation - [SharePoint Framework v1.16 release notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.16)
     * Article - [Public preview of SharePoint Framework 1.16 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-16-first-release-of-upcoming-features/)
     * Repo - [SharePoint Framework v1.16 release notes](https://github.com/SharePoint/sp-dev-docs/blob/main/docs/spfx/release-1.16.md)
     * Feedback – [sp-dev-docs issues list](https://github.com/SharePoint/sp-dev-docs/wiki/Issue-List)
 * **Introduction to Microsoft Graph X-Ray project**
     * Website - [Graph X-Ray :Beta](http://graphxray.merill.net/)
-    * Documentation – [Get group](https://docs.microsoft.com/graph/api/group-get)
+    * Documentation – [Get group](https://learn.microsoft.com/graph/api/group-get)
     * Google Chrome Extension - [Graph X-Ray](https://chrome.google.com/webstore/detail/graph-x-ray/gdhbldfajbedclijgcmmmobdbnjhnpdh)
     * Microsoft Edge Extension - [Graph X-Ray](https://microsoftedge.microsoft.com/addons/detail/graph-xray/oplgganppgjhpihgciiifejplnnpodak)
     * Windows Apps Extension – [Graph X-Ray](https://apps.microsoft.com/store/detail/graph-xray/9N03GNKDJTT6)

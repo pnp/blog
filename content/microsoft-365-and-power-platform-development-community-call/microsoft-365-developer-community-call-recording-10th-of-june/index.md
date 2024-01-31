@@ -179,7 +179,7 @@ slides.
     Manager](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-remote-event-receiver-manager) 
 
 -   Documentation - [Use remote event receivers in
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/solution-guidance/use-remote-event-receivers-in-sharepoint)
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/solution-guidance/use-remote-event-receivers-in-sharepoint)
 
 -   Repo - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
@@ -188,13 +188,13 @@ slides.
     Samples](https://pnp.github.io/List-Formatting/)
 
 -   Documentation - [shift resource
-    type](https://docs.microsoft.com/graph/api/resources/shift?view=graph-rest-1.0) 
+    type](https://learn.microsoft.com/graph/api/resources/shift?view=graph-rest-1.0) 
 
 -   Documentation - [timecard resource
-    type](https://docs.microsoft.com/graph/api/resources/timecard?view=graph-rest-beta) 
+    type](https://learn.microsoft.com/graph/api/resources/timecard?view=graph-rest-beta) 
 
 -   Documentation -- [Webhook to Shifts
-    changes](https://docs.microsoft.com/graph/api/resources/workforceintegration?view=graph-rest-1.0) 
+    changes](https://learn.microsoft.com/graph/api/resources/workforceintegration?view=graph-rest-1.0) 
 
 -   PnP Weekly -- Episode 130 with the Software Engineer behind the
     Microsoft Graph Toolkit, [Nikola
@@ -265,7 +265,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -309,4 +309,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 11th of June 2021*
-

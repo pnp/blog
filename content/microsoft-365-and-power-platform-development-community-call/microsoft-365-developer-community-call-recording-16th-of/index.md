@@ -226,7 +226,7 @@ slides.
 
 -   [[D3:  Documentation - ][Yelp
     (Independent Publisher)
-    (Preview)](https://docs.microsoft.com/connectors/yelpip/)]
+    (Preview)](https://learn.microsoft.com/connectors/yelpip/)]
 
 -   D3:  Repo -
     [PowerPlatformConnectors/independent-publisher-connectors/Yelp/](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Yelp)
@@ -300,7 +300,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

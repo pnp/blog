@@ -50,11 +50,11 @@ The host of this call is [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympr
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [5:11](https://youtu.be/j1cBiHY_06c?t=311)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:13](https://youtu.be/j1cBiHY_06c?t=433)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [7:13](https://youtu.be/j1cBiHY_06c?t=433)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – [8:54](https://youtu.be/j1cBiHY_06c?t=534)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [12:27](https://youtu.be/j1cBiHY_06c?t=747)
 * PnP Modern Search - [Derek Cash-Peterson](https://twitter.com/spdcp) (Sympraxis Consulting) - @spdcp – [13:00](https://youtu.be/j1cBiHY_06c?t=780)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:26](https://youtu.be/j1cBiHY_06c?t=806)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:26](https://youtu.be/j1cBiHY_06c?t=806)
 * Demo – Getting started with PnPjs in SPFx solutions – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [15:14](https://youtu.be/j1cBiHY_06c?t=914)
 * Demo – Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant APIs hosted in Azure – [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia – [33:42](https://youtu.be/j1cBiHY_06c?t=2022)
 
@@ -124,7 +124,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -143,7 +143,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

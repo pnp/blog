@@ -88,21 +88,21 @@ Thank you for your work. Samples are often showcased in Demos.
 
 Additional resources around the covered topics and links from the slides.
 
-*   **D1**:  Learn - [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://docs.microsoft.com/learn/modules/msgraph-dotnet-core-access-user-events/) | aka.ms/learn-msgraph-calendar
+*   **D1**:  Learn - [Access a user's calendar events in an ASP.NET Core app with Microsoft Graph](https://learn.microsoft.com/learn/modules/msgraph-dotnet-core-access-user-events/) | aka.ms/learn-msgraph-calendar
 *   **D1**:  Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) | aka.ms/ge
 *   **D1**:  Related Demo - [Show a user's emails in an ASP.NET Core app with Microsoft Graph](https://youtu.be/YG16snk1fJU?t=621) – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-*   **D2**:  Documentation - [Microsoft Bookings API overview (preview)](https://docs.microsoft.com/graph/booking-concept-overview) 
-*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) 
+*   **D2**:  Documentation - [Microsoft Bookings API overview (preview)](https://learn.microsoft.com/graph/booking-concept-overview) 
+*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) 
 *   **D2**:  Microsoft.com - [Microsoft Bookings](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app?rtc=1) 
-*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) (v1) 
-*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph (beta)](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta) 
+*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0) (v1) 
+*   **D2**:  Documentation - [Use the Microsoft Bookings API in Microsoft Graph (beta)](https://learn.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta) 
 *   **D2**:  Article - [New features in Microsoft Graph Bookings APIs provide enhanced booking infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/) 
 *   **D2**:  Article - [Microsoft Graph Bookings APIs now available on the v1 endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/) 
-*   **D2**:  Documentation - [Microsoft Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide) 
-*   **D3:**  Documentation – [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
-*   **D3:**  Documentation – [Agenda component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/agenda) 
-*   **D3:**  Documentation – [Tasks component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/tasks) 
-*   **D3:**  Documentation - [To Do component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/todo) 
+*   **D2**:  Documentation - [Microsoft Bookings](https://learn.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide) 
+*   **D3:**  Documentation – [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
+*   **D3:**  Documentation – [Agenda component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/agenda) 
+*   **D3:**  Documentation – [Tasks component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/tasks) 
+*   **D3:**  Documentation - [To Do component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/todo) 
 *   **D3:**  Tool – [mgt-agenda simple](https://mgt.dev/?path=/story/components-mgt-agenda--simple) 
 *   **D3****:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3****:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
@@ -141,7 +141,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

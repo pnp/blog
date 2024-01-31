@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Live from the Minnesota Microsoft Technology Center - latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos were delivered live, BUT NOT CAPTURED IN THE SESSION VIDEO. DEMOS WILL BE RE-RECORDED AND PUBLISHED SEPERATELY OR DELIVERED IN A FUTURE SESSION. Register for Power Platform Samples Contributor training - Monday, November 28th, 11:30am PST. Monthly Community Tip - How to embed a Power App in a Power App! – [Greg Garcia](https://twitter.com/iamgreggarcia) \| @iamgreggarcia. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on November 16, 2022. Questions addressed in chat throughout the call.
+Live from the Minnesota Microsoft Technology Center - latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three demos were delivered live, BUT NOT CAPTURED IN THE SESSION VIDEO. DEMOS WILL BE RE-RECORDED AND PUBLISHED SEPERATELY OR DELIVERED IN A FUTURE SESSION. Register for Power Platform Samples Contributor training - Monday, November 28th, 11:30am PST. Monthly Community Tip - How to embed a Power App in a Power App! – [Greg Garcia](https://twitter.com/iamgreggarcia) \| @iamgreggarcia. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on November 16, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -28,10 +28,10 @@ Live from the Minnesota Microsoft Technology Center - latest updates and news on
 
 ## Agenda items
 
-* Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:52](https://youtu.be/VjtUC91TreA?t=112)
-* Power Platform Community Shows & Events - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:44](https://youtu.be/VjtUC91TreA?t=344)
+* Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [1:52](https://youtu.be/VjtUC91TreA?t=112)
+* Power Platform Community Shows & Events - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:44](https://youtu.be/VjtUC91TreA?t=344)
 * Monthly Community Tip – How to embed a Power App in a Power App! \- [Todd Baginski](https://twitter.com/toddbaginski) - (Canviz) \| @toddbaginski – [7:18](https://youtu.be/VjtUC91TreA?t=438)
-* Resources – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:02](https://youtu.be/VjtUC91TreA?t=782)
+* Resources – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:02](https://youtu.be/VjtUC91TreA?t=782)
 
 
 ## Actions

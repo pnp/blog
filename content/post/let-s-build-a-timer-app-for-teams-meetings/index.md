@@ -50,8 +50,8 @@ I will split this blog into two parts:
 
 ## Prerequisites
 
-To build this app you just need access to the [maker portal of
-PowerApps](https://gezeitenbrandde-my.sharepoint.com/personal/michael_roth_gezeitenbrand_de/Documents/Blog/TimerApp/make.powerapps%20com).
+To build this app you just need access to the maker portal of
+PowerApps).
 You don't need any data source or premium connectors.
 
 When you want to make the app available in Microsoft Teams meetings you
@@ -90,7 +90,7 @@ coincidence. Initially I started with a classic color scheme: red and
 green. But then I realized that red-green colorblindness is one of the
 most common visual disorders. I switched the colors to make sure that
 everybody can see everything on the screen. Learn more about
-[accessibility.](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design)
+[accessibility.](https://learn.microsoft.com/microsoft-365/community/accessibility-by-design)
 
 On all the Power App applications you can find the checker symbol in the
 upper right corner. It's a very easy step to make sure that your product
@@ -112,7 +112,7 @@ We have three steps to set up this app:
 
  
 
-### **Build the timer in the upper half of the app** 
+### **Build the timer in the upper half of the app**
 
 At first you start with inserting four things:
 
@@ -221,7 +221,7 @@ Next stop: the visualization.
 
 We have two parts here: the slider on the right side and the pie chart
 on the left. We're going to start with the slider
- 
+
 #### Slider Control
 
 To build this, start to insert the slider control.

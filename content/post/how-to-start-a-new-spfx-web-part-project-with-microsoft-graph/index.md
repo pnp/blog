@@ -154,7 +154,7 @@ workbench:
 That's it, you have configured a SPFx web part project with Microsoft
 Graph Toolkit and React. You can now integrate other components in your
 web part project without writing any line of code. And don't forget to
-look at the [Get](https://docs.microsoft.com/graph/toolkit/components/get)
+look at the [Get](https://learn.microsoft.com/graph/toolkit/components/get)
 
 component which provides a great way to query any Microsoft Graph
 endpoint and display the results with a custom template you made for
@@ -164,9 +164,9 @@ You can read this article in my
 
 **Resources**
 
-<https://docs.microsoft.com/graph/toolkit/get-started/overview>
+<https://learn.microsoft.com/graph/toolkit/get-started/overview>
 
-<https://docs.microsoft.com/graph/toolkit/get-started/mgt-react>
+<https://learn.microsoft.com/graph/toolkit/get-started/mgt-react>
 
 <https://www.npmjs.com/package/@microsoft/mgt>
 

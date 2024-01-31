@@ -27,7 +27,7 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
  
-## New version of CLI for Microsoft 365 -- v3.7 
+## New version of CLI for Microsoft 365 -- v3.7
 
 With the release of SharePoint Framework v1.12, we release this new
 version of CLI for Microsoft 365 to help you upgrade your projects.
@@ -36,13 +36,13 @@ some of the most noteworthy additions. For the full list of changes, see
 our [release
 notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v370).
  
-### Upgrade SharePoint Framework projects to v1.12 
+### Upgrade SharePoint Framework projects to v1.12
 
 Microsoft has just released a new version of SharePoint Framework v1.12.
 The most notable improvements are support for Node@12, including custom
 Teams manifests and support for building Teams meetings apps. For the
 full list of features, see the
-[documentation](https://docs.microsoft.com/sharepoint/dev/spfx/roadmap?WT.mc_id=m365-19903-wmastyka).
+[documentation](https://learn.microsoft.com/sharepoint/dev/spfx/roadmap?WT.mc_id=m365-19903-wmastyka).
  
 Upgrading SharePoint Framework projects goes beyond updating
 dependencies to the latest version. Often, there are changes to the
@@ -74,7 +74,7 @@ When you open your SharePoint Framework project in VSCode, you will get
 an interactive tour of all the locations in your project that needs an
 update.
  
-### Ensure that you have all prerequisites for building apps using SharePoint Framework v1.12 
+### Ensure that you have all prerequisites for building apps using SharePoint Framework v1.12
 
 SharePoint Framework v1.12 comes with a new set of prerequisites. To
 build apps on SPFx v1.12, you need to be using Node v12 and Gulp v4. To
@@ -92,7 +92,7 @@ m365 spfx doctor
 The command will check if your machine for all prerequisites and tell
 you if there is anything missing.
  
-### Configure CLI to your personal preferences 
+### Configure CLI to your personal preferences
 
 As more and more people use CLI for Microsoft 365, we get more feedback
 about what they'd prefer CLI to work. Some of our users, prefer for
@@ -119,7 +119,7 @@ mode next. And if there are other things that you'd like to be able to
 configure, please [let us
 know](https://github.com/pnp/cli-microsoft365/issues).
  
-### List application permissions for SharePoint sites 
+### List application permissions for SharePoint sites
 
 Recently, Microsoft released [a new way of granting apps access to
 SharePoint
@@ -148,12 +148,12 @@ m365 spo site apppermission get --siteUrl https://contoso.sharepoint.com/sites/p
 In the future versions of CLI for Microsoft 365, you can expect more
 commands allowing you to manage app permissions for SharePoint sites.
  
-### Changes 
+### Changes
 
 We've continued improving CLI, building upon the changes we've
 introduced in the previous version.
  
-#### Improved managing SharePoint pages and sites 
+#### Improved managing SharePoint pages and sites
 
 CLI for Microsoft 365 is a great tool for automating managing your
 Microsoft 365 tenant and SharePoint Framework projects. It's also great
@@ -166,7 +166,7 @@ SharePoint, Doctor is the tool for the job! As Elio is extending Doctor
 with new capabilities, he's contributed a number of enhancements to
 managing pages and sites with CLI for Microsoft 365.
  
-#### Added Remote Development container 
+#### Added Remote Development container
 
 One of the things that often stand in the way of contributing to open
 source projects is setting up the dev environment. Often, specific
@@ -192,21 +192,21 @@ sample scripts.
 If you have any scripts that you use frequently, please share them with
 us so that we can learn more about the common automation scenarios.
  
-#### Provision a Team with channels and assign a custom icon 
+#### Provision a Team with channels and assign a custom icon
 
 A sample script which [creates a Microsoft 365 Group, associates a logo
 to it and some
 members](https://pnp.github.io/cli-microsoft365/sample-scripts/teams/create-team-from-group/).
 Afterward, it teamyfies the Group and creates two public channels.
  
-#### List site collections and their lists 
+#### List site collections and their lists
 
 This script helps you to [list and export all site collection and their
 lists SharePoint Online
 sites](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-site-collection-lists/),
 ideal for getting insights into the size of your environment.
  
-#### List all external users in all site collections 
+#### List all external users in all site collections
 
 This script helps you to [list all external users in all SharePoint
 Online
@@ -214,14 +214,14 @@ sites](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-site-exter
 It provides insights in who the users are, and if available who they
 where invited by.
  
-#### Delete all Microsoft 365 groups and SharePoint sites 
+#### Delete all Microsoft 365 groups and SharePoint sites
 
 There are so many different ways to create Microsoft 365 groups. Teams,
 Planner, SharePoint team sites, etc. --- you can accumulate a lot of
 them very fast. Use this script to [delete the ones you no longer
 need](https://pnp.github.io/cli-microsoft365/sample-scripts/aad/delete-m365-groups/).
  
-## Contributors 
+## Contributors
 
 This release wouldn't be possible without the help of (in alphabetical
 order) [Aakash Bhardwaj](https://github.com/aakashbhardwaj619), [Luise
@@ -239,11 +239,11 @@ Trinder](https://github.com/garrytrinder/) and [Rabia
 Williams](https://github.com/rabwill). Thank you all for the time you
 chose to spend on the CLI for Microsoft 365 and your help to advance it!
  
-## Work in progress 
+## Work in progress
 
 Here are some things that we're currently working on.
  
-### More commands, what else 
+### More commands, what else
 
 Microsoft 365 is evolving and new capabilities are being released every
 day. With CLI for Microsoft 365, we aim to help you manage your tenant
@@ -254,14 +254,14 @@ what's possible in Microsoft 365. In the upcoming versions of the CLI
 for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
  
-### Improved managing SharePoint pages 
+### Improved managing SharePoint pages
 
 Microsoft keeps investing in modern SharePoint pages continuously
 introducing new capabilities to let us publish rich content. We're
 looking into extending our support for managing modern SharePoint pages
 to let you use them to their full potential.
  
-### Improved creating Azure AD apps 
+### Improved creating Azure AD apps
 
 Recently, we've introduced a command to easily create Azure AD app
 registrations. Because they're backbone of every app you'd build on
@@ -274,7 +274,7 @@ In the future versions of CLI for Microsoft 365 you can expect us extend
 the capabilities with additional scenarios and features supported by
 Azure AD.
  
-### Script examples 
+### Script examples
 
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
@@ -287,7 +287,7 @@ using SPO or PnP PowerShell that you use frequently, please
 [share](https://github.com/pnp/cli-microsoft365/issues) them with us so
 that we can learn more about the common automation scenarios.
  
-### `ensure` commands 
+### `ensure` commands
 
 We've just shipped our first `ensure` command - an easy way to help you
 that a site with specific settings exists. If it doesn't, CLI creates
@@ -295,7 +295,7 @@ it for you, if it does, CLI ensures it has the right properties. All in
 one line of code. We'd love to hear from you how you like it and if
 it's something you'd like us to implement for other commands as well.
  
-## Try it today 
+## Try it today
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing in the command line:
@@ -319,4 +319,3 @@ If you see any room for improvement, please, don't hesitate to reach out
 to us either on
 [GitHub](https://github.com/pnp/office365-cli/discussions) or
 [twitter](https://twitter.com/climicrosoft365).
-

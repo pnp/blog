@@ -102,7 +102,7 @@ demand. 
 
 -   D1:  Documentation -- [Filter a report using query string parameters
     in the
-    URL](https://docs.microsoft.com/power-bi/collaborate-share/service-url-filters) 
+    URL](https://learn.microsoft.com/power-bi/collaborate-share/service-url-filters) 
 
 -   D2: Video -- [Strategyzer's Value Proposition Canvas
     Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0) 

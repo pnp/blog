@@ -39,14 +39,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – PnP PowerShell – [Find all items with unique permission and export to CSV](https://pnp.github.io/script-samples/spo-get-items-with-custom-permissions/README.html?tabs=pnpps) - [Kasper Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New – PnP PowerShell – File Version Trimmer - [Kasper Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * Updated – CLI for Microsoft 365 – [List all Microsoft Team’s Owners and Members](https://pnp.github.io/script-samples/teams-list-teams-owners-and-members/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Add/Update Image in SharePoint Image Column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Delete Custom Color Themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Download all the content type document templates file associated with a library](https://pnp.github.io/script-samples/spo-list-download-contenttype-documenttemplate/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Create SharePoint Groups in Bulk using CSV File](https://pnp.github.io/script-samples/spo-create-sharepoint-groups-bulk-csv/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Empty the tenant recycle bin](https://pnp.github.io/script-samples/spo-empty-tenant-recyclebin/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – SPO Management Shell – Enable Disable App Bar in SharePoint Online - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [List all Microsoft Team’s Owners and Members](https://pnp.github.io/script-samples/teams-list-teams-owners-and-members/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Add/Update Image in SharePoint Image Column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Delete Custom Color Themes from SharePoint](https://pnp.github.io/script-samples/spo-remove-custom-themes/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Download all the content type document templates file associated with a library](https://pnp.github.io/script-samples/spo-list-download-contenttype-documenttemplate/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Create SharePoint Groups in Bulk using CSV File](https://pnp.github.io/script-samples/spo-create-sharepoint-groups-bulk-csv/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Empty the tenant recycle bin](https://pnp.github.io/script-samples/spo-empty-tenant-recyclebin/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Hide SharePoint list from Site Contents](https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – SPO Management Shell – Enable Disable App Bar in SharePoint Online - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
     * Updated – PnP PowerShell – Request Reindex of SharePoint User Profile Properties – LotsaMocha01
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
@@ -59,14 +59,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
         * Hands on Lab - [From Web Services to Teams Apps using Teams Toolkit v5.0](https://build.microsoft.com/sessions/e5152be8-46ae-4b51-8c18-6b01416cb261?source=/schedule)
     * Wanted – Updated Microsoft Teams JavaScript samples using Teams SDK v2 \| [Microsoft Teams Development Samples](https://pnp.github.io/teams-dev-samples/) \| aka.ms/Teams-Samples
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/) & [Power Apps Samples](https://github.com/pnp/powerapps-samples)
-    * New Power App - Instagram Basic Display - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New Power App - Instagram Basic Display - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * New Power App - Teams Team Request Form - [Katerina Chernevskaya](https://www.linkedin.com/in/katerinachernevskaya/)
     * New Power App - KPI Sample - [Nathalie Leenders](https://twitter.com/NathLeenders) \| @NathLeenders
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 211 (May 22nd) with Belgium-based consultant - [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-211/) \| [podcast](https://www.podbean.com/eas/pb-2uy4b-141643c)
     * Jocelyn Panchal - Power Platform Connections Ep 14 (May 19th) \| [video](https://www.youtube.com/watch?v=zFFTeYiKFTw)
     * Microsoft 365 Developer Podcast – Open AI Chat GPT, Azure Communication Services and Microsoft Graph with Dan Wahlin (May 22nd) \| [podcast](https://m365devpodcast.com/e/open-ai-chat-gpt-azure-communication-services-and-microsoft-graph-with-dan-wahlin/)
-    * [Monday’s @ Microsoft](https://www.linkedin.com/company/microsoft-community/) 
+    * [Monday’s @ Microsoft](https://www.linkedin.com/company/microsoft-community/)
 
 ### Demos
 
@@ -74,31 +74,31 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Automating DLP Policy Creation in Power Platform from an Existing Policy** – see 3 options for cloning an existing Data Loss Prevention (DLP) policy in your tenant. 1. use the Power Platform Management Connector (a flow), 2. use the DLP Editor App in the CoE Starter Kit, or 3. use Power Shell using the Power Apps Administration Module that when used with a flow completely automates the process. For each option, the DLP with all connectors are copied. Conversation at [aka.ms/May25-Demo3](https://aka.ms/May25-Demo3)
 * **Microsoft Teams Phone Number Management on a Budget with SharePoint Lists and Azure Automation** – elephant in the room - phone number management in Teams Admin Center is lacking. Here is the in-house alternative you may want to consider. Uses SharePoint Online, Microsoft List (names and numbers), Azure Automation, PowerShell, CLI for Microsoft 365, and Power Automate. 1-click deployment - the Environment.json script’s Runbook delivers the magic in 5-10 minutes. Customization options using Power Automate. Demo adding/removing users and phone numbers. Conversation at [aka.ms/May25-Demo2](https://aka.ms/May25-Demo2)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube __gcts_NKrk >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/__gcts_NKrk?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/__gcts_NKrk?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[06:20](https://youtu.be/__gcts_NKrk?t=380) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) \| @O365bert
+[06:20](https://youtu.be/__gcts_NKrk?t=380) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) \| @O365bert
 
-[07:49](https://youtu.be/__gcts_NKrk?t=469) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
+[07:49](https://youtu.be/__gcts_NKrk?t=469) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
 
 [08:53](https://youtu.be/__gcts_NKrk?t=533) – yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser
 
 [10:00](https://youtu.be/__gcts_NKrk?t=600) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[11:22](https://youtu.be/__gcts_NKrk?t=682) – Microsoft Graph Toolkit updates – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[11:22](https://youtu.be/__gcts_NKrk?t=682) – Microsoft Graph Toolkit updates – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[11:55](https://youtu.be/__gcts_NKrk?t=715) – Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1
+[11:55](https://youtu.be/__gcts_NKrk?t=715) – Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1
 
-[13:30](https://youtu.be/__gcts_NKrk?t=810) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[13:30](https://youtu.be/__gcts_NKrk?t=810) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
-[15:04](https://youtu.be/__gcts_NKrk?t=904) – Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[15:04](https://youtu.be/__gcts_NKrk?t=904) – Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[15:33](https://youtu.be/__gcts_NKrk?t=933) – Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[15:33](https://youtu.be/__gcts_NKrk?t=933) – Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [16:03](https://youtu.be/__gcts_NKrk?t=963) – Together mode picture
 
@@ -115,7 +115,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (M
 
 ![together-230525.png](images/together-230525.png)
 
-Thank you everyone for joining the call today. It was great seeing some of you in person at ECS last week.     
+Thank you everyone for joining the call today. It was great seeing some of you in person at ECS last week.
 
 ## Actions
 
@@ -137,7 +137,7 @@ Thank you everyone for joining the call today. It was great seeing some of you i
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -165,9 +165,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/powershell)|v1.12.0 GA, v2.1.1 GA|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.0-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

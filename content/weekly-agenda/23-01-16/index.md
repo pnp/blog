@@ -29,7 +29,7 @@ This is the agenda for the following week:
 Demos this time
 
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell – Introduction to Viva Connections learn module - Tutorial part 2
-* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous – Building Metaverse experiences using Teams LiveShare SDK 
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous – Building Metaverse experiences using Teams LiveShare SDK
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -39,7 +39,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
 
-Demos: 
+Demos:
 
 * Building a Name Pronunciation Database with Power Apps and Power Automate by [Lindsay Shelton](https://twitter.com/LShelton_Tech) | @LShelton_Tech
 * Mention a bot from a Power Automate flow by [Dennis Goedegebuure](https://twitter.com/expiscornovus) | @expiscornovus
@@ -53,7 +53,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese - Extend Azure AD to add pronouns to a people card component in Power Apps using Microsoft Graph
 * [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford - Create a conversational bot in Teams using OpenAI
@@ -82,7 +82,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 * [Marketplace leads for Office plugins are now becoming available in the Referrals Workspace](https://www.youtube.com/watch?v=As9GHLm5Xqc) by Sudha Padmanabhan (Microsoft)
 * [Using custom SDK built with Microsoft Graph Kiota generator within SharePoint Framework solution](https://www.youtube.com/watch?v=RbCVJ7gfY0w) by [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez
 * [How to get output from a Teams Adaptive card with Power Automate](https://www.youtube.com/watch?v=cr9oqwQzk2A) by [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
-* [Introduction to SharePoint pages Microsoft Graph API - public preview](https://www.youtube.com/watch?v=jV72gQhuSXk) by Hanbing Wang (Microsoft) 
+* [Introduction to SharePoint pages Microsoft Graph API - public preview](https://www.youtube.com/watch?v=jV72gQhuSXk) by Hanbing Wang (Microsoft)
 * [Using dynamic SVG images with Viva ACEs for business charts](https://www.youtube.com/watch?v=brUXYEHZg6E) by [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @Mediocrebowler
 * [Introduction to App Compliance Automation Tool for Microsoft 365](https://www.youtube.com/watch?v=Z4UmshA24_w) by Sreekanth Thirthala (Microsoft)
 * [Add-in Auto Open for Word and Excel](https://www.youtube.com/watch?v=_TxZy5AJ4oI) by Yun Wang (Microsoft)
@@ -103,7 +103,7 @@ We also released a [new tutorial series](https://www.youtube.com/watch?v=plIXeRP
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Learn how to create Adaptive Card Extensions (ACEs) for Microsoft Viva Connections and Viva Home](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-create-adaptive-card-extensions-aces-for-microsoft-viva-connections-and-viva-home/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen 
+* [Learn how to create Adaptive Card Extensions (ACEs) for Microsoft Viva Connections and Viva Home](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-create-adaptive-card-extensions-aces-for-microsoft-viva-connections-and-viva-home/) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * [SharePoint Pages Microsoft Graph API is now available for public preview](https://devblogs.microsoft.com/microsoft365dev/sharepoint-pages-microsoft-graph-api-is-now-available-for-public-preview/)
 
 ---
@@ -141,7 +141,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -153,7 +153,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA

@@ -135,7 +135,7 @@ public async onIncomingCall(req: express.Request, res: express.Response) {
 }
 ```
 
-## Step - Modify API Permission in Azure AD APP Registration 
+## Step - Modify API Permission in Azure AD APP Registration
 
 As we have created an Azure web app Bot, we can see that a default Azure
 AD App Registration would have been created.
@@ -153,9 +153,9 @@ provide the below Application permissions.
 ![SiddharthVaghasia_10-1630435867800.png](images/SiddharthVaghasia_10-1630435867800.png)
 
 We would be calling below GRAPH API document at
-<https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
+<https://learn.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http>
 which states the above permissions.
-           
+
 ## Step - Create Client Secret
 
 We will need to create a client secret to calls the above graph API.
@@ -226,7 +226,7 @@ Method type - Post
  
 
 Reference URL -
-[https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)
+[https://learn.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://learn.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)
 
 Here I have highlighted the values which we have to replace according to
 our setup and team meeting. Below is how you will get this information.
@@ -244,7 +244,7 @@ would be basically
 *Example(hosted on Azure) -
 <https://gameetingbotdemo.azurewebsites.net/api/calling>*
 
-*Example(ngrok url) - <https://ffe966ce902d.ngrok.io/api/calling>*
+*Example(ngrok url) - `https://ffe966ce902d.ngrok.io/api/calling`*
 
 All other attributes values, we have to extract from Teams meeting URL
 
@@ -287,7 +287,7 @@ steps from the Azure Ad App Registration screen.
 
 ![SiddharthVaghasia_15-1630435910363.png](images/SiddharthVaghasia_15-1630435910363.png)
 
-## Step - Using ngRok to Start the API End Point 
+## Step - Using ngRok to Start the API End Point
 
 Go to command prompt and project path and run
 
@@ -301,7 +301,7 @@ which we have to use in the Power Automate variable
 
 ![SiddharthVaghasia_16-1630435933837.png](images/SiddharthVaghasia_16-1630435933837.png)
 
-## Step - Add ngrok URL in Azure Web App Bot Calling Webhook URL 
+## Step - Add ngrok URL in Azure Web App Bot Calling Webhook URL
 
 As mentioned earlier we will also have to add this temporary URL(while
 we are in development) to Teams Channel in our Azure Bot. In the
@@ -320,7 +320,7 @@ It takes on around 2 mins before we will receive the request body object
 in the webhook. We will receive the same response for every event, this
 is documented in the URL
 
-*[https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://docs.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
+*[https://learn.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#exam\...](https://learn.microsoft.com/graph/api/application-post-calls?view=graph-rest-1.0&tabs=http#example-5-join-scheduled-meeting-with-service-hosted-media)*
 
 ![SiddharthVaghasia_18-1630435934427.png](images/SiddharthVaghasia_18-1630435934427.png)
 

@@ -50,7 +50,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997 - Getting started with hTWOo React controls for Microsoft 365
 * [Alex Clark](https://twitter.com/sharepointalex) (Microsoft) | @sharepointalex - Adaptive Cards samples for Viva Connections
@@ -72,7 +72,7 @@ Update of the newly published videos in our two YouTube channels which are the [
 * [Automate tasks in Excel Desktop](https://www.youtube.com/watch?v=2-247I8DEAU)
 * [Building One Productivity Hub with SPFx for Teams, Microsoft 365 app, Outlook & SharePoint](https://www.youtube.com/watch?v=ZvMV192Lqi4) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * [Top 5 AppSource Validation Errors hit by Office Add-ins' submissions](https://www.youtube.com/watch?v=N47mXIQnEfc) by Elizabeth Samuel (Microsoft)
-                                       
+
 ---
 
 ## New Microsoft 365 and Power Platform Community Blog posts
@@ -115,7 +115,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -127,7 +127,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Power Automate Bootcamp](https://events.powercommunity.com/microsoft-power-automate-bootcamp-2023/) - February 10-11, 2023 - London, UK
 * [AMS Sophia-Antipolis](https://www.communitydays.org/event/2023-02-07/ams-sophia-antipolis) - February 7, 2023 - Biot, France
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico
 * [M365 Conference](https://m365conf.com/#!/) - May 1-5, 2023 - Las Vegas, Nevada, USA

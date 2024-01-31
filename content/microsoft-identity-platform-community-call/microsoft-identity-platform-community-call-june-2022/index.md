@@ -24,27 +24,27 @@ This month’s in-depth topic: **Authentication in collaborative apps with Micro
 ## Referenced in this call
 
 * Sample - [Implemeting CAE on the client application with MSAL.NET library](https://github.com/kylemar/BestPracticesDemo)
-* Documentation - [Add code to enable SSO](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-code)
-* Documentation - [authentication module](https://docs.microsoft.com/javascript/api/@microsoft/teams-js/microsoftteams.authentication?view=msteams-client-js-1.12.1)
-* Documentation - [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
-* Documentation - [Teams Toolkit Overview](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)
+* Documentation - [Add code to enable SSO](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-code)
+* Documentation - [authentication module](https://learn.microsoft.com/javascript/api/@microsoft/teams-js/microsoftteams.authentication?view=msteams-client-js-1.12.1)
+* Documentation - [Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
+* Documentation - [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)
 * Article - [Microsoft Teams Toolkit for Visual Studio Code now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-toolkit-for-visual-studio-code-now-generally-available/)
-* Documentation - [TeamsFx Library](https://docs.microsoft.com/microsoftteams/platform/toolkit/teamsfx-cli)
-* Reference Videos - [Microsoft identity platform videos](https://docs.microsoft.com/azure/active-directory/develop/identity-videos)
-* Documentation - [Microsoft Entra](https://docs.microsoft.com/entra/)
+* Documentation - [TeamsFx Library](https://learn.microsoft.com/microsoftteams/platform/toolkit/teamsfx-cli)
+* Reference Videos - [Microsoft identity platform videos](https://learn.microsoft.com/azure/active-directory/develop/identity-videos)
+* Documentation - [Microsoft Entra](https://learn.microsoft.com/entra/)
 
 ## Actions
 
 * Let us know how we’re doing and suggest topics for future calls, please complete this survey <https://aka.ms/IDDevCommunityCallSurvey>
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://docs.microsoft.com/learn/paths/m365-identity-associate/)
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on July 21 at 9:00am PT. Download the recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 

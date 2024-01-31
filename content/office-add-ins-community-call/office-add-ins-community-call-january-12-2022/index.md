@@ -30,14 +30,14 @@ Program](https://aka.ms/m365pnp-recognition). The call was hosted by
 Alex Jerabek (Microsoft). Recorded January 12, 2022.
 
 
-## Microsoft Presenters 
+## Microsoft Presenters
 
 -   Alex Jerabek, Dev Writer 
 -   Abid Rahman, Program Manager
 -   Matt Geimer, Senior Program Manager
 -   Ashima Mathur, Program Manager 
 
-## Agenda 
+## Agenda
 
 -   **Excel shortcut customization APIs** -- Abid Rahman, Program
     Manager (Microsoft) -- [00:38](https://youtu.be/ncFuSJ4T58k?t=38)
@@ -51,7 +51,7 @@ Alex Jerabek (Microsoft). Recorded January 12, 2022.
     [24:06](https://youtu.be/ncFuSJ4T58k?t=1446)
 -   **Q&A** -- [24:45](https://youtu.be/ncFuSJ4T58k?t=1485)
 
-## Actions 
+## Actions
 
 -   Use [Excel KeyboardShortcuts
     1.1](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/excel-keyboard-shortcuts)
@@ -67,7 +67,7 @@ Alex Jerabek (Microsoft). Recorded January 12, 2022.
     Program](https://aka.ms/m365pnp-recognition).
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 **Will shortcut key APIs be available on all hosts?**\
@@ -79,7 +79,7 @@ for the user to override it?**\
 Yes, the host (Excel) will prompt the user to make a choice between
 them. For more information, see [Add custom keyboard shortcuts to your
 Office
-Add-ins.](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#avoid-key-combinations-in-use-by-other-add-ins)
+Add-ins.](https://learn.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#avoid-key-combinations-in-use-by-other-add-ins)
 
 \
 **Can I display a local image in a task pane? I want to use a path to a
@@ -140,7 +140,7 @@ that allows an admin to consent for the permissions for all users, even
 if the user was allowed to consent. You can also utilize this mechanism
 using tenant-wide admin consent in Azure. For more details, see [Grant
 tenant-wide admin consent to an
-application​](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent).
+application​](https://learn.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent).
 **Can Microsoft Outlook Policy Tips be used in conjunction with add-ins
 REST/EWS send API? Full description of problem described on Stack
 Overflow:
@@ -151,49 +151,49 @@ Overflow:
 Overflow.
 
 
-## Resources 
+## Resources
 
-### Excel shortcut customization APIs 
+### Excel shortcut customization APIs
 
 -   Sample Repo -- [Use keyboard shortcuts for Office add-in
     actions](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/excel-keyboard-shortcuts) 
 -   Documentation -- [Add custom keyboard shortcuts to your Office
-    Add-ins](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts) 
+    Add-ins](https://learn.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts) 
 -   Documentation -- [Keyboard Shortcuts 1.1 requirement
-    sets](https://docs.microsoft.com/office/dev/add-ins/reference/requirement-sets/keyboard-shortcuts-requirement-sets) 
+    sets](https://learn.microsoft.com/office/dev/add-ins/reference/requirement-sets/keyboard-shortcuts-requirement-sets) 
 -   Documentation -- [Avoid key combinations in use by other
-    add-ins](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#avoid-key-combinations-in-use-by-other-add-ins) 
+    add-ins](https://learn.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#avoid-key-combinations-in-use-by-other-add-ins) 
 -   Documentation -- [Enable custom keyboard shortcuts for specific
     users
-    (preview)](https://docs.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#enable-custom-keyboard-shortcuts-for-specific-users-preview) 
+    (preview)](https://learn.microsoft.com/office/dev/add-ins/design/keyboard-shortcuts#enable-custom-keyboard-shortcuts-for-specific-users-preview) 
 -   Feedback Repo -- [Issues --
     OfficeDev/Office-js](https://github.com/OfficeDev/office-js/issues){style="color: inherit; font-family: inherit; font-size: 18px;"}
 
-### SSO Update for Office Add-in 
+### SSO Update for Office Add-in
 
 -   Documentation -- [Privacy and security for Office
-    Add-ins](https://docs.microsoft.com/office/dev/add-ins/concepts/privacy-and-security) 
+    Add-ins](https://learn.microsoft.com/office/dev/add-ins/concepts/privacy-and-security) 
 -   Documentation -- [Register an Office Add-in that uses SSO with the
     Azure AD v2.0
-    endpoint](https://docs.microsoft.com/office/dev/add-ins/develop/register-sso-add-in-aad-v2) 
+    endpoint](https://learn.microsoft.com/office/dev/add-ins/develop/register-sso-add-in-aad-v2) 
 -   Blog post -- [New Single Sign-on service for Office Add-ins rolling
     out in Office on the
     web](https://devblogs.microsoft.com/microsoft365dev/new-single-sign-on-service-for-office-add-ins-rolling-out-in-office-on-the-web/) 
 
-### Outlook event-based activation on Mac  
+### Outlook event-based activation on Mac 
 
 -   Documentation -- [Outlook add-in API requirement set
-    1.10](https://docs.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10) 
+    1.10](https://learn.microsoft.com/office/dev/add-ins/reference/objectmodel/requirement-set-1.10/outlook-requirement-set-1.10) 
 
-### Q&A 
+### Q&A
 
 -   Documentation -- [Grant tenant-wide admin consent to an
-    application](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
+    application](https://learn.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
 -   Question -- [Can Microsoft Outlook Policy Tips be used in
     conjunction with add-ins REST/EWS send
     API?](https://stackoverflow.com/questions/70619981/can-microsoft-outlook-policy-tips-be-used-in-conjunction-with-add-ins-rest-ews-s) 
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Upcoming agenda and previous call
     resources](https://aka.ms/officeaddinsagenda)
@@ -207,8 +207,8 @@ Overflow.
 ### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)

@@ -17,15 +17,15 @@ This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity pl
 
 *   Blog - [Join us to build solutions using Decentralized Identities](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649) 
 *   Blog – [The 425 Show](https://dev.to/425show) | aka.ms/425Show/blog
-*   Documentation – [Azure Command-Line Interface (CLI) – Overview](https://docs.microsoft.com/cli/azure/what-is-azure-cli) 
-*   Documentation - [Workload identity federation (preview)](https://docs.microsoft.com/azure/active-directory/develop/workload-identity-federation) 
-*   Documentation - [ASP.NET documentation](https://docs.microsoft.com/aspnet/core/?view=aspnetcore-6.0) 
-*   Documentation - [About Azure Key Vault secrets](https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
-*   Documentation - [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
+*   Documentation – [Azure Command-Line Interface (CLI) – Overview](https://learn.microsoft.com/cli/azure/what-is-azure-cli) 
+*   Documentation - [Workload identity federation (preview)](https://learn.microsoft.com/azure/active-directory/develop/workload-identity-federation) 
+*   Documentation - [ASP.NET documentation](https://learn.microsoft.com/aspnet/core/?view=aspnetcore-6.0) 
+*   Documentation - [About Azure Key Vault secrets](https://learn.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
+*   Documentation - [Safe storage of app secrets in development in ASP.NET Core](https://learn.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=linux) 
 *   Q&A - [Azure AD\*](https://aka.ms/425show/help) | aka.ms/425show/help
 *   Sessions - See Decentralized Identity service sessions on [The 425 Show](aka.ms/425show) | aka.ms/425show
 *   Repos – | [https://github.com/425show](https://github.com/425show)
-*   Samples – [Azure Identity, Resource Management, and Storage sample](https://docs.microsoft.com/samples/dotnet/samples/azure-identity-resource-management-storage/) 
+*   Samples – [Azure Identity, Resource Management, and Storage sample](https://learn.microsoft.com/samples/dotnet/samples/azure-identity-resource-management-storage/) 
 *   Demo - [The Config secret is: I'm a config secret](https://pnp.github.io/blog/microsoft-identity-platform-community-call/microsoft-identity-platform-community-call-january-2022/) 
 
 ## Actions
@@ -39,7 +39,7 @@ This month’s in-depth topic:  **Secure DevOps with the Microsoft Identity pl
 
 ## Resources in General
 
-*   Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/) 
+*   Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/) 
 
 *   Microsoft Security - [Integrate modern identity capabilities into your apps](https://www.microsoft.com/security/business/identity-access-management/microsoft-identity-management-platform) 
 

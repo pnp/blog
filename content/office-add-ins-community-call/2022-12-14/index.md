@@ -64,7 +64,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 **When using SSO, the samples use a .ENV file to contain the secret. Are there any links on where to put the secret when you release to production?**
 
 We recommend you use something like Azure Key Vault for securely storing and accessing secrets on your production app service.
-[Azure Key Vault Overview - Azure Key Vault | Microsoft Learn](https://learn.microsoft.com/en-us/azure/key-vault/general/overview)
+[Azure Key Vault Overview - Azure Key Vault | Microsoft Learn](https://learn.microsoft.com/azure/key-vault/general/overview)
 
 
 **We are Scribe an email signature management software. We developed an Outlook Addin with an event base integration to insert the signature on the "OnNewMessageCompose" event. But, we have users that have aliases and when they change the "From" address we would like to be able to re-trigger the Addin script to insert the alias signature. Is there a way to do that? If not, is there a possibility to implement a new event for that in the future?**
@@ -78,7 +78,7 @@ We do support Custom Tabs, but not in the Notes section. Add-ins are currently s
 
 **Can you automatically open an add-in in Outlook 365??**
 
-In Outlook we do not currently support automatically opening a task pane. It's a user driven experience and is accomplished via pinning taskpane. [Implement a pinnable task pane in an Outlook add-in - Office Add-ins | Microsoft Learn](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/pinnable-taskpane?tabs=xmlmanifest)
+In Outlook we do not currently support automatically opening a task pane. It's a user driven experience and is accomplished via pinning taskpane. [Implement a pinnable task pane in an Outlook add-in - Office Add-ins | Microsoft Learn](https://learn.microsoft.com/office/dev/add-ins/outlook/pinnable-taskpane?tabs=xmlmanifest)
 
 
 **Is the auto open feature is available also for the IPAD platform?**
@@ -124,7 +124,7 @@ Unfortunately there is not. They need to get into the appDomains.
 ## General Resources
 
 * [Documentation](https://aka.ms/office-add-ins-docs)
-* Quick Starts: [Outlook](https://docs.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart),[Excel](https://docs.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery),[Word](https://docs.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart),[PowerPoint](https://docs.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
+* Quick Starts: [Outlook](https://learn.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart),[Excel](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery),[Word](https://learn.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart),[PowerPoint](https://learn.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
 * [Script Lab](https://aka.ms/getscriptlab)
 * [Samples](https://aka.ms/officeaddinsamples)
 * [Microsoft 365 Developer Program](https://aka.ms/M365devprogram)

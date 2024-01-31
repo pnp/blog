@@ -22,7 +22,7 @@ Microsoft Graph Toolkit.
 
 ## Topics
 
-## Microsoft Graph Java SDK version 3 
+## Microsoft Graph Java SDK version 3
 
 Maisa Rissi from the Microsoft Graph SDK team delivers an update on
 Microsoft Graph Java SDK version 3 -- new features including a
@@ -99,7 +99,7 @@ at <https://aka.ms/GraphTAPForm>.  
 -   Repo -- [Microsoft Kiota](https://github.com/microsoft/kiota) 
 
 -   Learn Module - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)
+    Toolkit](https://learn.microsoft.com/learn/modules/msgraph-toolkit-intro/)
     | <https://aka.ms/mgt-learn>
 
 -   Repo - [Microsoft Graph Toolkit
@@ -107,7 +107,7 @@ at <https://aka.ms/GraphTAPForm>.  
     <https://aka.ms/mgt>  
 
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/graph/toolkit/overview)
+    Overview](https://learn.microsoft.com/graph/toolkit/overview)
     | <https://aka.ms/mgt-docs>
 
 -   Playground -- [Microsoft Graph Toolkit
@@ -115,16 +115,15 @@ at <https://aka.ms/GraphTAPForm>.  
     | <https://mgt.dev>
 
 -   Documentation - [Electron
-    Provider](https://docs.microsoft.com/graph/toolkit/providers/electron) 
+    Provider](https://learn.microsoft.com/graph/toolkit/providers/electron) 
 
--   Electron applications using Microsoft Graph Toolkit -
-    [https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electro\...](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
+-   [Electron applications using Microsoft Graph Toolkit](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-microsoft-graph-in-electron-applications-using-microsoft-graph-toolkit/)
 
 ## General Resources:
 
 -   Graph TAP Program -
     [**https://aka.ms/GraphTAPForm**](https://aka.ms/GraphTAPForm)** **
--   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
+-   Microsoft 365 Developer Podcast <https://www.m365devpodcast.com/>
 -   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 

@@ -49,22 +49,22 @@ include: 
 -   [Deck](https://www.slideshare.net/OfficeDev/microsoft-identity-platform-dos-and-dont)
 -   Documentation - Migrate applications to the Microsoft Authentication
     Library (MSAL) |
-    <https://docs.microsoft.com/azure/active-directory/develop/msal-migration>
+    <https://learn.microsoft.com/azure/active-directory/develop/msal-migration>
 -   Documentation - Redirect URI (reply URL) restrictions and
     limitations |
-    <https://docs.microsoft.com/azure/active-directory/develop/reply-url>
+    <https://learn.microsoft.com/azure/active-directory/develop/reply-url>
 -   Website - OAuth 2.0 | <https://oauth.net/2/>
 -   Help Options for Developers
     -   Q & A -- Technical Q & A on Microsoft Identity |
         <https://aka.ms/AzureIdentityQnA>
     -   Post a query on Microsoft Q&A with the right tags |
-        [https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#post-\...](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#post-a-question-to-microsoft-qa)
+        [https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#post-\...](https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#post-a-question-to-microsoft-qa)
     -   Create a GitHub issue against the MSAL library |
-        [https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#create-a-github-issue)
+        [https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#creat\...](https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#create-a-github-issue)
     -   Submit feedback for new feature requests |
-        [https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#submi\...](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#submit-feedback-on-azure-feedback)
+        [https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#submi\...](https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#submit-feedback-on-azure-feedback)
     -   Create an Azure Support Request |
-        [https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#creat\...](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options#create-an-azure-support-request)
+        [https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#creat\...](https://learn.microsoft.com/azure/active-directory/develop/developer-support-help-options#create-an-azure-support-request)
 
 
 ## Actions

@@ -19,7 +19,7 @@ Color contrast ratio is important for accessibility - here is how to build an in
 
 Although [Power Apps studio](https://make.powerapps.com) has a built-in Accessibility checker, which warns makers if they for example forgot an `AccessibleLabel` which is used by screen reader applications to announce what a control is about, it doesn't cover any issues that might occur regarding the contrast of used colors.
 
-This means, that makers don't get a warning when they choose colors that don't match accessibility standards. The [Power Apps documentation](https://docs.microsoft.com/power-apps/maker/canvas-apps/accessible-apps-color) recommends a color contrast ratio for texts and backgrounds of at least 4.5:1 and for large text of at least 3:1, however there is no guidance on how to calculate this ratio and even then, the information is not where makers need them - in their app.
+This means, that makers don't get a warning when they choose colors that don't match accessibility standards. The [Power Apps documentation](https://learn.microsoft.com/power-apps/maker/canvas-apps/accessible-apps-color) recommends a color contrast ratio for texts and backgrounds of at least 4.5:1 and for large text of at least 3:1, however there is no guidance on how to calculate this ratio and even then, the information is not where makers need them - in their app.
 
 > Accessibilty is one of the most crucial design goals for every app and every website as we do not aim to proactively exclude people because we do not match their needs with appropriate features.
 

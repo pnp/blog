@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 29th of January 2024 week
-date: 2024-01-25T12:34:53.731Z
+date: 2024-01-26T02:34:53.731Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,12 +11,12 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
 
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. Want to demo what you have created? - absolutely welcome. [Voluteer for a demo spot](https://aka.ms/community/request/demo).
 
 This is the agenda for the upcoming week:
 
@@ -24,29 +24,35 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform weekly call - 30th of January
 
-* Tuesday, 30th of January2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 30th of January 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder - Extend Copilot for Microsoft 365: Build a message extension plugin to access SharePoint Online list data in real-time using C# and .NET
-* Reid Carlberg (Microsoft) - Introducing SharePoint Embedded
-* Loki Meyburg (Microsoft) & Ryan Bliss (Microsoft) - Changes to the Website tab in the new Microsoft Teams client
+* [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) - Extend Copilot for Microsoft 365: Build a message extension plugin to access SharePoint Online list data in real-time using C# and .NET
+* [Reid Carlberg](https://www.linkedin.com/in/reidcarlberg/) (Microsoft) - Introducing SharePoint Embedded
+* [Loki Meyburg](https://www.linkedin.com/in/lokimeyburg/) (Microsoft) & [Ryan Bliss](https://www.linkedin.com/in/ryanbliss/) (Microsoft) - Changes to the Website tab in the new Microsoft Teams client
 
 ---
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 1st of February
 
-* Thursday, 1st of February 7:00 AM PT / 2:00 PM GMT
+* Thursday, 1st of February 2024, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
+<<<<<<< HEAD
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_ - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0- Creating Teams Meetings and install Teams Meeting App + custom data​
 * [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Tips & Tricks
+=======
+* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
+* [Markus Möller](https://www.linkedin.com/in/markus-moeller-25b72821/) (Avanade) - Creating Teams Meetings and install Teams Meeting App + custom data​
+* [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) - List Formatting Tips & Tricks
+>>>>>>> f63c90f2234f913e57054c33ceda3e255a1da592
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -59,12 +65,13 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Debug API requests with Microsoft 365 Developer Proxy and Chrome DevTools](https://www.youtube.com/watch?v=LO82Uv0c22U) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm 
+* [Manage quick links and left Navigation settings in SharePoint using PowerShell](https://www.youtube.com/watch?v=LloOsnI9858) by [Naveen Rajdev](https://www.linkedin.com/in/naveen-rajdev-44529535/) (Velrada)
+* [Debug API requests with Microsoft 365 Developer Proxy and Chrome DevTools](https://www.youtube.com/watch?v=LO82Uv0c22U) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft)
 * [Maturity Model for Microsoft 365 - January 2024](https://www.youtube.com/watch?v=mzxKVtOwMpI)
-* [Extend Copilot for Microsoft 365 with plugins](https://www.youtube.com/watch?v=ePLgSsje4Fw) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
-* [Microsoft 365 PnP Weekly – Episode 233 – Stephan van Rooij](https://www.youtube.com/watch?v=Y6stCc4H-SM) with [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
-* [Using Microsoft Graph to retrieve Files, Chats, and Sending Messages to Teams](https://www.youtube.com/watch?v=pkph3eDMG9k) by [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
-* [Automate recruitment process with AI and Power Platform](https://www.youtube.com/watch?v=HWV_ufdmuQ4) by Daniel Kerridge & Isabelle Gaboc
+* [Extend Copilot for Microsoft 365 with plugins](https://www.youtube.com/watch?v=ePLgSsje4Fw) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
+* [Microsoft 365 PnP Weekly – Episode 233 – Stephan van Rooij](https://www.youtube.com/watch?v=Y6stCc4H-SM) with [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/)
+* [Using Microsoft Graph to retrieve Files, Chats, and Sending Messages to Teams](https://www.youtube.com/watch?v=pkph3eDMG9k) by [Dan Wahlin](https://www.linkedin.com/in/danwahlin/) (Microsoft)
+* [Automate recruitment process with AI and Power Platform](https://www.youtube.com/watch?v=HWV_ufdmuQ4) by [Daniel Kerridge](https://www.linkedin.com/in/danielkerridge/) & [Isabelle Gaboc](https://www.linkedin.com/in/isabellegaboc/)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
@@ -74,9 +81,8 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
-* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
-* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM&t=56s)
-* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by  [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder and Robert Schouten
+* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) and [Robert Schouten](https://www.linkedin.com/in/rfjschouten/)
+* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
 * [Mesh 101: Prepare the Project](https://www.youtube.com/watch?v=snvNgvZIO4E)
 
 ---
@@ -93,7 +99,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 233 - Stephan van Rooij](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-233/) with [Stephan van Rooij](https://twitter.com/svrooij) | @svrooij
+* [Microsoft 365 PnP Weekly - Episode 233 - Stephan van Rooij](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-233/) with [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/)
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -103,9 +109,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 11th of January 2024](https://www.youtube.com/watch?v=onn4-J6XprM)
 * [Microsoft 365 & Power Platform weekly call – 23rd of January, 2024](https://www.youtube.com/watch?v=r4d7di9GbmM)
 * [Office Add-ins community call – January 2024](https://www.youtube.com/watch?v=puCPsUZVT2U)
-
 
 ---
 
@@ -141,7 +147,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [European Collaboration Summit](https://www.cloudsummit.eu/) - May 14-16, 2024 - Wiesbaden, Germany
 * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference/) - June 11-13, 2024 - Brussels, Belgium
 * [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) - September 18-20 - Las Vegas, NV, USA
-
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 

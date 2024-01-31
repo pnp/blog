@@ -15,9 +15,9 @@ FAQ bot for Microsoft Teams within minutes. We will use the Power
 Virtual Agents for Teams, which means, that you will not need any
 additional license to your Microsoft 365 license, for reference see
 also [Power Virtual Agents for Microsoft Teams
-plan](https://docs.microsoft.com/power-virtual-agents/requirements-licensing-subscriptions#power-virtual-agents-for-microsoft-teams-plan).
+plan](https://learn.microsoft.com/power-virtual-agents/requirements-licensing-subscriptions#power-virtual-agents-for-microsoft-teams-plan).
 
-## What is Power Virtual Agents? 
+## What is Power Virtual Agents?
 
 Power Virtual Agents belongs like Power Apps, [Power
 Automate](https://flow.microsoft.com/) and Power Bi to the Power
@@ -28,11 +28,11 @@ You can choose if you want to use it in the [Power Virtual Agents
 standalone web app](https://powerva.microsoft.com/) or as [app within
 Microsoft Teams](https://aka.ms/PVAForTeams).
 
-## Let's build a bot 
+## Let's build a bot
 
 I will guide you how to create an FAQ bot. To feed our bot we will need
 some FAQ so that our can bot can learn them. I will use [FAQ regarding
-licensing](https://docs.microsoft.com/power-platform/admin/powerapps-flow-licensing-faq) :nerd_face:,
+licensing](https://learn.microsoft.com/power-platform/admin/powerapps-flow-licensing-faq) :nerd_face:,
 but you can choose any FAQ from a website or PDF or even Word file that
 you like.
 
@@ -72,7 +72,7 @@ you like.
 
 ![my-chatsbots.png](images/my-chatsbots.png)
 
-### Add topics from any website 
+### Add topics from any website
 
 -   Click **Topics**
 
@@ -112,7 +112,7 @@ suggested topics are now in:
  
  
 
-### Review & edit topics 
+### Review & edit topics
 
 You can now review and edit each topic:
 
@@ -132,7 +132,7 @@ to turn on the topics
 > Train your bot by entering more trigger phrases. This way, it is more
 > likely that the Chatbot understands users asking questions even if
 > they don't exactly match the trigger phrases
-> 
+>
 
 Time to test the bot!
 
@@ -143,7 +143,7 @@ Time to test the bot!
 You can now review and edit your topics until you are happy with the
 results.
 
-### Publish your Bot to Microsoft Teams 
+### Publish your Bot to Microsoft Teams
 
 -   Select the **Publish** icon
 

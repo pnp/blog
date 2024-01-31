@@ -21,7 +21,7 @@ draft: false
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
 * **Word Extensibility APIs (Preview) - April 2023.** [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft.
-* **Top 5 AppSource Validation Errors December 2022 - February 2023.**[Elizabeth Samuel](https://www.linkedin.com/in/elizabeth-samuel-9a1629153/), Senior Technical Writer, Microsoft. 
+* **Top 5 AppSource Validation Errors December 2022 - February 2023.**[Elizabeth Samuel](https://www.linkedin.com/in/elizabeth-samuel-9a1629153/), Senior Technical Writer, Microsoft.
 * **Q&A.** See question and answers at end of call and in chat throughout call. [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a14), Product Manager, Microsoft.
 
 {{< youtube yvJ8n6GaO2s >}}
@@ -37,8 +37,8 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## Topic summaries
 
-* **Word Extensibility Updates - April 2023.** Results and insights from two surveys. Structured document content usage in Word add-ins. Questions on types of content controls, control events, and types of fields used. New capabilities highlighted: plain text content control API, new fields, and six events in preview. Auto launching add-ins. This survey assessed an understanding of auto launch for add-ins and scenarios where add-ins should be automatically launched and automatically installed. 
-* **Top 5 AppSource Validation Errors December 2022 - February 2023.** The presenter focuses on causes and how to avoid top AppSource validation errors affecting Office Add-ins’ submissions and she highlights supporting AppSource policies. In the last three months, top validation errors included: App does not work on Office for Mac, functionality doesn’t work as described, Outlook add-in doesn’t work on Safari, privacy policy unavailable or insufficient, and app provides insufficient value.     
+* **Word Extensibility Updates - April 2023.** Results and insights from two surveys. Structured document content usage in Word add-ins. Questions on types of content controls, control events, and types of fields used. New capabilities highlighted: plain text content control API, new fields, and six events in preview. Auto launching add-ins. This survey assessed an understanding of auto launch for add-ins and scenarios where add-ins should be automatically launched and automatically installed.
+* **Top 5 AppSource Validation Errors December 2022 - February 2023.** The presenter focuses on causes and how to avoid top AppSource validation errors affecting Office Add-ins’ submissions and she highlights supporting AppSource policies. In the last three months, top validation errors included: App does not work on Office for Mac, functionality doesn’t work as described, Outlook add-in doesn’t work on Safari, privacy policy unavailable or insufficient, and app provides insufficient value.
 
 ## Call to action
 
@@ -60,7 +60,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 **What is the recommended front end technology to create an Excel add-in? React, Angular, Blazor? Thanks in advance!**
 
-You can use your preferred framework to develop an Excel add-in. To learn more, see [Develop Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/develop-overview). We also invite you to try out the [Use React to build an Excel task pane add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-react) and [Use Angular to build an Excel task pane add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-angular) tutorials.
+You can use your preferred framework to develop an Excel add-in. To learn more, see [Develop Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/develop-overview). We also invite you to try out the [Use React to build an Excel task pane add-in](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-react) and [Use Angular to build an Excel task pane add-in](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-angular) tutorials.
 
 
 **When will the FileInsertBase64 be released into full production?**
@@ -104,7 +104,7 @@ We're estimating the FileInsertBase64 method to be released in production in the
 * [Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Unified Sample gallery](https://aka.ms/community/samples)
 * [Microsoft 365 Platform Community in YouTube](https://aka.ms/community/videos)
-* [Microsoft 365 Platform Community](http://aka.ms/community/home)
+* [Microsoft 365 Platform Community](https://aka.ms/community/home)
 * [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 * [Submit questions for next community call](https://aka.ms/officeaddinsform)
 * [Next community call – April 12th at 08:00am PT](https://aka.ms/officeaddinscommunitycall)

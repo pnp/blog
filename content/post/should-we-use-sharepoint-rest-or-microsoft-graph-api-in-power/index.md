@@ -23,7 +23,7 @@ I will grab a coffee :hot_beverage: in the meanwhile.
 
 Back again? Cool. Let me introduce you to our
 
-## use case 
+## use case
 
 We want to create a new SharePoint list and add some columns based on
 the user's input using Power Automate or Azure Logic Apps. When we look
@@ -31,13 +31,13 @@ at the different available SharePoint actions in Power Automate, we will
 see that there is no 'create a list' and no 'add column to SharePoint
 list' action, but that we could try out something with ['send an HTTP
 request to
-SharePoint'](https://docs.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
+SharePoint'](https://learn.microsoft.com/sharepoint/dev/business-apps/power-automate/guidance/working-with-send-sp-http-request)
 
-### Option No. 1: SharePoint REST 
+### Option No. 1: SharePoint REST
 
 The 'send an HTTP request to SharePoint' action uses SharePoint REST
 API. To create a list, we can look up [working with lists and lists
-items](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest) and
+items](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest) and
 see that we need to send a POST request to
 the `https://{site_url}/_api/web/lists` endpoint and specify in the body
 of our list how it should look like. We can define the title and
@@ -65,7 +65,7 @@ case you want to do the same with a library etc.):
 
 Now how do we do this in Power Automate without writing much code?
 
-#### mobile flow button 
+#### mobile flow button
 
 To make things easier, I will use the mobile flow trigger with three
 text inputs:
@@ -80,7 +80,7 @@ text inputs:
 You can also trigger the flow from a list, a form, an app, a bot, or
 whatever suits your use case.
 
-#### Send an HTTP request to SharePoint - create a list 
+#### Send an HTTP request to SharePoint - create a list
 
 Now we need to add the 'send an HTTP request to SharePoint' action:
 
@@ -114,10 +114,10 @@ as body- make sure you replace the placeholder with Dynamic Content:
 
  
 
-#### Parse JSON 
+#### Parse JSON
 
 Now we want to add a column. Let's have a look [into the
-documentation](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest),
+documentation](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#working-with-lists-by-using-rest),
 how we can do this.
 
     POST https://{site_url}/_api/web/lists(guid'{list_guid}')/Fields
@@ -144,7 +144,7 @@ JSON** action. If you are not familiar with that - I blogged about
 it: [How to use Parse JSON action in Power
 Automate](https://m365princess.com/how-to-use-parse-json-action-in-power-automate/)
 
-#### Parse JSON 
+#### Parse JSON
 
 -   Let your flow run - just the mobile trigger and the 'send an HTTP
     request to SharePoint' action
@@ -161,7 +161,7 @@ Automate](https://m365princess.com/how-to-use-parse-json-action-in-power-automat
 When we now have a look into our Dynamic Content, we will see many more
 options, also the list Guid, which is named **Id** here.
 
-#### Send an HTTP request to SharePoint 2 - add a column 
+#### Send an HTTP request to SharePoint 2 - add a column
 
 Now we add another 'send an HTTP request to SharePoint' action, which
 will create us a column:
@@ -194,7 +194,7 @@ will create us a column:
 ![sendhttprequest2.png](images/sendhttprequest2.png)
 
 Should you stumble upon the FieldTypeKind, please find
-reference here:  [FieldTypeKind](https://docs.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
+reference here:  [FieldTypeKind](https://learn.microsoft.com/previous-versions/office/sharepoint-csom/ee540543(v=office.15)) -
 2 means 'single line of text'.
 
 If you want to run your flow, please think about changing the list name
@@ -204,7 +204,7 @@ If we now control our newly created SharePoint list, we will see that
 our new column doesn't show up in the default view but that we need to
 enable the column- bummer!
 
-#### Send an HTTP request to SharePoint 3 - add column to view 
+#### Send an HTTP request to SharePoint 3 - add column to view
 
 To have the column in the default view (or another view), we need to add
 another 'send an HTTP request to SharePoint' action:
@@ -226,13 +226,13 @@ another 'send an HTTP request to SharePoint' action:
 
  
 
-#### Advantages of this solution 
+#### Advantages of this solution
 
 -   no need to register an application in Azure AD
 -   send an HTTP request to SharePoint is not a premium connector, which
     means that you won't need a Power Automate Standalone license
 
-#### Disadvantages of this solution: 
+#### Disadvantages of this solution:
 
 -   with an 'http request to SharePoint' action you have - compared to
     the power of Microsoft Graph API - limited options, as you can only
@@ -241,7 +241,7 @@ another 'send an HTTP request to SharePoint' action:
 -   to add the new column to our default view, we need 3 HTTP requests -
     which makes the flow unnecessarily more complex
 
-### Option No. 2: Microsoft Graph API 
+### Option No. 2: Microsoft Graph API
 
 Let's see how we can create a SharePoint list or library and columns in
 it using Microsoft Graph. Microsoft Graph is a super powerful set of
@@ -249,13 +249,13 @@ APIs that gives you a consistent experience for authentication,
 documentation, and samples. You can try it out on [Microsoft Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer).
 For full documentation please
-continue here: [Microsoft Graph Docs](https://docs.microsoft.com/graph/overview). If you
+continue here: [Microsoft Graph Docs](https://learn.microsoft.com/graph/overview). If you
 are not familiar with using Microsoft Graph in Power Automate, [please
 continue to read
 here](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/)
 time for another coffee for me then :)
 
-#### mobile flow trigger 
+#### mobile flow trigger
 
 Again, to make things easy, we will use the same trigger as in Option
 No. 1.
@@ -263,13 +263,13 @@ No. 1.
 
 ![mobileflowtrigger.png](images/mobileflowtrigger.png)
 
-#### HTTP action 
+#### HTTP action
 
 Now that we registered our app in Azure AD, we can continue with the
 HTTP action in Power Automate.
 
 To create a list, we will look up [documentation
-here](https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http) and
+here](https://learn.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http) and
 see that we will need to send a POST request to
 
 `https://graph.microsoft.com/v1.0/sites/{site-id}/lists`
@@ -290,7 +290,7 @@ We will follow these steps to register an app in Azure AD:
 -   Click **API PERMISSIONS** and select Microsoft Graph
 
 Now look up the permissions needed for this action: [Create a new
-list](https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http):
+list](https://learn.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=http):
 
   Application                    Sites.ReadWrite.All
 
@@ -303,12 +303,12 @@ list](https://docs.microsoft.com/graph/api/list-create?view=graph-rest-1.0&tabs=
 -   Copy the value and save it in your notepad (you will need that
     later)
 
-#### Initialize variables for Tenant ID, App ID and App Secret 
+#### Initialize variables for Tenant ID, App ID and App Secret
 
 Create three different string variables with the copied values of Tenant
 ID, App ID, and App Secret
 
-#### HTTP action to create a list 
+#### HTTP action to create a list
 
 Add an HTTP (not 'send an HTTP request to SharePoint action) action to
 your flow and fill it out as follows:
@@ -338,7 +338,7 @@ your flow and fill it out as follows:
 
 Replace the placeholders by Dynamic Content If you stumble off
 the `genericList,` please [read here for
-reference](https://docs.microsoft.com/previous-versions/office/sharepoint-server/ee541191(v=office.15)) about
+reference](https://learn.microsoft.com/previous-versions/office/sharepoint-server/ee541191(v=office.15)) about
 other list templates like libraries.
 
 If you need to add more columns, you can do that by
@@ -397,7 +397,7 @@ are already visible in the default view.
     Standalone license
 -   We also need to register an app in Azure AD
 
-## Bonus Chapter: What about CLI Microsoft 365? 
+## Bonus Chapter: What about CLI Microsoft 365?
 
 If you read one of my previous blog posts about [How to get started with
 CLI Microsoft 365 and Adaptive
@@ -413,7 +413,7 @@ documentation](https://pnp.github.io/cli-microsoft365). After you
 installed CLI Microsoft 365, open a shell that makes you happy (I use
 PowerShell inside Visual Studio Code Terminal).
 
-### Login 
+### Login
 
 -   Run `m365 login`
 -   Copy the Login Code, select  the link
@@ -421,12 +421,12 @@ PowerShell inside Visual Studio Code Terminal).
 -   Select the user you want to log in with from the list
 -   Return to your shell window
 
-### Create a list 
+### Create a list
 
 -   Run `m365 spo list add --title Awesome%20List --baseTemplate DocumentLibrary --webUrl https://xxx.sharepoint.com/sites/yyy` by
     replacing `xxx`by your tenantname and `yyy` by your sitename
 
-### Add fields and more 
+### Add fields and more
 
 You can now run even more commands to add fields, make them required,
 add them to default view, and so on, [feel free to try it
@@ -435,7 +435,7 @@ out](https://pnp.github.io/cli-microsoft365/cmd/spo/field/field-add/)!
 
 ![cli2.png](images/cli2.png)
 
-## Conclusion 
+## Conclusion
 
 As always, the answer to the question \"When shall I use what\" will be
 a typical consultant 'It Depends.' Depending on your experience and
@@ -447,4 +447,3 @@ are your use cases? Please reply below; I am curious!
 
  
 ![itdepends.png](images/itdepends.png)
-

@@ -13,7 +13,7 @@ summary: "CLI for Microsoft 365 is a cross platform command line tool based on N
 # Taxonomies
 categories: ["Community post"]
 tags: ["CLI for Microsoft 365"]
-type: "regular" 
+type: "regular"
 ---
 
 SharePoint Online gives you the possibility to manage permissions on many different levels: webs, lists, folders, files, and items. Breaking role inheritance may not always be the best idea to do and should rather be considered as last resort, but it is not always possible to create an enterprise, tailor-made, solution without it. Thanks to the awesome work done by the community, the CLI for Microsoft 365 now has new commands that will allow us to accomplish that.
@@ -120,7 +120,7 @@ For more information, check out the following commands:
 ## 🔓🔒 Roleinheritance break/reset
 
 
-After defining custom role definitions, the next step is breaking role inheritance on an item, list, or web. The most advanced secure scenarios sooner or later will require providing some unique permissions on list, folder, item or file level. It's best to always inherit permissions for as long as possible, and when breaking the inheritance, be aware of the [limitations](https://learn.microsoft.com/en-us/sharepoint/troubleshoot/lists-and-libraries/error-share-break-inheritance). The CLI for Microsoft 365 now has a set of commands you may use on any level that will allow you to either break or reset role inheritance. When breaking role inheritance, the currently defined permissions will be kept. In order to clear all existing permissions, we may use `clearExistingPermissions` option.
+After defining custom role definitions, the next step is breaking role inheritance on an item, list, or web. The most advanced secure scenarios sooner or later will require providing some unique permissions on list, folder, item or file level. It's best to always inherit permissions for as long as possible, and when breaking the inheritance, be aware of the [limitations](https://learn.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-share-break-inheritance). The CLI for Microsoft 365 now has a set of commands you may use on any level that will allow you to either break or reset role inheritance. When breaking role inheritance, the currently defined permissions will be kept. In order to clear all existing permissions, we may use `clearExistingPermissions` option.
 
 
 For more information, check the docs for the following commands:

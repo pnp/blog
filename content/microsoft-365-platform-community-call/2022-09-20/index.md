@@ -35,7 +35,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Introduction to SharePoint Online Admin APIs on Microsoft Graph** – Tenant Settings (beta) is the first OneDrive and SharePoint online Admin scenario (an endpoint) exposed through Microsoft Graph. Programmatically read and update a tenant wide setting. This capability is an element of API Modernization to standardize SharePoint and OneDrive API creation process, allow app and app + user-based functionality, and to provide 3rd party developers a single API surface with single auth token.
 * **Getting started with Teams Toolkit for Visual Studio** – to create, debug and deploy Microsoft Teams apps. Teams Toolkit for Visual Studio 2022 is GA (released August 2022). Step through install, project creation process, and see the available project templates (notification and command bots, tab, and message extension). Presenter creates tab and bot projects. See configuration and components in code behind scenes. Tips to speed up development time throughout, and questions answered at end.
 
-The hosts of this call were [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) \| @fabianwilliams and [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout the call.
+The hosts of this call were [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) \| @fabianwilliams and [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout the call.
 
 {{< youtube qFxLUagga80 >}}
 

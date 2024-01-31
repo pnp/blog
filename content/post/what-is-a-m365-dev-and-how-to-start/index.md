@@ -43,15 +43,15 @@ To do this lets divide Microsoft 365 into four main developer areas: SharePoint 
 
 SharePoint is a collaboration tool that offers a simple way to create pages, lists and work on documents together. It is often used as an intranet solution, where you can find internal news, tools and documentation.
 
-There are different ways to extend SharePoint. You can [crete webparts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts) (apps) and you can [create extensions](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions). You can use the same framwork for these, and that is [SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) – also called SPfx for short. SPfx is a framwork for client side SharePoint development, and it uses JavaScript/TypeScript and React. There are tools and examples that will show you how to use something other than React if you prefer.
+There are different ways to extend SharePoint. You can [crete webparts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts) (apps) and you can [create extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/overview-extensions). You can use the same framwork for these, and that is [SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) – also called SPfx for short. SPfx is a framwork for client side SharePoint development, and it uses JavaScript/TypeScript and React. There are tools and examples that will show you how to use something other than React if you prefer.
 
 ### Teams
 
 Most people think of Teams as a meeting and chat tool – which is not wrong – but Teams is actually built on top of SharePoint as a collaboration tool – an easy way to work in teams and share documents, tasks etc.
 
-From a developer perspective – how do you extend Teams? You can [build apps](https://docs.microsoft.com/en-us/learn/modules/intro-microsoft-teams-apps/2-microsoft-teams-apps), embed a webpage in a[ Teams tab](https://docs.microsoft.com/en-us/learn/modules/embedded-web-experiences/), create [conversational bots](https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/) to solve different tasks, you can create[ message extensions](https://docs.microsoft.com/en-us/learn/modules/msteams-messaging-extensions/), or collect user input with something that’s called ‘[task modules](https://docs.microsoft.com/en-us/learn/modules/msteams-task-modules/)‘ (wich is basically pop-ups/modals). And you can connect to different services using webhooks or [Office 365 connectors](https://docs.microsoft.com/en-us/learn/modules/msteams-webhooks-connectors/).
+From a developer perspective – how do you extend Teams? You can [build apps](https://learn.microsoft.com/learn/modules/intro-microsoft-teams-apps/2-microsoft-teams-apps), embed a webpage in a[ Teams tab](https://learn.microsoft.com/learn/modules/embedded-web-experiences/), create [conversational bots](https://learn.microsoft.com/learn/modules/msteams-conversation-bots/) to solve different tasks, you can create[ message extensions](https://learn.microsoft.com/learn/modules/msteams-messaging-extensions/), or collect user input with something that’s called ‘[task modules](https://learn.microsoft.com/learn/modules/msteams-task-modules/)‘ (wich is basically pop-ups/modals). And you can connect to different services using webhooks or [Office 365 connectors](https://learn.microsoft.com/learn/modules/msteams-webhooks-connectors/).
 
-You can actually use [SharePoint Framework to build apps for Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/sbs-gs-spfx?tabs=vscode%2Cviscode), or you can use the [Teams toolkit](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview). The toolkit also [supports development in .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/) if you are more comfortable backend.
+You can actually use [SharePoint Framework to build apps for Teams](https://learn.microsoft.com/microsoftteams/platform/sbs-gs-spfx?tabs=vscode%2Cviscode), or you can use the [Teams toolkit](https://learn.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview). The toolkit also [supports development in .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/) if you are more comfortable backend.
 
 ### Power Platform
 
@@ -65,15 +65,15 @@ Power Automate is a service to help you create workflows. This is also a low-cod
 
 ### Office
 
-Most people use the office suite and never conciders that it can be extended with add-ins. An [Office add-in is almost like a miniature webapp that embedded in the office clients](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/learning-path-beginner).
+Most people use the office suite and never conciders that it can be extended with add-ins. An [Office add-in is almost like a miniature webapp that embedded in the office clients](https://learn.microsoft.com/office/dev/add-ins/overview/learning-path-beginner).
 
 ### Azure
 
-Ok, so Azure is strictly speaking not a part of Microsoft 365, but as a Microsoft 365 developer you should still be familiar with some parts of it. The most important part (from a M365 developer perspective) is [Azure App registrations](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app) which we use to grant the apps/extensions access to resources. Azure functions are also very useful, but in my personal definition of M365 Development I don’t consider Azure Functions part of it so I won’t cover that here.
+Ok, so Azure is strictly speaking not a part of Microsoft 365, but as a Microsoft 365 developer you should still be familiar with some parts of it. The most important part (from a M365 developer perspective) is [Azure App registrations](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app) which we use to grant the apps/extensions access to resources. Azure functions are also very useful, but in my personal definition of M365 Development I don’t consider Azure Functions part of it so I won’t cover that here.
 
 ### Microsoft Graph
 
-Another tool you should know about if you want to get started with Microsoft 365 Development is [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview). This is an API that you can use to get information from different parts of M365. This can be current user, documents, list elements and so on. You can also use it to edit/add information, [upload files](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/) ++.
+Another tool you should know about if you want to get started with Microsoft 365 Development is [Microsoft Graph](https://learn.microsoft.com/graph/overview). This is an API that you can use to get information from different parts of M365. This can be current user, documents, list elements and so on. You can also use it to edit/add information, [upload files](https://elischei.com/upload-files-to-sharepoint-with-javascript-using-microsoft-graph/) ++.
 
 ## How to get started as a Microsoft 365 developer?
 
@@ -95,7 +95,7 @@ I’ve previusly written a blogpost “[A collection of resources for Microsoft 
 
 * [Introduction to the Microsoft 365 Developer program](https://www.youtube.com/watch?v=2JWUr6zBtwg) (youtube video)
 * [Microsoft 365 Developer program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-* [Extend Microsoft 365 – Fundamental](https://docs.microsoft.com/en-gb/learn/paths/m365-extend-fundamental/) (Microsoft Learn module)
-* [Introduction to SharePoint Framwork](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) (Microsoft docs)
+* [Extend Microsoft 365 – Fundamental](https://learn.microsoft.com/en-gb/learn/paths/m365-extend-fundamental/) (Microsoft Learn module)
+* [Introduction to SharePoint Framwork](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) (Microsoft docs)
 * [Get started building Microsoft Teams apps](https://www.youtube.com/watch?v=EQuB8l4sccg&list=PLWZJrkeLOrbblzC_s22pIBOotBV66erf-) (youtube course)
 * [A comprehensive guide to PCF components](https://elischei.com/a-comprehensive-guide-to-power-apps-component-framework-pcf-part-1-getting-started/)

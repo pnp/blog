@@ -30,7 +30,7 @@ Following our monthly release cadence, we've released a new version of the CLI f
 
 ### Upgrade SharePoint Framework projects to v1.15.0-beta.6
 
-Recently, Microsoft released a new preview version of SharePoint Framework - the development model for extending Microsoft Viva Connections, Microsoft Teams and SharePoint. This latest beta, introduces a new ability to customize list forms. It also allows you to seamlessly [use the Microsoft Graph JS SDK v3](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.15#microsoft-graph-javascript-sdk-v3-support) which offers a more robust way to connect to Microsoft Graph. To help you upgrade your projects we've updated CLI for Microsoft 365 with the support for this new version.
+Recently, Microsoft released a new preview version of SharePoint Framework - the development model for extending Microsoft Viva Connections, Microsoft Teams and SharePoint. This latest beta, introduces a new ability to customize list forms. It also allows you to seamlessly [use the Microsoft Graph JS SDK v3](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.15#microsoft-graph-javascript-sdk-v3-support) which offers a more robust way to connect to Microsoft Graph. To help you upgrade your projects we've updated CLI for Microsoft 365 with the support for this new version.
 
 To upgrade your SPFx project to this version, change the working directory to your project and execute:
 

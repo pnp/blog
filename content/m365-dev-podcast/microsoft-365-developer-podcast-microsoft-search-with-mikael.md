@@ -19,9 +19,9 @@ Listen to the show here: 
 -   [PnP Modern Search
     v4](https://microsoft-search.github.io/pnp-modern-search/)
 -   [Overview of the Microsoft Search API in Microsoft
-    Graph](https://docs.microsoft.com/graph/search-concept-overview)
+    Graph](https://learn.microsoft.com/graph/search-concept-overview)
 
-## Microsoft News 
+## Microsoft News
 
 -   Microsoft 365 Developer YouTube
     -   [Do you need ngrok to develop Microsoft Teams

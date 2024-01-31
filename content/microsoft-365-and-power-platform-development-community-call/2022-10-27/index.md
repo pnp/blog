@@ -39,15 +39,15 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – Azure CLI – [Delete all resources from a resource group](https://pnp.github.io/script-samples/azure-delete-allresources-resourcegroup/README.html?tabs=azure-cli) - [Arjun Menon](https://twitter.com/arjunumenon) \| @arjunumenon
-    * New - PnP PowerShell – [Sample showing how to apply a custom form formatting as part of site provisioning](ttps://pnp.github.io/script-samples/spo-apply-custom-form-formatting-json/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New - PnP PowerShell – [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html?tabs=pnpps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
-    * New - PnP PowerShell – [Export all site pages details from Site Pages library](https://pnp.github.io/script-samples/spo-export-all-site-pages-details/README.html?tabs=pnpps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
-    * New - PnP PowerShell – [Sample on how to locate the classic search result web part and check remove duplicates](https://pnp.github.io/script-samples/spo-update-search-result-webparts/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New - PnP PowerShell – [Open Office documents in the Client](https://pnp.github.io/script-samples/spo-open-doc-in-client/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New - PnP PowerShell – [Add/Update Image in SharePoint Image Column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated - CLI for Microsoft 365 – [Delete orphaned temporary pages from Site Pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html?tabs=pnpps) – [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * Updated - SPO Management Shell – [Add bulk users to SharePoint site groups from CSV](https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html?tabs=pnpps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
-    * Updated - SPO Management Shell – [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html?tabs=spoms-ps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
+    * New - PnP PowerShell – [Sample showing how to apply a custom form formatting as part of site provisioning](https://pnp.github.io/script-samples/spo-apply-custom-form-formatting-json/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html?tabs=pnpps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
+    * New - PnP PowerShell – [Export all site pages details from Site Pages library](https://pnp.github.io/script-samples/spo-export-all-site-pages-details/README.html?tabs=pnpps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
+    * New - PnP PowerShell – [Sample on how to locate the classic search result web part and check remove duplicates](https://pnp.github.io/script-samples/spo-update-search-result-webparts/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Open Office documents in the Client](https://pnp.github.io/script-samples/spo-open-doc-in-client/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Add/Update Image in SharePoint Image Column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated - CLI for Microsoft 365 – [Delete orphaned temporary pages from Site Pages](https://pnp.github.io/script-samples/spo-delete-orphaned-temporary-sitepages/README.html?tabs=pnpps) – [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated - SPO Management Shell – [Add bulk users to SharePoint site groups from CSV](https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html?tabs=pnpps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
+    * Updated - SPO Management Shell – [Export OneDrive Sites](https://pnp.github.io/script-samples/export-onedrive-sites-details-to-csv/README.html?tabs=spoms-ps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Wanted – Updated Microsoft Teams JavaScript samples using Teams SDK v2 \| [Microsoft Teams Development Samples](https://pnp.github.io/teams-dev-samples/) \| aka.ms/Teams-Samples
@@ -60,21 +60,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Using Microsoft Syntex Bulk Content Assembly to automatically generate documents** – update/overview, use cases and roadmap on Microsoft Syntex and Content Assembly. Demo steps through populating a template and subsequently generating a document using Syntex and content in documents stored in SharePoint list. To create multiple documents – bulk content assembly, using same template, create a Power Automate flow and use a preview action to “Generate document using Microsoft Syntex (preview). Generate personalized documents in a workflow!
 * **Access Microsoft Teams meeting details in a meeting app** – that delivers a tab displaying details about the meeting and current participant. Retrieval of the details is accomplished using an Azure Bot and Bot Framework SDK. In demo, create a meeting and add the static tab application to meeting. Behind scenes, requires a Teams channel enabled Azure bot, a meeting with at least one participant and a Teams bot/tab app with a specific Teams manifest.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 9jNdCN3COGE >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:03](https://youtu.be/9jNdCN3COGE?t=363)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:42](https://youtu.be/9jNdCN3COGE?t=462)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [6:03](https://youtu.be/9jNdCN3COGE?t=363)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:42](https://youtu.be/9jNdCN3COGE?t=462)
 * yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [9:21](https://youtu.be/9jNdCN3COGE?t=561)
 * Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen – [10:33](https://youtu.be/9jNdCN3COGE?t=633)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [11:42](https://youtu.be/9jNdCN3COGE?t=702)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [11:42](https://youtu.be/9jNdCN3COGE?t=702)
 * Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [13:37](https://youtu.be/9jNdCN3COGE?t=817)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [14:59](https://youtu.be/9jNdCN3COGE?t=899)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [14:59](https://youtu.be/9jNdCN3COGE?t=899)
 * Microsoft Teams Samples – [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [17:14](https://youtu.be/9jNdCN3COGE?t=1034)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [17:58](https://youtu.be/9jNdCN3COGE?t=1078)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [17:58](https://youtu.be/9jNdCN3COGE?t=1078)
 * Demo – Using Microsoft Syntex Bulk Content Assembly to automatically generate documents – [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) \| @LeonArmston – [20:02](https://youtu.be/9jNdCN3COGE?t=1202)
 * Demo – Access Microsoft Teams meeting details in a meeting app – [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0 – [39:25](https://youtu.be/9jNdCN3COGE?t=2365)
 
@@ -103,7 +103,7 @@ Thank you for joining this call once again. Awesome to have you as part of the c
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -129,7 +129,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 for 1st week November release
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 for 1st week November release
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|Prepping v1.12.0 for 1st week November release, Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA

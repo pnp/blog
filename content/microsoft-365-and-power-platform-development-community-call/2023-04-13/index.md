@@ -45,12 +45,12 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – PnP PowerShell – [SharePoint List Item Version History Retrieval](https://pnp.github.io/script-samples/spo-get-list-item-version-history/README.html?tabs=pnpps) - [Michał Romiszewski](https://github.com/mromiszewski)
     * New – PnP PowerShell – [Download sppkgs from App Catalog](https://pnp.github.io/script-samples/spo-download-sppkgs/README.html?tabs=pnpps) - [Matteo Serpi](https://github.com/srpmtt)
-    * New – PnP PowerShell – [Get Content Usage within a site collection](https://pnp.github.io/script-samples/spo-get-contenttype-usage-listitem-listversion/README.html?tabs=pnpps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * New – PnP PowerShell – [Apply SharePoint JSON view formatting](https://pnp.github.io/script-samples/spo-apply-json-view-formatting/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * New – PnP PowerShell – [Getting checked-out files in the tenant using Search](https://pnp.github.io/script-samples/spo-export-checked-out-files-in-tenant-using-search/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New – PnP PowerShell – [Empty SharePoint Online site recycle bin](https://pnp.github.io/script-samples/spo-empty-recycle-bin/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Reset files permissions unique to inherited](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html?tabs=pnpps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
-    * Updated – PnP PowerShell – [Reset files permissions unique to inherited](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html?tabs=pnpps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – PnP PowerShell – [Get Content Usage within a site collection](https://pnp.github.io/script-samples/spo-get-contenttype-usage-listitem-listversion/README.html?tabs=pnpps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New – PnP PowerShell – [Apply SharePoint JSON view formatting](https://pnp.github.io/script-samples/spo-apply-json-view-formatting/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * New – PnP PowerShell – [Getting checked-out files in the tenant using Search](https://pnp.github.io/script-samples/spo-export-checked-out-files-in-tenant-using-search/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – PnP PowerShell – [Empty SharePoint Online site recycle bin](https://pnp.github.io/script-samples/spo-empty-recycle-bin/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Reset files permissions unique to inherited](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html?tabs=pnpps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * Updated – PnP PowerShell – [Reset files permissions unique to inherited](https://pnp.github.io/script-samples/reset-files-permission-unique-to-inherited/README.html?tabs=pnpps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/) – Featured Teams App Samples with Full Tutorials
@@ -68,17 +68,17 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Build a training request solution with Power Platform** – objective – automate training request acceptance, approval routing and reporting. Uses Power App (Canvas app) request form, Power Automate flow with Adaptive Cards for request approvals/rejections, Dataverse and Power BI to store, view and refine activity results. Step through entire process - request form, validation, approval routing and interactive Power BI reporting dashboard with refiners for delivering desired request/training metrics. Discussion at [aka.ms/Apr13-Demo2](https://aka.ms/Apr13-Demo2)
 * **Using dynamic SVGs with List Formatting for SharePoint and Microsoft Lists** – create a radar chart to help visualize list data. Create an SVG (use Inkscape) - modify paths and apply transforms (Transforms extension), edit some XML. Convert XML to JSON (with HTML To Formatter). Paste SVG JSON into custom List formatting view. Tips on preparing SVG for List Formatting include using absolute paths and only paths, viewBox, and currentColor to utilize theme colors. Discussion at [aka.ms/Apr13-Demo3](https://aka.ms/Apr13-Demo3)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube IAngVFxtje0 >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/IAngVFxtje0?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/IAngVFxtje0?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[04:56](https://youtu.be/IAngVFxtje0?t=296) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[04:56](https://youtu.be/IAngVFxtje0?t=296) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[06:54](https://youtu.be/IAngVFxtje0?t=414) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
+[06:54](https://youtu.be/IAngVFxtje0?t=414) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
 
 [08:34](https://youtu.be/IAngVFxtje0?t=514) – yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser
 
@@ -88,11 +88,11 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (M
 
 [12:14](https://youtu.be/IAngVFxtje0?t=734) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[13:37](https://youtu.be/IAngVFxtje0?t=817) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[13:37](https://youtu.be/IAngVFxtje0?t=817) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [15:40](https://youtu.be/IAngVFxtje0?t=940) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
-[17:19](https://youtu.be/IAngVFxtje0?t=1039) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[17:19](https://youtu.be/IAngVFxtje0?t=1039) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [17:54](https://youtu.be/IAngVFxtje0?t=1074) – Together mode picture
 
@@ -129,7 +129,7 @@ Did anyone see the cat on the table? Thank you again for joining the call today 
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -154,9 +154,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA, v2.1.1 preview|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.1-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

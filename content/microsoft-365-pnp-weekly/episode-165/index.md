@@ -12,7 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=8eYZGJRfAAo
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen. 
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Finland-based software architect and Office Developer MVP [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen.
 
 ## Topics discussed in this session
 
@@ -23,7 +23,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Three tips for how to become an MVP.
 * Finnish Lake ringed seals - [Saimaa ringed seal](https://en.wikipedia.org/wiki/Saimaa_ringed_seal)
 
-Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 13 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -33,14 +33,14 @@ Also, we showcased 13 articles/videos published by Microsoft and the PnP Communi
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, May 9, 2022. Enjoy the show.  
+This session was recorded on Monday, May 9, 2022. Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 8eYZGJRfAAo >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-96zpk-12216e6 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -62,7 +62,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [How to contribute to this blog](https://pnp.github.io/blog/post/contribute-blog/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * [The ultimate beginner's guide to Microsoft Graph](https://laurakokkarinen.com/the-ultimate-beginners-guide-to-microsoft-graph/) - [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
 * [Getting the Binary Value of an ASCII Character in Power Apps](https://thechriskent.com/2022/05/06/getting-the-binary-value-of-an-ascii-character-in-power-apps/) - [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent
-* [Share files in SharePoint in review mode only](https://veronicageek.com/2021/share-document-in-review-mode/) - [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @veronicageek 
+* [Share files in SharePoint in review mode only](https://veronicageek.com/2021/share-document-in-review-mode/) - [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @veronicageek
 * [Export Sharepoint Online lists with their content to PnP template via PnP PowerShell](http://sadomovalex.blogspot.com/2022/05/export-sharepoint-online-lists-with.html) - [Alexey Sadomov](https://twitter.com/sadomovalex) (Valo Solutions) | @sadomovalex
 * [Changes: Arrived and Delivered in April 2022](https://regarding365.com/changes-arrived-and-delivered-in-april-2022-babe5156a2f2) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Episode #204 - Using the PnP ListView control in SPFx solutions](https://www.youtube.com/watch?v=cwvMtWYHBfM) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia

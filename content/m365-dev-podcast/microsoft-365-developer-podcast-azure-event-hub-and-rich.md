@@ -25,11 +25,11 @@ Ayca Bas
     Event
     Hubs](https://developer.microsoft.com/graph/blogs/get-microsoft-graph-change-notifications-delivered-through-azure-event-hubs/)
 -   [Set up change notifications that include resource
-    data](https://docs.microsoft.com/graph/webhooks-with-resource-data)
+    data](https://learn.microsoft.com/graph/webhooks-with-resource-data)
 -   [Build session
     recording](https://www.youtube.com/watch?v=d04sJHNYWVs)
 
-### Microsoft News 
+### Microsoft News
 
 [Automate and manage Azure AD tasks at scale with the Microsoft Graph
 PowerShell
@@ -53,7 +53,7 @@ Microsoft Build 2021
 [Join us to see what's next for
 Windows](https://www.microsoft.com/windows/event)
 
-### Community Links 
+### Community Links
 
 -   [PnP Modern Search web parts v4.2.0
     released!](https://twitter.com/mikaelsvenson/status/1400396442267758594?s=12)

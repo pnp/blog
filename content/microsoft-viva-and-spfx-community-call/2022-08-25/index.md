@@ -34,19 +34,19 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Using the Microsoft Graph education endpoints in SPFx to create a my assignments web part** – while using Assignments capability in Microsoft Teams for Education, you may want to render an aggregated list of assignments in SharePoint. That’s now possible using the My Assignments web part carefully explained here. Learn about the education related APIs in Microsoft Graph. EDU specific end points shown: /education/me, /ms/joinedTeams, /education/me/classes, /education/me/assignments. Review API permissions, caching service, refresh technique and capability limitations. Requires Education tenant.
 * **Getting started on building custom list form experiences with SharePoint Framework** – a new feature (extension) introduced in SPFx v1.15 for customizing the form experience of a list. Focus on 3 behaviors – create, view and edit items in a list. Render one or more behaviors on a form. Starting with required tools, create a SPFx extension project, review provisioned components/code, 2 MUST use methods, overriding behaviors, creation and rendering options and finally deploying a form to production.
 
-The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
+The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
 
 {{< youtube nHM2rXHs7nY >}}
 
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:31](https://youtu.be/nHM2rXHs7nY?t=511)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [10:49](https://youtu.be/nHM2rXHs7nY?t=649)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [10:49](https://youtu.be/nHM2rXHs7nY?t=649)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [12:28](https://youtu.be/nHM2rXHs7nY?t=748)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [15:05](https://youtu.be/nHM2rXHs7nY?t=905)
 * PnP Modern Search - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [16:52](https://youtu.be/nHM2rXHs7nY?t=1012)
 * Latest Search Episodes [216 -219](https://www.youtube.com/watch?v=Sl0dcgd70Q4) from Paolo Pialorsi (PiaSys) \| @paolopia
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [17:36](https://youtu.be/nHM2rXHs7nY?t=1056)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [17:36](https://youtu.be/nHM2rXHs7nY?t=1056)
 * Demo – Using the Microsoft Graph education endpoints in SPFx to create a my assignments web part – [Tony Philips](https://twitter.com/TonyMSTeams) (Cloud Design Box) \| @TonyMSTeams – [19:41](https://youtu.be/nHM2rXHs7nY?t=1181)
 * Demo – Getting started on building custom list form experiences with SharePoint Framework – [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm – [37:36](https://youtu.be/nHM2rXHs7nY?t=2256)
 
@@ -69,11 +69,11 @@ The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microso
 
 * **Using the Microsoft Graph education endpoints in SPFx to create a my assignments web part**
     * Repo - [My Assignments Web Part by Cloud Design Box](https://github.com/CloudDesignBox/CDBAssignments)
-    * Documentation - [Education API overview](https://docs.microsoft.com/graph/education-concept-overview)
-    * Documentation - [Overview of School Data Sync](https://docs.microsoft.com/schooldatasync/overview-of-school-data-sync)
-    * Documentation - [Assignments in Teams for Education](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)
+    * Documentation - [Education API overview](https://learn.microsoft.com/graph/education-concept-overview)
+    * Documentation - [Overview of School Data Sync](https://learn.microsoft.com/schooldatasync/overview-of-school-data-sync)
+    * Documentation - [Assignments in Teams for Education](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)
 * **Getting started on building custom list form experiences with SharePoint Framework**
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
 
 Thank you for your great work. Samples are often showcased in Demos.
 
@@ -113,7 +113,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -132,7 +132,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

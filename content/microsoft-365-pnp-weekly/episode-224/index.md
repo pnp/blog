@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Keith Atherton](https://twitter.com/MrKeithAtherton) Software Developer at Quorum in the UK working on all things Microsoft Cloud and Business Applications MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Keith Atherton](https://twitter.com/MrKeithAtherton) Software Developer at Quorum in the UK working on all things Microsoft Cloud and Business Applications MVP.
 
 We really really really tried again to get this to 60 minutes and failed miserably. It's the silent Finn, who just can't stop talking. We will keep on trying. Hopefully you enjoy the episode regardless.
 
@@ -36,7 +36,7 @@ We really really really tried again to get this to 60 minutes and failed miserab
 ## This week
 
 - **Keith** – lots of interesting client work, got MCT award
-- **Waldek** – presenting about Graph connector, finishing a new sample, wrapping up a new CLI for Microsoft 365 release 
+- **Waldek** – presenting about Graph connector, finishing a new sample, wrapping up a new CLI for Microsoft 365 release
 - **Vesa** – voluntold to watch kids on a school trip
 
 ## Agenda items
@@ -60,7 +60,7 @@ This session was recorded on Monday 30th of October. Session was published on Mo
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-rt56k-14e5845 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -79,7 +79,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Copilot-generated deployment notes for pipelines are Generally Available (GA)](https://powerapps.microsoft.com/en-us/blog/copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga/) - Anthony Sheehi (Microsoft)
 * [Announcing the HackTogether: Power Platform Global AI Hack Winners](https://devblogs.microsoft.com/powerplatform/announcing-the-hacktogether-power-platform-global-ai-hack-winners/) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Power Platform ommand Line Interface: September Update](https://devblogs.microsoft.com/powerplatform/power-platform-command-line-interface-september-update/) - ShafQat Nizar (Microsoft)
-* [Build API-based message extension](https://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/build-api-based-message-extension?tabs=visual-studio-code%2Cnew-api)
+* [Build API-based message extension](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/build-api-based-message-extension?tabs=visual-studio-code%2Cnew-api)
 
 ## Community articles
 
@@ -125,7 +125,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Twin Cities](https://www.communitydays.org/event/2023-11-11/m365-twin-cities) - November 11-12, 2023 - Brooklyn Partk, MN, USA
 * [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/en-US/home) - November 14-17, 2023 - Seattle, WA, USA
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 16, 2023 - Aachen, Germany
+* AMS Aachen - November 16, 2023 - Aachen, Germany
 * [Power Of The Cloud](https://www.communitydays.org/event/2023-11-17/power-of-the-cloud) - November 17-18, 2023 - Toronto, Canad
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
@@ -144,4 +144,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

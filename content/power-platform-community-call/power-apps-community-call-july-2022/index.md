@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three “better together” demos delivered – Building a SharePoint Document Library Approvals System, Microsoft Teams Approvals in Dynamics 365 using Power Automate, and How to connect Microsoft Dataverse to Microsoft Teams. A new call agenda item “Monthly Community Tip”, focused on using the Toggle control to create reusable functions was delivered in this month’s call. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on July 20, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and the Monthly Community Tip. Three “better together” demos delivered – Building a SharePoint Document Library Approvals System, Microsoft Teams Approvals in Dynamics 365 using Power Automate, and How to connect Microsoft Dataverse to Microsoft Teams. A new call agenda item “Monthly Community Tip”, focused on using the Toggle control to create reusable functions was delivered in this month’s call. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on July 20, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -31,7 +31,7 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Agenda items
 
-* Latest updates and news on Power Platform - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:37](https://youtu.be/MOa9_zMMRhY?t=337)
+* Latest updates and news on Power Platform - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:37](https://youtu.be/MOa9_zMMRhY?t=337)
 * Monthly Community Tip - Using the Toggle control to create reusable functions! - [Todd Baginski](https://twitter.com/toddbaginski) - (Canviz) \| @toddbaginski – [7:14](https://youtu.be/MOa9_zMMRhY?t=434)
 * Demo - Building a SharePoint Document Library Approvals System - [Lindsay Shelton](https://twitter.com/lshelton_tech) (Stowers Institute for Medical Research) \| @lshelton_tech – [11:59](https://youtu.be/MOa9_zMMRhY?t=719)
 * Demo - Microsoft Teams Approvals in Dynamics 365 using Power Automate - [Dian Taylor](https://twitter.com/D365Goddess) (RSM) \| @D365Goddess – [24:40](https://youtu.be/MOa9_zMMRhY?t=1480)

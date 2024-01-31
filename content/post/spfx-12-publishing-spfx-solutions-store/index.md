@@ -9,7 +9,7 @@ images:
   - images/12-publishing-spfx-solution-appsource-store.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -35,7 +35,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 Support on publishing SPFx solutions to the store was introduced with the version 1.11 and we started accepting SPFx solution sin store since August 2020. There are currently hundreds of partner offerings in the app source and in the SharePoint store based as SPFx solutions and the submission numbers are growing rapidly. App source and the SharePoint store are a great ways to expose the solutions for customers using the native experiences.
 
-We did also introduced completely new SharePoint store experience relatively recently which is demonstrated in the following video from the [Microsoft 365 Platform community calls](). 
+We did also introduced completely new SharePoint store experience relatively recently which is demonstrated in the following video from the [Microsoft 365 Platform community calls]().
 
 {{< youtube _JKhNazaiXY >}}
 
@@ -53,9 +53,9 @@ This submission process is currently needed even though your SPFx solution would
 
 Documentation and references
 
-- [Publish SharePoint Framework applications to the marketplace](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
-- [Prepare your SharePoint Framework application for publishing to the Marketplace](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-checklist)
-- [Maintain and support your published app](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-after-publishing)
+- [Publish SharePoint Framework applications to the marketplace](https://learn.microsoft.com/sharepoint/dev/spfx/publish-to-marketplace-overview)
+- [Prepare your SharePoint Framework application for publishing to the Marketplace](https://learn.microsoft.com/sharepoint/dev/spfx/publish-to-marketplace-checklist)
+- [Maintain and support your published app](https://learn.microsoft.com/sharepoint/dev/spfx/publish-to-marketplace-after-publishing)
 - [Most used SharePoint Framework solutions from the Store - October 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-october/ba-p/3681768)
 
 ## Frequent questions around SPFx solutions in store
@@ -83,7 +83,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

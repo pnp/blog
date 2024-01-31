@@ -77,22 +77,22 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D2:**  Repo - [Microsoft Teams Samples](https://github.com/OfficeDev/microsoft-teams-samples) | aka.ms/TeamsSamples
 *   **D2:**  Sample – [Graph change notification](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/graph-change-notification) 
-*   **D2:**  Documentation - [Support and feedback](https://docs.microsoft.com/microsoftteams/platform/feedback) | aka.ms/TeamsPlatformFeedback 
-*   **D2:**  Documentation – [Send proactive messages](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet) 
-*   **D2:**  Documentation - [Set up notifications for changes in user data](https://docs.microsoft.com/graph/webhooks) 
-*   **D2:**  Learn - [Use Change Notifications and Track Changes with Microsoft Graph](https://docs.microsoft.com/learn/modules/msgraph-changenotifications-trackchanges/) 
-*   **D3:**  Documentation - [Use the Microsoft Graph Toolkit with Angular](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-angular) | aka.ms/mgt/angular
+*   **D2:**  Documentation - [Support and feedback](https://learn.microsoft.com/microsoftteams/platform/feedback) | aka.ms/TeamsPlatformFeedback 
+*   **D2:**  Documentation – [Send proactive messages](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages?tabs=dotnet) 
+*   **D2:**  Documentation - [Set up notifications for changes in user data](https://learn.microsoft.com/graph/webhooks) 
+*   **D2:**  Learn - [Use Change Notifications and Track Changes with Microsoft Graph](https://learn.microsoft.com/learn/modules/msgraph-changenotifications-trackchanges/) 
+*   **D3:**  Documentation - [Use the Microsoft Graph Toolkit with Angular](https://learn.microsoft.com/graph/toolkit/get-started/use-toolkit-with-angular) | aka.ms/mgt/angular
 *   **D3:**  Article - [A Lap around Microsoft Graph Toolkit Day 14 – Using Microsoft Graph Toolkit with Angular](https://devblogs.microsoft.com/microsoft365dev/a-lap-around-microsoft-graph-toolkit-day-14-using-microsoft-graph-toolkit-with-angular/) 
 *   **D3:**  Angular - [CLI Overview and Command Reference](https://angular.io/cli) 
-*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
-*   **D3:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/customize-components/style) 
-*   **D3:**  Documentation - [Microsoft Graph Toolkit caching](https://docs.microsoft.com/graph/toolkit/customize-components/cache) 
-*   **D3:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://docs.microsoft.com/graph/toolkit/customize-components/localization) 
+*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
+*   **D3:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/customize-components/style) 
+*   **D3:**  Documentation - [Microsoft Graph Toolkit caching](https://learn.microsoft.com/graph/toolkit/customize-components/cache) 
+*   **D3:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://learn.microsoft.com/graph/toolkit/customize-components/localization) 
 *   **D3:**  MGT Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://mgt.dev/?path=/story/overview--page) | [https://mgt.dev/](https://mgt.dev/)
 *   **D3:**  Sebastien’s MGT Demos Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) | aka.ms/mgt/sandbox
 *   **D3:**  MGT Demos Playlist **\-** [Microsoft Graph Toolkit – YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUVLPfpm0QL4DVQ8Rw2Md5k)
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
-*   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
+*   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://learn.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
 *   **Microsoft 365 PnP Weekly – Episode 156** (March 7th) with Portugal based, technologist, author, MVP Office Dev and Windows Insider, [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @Joao12Ferreira | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-156-jo%C3%A3o-ferreira/ba-p/3249551) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-156-%e2%80%93-7th-of-march-2022/)
 
 ## General resources
@@ -121,7 +121,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
 
 ## Topics discussed in this session
 
@@ -31,7 +31,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Book - <https://tonyfadell.com/the-book/>
 * Event September 22nd - Empowering Your Workforce in Economic Uncertainty - Satya Nadella, <https://www.microsoft.com/microsoft-viva/event>
 * Podcast Series - [GreyHatBeardPrincess Podcast](https://www.greyhatbeard.com/) \| @greyhatbeard
-* Documentation - [Introduction to Microsoft Viva Goals](https://docs.microsoft.com/viva/goals/intro-to-ms-viva-goals)
+* Documentation - [Introduction to Microsoft Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals)
 
 
 Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.
@@ -70,9 +70,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Deploy static web sites with Power Platform](https://pnp.github.io/blog/post/deploy-static-web-sites-with-powerplatform/) - [Duvan Baena](https://github.com/DuvanBaena/)
 * [Extend Teams apps to M365 with SSO the right way](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Introducing Adoption Score](https://regarding365.com/introducing-adoption-score-af6be396ad1f) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-* [Customize list forms with SharePoint Framework form customizers](https://blog.mastykarz.nl/customize-list-forms-sharepoint-framework-form-customizers/) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm
-* [Episode #220 - Using the Search Verticals Web Part of PnP Modern Search](https://www.youtube.com/watch?v=SzPTCasRHfk) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Introducing Adoption Score](https://regarding365.com/introducing-adoption-score-af6be396ad1f) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Customize list forms with SharePoint Framework form customizers](https://blog.mastykarz.nl/customize-list-forms-sharepoint-framework-form-customizers/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm
+* [Episode #220 - Using the Search Verticals Web Part of PnP Modern Search](https://www.youtube.com/watch?v=SzPTCasRHfk) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Power Apps import Excel to SharePoint list or any data source with Power Automate](https://www.youtube.com/watch?v=MhFNwjaR10A) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
 * [Power Hour: Power Apps Creator Kit](https://www.youtube.com/watch?v=WqcrFfl8hRc) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @wonderlaura
 

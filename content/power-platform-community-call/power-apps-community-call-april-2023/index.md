@@ -21,7 +21,7 @@ Two demos delivered: With Great Power (Apps) Comes Great Reusability and Copilot
 
 Activities: 3 articles, 3 documents, 4 connectors, 1 sample, 4 Power Platform related video conversations recently delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on April 19, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on April 19, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -33,7 +33,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * Documentation – [Controls and properties in cards](https://learn.microsoft.com/power-apps/cards/controls/control-reference?WT.mc_id=powerapps_community_productblog)
     * Documentation – [Automatic deletion of inactive Microsoft Dataverse for Teams environments](https://learn.microsoft.com/power-platform/admin/inactive-teams-environment)
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
-    * New Power App - [Employee Engagement Survey - Modern Controls](https://github.com/pnp/powerapps-samples/tree/main/samples/employee-survey-modern-control)  
+    * New Power App - [Employee Engagement Survey - Modern Controls](https://github.com/pnp/powerapps-samples/tree/main/samples/employee-survey-modern-control)
         [Angelo Gulisano](https://twitter.com/angelog1908) \| @angelog1908
 * Power Platform - [Independent Publisher Connectors](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
     * Microsoft Search
@@ -52,9 +52,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * European Collaboration Summit 2023 - Düsseldorf, Germany, 24-36 May. Save 15% with “PowerPlatformRocks” voucher.
     * ACT NOW – save 17% until March 17th on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 
 ### Demo summaries
@@ -68,13 +68,13 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [00:00](https://youtu.be/5ecCCyQSEsE?t=0) – Intro
 
-[01:46](https://youtu.be/5ecCCyQSEsE?t=106) – Power Platform News & Learn Updates – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[01:46](https://youtu.be/5ecCCyQSEsE?t=106) – Power Platform News & Learn Updates – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
-[02:35](https://youtu.be/5ecCCyQSEsE?t=155) – Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[02:35](https://youtu.be/5ecCCyQSEsE?t=155) – Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [03:19](https://youtu.be/5ecCCyQSEsE?t=199) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[08:08](https://youtu.be/5ecCCyQSEsE?t=488) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[08:08](https://youtu.be/5ecCCyQSEsE?t=488) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [10:13](https://youtu.be/5ecCCyQSEsE?t=613) – Together mode picture
 
@@ -187,4 +187,3 @@ Great seeing everyone today. Welcome to all who are in Seattle this week for the
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/community/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/community/home>
-

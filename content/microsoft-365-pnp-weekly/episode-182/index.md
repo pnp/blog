@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based Microsoft 365 Architect [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) \| @martinlingstuyl
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands based Microsoft 365 Architect [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) \| @martinlingstuyl
 
 
 ## Topics discussed in this session
@@ -74,7 +74,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [BatchMessageHandler in .NET](https://mgwdevcom.wordpress.com/2022/10/04/batchmessagehandler-in-net/) - [Marcin Wojciechowski](https://twitter.com/mgwojciech) (Valo Solutions) | @mgwojciech
 * [Introduction to the PDF function in Power Apps](https://sharepains.com/2022/10/07/introduction-pdf-function-in-power-apps/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [The Scope of Microsoft Search: Organization or Current Site?](https://searchexplained.com/scope-of-microsoft-search-organization-or-current-site/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
-* [Teams calendar pop-out - Message Center Show Ep. 256](https://regarding365.com/teams-calendar-pop-out-d44866b3a7cf) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Teams calendar pop-out - Message Center Show Ep. 256](https://regarding365.com/teams-calendar-pop-out-d44866b3a7cf) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Episode #225 - Introducing the new PnP Provisioning Schema v202209](https://www.youtube.com/watch?v=8HluJ1JML-4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Powerful Platform Hub: What it is & How to use it](https://www.youtube.com/watch?v=YRQkmMKWwqg) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Everything you need to build a Model-driven Power App](https://www.youtube.com/watch?v=KFjJ97dKzO8) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows

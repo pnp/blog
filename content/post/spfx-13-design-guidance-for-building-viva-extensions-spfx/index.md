@@ -9,7 +9,7 @@ images:
   - images/13-design-guidance-assets-viva-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -38,8 +38,8 @@ As the Viva Home and Viva Connections experiences are a new extensibility option
 
 Key design guidance for the Viva Card experiences:
 
-- [Designing Viva Connections custom cards for your dashboard](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/design/designing-card)
-- [Designing Viva Connections Quick Views](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/design/designing-quick-view)
+- [Designing Viva Connections custom cards for your dashboard](https://learn.microsoft.com/sharepoint/dev/spfx/viva/design/designing-card)
+- [Designing Viva Connections Quick Views](https://learn.microsoft.com/sharepoint/dev/spfx/viva/design/designing-quick-view)
 
 Here's a video showcasing the different adaptive card designs Microsoft has provided for inspirational purposes around Microsoft Viva. These assets are availble for reuse anyway you need from [GitHub](https://github.com/pnp/adaptivecards-templates).
 
@@ -52,7 +52,7 @@ To also showcase how the adaptive cards designs can be made dynamic with SPFx so
 
 ## Frequent questions around Viva Home and Viva Connections design guidance
 
-**When will the Adaptive Cards in ACEs be supporting a newer version?** 
+**When will the Adaptive Cards in ACEs be supporting a newer version?**
 
 At time of writing this article, you can only use Adaptive Cards v1.3 when you design your ACE experiences. We are looking to support v1.5 starting from the SPFx v1.17 release currently planned for the first quarter of 2023.
 
@@ -67,7 +67,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

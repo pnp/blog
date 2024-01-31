@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=kdQhzeUsO50
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP, Microsoft RD and CPO of PixelMill, Cloudspark, and Creospark - [Eric Overfield](https://twitter.com/EricOverfield) \| @EricOverfield
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP, Microsoft RD and CPO of PixelMill, Cloudspark, and Creospark - [Eric Overfield](https://twitter.com/EricOverfield) \| @EricOverfield
 
 ## Topics discussed in this session
 
@@ -62,10 +62,10 @@ This session was recorded on Monday, March 13, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube kdQhzeUsO50 >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-6vf3z-13b6d1d >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-6vf3z-13b6d1d >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -88,7 +88,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [🐫(CAML) Query: What is it and why is it relevant in 2023?](https://pnp.github.io/blog/post/caml-query-what-is-it/) - [Dan Toft](https://twitter.com/tanddant) (Evobis ApS) | @tanddant
 * [File conversion in a Teams Tab with Microsoft Graph and Teams Toolkit for Visual Studio (C#)](https://mmsharepoint.wordpress.com/2023/03/10/file-conversion-in-a-teams-tab-with-microsoft-graph-and-teams-toolkit-for-visual-studio-c/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Remove user consent from an Azure AD Enterprise application / service principal with Microsoft Graph](https://mmsharepoint.wordpress.com/2023/03/04/remove-user-consent-from-an-azure-ad-enterprise-application-service-principal-with-microsoft-graph/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
-* [How To Grow Your Community With The Power Platform](https://toddbaginski.com/blog/how-to-grow-your-community-with-the-power-platform/) - [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @toddbaginski
+* [How To Grow Your Community With The Power Platform](https://youtu.be/AUiXOpuxsbo) - [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @toddbaginski
 * [Query Excel tables using Power Automate](https://sharepains.com/2023/03/10/query-excel-tables-using-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Teams explicit consent for meetings - Message Center Show Ep. 275](https://www.messagecentershow.com/e/teams-explicit-consent-for-meetings-275/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [What is the least disruptive way to enforce MFA? #M365AMA](https://www.buckleyplanet.com/2023/03/what-is-the-least-disruptive-way-to-enforce-mfa-m365ama.html) - [Christian Buckley](https://twitter.com/buckleyplanet) (Rencore) | @buckleyplanet, [Norm Young](https://twitter.com/stormin_30) (UnlimitedViz Inc) |  @stormin_30, [Mike Nelson](https://twitter.com/mikenelsonIO) (Pure Storage) | @mikenelsonIO & [Kirsty McGrath](https://twitter.com/kirstymcgrath13) (OnPoint Solutions) | @kirstymcgrath13
@@ -137,4 +137,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

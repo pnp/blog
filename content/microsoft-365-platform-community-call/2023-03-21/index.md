@@ -46,9 +46,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 202 (March 20th) with US-based Microsoft MVP and Vice President of Engineering at tyGraph - [Corey Roth](https://twitter.com/coreyroth) \| @coreyroth \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-202/) \| [podcast](https://www.podbean.com/eas/pb-gr6za-13c0bd8)
@@ -60,7 +60,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Azure Communication Services extensibility with APIs and with Power Platform connectors** – ACS enables virtual appointments, click-to-call, and product integrations. New Power Platform integrations – deliver omni channel communications - SMS, e-mail and chat using PCF components, connectors, actions, triggers. See UI of a sign-in app on desktop and on a mobile device. Then see the flows behind the scenes. The Omni channel flow takes care of notifications/messaging to 3 channels simply by using 3 connectors.
 * **Add chat capability to Microsoft Teams app using Teams JavaScript client library** – see how the JS library can be used to add native Teams functionality into your applications. Install the library, note how APIs are grouped by capabilities that access functionality within Teams, initialize library, explore usage of capabilities – specifically context and chat. In demo, step through adding Teams chat to an app with a few lines of JS code. Fourth installment in a 5-part series.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube FWRTaK_wAhs >}}
 
@@ -68,7 +68,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/FWRTaK_wAhs?t=0) – Intro
 
-[07:44](https://youtu.be/FWRTaK_wAhs?t=464) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[07:44](https://youtu.be/FWRTaK_wAhs?t=464) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:57](https://youtu.be/FWRTaK_wAhs?t=717) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 
@@ -95,7 +95,7 @@ Thanks to many and to one dog for joining the call today. Hope to see you in per
 
 * [Register](https://aka.ms/BuildwithTeams) for Build once, deploy efficiently, connect across Microsoft 365 – Virtual event. March 29, 2023, 9:00AM PST.
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

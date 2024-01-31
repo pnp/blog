@@ -58,7 +58,7 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 [07:41](https://youtu.be/AJ-zFICSyXY?t=461) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
-[08:56](https://youtu.be/AJ-zFICSyXY?t=536) – PnPjs Client-Side Libraries – [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+[08:56](https://youtu.be/AJ-zFICSyXY?t=536) – PnPjs Client-Side Libraries – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 
 [10:40](https://youtu.be/AJ-zFICSyXY?t=640) – CLI for Microsoft 365 – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
@@ -70,15 +70,14 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 [14:55](https://youtu.be/AJ-zFICSyXY?t=895) – PnP Modern Search – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
-[15:32](https://youtu.be/AJ-zFICSyXY?t=932) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[15:32](https://youtu.be/AJ-zFICSyXY?t=932) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
 [16:06](https://youtu.be/AJ-zFICSyXY?t=966) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [17:19](https://youtu.be/AJ-zFICSyXY?t=1039) – Demo – The Canary in the coalmine or how to keep an eye on the SharePoint Search updates - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind) \| @kasperbolarsen
 
-[23:43](https://youtu.be/AJ-zFICSyXY?t=1423) – Demo – Building Service Health solution for Microsoft 365 with SharePoint Framework - [Harminder Singh](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Harminder%20Singh) (Nagarro) \| @Harminder_Sethi
 
-[33:23](https://youtu.be/AJ-zFICSyXY?t=2003) – Demo – Introduction to hTWOo v2.0 - a better Fluent UI framework - [Stefan Bauer](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Stefan%20Bauer) (N8D) \| @StfBauer
+[33:23](https://youtu.be/AJ-zFICSyXY?t=2003) – Demo – Introduction to hTWOo v2.0 - a better Fluent UI framework
 
 [52:34](https://youtu.be/AJ-zFICSyXY?t=3154) – Closing
 
@@ -111,7 +110,6 @@ Thanks everybody for joining today. Awesome to have you in the call and hopefull
     * Sample - [Service Health for Microsoft 365](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-m365-services-health)
 * **Introduction to hTWOo v2.0 - a better Fluent UI framework**
     * npm – [htwoo packages](https://www.npmjs.com/search?q=htwoo)
-    * Guidelines - [Web Content Accessibility Guidelines (WCAG)](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/April%2020%20-%20SPFx%20Client-side%20call/Web%20Content%20Accessibility%20Guidelines%20(WCAG))
     * Documentation – [hTWOo](https://lab.n8d.studio/htwoo/)
     * Blog – [n8d](https://n8d.at)
     * Items - [Quick Links Compact and List Items](https://lab.n8d.studio/htwoo/htwoo-core/?p=organism-pnp-search-grid)
@@ -122,10 +120,10 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
-[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17.1 (GA)  
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.14 (GA)  
+[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17.1 (GA)
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.14 (GA)
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.6 (GA)
-[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.6 (Preview)| v0.7 to be released April 26, 2023 
+[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.6 (Preview)| v0.7 to be released April 26, 2023
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.14.0 (GA), v2.9.0|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.13.0 (GA), v2.7.0|
 [Viva Connections Toolkit for VS Code](https://github.com/pnp/vscode-viva) | v0.4.4 (GA)|
@@ -208,7 +206,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -227,7 +225,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

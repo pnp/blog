@@ -44,8 +44,8 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – PnP PowerShell – [Change SharePoint Online List URL](https://pnp.github.io/script-samples/spo-change-list-url/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
     * New – PnP PowerShell – [Disable SharePoint List Commenting at list level](https://pnp.github.io/script-samples/spo-disable-list-comments/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * New – PnP PowerShell – [Export User Profiles to CSV](https://pnp.github.io/script-samples/spo-export-upa-accounts/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * Updated – CLI for Microsoft 365 – [Export User Profiles to CSV](https://pnp.github.io/script-samples/spo-export-upa-accounts/README.html?tabs=pnpps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – PnP PowerShell – [Export User Profiles to CSV](https://pnp.github.io/script-samples/spo-export-upa-accounts/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * Updated – CLI for Microsoft 365 – [Export User Profiles to CSV](https://pnp.github.io/script-samples/spo-export-upa-accounts/README.html?tabs=pnpps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * Updated – PnP PowerShell – [Add/Update Image in SharePoint Image column](https://pnp.github.io/script-samples/spo-add-update-image-column/README.html?tabs=pnpps) - [Matt Jimison](https://twitter.com/mjimison) \| @mjimison
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
@@ -68,29 +68,29 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **List Formatting - Convert data into graphical information** – inspired by static graphics used in PPT, here are ways to enliven data points stored in your SharePoint list. Samples covered include process arrows, lifecycle, content circular, content pyramid, matrix, content box, timelapse, and welcome message. Samples shown are presently or soon will be available in the PnP Samples repository. All samples render well in desktop and mobile views. Discussion at [aka.ms/Mar30-Demo2](https://aka.ms/Mar30-Demo2)
 * **Companies House Independent Publisher Connector - How API integration adds value** – for developers. Evaluate pros/cons of using HTTP Action in Cloud flow, custom connector, and Independent Publisher Connector to bring data/value into your Power Automate flows/apps. See how a flow invokes a Companies House connector action that calls the Companies House’s API and brings back data for report. Advantages of Independent Publisher Connectors include - used across flows and apps, DLP governed, worldwide usage, centrally updated. Discussion at [aka.ms/Mar30-Demo3](https://aka.ms/Mar30-Demo3)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 2XlwO6tqAm0 >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/2XlwO6tqAm0?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/2XlwO6tqAm0?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[06:20](https://youtu.be/2XlwO6tqAm0?t=380) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[06:20](https://youtu.be/2XlwO6tqAm0?t=380) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[07:10](https://youtu.be/2XlwO6tqAm0?t=430) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+[07:10](https://youtu.be/2XlwO6tqAm0?t=430) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
 
-[09:00](https://youtu.be/2XlwO6tqAm0?t=540) – yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[09:00](https://youtu.be/2XlwO6tqAm0?t=540) – yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [09:52](https://youtu.be/2XlwO6tqAm0?t=592) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[10:47](https://youtu.be/2XlwO6tqAm0?t=647) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[10:47](https://youtu.be/2XlwO6tqAm0?t=647) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [11:21](https://youtu.be/2XlwO6tqAm0?t=681) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[12:51](https://youtu.be/2XlwO6tqAm0?t=771) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[12:51](https://youtu.be/2XlwO6tqAm0?t=771) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
-[14:27](https://youtu.be/2XlwO6tqAm0?t=867) – Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[14:27](https://youtu.be/2XlwO6tqAm0?t=867) – Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [16:17](https://youtu.be/2XlwO6tqAm0?t=977) – Microsoft Power Platform Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
@@ -130,7 +130,7 @@ What a great call today. How about those demos!  Thank you for your participatio
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -152,7 +152,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA, v2.0.0 preview|Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview

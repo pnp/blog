@@ -5,7 +5,7 @@ author: "Patrick Lamber"
 githubname: plamber
 categories: ["CLI for Microsoft 365"]
 images:
-- images/banner-cli-m365.png 
+- images/banner-cli-m365.png
 tags: ["CLI for Microsoft 365","SharePoint", "SharePoint Framework (SPFx)"]
 type: "regular"
 ---
@@ -64,17 +64,17 @@ To create a public Microsoft 365 group and hide it from the Outlook experiences 
 
 `m365 aad o365group add --displayName Finance --description "This is the Contoso Finance Group. Please come here and check out the latest news, posts, files, and more." --mailNickname finance --hideGroupInOutlook`
 
-For more information about creating Microsoft 365 groups, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/o365group/o365group-add/).
+For more information about creating Microsoft 365 groups, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/entra/m365group/m365group-add/).
 
 ### Interacting with Microsoft 365 conversations becomes easier
 
 In CLI for Microsoft 365 v5.0 we introduced commands to create Microsoft 365 group conversations. This release finalized the set of commands required to interact with conversations with the command **m365 aad o365group conversation post list**.
 
-For more information about retrieving Microsoft 365 Group conversations, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/o365group/o365group-conversation-post-list/).
+For more information about retrieving Microsoft 365 Group conversations, see the [CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/entra/m365group/m365group-conversation-post-list/).
 
 ### New script samples
 
-CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as for automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as for automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
 > If you have any scripts that you use frequently, please [share them with us](https://github.com/pnp/cli-microsoft365/issues) so that we can learn more about your common automation scenarios.
 

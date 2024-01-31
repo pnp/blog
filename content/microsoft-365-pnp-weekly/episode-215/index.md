@@ -12,10 +12,10 @@ videos:
 - https://www.youtube.com/watch?v=r0hdyHBL6Vs
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London-based Europe Workplace Value Realization Lead and Microsoft MVP - [Zoe Wilson](https://twitter.com/SharePoint_Zoe) (Avanade) \| @SharePoint_Zoe
 
-PnP Weekly is now on summer holiday until end of August.  Enjoy your summer/winter for the next 2 months.  We will return with Episode 216.    
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by London-based Europe Workplace Value Realization Lead and Microsoft MVP - [Zoe Wilson](https://twitter.com/SharePoint_Zoe) (Avanade) \| @SharePoint_Zoe
+
+PnP Weekly is now on summer holiday until end of August.  Enjoy your summer/winter for the next 2 months.  We will return with Episode 216.
 
 ## Topics discussed in this session
 
@@ -31,13 +31,13 @@ PnP Weekly is now on summer holiday until end of August.  Enjoy your summer/wint
 * Tips for people to get started on presenting at events. Mentorships and sponsorships.
 * Tips to women considering/building a career in IT?
 * How should customers prepare for Copilot and generative AI?
- 
+
 ## Referenced during conversation
 
 * Viva Explorers - <https://www.vivaexplorers.com/>
 * Video - [Momentum building example!](https://www.youtube.com/watch?v=GA8z7f7a2Pk)
 
-There were 22 articles or videos covered within this episode produced by Microsoft and community members.  
+There were 22 articles or videos covered within this episode produced by Microsoft and community members.
 
 ## This week
 
@@ -63,10 +63,10 @@ This session was recorded on Monday 19th of June and released on 20th of June, 2
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube r0hdyHBL6Vs >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-x9kti-14397ae >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -124,4 +124,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

@@ -79,11 +79,11 @@ The host of this call is [Marc D Anderson](https://twitter.com/sympmarc) (Sympra
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:31](https://youtu.be/7bvNLC1fn-U?t=391)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:38](https://youtu.be/7bvNLC1fn-U?t=518)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:38](https://youtu.be/7bvNLC1fn-U?t=518)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – [9:51](https://youtu.be/7bvNLC1fn-U?t=591)
 * PnP SPFx Controls - [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) \| @alexaterentiev – [11:51](https://youtu.be/7bvNLC1fn-U?t=711)
 * PnP Modern Search - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting LLC) \| @sympmarc – [12:29](https://youtu.be/7bvNLC1fn-U?t=749)
-* PnP Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:03](https://youtu.be/7bvNLC1fn-U?t=783)
+* PnP Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:03](https://youtu.be/7bvNLC1fn-U?t=783)
 * Demo – Add form customizers to list web part – [Siddharth Vaghasia](https://twitter.com/siddh_me) (Tata Consulting) \| @siddh_me – [15:33](https://youtu.be/7bvNLC1fn-U?t=933)
 * Demo – Using Fluent UI 9 in SPFx solutions – [Nick Brown](https://twitter.com/techienickb) (Jisc) \| @techienickb – [26:46](https://youtu.be/7bvNLC1fn-U?t=1606)
 * Demo – Visualizing dynamically SharePoint data within SPFx solutions using ERD model – [Niklas Wilhelm](https://twitter.com/NiklasWilhelm4) (NetForce 365) \| @NiklasWilhelm4 – [41:00](https://youtu.be/7bvNLC1fn-U?t=2460)
@@ -159,7 +159,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -178,7 +178,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

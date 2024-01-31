@@ -82,19 +82,19 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  Site - [Microsoft Graph Developer](https://developer.microsoft.com/graph) | [aka.ms/graph](https://aka.ms/graph)
 *   **D1:**  Tool - [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) | [aka.ms/ge](https://aka.ms/ge)
 *   **D1:**  Tool - [Join the Microsoft 365 Developer Program today!](https://developer.microsoft.com/microsoft-365/dev-program) 
-*   **D1:**  Documentation - [Install the Microsoft Graph PowerShell SDK](https://docs.microsoft.com/graph/powershell/installation) 
-*   **D1:**  Documentation - [Microsoft Graph PowerShell overview](https://docs.microsoft.com/powershell/microsoftgraph/overview?view=graph-powershell-1.0) 
+*   **D1:**  Documentation - [Install the Microsoft Graph PowerShell SDK](https://learn.microsoft.com/graph/powershell/installation) 
+*   **D1:**  Documentation - [Microsoft Graph PowerShell overview](https://learn.microsoft.com/powershell/microsoftgraph/overview?view=graph-powershell-1.0) 
 *   **D2:**  Article - [Learn from the community](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community) | aka.ms/LearnFromTheCommunity/ThisWeek
 *   **D2:**  YouTube Playlist – [Show & Tell :party\_popper: Get inspired by community demos, scenarios, and interviews!](https://www.youtube.com/playlist?list=PLWZJrkeLOrbb_6FzG5JmGfJ-fzUUNRXxb) 
 *   **D2:**  Share your Story - [New project story form for Learn from the community series](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAaDFqORUQldHMlNOSzVLVzcwMkZUVkdDSVNDWUFPTy4u) – [https://aka.ms/share-your-story](https://aka.ms/share-your-story)
-*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
-*   **D3:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/customize-components/style) 
-*   **D3:**  Documentation - [Microsoft Graph Toolkit caching](https://docs.microsoft.com/graph/toolkit/customize-components/cache) 
-*   **D3:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://docs.microsoft.com/graph/toolkit/customize-components/localization) 
+*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
+*   **D3:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/customize-components/style) 
+*   **D3:**  Documentation - [Microsoft Graph Toolkit caching](https://learn.microsoft.com/graph/toolkit/customize-components/cache) 
+*   **D3:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://learn.microsoft.com/graph/toolkit/customize-components/localization) 
 *   **D3:**  Tool - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://mgt.dev/?path=/story/overview--page) | [https://mgt.dev/](https://mgt.dev/)
 *   **D3:**  Samples - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) | aka.ms/mgt/sandbox
 *   **D3:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
-*   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
+*   **D3:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://learn.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
 
 Previous demos in Sébastien Levert](<https://twitter.com/sebastienlevert)’s> (Microsoft) | [@sebastienlevert series
 
@@ -135,7 +135,7 @@ Previous demos in Sébastien Levert](<https://twitter.com/sebastienlevert)’s>
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

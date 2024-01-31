@@ -24,7 +24,7 @@ Now that we've got that out of the way this post will summarize my experiences w
 
 ## What is the list view threshold, and why it's there
 
-If you've worked with SharePoint as a dev for some time, you've eventually run into the issue of ["The number of items in this list exceeds the list view threshold"](https://learn.microsoft.com/en-us/sharepoint/troubleshoot/lists-and-libraries/items-exceeds-list-view-threshold), Microsoft has a few tips on it, the main one being "use modern" - well that doesn't help you when you're using the APIs, not even via Graph API, so what do you do?
+If you've worked with SharePoint as a dev for some time, you've eventually run into the issue of ["The number of items in this list exceeds the list view threshold"](https://learn.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/items-exceeds-list-view-threshold), Microsoft has a few tips on it, the main one being "use modern" - well that doesn't help you when you're using the APIs, not even via Graph API, so what do you do?
 
 Firstly, I want to address why it's there, I've seen a lot of people saying Microsoft should just remove the limit, you could do that on-premise, but I genuinely disagree with this stance, it's there for performance reasons, but also as a dev you should really stop and think "am I doing something wrong here" anytime you're fetching 5000 rows at once from a SharePoint list.
 
@@ -36,7 +36,7 @@ Now If you're getting the message there are a few things you can do to get aroun
 
 Firstly, the most simple thing to do, and something you should always be doing, is to make sure that you're filtering the dataset to limit how much data you're fetching, using the REST APIs you can do this with OData filters, or [CAML](/blog/post/caml-query-what-is-it/), both have the same limits in terms of the 5000 items, so really just go for whichever one you're most comfortable with.
 
-### The filtering order matters! 
+### The filtering order matters!
 
 Now something that took me longer then I would like to admit to wrap my head around is that the order in which you write your filter actually matters, coming from an SQL background, I'm sure the same applies there, but you don't notice it in the same way since there aren't the same limits.
 
@@ -71,7 +71,7 @@ This is done by going to **list settings** under the columns press the **Indexed
 
 Now common for the two things above is that they hardly require any changes to your codebase, maybe a rewrite of your filter, but that should really be about it.
 
-If the above two do not solve your problems, maybe we're attacking the issue in the wrong way, if your app shows a long list of data you really should consider loading in more data as needed, for instance when I scroll to the bottom of the list, this can be done using paging, or better yet the [RenderListDataAsStream API](https://learn.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.list.renderlistdataasstream?view=sharepoint-csom), that's how the modern list views manage to show large lists (and also why you sometimes see the **load more** button on the page).
+If the above two do not solve your problems, maybe we're attacking the issue in the wrong way, if your app shows a long list of data you really should consider loading in more data as needed, for instance when I scroll to the bottom of the list, this can be done using paging, or better yet the [RenderListDataAsStream API](https://learn.microsoft.com/dotnet/api/microsoft.sharepoint.client.list.renderlistdataasstream?view=sharepoint-csom), that's how the modern list views manage to show large lists (and also why you sometimes see the **load more** button on the page).
 
 This will not only allow you to show data from a very large list, but also really improve the user experience of your app, as you're no longer fetching all the data before showing it, but rather you're fetching it as you need it, this does of course mean that you have to do a bit more of code rewrite, so do be sure to test that the API does what you need it to before going down this route.
 
@@ -115,4 +115,4 @@ And remember, data has a lifecycle, **archive it!**
 
 ### Read more
 
-[Community docs - Living Large with Large Lists and Large Libraries](https://learn.microsoft.com/en-us/microsoft-365/community/large-lists-large-libraries-in-sharepoint) - great tips if you do deiced to stay in a SharePoint list, or you're on-prem.
+[Community docs - Living Large with Large Lists and Large Libraries](https://learn.microsoft.com/microsoft-365/community/large-lists-large-libraries-in-sharepoint) - great tips if you do deiced to stay in a SharePoint list, or you're on-prem.

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Agnes Molnar](https://twitter.com/molnaragnes) Microsoft 365 MVP and a search expert.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Agnes Molnar](https://twitter.com/molnaragnes) Microsoft 365 MVP and a search expert.
 
 ## In this episode
 
@@ -27,7 +27,7 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## References
 
-- [Overview of Microsoft Search](https://learn.microsoft.com/en-us/microsoftsearch/overview-microsoft-search)
+- [Overview of Microsoft Search](https://learn.microsoft.com/microsoftsearch/overview-microsoft-search)
 - [PnP Search web parts](https://github.com/microsoft-search/pnp-modern-search)
 - [Ubisoft search components](https://github.com/microsoft-search/pnp-modern-search-core-components)
 
@@ -61,7 +61,7 @@ This session was recorded on Monday 4th of December. Session was published on Tu
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-e6ciz-1516945 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -75,7 +75,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Azure ACS retirement in Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/azure-acs-retirement-in-microsoft-365/ba-p/3982039) - [Bert Jansen](https://www.linkedin.com/in/bertjansen/) (Microsoft)
 * [SharePoint Roadmap Update – Fall 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-update-fall-2023/ba-p/3994596) - [Dave Cohen](https://www.linkedin.com/in/david-cohen-597a571b/) (Microsoft)
 * [SharePoint Roadmap Pitstop: November 2023](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-november-2023/ba-p/3992175) - [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft)
-* [What’s new: Power Apps November 2023 Feature Update](https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-november-2023-feature-update/) - [Clay Wesener](https://www.linkedin.com/in/claywesener/) (Microsoft) 
+* [What’s new: Power Apps November 2023 Feature Update](https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-november-2023-feature-update/) - [Clay Wesener](https://www.linkedin.com/in/claywesener/) (Microsoft)
 
 ## Community articles
 
@@ -97,7 +97,7 @@ As we recorded the previous and this episode close by, we wanted to focus on com
 
 ## Samples
 
-Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples). 
+Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples).
 
 ## Upcoming events
 
@@ -116,4 +116,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

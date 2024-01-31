@@ -55,7 +55,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Introduction to Microsoft Viva Home experience** – latest details for Viva Connections on desktop Viva Home, in targeted release. Broad overview on current Viva Connections experience – app in Teams with mobile and desktop experiences. Updated Connections desktop with new default home experience. Deep-dive into Viva Home – Desktop and Mobile. See branding, feeds, card templates. Easy for Admins to maintain and create content. Extensibility options and resources. Start with Dashboard and optionally add homesite.
 * **Introduction to Azure Communication Services** – today’s focus: Build a custom app to chat and call with people in Microsoft Teams meeting. Tools to integrate communication – Microsoft Graph API, Azure Communications Services (ACS) and Microsoft Teams. Overview on ACS services for communicating with any product. Demo – load ACS in Azure Portal, create/configure a new resource that enables authorized user to initiate call, and finally join the meeting.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube fHy1K0MRUiY >}}
 
@@ -63,7 +63,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/fHy1K0MRUiY?t=0) – Intro
 
-[07:35](https://youtu.be/fHy1K0MRUiY?t=455) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[07:35](https://youtu.be/fHy1K0MRUiY?t=455) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [08:39](https://youtu.be/fHy1K0MRUiY?t=519) – Microsoft Teams Platform updates – [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) \| @Wajeed_Shaikh
 

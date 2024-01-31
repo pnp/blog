@@ -9,7 +9,7 @@ images:
   - images/03-getting-started-spfx-extensions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -40,9 +40,9 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 SPFx extensions provide a safe way to extend and customize SharePoint Online experiences without impacting the improvements which Microsoft provides to the user interface. In classic SharePoint user interface was often modified by fully overriding the out of the box experience. This, however, blocked any new features from being deployed and therefore caused maintenance and operational challenges for customers, which caused significant operational challenges and reduction of the value provided by the platform.
 
-As part of the introduction of SharePoint modern experiences, Microsoft also introduced the SPFx extensions as an option to safely extend SharePoint Online in future proven techniques. There are quite a few different extension options available, enabling significant extensibility options across SharePoint experiences. 
+As part of the introduction of SharePoint modern experiences, Microsoft also introduced the SPFx extensions as an option to safely extend SharePoint Online in future proven techniques. There are quite a few different extension options available, enabling significant extensibility options across SharePoint experiences.
 
-Key difference between extensions and web parts in the SharePoint is that the web parts are designed to be added on the pages by the content editors using the web part picker and you can configure them based on your business needs. SPFx extensions however are added on the UX by using the automation in the SPFx packaging and they cannot by default be configured by content editors. 
+Key difference between extensions and web parts in the SharePoint is that the web parts are designed to be added on the pages by the content editors using the web part picker and you can configure them based on your business needs. SPFx extensions however are added on the UX by using the automation in the SPFx packaging and they cannot by default be configured by content editors.
 
 
 ## Different SPFx extensions for SharePoint Online
@@ -61,28 +61,28 @@ See following getting started series to understand the development and deploymen
 
 **Build your first SharePoint Framework Extension (Hello World part 1)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/build-a-hello-world-extension)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=DnfRIl2YN8g&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV)
 
 {{< youtube DnfRIl2YN8g >}}
 
 **Build your first SharePoint Framework Extension (Hello World part 1)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=Wm1PG8U5bSw&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV&index=2)
 
 {{< youtube Wm1PG8U5bSw >}}
 
 **Deploy your extension to SharePoint (Hello World part 3)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=tReoZGtAYB4&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV&index=3)
 
 {{< youtube tReoZGtAYB4 >}}
 
 **Host an SPFx extension from the Microsoft 365 CDN (Hello World part 4)**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/hosting-extension-from-office365-cdn)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/hosting-extension-from-office365-cdn)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=xsZbRliakyM&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV&index=4)
 
 {{< youtube xsZbRliakyM >}}
@@ -107,7 +107,7 @@ Here's an example image with the field customizer rendering
 
 **Build your first Field Customizer extension**
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-simple-field-customizer)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=mBZ7Sq_KfDA&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV&index=5)
 
 {{< youtube mBZ7Sq_KfDA >}}
@@ -127,7 +127,7 @@ Here's an example image with the field customizer rendering
 
 ![Application Customizers with custom placeholders](images/ext-com-dialog-visible-deployment.png)
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Tutorial in video format in YouTube](https://www.youtube.com/watch?v=uaUGtLrNbRA&list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV&index=6)
 
 {{< youtube uaUGtLrNbRA >}}
@@ -138,7 +138,7 @@ Here's an example image with the field customizer rendering
 - [Send-To-Teams - Command Set](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-extensions-react-send-to-teams/) by [João Mendes](https://adoption.microsoft.com/en-us/sample-solution-gallery/joaojmendes/)
 - [Configure a Page as Single App Part page](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-extensions-react-command-singlepartapppage/) by [Luis Mañez](https://adoption.microsoft.com/en-us/sample-solution-gallery/luismanez/) (ClearPeople)
 - [Follow Document](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-follow-document/) by [André Lage](https://adoption.microsoft.com/en-us/sample-solution-gallery/aaclage/) (Datalynx AG)
-- [Save and convert as PDF by PnP](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-extensions-react-command-convert-to-pdf/) by [Mikael Svenson](https://adoption.microsoft.com/en-us/sample-solution-gallery/wobba/) (Microsoft) 
+- [Save and convert as PDF by PnP](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-extensions-react-command-convert-to-pdf/) by [Mikael Svenson](https://adoption.microsoft.com/en-us/sample-solution-gallery/wobba/) (Microsoft)
 - [Generate QR Code List Item Command View Set](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-extensions-react-command-qrcode/) by [Hugo Bernier](https://adoption.microsoft.com/en-us/sample-solution-gallery/hugoabernier/) (Microsoft)
 
 ### List form customizer
@@ -149,7 +149,7 @@ Here's an example image with the field customizer rendering
 
 ![Application Customizers with custom placeholders](images/ext-forcustomizer-custom-form.png)
 
-- [Tutorial documentation](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Tutorial documentation](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 - [Getting started on building custom list form experiences with SharePoint Framework](https://www.youtube.com/watch?v=ihDjrIdfPNA)
 
 {{< youtube ihDjrIdfPNA >}}
@@ -163,15 +163,15 @@ Here's an example image with the field customizer rendering
 
 ## Frequent questions around SPFx extensions for SharePoint Online
 
-**Can I deploy extension only to be available in specific site?** 
+**Can I deploy extension only to be available in specific site?**
 
 Yes. This would mean that you configure the solution to be site specific in the package-solution.json file (set `skipFeatureDeployment` as `false`). This then means that before the solution is available, it will need to be explictly installed on the site where it should be activated. In this scenario any web part would be then avaialble in the site level specifically and for the extensions, you'd use teh feature activation at the site level to activate the feature for example in document libraries.
 
-**Can I deploy extensions to be available across the tenant?** 
+**Can I deploy extensions to be available across the tenant?**
 
-Yes. You can do this by taking advantage of two options which are available for SPFx solution - tenant scoped deployment and tenant wide deployment of extensions. Tenant scoped deployment means that all components in the SPFx solution are automatically avaialble across the tenant whenever the solution is deployed to tenant app catalog. [Tenant wide deployment of extensions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions) provides you an option to associate the SPFx extensions at the list and library level across the tenant with centralized control at the app catalog level. This way you can for example enable your custom menu items to all document libraries across the tenant.
+Yes. You can do this by taking advantage of two options which are available for SPFx solution - tenant scoped deployment and tenant wide deployment of extensions. Tenant scoped deployment means that all components in the SPFx solution are automatically avaialble across the tenant whenever the solution is deployed to tenant app catalog. [Tenant wide deployment of extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/basics/tenant-wide-deployment-extensions) provides you an option to associate the SPFx extensions at the list and library level across the tenant with centralized control at the app catalog level. This way you can for example enable your custom menu items to all document libraries across the tenant.
 
-**How do I configure extensions?** 
+**How do I configure extensions?**
 
 SPFx extensions are configured using the instance parametrization. This means that you cannot configure them by default from the UX level, but you'd rather configure them as part of the deployment with the instance parameters. This also means that end users cannot configure the extension instances in the same way as web parts. You could though also expose custom UX elements to configure the instances for your extension. This is an advance scenario, but could be done.
 
@@ -186,7 +186,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 - SPFx extension sample gallery - https://aka.ms/spfx-extensions

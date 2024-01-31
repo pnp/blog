@@ -67,7 +67,7 @@ everyone for your contributions to the community!
     [Mark Kashman](https://twitter.com/mkashman) (Microsoft) |
     @mkashman
 -   [Manage your apps with the Developer Portal for Microsoft
-    Teams](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal?referrer=whats.new.rssfeed) -
+    Teams](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal?referrer=whats.new.rssfeed) -
     Microsoft
 -   [New ways for Cloud Storage Partners to integrate their services
     with Microsoft Teams and
@@ -78,10 +78,10 @@ everyone for your contributions to the community!
     (beta)](https://developer.microsoft.com/microsoft-365/blogs/breaking-changes-to-the-settings-endpoint-in-the-microsoft-graph-ediscovery-api-beta/)
     - Marshal Hagen (Microsoft)
 -   [settings resource type
-    (eDiscovery)](https://docs.microsoft.com/graph/api/resources/ediscovery-ediscoveryapioverview?view=graph-rest-beta) -
+    (eDiscovery)](https://learn.microsoft.com/graph/api/resources/ediscovery-ediscoveryapioverview?view=graph-rest-beta) -
     docs.microsoft.com
 -   [Developing Real-Time Collaborative
-    Apps](https://docs.microsoft.com/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -
+    Apps](https://learn.microsoft.com/events/learntv/developing-real-time-together-collaborative-apps-october-2021/?WT.mc_id=m365-44916-cxa) -
     Microsoft
 
 ## Community articles

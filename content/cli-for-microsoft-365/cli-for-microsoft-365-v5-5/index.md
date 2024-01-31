@@ -62,7 +62,7 @@ Get the External Connection by its name
 m365 search externalconnection get --name "Test"
 ```
 
-For more information see the [search externalconnection get](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-get/)
+For more information see the [search externalconnection get](https://pnp.github.io/cli-microsoft365/cmd/external/connection/connection-get)
 
 ### Manage SharePoint Online roles and groups
 
@@ -126,7 +126,7 @@ For more information see the [@meId and @meUserName tokens](https://pnp.github.i
 
 ## New script samples
 
-CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+CLI for Microsoft 365 is a great tool both for quick adjustments to the configuration of your Microsoft 365 tenant as well as automating more complex tasks. Because CLI for Microsoft 365 is cross-platform you can use it on any OS and in any shell. To help you get started using the CLI for Microsoft 365 for automation scenarios, we started gathering some [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
 If you have any scripts that you use frequently, please [share](https://github.com/pnp/cli-microsoft365/discussions) them with us so that we can learn more about the common automation scenarios.
 

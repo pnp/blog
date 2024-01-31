@@ -49,21 +49,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **List formatting magic - neomorphic design for polished UX** – what? A minimalist design style - 3D look and feel for buttons and graphics applied to 7 newly created JSON neomorphic list formatting controls – Buttons, Options, Rate, Image, Doughnut, Bars, Calendar. The sample controls can be implemented on list columns and views. Create a neomorphic list and distribute it using PowerShell for consistent usage and management across organization. This work inspired by Kristine Kolodziejski.
 * **Using Mockaroo Independent Publisher Connectors to automatically generate sample data** – step through Mockaroo features (customized schemas, datasets, mock APIs and grouped schemas/datasets). Connector accesses Mockaroo APIs for two scenarios: 1) Repeatable Test Data - use Power Automate to load contacts (basic flow) and to load contacts and accounts (advanced flow). 2) Speed up UI/UX development – see 2 methods (classic and using experimental ParseJSON (function), for automatically importing simulated data into a Canvas app.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube q5C2cOPMuqs >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:23](https://youtu.be/q5C2cOPMuqs?t=383)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:00](https://youtu.be/q5C2cOPMuqs?t=480)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:37](https://youtu.be/q5C2cOPMuqs?t=577)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:58](https://youtu.be/q5C2cOPMuqs?t=598)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 & [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [10:48](https://youtu.be/q5C2cOPMuqs?t=648)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [13:24](https://youtu.be/q5C2cOPMuqs?t=804)
-* Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:31](https://youtu.be/q5C2cOPMuqs?t=931)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:06](https://youtu.be/q5C2cOPMuqs?t=966)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [6:23](https://youtu.be/q5C2cOPMuqs?t=383)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:00](https://youtu.be/q5C2cOPMuqs?t=480)
+* yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:37](https://youtu.be/q5C2cOPMuqs?t=577)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:58](https://youtu.be/q5C2cOPMuqs?t=598)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 & [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [10:48](https://youtu.be/q5C2cOPMuqs?t=648)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [13:24](https://youtu.be/q5C2cOPMuqs?t=804)
+* Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:31](https://youtu.be/q5C2cOPMuqs?t=931)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:06](https://youtu.be/q5C2cOPMuqs?t=966)
 * Demo - List formatting magic - neomorphic design for polished UX – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [18:27](https://youtu.be/q5C2cOPMuqs?t=1107)
 * Demo - Using Mockaroo Independent Publisher Connectors to automatically generate sample data – [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) \| @PowerAppsRAW – [34:07](https://youtu.be/q5C2cOPMuqs?t=2047)
 
@@ -85,7 +85,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -95,11 +95,11 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
     * Videos - [Kristine Kolodziejski](https://www.youtube.com/c/KristineKolodziejski/videos) (channel)
     * Sample - [Doughnut Chart](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-doughnut-chart)
 * **Using Mockaroo Independent Publisher Connectors to automatically generate sample data**
-    * Connector - [Mockaroo (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/mockarooip/)
+    * Connector - [Mockaroo (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/mockarooip/)
     * Repo – [Mockaroo](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Mockaroo)
     * Article - [Power Fx: Introducing ParseJSON](https://powerapps.microsoft.com/blog/power-fx-introducing-parsejson/)
     * Data mocking library – [mockaroo.com](https://www.mockaroo.com/)
-    * Documentation - [Independent publisher certification process](https://docs.microsoft.com/connectors/custom-connectors/certification-submission-ip)
+    * Documentation - [Independent publisher certification process](https://learn.microsoft.com/connectors/custom-connectors/certification-submission-ip)
     * Video - [Independent Publisher connectors step by step](https://www.youtube.com/watch?v=wGFWZqsxIBQ) - [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \| @TomaszPoszytek
     * Video - [Power Platform Connectors (Visual Studio Code Extension)](https://www.youtube.com/watch?v=IyZ1jD_XPas&list=PLWGhKdEl5HpqPW49b2HlApEobW6MF2rD7&index=13) - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskwitz
     * Session - [Build and Submit an Independent Publisher Connector in Under 60 Minutes](https://powerplatformconf.com/#!/session/Build%20and%20Submit%20an%20Independent%20Publisher%20Connector%20in%20Under%2060%20Minutes/5434) – [Troy Taylor](https://twitter.com/troystaylor) (Hitachi Solutions) \| @troystaylor
@@ -113,7 +113,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

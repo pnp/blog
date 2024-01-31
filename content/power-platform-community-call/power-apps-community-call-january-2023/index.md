@@ -19,7 +19,7 @@ Latest updates and news on Power Platform including community events, training o
 
 Three demos delivered – Building a Name Pronunciation Database with Power Apps and Power Automate, Mention a bot from a Power Automate flow, and Effortlessly showing grids of data in your Power Apps using the Creator Kit.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on January 18, 2022. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on January 18, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -52,9 +52,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [00:00](https://youtu.be/KkUmMXjA7UA?t=0) – Intro
 
-[02:06](https://youtu.be/KkUmMXjA7UA?t=126) – Latest Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[02:06](https://youtu.be/KkUmMXjA7UA?t=126) – Latest Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
-[05:37](https://youtu.be/KkUmMXjA7UA?t=337) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[05:37](https://youtu.be/KkUmMXjA7UA?t=337) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [10:15](https://youtu.be/KkUmMXjA7UA?t=615) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 

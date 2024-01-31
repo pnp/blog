@@ -15,7 +15,7 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including 2 articles and 3 training opportunities announced. Three demos delivered – Automatically generate technical documentation of your Power Apps and Power Automate Flows, Streamline Annual Document Reviews with Power Apps, and Power Platform + Microsoft Teams: Create a "back-channel"​ internal chat for any meeting. Don’t forget to schedule a chat with David Warner during Power Apps Community Program Manager Office Hours. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and [Todd Baginski](http://twitter.com/toddbaginski) (Canviz). The call was recorded on May 18, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including 2 articles and 3 training opportunities announced. Three demos delivered – Automatically generate technical documentation of your Power Apps and Power Automate Flows, Streamline Annual Document Reviews with Power Apps, and Power Platform + Microsoft Teams: Create a "back-channel"​ internal chat for any meeting. Don’t forget to schedule a chat with David Warner during Power Apps Community Program Manager Office Hours. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). The call was recorded on May 18, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -37,16 +37,16 @@ Latest updates and news on Power Platform including 2 articles and 3 training op
 ## Agenda items
 
 * Latest updates and news on Power Platform
-    * Latest PnP Power Apps Samples – [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [2:58](https://youtu.be/nxRGr3DHn8U?t=178)
-    * Power Platform Community Events - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:25](https://youtu.be/nxRGr3DHn8U?t=445)
-    * Recent News - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:15](https://youtu.be/nxRGr3DHn8U?t=555)
-* Demo - Automatically generate technical documentation of your Power Apps and Power Automate Flows - [Rene Modery](http://twitter.com/modery) (WPP) \| @modery – [11:08](https://youtu.be/nxRGr3DHn8U?t=668)
-* Demo - Streamline Annual Document Reviews with Power Apps - [Heidi Jordan](http://twitter.com/heidi_jordan14) (High Plains Technology) \| @heidi_jordan14 – [28:45](https://youtu.be/nxRGr3DHn8U?t=1725)
+    * Latest PnP Power Apps Samples – [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [2:58](https://youtu.be/nxRGr3DHn8U?t=178)
+    * Power Platform Community Events - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:25](https://youtu.be/nxRGr3DHn8U?t=445)
+    * Recent News - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:15](https://youtu.be/nxRGr3DHn8U?t=555)
+* Demo - Automatically generate technical documentation of your Power Apps and Power Automate Flows - [Rene Modery](https://twitter.com/modery) (WPP) \| @modery – [11:08](https://youtu.be/nxRGr3DHn8U?t=668)
+* Demo - Streamline Annual Document Reviews with Power Apps - [Heidi Jordan](https://twitter.com/heidi_jordan14) (High Plains Technology) \| @heidi_jordan14 – [28:45](https://youtu.be/nxRGr3DHn8U?t=1725)
 * Demo - Power Platform + Microsoft Teams: Create a "back-channel"​ internal chat for any meeting - [Amber Weise](https://www.linkedin.com/in/amberweise/) (Microsoft) \| linkedin.com/in/amberweise/ – [43:00](https://youtu.be/nxRGr3DHn8U?t=2580)
 
 ## Actions
 
-* Register for [Microsoft Build](http://register.build.microsoft.com) \| May 24-26, 2022
+* Register for [Microsoft Build](https://register.build.microsoft.com) \| May 24-26, 2022
 * Check out the [SCOTTISH SUMMIT 2022](https://scottishsummit.com/) – June 10th – 11th 2022
 * emPOWER everyone - register for the [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) – Orlando, Florida, September 18 – 23, 2022
 * Next meeting - [Power Addicts Hangout](https://wearepoweraddicts.com) – TBD

@@ -12,7 +12,7 @@ type: "regular"
 
 This is already the third part of my little series on what it takes to
 do the[ Microsoft Graph Fundamentals Learning
-Path](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/) on
+Path](https://learn.microsoft.com/learn/paths/m365-msgraph-fundamentals/) on
 Microsoft Learn. If you missed [part
 1 ](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-1/)or
 [part
@@ -59,7 +59,7 @@ Let's do an exercise:
 
 ## Exercise - Use Microsoft Graph in your web application to retrieve a user's profile photo
 
-### build upon module 2 
+### build upon module 2
 
 As we are building upon the last module, we will not need to clone the
 repository again. The unit quickly walks us through the four primary

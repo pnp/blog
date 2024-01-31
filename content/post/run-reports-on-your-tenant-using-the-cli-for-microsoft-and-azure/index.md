@@ -18,7 +18,7 @@ Logic App, Azure Container Instances and the CLI for Microsoft 365 you
 can automate reporting and maintenance of your tenant.
 The goal is thus to generate some form of reporting on our tenant. There
 are a lot of [sample scripts
-available](https://pnp.github.io/cli-microsoft365/sample-scripts/ "CLI for Microsoft 365 sample scripts"),
+available](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction "CLI for Microsoft 365 sample scripts"),
 but we will start simple by reporting all deleted Office 365 Groups
 (this will include deleted Teams). Executing a report like that with the
 CLI for Microsoft 365 would be just a single line:  
@@ -40,7 +40,7 @@ well:
 
 If you are new to running Azure Containers and using Logic Apps there is
 a great [walkthrough on running sentiment analysis with Azure Container
-Instances](https://docs.microsoft.com/en-gb/samples/azure-samples/aci-logicapps-integration/aci-logicapps-integration/ "running sentiment analysis with Azure Container Instances ").
+Instances](https://learn.microsoft.com/en-gb/samples/azure-samples/aci-logicapps-integration/aci-logicapps-integration/ "running sentiment analysis with Azure Container Instances ").
 But let us get started with the first step.
 
 Create an Azure Resource Group
@@ -71,7 +71,7 @@ need with the following snippet: 
 ```bash
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Sites.Read.All"
 m365 aad approleassignment add --displayName "ma-cli-test" --resource "Office 365 SharePoint Online" --scope "Sites.Manage.All"
-m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Group.Read.All" 
+m365 aad approleassignment add --displayName "ma-cli-test" --resource "Microsoft Graph" --scope "Group.Read.All"
 ```
  
 
@@ -164,7 +164,7 @@ you are done. 
  
 
 ``` {.lia-code-sample .language-applescript}
-m365 login --authType identity --userName 00000000-0000-0000-0000-000000000000 
+m365 login --authType identity --userName 00000000-0000-0000-0000-000000000000
 m365 aad o365group recyclebinitem list --output json
 ```
  

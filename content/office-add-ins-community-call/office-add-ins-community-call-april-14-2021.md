@@ -13,7 +13,7 @@ type: "regular"
 
 ## Call summary
 
- 
+
 
 April's call, hosted by **David Chesnut**, featured the following
 presenters and topics:\
@@ -30,13 +30,13 @@ To watch the call, tap the following link.
 YouTube](https://www.youtube.com/watch?v=hGVdftCzs20)
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 We welcome you to submit questions and topic suggestions prior to each
 call by using our short [survey form](https://aka.ms/officeaddinsform).
 
-### Support options 
+### Support options
 
 **When we try to open tickets in the admin center regarding SharePoint
 Development they are getting immediately closed with the comment \"we
@@ -53,7 +53,7 @@ support, and does not include developer support. You can get help with
 developer questions at Microsoft Q&A for Office Add-ins, or at Stack
 Overflow \[office-js\].
 
-### Office Scripts 
+### Office Scripts
 
 
 **ServiceHub is not enabled for my Enterprise ID. Is it possible for an
@@ -67,7 +67,7 @@ family accounts or just Enterprise?**\
 Currently, Office Scripts are only available on Enterprise, though
 we're exploring expanding availability to other licenses.
 
-### Miscellaneous questions 
+### Miscellaneous questions
 
 **When will the current Outlook preview requirement set, including
 event-based activation, be available in production?**\
@@ -91,7 +91,7 @@ There is a code approach used in [GitHub issue 483 in
 office-js](https://github.com/OfficeDev/office-js/issues/483#issuecomment-490592291)
 that may help you. If that doesn't work for your scenario, please post a
 question with more information at [Microsoft Q&A: Office JavaScript
-API](https://docs.microsoft.com/answers/topics/office-js-dev.html).
+API](https://learn.microsoft.com/answers/topics/office-js-dev.html).
 **In Excel custom functions, is there a way to pause the calculations
 and resume later (other than setting calculation mode to manual)? End
 users want to pass an additional flag to the custom function that
@@ -132,7 +132,7 @@ If you're Outlook add-in is basically a single-page app (SPA) this
 tutorial will help you call the Microsoft Graph API from the add-in:
 [Tutorial: Create a JavaScript single-page app that uses auth code
 flow - Microsoft identity
-platform\...](https://docs.microsoft.com/azure/active-directory/develop/tutorial-v2-javascript-auth-code).
+platform\...](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-javascript-auth-code).
 There are also additional Microsoft Graph samples at
 [https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/2-W\...](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/tree/master/2-WebApp-graph-user)\
 **When will Outlook sideload and debug from VS Code (as demoed in
@@ -141,9 +141,9 @@ This feature is available, but there is an issue that prevents it from
 working in all scenarios. We're working to get a fix out soon.
 
 
-## Resources 
+## Resources
 
-### Microsoft 365 support 
+### Microsoft 365 support
 
 -   [Premier Services in CSS Unified
     Support](https://serviceshub.microsoft.com/)
@@ -151,16 +151,16 @@ working in all scenarios. We're working to get a fix out soon.
     Portal](https://admin.microsoft.com/)
 -   Community and Q+A Answer Forums
     -   <https://developer.microsoft.com/office/blogs/>
-    -   <https://docs.microsoft.com/answers/topics/office-addins-dev.html>
+    -   <https://learn.microsoft.com/answers/topics/office-addins-dev.html>
     -   <https://stackoverflow.com>
 -   [Troubleshoot development errors with Office
-    Add-ins](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-development-errors)\
+    Add-ins](https://learn.microsoft.com/office/dev/add-ins/testing/troubleshoot-development-errors)\
     [Troubleshoot user errors with Office
-    Add-ins](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)\
+    Add-ins](https://learn.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)\
     [Resource limits and performance optimization for Office
-    Add-ins](https://docs.microsoft.com/office/dev/add-ins/concepts/resource-limits-and-performance-optimization)
+    Add-ins](https://learn.microsoft.com/office/dev/add-ins/concepts/resource-limits-and-performance-optimization)
 
-### Office Scripts demo by Leslie Black 
+### Office Scripts demo by Leslie Black
 
 -   Source for TICTACUFOGame:
     <https://github.com/MrAnalyticals/OfficeScripts/tree/main/TICTACUFOGame>
@@ -171,14 +171,14 @@ working in all scenarios. We're working to get a fix out soon.
 -   Analysis Cloud Limited, The Irish Cloud Company:
     [www.analysis.ie](http://www.analysis.ie)
 
-### PnP: Outlook set signature 
+### PnP: Outlook set signature
 
 -   Sample code:
     <https://github.com/OfficeDev/PnP-OfficeAddins/tree/master/Samples/outlook-set-signature>
 -   [Configure your Outlook add-in for event-based
-    activation](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch)
+    activation](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch)
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -187,11 +187,11 @@ working in all scenarios. We're working to get a fix out soon.
 -   Community call recordings on [Microsoft 365
     developer YouTube](https://aka.ms/OfficeDevYouTube)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub (office-js
     repo)](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform

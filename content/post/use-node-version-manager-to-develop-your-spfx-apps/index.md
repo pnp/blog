@@ -12,7 +12,7 @@ summary: "To develop applications for SharePoint or Microsoft Teams with the SPF
 ---
 
 To develop applications for SharePoint or Microsoft Teams with the [SPFx
-framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview "Overview of the SharePoint Framework"),
+framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview "Overview of the SharePoint Framework"),
 a few requirements must be met on your development computer. Learn how
 to install the supported Node.js v10.x version and how you can use other
 Node.js versions additionally with Node Version
@@ -26,7 +26,7 @@ SharePoint Server 2019 or SharePoint Online with the SPFx framework, you
 need to have **Node.js LTS v10.x.x** installed (LTS stands for Long Time
 Support). You can find all the requirements at [Set up your SharePoint
 Framework development
-environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment). For
+environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment). For
 developing other web applications, e.g. when using frameworks such
 as Angular, you might need other versions of Node.js installed.
 
@@ -42,7 +42,7 @@ your custom SharePoint app using the provided tools.
 First, follow the steps here to install the Node.js frameworks on your
 machine. Alternatively, there´s a good description at [Set up your
 Node.js development environment directly on
-Windows](https://docs.microsoft.com/windows/nodejs/setup-on-windows "https://docs.microsoft.com/windows/nodejs/setup-on-windows").
+Windows](https://learn.microsoft.com/windows/nodejs/setup-on-windows "https://learn.microsoft.com/windows/nodejs/setup-on-windows").
 
 If you already have installed other Node.js versions, it´s a good idea
 to remove existing versions in the Windows Apps & Features settings.
@@ -138,12 +138,12 @@ That´s the basic installation of Node.js and
 ## Install the SPFx development tools once
 
 To install the required tools
-[yo](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-yeoman)
+[yo](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-yeoman)
 *with the sharepoint generator* and
-[gulp](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-gulp)
+[gulp](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#install-gulp)
 and for SharePoint development, we follow the steps at [Set up your
 SharePoint Framework development
-environment](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment).
+environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment).
 Here are the commands to run in a PowerShell console: First, switch to
 Node.js v10, confirm, (check the current version), and install the tools
 with npm.
@@ -159,7 +159,7 @@ npm install gulp yo @microsoft/generator-sharepoint --global
 
 To create a new SPFx app, follow the steps described at [Build your
 first SharePoint client-side web part (Hello World part
-1)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part").
+1)](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part").
 In a new directory, run
 
 ```bash
@@ -170,7 +170,7 @@ yo @microsoft/sharepoint
 
 You need to trust the development self-signed SSL certificate as
 described at [Trusting the self-signed developer
-certificate](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate)
+certificate](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment#trusting-the-self-signed-developer-certificate)
 here. Then, you can open the workbench with SSL.
 
 ```bash
@@ -220,25 +220,25 @@ gulp package-solution --ship
 
 to create the `\sharepoint\solution\<project>.sppkg` file that can
 be uploaded to the [SharePoint App
-catalog](https://docs.microsoft.com/sharepoint/use-app-catalog?redirectSourcePath=%252farticle%252fuse-the-app-catalog-to-make-custom-business-apps-available-for-your-sharepoint-online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0).
+catalog](https://learn.microsoft.com/sharepoint/use-app-catalog?redirectSourcePath=%252farticle%252fuse-the-app-catalog-to-make-custom-business-apps-available-for-your-sharepoint-online-environment-0b6ab336-8b83-423f-a06b-bcc52861cba0).
 
 ## Develop the solution
 
 You can follow the next steps to develop the app described here:
 
 -   [Build your first SharePoint client-side web part (Hello World part
-    1)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part")
+    1)](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part "https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part")
 
 -   [Connect your client-side web part to SharePoint (Hello World part
-    2)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint")
+    2)](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint "https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint")
 
 -   [Deploy your client-side web part to a SharePoint page (Hello World
     part
-    3)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint")
+    3)](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint "https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint")
 
 -   [Host your client-side web part from Microsoft 365 CDN (Hello World
     part
-    4)](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn")
+    4)](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn "https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/hosting-webpart-from-office-365-cdn")
 
 ## Switch as required with nvm
 

@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=v9QXEIpLerc
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based [Daniel Laskewitz](https://twitter.com/laskewitz), Microsoft Senior Cloud Developer Advocate – Power Platform \| @laskewitz
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Netherlands-based [Daniel Laskewitz](https://twitter.com/laskewitz), Microsoft Senior Cloud Developer Advocate – Power Platform \| @laskewitz
 
 ## Topics discussed in this session
 
@@ -27,14 +27,14 @@ In this installment of the weekly discussion revolving around the latest news an
 
 ## Resources referenced during discussion
 
-* Documentation - [Overview of Microsoft Power Platform pro development 2021 release wave 1](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
-* Documentation - [Fusion development in Power Platform](https://docs.microsoft.com/power-platform/developer/fusion-development)
-* Video - [Listen to the WHY of the Power Platform with Charles Lamanna](https://docs.microsoft.com/shows/less-code-more-power/listen-to-the-why-of-the-power-platform-with-charles-lamanna)
-* Newsletter - [Power Platform Developers Weekly](https://www.powerplatformdevelopersweekly.com/)
+* Documentation - [Overview of Microsoft Power Platform pro development 2021 release wave 1](https://learn.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
+* Documentation - [Fusion development in Power Platform](https://learn.microsoft.com/power-platform/developer/fusion-development)
+* Video - [Listen to the WHY of the Power Platform with Charles Lamanna](https://learn.microsoft.com/shows/less-code-more-power/listen-to-the-why-of-the-power-platform-with-charles-lamanna)
+* Newsletter - [Power Platform Developers Weekly](https://www.ppdevweekly.com/)
 * Newsletter - [Power Platform Weekly](https://www.ppweekly.com/)
-* Documentation - [Rich pro developer tooling](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
+* Documentation - [Rich pro developer tooling](https://learn.microsoft.com/power-platform-release-plan/2021wave1/power-platform-pro-development/rich-pro-developer-tooling)
 * Training - [FastTrack Recognized Solution Architects—Power Platform](https://powerplatform.microsoft.com/fasttrack/recognized-solution-architects/)
-* Documentation - [Microsoft Teams JavaScript client SDK](https://docs.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
+* Documentation - [Microsoft Teams JavaScript client SDK](https://learn.microsoft.com/javascript/api/overview/msteams-client?view=msteams-client-js-latest)
 
 
 Also, we showcased 15 articles/videos published by Microsoft and the PnP Community in the last week.
@@ -56,10 +56,10 @@ This session was recorded on Monday, August 29, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube v9QXEIpLerc >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-dc4ui-12aef1a >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-dc4ui-12aef1a >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -78,12 +78,12 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [CLI for Microsoft 365 v5.7](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v5-7/) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) - @Adam25858782
 * [Series: Build Power Apps that don't look like Power Apps - Material Design part](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-1/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
-* [Use Microsoft Graph delta approach to increase performance getting SharePoint list items](https://mmsharepoint.wordpress.com/2022/08/22/use-microsoft-graph-delta-approach-to-increase-performance-getting-sharepoint-list-items/) - [Markus Moeller](http://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
+* [Use Microsoft Graph delta approach to increase performance getting SharePoint list items](https://mmsharepoint.wordpress.com/2022/08/22/use-microsoft-graph-delta-approach-to-increase-performance-getting-sharepoint-list-items/) - [Markus Moeller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Getting notified of service incidents in Microsoft Teams](https://www.blimped.nl/getting-notified-of-service-incidents-in-microsoft-teams/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) | @Martinlingstuy
-* [Episode #219 - Using the Search Filters Web Part of PnP Modern Search](https://www.youtube.com/watch?v=Sl0dcgd70Q4) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Episode #219 - Using the Search Filters Web Part of PnP Modern Search](https://www.youtube.com/watch?v=Sl0dcgd70Q4) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Getting Started with Microsoft Graph and PowerShell](https://www.youtube.com/watch?v=oilylijvbic) - [Travis Roberts](https://twitter.com/Ciraltos) (RBA) | @Ciraltos
 * [Let’s go! Learn SPFx Today! | Build a webpart using PnP and ReactJS - INTRODUCTION PART 2 of 5](https://www.youtube.com/watch?v=smBPrsw_Y7U) - [Rob Pearmain](https://twitter.com/robertpearmain) (yorcloud) | @robertpearmain
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -92,4 +92,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

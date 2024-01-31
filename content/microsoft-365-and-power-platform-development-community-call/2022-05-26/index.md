@@ -30,8 +30,8 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - v2.5.2 GA
     * [PnP PowerShell](https://github.com/pnp/PnP-PowerShell) - released new Docker image, new commands, and bug fixes
 * Script samples
-    * New scenario - [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html?tabs=cli-m365-ps) - [Albert-Jan Schot](http://twitter.com/appieschot) \| @appieschot
-    * 2 New scenarios - [SharePoint Online Hub Site Association *(SPO MS + PnP PS)*](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html?tabs=pnpps) - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
+    * New scenario - [Planner migration to SharePoint list](https://pnp.github.io/script-samples/planner-migration-spo-list/README.html?tabs=cli-m365-ps) - [Albert-Jan Schot](https://twitter.com/appieschot) \| @appieschot
+    * 2 New scenarios - [SharePoint Online Hub Site Association *(SPO MS + PnP PS)*](https://pnp.github.io/script-samples/spo-hub-sites-association/README.html?tabs=pnpps) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
 * Microsoft 365 PnP Weekly – Episode 167 (May 23rd) with Helsinki-based software engineer, PowerShell maintainer and Office Apps and Services MVP Gautam Sheth (Valo Solutions) \| @gautamdsheth. \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-167/) \| [podcast](https://www.podbean.com/media/share/pb-2jtm9-1232f34)
 
 ### Demos
@@ -40,7 +40,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph** – the new secure and customizable alternative to Microsoft Purview Insider Risk Management uses Microsoft Graph subscriptions for email (and other event) notifications and Azure.Messaging.EventHub as an incident reporting end-point. See how to create an EventHub and configure policies. Essentially 2 policies - Graph can only send to my EventHub and my custom code can only listen to my Event Hub! Solution uses an Azure Durable Function.
 * **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo** – see use of TeamsFx for scaffolding a Teams Tab as a Blazor project, use Entity Framework Core to manage data in SQLite, use C\# Source Code Generators to auto create service classes, usage of Mezaiantou’s generic forms for Blazor, and use of the generators to also create razor components. This demo assumes familiarity of building TeamsFx apps, covered in previous PnP demos.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -48,16 +48,16 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Paolo Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:20](https://youtu.be/Yx9-HUaJsak?t=320)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [6:57](https://youtu.be/Yx9-HUaJsak?t=417)
-* yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt – [8:29](https://youtu.be/Yx9-HUaJsak?t=509)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [9:25](https://youtu.be/Yx9-HUaJsak?t=565)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [10:24](https://youtu.be/Yx9-HUaJsak?t=624)
-* Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [12:06](https://youtu.be/Yx9-HUaJsak?t=726)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [13:02](https://youtu.be/Yx9-HUaJsak?t=782)
-* Demo - Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads – [Miguel Verweij](http://twitter.com/MiguelVerweij) (Sogeti) \| @MiguelVerweij & [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [14:47](https://youtu.be/Yx9-HUaJsak?t=887)
-* Dwmo - Data Loss Prevention (DLP) solution for emails with Microsoft Graph – [Rick Van Rousselt](http://twitter.com/RickVanRousselt) (Advantive) \| @RickVanRousselt – [22:36](https://youtu.be/Yx9-HUaJsak?t=1356)
-* Demo - TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo – [Thomy Gölles](http://twitter.com/thomyg) (Solvion) \| @thomyg – [39:02](https://youtu.be/Yx9-HUaJsak?t=2342)
+* PnP .NET library updates - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:20](https://youtu.be/Yx9-HUaJsak?t=320)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [6:57](https://youtu.be/Yx9-HUaJsak?t=417)
+* yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt – [8:29](https://youtu.be/Yx9-HUaJsak?t=509)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [9:25](https://youtu.be/Yx9-HUaJsak?t=565)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [10:24](https://youtu.be/Yx9-HUaJsak?t=624)
+* Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) \| @Bob1German – [12:06](https://youtu.be/Yx9-HUaJsak?t=726)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [13:02](https://youtu.be/Yx9-HUaJsak?t=782)
+* Demo - Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads – [Miguel Verweij](https://twitter.com/MiguelVerweij) (Sogeti) \| @MiguelVerweij & [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [14:47](https://youtu.be/Yx9-HUaJsak?t=887)
+* Dwmo - Data Loss Prevention (DLP) solution for emails with Microsoft Graph – [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) \| @RickVanRousselt – [22:36](https://youtu.be/Yx9-HUaJsak?t=1356)
+* Demo - TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo – [Thomy Gölles](https://twitter.com/thomyg) (Solvion) \| @thomyg – [39:02](https://youtu.be/Yx9-HUaJsak?t=2342)
 
 
 ## Actions
@@ -82,14 +82,14 @@ call.
 ## Demo references
 
 * **Introduction on getting stared on building Independent Publishing Connectors – Case Netherland Railroads**
-    * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/nederlandsespoorweip/)
+    * Documentation - [Nederlandse Spoorwegen (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/nederlandsespoorweip/)
     * Repo - [Nederlandse Spoorwegen](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Nederlandse%20Spoorwegen)
     * Blog - [Power Platform Challenge 004](https://www.powerplatformchallenge.com/post/challenge-004)
     * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Miro)
 * **Data Loss Prevention (DLP) solution for emails with Microsoft Graph**
-    * Documentation – [Get change notifications delivered in different ways](https://docs.microsoft.com/graph/change-notifications-delivery)
-    * Documentation - [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://docs.microsoft.com/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
-    * Documentation - [Azure Durable Functions documentation](https://docs.microsoft.com/azure/azure-functions/durable/)
+    * Documentation – [Get change notifications delivered in different ways](https://learn.microsoft.com/graph/change-notifications-delivery)
+    * Documentation - [Send events to and receive events from Azure Event Hubs - .NET (Azure.Messaging.EventHubs)](https://learn.microsoft.com/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+    * Documentation - [Azure Durable Functions documentation](https://learn.microsoft.com/azure/azure-functions/durable/)
 * **TeamsFx .NET - Use SQLite and generic forms for your next Teams Dev demo**
     * Repo – [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio)
     * Forms - [Meziantou’s Blog](https://www.meziantou.net)
@@ -104,7 +104,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|Many bug fixes, also in progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1|Version 4.0 is imminent – pending an issue with the new Teams JS SDK
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.2
