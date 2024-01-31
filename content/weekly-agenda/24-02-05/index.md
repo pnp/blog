@@ -1,17 +1,17 @@
 ---
-title: Weekly Agenda - 29th of January 2024 week
-date: 2024-01-26T02:34:53.731Z
+title: Weekly Agenda - 5th of February 2024 week
+date: 2024-01-30T15:22:27.507Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary05.png
+  - images/weeklysummary06.png
 tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -22,38 +22,32 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 30th of January
+### Microsoft 365 & Power Platform weekly call - 6th of February
 
-* Tuesday, 30th of January 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 6th of February 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) - Extend Copilot for Microsoft 365: Build a message extension plugin to access SharePoint Online list data in real-time using C# and .NET
-* [Reid Carlberg](https://www.linkedin.com/in/reidcarlberg/) (Microsoft) - Introducing SharePoint Embedded
-* [Loki Meyburg](https://www.linkedin.com/in/lokimeyburg/) (Microsoft) & [Ryan Bliss](https://www.linkedin.com/in/ryanbliss/) (Microsoft) - Changes to the Website tab in the new Microsoft Teams client
+* Mark Windle (Microsoft) - Getting started with SharePoint Embedded
+* [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs - Extend Copilot for Microsoft 365: Ingest GitHub repositories and issues using Python
+* [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft) - Introduction to Microsoft Copilot Studio
+
 
 ---
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 1st of February
+### Microsoft 365 & Power Platform bi-weekly community Call - 8th of February
 
-* Thursday, 1st of February 2024, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 8th of February 2024, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-<<<<<<< HEAD
-* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_ - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
-* [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0- Creating Teams Meetings and install Teams Meeting App + custom data​
-* [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Tips & Tricks
-=======
-* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
-* [Markus Möller](https://www.linkedin.com/in/markus-moeller-25b72821/) (Avanade) - Creating Teams Meetings and install Teams Meeting App + custom data​
-* [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) - List Formatting Tips & Tricks
->>>>>>> f63c90f2234f913e57054c33ceda3e255a1da592
-
+* [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell - SharePoint Add-in model retired - What you need to know!​
+* Olga Staszek (Hapag-Lloyd) -  Introduction to the Custom SharePoint Section Templates solution
+* [Luis Mañez](https://twitter.com/luismanez) (ClearPeople) | @luismanez - Calling Azure OpenAI API in Stream mode from an SPFx webpart
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -65,25 +59,24 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Manage quick links and left Navigation settings in SharePoint using PowerShell](https://www.youtube.com/watch?v=LloOsnI9858) by [Naveen Rajdev](https://www.linkedin.com/in/naveen-rajdev-44529535/) (Velrada)
-* [Debug API requests with Microsoft 365 Developer Proxy and Chrome DevTools](https://www.youtube.com/watch?v=LO82Uv0c22U) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft)
-* [Maturity Model for Microsoft 365 - January 2024](https://www.youtube.com/watch?v=mzxKVtOwMpI)
-* [Extend Copilot for Microsoft 365 with plugins](https://www.youtube.com/watch?v=ePLgSsje4Fw) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
-* [Microsoft 365 PnP Weekly – Episode 233 – Stephan van Rooij](https://www.youtube.com/watch?v=Y6stCc4H-SM) with [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/)
-* [Using Microsoft Graph to retrieve Files, Chats, and Sending Messages to Teams](https://www.youtube.com/watch?v=pkph3eDMG9k) by [Dan Wahlin](https://www.linkedin.com/in/danwahlin/) (Microsoft)
-* [Automate recruitment process with AI and Power Platform](https://www.youtube.com/watch?v=HWV_ufdmuQ4) by [Daniel Kerridge](https://www.linkedin.com/in/danielkerridge/) & [Isabelle Gaboc](https://www.linkedin.com/in/isabellegaboc/)
+* [Extend Copilot for Microsoft 365 with Graph connectors](https://www.youtube.com/watch?v=GSgRSqkntnI) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
+* [Introduction to new Viva Connections Desktop experience - January 2024](https://www.youtube.com/watch?v=yIT4E5j_JJA) by Nancy Handa (Microsoft), Leslie Thomas (Microsoft) and [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
+* [Start with out-of-the-box list definitions and extend based on your requirements](https://www.youtube.com/watch?v=HoHBJ_iA20c) by [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent
+* [Teaching Accelerator with AI - built with Power Platform](https://www.youtube.com/watch?v=ofhDwvCLWOQ) by Elliot Fraser (ClearBank)
+
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Pages Docusign e-signature | Power Platform Shorts](https://www.youtube.com/watch?v=xvxspc-jLDE)
+* [Credentials in Power Automate - Effortless password rotations](https://www.youtube.com/watch?v=Meqw4d_GMP8)
+* [Power Automate Process Mining | Power Platform Shorts](https://www.youtube.com/watch?v=bvr27m8Ql_s)
+
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
-* [Collaborative Healthcare with Live Patient Review](https://www.youtube.com/watch?v=Ga2fPTd4X8E) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) and [Robert Schouten](https://www.linkedin.com/in/rfjschouten/)
-* [Create and live preview your adaptive cards for Teams](https://www.youtube.com/watch?v=RzI1DINaSzM)
-* [Mesh 101: Prepare the Project](https://www.youtube.com/watch?v=snvNgvZIO4E)
+* [Mesh 101: Interactivity and Mesh Visual Scripting](https://www.youtube.com/watch?v=T603w_-QztE)
+* [Unleashing the potential of Teams Toolkit for seamless automation](https://www.youtube.com/watch?v=twxTDQxae1E)
+
 
 ---
 
@@ -91,15 +84,20 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [A pro-code guide to build your custom copilot faster](https://devblogs.microsoft.com/microsoft365dev/a-pro-code-guide-to-build-your-custom-copilot-faster/) by Joey Glocke (Microsoft), Carter Gilliam (Microsoft), Ankit Govil (Microsoft)
-* [New Microsoft Graph callRecords API capabilities](https://devblogs.microsoft.com/microsoft365dev/new-microsoft-graph-callrecords-api-capabilities/) by Matthew McGrath (Microsoft)
+* [Make your Office Add-in successful by harnessing free Microsoft Partner programs!](https://devblogs.microsoft.com/microsoft365dev/make-your-office-add-in-successful-by-harnessing-free-microsoft-partner-programs/) by  Steve Jin (Microsoft)
+* [Upcoming updates to loading websites in Teams tabs](https://devblogs.microsoft.com/microsoft365dev/upcoming-updates-to-loading-websites-in-teams-tabs/) by Loki Meyburg (Microsoft)
+* [Stay ahead of the game with the latest updates to the Microsoft 365 Developer Program](https://devblogs.microsoft.com/microsoft365dev/stay-ahead-of-the-game-with-the-latest-updates-to-the-microsoft-365-developer-program/) by Kelly Bowen-McCombs (Microsoft)
+* [Teams Toolkit for Visual Studio Code update – January 2024](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-january-2024/) by Junjie Li (Microsoft) 
+
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 233 - Stephan van Rooij](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-233/) with [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/)
+* [CLI for Microsoft 365 v7.4](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v7-4/) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert  
+* [Microsoft 365 PnP Weekly - Episode 234 - Ejaz Hussain](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-234/)
+* [How to add record with pac power-fx](https://pnp.github.io/blog/post/how-to-add-record-with-pac-power-fx/) by [Andrzej Bożyk](https://twitter.com/BozykAndrzej) | BozykAndrzej
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -109,9 +107,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections and SharePoint Framework community call 11th of January 2024](https://www.youtube.com/watch?v=onn4-J6XprM)
-* [Microsoft 365 & Power Platform weekly call – 23rd of January, 2024](https://www.youtube.com/watch?v=r4d7di9GbmM)
-* [Office Add-ins community call – January 2024](https://www.youtube.com/watch?v=puCPsUZVT2U)
+* [Viva Connections and SharePoint Framework community call 25th of January 2024](https://www.youtube.com/watch?v=onn4-J6XprM)
+
 
 ---
 
@@ -150,9 +147,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [AMS Luxembourg 2024](https://communitydays.org/event/2024-01-30/ams-luxembourg-2024) - January 30, 2024 - Luxembourg
-* [Cloud Technology Townhall Tallinn 2024](https://www.communitydays.org/event/2024-02-01/cloud-technology-townhall-tallinn-2024) - February 1-2, 2024 - Tallinn, Estonia
-* [Microsoft 365 Community Day Miami](https://www.communitydays.org/event/2024-02-02/microsoft-365-community-day-miami) - February 2-3, 2024 - Miami, FL, USA
 * [M365 Community Days at Sea 2024](https://www.communitydays.org/event/2024-02-04/m365-community-days-at-sea-2024) - February 4-11, 2024, Royal Caribbean Oasis of the Seas, USA
 * [M365 Saturday DC - A Community Day Event](https://www.communitydays.org/event/2024-02-10/m365-saturday-dc-a-community-day-event) - February 10, 2024 - Reston, VA, USA
 * [M365 Revival](https://www.communitydays.org/event/2024-02-15/m365-revival) - February 15, 2024 - Oslo, Norway
