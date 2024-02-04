@@ -14,34 +14,54 @@ tags: [Power Apps]
 type: "regular"
 ---
 
-[Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) is not officially available, but can be experimented with now by adding the following URL flag with the new look enabled:
+## Dark Mode
+
+Dark mode has become increasingly popular in software applications, providing a sleek and eye-friendly alternative to the traditional light theme. While it’s not officially available for model-driven apps, you can experiment with it by adding a simple URL flag. In this post, we’ll delve into the impact of dark mode on choice colours within model-driven app views.
+
+## Enabling Dark Mode
+
+To enable [Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) add the following URL flag to your model-driven app’s URL:
 
 ```
 &flags=themeOption%3Ddarkmode
 ```
 
-[Megan Walker's blog post](https://meganvwalker.com/grid-components-in-model-driven-apps-d365/) shows how choice colours are set up and used in model-driven app views. But, how will dark mode impact this?
+## Colour Readability in Dark Mode
 
-Potentially it could make some colors difficult to read if light colours are used:
+### Pastel Colours
+
+[Megan Walker's blog post](https://meganvwalker.com/grid-components-in-model-driven-apps-d365/) shows how choice colours are set up and used in model-driven app views. But how will dark mode impact this?
+
+Potentially it could make some colours difficult to read if light / pastel colours are used:
 
 ![Pastel colours](images/pastel.png)
 
-In order to make choices readable in both light and dark mode, a mid-range colour is better:
+### Mid-Range Colours
 
-![Mid range colour](images/mid-range.png)
+For optimal readability across both light and dark modes, mid-range colours are your best bet. These colours strike a balance, maintaining visibility in both modes:
+
+![Mid-range colour](images/mid-range.png)
+
+### Special Cases
 
 There are some special cases that need to be taken into account:
 
-- White text doesn't show very well against a yellow background, so a darker shade is needed:
+- White text tends to disappear against a yellow background in dark mode. To address this, choose a darker shade of yellow. It ensures that the text remains visible:
 
 ![Darker shade of yellow](images/yellow.png)
 
-- Black text doesn't show very well against a blue background, so a lighter shade is needed:
+- Conversely, black text can get lost against a blue background. Opt for a lighter shade of blue to maintain readability. Finding the right balance ensures that your content stands out regardless of the mode:
 
 ![Lighter shade of blue](images/blue.png)
+
+## Achieving Balance
 
 This gives:
 
 ![Balanced colours](images/balanced.png)
 
-I've found that it takes a number of iterations to get a good balance over both modes.
+Striking the right balance between light and dark mode requires iteration. Test your colour choices thoroughly to ensure they work well in both scenarios. A well-thought-out colour palette enhances the overall user experience.
+
+## Conclusions
+
+In summary, while dark mode introduces new challenges, thoughtful colour selection can create a harmonious and visually appealing app. Experiment, iterate, and find the sweet spot that works for your model-driven app!
