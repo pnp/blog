@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary05.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
 draft: false
@@ -44,16 +44,9 @@ Demos this time
 
 Demos this time
 
-<<<<<<< HEAD
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_ - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0- Creating Teams Meetings and install Teams Meeting App + custom data​
 * [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Tips & Tricks
-=======
-* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) - How to build Microsoft Graph Custom Connector for Microsoft Learn Catalog API
-* [Markus Möller](https://www.linkedin.com/in/markus-moeller-25b72821/) (Avanade) - Creating Teams Meetings and install Teams Meeting App + custom data​
-* [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) - List Formatting Tips & Tricks
->>>>>>> f63c90f2234f913e57054c33ceda3e255a1da592
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
