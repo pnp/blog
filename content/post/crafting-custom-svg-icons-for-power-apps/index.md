@@ -1,6 +1,6 @@
 ---
 title: "Crafting Custom SVG Icons for Power Apps"
-date: 2024-02-08T08:00:00-04:00
+date: 2025-02-08T08:00:00-04:00
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
