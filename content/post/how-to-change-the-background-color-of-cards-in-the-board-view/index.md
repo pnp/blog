@@ -21,16 +21,17 @@ The following describes how to change the background color of cards in the Board
 ## How to change the background color of cards in the Board View
 
 1. Open the Board view
-2. Select on the name of the view displayed on the command bar > Select **Customize Card**
+2. Select on the name of the view displayed on the command bar > Select **Format current view**
 
-    ![customize card button](./images/customize-card-button.png)
+    ![format current view button](./images/format-current-view-button.png)
 
-3. Select the columns you want to show on the card and uncheck the columns you do not want to show
-4. Select **Advance mode**
+3. Select **Edit card**
+4. Sort and show/hide content
+5. Select **Advance mode**
 
-    ![advance mode screen](./images/advance-mode-screen.png)
+    ![card designer](./images/card-designer.png)
 
-5. Edit the JSON
+6. Edit the JSON
 
    - If you want to set the background color of the cards by HTML color code or color name, add the following code to the div containing the `sp-card-subContainer` class (between lines 14 and 15).
 
@@ -68,10 +69,12 @@ The following describes how to change the background color of cards in the Board
 
         ![sample of editing class](./images/edit-class-sample.png)
 
-6. Select **Preview** to see if the background color of the cards has changed
-7. Select **Save**
+7. Select **Preview** to see if the background color of the cards has changed
+8. Select **Save**
 
 This completes the background color change of the cards!
+
+If you want to fix the JSON, select the name of the view displayed in the command bar, then select **Format current view** again.
 
 ## Additional notes
 
