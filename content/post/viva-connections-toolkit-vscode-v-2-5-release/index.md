@@ -53,8 +53,10 @@ We took this feature back to the whiteboard and reimagined this experience from 
 ![CICD new approach](images/CICD-new-approach.png)
 
 In the first step, we are required to provide some general info about the flow like the name of our pipeline or the name of the branch that will trigger the flow when we push new changes to it. Again all of those fields are already prefilled with defaults so we may just adjust what is needed.
+
 In the second step, we need to decide how our workflow will authenticate to our tenant. We may pick between `user` and `application` login methods. The Second one is the default and preferable approach that should be used in production environments. The `user` login method is good for a dev environment and will not work with accounts that have MFA (multifactor authentication). 
 Additionally, when we select the `application` login method we are given an option to generate a new certificate and create an Entra ID app registration with the required permissions. Previously this needed to be done manually by the dev and the guidance was present only in the extension wiki. Now not only do you get the guidance in the scaffolding form but you may even automate this step so you have less stuff to worry about 🚀.
+
 In the last (third) step we need to decide if the .sppkg package will be deployed to a tenant or site-level app catalog. When the site-level app catalog is picked we are presented with an additional field to pick (yes pick not write) the URL of one of the site-level app catalogs we have on our tenant. This is really cool as Viva Connections Toolkit is aware of your tenant all app catalogs so you don't need to worry about getting, copying, and pasting the correct URL.
 
 Check it out in action 👇
@@ -72,7 +74,7 @@ Last but not least it's worth mentioning that after you successfully generate th
 
 ![samples](images/samples.png)
 
-Previously Viva Connection Toolkit had 4 different sample galleries and we needed to know if we wanted a web part, extension, or ACE. In the real world that's not always the case. Usually, we are looking for the solution for our problem, inspiration, or a starting point to kick off our work. At the very start, it's not always important what kind of project it will be as long as it will get the job done. So we merged all of the sample galleries into one single, responsive, and dynamic gallery 💪.
+Previously Viva Connection Toolkit had 4 different sample galleries and we needed to know if we wanted a web part, extension, or ACE. In the real world that's not always the case. Usually, we are looking for the solution to our problem, inspiration, or a starting point to kick off our work. At the very start, it's not always important what kind of project it will be as long as it will get the job done. So we merged all of the sample galleries into one single, responsive, and dynamic gallery 💪.
 
 ![samples welcome](images/samples-welcome.png)
 
@@ -90,7 +92,7 @@ And the view is fully responsive to any size so don't worry about that 👍.
 
 ![samples-responsive](images/samples-responsive.png)
 
-Previously if you wanted to get more details about the sample you needed to use the `Repo` button to get redirected to the sample repository and check the readme file. This experience produced much confusion and unnecessary context switching so we got rid of that and introduced a new `View` button which will the details view, the same as you have in the project readme file, directly in VS Code.
+Previously if you wanted to get more details about the sample you needed to use the `Repo` button to get redirected to the sample repository and check the readme file. This experience produced much confusion and unnecessary context switching so we got rid of that and introduced a new `View` button which will show the details view, the same as you have in the project readme file, directly in VS Code.
 
 ![view](images/view.png)
 
