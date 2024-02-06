@@ -44,13 +44,13 @@ CI/CD workflow action allows you to quickly generate a YAML workflow file for Gi
 
 In this release, we did a total rebuild of the CI/CD workflow action. Previously the process of creating the workflow was based on answering questions presented by VS Code. 
 
-// old approach
+![CICD old approach](images/CICD-old-approach.png)
 
 This approach was confusing as it was not clear how many steps there were and what information would need to be provided to create a workflow. 
 
 We took this feature back to the whiteboard and reimagined this experience from scratch 🤩. Now the dev will see a clean form divided into 3 steps. Thanks to this it is easy to get a glance at all the possible options and required information needed for the workflow. At start the form is prefilled with default data based on our SPFx solution so it is even possible not to change any of the fields... yee, just click generate and that's enough to get a basic working YAML flow generated 🤯.
 
-// new approach
+![CICD new approach](images/CICD-new-approach.png)
 
 In the first step, we are required to provide some general info about the flow like the name of our pipeline or the name of the branch that will trigger the flow when we push new changes to it. Again all of those fields are already prefilled with defaults so we may just adjust what is needed.
 In the second step, we need to decide how our workflow will authenticate to our tenant. We may pick between `user` and `application` login methods. The Second one is the default and preferable approach that should be used in production environments. The `user` login method is good for a dev environment and will not work with accounts that have MFA (multifactor authentication). 
@@ -66,7 +66,7 @@ Last but not least it's worth mentioning that after you successfully generate th
 1. merge and push the YAML file to your repo
 2. add the required secrets, and if you generated the application and certificate using the workflow options you even get the table with the values and copy buttons
 
-// sum up
+![CICD summary](images/CICD-summary.png)
 
 ## 📄 Unified sample gallery
 
@@ -74,17 +74,17 @@ Last but not least it's worth mentioning that after you successfully generate th
 
 Previously Viva Connection Toolkit had 4 different sample galleries and we needed to know if we wanted a web part, extension, or ACE. In the real world that's not always the case. Usually, we are looking for the solution for our problem, inspiration, or a starting point to kick off our work. At the very start, it's not always important what kind of project it will be as long as it will get the job done. So we merged all of the sample galleries into one single, responsive, and dynamic gallery 💪.
 
-// samples welcome
+![samples welcome](images/samples-welcome.png)
 
 The new sample gallery allows you to browse all 400+ 🤯 samples from a single point all done by the Microsoft 365 and Power Platform community.
 
-// card view
+![card view](images/card-view.png)
 
 At the top of the gallery, you have additional filter fields which you may use to quickly find what you are looking for. Previously it was only possible to search by sample title. Now you may search by title, author, description, SPFx version, and component type. Additionally, you may set the view to show only scenarios. The scenario is a sample that has Code Tour guidance for the solution with step-by-step information on how to use the project.
 
 If the card view produces too much 'noise' you may change the view to list to get the minimum information on the screen. 
 
-// list
+![list](images/list.png)
 
 And the view is fully responsive to any size so don't worry about that 👍.
 
@@ -92,7 +92,7 @@ And the view is fully responsive to any size so don't worry about that 👍.
 
 Previously if you wanted to get more details about the sample you needed to use the `Repo` button to get redirected to the sample repository and check the readme file. This experience produced much confusion and unnecessary context switching so we got rid of that and introduced a new `View` button which will the details view, the same as you have in the project readme file, directly in VS Code.
 
-// view
+![view](images/view.png)
 
 BTW if you don't know this already the `Use` button allows you to create a new local project with a new name based on this sample 🤯, with a single click 😎
 
