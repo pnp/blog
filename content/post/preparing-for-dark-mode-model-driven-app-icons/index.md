@@ -14,9 +14,13 @@ tags: [Power Apps]
 type: "regular"
 ---
 
+## Dark Mode
+
+Dark mode has become increasingly popular in software applications, providing a sleek and eye-friendly alternative to the traditional light theme. While it’s not officially available for model-driven apps, you can experiment with it by adding a simple URL flag. In this post, we’ll delve into the impact of dark mode on icons in model-driven apps.
+
 ## Enabling Dark Mode
 
-In my [previous blog post on choice colours](https://pnp.github.io/blog/post/preparing-for-dark-mode-model-driven-app-choices/), for [dark mode in model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) I looked at how to adapt choice colours to work with both light and dark mode. While it's not officially available yet, you can experiment with it by adding a specific URL flag to enable the new alternative look:
+To enable [Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) add the following URL flag to your model-driven app’s URL:
 
 ```
 &flags=themeOption%3Ddarkmode
@@ -24,7 +28,7 @@ In my [previous blog post on choice colours](https://pnp.github.io/blog/post/pre
 
 ## Icons and Dark Mode
 
-The other immediate challenge is icons. When comparing light mode to dark mode in the sitemap navigation, we encounter issues with custom icons:
+One of the immediate challenges is icons. When comparing light mode to dark mode in the sitemap navigation, we encounter issues with custom icons:
 
 ![Original dark mode](images/original-mode.png)
 
