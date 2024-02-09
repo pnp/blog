@@ -62,63 +62,7 @@ The following sections will walk you through the available options, outlining di
 
 ![Extensibility optipns](./images/Extensibility.png)
 
-### Power Apps
+For a detailed summary of the above options, see the following articles:
 
-**In Power Apps, the execution of components can be both synchronous and asynchronous, depending on the specific functions and scenarios.**
-
-**There is no built-in transaction support in Power Apps itself. However, you can use stored procedures called from a Power Automate flow to achieve transaction-like behavior.**
-
-Placing business logic in the low-code application is simpler to build, test, and has a lower maintenance cost, but it provides **limited options for reuse or to enforce consistency** across apps and automations.
-Generally, you should limit this approach to **non–mission-critical, simple logic** that other applications or automations **don’t need** to use. Evaluate canvas components first and then use code components only if there is a need for more complex and advanced customization.
-
->Key developer extensibility points: Canvas Apps
->
->- Build custom UI components using Power Apps component framework
->- Create custom connectors to communicate to your external data sources and services. A custom connector is a wrapper around a REST API and can be created using tools like Azure Functions and Azure API Management
->
->Key developer extensibility points: Model-driven apps
->
->- Build custom UI components using Power Apps component framework
->- Implement client business logic using JavaScript and the client API
->- Build HTML web resources
->
->Key developer extensibility points: Power Pages
->
->- Custom web page templates built with HTML, CSS, and Liquid
->- Extend site integration with Dataverse with the portals Web API
->- Use Visual Studio Code and the Power Platform CLI to enable metadata editing and CI/CD (Continuous Integration/Continuous Deployment) of site configurations
->
->Source: [Introduction to Microsoft Power Platform for developers](https://learn.microsoft.com/en-us/power-platform/developer/get-started#power-apps)
-
-#### Summary of extensibility options in Power Apps
-
-![Extensibility options in Power Apps](./images/powerApps.png)
-
-**Canvas app formulas, model-driven form script, business rules, and Power Apps component framework** logic happens **in the user interface (cient-side)** and the user will see the result immediately.
-
-|||Canvas Apps|Model-driven Apps|[Custom Pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/design-page-for-model-app)|Power Pages|
-|-|-|-|-|-|-|
-|[Formulas - Power Apps](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference) |Power Fx|✅|✅|✅|❌|
-|[Script web resources](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/webpage-html-web-resources) |JavaScript |❌|✅|❌|❌|
-|[Low-code canvas components](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)<sup>*</sup> and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
-|[Low-code plugins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant) (preview)|Power Fx, Connectors|✅|👉|✅|❌|
-|[PowerApps component framework](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview) (PCF)|Typescript |✅|✅|✅|✅|
-|[React controls & platform libraries](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries) (preview)|TypeScript |✅|✅|✅|❌|
-|[Custom connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/) |openAPI  |✅|👉|✅|❌|
-|[Custom webpage templates](https://learn.microsoft.com/en-us/power-pages/configure/web-templates)|HTML, CSS, Liquid  |❌|❌|❌|✅|
-
-<sup>*</sup>Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.
-
-#### Formulas
-
-**Programming language**: Power Fx
-
-**Description**: [Formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference)
-
-|Approach|Programming language|Description|Constraints and Limitations|
-|-|-|-|-|
-|[Formulas - Power Apps](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference)|Power Fx|Formulas combine many elements, for example: <ul><li>**Functions**: take parameters, perform an operation, and return a value. Functions are modeled after Microsoft Excel functions. Some functions have side effects, such as `SubmitForm`, which are appropriate only in a [behavior formula](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas-in-depth) such as `Button.OnSelect`.</li><li>**Signals** return information **about the environment**. For example, `Location` returns the device's current GPS coordinates. Signals don't take parameters or have side effects.</li><li>**Enumerations** return a pre-defined constant value. For example, `Color` is an enumeration that has pre-defined values for `Color.Red`, `Color.Blue`, and so forth.</li><li>**Named operators**, such as `ThisItem` and `Self`, provide access to information from within a container.</li></ul>||
-|||||
-|||||
-|||||
-|||||
+|[Power Apps](powerApps.md)|[Power Automate](./PowerAutomate.md)|[Dataverse](Dataverse.md)|
+|-|-|-|
