@@ -5,7 +5,6 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/Extensibility.png
 tags: []
 type: "regular"
 ---
