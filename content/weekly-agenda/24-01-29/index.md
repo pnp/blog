@@ -48,6 +48,8 @@ Demos this time
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0- Creating Teams Meetings and install Teams Meeting App + custom data​
 * [Chris Kent](https://twitter.com/theChrisKent) (Takeda) | @TheChrisKent - List Formatting Tips & Tricks
 
+
+
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
