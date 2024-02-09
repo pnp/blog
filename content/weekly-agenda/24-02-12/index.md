@@ -30,8 +30,8 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German- Extend Copilot for Microsoft 365: Northwind Inventory sample 
-* [Mark Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - Getting started with SharePoint Embedded
+* [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German - Extend Copilot for Microsoft 365: Northwind Inventory sample 
+* [Mark Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - Manage, secure, and search content in SharePoint Embedded
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Getting started on using SharePoint content in custom Copilot created using Copilot Studio
 
 ---
@@ -97,8 +97,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Microsoft 365 PnP Weekly - Episode 235 - Nico De Cleyre](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-235/) with [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre
-* [[Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre]
-* [Viva Connections Toolkit v2.5.0 release](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-5-release/)
+* [Viva Connections Toolkit v2.5.0 release](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-5-release/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
