@@ -1,20 +1,12 @@
 ﻿---
-# this is the title
 title: "Power Platform? I'm a developer!"
-# this is the publishing date of your article, usually this should match "now"
 date: 2024-02-08T00:00:00-04:00
-# This is your name
 author: "Kinga Kazala"
-# This is your GitHub name
 githubname: kkazala
-# Don't change
 categories: ["Community post"]
-# Link to the thumbnail image for the post
 images:
-- images/myImage.png
-# don't change
+- images/Extensibility.png
 tags: []
-# don't change
 type: "regular"
 ---
 
