@@ -1,6 +1,6 @@
 ---
 title: "How to change the background color of cards in the Board View"
-date: 2024-02-05T00:00:00-00:00
+date: 2024-02-09T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
 categories: ["Community post"]
