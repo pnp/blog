@@ -118,8 +118,8 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 -   [Actually, It's Already In The SharePoint
     PageContext!](https://tipsbybits.com/other/actually-its-already-in-the-sharepoint-pagecontext/) -
     [Tips by Bits](https://twitter.com/TipsByBits) | @TipsByBits
--   [Implement Carousel in SPFx web part using
-    react-slick](https://knowledge-junction.com/2021/04/22/implement-carousel-in-spfx-webpart-using-react-slick/) -
+-   Implement Carousel in SPFx web part using
+    react-slick -
     [Prasham Sabadra](https://twitter.com/SabadraPrasham)
     | @SabadraPrasham
 -   [Monitoring Microsoft 365 using Raspberry Pi and M365
@@ -149,7 +149,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Additional resources
 
 -   [Maturity Model for Microsoft
-    365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
+    365](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro?WT.mc_id=m365-26913-wmastyka)
 -   [Microsoft 365 Community Survey](https://aka.ms/m365pnp/survey) -
     Open for April 2021 - please let us know how we can help to help
     you!

@@ -22,9 +22,9 @@ Caring](https://pnp.github.io/sharing-is-caring/).  At the same time,
 sign up for the [PnP Recognition
 Program](https://aka.ms/m365pnp-recognition).  
 - Heads down on PnP
-projects.  
+projects. 
 - Check out the TeamsFx authentication provider preview in
-**MGT**!  
+**MGT**! 
 - To see current releases and latest updates/nightly builds,
 access the Repos via the links in table below.  
 - There were 7 new/updated
@@ -37,7 +37,7 @@ Samples.
 (**Bold** indicates new this call)
 
 **Project**|**Current Version**|**Release/Status**
----|---|--- 
+---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework) |v1.8.0 GA with .NET 6.0 support added|Prepping v1.9
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.5.0 GA with .NET 6.0 support added|Prepping v1.6
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.9.0 GA|In progress: V2 POC, Prepping for v1.8, nightly releases
@@ -240,13 +240,13 @@ slides.
     generator](https://pnp.github.io/generator-teams/) 
 
 -   **D1**:  Documentation - [Single sign-on (SSO) support for
-    bots](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots) 
+    bots](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots) 
 
 -   **D2**:  List Formatting Samples - [List Formatting
     Samples](https://pnp.github.io/List-Formatting/) 
 
 -   **D3**:  Documentation - [GoQR (Independent Publisher)
-    (Preview)](https://docs.microsoft.com/connectors/goqr/) 
+    (Preview)](https://learn.microsoft.com/connectors/goqr/) 
 
 -   **D3**:  Repo --
     [GoQR](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/GoQR) 

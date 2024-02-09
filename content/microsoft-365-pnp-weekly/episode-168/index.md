@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](http://twitter.com/sebastienlevert) \| @sebastienlevert.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Montréal based Sr Product Manager on the Microsoft Graph team [Sébastien Levert](https://twitter.com/sebastienlevert) \| @sebastienlevert.
 
 ## Topics discussed in this session
 
@@ -24,7 +24,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * The most rewarding part of the job. Referenced - [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
 * Tips to prospective Product Managers.
 
-Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -38,10 +38,10 @@ This session was recorded on Monday, May 30, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 10aCVzFOirw >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-yvgjv-123b062 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -67,7 +67,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Episode #207 - Using the PnP Placeholder control in SPFx solutions](https://www.youtube.com/watch?v=vbuEARwoPu8)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps Express Design Overview - Create from Image and Figma](https://www.youtube.com/watch?v=UB5-BVEtAY0) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [AI Builder Invoice Processing for Power Apps and Power Automate](https://www.youtube.com/watch?v=ogFz7BbLfvc) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-  
+
 ## Additional resources
 
 

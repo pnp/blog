@@ -42,7 +42,7 @@ the array using an Expression.
 
 ## Enter to the room: the Power Automate first function
 
-which is used for retrieving the [first](https://docs.microsoft.com/azure/logic-apps/workflow-definition-language-functions-reference#first ) item from an array or string. Now we will
+which is used for retrieving the [first](https://learn.microsoft.com/azure/logic-apps/workflow-definition-language-functions-reference#first ) item from an array or string. Now we will
 delete the Apply to each loop from our Flow and then create a new
 Compose action where we will enter the following expression to access
 just the Title property of the list item without a loop.

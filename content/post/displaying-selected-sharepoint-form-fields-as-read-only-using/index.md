@@ -67,13 +67,13 @@ To add a custom header to the previous [Like/Dislike](https://michelcarlo.com/2
 
 To do it, click on the **‘New item’** option as in the previous step, but now select **‘Configure Layout’**:
 
-![thumbnail image 6 of blog post titled 
+![thumbnail image 6 of blog post titled
 Displaying selected SharePoint form fields as read-only using List Formatting
 ](images/layout.png)
 
 And add the JSON template for the Header (or Footer if you prefer to display the values in the Footer):
 
-![thumbnail image 7 of blog post titled 
+![thumbnail image 7 of blog post titled
 Displaying selected SharePoint form fields as read-only using List Formatting
 ](images/apply.png)
 
@@ -145,6 +145,4 @@ This trick makes it harder for people to edit the values in the form, however, i
 
 ## Additional References
 
-Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://docs.microsoft.com/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)
-
-
+Conditional formulas for form fields reference: [Show or hide columns in a list or library form](https://learn.microsoft.com/sharepoint/dev/declarative-customization/list-form-conditional-show-hide)

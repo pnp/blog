@@ -22,9 +22,9 @@ type: epic
 draft: true
 ---
 
-Microsoft 365 & Power Platform Community Summer (June, July, August) 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community Summer (June, July, August) 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.
 
-As we experience some expected slowness in samples and other contributions during summer time, we summarized the months June, July, and August in this issue of the summary. 
+As we experience some expected slowness in samples and other contributions during summer time, we summarized the months June, July, and August in this issue of the summary.
 
 >  *We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more.*
 
@@ -85,7 +85,7 @@ All of the cool samples for Microsoft 365 and Power Platform are listed in the u
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 & Power Platform customers, partners and obviously also at Microsoft.
 
-Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know. 
+Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know.
 
 {{< notice note>}}
 In this blog post we callout contributors in the Microsoft 365 & Power Platform community areas in the open-source projects, samples, videos, community calls etc. There are also countless fo awesome community members who are sharing their knowledge on daily basis in their own channels, which is a great option to contribute for others. Thank you all for that. Sharing is caring!
@@ -94,11 +94,11 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 ### Community people
 
 * Aaryan Arora
-* Abdul Wahab (Dynamics Technology Systems) 
+* Abdul Wahab (Dynamics Technology Systems)
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
 * Adrienne Kuatse (HCL)
 * [Ahamed Fazil Buhari (Fazil)](https://twitter.com/AhamedFazilB) | AhamedFazilB
-* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99 
+* [Ahmad Mozaffar](https://twitter.com/AhmadMozaffar99) | AhmadMozaffar99
 * [Aimery Thomas](https://twitter.com/aimery_thomas) | @aimery_thomas
 * [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS Digital) | @Appieschot
 * x[Aleksandr Sapozhkov](https://github.com/shurick81) (Rillion AB) | shurick81
@@ -114,8 +114,8 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * x[Arjun Menon](https://twitter.com/arjunumenon) (Tata Consulting Services) | @Arjunumenon
 * Arleta Wanat | PowershellScripts
 * [Azim Zicar​](https://twitter.com/AzimZicar) (Zicar Consultancy)  @AzimZicar
-* xAziz Gassara 
-* [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese 
+* xAziz Gassara
+* [Azure McFarlane](https://twitter.com/amac_ncheese) | @amac_ncheese
 * [Beau Cameron](https://twitter.com/Beau__Cameron) (DMI) | @Beau\_\_Cameron
 * [Carl Joakim Damsleth](https://twitter.com/kimzter) | @kimzter
 * [Cat Schneider](https://twitter.com/YerAWizardCat) | @YerAWizardCat
@@ -161,7 +161,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 * [João J. Mendes](https://twitter.com/joaojmendes) (Staffbase) | @Joaojmendes
 * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
-* [Jonathan Weaver](https://twitter.com/j_weaver74) (Smarter Consulting) | @j_weaver74 
+* [Jonathan Weaver](https://twitter.com/j_weaver74) (Smarter Consulting) | @j_weaver74
 * John Aziz (Udacity)
 * [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @Jfj1997
 * x[Jürgen Rosenthal-Buroh](https://github.com/JuergenRB) | JuergenRB
@@ -190,7 +190,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * [Martin Loitzl](https://github.com/mloitzl) (Swiss Life) | mloitzl
 * [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU)| @Martinlingstuyl
 * [Mathijs Verbeeck](https://github.com/MathijsVerbeeck) | MathijsVerbeeck
-* [Matt Beard](https://twiter.com/mattybeard) (Data8) | @MattyBeard 
+* [Matt Beard](https://twitter.com/mattybeard) (Data8) | @MattyBeard
 * x[Matt Collins-Jones](https://twitter.com/D365Geek) (Capgemini) \| @D365Geek
 * x[Matteo Serpi](https://github.com/srpmtt) (Avanade) | srpmtt
 * x[Michaël Maillot](https://twitter.com/michael_maillot) (OnePoint) | @michael_maillot
@@ -248,7 +248,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 * x[Stéphane Toubiana](https://github.com/stoubian) | stoubian
 * [Steve Corey](https://twitter.com/stevecorey365) (Quisitive) | @SteveCorey365
 * Steven Thawe (NICO Technologies)
-* Stuart Baxter (Kerv Digital) 
+* Stuart Baxter (Kerv Digital)
 * x[Sven Bru](https://twitter.com/svenbru) (B2Bru Bv) | @svenbru
 * [Sven Sieverding](https://twitter.com/365Knoten) | @365Knoten
 * [Tetsuya Kawahara](https://twitter.com/techan_k) | @Techan_k
@@ -266,7 +266,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 
 ### Companies
 
-Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. 
+Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications.
 
 > If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
@@ -312,7 +312,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Amit Oberoi (Microsoft)
 * [Ankit Govil](https://twitter.com/ankitgovil) (Microsoft) | @ankitgovil
 * Annie Wang (Microsoft)
-* Avadhesh Dubey (Microsoft) 
+* Avadhesh Dubey (Microsoft)
 * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * Aymen Mohammed (Microsoft)
 * x[Barnam Bora](https://twitter.com/barnambora) (Microsoft) | @barnambora
@@ -322,7 +322,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Brian Jackett](https://twitter.com/BrianTJackett) (Microsoft) | BrianTJackett
 * Carol Mbasinge Kigoonya (Microsoft)
 * [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @Catpaint
-* xChris Garty (Microsoft) 
+* xChris Garty (Microsoft)
 * [Daniel Carrasco](https://twitter.com/danielserver) (Microsoft) | @danielserver
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
@@ -330,10 +330,10 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * x[Davide Mauri](https://twitter.com/mauridb) (Microsoft) | @mauridb
 * x[David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
 * x[ddematheu2](https://github.com/ddematheu2) | ddematheu2
-* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
-* Diksha Upadhyay (Microsoft)  
+* Diksha Upadhyay (Microsoft)
 * Dorine Rassaian (Microsoft)
 * Elizabeth Samuel (Microsoft)
 * Eric Gradel (Microsoft)
@@ -345,7 +345,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Hanbing Wang (Microsoft)
 * [Heather Cook](https://twitter.com/heddanewman) (Microsoft ) | @heddanewman
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
-* Irene Wang (Microsoft) 
+* Irene Wang (Microsoft)
 * x[James Eccles](https://github.com/jameseccles) (Microsoft) | jameseccles
 * x[Jason Johnston](https://twitter.com/JasonJohMSFT) (Microsoft) | @JasonJohMSFT
 * Jenny Wu (Microsoft) | msjennywu
@@ -358,13 +358,13 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * x[Jose Barreto](https://twitter.com/josebarreto) (Microsoft) | @josebarreto
 * [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
 * Junjie Lie (Microsoft)
-* Lan Li (Microsoft) 
+* Lan Li (Microsoft)
 * Luyao Wang (Microsoft)
 * Kashif Qureshi (Microsoft)
 * Kim Manis (Microsoft)
 * Kishor Subedi (Microsoft)
 * xKelly Bowen-McCombs (Microsoft)
-* [Kendra Springer](https://twitter.com/KendraSpringer) (Microsoft) | @Kendra Springer  
+* [Kendra Springer](https://twitter.com/KendraSpringer) (Microsoft) | @Kendra Springer
 * xKristen Womack (Microsoft)
 * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 * x[Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
@@ -374,11 +374,11 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Maeneka Grewal (Microsoft)
 * x[Maisa Rissi](https://twitter.com/maisarissi_msft) (Microsoft) | @maisarissi_msft
 * [Marcel Ferreira](htts://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira
-* xMarcus Carvalho (Microsoft)  
+* xMarcus Carvalho (Microsoft)
 * [Marcus Vinicius Castro](https://github.com/marcus-castro-sp) (Microsoft) | marcus-castro-sp
 * [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
 * Mark Windle (Microsoft)
-* xMatt Townsend (Microsoft) 
+* xMatt Townsend (Microsoft)
 * [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @Mikaelsvenson
 * Mounika Narayanan (Microsoft)
 * Naomi Moneypenny (Microsoft)
@@ -405,7 +405,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * Skylar Pan (Microsoft)
 * Srisudha Mahadevan (Microsoft)
 * [Srinivas Varukala](https://twitter.com/svarukala) (Microsoft) | @svarukala
-* Stuart McCarthy (Microsoft) 
+* Stuart McCarthy (Microsoft)
 * Sumit Gupta (Microsoft)
 * x[Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * [Tomomi Imura](https://twitter.com/girlie_mac) (Microsot) | @girlie_mac
@@ -414,7 +414,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * [Wictor Wilen](https://twitter.com/wictor)(Microsoft) | @Wictor
 * x[Vincent Biret](https://twitter.com/baywet) (Microsoft) | @baywet
-* Yijia Tang (Microsoft) 
+* Yijia Tang (Microsoft)
 * [Zach Rosenfield](https://twitter.com/Zrosenfield) (Microsoft) | @Zrosenfield
 * xZack Runner (Microsoft)
 

@@ -24,7 +24,7 @@ and exports them as React components.
 All components are available via the npm package and are named using
 PascalCase. To use a component, first, import it at the top.
 For more details refer to
-[use-toolkit-with-react](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
+[use-toolkit-with-react](https://learn.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react).
 
 ## Implementation
 

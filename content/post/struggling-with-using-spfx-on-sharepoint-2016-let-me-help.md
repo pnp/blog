@@ -12,7 +12,7 @@ SharePoint has a lot of great out-of-the-box capabilities, but sometimes
 you need to take it a step further.  For example, you need a custom user
 interface to improve productivity.
 The SharePoint Framework (aka
-[SPFx](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview))
+[SPFx](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview))
 is a great way to customize SharePoint and Teams. There have been
 various ways to customize SharePoint in the past, but SPFx is the
 recommended option.  This is especially true for SharePoint Online, but
@@ -37,7 +37,7 @@ changing.  The documentation on what to use with SP2016 is pretty old
 and hasn't kept up. For example, to get started with SPFx on SharePoint
 2016, this seems like the logical place: [SharePoint Framework
 development with SharePoint Server 2016 Feature Pack
-2](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-2016-support). 
+2](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-2016-support). 
 The web page was updated within the last month of when I wrote this
 post.  However, the video shown is from 2017.  In the video, Vesa
 recommends version 1.0.2 as the SPFx version and the post mentions
@@ -76,9 +76,9 @@ Depending on the path you take may change your limitations, but here are
 some I know of:
 
 -   You can only create [web
-    parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts),
+    parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts),
     not
-    [extensions](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/overview-extensions).
+    [extensions](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/overview-extensions).
 -   You cannot bundle your assets with the package (sppkg) file.  You
     must host your assets (manifest JSON and JavaScript files) in a
     SharePoint document library, Azure, or somewhere else.  I discuss
@@ -91,8 +91,8 @@ some I know of:
     available, but I didn't need them, so I didn't check.  Of those that
     are available, the documentation has properties/capabilities that
     are newer than what I was able to use.  Sometimes I went to the old
-    [Office UI Fabric
-    React](https://docs.microsoft.com/javascript/api/office-ui-fabric-react?view=office-ui-fabric-react-latest)
+    Office UI Fabric
+    React
     documentation, but even then that was sometimes too new for what I
     was using.
 -   I was unable to use [React
@@ -282,7 +282,7 @@ can use the following steps:
     ```
 
 -   Create an App Catalog: [Manage the App Catalog in SharePoint
-    Server](https://docs.microsoft.com/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.). 
+    Server](https://learn.microsoft.com/sharepoint/administration/manage-the-app-catalog#:~:text=Add%20Apps%20to%20the%20App%20Catalog%201%20Verify,that%20you%20want%20to%20upload.%20...%20See%20More.). 
     Note that SharePoint Online allows apps to be uploaded to just a
     site collection, but in SP2016 you must have an App Catalog for the
     entire web application.
@@ -428,7 +428,7 @@ using SharePoint, that may be the best option for you.
 
 -   Azure Storage Account
     -   First you'll need to [create an Azure storage
-        account](https://docs.microsoft.com/azure/storage/common/storage-account-create?tabs=azure-portal).
+        account](https://learn.microsoft.com/azure/storage/common/storage-account-create?tabs=azure-portal).
 
     -   Create a blob container within the storage account.
 
@@ -437,7 +437,7 @@ using SharePoint, that may be the best option for you.
 
     -   It's not required, but if you like you can [create a CDN for the
         Azure storage
-        account](https://docs.microsoft.com/azure/cdn/cdn-create-a-storage-account-with-cdn).
+        account](https://learn.microsoft.com/azure/cdn/cdn-create-a-storage-account-with-cdn).
 
     -   Open config\\write-manifest.json and update the cdnBasePath to
         point to the container (or Azure CDN) you created.  For
@@ -696,5 +696,3 @@ help](https://threewill.com/services/transform/cloud-migrations/)!)  If
 you are working with SharePoint 2016 and want to build custom web parts
 with SPFx I hope the steps above (and the pain I went through) saves you
 some time.
-
-

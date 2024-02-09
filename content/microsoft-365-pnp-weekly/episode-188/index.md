@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=r0dA0X3NSOo
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Finland based Modern Work Lead and Microsoft MVP [Karoliina Kettukari](https://twitter.com/kettukari) (Meltlake) \| @kettukari.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Finland based Modern Work Lead and Microsoft MVP [Karoliina Kettukari](https://twitter.com/kettukari) (Meltlake) \| @kettukari.
 
 ## Topics discussed in this session
 
@@ -45,10 +45,10 @@ This session was recorded on Monday, November 21, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube r0dA0X3NSOo >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-tkirn-131dfc0 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-tkirn-131dfc0 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -74,7 +74,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Microsoft 365 – How to know which license I have assigned – non-admin user](https://knowledge-junction.in/2022/11/17/microsoft-365-how-to-know-which-license-i-have-assigned-non-admin-user/) - [Prasham Sabadra](https://twitter.com/SabadraPrasham) (Apexon) | @SabadraPrasham
 * [Create multi user real time apps in Power Apps](https://sharepains.com/2022/11/18/create-multi-user-real-time-power-apps/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Updating User Profile Properties with the `Date no year` Format](https://sympmarc.com/2022/11/15/updating-user-profile-properties-with-the-date-no-year-format/) - [Marc D Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
-* [Public Preview of Power BI and Microsoft Graph Integration - Message Center Show Ep. 262](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Public Preview of Power BI and Microsoft Graph Integration - Message Center Show Ep. 262](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Power Apps Get User Manager](https://www.youtube.com/watch?v=B4hW_pRIgvM) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [📄 How to create or migrate SharePoint pages with Microsoft Graph API](https://www.youtube.com/watch?v=Pop7N2ThEDc) - [Giuliano De Luca](https://twitter.com/DeLucaGiulian) | @DeLucaGiulian
 * [Power Hour: SharePoint Page Scheduling & Approvals](https://www.youtube.com/watch?v=PVof1w9h6ok) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @WonderLaura & Joelle Jobson (IW Mentor)
@@ -104,4 +104,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

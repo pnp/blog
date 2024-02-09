@@ -13,7 +13,7 @@ videos: null
 draft: false
 ---
 
-We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
+We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
@@ -55,13 +55,13 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-## New videos 
+## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
 * [Quickly Generate List-Based Models Using a Single Command with SharePoint Framework](https://www.youtube.com/watch?v=urhHe_NlYvI) by [Sergej Schwabauer​](https://twitter.com/spfxappdev) (AURUM) | @spfxappdev
 * [Getting started with Microsoft Viva Goals - Collaborate](https://www.youtube.com/watch?v=-7fDGelocAA)
-* [Create a Power App from your existing APIs – Visual Studio Code + Power Platform](https://www.youtube.com/watch?v=DQlnTmOMOc0) by [Marcel Ferreira](https://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira 
+* [Create a Power App from your existing APIs – Visual Studio Code + Power Platform](https://www.youtube.com/watch?v=DQlnTmOMOc0) by [Marcel Ferreira](https://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira
 * [Getting started with Microsoft Lists - Edit a view of a list](https://www.youtube.com/watch?v=Xcd7IW3p8Fw)
 * [User Profile Photos in Microsoft 365 - Status and Roadmap Updates](https://www.youtube.com/watch?v=tvf9yAzPTRY) by [Kristin McLeod (Microsoft)](https://www.youtube.com/watch?v=5I5N1LVBJIU&t=18s)
 * [Getting started with SharePoint - Add or remove a news post](https://www.youtube.com/watch?v=M-_hXgMkUtg)
@@ -122,7 +122,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -145,7 +145,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Dynamics User Group Southeast Regional Meetup](https://www.communitydays.org/event/2023-11-07/dynamics-user-group-southeast-regional-meetup) - November 8-9, 2023 - Atlanta, GA, USA
 * [M365 Twin Cities](https://www.communitydays.org/event/2023-11-11/m365-twin-cities) - November 11-12, 2023 - Brooklyn Partk, MN, USA
 * [Live 360](https://www.communitydays.org/event/2023-11-12/live-360) - November 12-18, 2023 - Orlando, FL, USA
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 16, 2023 - Aachen, Germany
+* AMS Aachen - November 16, 2023 - Aachen, Germany
 * [Power Of The Cloud](https://www.communitydays.org/event/2023-11-17/power-of-the-cloud) - November 17-18, 2023 - Toronto, Canada
 * [YYC Microsoft Community Day](https://www.communitydays.org/event/2023-11-18/yyc-microsoft-community-day) - November 18-19, 2023 - Calgary, Canada
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway

@@ -7,7 +7,7 @@ categories: ["Microsoft 365 platform call"]
 images:
 - images/recording-21st-sep.png
 type: "regular"
---- 
+---
 
 
 ![recording-21st-sep.png](images/recording-21st-sep.png)
@@ -160,20 +160,20 @@ slides.
     Samples](https://github.com/OfficeDev/microsoft-teams-samples) 
 
 -   D1: Support and Feedback - [Microsoft Teams developer community
-    channels](https://docs.microsoft.com/microsoftteams/platform/feedback) 
+    channels](https://learn.microsoft.com/microsoftteams/platform/feedback) 
 
 -   D1: Documentation - [Designing Adaptive Cards for your Microsoft
     Teams
-    app](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/design-effective-cards) 
+    app](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/design-effective-cards) 
 
 -   D1: Documentation - [Update your Teams app
-    manifest](https://docs.microsoft.com/microsoftteams/platform/graph-api/rsc/resource-specific-consent#update-your-teams-app-manifest) 
+    manifest](https://learn.microsoft.com/microsoftteams/platform/graph-api/rsc/resource-specific-consent#update-your-teams-app-manifest) 
 
 -   D1: Documentation - [Receive all channel messages with
-    RSC](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/channel-messages-with-rsc) 
+    RSC](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/channel-messages-with-rsc) 
 
 -   D1: Documentation - [Resource-specific
-    consent](https://docs.microsoft.com/microsoftteams/platform/graph-api/rsc/resource-specific-consent)
+    consent](https://learn.microsoft.com/microsoftteams/platform/graph-api/rsc/resource-specific-consent)
 
 -   D2: Discussions - [SharePoint/sp-dev-docs
     (github.com)](https://github.com/SharePoint/sp-dev-docs/discussions)
@@ -243,7 +243,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -282,7 +282,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

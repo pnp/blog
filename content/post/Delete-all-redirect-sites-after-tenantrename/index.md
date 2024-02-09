@@ -11,7 +11,7 @@ type: "regular"
 draft: false
 ---
 
-It is possible to change the SharePoint domain name after an organisation has gone through a rebranding, acquisition or needs to change to a more appropriate name [Change your SharePoint domain name (preview)](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name). The domain name was changed end of last year in November 2021 which created subsequent redirect sites for all existing sites and personal sites with more than 500 redirect sites. It coincided with setting up a M365 SAAS backup up with a third party to offer more data protection. However it was not working with redirect sites to the old domain prompting the removal of these redirect sites. Redirect sites [Manage site redirects (https://docs.microsoft.com/en-us/sharepoint/manage-site-redirects)] can be removed using PowerShell in a similar way deleting a normal site. However what seemed a simple task proved quite challenging taking months to resolve involving Microsoft through few cases raised to address individual scenerios. 
+It is possible to change the SharePoint domain name after an organisation has gone through a rebranding, acquisition or needs to change to a more appropriate name [Change your SharePoint domain name (preview)](https://learn.microsoft.com/sharepoint/change-your-sharepoint-domain-name). The domain name was changed end of last year in November 2021 which created subsequent redirect sites for all existing sites and personal sites with more than 500 redirect sites. It coincided with setting up a M365 SAAS backup up with a third party to offer more data protection. However it was not working with redirect sites to the old domain prompting the removal of these redirect sites. Redirect sites [Manage site redirects (https://learn.microsoft.com/sharepoint/manage-site-redirects)] can be removed using PowerShell in a similar way deleting a normal site. However what seemed a simple task proved quite challenging taking months to resolve involving Microsoft through few cases raised to address individual scenerios.
 
 ## Things to consider
 
@@ -48,14 +48,14 @@ Microsoft deleted the redirect site for search from another case raised for that
 
  The root redirect site https://<oldDomain>.sharepoint.com was deleted first as the following script to retrieve redirect sites returns the root redirect site first.
    ``` $redirectSites = Get-PnPTenantSite -Template RedirectSite#0 -IncludeOneDriveSites -Filter {Url -like  https://<olddomain>  }```
- Hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant." 
+ Hence the subsequent deletions of the rest of the redirect sites failed with message "The site url <oldDomain>-my.sharepoint.com does not reference a domain in this tenant."
 
 ![RemoveRedirectSiteWithoutRootDomain](images/RemoveRedirectSiteWithoutRootDomain.png)
 
 Microsoft recreated the root redirect site through a separate case to enable deletion of all redirect sites.
- 
+
 The script using PnP PowerShell used to delete redirect sites pointing to the old domain is as below
-    
+
 ```powershell
 
 $AdminCenterURL=https://<newdomain>-admin.sharepoint.com/

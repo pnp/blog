@@ -44,7 +44,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Microsoft articles
 
 *   [Microsoft Teams performance improvements reduce power consumption in meetings by up to 50%](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-performance-improvements-reduce-power/ba-p/3139910) - Robert Aichner (Microsoft)
-*   [Create interactive meeting apps for Microsoft Teams](https://docs.microsoft.com/en-gb/learn/modules/msteams-meetings-apps/) - Microsoft
+*   [Create interactive meeting apps for Microsoft Teams](https://learn.microsoft.com/en-gb/learn/modules/msteams-meetings-apps/) - Microsoft
 *   [Most used SharePoint Framework solutions from the Store - January 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-january/ba-p/3148735) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 *   [Microsoft Graph Mailbag – Search DriveItems for Only Files](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-mailbag-filter-search-driveitems-for-only-files/) - [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) | [@BrianTJackett](/t5/user/viewprofilepage/user-id/4556)
 *   [Announcing SharePoint Framework 1.14 Release Candidate – with updates for Viva Connections, Microsof...](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-14-release-candidate-with-updates-for-viva-connections-microsoft-teams-and-sharepoint/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen

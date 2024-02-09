@@ -38,7 +38,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
 
-Demos: 
+Demos:
 
 * [Carlos Solís](https://twitter.com/CarlosBKSolis1) | @CarlosBKSolis1 - Developing a personal wellness app to prevent burnout using Power Apps and SharePoint
 * [Vivian Voss](https://twitter.com/viviantiiman) | @VivianTiiman - Power Platform Release Planner - your new superpower!
@@ -54,7 +54,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Rahmin Ahmadi](https://twitter.com/raminahmadi1986) (Content + Cloud) | @raminahmadi1986 - Build Microsoft Teams tabs with Adaptive Cards
 * [Federico Sapia](https://twitter.com/X365Fede) (Anpal) | @X365Fede - Create an internal CV with SharePoint List Formatting
@@ -79,12 +79,12 @@ Topic:
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Extend Azure AD to add pronouns to a people card component in Power Apps using Microsoft Graph](https://www.youtube.com/watch?v=bTAFzyxBzbk) - [Luise Freese](https://twitter.com/LuiseFreese) | @luisefreese  
-* [Extend the PnP React SPFx ListView control with a contextual menu](https://www.youtube.com/watch?v=Z0d7s5ZukKk) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0  
+* [Extend Azure AD to add pronouns to a people card component in Power Apps using Microsoft Graph](https://www.youtube.com/watch?v=bTAFzyxBzbk) - [Luise Freese](https://twitter.com/LuiseFreese) | @luisefreese
+* [Extend the PnP React SPFx ListView control with a contextual menu](https://www.youtube.com/watch?v=Z0d7s5ZukKk) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [Authoring and administration in Viva Connections](https://www.youtube.com/watch?v=XlMgC_Ub-tE) by [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur
-* [Introduction to the Microsoft Viva Home experience](https://www.youtube.com/watch?v=iXbhUAmTN00) by Leslie Thomas (Microsoft) 
+* [Introduction to the Microsoft Viva Home experience](https://www.youtube.com/watch?v=iXbhUAmTN00) by Leslie Thomas (Microsoft)
 * [Create an Microsoft Viva extension with SPFx displaying image carousel](https://www.youtube.com/watch?v=ETJ5ZH3XtUc) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen and [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Building Metaverse experiences using Teams LiveShare SDK](https://www.youtube.com/watch?v=-HCnIhpu2zE) by [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
+* [Building Metaverse experiences using Teams LiveShare SDK](https://www.youtube.com/watch?v=-HCnIhpu2zE) by [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 * [Roadmap updates on SPFx for Microsoft Viva, Microsoft Teams, and more](https://www.youtube.com/watch?v=NDr8Gq3YkDs) by [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
 
 ---
@@ -129,7 +129,7 @@ If you are looking to learn how to use the Microsoft 365 & power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -145,7 +145,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Community Days - Women in Tech 2023](https://www.communitydays.org/event/2023-03-03/m365-community-days-women-in-tech-2023) - March 3, 2023 - Virtual
 * [Global Power Platform Bootcamp Nairobi 2023](https://www.communitydays.org/event/2023-03-04/global-power-platform-bootcamp-nairobi-2023#home) - March 4, 2023 - Nairobi, Kenya
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel

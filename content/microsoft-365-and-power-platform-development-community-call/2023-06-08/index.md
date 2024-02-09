@@ -23,7 +23,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * Projects
     * [Microsoft Graph Toolkit (MGT)](https://github.com/microsoftgraph/microsoft-graph-toolkit) – v2.11.1 (GA) and v3.0.0 RC.3
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New – PnP PowerShell – [Allow custom scripts in SharePoint online site](https://pnp.github.io/script-samples/spo-allow-custom-scripts/README.html?tabs=spoms-ps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * New – PnP PowerShell – [Allow custom scripts in SharePoint online site](https://pnp.github.io/script-samples/spo-allow-custom-scripts/README.html?tabs=spoms-ps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
     * Updated – PnP PowerShell – [SharePoint List Item Version History Retrieval](https://pnp.github.io/script-samples/spo-get-list-item-version-history/README.html?tabs=pnpps) – [Kasper Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New sample structure with all the supporting files - **New-Sample.ps1** - Located in the root of the repo
     * [Good first issue asks](https://github.com/pnp/script-samples)
@@ -44,31 +44,31 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Tracking workflow runs and errors using Power Automate and SharePoint** – yes Approval Workflows sometimes break? Here’s a Power Automate solution that tracks run failures enabling you to quickly fix and resubmit them. Log workflows in Power Automate using SharePoint or visa versa. Session covers why this solution, creating a Global SP Site/List, creating a Power Automate Flow, Scope Actions (containers in Power Automate), and getting workflow info. Review a workflow framework flow in Power Automate. Tips shared throughout. Conversation at aka.ms/June8-Demo2
 * **Build your own Documentation Website with DocFX on SharePoint** – with help and scripts from an experienced pro. What is the DocFX tool, why is it awesome, setup challenges, where is a DocFx generated static website hosted? Let’s see. Clone repo, create project, generate out-of-box site. Then, run Initialize-AwesomeDocFx.ps1 script that yields a more robust site. Add docs/images. Want your site on SPO? Run BuildDocFxForSPO.ps1, create a document library, compare and upload new files. Conversation at aka.ms/June8-Demo3
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube H_dklzRYcFc >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/H_dklzRYcFc?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/H_dklzRYcFc?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[05:15](https://youtu.be/H_dklzRYcFc?t=315) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) \| @O365bert
+[05:15](https://youtu.be/H_dklzRYcFc?t=315) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) \| @O365bert
 
-[06:12](https://youtu.be/H_dklzRYcFc?t=372) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
+[06:12](https://youtu.be/H_dklzRYcFc?t=372) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
 
-[06:57](https://youtu.be/H_dklzRYcFc?t=417) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+[06:57](https://youtu.be/H_dklzRYcFc?t=417) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 
 [07:54](https://youtu.be/H_dklzRYcFc?t=474) – Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen
 
-[08:34](https://youtu.be/H_dklzRYcFc?t=514) – Microsoft Graph Toolkit updates – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[08:34](https://youtu.be/H_dklzRYcFc?t=514) – Microsoft Graph Toolkit updates – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [09:11](https://youtu.be/H_dklzRYcFc?t=551) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) @JocelynP_PM
 
-[10:06](https://youtu.be/H_dklzRYcFc?t=606) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[10:06](https://youtu.be/H_dklzRYcFc?t=606) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [11:37](https://youtu.be/H_dklzRYcFc?t=697) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
-[12:41](https://youtu.be/H_dklzRYcFc?t=761) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[12:41](https://youtu.be/H_dklzRYcFc?t=761) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [14:00](https://youtu.be/H_dklzRYcFc?t=840) – Together mode picture
 
@@ -84,7 +84,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (M
 
 ![together-230608.png](images/together-230608.png)
 
-Thank you everyone for joining the call today. Have a great rest of the day, week, month, year, decade…    
+Thank you everyone for joining the call today. Have a great rest of the day, week, month, year, decade…
 
 ## Activities & Actions
 
@@ -112,7 +112,7 @@ Thank you everyone for joining the call today. Have a great rest of the day, wee
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -135,9 +135,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/powershell)|v1.12.0 GA, v2.1.1 GA|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.0-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

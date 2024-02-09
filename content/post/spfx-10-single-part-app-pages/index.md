@@ -9,7 +9,7 @@ images:
   - images/10-single-part-app-pages-spfx-spo.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -33,7 +33,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## What are the single part app pages for SharePoint Online?
 
-Single part app pages is another rendering option for the web parts, which is more as a generic name for a web widget which can be used in Microsoft Viva, Microsoft Teams, Outlook, Office or in SharePoint - like in this case. 
+Single part app pages is another rendering option for the web parts, which is more as a generic name for a web widget which can be used in Microsoft Viva, Microsoft Teams, Outlook, Office or in SharePoint - like in this case.
 
 So the same piece of code can be also exposed as a full page experience in the SharePoint which gives the developer an option to fully own what's being rendered with the exception of the top navigation and app launcher.
 
@@ -55,16 +55,16 @@ Here's a bit outdated video on how to create a single part app page in SharePoin
 
 Documentation and references
 
-- [Using single part app pages in SharePoint Online](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)
+- [Using single part app pages in SharePoint Online](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages)
 
 
 ## Frequent questions around single part app pages
 
-**Can I hide the top/suite navigation from the page as well?** 
+**Can I hide the top/suite navigation from the page as well?**
 
 No. There's no supported way to do this for the single part pages.
 
-**What if I used CSS to hide the app launcher and the top navigation?** 
+**What if I used CSS to hide the app launcher and the top navigation?**
 
 As SharePoint is build with html, this is indeed technically possible, but it's not supported. This means that if the experience will have any issues, you'll not be able to get support for your issues from Microsoft channels.
 
@@ -75,7 +75,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

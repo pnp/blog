@@ -11,7 +11,7 @@ type: "regular"
 ---
 
 [Azure Cloud
-Shell](https://docs.microsoft.com/azure/cloud-shell/overview) is
+Shell](https://learn.microsoft.com/azure/cloud-shell/overview) is
 one of the cool Azure features which will help you to execute Bash /
 PowerShell script from the browser. The best part is that Azure Cloud
 shell even supports [CLI for Microsoft
@@ -20,7 +20,7 @@ anything in the shell.
 
 When you try to execute CLI for Microsoft 365 after creating a [new
 Cloud
-Shell](https://docs.microsoft.com/azure/cloud-shell/quickstart#start-cloud-shell),
+Shell](https://learn.microsoft.com/azure/cloud-shell/quickstart#start-cloud-shell),
 we will get an error which is something like below,
 
 ```Shell

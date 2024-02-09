@@ -203,7 +203,7 @@ slides.
     PnP](https://github.com/pnp/sp-dev-fx-extensions/tree/master/samples/react-command-convert-to-pdf) 
 
 -   Documentation -  [SPRenderListDataOptions
-    options](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#sprenderlistdataoptions-options) 
+    options](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest#sprenderlistdataoptions-options) 
 
 -   Article - [Send a message to Microsoft Teams using Microsoft Graph
     in
@@ -216,7 +216,7 @@ slides.
     <https://developer.microsoft.com/graph/graph-explorer>
 
 -   Documentation - [Add Viva Connections for Microsoft Teams
-    desktop](https://docs.microsoft.com/sharepoint/viva-connections-desktop) 
+    desktop](https://learn.microsoft.com/sharepoint/viva-connections-desktop) 
 
 -   PnP Weekly -- Episode 119 with guest MVP [Chris
     O'Brien](https://twitter.com/ChrisO_Brien) | @ChrisO_Brien |
@@ -254,7 +254,7 @@ slides.
     Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6
     videos)
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -283,7 +283,7 @@ slides.
 **Other mentioned topics**
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 

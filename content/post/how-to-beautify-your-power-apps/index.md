@@ -23,7 +23,7 @@ One part of Fluent UI is the iconography
 
 ![fluentUIicons.png](images/fluentUIicons.png)
 
-### How to get Fluent UI icons 
+### How to get Fluent UI icons
 
 You can browse through the icons in the [Fluent UI icons
 tool](https://uifabricicons.azurewebsites.net/), but there is
@@ -31,7 +31,7 @@ right-select download option. As a developer, you can import Fluent UI
 iconography (and more) into your applications; for Power Apps, there a
 different way how to use them:
 
-#### Use a community-driven tool to import icons to Power Apps 
+#### Use a community-driven tool to import icons to Power Apps
 
 there are several tools available to get Fluent UI icons into Power
 Apps; find two of them here:
@@ -45,7 +45,7 @@ Apps; find two of them here:
 However, if you only want to use a few specific icons for an app or
 would like to try them out, you can head over to the [Fluent UI
 repository on
-GitHub](https://github.com/microsoft/fluentui-system-icons/blob/master/icons.md) and
+GitHub](https://github.com/microsoft/fluentui-system-icons/tree/master) and
 right-click-download the icons. After that, you upload them to your
 Power App and can use them like any other image. Super cool: You get all
 icons as .svg files, which have three significant advantages:
@@ -99,7 +99,7 @@ clicks the label, which will make the PopUp visible. As soon as the user
 clicks the cancel icon, the **isShowPopUp** variable is set to `false`,
 which means that the group will not be shown anymore!
 
-## Create an expand- and collapse able menu 
+## Create an expand- and collapse able menu
 
 As we need to deal with all screen estate carefully, it is a fantastic
 idea to have a menu that can expand and collapse. To create this, we
@@ -218,7 +218,7 @@ Our result should look something like this:
 ![expand.gif](images/expand.gif)
 
 
-## Feedback and what's next? 
+## Feedback and what's next?
 
 What are your little tricks to make apps look more beautiful? I am
 curious to learn from you! Please comment below!
@@ -234,7 +234,7 @@ the download button)
 
 ![beautify.gif](images/beautify.gif)
 
-## sample app  
+## sample app 
 
 If you like to reverse-engineer this idea - I provided a sample in the
 [PnP Power Apps sample

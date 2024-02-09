@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 30th of May, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 30th of May, 2023"
 summary: "Demos Introduction to Microsoft Syntex Repository Services, Introducing Microsoft Viva Connections for Education, and Latest on using SPFx on building extensibility for SharePoint. Delivered 8 articles and 2 conversations in the last 7 days!"
 date: 2023-05-30T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -42,9 +42,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * Shows and Events
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
     * Monday’s @ Microsoft – [Episode Two](https://www.linkedin.com/events/mondaysatmicrosoft-episodetwo7067186622743662593/about/) (Mon, June 5th , 8:00 am PT)
 * Conversations
@@ -58,7 +58,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introducing Microsoft Viva Connections for Education** – 85% of EDU app interaction happens via mobile phones. Viva Connections is mobile device optimized. Now all EDU Viva cards (assignments, courses, library loans, tuition loans, internships, etc.) are open source, GA to all EDU customers. Cards simplify resource access connect students and immediately deployable. See the latest cards, look at the samples, build actionable ACE cards for EDU. Future direction suggested.
 * **Latest on using SPFx on building extensibility for SharePoint** – an elemental review of core SharePoint capabilities to showcase how the platform retains its backward compatibility as the UX evolves. Core SharePoint elements are cards, web parts, extensions, app pages and more. GA extension options include Application customizer, Command set, Field customizer, Form Customizer and Search Query Modifier. Glimpse the new UX version of SharePoint Online announced earlier this month at Microsoft 365 Conference.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube sjCCdHxf8Vk >}}
 
@@ -91,7 +91,7 @@ The Gold Auditorium is fully booked today. Great! Thank you for joining once aga
 * Register for [HackTogether: The Microsoft Teams Global Hack](https://github.com/microsoft/hack-together-teams) (June 1 – 15, 2023) \| aka.ms/hack-together-teams
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

@@ -36,12 +36,12 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) – v6.5 (Beta)
     * [Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download) – v0.6 (Preview)
 * [SPFx samples](https://aka.ms/spfx-webparts)
-    * Updated – [Field Item Order](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/jquery-field-itemorder) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * Updated – [Field Item Order](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/jquery-field-itemorder) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * New – [Weather Application Customizer](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-application-weather-widget) - [Rishabh Shukla](https://github.com/rishabhshukla12) \| rishabhshukla12
     * Updated – [RSS Reader](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-rss-reader) - [Abderahman Moujahid](https://github.com/Abderahman88) \| Abderahman88
     * Updated – [Azure DevOps Tasks](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-azure-devops-tasks) - [Takashi Shinohara](https://twitter.com/karamem0) \| @karamem0
-    * Updated – [Dynamic Accordion - FAQ Builder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-accordion-dynamic-section) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
-    * New – [IFramePanel Control](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-spfx-control-iframepanel) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * Updated – [Dynamic Accordion - FAQ Builder](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-accordion-dynamic-section) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – [IFramePanel Control](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-spfx-control-iframepanel) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
     * Updated – [Pages Hierarchy](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-pages-hierarchy) - [ruslan-s](https://github.com/ruslan-s)
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 204 (April 3rd) with by Sweden-based Microsoft MVP and CTO at Rencore - [Erwin van Hunen](https://twitter.com/erwinvanhunen) \| @erwinvanhunen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-204/) \| [podcast](https://www.podbean.com/eas/pb-2jgsw-13d3aee)
@@ -64,7 +64,7 @@ The host of this call is [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.
 
 [06:33](https://youtu.be/bdVBHcrYjno?t=393) – SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
-[08:07](https://youtu.be/bdVBHcrYjno?t=487) – PnPjs Client-Side Libraries – [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+[08:07](https://youtu.be/bdVBHcrYjno?t=487) – PnPjs Client-Side Libraries – [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 
 [10:40](https://youtu.be/bdVBHcrYjno?t=640) – CLI for Microsoft 365 – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder
 
@@ -76,9 +76,9 @@ The host of this call is [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.
 
 [15:51](https://youtu.be/bdVBHcrYjno?t=951) – PnP Modern Search – [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) @paolopia
 
-[17:04](https://youtu.be/bdVBHcrYjno?t=1024) – PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+[17:04](https://youtu.be/bdVBHcrYjno?t=1024) – PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
-[18:17](https://youtu.be/bdVBHcrYjno?t=1097) – PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[18:17](https://youtu.be/bdVBHcrYjno?t=1097) – PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [18:33](https://youtu.be/bdVBHcrYjno?t=1113) – Together mode picture – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
@@ -127,10 +127,10 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
-[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17 (GA)  
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.13 (GA)| v3.14 to be released April 17, 2023 
+[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17 (GA)
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.13 (GA)| v3.14 to be released April 17, 2023
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.5 (GA)
-[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.6 (Preview)| v0.7 to be released April 26, 2023 
+[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.6 (Preview)| v0.7 to be released April 26, 2023
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.13.0 (GA), v2.9.0|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.12.0 (GA), v2.7.0|
 [Viva Connections Toolkit for VS Code](https://github.com/pnp/vscode-viva) | v0.4.1 (GA)|
@@ -161,7 +161,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -180,7 +180,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

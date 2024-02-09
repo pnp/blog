@@ -39,13 +39,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code** – Notification bots are great for sending pro-active messages into Microsoft Teams. Let’s create this bot now! Install Teams Toolkit for Visual Studio Code and scaffold a project to create a Notification bot with HTTP and Timer Trigger (Azure Functions) and use TypeScript. Inspect what the toolkit has provisioned, trigger the bot for the first time and wrap up with summary and resources.
 * **Account Linking for Teams apps** – learn how to migrate a non-Azure AD Web App to Microsoft Teams and deliver a Single Sign On (SSO) experience. This sample shows the linking of a user's AAD id with their GitHub or SaaS app identity in an IdentityMap stored in a database. At login, the Authorization is based on associated (linked) identities found in Map. Also see how associations are added to map.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube X3spdOS4jOk >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [0:22](https://youtu.be/X3spdOS4jOk?t=22)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [0:22](https://youtu.be/X3spdOS4jOk?t=22)
 * Updates on Microsoft Teams documentation – Surbhi Gupta (Microsoft) – [3:07](https://youtu.be/X3spdOS4jOk?t=187)
 * Demo - Introduction to Privacy APIs on Microsoft Graph – [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) \| @BrianTJackett and Cameron Parker (Microsoft) – [6:34](https://youtu.be/X3spdOS4jOk?t=394)
 * Demo - Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code – [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) \| @garrytrinder – [20:03](https://youtu.be/X3spdOS4jOk?t=1203)

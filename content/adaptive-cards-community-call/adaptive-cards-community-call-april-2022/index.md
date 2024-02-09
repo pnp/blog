@@ -20,9 +20,9 @@ Universal Actions + Messaging Extensions (elevating user experiences with
 Universal Actions and Messaging Extensions on Teams and Outlook – walkthrough
 capabilities and value propositions) - Karan Thapar (Microsoft), Accessibility
 Updates (Accessibility work and SDK v1.6 release) – [J.P.
-Roca](http://twitter.com/jpthepm) (Microsoft), and 15 minute live Q&A primarily
+Roca](https://twitter.com/jpthepm) (Microsoft), and 15 minute live Q&A primarily
 focused on Universal Actions + Messaging Extensions. This call was hosted by
-[J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on
+[J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on
 April 14, 2022.
 
 {{< youtube 6Z8U4bSicgk >}}
@@ -31,7 +31,7 @@ April 14, 2022.
 
 * Universal Actions + Messaging Extensions - Karan Thapar (Microsoft) –
     [00:37](https://youtu.be/6Z8U4bSicgk?t=37)
-* Accessibility Updates - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft)
+* Accessibility Updates - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft)
     \| @jpthepm – [21:02](https://youtu.be/6Z8U4bSicgk?t=1262)
 * Q&A - J.P. Roca (Microsoft) \| @jpthepm & [Karan
     Thapar](https://www.linkedin.com/in/karanthapar91/) (Microsoft)
@@ -50,18 +50,18 @@ stories and value, how to onboard and build resources and Q&A at end.
 ## Referenced in this call
 
 * Documentation – [Universal Actions for Adaptive
-    Cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
+    Cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)
 * Documentation – [Messaging
-    extensions](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+    extensions](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
 * Documentation – [Link
-    unfurling](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/link-unfurling)
+    unfurling](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/link-unfurling)
 * Tool - [Microsoft Bot Framework](https://dev.botframework.com/) \|
     <https://dev.botframework.com/>
 * Demo – [Adaptive Cards Video Player Bot on
     Teams](https://youtu.be/-Y7_nNwC20w?t=28) - [Alexis
     Kinzelin](https://www.linkedin.com/in/alexis-kinzelin-214b6b20/) (Microsoft)
 * Tool - [Microsoft Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/overview)
+    Toolkit](https://learn.microsoft.com/graph/toolkit/overview)
 
 ## Actions
 

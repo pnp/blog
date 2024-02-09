@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=NNEDqTz6Cts
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP and Vice President of Engineering at tyGraph - [Corey Roth](https://twitter.com/coreyroth) \| @coreyroth
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based Microsoft MVP and Vice President of Engineering at tyGraph - [Corey Roth](https://twitter.com/coreyroth) \| @coreyroth
 
 ## Topics discussed in this session
 
@@ -57,10 +57,10 @@ This session was recorded on Monday, March 20, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube NNEDqTz6Cts >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-gr6za-13c0bd8 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-gr6za-13c0bd8 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -76,7 +76,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Microsoft Teams App Camp in a Box is now available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-app-camp-in-a-box-is-now-available/) - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Tailored SDK experiences via Kiota now generally available](https://devblogs.microsoft.com/microsoft365dev/tailored-sdk-experiences-via-kiota-now-generally-available/) - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani & [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
 * [Announcing Tenant Switcher in Power Apps Mobile](https://powerapps.microsoft.com/blog/switch-directories-in-power-apps-mobile/) - Tristan Dehove (Microsoft)
-* [New Microsoft 365 & Power Platform Community coordination team members – March 2023](https://pnp.github.io/blog/post/new-community-team-members-march-2023/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen 
+* [New Microsoft 365 & Power Platform Community coordination team members – March 2023](https://pnp.github.io/blog/post/new-community-team-members-march-2023/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [The easiest way to test how your app handles API errors](https://blog.mastykarz.nl/easiest-way-test-app-handles-api-errors/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Power Apps Copilot is here - Let's Get Hands On With It](https://www.youtube.com/watch?v=FMEQT8NC-5I) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 
@@ -132,4 +132,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

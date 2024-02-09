@@ -9,7 +9,7 @@ images:
   - images/04-using-microsoft-graph-with-spfx-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -32,7 +32,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Introduction on using Microsoft Graph APIs with SPFx
 
-[Microsoft Graph APIs](https://learn.microsoft.com/en-us/graph/overview) provides you an easy way to access the user or organizational information within Microsoft 365. SPFx has a great abstraction layer for using the Microsoft Graph, including simplified development experience with following benefits:
+[Microsoft Graph APIs](https://learn.microsoft.com/graph/overview) provides you an easy way to access the user or organizational information within Microsoft 365. SPFx has a great abstraction layer for using the Microsoft Graph, including simplified development experience with following benefits:
 
 - Automatic Single Sign-On when using Microsoft Graph APIs
 - Automatic handling of access token - developers will not need to worry about where to get the token(s) for the API calls
@@ -47,10 +47,10 @@ Using Microsoft Graph APIs with SPFx solution is easy and the recommended option
 
 See following resources for the official documentation on how to use Microsoft Graph with SPFx solutions
 
-- [Use Microsoft Graph in your solution](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
-- [Use the MSGraphClientV3 to connect to Microsoft Graph](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-msgraph)
-- [Consume the Microsoft Graph in the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-aad-tutorial)
-- [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/en-us/graph/toolkit/get-started/build-a-sharepoint-web-part)
+- [Use Microsoft Graph in your solution](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
+- [Use the MSGraphClientV3 to connect to Microsoft Graph](https://learn.microsoft.com/sharepoint/dev/spfx/use-msgraph)
+- [Consume the Microsoft Graph in the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/use-aad-tutorial)
+- [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part)
 
 Here's a bit [outdated video](https://www.youtube.com/watch?v=tHzbh5JoC-A&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=7) on using Microsoft Graph APIs with the SPFx solution - User interface elements have evolved a bit, but the basic steps are still exactly the same.
 
@@ -58,19 +58,19 @@ Here's a bit [outdated video](https://www.youtube.com/watch?v=tHzbh5JoC-A&list=P
 
 ## Frequent questions around using Microsoft Graph with SPFx solutions
 
-**Can code access any Microsoft Graph APIs without administrative approval?** 
+**Can code access any Microsoft Graph APIs without administrative approval?**
 
 No. All Microsoft Graph APIs are by default blocked for the SPFx solutions in the tenant, so administrator will need to specifically enable the allowed APIs. This provides a bit complexity for the deployment, but model exists to provide required level of security within customer tenants.
 
-**Can I use PowerShell to grant the permission request** 
+**Can I use PowerShell to grant the permission request**
 
 Yes. This is an option if you are an administrator within the tenant. You can use either the user interface or script the required steps. You cannot approve the permissions unless you have sufficient permissions at the tenant level using PowerShell.
 
-**When I grant API permissions, will those be granted for all SPFx solutions?** 
+**When I grant API permissions, will those be granted for all SPFx solutions?**
 
 By default yes. Model works in a way that by default administrators are granting the allowed API permissions to all SPFx solutions. You can however do this also in the solution-by-solution level if that's the preferred model.
 
-**What if I'm using Microsoft Graph Toolkit - is the process different?** 
+**What if I'm using Microsoft Graph Toolkit - is the process different?**
 
 No. Process is not different when you'd be using Microsoft Graph Toolkit. Same API level approvals are still needed for the Microsoft Graph API calls to succeed. We will cover the Microsoft Graph Toolkit option more detailed later in this blog post series.
 
@@ -79,11 +79,11 @@ No. Process is not different when you'd be using Microsoft Graph Toolkit. Same A
 
 Here are some initial references to get started with the SPFx in your development. Please do provide us with feedback and suggestions on what is needed to help you to get started with the SPFx development for Microsoft 365.
 
-- Microsoft Graph overview - https://learn.microsoft.com/en-us/graph/overview
+- Microsoft Graph overview - https://learn.microsoft.com/graph/overview
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

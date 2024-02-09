@@ -36,7 +36,7 @@ To meet my requirement the Trigger needs to carry the variables for Username of 
 
 To create this trigger with these variables you need a sample Payload. Some simple JSON is required here.
 
-![Sample Payload](images/2.%20Sample%20JSON%201.png) 
+![Sample Payload](images/2.%20Sample%20JSON%201.png)
 
 ![Sample JSON](images/3.%20When%20HTTP%20request%20is%20received.png)
 
@@ -107,7 +107,7 @@ Xrm.WebApi.retrieveMultipleRecords("environmentvariabledefinition", "?$select=de
    fetch(flowURL, requestOptions)
    .then(response => response.text())
    .then(result => console.log(result))
-   .catch(error => console.log('error', error)); 
+   .catch(error => console.log('error', error));
   }
         // perform operations on record retrieval
     },
@@ -181,11 +181,10 @@ Once you have published you should be able to test the App.
 
 When I first tested nothing happened. That is because I had errors in the JavaScript and the only way I could pick it up was using the Browser Debugger Console. I have a couple of suggestions for debugging:
 
-1 — I assume you are using Microsoft Edge. Therefore Read the Debugging Documentation [ Get started debugging JavaScript — Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/).
+1 — I assume you are using Microsoft Edge. Therefore Read the Debugging Documentation [ Get started debugging JavaScript — Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/microsoft-edge/devtools-guide-chromium/javascript/).
 
 2 — In your Script remove remark out your lines (using//) until you find the bad line of code.
 
 ## Conclusion
 
 Good luck and leave yourself plenty of time to resolve issues. Also there are plenty of resources in the Internet to help.
-

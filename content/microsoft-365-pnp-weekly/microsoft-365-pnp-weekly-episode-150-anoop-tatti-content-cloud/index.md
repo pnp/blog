@@ -57,7 +57,8 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 *   [Quickly set up Viva Connections app in Microsoft Teams using Teams admin center](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/quickly-set-up-viva-connections-app-in-microsoft-teams-using/ba-p/3064444) - [Shrusti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle)
 *   [Create folders on SharePoint Document Library from CSV](https://sharepoint-tricks.com/create-folders-on-sharepoint-document-library-from-csv/) - [David Ramalho](https://twitter.com/DavRamalho) (Storm Technology Ltd) | [@davRamalho](/t5/user/viewprofilepage/user-id/718524)
 *   [New Power Automate Trigger – When a File is Classified By a SharePoint Syntex Model](https://www.leonarmston.com/2022/01/new-power-automate-trigger-when-a-file-is-classified-by-a-sharepoint-syntex-model/) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | [@LeonArmston](/t5/user/viewprofilepage/user-id/855621)
-*   [Create your first Adaptive Card Extensions(ACEs) with SPFx](https://siddharthvaghasia.com/2021/12/29/create-your-first-adaptive-card-extension-with-spfx/) - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me
+*   Create your first Adaptive Card Extensions(ACEs) with SPFx - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh\_me
+
 *   [Power Automate Security](https://helloitsliam.com/2022/01/19/power-automate-security/) - [Liam Cleary](https://twitter.com/helloitsliam) | @helloitsliam
 *   [Teams UI Toolkit for Makers: an introduction](https://digipersonal.com/2022/01/19/teams-ui-toolkit-for-makers-an-introduction/) - [Carmen Ysewijn](https://twitter.com/CarmenYsewijn) (Qubix) | @CarmenYsewijn
 *   [Use CLI for Microsoft 365 to get HaveIBeenPwned status](https://www.cloudappie.nl/cli-microsoft-haveibeenpwned-status/) - [Albert-Jan Schot](https://twitter.com/appieschot) (BLIS.digital) | @appieschot

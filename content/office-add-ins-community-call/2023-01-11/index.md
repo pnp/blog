@@ -85,7 +85,7 @@ PowerPoint 1.5 support for PowerPoint Online web app is being rolled out, you sh
 
 **I am in need of information on how to list our Outlook add-in as an MSI, inside Microsoft AppSource to run in the Outlook desktop app. The Microsoft support people referred us here. Could someone please take our case and help us? Maybe an email address to contact me?**
 
-AppSource only supports web add-ins and not COM add-ins. To distribute COM add-ins, use Azure Marketplace or any third-party digital delivery system or e-commerce solution. For guidance with publishing to Azure Marketplace, see [What is the Microsoft commercial marketplace?](https://learn.microsoft.com/en-us/azure/marketplace/overview).
+AppSource only supports web add-ins and not COM add-ins. To distribute COM add-ins, use Azure Marketplace or any third-party digital delivery system or e-commerce solution. For guidance with publishing to Azure Marketplace, see [What is the Microsoft commercial marketplace?](https://learn.microsoft.com/azure/marketplace/overview).
 
 **We tried the setSelectedShapes() example in Script Lab and it did select the first two shapes as advertised.  But when we modified the example to pass in an empty array, it did not unselect the shapes as the doc indicates it should (and how it works on desktop).**
 
@@ -96,7 +96,7 @@ This is a known bug. You can [see the issue on GitHub](https://github.com/Office
 Deployment of an SSO add-in may not work with PowerShell under certain conditions.The add-in may require admin consent, which means a UI needs to pop up from Microsoft identity platform to do the consent. Looks like this isn’t possible in PowerShell according to this post: [How to grant admin consent to an Azure AAD app in Powershell?](https://stackoverflow.com/questions/63529599/how-to-grant-admin-consent-to-an-azure-aad-app-in-powershell), but there is a workaround shown to use the Azure CLI.
 
 **Is anyone aware of the Excel Range Top and Left attribute errors?**
-So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=). You can also follow [this topic](https://answers.microsoft.com/msoffice/forum/all/vba-in-excel-using-rangetop-rangeleft-to-get-cell/72f2276f-9d96-43c3-8e7b-c09e99a3988d) on Microsoft Community Answers forum.
+So that we could help you further, please [open an issue on GitHub](https://github.com/OfficeDev/office-js/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
 
 ## Resources related to to this blog's content
@@ -104,7 +104,7 @@ So that we could help you further, please [open an issue on GitHub](https://gith
 * **Deploy Office Add-in that uses SSO to Azure App Service**
     * [Documentation – Deploy a single sign-on (SSO) Office Add-in to Microsoft Azure App Service](https://learn.microsoft.com/office/dev/add-ins/publish/deploy-office-add-in-sso-to-azure)
     * [Article - Single Sign-on service for Office Add-ins rolls out in Office on the web](https://devblogs.microsoft.com/microsoft365dev/new-single-sign-on-service-for-office-add-ins-rolling-out-in-office-on-the-web/)
-    * [Documentation - Enable single sign-on (SSO) in an Office Add-in](https://learn.microsoft.coms/office/dev/add-ins/develop/sso-in-office-add-ins)
+    * [Documentation - Enable single sign-on (SSO) in an Office Add-in](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins)
     * [Documentation - Publish an (static) add-in developed with Visual Studio Code](https://learn.microsoft.com/office/dev/add-ins/publish/publish-add-in-vs-code)
     * [Documentation - Create Office Add-in projects using the Yeoman Generator](https://learn.microsoft.com/office/dev/add-ins/develop/yeoman-generator-overview)
   **Feedback for WXP (Word, Excel or PowerPoint) add-ins**
@@ -119,7 +119,7 @@ So that we could help you further, please [open an issue on GitHub](https://gith
 ## General Resources
 
 * [Documentation](https://aka.ms/office-add-ins-docs)
-* Quick Starts: [Outlook](https://docs.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart), [Excel](https://docs.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery), [Word](https://docs.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart), and [PowerPoint](https://docs.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
+* Quick Starts: [Outlook](https://learn.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart), [Excel](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery), [Word](https://learn.microsoft.com/office/dev/add-ins/quickstarts/word-quickstart), and [PowerPoint](https://learn.microsoft.com/office/dev/add-ins/quickstarts/powerpoint-quickstart)
 * [Script Lab](https://aka.ms/getscriptlab)
 * [Samples](https://aka.ms/officeaddinsamples)
 * [Microsoft 365 Developer Program](https://aka.ms/M365devprogram)

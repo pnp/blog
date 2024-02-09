@@ -86,20 +86,20 @@ Thank you for your work. Samples are often showcased in Demos.
 
 Additional resources around the covered topics and links from the slides.
 
-*   **D1**:  Documentation v1.0 - [Working with Intune in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/intune-graph-overview?view=graph-rest-1.0) 
-*   **D1**:  Documentation beta - [Working with Intune in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/intune-graph-overview?view=graph-rest-beta) 
+*   **D1**:  Documentation v1.0 - [Working with Intune in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/intune-graph-overview?view=graph-rest-1.0) 
+*   **D1**:  Documentation beta - [Working with Intune in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/intune-graph-overview?view=graph-rest-beta) 
 *   **D1**:  Repo - [Intune Graph Samples](https://github.com/microsoftgraph/powershell-intune-samples) 
 *   **D1**:  Reference - [Microsoft365DSC](https://microsoft365dsc.com/) 
 *   **D1**:  Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer) | aka.ms/ge
-*   **D1**:  Documentation - [Get started with Desired State Configuration (DSC) for Windows](https://docs.microsoft.com/powershell/dsc/getting-started/wingettingstarted?view=dsc-1.1) 
-*   **D1:**  Documentation - [Microsoft Endpoint Manager overview](https://docs.microsoft.com/mem/endpoint-manager-overview) 
+*   **D1**:  Documentation - [Get started with Desired State Configuration (DSC) for Windows](https://learn.microsoft.com/powershell/dsc/getting-started/wingettingstarted?view=dsc-1.1) 
+*   **D1:**  Documentation - [Microsoft Endpoint Manager overview](https://learn.microsoft.com/mem/endpoint-manager-overview) 
 *   **D2:**  Sample - [ace-dynamic-card](https://github.com/pnp/spfx-reference-scenarios/tree/main/samples/ace-dynamic-card) 
-*   **D2:**  Documentation - [Overview of Viva Connections Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+*   **D2:**  Documentation - [Overview of Viva Connections Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 *   **D2:**  Samples - [Viva Connection Adaptive Card Extensions (ACEs) sample repository](https://github.com/pnp/sp-dev-fx-aces) 
 *   Previous demos in [Patrick Rodgers](https://twitter.com/mediocrebowler) | @mediocrebowler, Adaptive Card Extensions series
     *   [When to build Viva Connections Adaptive Card Extensions](https://youtu.be/F5JcbIlxSpo?t=1562) – 25th of January
     *   [Deep dive on Viva Connections Adaptive Card Extension development – State management](https://youtu.be/YG16snk1fJU?t=1718) – 30th of January
-*   **D3:**  Documentation - [File component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/file) 
+*   **D3:**  Documentation - [File component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/file) 
 *   **D3:**  Tool - [Microsoft Graph Toolkit Playground – File](https://mgt.dev/?path=/story/components-mgt-file--file) 
 *   **D3:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
@@ -138,7 +138,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

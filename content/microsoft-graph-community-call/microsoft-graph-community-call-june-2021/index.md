@@ -63,10 +63,10 @@ and sink, trigger the sync and use Power BI to display data insights.   
 From demos:
 
 -   Documentation - [Create
-    educationAssignment](https://docs.microsoft.com/graph/api/educationclass-post-assignments?view=graph-rest-beta) 
+    educationAssignment](https://learn.microsoft.com/graph/api/educationclass-post-assignments?view=graph-rest-beta) 
 
 -   Documentation -- [educationAssignment
-    API](https://docs.microsoft.com/graph/api/resources/educationassignment?view=graph-rest-beta) 
+    API](https://learn.microsoft.com/graph/api/resources/educationassignment?view=graph-rest-beta) 
 
 -   VSCode Extension - [MS Graph
     Completion](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-msgraph-autocomplete) 
@@ -78,7 +78,7 @@ From demos:
     Connect](https://azure.microsoft.com/services/graph-data-connect/) 
 
 -   Documentation - [Overview of Microsoft Graph Data
-    Connect](https://docs.microsoft.com/graph/data-connect-concept-overview) 
+    Connect](https://learn.microsoft.com/graph/data-connect-concept-overview) 
 
  
 
@@ -125,15 +125,15 @@ From demos:
 
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
--   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
+-   Microsoft 365 Developer Podcast <https://www.m365devpodcast.com/>
 -   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 -   Learn Module - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/) | <https://aka.ms/mgt-learn>
+    Toolkit](https://learn.microsoft.com/learn/modules/msgraph-toolkit-intro/) | <https://aka.ms/mgt-learn>
 -   Repo - [Microsoft Graph Toolkit
     v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) | <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/graph/toolkit/overview) | <https://aka.ms/mgt-docs>
+    Overview](https://learn.microsoft.com/graph/toolkit/overview) | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple) | [https://mgt.dev](https://mgt.dev/)
 

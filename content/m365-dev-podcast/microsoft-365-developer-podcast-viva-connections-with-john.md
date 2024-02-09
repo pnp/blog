@@ -22,16 +22,16 @@ Bandinelli
 -   [Microsoft Viva Connections helps everyone to stay engaged and
     informed](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
 
-### Microsoft News 
+### Microsoft News
 
 -   [SharePoint Framework v1.12.1 release
-    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.12.1)
+    notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.12.1)
 -   [Microsoft Graph community call -- May
     2021](https://www.youtube.com/watch?v=MPVh2XmhWhg)
 -   [Understanding the Office Add-ins
     runtime](https://developer.microsoft.com/graph/blogs/understanding-office-add-ins-runtime/)
 
-### Community Links 
+### Community Links
 
 -   [How to determine web part size with SPFx v1.12
     (@yhabersaat)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-determine-web-part-size-with-spfx-v1-12/ba-p/2230898)

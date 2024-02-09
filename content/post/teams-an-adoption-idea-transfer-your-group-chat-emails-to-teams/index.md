@@ -35,7 +35,7 @@ provide a summary of the email I am transferring, from, subject and body
 preview and in my case the option to start a one to one chat with the
 sender or a group chat if there are more than one recipients of the
 email. This is done using the [Deep
-Link](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) feature
+Link](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) feature
 of Teams.
 I have supplied a copy/paste option at the end of my post that will
 allow you to replicate this in your personal PowerAutomate / Teams
@@ -68,7 +68,7 @@ The second and final step is an adaptive card built via [adaptive cards
 designer](https://adaptivecards.io/samples/).  It's a steep learning
 curve but Designer site gives you plenty of sample cards to experiment
 with and it is here that you need to include the [deep
-links](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) to
+links](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links#generating-a-deep-link-to-a-chat) to
 your new Teams conversations which will automatically launch a teams
 conversation with these users.
 

@@ -23,7 +23,7 @@ for June trainings on
 Recognition Program](https://aka.ms/m365pnp-recognition) announced. 
 
 Join the [Viva Connections private
-preview](https://aka.ms/viva/connections/preview/register)! 
+preview](https://aka.ms/viva/connections/preview/register)!
 
 Update on
 SharePoint Framework v1.13.0 features -- extensibility options with Viva
@@ -188,7 +188,7 @@ slides.
 
 -   Documentation - [Follow documents, sites, and tags by using the REST
     service in
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-follow-documents-sites-and-tags-by-using-the-rest-service-in-sharepoint-2) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/general-development/how-to-follow-documents-sites-and-tags-by-using-the-rest-service-in-sharepoint-2) 
 
 -   Tool -- [Graph
     Explorer](https://developer.microsoft.com/graph/graph-explorer) 
@@ -259,7 +259,7 @@ slides.
     Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6
     videos)
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -289,7 +289,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 

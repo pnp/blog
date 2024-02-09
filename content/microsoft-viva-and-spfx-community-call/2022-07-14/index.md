@@ -26,7 +26,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
     * [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react) – v3.9.0 (GA)
     * [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls) – v3.8.0 (GA)
 * Web part samples
-    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](http://twitter.com/JWaegebaert) \| @JWaegebaert
+    * [Page Navigator](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
     * [Applications Secrets Expiration](https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-graph-app-secret-expiration/) - [Aimery Thomas](https://twitter.com/aimery_thomas) \| @aimery_thomas
     * React List Search - [Aaron B](https://github.com/mackilroy007/).\| mackilroy007
 * Microsoft 365 Developer Podcast (July 6th) - Microsoft Teams Toolkit with Pierce Boggan \| [podcast](https://www.m365devpodcast.com/e/microsoft-teams-toolkit-with-pierce-boggan/)
@@ -38,7 +38,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Adaptive Card Extensions - Dynamic Announcements** – single ACE component to show multiple cards and items from a SharePoint list. Each list row is rendered separately in a Card view. Card view format based on schema and data stored in list row. Additional information in row rendered in Quick View card or link to external resource. Display and rotate card on Dashboard by time and date. Navigate through card items with Prev/Next.
 
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler)
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler)
 (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
@@ -46,12 +46,12 @@ call.
 
 ## Agenda items
 
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [6:08](https://youtu.be/Mv-bZfMYCIo?t=368)
-* CLI for Microsoft 365 - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [8:23](https://youtu.be/Mv-bZfMYCIo?t=503)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:39](https://youtu.be/Mv-bZfMYCIo?t=639)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:42](https://youtu.be/Mv-bZfMYCIo?t=702)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [12:40](https://youtu.be/Mv-bZfMYCIo?t=760)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [14:02](https://youtu.be/Mv-bZfMYCIo?t=842)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [6:08](https://youtu.be/Mv-bZfMYCIo?t=368)
+* CLI for Microsoft 365 - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [8:23](https://youtu.be/Mv-bZfMYCIo?t=503)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [10:39](https://youtu.be/Mv-bZfMYCIo?t=639)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:42](https://youtu.be/Mv-bZfMYCIo?t=702)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [12:40](https://youtu.be/Mv-bZfMYCIo?t=760)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [14:02](https://youtu.be/Mv-bZfMYCIo?t=842)
 * Demo Upgrading SPFx solutions to the latest version using the CLI for Microsoft 365 – [Don Kirkham](https://twitter.com/donkirkham) (DMI) \| @donkirkham – [15:45](https://youtu.be/Mv-bZfMYCIo?t=945)
 * Demo Adaptive Card Extensions - Dynamic Announcements – [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me – [32:54](https://youtu.be/Mv-bZfMYCIo?t=1974)
 
@@ -75,8 +75,8 @@ call.
 ## Demo references
 
 * **Upgrading SPFx solutions to the latest version using the CLI for Microsoft 365**
-    * PnP Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) \| [aka.ms/cli-m365](http://aka.ms/cli-m365)
-    * Article (11July2022) - [SharePoint Framework (SPFx) v1.15 and the attack of ESlint](https://www.andrewconnell.com/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/) – Andrew Connell (Voitanos) \| @andrewconnell
+    * PnP Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) \| [aka.ms/cli-m365](https://aka.ms/cli-m365)
+    * Article (11July2022) - [SharePoint Framework (SPFx) v1.15 and the attack of ESlint](https://www.voitanos.io/blog/sharepoint-framework-v1.15-and-the-attack-of-eslint/) – Andrew Connell (Voitanos) \| @andrewconnell
 * **Adaptive Card Extensions - Dynamic Announcements**
     * Sample Repo - [Dynamic Announcements](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/PrimaryTextCard-Dynamic-Announcements)
     * Sample Repo - [Event schedule and registration](https://github.com/pnp/AdaptiveCards-Templates/tree/main/samples/event-schedule)
@@ -119,7 +119,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -138,7 +138,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15 RC|v1.16 preview late July/early Aug
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

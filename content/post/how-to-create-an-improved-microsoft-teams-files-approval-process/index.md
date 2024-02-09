@@ -25,11 +25,11 @@ Logic Apps solution. Please do refer and compare to that blog post these
 steps to see how they differ. For later mentioned parts you need to
 follow steps in that post.
 
-## What are Azure Logic Apps and do they cost? 
+## What are Azure Logic Apps and do they cost?
 
 First: what are Logic Apps? Let's take a snippet from [Microsoft Azure
 Logic Apps
-documentation](https://docs.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=M365-MVP-5003326) here.
+documentation](https://learn.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=M365-MVP-5003326) here.
 *Azure Logic Apps is a cloud service that helps you schedule, automate,
 and orchestrate tasks, business processes, and workflows when you need
 to integrate apps, data, systems, and services across enterprises or
@@ -51,7 +51,7 @@ custom connector requirements Logic Apps might be a perfect solution.
 This also depends on number of users you would have to license Premium
 Power Automates to: yearly investment counts.
 Read more about [Logic Apps pricing
-here](https://docs.microsoft.com/azure/logic-apps/logic-apps-pricing?WT.mc_id=M365-MVP-5003326).
+here](https://learn.microsoft.com/azure/logic-apps/logic-apps-pricing?WT.mc_id=M365-MVP-5003326).
 I suggest to start with
 
 -   Create a resource group for Logic Apps so you can easily keep on
@@ -237,7 +237,7 @@ Steps are roughly similar to the ones as in the earlier post.
     dedicated columns
 -   Added a information about approval request to be sent to a channel
 
-## Conclusion 
+## Conclusion
 
 With Azure Logic Apps it is possible to go the next level without paying
 for Premium Power Automates. There are also other create features in
@@ -260,6 +260,6 @@ Not all connectors / actions are in the Logic Apps but many of them are.
 > Azure Logic Apps are a great way to extend Microsoft Teams and
 > integrate it to different systems -- inside and outside of Microsoft
 > 365 cloud.
-> 
+>
 [**This blog article is a repost from
 MyTeamsDay.Com.**](https://myteamsday.com/2021/02/10/improved-files-approval/)

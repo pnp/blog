@@ -21,7 +21,7 @@ Three demos delivered: Developing a personal wellness app to prevent burnout usi
 
 Activities: 4 articles, 3 documents, 1 landing page, 3 samples, 4 connectors, and 2 Power Platform related conversations recently delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on February 15, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on February 15, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -55,9 +55,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * Global [POWER PLATFORM BOOTCAMP \#2023](http://WWW.POWERPLATFORMBOOTCAMP.COM) – Feb 24 - 25
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
     * Microsoft Power Platform Connectors - 948 connectors! – Build new or improve existing Independent Publisher Connector – [visit our wiki!](https://github.com/microsoft/PowerPlatformConnectors/wiki), Communicate with Jocelyn Panchal \| @JocelynP_PM \|\| linkedin.com/in/jocepan00/
 
@@ -77,7 +77,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [03:23](https://youtu.be/MQyRjD1nVRQ?t=203) – Latest Power Apps Samples – [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz
 
-[06:44](https://youtu.be/MQyRjD1nVRQ?t=404) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[06:44](https://youtu.be/MQyRjD1nVRQ?t=404) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [10:59](https://youtu.be/MQyRjD1nVRQ?t=659) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 

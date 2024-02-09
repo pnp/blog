@@ -37,11 +37,11 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New – [Working Days](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/Working%20days) – [Tomasz Poszytek](https://twitter.com/TomaszPoszytek) \| @TomaszPoszytek
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New - PnP PowerShell – [Update content type of files in folder with system update](https://pnp.github.io/script-samples/spo-list-update-contenttype-systemupdate/README.html?tabs=pnpps) – [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * New - PnP PowerShell – [Change the Placeholder text in SharePoint Search Box](https://pnp.github.io/script-samples/spo-search-change-placeholder-text/README.html?tabs=pnpps) – [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * New - PnP PowerShell – [Activate a site feature in SharePoint Online](https://pnp.github.io/script-samples/spo-activate-site-feature/README.html?tabs=pnpps) – [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * New - PnP PowerShell – [Disable SharePoint List Commenting at Tenant Level](https://pnp.github.io/script-samples/spo-disable-list-comments-tenant/README.html?tabs=pnpps) – [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated - CLI for Microsoft 365 – [Export Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html?tabs=cli-m365-ps) – [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New - PnP PowerShell – [Update content type of files in folder with system update](https://pnp.github.io/script-samples/spo-list-update-contenttype-systemupdate/README.html?tabs=pnpps) – [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New - PnP PowerShell – [Change the Placeholder text in SharePoint Search Box](https://pnp.github.io/script-samples/spo-search-change-placeholder-text/README.html?tabs=pnpps) – [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * New - PnP PowerShell – [Activate a site feature in SharePoint Online](https://pnp.github.io/script-samples/spo-activate-site-feature/README.html?tabs=pnpps) – [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * New - PnP PowerShell – [Disable SharePoint List Commenting at Tenant Level](https://pnp.github.io/script-samples/spo-disable-list-comments-tenant/README.html?tabs=pnpps) – [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated - CLI for Microsoft 365 – [Export Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html?tabs=cli-m365-ps) – [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Updated Sample - [Tab Meeting StageView Vote Movie Fluid - Microsoft Teams App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie-fluid) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0
@@ -56,21 +56,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Introduction to Fantasy Premier League Independent Power Platform Connector** – step through the process - Power Automate Independent Connector requests information, FPL responds to the request passing back JSON, Power Automate Independent Connector receives data & sends to Microsoft Teams, and Microsoft Teams receives data and displays message to users. Go deep on organizing and manipulating returned data and then call a Microsoft Teams action to render standings in a Teams chat or channel.
 * **Create a better version of HTML Text component using PCF components in Power Apps** – this PCF HTML Template component allows you to create new controls, with behaviors and internal state, using only HTML and a Json string! So you can create a static HTML Text component in Power Apps Canvas or now you may create a dynamic HTML text component using the Power Apps Component Framework (PCF). Step through proof of concept of the template component.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube SoJ7uYg6iPg >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [8:13](https://youtu.be/SoJ7uYg6iPg?t=493)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:50](https://youtu.be/SoJ7uYg6iPg?t=590)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [8:13](https://youtu.be/SoJ7uYg6iPg?t=493)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:50](https://youtu.be/SoJ7uYg6iPg?t=590)
 * yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [12:22](https://youtu.be/SoJ7uYg6iPg?t=742)
 * Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen – [13:23](https://youtu.be/SoJ7uYg6iPg?t=803)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [14:35](https://youtu.be/SoJ7uYg6iPg?t=875)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [14:35](https://youtu.be/SoJ7uYg6iPg?t=875)
 * Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [16:10](https://youtu.be/SoJ7uYg6iPg?t=970)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [18:26](https://youtu.be/SoJ7uYg6iPg?t=1106)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [18:26](https://youtu.be/SoJ7uYg6iPg?t=1106)
 * Microsoft Teams Samples – [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [20:13](https://youtu.be/SoJ7uYg6iPg?t=1213)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [21:02](https://youtu.be/SoJ7uYg6iPg?t=1262)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [21:02](https://youtu.be/SoJ7uYg6iPg?t=1262)
 * Demo – Introduction to Fantasy Premier League Independent Power Platform Connector – [Joe Unwin](https://twitter.com/Flow_Joe_) (Hitachi Solutions) \| @Flow_Joe\_ – [22:32](https://youtu.be/SoJ7uYg6iPg?t=1352)
 * Demo - Create a better version of HTML Text component using PCF components in Power Apps – [Fabio Franzini](https://twitter.com/franzinifabio) (Apvee Solutions) \| @franzinifabio – [42:57](https://youtu.be/SoJ7uYg6iPg?t=2577)
 
@@ -98,7 +98,7 @@ This thriving community, depth of knowledge and this photo are not possible with
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -121,7 +121,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA|Release in approximately 2 weeks
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA

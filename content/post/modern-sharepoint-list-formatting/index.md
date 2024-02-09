@@ -121,7 +121,7 @@ Bob German, [this video](https://www.youtube.com/watch?v=iiADhChRriM),
 or you can learn more
 at [w3schools](https://www.w3schools.com/js/js_json_intro.asp).
 
-## Samples 
+## Samples
 
 We will browse to the [Microsoft 365 PnP List formatting repository on
 GitHub](https://github.com/pnp/sp-dev-list-formatting) and open the
@@ -137,7 +137,7 @@ we can now look at a list like that:
 
 [![example list.png](images/example list.png)
 
-### How can we apply a sample? 
+### How can we apply a sample?
 
 -   Get familiar with the samples that are available on GitHub
 -   regularly check for new ones / pin the repo
@@ -157,7 +157,7 @@ we can now look at a list like that:
  
 
 One more example how amazing a list can look like? I run a
-the [PimpYourOwnDevoce.com](https://github.com/LuiseFreese/blog/blob/main/pyod.shop) sticker
+the [PimpYourOwnDevoce.com](https://pimpyourowndevice.com/) sticker
 store together with [Elio Struyf](https://www.eliostruyf.com/) and we
 use a SharePoint list as our inventory ([Elio blogged about the whole
 architecture
@@ -180,8 +180,6 @@ the same GitHub repository.
 You can find helpful resources to learn more here:
 
 -   [aka.ms/m365pnp](https://aka.ms/m365pnp)
--   [Microsoft 365 PnP Community on
-    TechCommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/)
 -   [Microsoft 365 PnP List formatting repository on
     GitHub](https://github.com/pnp/sp-dev-list-formatting)
 

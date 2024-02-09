@@ -48,7 +48,7 @@ In their latest release [v6.4.0.(beta)](https://pnp.github.io/cli-microsoft365/a
 
 which massively help with those typical _Ooops we locked ourselves out of this crucial flow_ situations.
 
-To benefit from these new commands, you need to first install the beta version with `npm i -g @pnp/cli-microsoft365@next`. After that is completed, have a look at the docs to see which information you will need to provide to [add or remove an owner](https://pnp.github.io/cli-microsoft365/cmd/flow/owner/owner-add/):
+To benefit from these new commands, you need to first install the beta version with `npm i -g @pnp/cli-microsoft365@next`. After that is completed, have a look at the docs to see which information you will need to provide to [add or remove an owner](https://pnp.github.io/cli-microsoft365/cmd/flow/owner/owner-ensure):
 
 * `environmentName`
 * `flowName`

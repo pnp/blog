@@ -67,7 +67,7 @@ Topics covered in this month's community include Creating Responsive Dataverse f
 -   Join the M365 Customer Success Platform Panel -
     <https://aka.ms/SuccessPanel>
 -   Provide feedback -- Microsoft Teams Developer Community channels
-    - <https://docs.microsoft.com/microsoftteams/platform/feedback>
+    - <https://learn.microsoft.com/microsoftteams/platform/feedback>
 -   Join us for our next call: April 21, 2021 at 08:00am PDT
     - <https://aka.ms/powerappscommunitycall>
 

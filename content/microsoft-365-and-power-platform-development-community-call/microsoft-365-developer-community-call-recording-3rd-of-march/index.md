@@ -131,7 +131,7 @@ Thank you for your work. Samples are often showcased in Demos.    Request a De
 
 Additional resources around the covered topics and links from the slides.
 
-*   **D1**:  Documentation - [LibreBor (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/libreborip/) 
+*   **D1**:  Documentation - [LibreBor (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/libreborip/) 
 *   **D1**:  Repo - [Libre Bor Connector](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/LibreBor) 
 *   **D1**:  Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
 *   **D1**:  Call – Power Platform Integration LABs call – last Wednesday of each month at 11am ET/8:00 am PT.  Join call at – [https://aka.ms/PowerPlatformintegrationLABs](https://aka.ms/PowerPlatformintegrationLABs)

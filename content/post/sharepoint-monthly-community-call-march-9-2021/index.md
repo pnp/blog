@@ -4,7 +4,7 @@ date: 2021-03-09T11:19:00-05:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Microsoft Viva and SPFx community call"]
-images: 
+images:
 tags: []
 type: "regular"
 ---
@@ -43,7 +43,7 @@ participating in this PnP Community during February. You are truly
 amazing.  The host of this call was [Vesa
 Juvonen](https://twitter.com/vesajuvonen) (Microsoft) @vesajuvonen. 
 Q&A took place in the chat throughout the call.
- 
+
 
 **Demo: Getting started with Microsoft Viva Topics** -- system and tools
 to help customers manage knowledge within their organizations through a
@@ -115,7 +115,7 @@ SharePoint Community YouTube channel - <https://aka.ms/m365pnp-videos>.
 Additional resources on covered topics and discussions.
 
 -   Documentation - [Set up Microsoft Viva
-    Topics](https://docs.microsoft.com/microsoft-365/knowledge/set-up-topic-experiences)
+    Topics](https://learn.microsoft.com/microsoft-365/knowledge/set-up-topic-experiences)
 
 -   Overview - [Microsoft Viva](https://aka.ms/Viva) 
 
@@ -130,7 +130,7 @@ Additional resources on covered topics and discussions.
     Center](https://aka.ms/KCS) 
 
 -   Documentation - [Microsoft Search Graph Content
-    Connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview)
+    Connectors](https://learn.microsoft.com/MicrosoftSearch/connectors-overview)
       
 
 -   PnP Weekly -- Episode 117 with guest Bert Jansen (Microsoft) |
@@ -150,16 +150,16 @@ Additional resources on covered topics and discussions.
 
 
 -   [PnP Weekly - Videos](https://aka.ms/pnpweekly)
--   [PnP Weekly - Podcasts](http://pnpweekly.podbean.com)
+-   [PnP Weekly - Podcasts](https://pnpweekly.podbean.com)
 -   [M365 Community Documentation](https://aka.ms/m365-community-docs) -
     (non-dev)
 -   [SharePoint Documentation and
-    Guidance](https://docs.microsoft.com/sharepoint/) -
+    Guidance](https://learn.microsoft.com/sharepoint/) -
     (technical)
 -   [SharePoint Framework
     v1.11](https://developer.microsoft.com/sharepoint/blogs/announcing-sharepoint-framework-1-11-extend-more-of-microsoft-teams-and-publish-to-appsource/)
 -   [SharePoint Framework v1.11 release
-    notes](https://docs.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
+    notes](https://learn.microsoft.com/sharepoint/dev/spfx/release-1.11.0)
 -   [Exploring how to get started on open-source and community
     work?](https://aka.ms/sharing-is-caring)
 -   [SharePoint Starter
@@ -168,7 +168,7 @@ Additional resources on covered topics and discussions.
     <https://aka.ms/spdev-call>
 -   SharePoint Developer documentation - <https://aka.ms/spdev-docs>
 -   SharePoint Development Issues - <https://aka.ms/spdev-issues>
--   SharePoint GitHub organization - <http://github.com/SharePoint>
+-   SharePoint GitHub organization - <https://github.com/SharePoint>
 -   SharePoint Development UserVoice - new feature requests -
     <https://aka.ms/spdev-uservoice>
 

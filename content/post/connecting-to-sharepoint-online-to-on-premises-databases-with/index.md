@@ -41,7 +41,7 @@ of ownership (TCO).
 So, the SPFX solution was chosen. The architecture was to use SPFX web
 parts that connected to a REST API hosted in Azure App Services. The
 clever part was using [Azure App Service Hybrid
-Connections](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections) which
+Connections](https://learn.microsoft.com/azure/app-service/app-service-hybrid-connections) which
 allowed us to connect from Azure back into the customer network without
 the need to reconfigure complex firewalls.
  
@@ -49,7 +49,7 @@ To help visualize the solution, let's take a look at the architecture.
 ![The architecture overview of the solution](images/image-5.png)
 
 We ended up having two [Azure Hybrid Connection
-Services](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections) running.
+Services](https://learn.microsoft.com/azure/app-service/app-service-hybrid-connections) running.
 One for the active live environment and another for the disaster
 recovery environment.
 The data being accessed was sensitive so the REST API had to be secure.
@@ -71,7 +71,7 @@ the REST API there are a couple of steps that need to be performed:
     REST API.
 To configure the SharePoint Framework solution take a look at [this
 Microsoft
-post](https://docs.microsoft.com/sharepoint/dev/spfx/use-aad-tutorial#configure-the-api-permissions-requests) which
+post](https://learn.microsoft.com/sharepoint/dev/spfx/use-aad-tutorial#configure-the-api-permissions-requests) which
 provides a good guide (see section Configure the API Permission
 Requests).
 The second part is performed by going into the SharePoint Admin centre
@@ -123,7 +123,7 @@ technology supports. The transport mechanism needs to be TCP based and
 does not support UCP. For this solution, a .NET SQL Client was used
 which is supported and works really well.
 For information on setting up the Azure Hybrid Connection see the
-following [Microsoft article](https://docs.microsoft.com/azure/app-service/app-service-hybrid-connections).
+following [Microsoft article](https://learn.microsoft.com/azure/app-service/app-service-hybrid-connections).
  
 ### Performance
 

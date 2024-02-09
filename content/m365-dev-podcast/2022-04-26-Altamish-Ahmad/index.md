@@ -17,10 +17,10 @@ Altamish Ahmad joins Jeremy and Paul to discuss the Bookings API now on Microsof
 ## Links from the show
 
 * [Microsoft Graph Bookings APIs now available on the v1 endpoint](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-bookings-apis-now-available-on-the-v1-endpoint/?WT.mc_id=M365-MVP-4025164)
-* [Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0&viewFallbackFrom=graph-rest-1.0%3FWT.mc_id%3DM365-MVP-4025164)
-* [Beta - Use the Microsoft Bookings API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0&viewFallbackFrom=graph-rest-beta%3FWT.mc_id%3DM365-MVP-4025164)
+* [Use the Microsoft Bookings API in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0&viewFallbackFrom=graph-rest-1.0%3FWT.mc_id%3DM365-MVP-4025164)
+* [Beta - Use the Microsoft Bookings API in Microsoft Graph](https://learn.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-1.0&viewFallbackFrom=graph-rest-beta%3FWT.mc_id%3DM365-MVP-4025164)
 * [New features in Microsoft Graph Bookings APIs provide enhanced booking infrastructure](https://devblogs.microsoft.com/microsoft365dev/new-features-in-microsoft-graph-bookings-apis-provide-enhanced-booking-infrastructure/?WT.mc_id=M365-MVP-4025164)
-* [Microsoft Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide&viewFallbackFrom=o365-worldwide%3FWT.mc_id%3DM365-MVP-4025164)
+* [Microsoft Bookings](https://learn.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide&viewFallbackFrom=o365-worldwide%3FWT.mc_id%3DM365-MVP-4025164)
 
 ## Microsoft News
 

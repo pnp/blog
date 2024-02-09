@@ -72,7 +72,7 @@ of the Power Apps license.  
  
 ## Here is how you do it
 
-Log into your dev tenant and go to the Admin center. Select 
+Log into your dev tenant and go to the Admin center. Select
 the **waffle menu** in the upper left corner and select  **Admin.** 
 ![Gezeitenbrand42_10-1614283053396.png](images/Gezeitenbrand42_10-1614283053396.png)
  
@@ -138,5 +138,5 @@ unleash the full potential of the Power
 Platform*](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-enhance-your-dev-tenant-to-unleash-the-full-potential-of/ba-p/2158336),
 you can now add multiple environments and yes, even Production
 Environments. Check out the [Microsoft documentation about
-environments](https://docs.microsoft.com/power-platform/admin/create-environment) to
+environments](https://learn.microsoft.com/power-platform/admin/create-environment) to
 get more details and why and how to use them. Enjoy. 

@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo), SharePoint Developer in the UK.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Reshmee Auckloo](https://twitter.com/reshmeeauckloo), SharePoint Developer in the UK.
 
 ## In this episode
 
@@ -54,7 +54,7 @@ This session was recorded on Wednesday 15th of November and on Monday 20th of No
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-un5yi-15031d8 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -97,7 +97,7 @@ No videos listed this week as we focuced on all Ignite announcements.
 
 ## Samples
 
-Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples). 
+Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples).
 
 ## Upcoming events
 
@@ -121,4 +121,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

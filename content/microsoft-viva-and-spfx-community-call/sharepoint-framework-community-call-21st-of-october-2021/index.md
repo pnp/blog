@@ -215,7 +215,7 @@ slides.
 -   D2:  Sample Extension - [Share to Teams - Command
     Set](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/js-share-to-teams) 
 -   D2:  Documentation - [Create Share-to-Teams
-    button](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams) 
+    button](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams) 
 -   D3:  Survey - [Next SPFx Design Patterns Topic -- November 4,
     2021](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8ke1rGfE-VNsUHrnMWCrL5UN1dHRUYxV01CUkJESktKMENBQldURVpRWiQlQCN0PWcu&web=1&wdLOR=cC640D9E0-C403-405A-9EF1-D9F43B6ADF90) 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
@@ -295,7 +295,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -340,7 +340,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in

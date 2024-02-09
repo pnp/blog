@@ -20,12 +20,12 @@ This month's community call topics:
 
 * **Microsoft roadmap for One Outlook** – Get to know more about One Outlook, including enabling support for web add-ins and the planned timeline for preview and release – [Nikita Mittal](https://www.linkedin.com/in/nikita-mittal-92536648) – Senior Product Manager (Microsoft)
 * **Microsoft Outlook Smart Alerts** – Preview how to use Outlook Smart Alerts to enable your add-in to run logic when a user sends a message or appointment – [Sam Ramon](https://github.com/samantharamon) – Technical Writer (Microsoft)
-* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](http://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam
-* **Community spotlight** recognizes [Maarten van Stam](http://twitter.com/aafvstam)
+* **Using Blazor in a Microsoft Excel add-in** – Step through creating a Blazor Webassembly Excel add-in – [Maarten van Stam](https://twitter.com/aafvstam) – MVP Office Add-ins | @aafvstam
+* **Community spotlight** recognizes [Maarten van Stam](https://twitter.com/aafvstam)
 * **Community panels** – Join us to share your feedback on how we can provide you with a better Office Add-ins development experience
 * **Q&A** – See question and answers at end of call and in chat throughout call
 
-The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
+The call was hosted by [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @davidchesnut. Recorded June 8, 2022.
 
 {{< youtube k9k70_QQZ-Q >}}
 
@@ -39,14 +39,14 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 * Update - Microsoft roadmap for One Outlook - Nikita Mittal - Senior Product Manager (Microsoft) – [1:23](https://youtu.be/k9k70_QQZ-Q?t=83)
 * Demo - Microsoft Outlook Smart Alerts - [Sam Ramon](https://github.com/samantharamon) - Technical Writer (Microsoft) – [7:35](https://youtu.be/k9k70_QQZ-Q?t=455)
-* Demo - Using Blazor in a Microsoft Excel add-in - [Maarten van Stam](http://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [15:12](https://youtu.be/k9k70_QQZ-Q?t=912)
+* Demo - Using Blazor in a Microsoft Excel add-in - [Maarten van Stam](https://twitter.com/aafvstam) - MVP Office Add-ins \| @aafvstam – [15:12](https://youtu.be/k9k70_QQZ-Q?t=912)
 * Community Spotlight – [32:26](https://youtu.be/k9k70_QQZ-Q?t=1946)
 * Community Panels announced – [33:10](https://youtu.be/k9k70_QQZ-Q?t=1990)
-* Q&A – [David Chesnut](http://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [36:26](https://youtu.be/k9k70_QQZ-Q?t=2186)
+* Q&A – [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) \| @davidchesnut – [36:26](https://youtu.be/k9k70_QQZ-Q?t=2186)
 
 ## Actions
 
-* Give us feedback on what you need from code samples. Join the Teams call – [Office Add-ins samples discussion](https://aka.ms/officeaddinsamples-join) – June 15, 8:00 AM PT \| <https://aka.ms/officeaddinsamples-call>
+* Give us feedback on what you need from code samples. Join the Teams call – Office Add-ins samples discussion – June 15, 8:00 AM PT
 * Share your feedback on how we can provide you with a better Office Add-ins development experience. Join a community panel –
     * [Outlook add-ins panel](https://ux.microsoft.com/Panel/OutlookAddinDeveloper)
     * [Excel add-ins panel](https://ux.microsoft.com/Panel/ExcelAddinDeveloper)
@@ -64,7 +64,7 @@ The call was hosted by [David Chesnut](http://twitter.com/davidchesnut) (Microso
 
 **Is there a way to create spell checker add-ins? We are currently trying to create some spell checkers for small languages not supported officially by Microsoft. Is there a way to include them via office.js on all platforms and applications?**
 
-This depends on what features you want to support. For example, you can't integrate with the built-in spell checker to scan as the user types, but you can read document content, spell check it, and write document content with corrections. You can create one add-in for Word, Excel, and PowerPoint. For more information on how to configure multiple hosts in the manifest, see [Specify Office applications and API requirements](https://docs.microsoft.com/office/dev/add-ins/develop/specify-office-hosts-and-api-requirements#specify-which-office-applications-can-host-your-add-in). Also take a look at the [Script Lab manifest](https://github.com/OfficeDev/script-lab/blob/master/manifests/script-lab-react-prod.xml) which supports multiple hosts. You'll need to create a separate add-in for Outlook.
+This depends on what features you want to support. For example, you can't integrate with the built-in spell checker to scan as the user types, but you can read document content, spell check it, and write document content with corrections. You can create one add-in for Word, Excel, and PowerPoint. For more information on how to configure multiple hosts in the manifest, see [Specify Office applications and API requirements](https://learn.microsoft.com/office/dev/add-ins/develop/specify-office-hosts-and-api-requirements#specify-which-office-applications-can-host-your-add-in). Also take a look at the [Script Lab manifest](https://github.com/OfficeDev/script-lab/blob/master/manifests/script-lab-react-prod.xml) which supports multiple hosts. You'll need to create a separate add-in for Outlook.
 
 If you need more information, please let us know more about your scenario at either [Microsoft Q&A](https://aka.ms/office-addins-dev-questions) (using the ​**office-js-dev** and **office-addins-dev** tags) or [Stack Overflow](https://stackoverflow.com) (using the **office-js**, **outlook-web-addins**, and **office-scripts** tags).
 
@@ -119,15 +119,15 @@ We're sorry to hear you've encountered an issue. Please open a [GitHub issue](ht
 ## References
 
 * **Microsoft Outlook Smart Alerts**
-    * Documentation – [Use Smart Alerts and the OnMessageSend and OnAppointmentSend events in your Outlook add-in (preview)](https://docs.microsoft.com/office/dev/add-ins/outlook/smart-alerts-onmessagesend-walkthrough)
-    * Documentation - [LaunchEvent element](https://docs.microsoft.com/javascript/api/manifest/launchevent)
-    * Documentation - [Configure your Outlook add-in for event-based activation](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch)
+    * Documentation – [Use Smart Alerts and the OnMessageSend and OnAppointmentSend events in your Outlook add-in (preview)](https://learn.microsoft.com/office/dev/add-ins/outlook/smart-alerts-onmessagesend-walkthrough)
+    * Documentation - [LaunchEvent element](https://learn.microsoft.com/javascript/api/manifest/launchevent)
+    * Documentation - [Configure your Outlook add-in for event-based activation](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch)
     * Sample - [Use Outlook Smart Alerts (preview)](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-check-item-categories)
 
 * **Using Blazor in a Microsoft Excel add-in**
     * Sample – [Create a Blazor Webassembly Excel add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/blazor-add-in/excel-blazor-add-in)
     * Samples - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
-    * Documentation - [Office Add-ins platform overview](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+    * Documentation - [Office Add-ins platform overview](https://learn.microsoft.com/office/dev/add-ins/overview/office-add-ins)
     * Videos channel – [Maarten van Stam – Soft As In Software](https://www.youtube.com/SoftAsInSoftware)
     * Twitch – [Soft As In Software](https://www.twitch.tv/softasinsoftware)
     * Blog - [Soft As In Software blog](https://blog.softasinsoftware.com/)

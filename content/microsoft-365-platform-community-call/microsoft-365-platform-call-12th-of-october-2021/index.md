@@ -115,7 +115,7 @@ call and specifically during the last 10 minutes of call. 
 
 Demos delivered in this session
 
--   **Hands-on with Microsoft Graph File Uploads and Downloads** 
+-   **Hands-on with Microsoft Graph File Uploads and Downloads**
     building file access into a Microsoft 365 application using
     Microsoft Graph!  Quick review of available Learning Path modules
     (lab exercises) calling on MGT in JS development.   Focus on one
@@ -163,23 +163,23 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   D1:  Learn - [Microsoft Graph
-    Fundamentals](https://docs.microsoft.com/learn/paths/m365-msgraph-fundamentals/?WT.mc_id=m365-16105-cxa) 
+    Fundamentals](https://learn.microsoft.com/learn/paths/m365-msgraph-fundamentals/?WT.mc_id=m365-16105-cxa) 
 
 -   D1:  Learn - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/?WT.mc_id=m365-16105-cxa) 
+    Toolkit](https://learn.microsoft.com/learn/modules/msgraph-toolkit-intro/?WT.mc_id=m365-16105-cxa) 
 
 -   D1:  Learn - [Explore Microsoft Graph scenarios for JavaScript
-    development](https://docs.microsoft.com/learn/paths/m365-msgraph-scenarios/?WT.mc_id=m365-16105-cxa) 
+    development](https://learn.microsoft.com/learn/paths/m365-msgraph-scenarios/?WT.mc_id=m365-16105-cxa) 
 
 -   D1:  Documentation - [Microsoft Graph REST API v1.0
-    reference](https://docs.microsoft.com/graph/api/overview?view=graph-rest-1.0) 
+    reference](https://learn.microsoft.com/graph/api/overview?view=graph-rest-1.0) 
 
 -   D2:  Tools - [Teams Toolkit
     (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) 
 
 -   D2:  Documentation - [Build apps with the Teams Toolkit and Visual
     Studio
-    Code](https://docs.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview) 
+    Code](https://learn.microsoft.com/microsoftteams/platform/toolkit/visual-studio-code-overview) 
 
 -   **PnP Weekly -- Episode 138** (October 11th) with Germany-based
     Office Apps and Services MVP, consultant, developer [Luise
@@ -248,7 +248,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -288,7 +288,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
@@ -302,4 +302,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 13th of October 2021*
-

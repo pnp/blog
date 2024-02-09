@@ -102,7 +102,7 @@ Happy coding everyone!
 ## Resources
 
 [Determine the rendered web part width | Microsoft
-Docs](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/determine-web-part-width)
+Docs](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/basics/determine-web-part-width)
 
 [SharePoint Framework enterprise guidance | Microsoft
-Docs](https://docs.microsoft.com/sharepoint/dev/spfx/enterprise-guidance#in-perspective-sharepoint-framework-in-the-broader-sharepoint-platform)
+Docs](https://learn.microsoft.com/sharepoint/dev/spfx/enterprise-guidance#in-perspective-sharepoint-framework-in-the-broader-sharepoint-platform)

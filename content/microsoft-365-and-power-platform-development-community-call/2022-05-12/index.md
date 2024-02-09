@@ -30,12 +30,12 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core) - v1.7.0-preview.2
     * [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy) - v1.2.0-preview.2
 * Script samples
-    * Updated - [Testing user preferred language of SharePoint Site](https://pnp.github.io/script-samples/user-language-for-site/README.html?tabs=pnpps) - [Adam Wójcik](http://twitter.com/Adam25858782) \| @Adam25858782
+    * Updated - [Testing user preferred language of SharePoint Site](https://pnp.github.io/script-samples/user-language-for-site/README.html?tabs=pnpps) - [Adam Wójcik](https://twitter.com/Adam25858782) \| @Adam25858782
     * Updated - [Update User Profile Properties](https://pnp.github.io/script-samples/spo-update-user-profile-properties/README.html?tabs=pnpps) - [Jasey Waegebaert](https://github.com/Jwaegebaert) \| Jwaegebaert
-    * Updated - [Flow run day summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html?tabs=cli-m365-ps) - [Leon Armston](http://twitter.com/LeonArmston) \| @LeonArmston
+    * Updated - [Flow run day summary](https://pnp.github.io/script-samples/flow-runs-day-summary/README.html?tabs=cli-m365-ps) - [Leon Armston](https://twitter.com/LeonArmston) \| @LeonArmston
 * Microsoft Teams samples
     * [HR Talent App Node](https://github.com/OfficeDev/msteams-sample-contoso-hr-talent-app-node) - [Scott Perham](https://github.com/scottperham) \| scottperham and [Jack Lewis](https://linkedin.com/in/jacklewis123) \| jacklewis123
-* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
+* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
 ### Demos
 
@@ -43,7 +43,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **List formatting magic – Advance discussion board formatting with Power Automate** - using JSON formatting to transform out-of-box discussion board to next level discussion view. Add menu with support features (permission checker, default editing, comments & responses to post), add a custom discussion board timeline view, support information lookup (discussion answers list), and add voting with Emoji’s. leverages existing capabilities – SharePoint page, filter web parts, Microsoft Power Automate (declarative JSON for Flow), and Microsoft Teams.
 * **List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting** - jazz up percentage amounts in a column using a number level bar and then add a localizable textual interpretation to the amounts. Localize the text using the @lcid token (magic). Localizing text in a list side-steps complicated page translations and ensures users in various regions can use your formats without issue. Observe simplicity of copying JSON from sample into the column’s Advance mode formatting box.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -51,16 +51,16 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [6:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=384)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:11](https://www.youtube.com/watch?v=SM_KlEcefcw?t=491)
-* yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) @wictor – [9:54](https://www.youtube.com/watch?v=SM_KlEcefcw?t=594)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:19](https://www.youtube.com/watch?v=SM_KlEcefcw?t=619)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [4:06](https://www.youtube.com/watch?v=SM_KlEcefcw?t=246)
-* Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:04](https://www.youtube.com/watch?v=SM_KlEcefcw?t=664)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [11:37](https://www.youtube.com/watch?v=SM_KlEcefcw?t=697)
-* Demo - How to build a SSO bot using yo teams for Microsoft Teams – [Stephan Bisser](http://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [15:08](https://www.youtube.com/watch?v=SM_KlEcefcw?t=908)
-* Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](http://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [26:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
-* Demo - List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [43:25](https://www.youtube.com/watch?v=SM_KlEcefcw?t=2628)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [6:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=384)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [8:11](https://www.youtube.com/watch?v=SM_KlEcefcw?t=491)
+* yo Teams updates - [Wictor Wilén](https://twitter.com/wictor) (Microsoft) @wictor – [9:54](https://www.youtube.com/watch?v=SM_KlEcefcw?t=594)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:19](https://www.youtube.com/watch?v=SM_KlEcefcw?t=619)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [4:06](https://www.youtube.com/watch?v=SM_KlEcefcw?t=246)
+* Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:04](https://www.youtube.com/watch?v=SM_KlEcefcw?t=664)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [11:37](https://www.youtube.com/watch?v=SM_KlEcefcw?t=697)
+* Demo - How to build a SSO bot using yo teams for Microsoft Teams – [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [15:08](https://www.youtube.com/watch?v=SM_KlEcefcw?t=908)
+* Demo - List formatting magic – Advance discussion board formatting with Power Automate – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage – [26:24](https://www.youtube.com/watch?v=SM_KlEcefcw?t=1588)
+* Demo - List formatting magic – Taking advantage of new multi-lingual capabilities in list formatting – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [43:25](https://www.youtube.com/watch?v=SM_KlEcefcw?t=2628)
 
 ## Actions
 
@@ -86,9 +86,9 @@ call.
 
 * **How to build an SSO bot using yo teams for Microsoft Teams**
     * Tool - [Microsoft Teams App Project Generator - \#YoTeams](https://github.com/pnp/generator-teams)
-    * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://docs.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
+    * Documentation - [Single sign-on (SSO) with Microsoft Teams bots](https://learn.microsoft.com/learn/modules/msteams-sso/6-bots-sso)
     * Training - [SSO Teams Bot - Microsoft Teams App](https://github.com/OfficeDev/TrainingContent/tree/master/Teams/80%20Using%20Single%20Sign-On%20with%20Microsoft%20Teams/Demos/02-learn-msteams-sso-bot)
-    * Documentation - [Single sign-on (SSO) support for bots](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
+    * Documentation - [Single sign-on (SSO) support for bots](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
 * **List formatting magic – Advance discussion board formatting with Power Automate**
     * Sample - [Discussion board format](https://github.com/pnp/List-Formatting/tree/master/view-samples/discussion-board-format)
     * Sample - [Calculator sample](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-calculator)
@@ -109,7 +109,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.9.0 GA|Prepping for v1.10.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.6.0 GA|Prepping for v1.7.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.10.0 GA|In progress: V2 POC - .NET 6.0 based, Requires PowerShell 7.2
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v3.5.0 GA,v4.0.0-preview.1
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.6.0 GA, v1.7.0-preview.2

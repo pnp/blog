@@ -14,7 +14,9 @@ tags: []
 type: "regular"
 ---
 
-[Dataverse Search includes inline suggestions](https://learn.microsoft.com/en-us/power-apps/user/relevance-search#inline-suggestions) that are displayed as you type the search string, as shown in the example from Microsoft's documentation:
+
+[Dataverse Search includes inline suggestions](https://learn.microsoft.com/power-apps/user/relevance-search#inline-suggestions) that are displayed as you type the search string, as shown in the example from Microsoft's documentation:
+
 
 ![Example inline search](images/ms-inline-search.png)
 
@@ -24,7 +26,9 @@ However, one issue with autonumber columns is that the inline suggestions in Dat
 
 ![Search without improvement](images/search-without-improvement.png)
 
-Now that [Dataverse formula columns are generally available](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/formula-columns?tabs=type-or-paste), we can get around this issue, by adding a new column with the formula:
+
+Now that [Dataverse formula columns are generally available](https://learn.microsoft.com/power-apps/maker/data-platform/formula-columns?tabs=type-or-paste), we can get around this issue, by adding a new column with the formula:
+
 
 ``` excel
 Text(Int('Case Number'),"#")

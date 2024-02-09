@@ -16,15 +16,15 @@ videos:
 
 ## Call summary
 
-In this month’s community call, updates on **Accessibility features in Adaptive Cards** (tools include - speech, altText, tooltip, label, and CaptionSource (Preview)), **New video sources for Media Element** (the latest release of Media Element (in v1.6) will include out-of-box support for – YouTube, Vimeo, and Dailymotion. Brief demo of Media Element), and 15-minute **Q&A** covering a host of topics. Expect another v1.6 beta release the week of September 12th. Resources included in blog post. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on September 8, 2022.
+In this month’s community call, updates on **Accessibility features in Adaptive Cards** (tools include - speech, altText, tooltip, label, and CaptionSource (Preview)), **New video sources for Media Element** (the latest release of Media Element (in v1.6) will include out-of-box support for – YouTube, Vimeo, and Dailymotion. Brief demo of Media Element), and 15-minute **Q&A** covering a host of topics. Expect another v1.6 beta release the week of September 12th. Resources included in blog post. This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on September 8, 2022.
 
 {{< youtube uFVUXJwnOTw >}}
 
 ## Agenda
 
-* Accessibility Features in Adaptive Cards – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [00:29](https://youtu.be/uFVUXJwnOTw?t=29)
-* New Video Sources for Media Element – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [02:48](https://youtu.be/uFVUXJwnOTw?t=168)
-* Q&A – [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [09:32](https://youtu.be/uFVUXJwnOTw?t=572)
+* Accessibility Features in Adaptive Cards – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [00:29](https://youtu.be/uFVUXJwnOTw?t=29)
+* New Video Sources for Media Element – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [02:48](https://youtu.be/uFVUXJwnOTw?t=168)
+* Q&A – [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [09:32](https://youtu.be/uFVUXJwnOTw?t=572)
 
 ## Topic summary
 

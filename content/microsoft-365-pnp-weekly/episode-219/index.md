@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Michael Roth](https://twitter.com/MichaelRoth42) Power Platform consultant from Avanade.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by [Michael Roth](https://twitter.com/MichaelRoth42) Power Platform consultant from Avanade.
 
 ## In this episode
 
@@ -25,11 +25,11 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## References
 
-- [Power Platform center of excellence](https://learn.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
+- [Power Platform center of excellence](https://learn.microsoft.com/power-platform/guidance/coe/starter-kit)
 - [Microsoft Power Platform Conference 2023](https://powerplatformconf.com/)
 - [Power Platform weekly newsletter](https://www.ppweekly.com/)
 - [Sample Solution Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/)
-- [Power Platform community hub template](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/wiki-community)
+- [Power Platform community hub template](https://learn.microsoft.com/power-platform/guidance/adoption/wiki-community)
 
 ## This week
 
@@ -55,10 +55,10 @@ This session was recorded on Thursday 21st of September and Monday 25th of Septe
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube J2mb0u9NYmI >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-9jnmv-14b3c8c >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -75,7 +75,6 @@ These videos and podcasts are published each week and are intended to be roughly
 
 ## Community articles
 
-* [Send Approval In Microsoft Teams Using Power Automate](https://pnp.github.io/blog/post/send-approval-in-teams-using-power-automate/) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) (Rapid Circle) | @Chandani_SPD
 * [Bring your own data to Microsoft Teams chat bot with Azure OpenAI and LangChain](https://nanddeepnachanblogs.com/posts/2023-09-23-bring-own-data-teams-chatbot-azoai-langchain/) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @NanddeepNachan
 * [Getting Started with Teams Toolkit to leverage Azure Open AI with Teams AI Library](https://pkbullock.com/blog/2023/getting-started-with-teams-toolkit-to-leverage-azure-open-ai-with-teams-ai-library/) - [Paul Bullock](https://twitter.com/pkbullock) (Avanada) | @pkbullock
 * [Associate Node.js version with your SPFx solutions](https://tahoeninja.blog/posts/associate-node-version-with-spfx-solution/) - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh
@@ -148,4 +147,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

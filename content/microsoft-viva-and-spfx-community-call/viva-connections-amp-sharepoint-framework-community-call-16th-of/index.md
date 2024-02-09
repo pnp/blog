@@ -220,7 +220,7 @@ slides.
     | ]<https://aka.ms/viva/blog>
 
 -   **D3**:  Documentation - [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections)
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections)
     | <https://aka.ms/viva/connections/extensibility>
 
 -   **D3**:  Sample Repo - [Viva Connection Adaptive Card Extensions
@@ -301,7 +301,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -347,7 +347,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  **

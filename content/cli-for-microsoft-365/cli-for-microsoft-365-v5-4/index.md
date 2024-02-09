@@ -65,7 +65,7 @@ m365 planner task checklistitem list --taskId "vzCcZoOv-U27PwydxHB8opcADJo-"
 Removing checklist item from task is possible with:
 
 ```sh
-m365 planner task checklistitem remove --id "40012" --taskId "2Vf8JHgsBUiIf-nuvBtv-ZgAAYw2" 
+m365 planner task checklistitem remove --id "40012" --taskId "2Vf8JHgsBUiIf-nuvBtv-ZgAAYw2"
 ```
 
 ### Permanently remove Office 365 groups
@@ -78,7 +78,7 @@ To remove an Office 365 group from the recycle bin, execute:
 m365 aad o365group recyclebinitem remove --displayName "My Group"
 ```
 
-For more information about managing Office 365 groups using CLI for Microsoft 365 see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/aad/o365group/o365group-recyclebinitem-remove/).
+For more information about managing Office 365 groups using CLI for Microsoft 365 see the [documentation](https://pnp.github.io/cli-microsoft365/cmd/entra/m365group/m365group-recyclebinitem-remove).
 
 ### Manage SharePoint Online event receivers
 

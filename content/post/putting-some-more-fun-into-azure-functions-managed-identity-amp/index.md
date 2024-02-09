@@ -11,7 +11,7 @@ type: "regular"
 
 ---
 
-## Use case & purpose of this blog post 
+## Use case & purpose of this blog post
 
 I want to show, how you can use a Managed Identity in Azure Functions to
 get an access token for Microsoft Graph API.
@@ -22,7 +22,7 @@ get an access token for Microsoft Graph API.
 To get the most out of this post, you should understand the following
 concepts -- I included some links that should help you getting started.
 
-## Managed Identity -- What is that and why would I want one? 
+## Managed Identity -- What is that and why would I want one?
 
 Managed Identities are the state-of-the-art way to get Azure Active
 Directory access tokens, because you won't need to handle credentials,
@@ -39,7 +39,7 @@ on Managed
 Identities](https://blog.yannickreekmans.be/secretless-applications-managed-identities/),
 highly recommended to read this -- helped me a lot to understand.
 
-## Azure Functions 
+## Azure Functions
 
 If you'd like to deploy and execute code without needing to THINK about
 server infrastructure or VMs, you may like Azure Functions. Azure
@@ -51,7 +51,7 @@ the demand decreases again, you don't need to worry about the extra
 resources anymore as they drop off again. This way, you only pay what
 you need. For more info please start to read here: [Azure Functions
 Overview | Microsoft
-Docs](https://docs.microsoft.com/azure/azure-functions/functions-overview)
+Docs](https://learn.microsoft.com/azure/azure-functions/functions-overview)
 
 I will use PowerShell for my Azure Functions, so that IT-Pros can
 benefit from this post as well. But please do choose [your poison
@@ -59,13 +59,13 @@ benefit from this post as well. But please do choose [your poison
 concept stays the same. Use whatever you are familiar with or what makes
 you happy.
 
-## Microsoft Graph 
+## Microsoft Graph
 
 Microsoft Graph is THE API to access Microsoft 365 resources, in our
 case we will want to read all Microsoft 365 groups -- for more
 information see also the [Microsoft Graph permissions reference --
 Microsoft Graph | Microsoft
-Docs.](https://docs.microsoft.com/graph/permissions-reference#group-permissions)
+Docs.](https://learn.microsoft.com/graph/permissions-reference#group-permissions)
 
 Our challenge will be to access the Graph API with a Managed Identity. I
 will show how to do this entirely in Azure CLI & [VS
@@ -75,7 +75,7 @@ would allow for automation, it is usually faster than working in a
 visual environment and you can use the tool of your choice. I highly
 recommend VS Code as editor (and I like the built-in terminal as well).
 
-### Create your Azure Functions locally 
+### Create your Azure Functions locally
 
 You still may create your first Azure Functions in the Azure Portal (I
 did as well), which demoes really nicely, but as we want to go for real
@@ -167,7 +167,7 @@ Take a moment to understand what the code does:
     Reekmans](https://twitter.com/yannickreekmans) for this hint) --
     learn more here: [Managed identities -- Azure App Service |
     Microsoft
-    Docs](https://docs.microsoft.com/azure/app-service/overview-managed-identity?tabs=powershell&WT.mc_id=M365-MVP-5003400#obtain-tokens-for-azure-resources)
+    Docs](https://learn.microsoft.com/azure/app-service/overview-managed-identity?tabs=powershell&WT.mc_id=M365-MVP-5003400#obtain-tokens-for-azure-resources)
     -- you can also see your environment variables here, the mentioned
     ones will show after you assigned the system assigned Managed
     Identity:
@@ -178,21 +178,20 @@ Take a moment to understand what the code does:
 
 Watch out -- the Graph API will this way return up to 100 groups --
 Please adjust with [query
-parameters](https://docs.microsoft.com/graph/query-parameters) as
-needed like [https://graph.microsoft.com/v1.0/groups?\$top=42
-or](https://graph.microsoft.com/v1.0/groups?$top=42&nbsp;or) use paging,
+parameters](https://learn.microsoft.com/graph/query-parameters) as
+needed like `https://graph.microsoft.com/v1.0/groups?$top=42` or use paging,
 which is described here: [Paging Microsoft Graph data in your app --
 Microsoft Graph | Microsoft
-Docs](https://docs.microsoft.com/graph/paging)
+Docs](https://learn.microsoft.com/graph/paging)
 
 
-## Resources in Azure 
+## Resources in Azure
 
 We will now create the Functions App in Azure -- You can either install
 the CLI or use Cloud shell (available on shell.azure.com -- no
 installation is needed then and it works in any browser!)
 
-### Variables & names 
+### Variables & names
 
 For testing purposes, I pseudo-randomized a number to not always need to
 come up with new names:
@@ -214,7 +213,7 @@ $storage = "luisedemostorage$rand"
 $functionapp = "LuiseDemo-functionapp$rand"
 ```
 
-### Resource group 
+### Resource group
 
 Let's create a resource-group that will later hold our Azure Functions
 App
@@ -224,7 +223,7 @@ App
 az group create -n $resourceGroup -l $location
 ```
 
-### Storage Account 
+### Storage Account
 
 As our Functions App will need a storage account, we will create this as
 well:
@@ -238,7 +237,7 @@ az storage account create `
 --sku Standard_LRS
 ```
 
-### Functions App 
+### Functions App
 
 Now create the Azure Functions app which later holds our functions
 (remember we created that earlier locally, but will later deploy it to
@@ -259,7 +258,7 @@ It will take a few moments for everything to be set, once this step is
 completed, you will be prompted with a message, that you also can
 benefit from Application Insights.
 
-### Managed Identity 
+### Managed Identity
 
 We want things to be super secure -- this is why we want to enable a
 system assigned Managed Identity for our new Functions:
@@ -277,14 +276,14 @@ required REST call, we will need
     Let's do this:
 
 ```bash
-#Get Graph Api service provider (that's later needed for --api) 
+#Get Graph Api service provider (that's later needed for --api)
 az ad sp list --query "[?appDisplayName=='Microsoft Graph'].{Name:appDisplayName, Id:appId}" --output table --all
 
-#Save that service provider 
-$graphId = az ad sp list --query "[?appDisplayName=='Microsoft Graph'].appId | [0]" --all 
+#Save that service provider
+$graphId = az ad sp list --query "[?appDisplayName=='Microsoft Graph'].appId | [0]" --all
 
 # Get permission scope for "Group.Read.All"
-$appRoleId = az ad sp show --id $graphId --query "appRoles[?value=='Group.Read.All'].id | [0]" 
+$appRoleId = az ad sp show --id $graphId --query "appRoles[?value=='Group.Read.All'].id | [0]"
 ```
 
 Time to make the REST call to assign the permissions as shown above to
@@ -298,7 +297,7 @@ $graphResourceId=$(az ad sp list --display-name "Microsoft Graph" --query [0].ob
 $appRoleId=$(az ad sp list --display-name "Microsoft Graph" --query "[0].appRoles[?value=='Group.Read.All' &amp;&amp; contains(allowedMemberTypes, 'Application')].id" --out tsv)
 $body="{'principalId':'$principalId','resourceId':'$graphResourceId','appRoleId':'$appRoleId'}"
 
-#the actual REST call 
+#the actual REST call
 
 az rest --method post --uri https://graph.microsoft.com/v1.0/servicePrincipals/$principalId/appRoleAssignments --body $body --headers Content-Type=application/json
 ```
@@ -345,7 +344,7 @@ groups. YAY!
 
 ![groups (1).png](images/groups (1).png)
 
-## Conclusion and FusionDev scenario 
+## Conclusion and FusionDev scenario
 
 As developers, we could build a robust, scalable and secure solution,
 developed with familiar tools like VS Code, PowerShell or Azure CLI. But
@@ -363,7 +362,7 @@ out.
 Sample script is available at [Script Samples | PnP
 Samples](https://pnp.github.io/script-samples/)
 
-## More Resources to learn 
+## More Resources to learn
 
 \
 Get started with Microsoft 365 development by signing up for a [free

@@ -55,7 +55,7 @@ Once again, the **Send an HTTP request to SharePoint** action in Power Automate 
 
 To learn more about SharePoint REST, use these resources:
 
-* [Get to know the SharePoint REST service](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service?tabs=csom)
-* [Working with lists and list items with REST](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest)
+* [Get to know the SharePoint REST service](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service?tabs=csom)
+* [Working with lists and list items with REST](https://learn.microsoft.com/sharepoint/dev/sp-add-ins/working-with-lists-and-list-items-with-rest)
 
 *first published on [m365princess.com](https://m365princess.com)*

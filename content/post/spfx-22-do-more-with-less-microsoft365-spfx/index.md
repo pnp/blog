@@ -9,7 +9,7 @@ images:
   - images/22-do-more-with-less-in-microsoft-365-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -30,15 +30,15 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Do more with less in Microsoft 365 by using SPFx
 
-SPFx is a great example of the investments we do in Microsoft enabling you to [do more with less](https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella/-nadella/). Write the solution once and **use the same component** without any code changes within Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (Office) and SharePoint.
+SPFx is a great example of the investments we do in Microsoft enabling you to do more with less. Write the solution once and **use the same component** without any code changes within Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (Office) and SharePoint.
 
 We want to ensure that you can **maximize the value of your existing investments within Microsoft 365** and easily integrate them with business systems hosted in Azure. Microsoft Cloud (Azure and Microsoft 365) provides an awesome combination for your business applications and supports to build solutions for your day-to-day work which improve communications and collaboration between your employees.
 
-SPFx is designed to make it as easy as possible for building business applications which are surfaced in the Microsoft 365 across the Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office) and SharePoint. The name of the SPFx can sound misleading, given the updated focus across Microsoft 365, but do not get stuck on the definition, rather see the huge possibilities the SPFx provides for you to **maximize the value of your investments**. As Microsoft Teams apps [are extending across Microsoft 365](https://learn.microsoft.com/en-us/microsoftteams/platform/m365-apps/overview), you can also start using **SPFx powered Microsoft Teams solutions** in Outlook and in Microsoft 365 app (Office).
+SPFx is designed to make it as easy as possible for building business applications which are surfaced in the Microsoft 365 across the Microsoft Viva, Microsoft Teams, Outlook, Microsoft 365 app (Office) and SharePoint. The name of the SPFx can sound misleading, given the updated focus across Microsoft 365, but do not get stuck on the definition, rather see the huge possibilities the SPFx provides for you to **maximize the value of your investments**. As Microsoft Teams apps [are extending across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/overview), you can also start using **SPFx powered Microsoft Teams solutions** in Outlook and in Microsoft 365 app (Office).
 
 SPFx is based on **industry standard tooling**, so you can **achieve more with your existing skills**. There are no SharePoint specific knowledge or skills needed to build your solutions with SPFx for Microsoft 365.
 
-![SPFx surface in Microsoft 365](images/spfx-across-m365-hosts-features.png) 
+![SPFx surface in Microsoft 365](images/spfx-across-m365-hosts-features.png)
 
 Key capabilities of the SPFx for Microsoft 365 are following:
 
@@ -47,7 +47,7 @@ Key capabilities of the SPFx for Microsoft 365 are following:
 - **Automatic and secure hosting** – SPFx components are automatically hosted in Microsoft 365 without additional maintenance or operational costs. Hosting happens automatically within the security boundary of the tenant where they are deployed.
 - **Industry standard web stack tooling** – SPFx is using standard web stack tooling with node, npm, TypeScript and any JavaScript framework of your preference. Just standard web development skill to succeed without any proprietary tooling.
 
-SPFx integrates securely and seamlessly into your business APIs hosted in Azure and of course to [Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview), which is THE API to access relevant information in Microsoft Cloud.
+SPFx integrates securely and seamlessly into your business APIs hosted in Azure and of course to [Microsoft Graph](https://learn.microsoft.com/graph/overview), which is THE API to access relevant information in Microsoft Cloud.
 
 
 ## Getting started with SPFx blog post series
@@ -88,7 +88,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – <https://aka.ms/spfx>
 -	Issues and feedback around SPFx - <https://aka.ms/spfx/issues>
 -	Microsoft 365 Platform Community – <https://aka.ms/m365/community>
--	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls> 
+-	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls>
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – <https://aka.ms/m365/samples>
 

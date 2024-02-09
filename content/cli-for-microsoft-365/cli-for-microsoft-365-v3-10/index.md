@@ -10,7 +10,7 @@ tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
-## Manage Microsoft 365 and SharePoint Framework projects on any platform 
+## Manage Microsoft 365 and SharePoint Framework projects on any platform
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
 various configuration settings of Microsoft 365 and SharePoint Framework
@@ -31,7 +31,7 @@ the CLI for Microsoft 365 with some new capabilities. Here are a few of
 the most noteworthy additions.
 
  
-## Changes 
+## Changes
 
 
 We've continued improving CLI building upon the changes we've introduced
@@ -148,7 +148,7 @@ collection, execute:
 m365 spo site apppermission set --siteUrl https://contoso.sharepoint.com/sites/project-x --appDisplayName Foo --permission read
 ```
 
-## New script samples 
+## New script samples
 
 CLI for Microsoft 365 is a great tool both for quick adjustments to the
 configuration of your Microsoft 365 tenant as well as automating more
@@ -156,7 +156,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
  
 
@@ -240,12 +240,12 @@ returns the results.
 
 
 
-## Contributors 
+## Contributors
  
 This release wouldn't be possible without the help of (in alphabetical
 order)
 
-       
+ 
 -   [Cas van Iersel](https://github.com/casvaniersel)
 -   [Vipul Kelkar](https://github.com/vipulkelkar)
 -   [Patrick Lamber](https://github.com/plamber)
@@ -262,14 +262,14 @@ Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
 
 
-## Work in progress 
+## Work in progress
  
 
 
 Here are some things that we're currently working on.
 
  
-### More commands, what else 
+### More commands, what else
  
 
 Microsoft 365 is evolving and new capabilities are being released every
@@ -282,7 +282,7 @@ for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
 
 
-### Updating Azure AD apps 
+### Updating Azure AD apps
  
 
 
@@ -299,7 +299,7 @@ registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
 
-### Script examples 
+### Script examples
  
 
 
@@ -316,7 +316,7 @@ using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
 
-### 'ensure' commands 
+### 'ensure' commands
  
 
 
@@ -329,7 +329,7 @@ you how you like it and if it's something you'd like us to implement
 for other commands as well.
 
  
-## Try it today 
+## Try it today
 
 
 Get the latest release of the CLI for Microsoft 365 from npm by

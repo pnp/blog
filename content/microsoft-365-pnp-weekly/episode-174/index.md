@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=hmZPbdvgte4
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Oslo Norway based Power Platform Architect Lead and MVP at Avanade - [Ahmad Najjar](https://twitter.com/ahmadn82) \| @ahmadn82
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Oslo Norway based Power Platform Architect Lead and MVP at Avanade - [Ahmad Najjar](https://twitter.com/ahmadn82) \| @ahmadn82
 
 ## Topics discussed in this session
 
@@ -23,7 +23,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Why are you contributing to the open-source Power Platform Independent Publisher Connector program? It’s about the Community.
 * What are your top 3 picks on Microsoft Power Platform 2022 release wave 2 features?
 
-Also, we showcased 28 articles/videos published by Microsoft and the PnP Community in the last week. 
+Also, we showcased 28 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -31,13 +31,13 @@ Also, we showcased 28 articles/videos published by Microsoft and the PnP Communi
 * **Vesa** – catch-up  and meetings.
 * **Ahmad** - continuing on authoring a Power Automate “cookbook” and on prepping presentations and workshops for upcoming conferences – Nordic Summit and ESPC22.
     * Documentation - [Microsoft Power Platform: 2022 release wave 2
-      plan](https://docs.microsoft.com/power-platform-release-plan/2022wave2/)
+      plan](https://learn.microsoft.com/power-platform-release-plan/2022wave2/)
     * Event – [Nordic Summit - a FREE Power Platform and Dynamics 365 community
       event](https://nordicsummit.info/) – Stockholm, Sweden, 24 September, 2022
     * Event – [European SharePoint, Office 365 & Azure Conference 2022
       (ESPC22)](https://www.sharepointeurope.com/), Copenhagen, Denmark, 28
       November - 1 December, 2022
- 
+
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
@@ -45,10 +45,10 @@ This session was recorded on Monday, August 15, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube hmZPbdvgte4 >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-eqara-129cf7c >}}    
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-eqara-129cf7c >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -85,7 +85,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [PnP Script Sample: Force a User Profile Property Index](https://www.toddklindt.com/blog/Lists/Posts/Post.aspx?List=56f96349-3bb6-4087-94f4-7f95ff4ca81f&ID=893&Web=48e6fdd1-17db-4543-b2f9-6fc7185484fc) - [Todd Klindt](https://twitter.com/ToddKlindt) (Sympraxis Consulting) | @ToddKlindt
 * [SharePoint-Based Intranets – Leave the Designers at Home](https://sympmarc.com/2022/07/27/sharepoint-based-intranets-leave-the-designers-at-home/) - [Marc D Andersopn](https://twitter.com/sympmarc) (Sympraxis Consulting) | @sympmarc
 * [Identifying Syntex use cases - how the SharePoint Syntex assessment tool can help](https://www.sharepointnutsandbolts.com/2022/07/Syntex-use-cases-assessment-tool.html) - [Chris O'Brien](https://twitter.com/ChrisO_Brien) (Content+Cloud) | @ChrisO_Brien
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -94,4 +94,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

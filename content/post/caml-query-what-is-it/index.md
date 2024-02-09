@@ -199,6 +199,6 @@ CAML Has been around for a really long time, and while it's not as visible as it
 
 ## More Resources
 
-* [Read more about CAML](https://learn.microsoft.com/en-us/sharepoint/dev/schema/collaborative-application-markup-language-caml-schemas)
-* [Query schema](https://learn.microsoft.com/en-us/sharepoint/dev/schema/query-schema)
+* [Read more about CAML](https://learn.microsoft.com/sharepoint/dev/schema/collaborative-application-markup-language-caml-schemas)
+* [Query schema](https://learn.microsoft.com/sharepoint/dev/schema/query-schema)
 * [CAML to Table sample to test queries](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-caml2table)

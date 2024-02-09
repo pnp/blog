@@ -12,14 +12,14 @@ videos:
 - https://www.youtube.com/watch?v=PcLzMOvGorQ
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Italy based Solution Architect [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Italy based Solution Architect [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) \| @paolopia
 
 ## Topics discussed in this session
 
 * PiaSys’ and their customers business focus areas – solutions, projects, products.
 * Bridging the gap between clouds and a Microsoft 365 solution hosted on AWS cloud back-end.
-* Recent return from Collabdays - Belgium 2022, that included delivering a session on Becoming a Microsoft Graph Ninja. 
+* Recent return from Collabdays - Belgium 2022, that included delivering a session on Becoming a Microsoft Graph Ninja.
 * The return to in-person conferences, benefit of in-person interactions and thoughts on the future of hybrid conferences.
 * Paolo’s community contributions over the years.
 * Latest new features in the PnP provisioning engine.
@@ -43,10 +43,10 @@ This session was recorded on Monday, October 17, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube PcLzMOvGorQ >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-xzpj6-12ee995 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-xzpj6-12ee995 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -63,13 +63,13 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Community articles
 
 * [Community Days - New event site for all Microsoft Cloud events](https://communitydays.org/)
-* [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.andrewconnell.com/blog/sharepoint-framework-dynamic-property-pane-dropdown/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.voitanos.io/blog/sharepoint-framework-dynamic-property-pane-dropdown/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Running applications with limited SharePoint permissions](https://www.blimped.nl/running-application-with-limited-sharepoint-permissions/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl
 * [PnPjs 3.8 release published](https://twitter.com/m365pnpjs/status/1580954736723124226)
 * [Episode #226 - Extending users and devices with Microsoft Graph and Extension attributes](https://www.youtube.com/watch?v=kBm-fjqg0PU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Microsoft Ignite - My favorite Power Platform Announcements](https://www.youtube.com/watch?v=hMAdr3BKIR8) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
-* [MFA. On for everyone? - Message Center Show Ep. 257](https://regarding365.com/mfa-on-for-everyone-8f07246f6087) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-  
+* [MFA. On for everyone? - Message Center Show Ep. 257](https://regarding365.com/mfa-on-for-everyone-8f07246f6087) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -78,4 +78,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

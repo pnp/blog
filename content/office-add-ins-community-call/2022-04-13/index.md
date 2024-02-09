@@ -49,7 +49,7 @@ Unfortunately, we were unable to preserve all ideas when we moved from UserVoice
 
 **When can we expect "insertWorksheetsFromBase64" completely supported for Excel on the web? Currently Excel on the web doesn't support source worksheets with PivotTable, Chart, Comment, or Slicer elements."**
 
-We don't have a plan to implement **insertWorksheetsFromBase64** for Excel on the web at this time. There's a dependency on a feature we require that is not yet in Excel on the web. There's an [existing idea request](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/add-full-support-for-insertworksheetsfrombase64-method-for-excel/idi-p/3255216) to implement 
+We don't have a plan to implement **insertWorksheetsFromBase64** for Excel on the web at this time. There's a dependency on a feature we require that is not yet in Excel on the web. There's an [existing idea request](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/add-full-support-for-insertworksheetsfrombase64-method-for-excel/idi-p/3255216) to implement
 **insertWorksheetsFromBase64**. We ask that any developers affected by this please upvote it. If you can provide comments, especially if you are blocked, this would be helpful to bump up the priority on this.
 
 **I'm trying to use the Shape API. In Script Lab, when I run the "Insert shape, line, and text box" sample code, some things work (e.g., insert hexagon) and others don't (e.g., create shape with text). When I change the code on Script Lab, I'm able to play with position, dimensions, shape type, etc. but I can't change colors, text, line weight and style, etc. Can you confirm whether all of this should work?**
@@ -81,7 +81,7 @@ The best place to ask Microsoft Graph questions is at <https://aka.ms/askgraph>.
 
 **In Word desktop, with WebView2, if I reject the consent for audio/video recording for the first time, how can I change it or raise this question again? And a similar question, how can I disable or change the spellcheck settings in WebView2 in Word desktop?**
 
-If consent was rejected, you need to clear the Office cache to raise the question again. For more information, see [Clear the Office cache - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/testing/clear-cache).
+If consent was rejected, you need to clear the Office cache to raise the question again. For more information, see [Clear the Office cache - Office Add-ins \| Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/testing/clear-cache).
 
 Spellcheck settings are controlled at the webview level. For example, `\<div id="content" spellcheck="true"`.
 
@@ -103,7 +103,7 @@ We don’t have any way to customize the save dialog with Office Add-ins. If you
 
 **What's the best place to store an "access token" in the Excel add-in? The access token is received by third-party app.**
 
-In general it's not a good idea to store, or cache access tokens. You have to be very careful not to accidentally store the token in a way where malicious software could obtain it. Most libraries and APIs have a caching mechanism that you can take advantage of. For example, when calling the **getAccessToken** API in your Office Add-in, we recommend you call **getAccessToken** again whenever you need the token. Office caches it for you. If you are using the Microsoft Authentication Library, it also has caching that you can take advantage of. See [Acquire and cache tokens with Microsoft Authentication Library (MSAL) - Microsoft identity platform ...](https://docs.microsoft.com/azure/active-directory/develop/msal-acquire-cache-tokens), and [Enable single sign-on (SSO) in an Office Add-in - Office Add-ins \| Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins) for more details.
+In general it's not a good idea to store, or cache access tokens. You have to be very careful not to accidentally store the token in a way where malicious software could obtain it. Most libraries and APIs have a caching mechanism that you can take advantage of. For example, when calling the **getAccessToken** API in your Office Add-in, we recommend you call **getAccessToken** again whenever you need the token. Office caches it for you. If you are using the Microsoft Authentication Library, it also has caching that you can take advantage of. See [Acquire and cache tokens with Microsoft Authentication Library (MSAL) - Microsoft identity platform ...](https://learn.microsoft.com/azure/active-directory/develop/msal-acquire-cache-tokens), and [Enable single sign-on (SSO) in an Office Add-in - Office Add-ins \| Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins) for more details.
 
 **When creating an office-js add-in in the context of a larger solution that also integrates with Teams, which UI package is recommended: Fluent UI React or Fluent UI React Northstar? Would either of those be fine with a view to getting those apps accepted in the store? I would like to develop a solution for both Office (Word and Excel) and Teams, so the question is what the best starting point would be. I would like to avoid having to use two libraries.**
 
@@ -117,8 +117,8 @@ We'll be posting roadmaps for PowerPoint APIs and other features to the [Microso
 
 * **Ribbon API updates (Demo)**
 
-    * Documentation – Enable and Disable Add-in Commands \| <https://docs.microsoft.com/office/dev/add-ins/design/disable-add-in-commands>
-    * Documentation – Create custom contextual tabs in Office Add-ins \| <https://docs.microsoft.com/office/dev/add-ins/design/contextual-tabs>
+    * Documentation – Enable and Disable Add-in Commands \| <https://learn.microsoft.com/office/dev/add-ins/design/disable-add-in-commands>
+    * Documentation – Create custom contextual tabs in Office Add-ins \| <https://learn.microsoft.com/office/dev/add-ins/design/contextual-tabs>
     * Sample – Create custom contextual tabs on the ribbon \| <https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/office-contextual-tabs>
 
 * **PowerPoint selection APIs (Demo)**
@@ -133,10 +133,10 @@ We'll be posting roadmaps for PowerPoint APIs and other features to the [Microso
 
     * Documentation – Office.RoamingSettings interface
     * Documentation – Office.AddinCommands.Event interface
-    * Documentation – [Use the Office dialog API in Office Add-ins](https://docs.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins)
+    * Documentation – [Use the Office dialog API in Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins)
     * Documentation – Office.AppointmentRead interface
     * Documentation – Office.AppointmentRead interface
-    * Documentation – [Use the Office dialog API in Office Add-ins](https://docs.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins)
+    * Documentation – [Use the Office dialog API in Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/dialog-api-in-office-add-ins)
 
 * **Office Add-ins community call**
 
@@ -147,7 +147,7 @@ We'll be posting roadmaps for PowerPoint APIs and other features to the [Microso
 
 * **Office Add-ins feedback**
 
-    * Technical questions – Microsoft Q&A ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    * Technical questions – Microsoft Q&A ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
     * Issues – [GitHub](https://github.com/OfficeDev/office-js/issues)
     * Recommendations and suggestions – [Microsoft 365 Developer Platform ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
 

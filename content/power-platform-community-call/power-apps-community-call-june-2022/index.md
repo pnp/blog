@@ -15,11 +15,11 @@ videos:
 
 ## Call summary
 
-Latest updates and news on Power Platform including community events, training opportunities and a warm welcome to the newest member of the Power Platform team - Hugo Bernier - Community Program Manager for Power Pages. Two demos delivered – Taking your Power Apps mobile navigation UI to the next level! And Power to the Pages – Introduction to Power Pages! Don’t forget to register for Power Platform Samples Contributor and Writing for the Web, events this month. This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 15, 2022. Questions addressed in chat throughout the call.
+Latest updates and news on Power Platform including community events, training opportunities and a warm welcome to the newest member of the Power Platform team - Hugo Bernier - Community Program Manager for Power Pages. Two demos delivered – Taking your Power Apps mobile navigation UI to the next level! And Power to the Pages – Introduction to Power Pages! Don’t forget to register for Power Platform Samples Contributor and Writing for the Web, events this month. This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 15, 2022. Questions addressed in chat throughout the call.
 
 ### New this month
 
-* Welcome Hugo Bernier, Community Program Manager for Power Pages - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+* Welcome Hugo Bernier, Community Program Manager for Power Pages - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 * Sharing is Caring event dates announced
     * Power Platform Samples Contributor \| Tuesday, May 31, 9:30 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN09VTVU2QzRLNE0yVERQMklHSDBMUTJGWC4u)
     * Writing for the Web \| Thursday, June 23, 12pm PT \| 3pm ET \| 9pm CET - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUQkYwOVhZTkg3Rk9TVUI3NlA4R0Y0RTFSTy4u)
@@ -34,9 +34,9 @@ Latest updates and news on Power Platform including community events, training o
 
 ## Agenda items
 
-* Latest updates and news on Power Platform - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:29](https://youtu.be/Uv2xoEywYMI?t=329)
+* Latest updates and news on Power Platform - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [5:29](https://youtu.be/Uv2xoEywYMI?t=329)
 * Demo - Taking your Power Apps mobile navigation UI to the next level! – [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) \| @kristinekk94 – [9:54](https://youtu.be/Uv2xoEywYMI?t=594)
-* Demo - Power to the Pages – Introduction to Power Pages! – [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [26:18](https://youtu.be/Uv2xoEywYMI?t=1578)
+* Demo - Power to the Pages – Introduction to Power Pages! – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [26:18](https://youtu.be/Uv2xoEywYMI?t=1578)
 
 ## Actions
 
@@ -70,7 +70,7 @@ Latest updates and news on Power Platform including community events, training o
     * Tool – [Dribbble](https://dribbble.com)
 * **Power to the Pages – Introduction to Power Pages!**
     * Trial – [Power Pages](https://powerpages.microsoft.com)
-    * Demo - [Introduction to Power Apps Portals](https://youtu.be/_yJ4V5145z8) - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh
+    * Demo - [Introduction to Power Apps Portals](https://youtu.be/_yJ4V5145z8) - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
 Request to present a demo during this call - aka.ms/PPCCDemoRequest
 

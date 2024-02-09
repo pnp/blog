@@ -70,20 +70,20 @@ integration including Microsoft chat integration.       
 From demos:
 
 -   Documentation - [Calendar
-    API](https://docs.microsoft.com/graph/api/resources/event?view=graph-rest-1.0) 
+    API](https://learn.microsoft.com/graph/api/resources/event?view=graph-rest-1.0) 
 
 -   Documentation - [Cloud Communications
-    API](https://docs.microsoft.com/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http) 
+    API](https://learn.microsoft.com/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http) 
 
 -   Documentation - [Choose an API in Microsoft Graph to create and join
     online
-    meetings](https://docs.microsoft.com/graph/choose-online-meeting-api) 
+    meetings](https://learn.microsoft.com/graph/choose-online-meeting-api) 
 
 -   Documentation - [Microsoft Graph throttling
-    guidance](https://docs.microsoft.com/graph/throttling) 
+    guidance](https://learn.microsoft.com/graph/throttling) 
 
 -   Documentation - [Exchange Online
-    limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) 
+    limits](https://learn.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) 
 
 -   Documentation - [Cloud Communications service
     limits](Cloud%20Communications%20service%20limits)
@@ -91,32 +91,32 @@ From demos:
 From Q&A
 
 -   Documentation -- [place resource
-    type](https://docs.microsoft.com/graph/api/resources/place) 
+    type](https://learn.microsoft.com/graph/api/resources/place) 
 
 -   Documentation - [Get free/busy schedule of users and
-    resources](https://docs.microsoft.com/graph/outlook-get-free-busy-schedule) 
+    resources](https://learn.microsoft.com/graph/outlook-get-free-busy-schedule) 
 
 -   Documentation - [calendar:
-    getSchedule](https://docs.microsoft.com/graph/api/calendar-getschedule)  
+    getSchedule](https://learn.microsoft.com/graph/api/calendar-getschedule)  
 
 -   Documentation - [user:
-    findMeetingTimes](https://docs.microsoft.com/graph/api/user-findmeetingtimes) 
+    findMeetingTimes](https://learn.microsoft.com/graph/api/user-findmeetingtimes) 
 
 ##   General Resources
 
 -   Suggestions -- <https://aka.ms/M365Dev-Suggestions>   
 -   Graph TAP Program - <https://aka.ms/GraphTAPForm>** **
--   Microsoft 365 Developer Podcast <http://www.m365devpodcast.com/>
+-   Microsoft 365 Developer Podcast <https://www.m365devpodcast.com/>
 -   Microsoft Graph Mailbag - <https://aka.ms/MSGraphMailbag>
 -   Microsoft Q & A -- Graph - <https://aka.ms/askgraph/>
 -   Learn Module - [Get started with Microsoft Graph
-    Toolkit](https://docs.microsoft.com/learn/modules/msgraph-toolkit-intro/)
+    Toolkit](https://learn.microsoft.com/learn/modules/msgraph-toolkit-intro/)
     | <https://aka.ms/mgt-learn>
 -   Repo - [Microsoft Graph Toolkit
     v2.1](https://github.com/microsoftgraph/microsoft-graph-toolkit) |
     <https://aka.ms/mgt>  
 -   Documentation -- [Microsoft Graph Toolkit
-    Overview](https://docs.microsoft.com/graph/toolkit/overview)
+    Overview](https://learn.microsoft.com/graph/toolkit/overview)
     | <https://aka.ms/mgt-docs>
 -   Playground -- [Microsoft Graph Toolkit
     Playground](https://mgt.dev/?path=/story/components-mgt-agenda--simple)

@@ -17,7 +17,7 @@ effort, so if you're interested in contributing, see our [good first
 issue
 list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-## Use Outlook event-based activation to tag external recipients (preview) 
+## Use Outlook event-based activation to tag external recipients (preview)
 
 ![Diagram showing new email with added external recipient. OnMessageRecipientsChange event is sent to Outlook add-in. Add-in prepends the text external to the subject line](images/pnp-outlook-tag-external.png) [Diagram showing new email with added
 external recipient. OnMessageRecipientsChange event is sent to Outlook
@@ -38,9 +38,9 @@ the add-in appends a disclaimer to the message.
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/outlook-tag-external)
 -   Check out the docs: [Configure your Outlook add-in for event-based
     activation
-    (preview)](https://docs.microsoft.com/office/dev/add-ins/outlook/autolaunch)
+    (preview)](https://learn.microsoft.com/office/dev/add-ins/outlook/autolaunch)
 
-## Insert an external Excel file and populate it with JSON data 
+## Insert an external Excel file and populate it with JSON data
 
 ![Diagram showing a worksheet inserted into the current workbook from an external Excel file](images/pnp-outlook-set-signature.png)
 This sample shows how to insert an existing template from an external
@@ -51,9 +51,9 @@ from a JSON web service and populates the template for the customer.
     populate it with JSON
     data](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/excel-insert-file)
 -   Check out the docs: [insertWorksheetsFromBase64
-    method](https://docs.microsoft.com/javascript/api/excel/excel.workbook?view=excel-js-preview#insertWorksheetsFromBase64_base64File__options_)
+    method](https://learn.microsoft.com/javascript/api/excel/excel.workbook?view=excel-js-preview#insertWorksheetsFromBase64_base64File__options_)
 
-## SSO samples updated 
+## SSO samples updated
 
 We moved the SSO samples to the PnP repo. We also updated them to the
 latest packages and libraries. You can find them here:
@@ -65,7 +65,7 @@ latest packages and libraries. You can find them here:
 -   [Office Add-in that supports Single Sign-on (SSO) using
     ASP.NET](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/auth/Office-Add-in-ASPNET-SSO)
 
-## Want to contribute? 
+## Want to contribute?
 
 PnP is a community effort by developers like you. Check out our [good
 first issue
@@ -73,7 +73,7 @@ list](https://github.com/OfficeDev/PnP-OfficeAddins/issues?q=is%3Aissue+is%3Aope
 as a great place to help with some samples. Feel free to contribute to
 existing samples or create new ones.
 
-## About Office Add-ins Patterns & Practices (PnP) 
+## About Office Add-ins Patterns & Practices (PnP)
 
 Office Add-ins PnP is a Microsoft-led, community driven effort that
 helps developers extend, build, and provision customizations on the
@@ -86,10 +86,10 @@ but the work is done by the community for the community.
 Find code samples for Office Add-in development in the [Office Add-ins
 PnP repo](https://github.com/OfficeDev/PnP-OfficeAddins). Some samples
 are also documented in the [Office Add-ins
-docs](https://docs.microsoft.com/office/dev/add-ins/), such as [Open in
-Excel](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
+docs](https://learn.microsoft.com/office/dev/add-ins/), such as [Open in
+Excel](https://learn.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
 
-## Additional resources 
+## Additional resources
 
 -   Get started with Office development by joining the [Microsoft 365
     developer
@@ -98,7 +98,7 @@ Excel](https://docs.microsoft.com/office/dev/add-ins/excel/pnp-open-in-excel).
     downloading [Script
     Lab](https://www.microsoft.com/garage/profiles/script-lab/).
 -   Automate your solutions with [Office
-    Scripts](https://docs.microsoft.com/office/dev/scripts/).
+    Scripts](https://learn.microsoft.com/office/dev/scripts/).
 
 \
 Learn more by joining the monthly [Office Add-ins community

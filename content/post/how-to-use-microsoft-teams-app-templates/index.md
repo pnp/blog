@@ -4,7 +4,7 @@ date: 2021-01-13T09:08:00-05:00
 author: "Matti Paukkonen"
 githubname: mpaukkon
 categories: ["Community post"]
-images: 
+images:
 - images/ask-away-app.png
 tags: ["Microsoft Teams"]
 type: "regular"
@@ -26,7 +26,7 @@ Developer](https://github.com/OfficeDev/)). You can install each app as
 it is or clone the GitHub repository of an app and start developing it
 for your own purposes. You can find a detailed list of app templates
 here: [App Templates for Microsoft
-Teams](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates).
+Teams](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates).
 In time of writing this article there are already 45 templates
 available.
 
@@ -34,15 +34,15 @@ App templates are developed using several different technologies and an
 app can utilize one or more of there technologies.
 
 -   Microsoft Teams Bots ([What are conversational
-    bots?](https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots))
+    bots?](https://learn.microsoft.com/microsoftteams/platform/bots/what-are-bots))
 -   Tabs ([What are Microsoft Teams custom
-    tabs?](https://docs.microsoft.com/microsoftteams/platform/tabs/what-are-tabs))
+    tabs?](https://learn.microsoft.com/microsoftteams/platform/tabs/what-are-tabs))
 -   Personal apps (tabs available on Teams left-rail)
 -   Message extensions ([What are messaging
-    extensions?](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions))
+    extensions?](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions))
 -   Power Apps and Power Automate workflows ([Teams integration with
     Microsoft Power
-    Platform](https://docs.microsoft.com/microsoftteams/teams-power-platfom-integration))
+    Platform](https://learn.microsoft.com/microsoftteams/teams-power-platfom-integration))
 -   SharePoint sites, lists, pages and templates
 
 **Prerequisites**
@@ -131,7 +131,7 @@ lists, to SharePoint Online. SharePoint resources are created with a
 PowerShell script provided in deployment guide, with a Power Automate
 Flow or manually. If the app is using a premade site template,
 deployment is done from SharePoint Lookbook. For scripts you need [PnP
-PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets) module
+PowerShell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets) module
 installed and easiest way is to install it from PowerShell Gallery by
 running a command
  

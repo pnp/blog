@@ -162,7 +162,7 @@ slides.
 
 -   **D1**:  Documentation - [Include a SaaS offer with your Microsoft
     Teams
-    app](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/prepare/include-saas-offer)
+    app](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/prepare/include-saas-offer)
     |
     [aka.ms/teamsmonetization/getstarted](https://aka.ms/teamsmonetization/getstarted)
 
@@ -170,7 +170,7 @@ slides.
     Playground](https://mgt.dev/?path=/story/components-mgt-person--person) 
 
 -   **D2:** Documentation - [Person component in the Microsoft Graph
-    Toolkit](https://docs.microsoft.com/graph/toolkit/components/person) 
+    Toolkit](https://learn.microsoft.com/graph/toolkit/components/person) 
 
 -   **D2:** Repo -- [Microsoft Graph
     Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit)
@@ -178,7 +178,7 @@ slides.
 
 -   **D2:** Documentation - [Microsoft Graph Toolkit: UI Components and
     Authentication Providers for Microsoft
-    Graph](https://docs.microsoft.com/graph/toolkit/overview) |
+    Graph](https://learn.microsoft.com/graph/toolkit/overview) |
     [aka.ms/MGT/docs](https://aka.ms/MGT/docs)
 
 -   **D2:** Learn - [Develop apps with the Microsoft Graph
@@ -200,20 +200,20 @@ slides.
     examples](https://github.com/pnp/adaptivecards-templates) 
 
 -   **D3**:  Documentation - [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   **D3**:  Tools -- [Adaptive Cards
     Designer](https://adaptivecards.io/designer/) 
 
 -   **D3**:  Documentation -- [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   **D3**:  Training - [Extend Microsoft Viva
-    Connections](https://docs.microsoft.com/learn/paths/m365-extend-viva-connections/) 
+    Connections](https://learn.microsoft.com/learn/paths/m365-extend-viva-connections/) 
 
 -   **D3**:  Documentation - [Designing Viva Connections custom cards
     for your
-    dashboard](https://docs.microsoft.com/sharepoint/dev/spfx/viva/design/design-intro) 
+    dashboard](https://learn.microsoft.com/sharepoint/dev/spfx/viva/design/design-intro) 
 
 ## General resources
 
@@ -266,7 +266,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -305,7 +305,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

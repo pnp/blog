@@ -12,7 +12,7 @@ summary: "This article will explain Markdown and help you get started reading an
 ---
 Perhaps you've noticed a technology called Markdown that's been showing up in a lot of web sites and apps lately. This article will explain Markdown and help you get started reading and writing it.
 
-Markdown is a simple way to format text using ordinary punctuation marks, and it's very useful in Microsoft 365. For example, [Microsoft Teams supports markdown formatting](https://support.microsoft.com/office/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772?WT.mc_id=m365-27330-rogerman) in chat messages and SharePoint has a [Markdown web part](https://support.microsoft.com/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b). [Adaptive Cards support Markdown](https://docs.microsoft.com/adaptive-cards/authoring-cards/text-features) as well, as do [Power Automate approvals](https://docs.microsoft.com/power-automate/approvals-markdown-support?WT.mc_id=m365-27330-rogerman). For the bot builders among us, [Bot Composer language generation](https://docs.microsoft.com/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA Maker](https://docs.microsoft.com/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both support markdown as well. And what's at the top level of nearly every GitHub repo? You guessed it, a markdown file called README.md.
+Markdown is a simple way to format text using ordinary punctuation marks, and it's very useful in Microsoft 365. For example, [Microsoft Teams supports markdown formatting](https://support.microsoft.com/office/use-markdown-formatting-in-teams-4d10bd65-55e2-4b2d-a1f3-2bebdcd2c772?WT.mc_id=m365-27330-rogerman) in chat messages and SharePoint has a [Markdown web part](https://support.microsoft.com/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b). [Adaptive Cards support Markdown](https://learn.microsoft.com/adaptive-cards/authoring-cards/text-features) as well, as do [Power Automate approvals](https://learn.microsoft.com/power-automate/approvals-markdown-support?WT.mc_id=m365-27330-rogerman). For the bot builders among us, [Bot Composer language generation](https://learn.microsoft.com/composer/concept-language-generation?WT.mc_id=m365-27330-rogerman) and [QnA Maker](https://learn.microsoft.com/azure/cognitive-services/QnAMaker/reference-markdown-format?WT.mc_id=m365-27330-rogerman) both support markdown as well. And what's at the top level of nearly every GitHub repo? You guessed it, a markdown file called README.md.
 
 Imagine you're texting someone and all you have to work with is
 letters, numbers, and a few punctuation marks. If you want to get their
@@ -59,7 +59,7 @@ In all cases you're starting with plain text - the stuff that comes out of your 
 
 Markdown neither helps nor blocks emojis, they're just characters. If your application can handle emojis, you can certainly include them in your markdown.
 
-## Commonly used Markdown 
+## Commonly used Markdown
 
 Markdown isn't a formal standard, and a lot of variations have emerged. It all started at [Daring Fireball](https://daringfireball.net/); most implementations are faithful to the original but many have added their own features. For example, the SharePoint Markdown Web Part uses the [\"Marked\" syntax](https://marked.js.org/); if you're creating a README.md file for use in GitHub, you'll want to use [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/).
 
@@ -80,10 +80,10 @@ this is usually formatted using bold text.
 #### Result
 
 > You can surround text with *single asterisks* or *single underscores* to emphasize it a little bit; this usually formatted using italics.
-> 
+>
 > You can surround text with **double asterisks** or **double underscores** to emphasize it more strongly; this is usually formatted using bold text.
 
-### 2. Headings 
+### 2. Headings
 
 You can make headings using by putting several = (for a level 1 heading) or - signs (for a level 2 heading) in the line below your heading text.
 
@@ -109,30 +109,30 @@ You can also make headings with one or more hash marks in column 1. The number o
 #### etc.
 ```
 
-#### Result 
+#### Result
 
-> # First level heading 
+> # First level heading
 >
 > ## Second level heading
-> 
-> ### Third level heading
-> 
-> #### etc 
 >
-### 3. Hyperlinks 
+> ### Third level heading
+>
+> #### etc
+>
+### 3. Hyperlinks
 
 #### Markdown
 
 ```markdown
-To make a hyperlink, surround the text in square brackets immediately followed by the URL in parenthesis (with no space in between!) 
+To make a hyperlink, surround the text in square brackets immediately followed by the URL in parenthesis (with no space in between!)
 
 For example: [Microsoft](https://www.microsoft.com).
 ```
 
 #### Result
 
-> To make a hyperlink, surround the text in square brackets immediately followed by the URL in parenthesis (with no space in between!) 
-> 
+> To make a hyperlink, surround the text in square brackets immediately followed by the URL in parenthesis (with no space in between!)
+>
 > For example: [Microsoft](https://www.microsoft.com/).
 
 ### 4. Images
@@ -145,7 +145,7 @@ Images use almost the same syntax as hyperlinks except they begin with an exclam
 ![Parker the Porcupine](https://pnp.github.io/images/hero-parker-p-800.png)
 ```
 
-#### Result 
+#### Result
 
 > ![hero-parker-p-800.png](images/hero-parker-p-800.png)
 
@@ -181,7 +181,7 @@ Two line breaks start a new paragraph.
 automatically
 remove
 single line breaks.
-> 
+>
 > Two line breaks start a new paragraph.
 
 ### 6. Block quotes
@@ -198,7 +198,7 @@ Use a greater than sign in column 1 to make block quotes like this:
 #### Result
 
 > Use a greater than sign in column 1 to make block quotes like this:
-> 
+>
 > > Line 1
 > > Line 2
 
@@ -220,13 +220,13 @@ Just put a asterisk or dash in front of a line that should be bulleted.
 #### Result
 
 > Just put a asterisk or dash in front of a line that should be bulleted.
-> 
+>
 > -   Here is an item starting with an asterisk
 > -   Here is another item starting with an asterisk
 >     -   Indent to make sub-bullets
 >         -   Like this
-> 
-> 
+>
+>
 > -   Here is an item with a dash
 >     -   Changing characters makes a new list.
 

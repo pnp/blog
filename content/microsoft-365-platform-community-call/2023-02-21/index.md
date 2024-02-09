@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 21st of February, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 21st of February, 2023"
 summary: "Two demos: Integrate Azure Communication Services Calling into a React App and Teams Toolkit Learn Path – Get started building apps for Microsoft Teams using Teams Toolkit for Visual Studio Code. 6 new articles and 1 conversation."
 date: 2023-02-21T04:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos.
 
 ### New this week
 
@@ -25,7 +25,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 ### Demos
 
-* **Integrate Azure Communication Services Calling into a React App** – Dan Wahlin (Microsoft) \| @DanWahlin 
+* **Integrate Azure Communication Services Calling into a React App** – Dan Wahlin (Microsoft) \| @DanWahlin
 * **Teams Toolkit Learn Path – Get started building apps for Microsoft Teams using Teams Toolkit for Visual Studio Code"** - Garry Trinder (Microsoft) \| @garrytrinder
 
 The host of this call was [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) \| @fabianwilliams. Q&A takes place in chat throughout the call.
@@ -50,7 +50,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 
 ## Actions
 
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Help shape the Microsoft Community Advisory Board priorities for the next six months by completing survey - Microsoft Community Insights - January 2023 \| aka.ms/CommunityInsightsJan23
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

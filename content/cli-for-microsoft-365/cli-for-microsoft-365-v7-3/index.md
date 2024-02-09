@@ -11,15 +11,15 @@ tags:
   - CLI for Microsoft 365
   - Azure Active Directory
   - SharePoint
-type: popular
+type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
 
 [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces a number of new administrative commands as well as a ton of awesome improvements.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### Microsoft Entra ID
@@ -53,7 +53,7 @@ m365 aad administrativeunit member add --administrativeUnitName 'Marketing Divis
 To get information about a single user that's a member of an administrative unit
 
 ```sh
-m365 aad administrativeunit member get --id 64131a70-beb9-4ccb-b590-4401e58446ec --administrativeUnitName 'Marketing Division' 
+m365 aad administrativeunit member get --id 64131a70-beb9-4ccb-b590-4401e58446ec --administrativeUnitName 'Marketing Division'
 ```
 
 We've also added a new command around permission management. An area that the CLI for Microsoft 365 shines in. While we already supported managing delegated and application permissions on enterprise applications, managing permissions of App Registrations was not fully covered. This release brings a new command to achieve that purpose.
@@ -61,7 +61,7 @@ We've also added a new command around permission management. An area that the CL
 Grant multiple delegated API permissions to an Entra ID (Azure AD) app specified by client id
 
 ```sh
-m365 aad app permission add --appId 'f1417aa3-bf0b-4cc5-a845-a0b2cf11f690' --delegatedPermissions 'https://management.azure.com/user_impersonation https://service.flow.microsoft.com/Flows.Read.All https://graph.microsoft.com/Agreement.Read.All' 
+m365 aad app permission add --appId 'f1417aa3-bf0b-4cc5-a845-a0b2cf11f690' --delegatedPermissions 'https://management.azure.com/user_impersonation https://service.flow.microsoft.com/Flows.Read.All https://graph.microsoft.com/Agreement.Read.All'
 ```
 
 For more information check the following resources:
@@ -72,7 +72,7 @@ For more information check the following resources:
 
 ### External content
 
-The release of Microsoft Copilot for Microsoft 365 brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph connectors. 
+The release of Microsoft Copilot for Microsoft 365 brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph connectors.
 This release brings a new command to add new items to a connector and a new doctor command to verify if your external connection is correctly configured.
 
 To add a new item to an external connection, with simple properties that everyone is allowed to access
@@ -93,7 +93,7 @@ For more information check the following resources:
 
 ### Microsoft Teams
 
-This release also brings a new command to create new meetings in Microsoft Teams. This can be useful in automation scenarios where creating meetings on the fly brings an advantage. But it can also be used from the terminal interactively by those who love the speed of terminal interactions and often have one available. 
+This release also brings a new command to create new meetings in Microsoft Teams. This can be useful in automation scenarios where creating meetings on the fly brings an advantage. But it can also be used from the terminal interactively by those who love the speed of terminal interactions and often have one available.
 
 To create a new online meeting for the currently logged-in user, starting immediately and ending after one hour, run
 
@@ -128,7 +128,7 @@ If you are eager to go over all of the details and improvements added in this re
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 80 issues that are actively being developed and 66 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 80 issues that are actively being developed and 66 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 
@@ -185,4 +185,4 @@ For additional guidance on getting started or to explore detailed information ab
 
 ## Stay Connected!
 
-We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://twitter.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.

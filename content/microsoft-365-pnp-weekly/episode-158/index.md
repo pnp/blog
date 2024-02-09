@@ -15,19 +15,19 @@ videos:
 
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based, member of the Customer Engineering Team focused on developer enablement and on PnPjs project, [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by US-based, member of the Customer Engineering Team focused on developer enablement and on PnPjs project, [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) | @mediocrebowler.
 
 ## Topics discussed in this session
 
 - 	Patrick’s 10-year career journey at Microsoft and how got involved in PnP Community.
-- 	Why is PnPjs so successful?   What drives behavioral change and the probability of success?   
-- 	How is PnPjs V3.0 (V6.0) optimized? 
+- 	Why is PnPjs so successful?   What drives behavioral change and the probability of success?
+- 	How is PnPjs V3.0 (V6.0) optimized?
 - 	V3 theme or approach - “What do we put in the library vs what do we enable others to build.”
-- 	How is the perception of opensource changing? 
-- 	Can others join the PnPjs project team?   You bet - start by resolving an issue, define and own a capability, work with Julie @jfj1997 and Patrick @mediocrebowler.  
+- 	How is the perception of opensource changing?
+- 	Can others join the PnPjs project team?   You bet - start by resolving an issue, define and own a capability, work with Julie @jfj1997 and Patrick @mediocrebowler.
 
 
-We also covered 15 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 15 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
@@ -40,7 +40,7 @@ This session was recorded on Monday, March 21, 2022.   Enjoy the show.  
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube cEoHacAzLjo >}}
-*   Podcast format at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast format at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-pt5mn-11dafb1 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
@@ -71,7 +71,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Additional resources
 
 -   Documentation [PnPjs v2 - v3 Transition Guide](https://pnp.github.io/pnpjs/transition-guide/)
--   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+-   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 -   Microsoft 365 Maturity Model on Twitter @[M365Maturity](https://twitter.com/M365Maturity)
 -   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples) 
 -   [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
