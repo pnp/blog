@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -77,7 +77,6 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 * [Build your custom copilot with your data on Teams featuring Azure the AI Dragon](https://www.youtube.com/watch?v=hd0H53C9i80)
 * [Revolutionize learning with AI and Knowledge Quest](https://www.youtube.com/watch?v=vB4a98o-gWQ)
 
-
 ---
 
 ## New Microsoft 365 Developer Blog posts
@@ -91,14 +90,12 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Announcing general availability of Microsoft Graph APIs for Microsoft Teams meeting recordings](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-microsoft-graph-apis-for-microsoft-teams-meeting-recordings/) by Ayan Chakraborty (Microsoft)
 
 
-
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Microsoft 365 PnP Weekly - Episode 235 - Nico De Cleyre](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-235/) with [Nico De Cleyre](https://twitter.com/NicoDeCleyre) (Ordina Belgium) | NicoDeCleyre
 * [Viva Connections Toolkit v2.5.0 release](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-5-release/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
-
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -110,7 +107,6 @@ Here are the last week's community call recordings. You can download recurrent i
 
 * [Viva Connections and SharePoint Framework community call 8th of February 2024](https://www.youtube.com/watch?v=DftjpK9fJc8)
 * [Microsoft 365 & Power Platform weekly call – 6th of February, 2024](https://www.youtube.com/watch?v=K2TvhxA2GvA)
-
 
 ---
 
@@ -150,8 +146,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [M365 Community Days at Sea 2024](https://www.communitydays.org/event/2024-02-04/m365-community-days-at-sea-2024) - February 4-11, 2024, Royal Caribbean Oasis of the Seas, USA
-* [M365 Saturday DC - A Community Day Event](https://www.communitydays.org/event/2024-02-10/m365-saturday-dc-a-community-day-event) - February 10, 2024 - Reston, VA, USA
 * [M365 Revival](https://www.communitydays.org/event/2024-02-15/m365-revival) - February 15, 2024 - Oslo, Norway
 * [M365 Community Day - Phoenix](https://www.communitydays.org/event/2024-01-13/m365-community-day-phoenix) - February 17-18, 2024 - Tempe, AZ, USA
 * [Teams Nation](https://www.communitydays.org/event/2024-02-21/teams-nation-2024) - February 21, 2024 - Online
@@ -182,7 +176,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [DynamicsCon LIVE](https://www.communitydays.org/event/2024-05-13/dynamicscon-live) - May 14-16, 2024 - Denver, CO, USA
 * [DynamicsMinds 2024](https://www.communitydays.org/event/2024-05-27/dynamicsminds-2024) - May 27-29, 2024 - Portorož, Slovenia
 * [BECONNECTED DAY 12 - COLLABDAYS ITALY 2024](https://www.communitydays.org/event/2024-05-30/beconnected-day-12-collabdays-italy-2024) - May 30, 2024 - Milan, Italy
-* [COLLABDAYS NETHERLANDS 2024](https://www.communitydays.org/event/2024-06-01/netherlands-2024) - June 1, 2024 - Vianen, Netherlands
+* [CollabDays Netherlands 2024](https://www.communitydays.org/event/2024-06-01/netherlands-2024) - June 1, 2024 - Vianen, Netherlands
 * [TechCon365 and PWRCon - A Microsoft 365 and Power Platform Conference](https://www.communitydays.org/event/2024-06-03/techcon365-and-pwrcon-a-microsoft-365-and-power-platform-conference) - June 3-8, 2024 - Seattle, WA, USA
 * [TechCon 365 DC](https://www.communitydays.org/event/2024-08-12/techcon365-dc) - August 12-16, 2024 - Washington, DC, USA
 * [Experts Live Europe 2024](https://www.communitydays.org/event/2024-09-23/experts-live-europe-2024), September 23-25, 2024 - Budapest, Hungary
