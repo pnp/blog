@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 12th of February 2024 week
-date: 2024-02-02T02:22:27.507Z
+date: 2024-02-09T02:22:27.507Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
