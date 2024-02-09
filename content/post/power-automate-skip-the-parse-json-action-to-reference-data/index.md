@@ -35,7 +35,7 @@ will continue working fine.
 But in my case, I wanted to know if Power Automate could skip the Parse
 JSON action
 
-## What? 
+## What?
 
 
 In this blog post, I can show you a way to skip the Parse JSON action
@@ -43,7 +43,7 @@ and reference a property of an action with JSON output directly. This
 way, we can have one action less (#LessUsage #LessAPIcalls) and thus one
 action less that could fail (#Lean #LessActionsLessRisks).
 
-## How? 
+## How?
 
 Let's first have a look at a simple JSON object:
 

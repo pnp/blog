@@ -56,5 +56,6 @@ The following sections will walk you through the available options, outlining di
 
 For a detailed summary of the above options, see the following articles:
 
-|[Power Apps](powerApps.md)|[Power Automate](./PowerAutomate.md)|[Dataverse](Dataverse.md)|
-|-|-|-|
+- [Power Apps](powerApps.md)
+- [Power Automate](./PowerAutomate.md)
+- [Dataverse](Dataverse.md)
