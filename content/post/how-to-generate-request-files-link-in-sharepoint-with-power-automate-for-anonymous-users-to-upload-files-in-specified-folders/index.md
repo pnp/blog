@@ -1,6 +1,6 @@
 ---
-title: "How to Generate “Request Files” link in SharePoint with Power Automate for Anonymous Users to upload files in specified folders"
-date: 2024-01-23T016:30:00-08:00
+title: "How to Generate Request Files link in SharePoint with Power Automate for Anonymous Users to upload files in specified folders"
+date: 2024-02-12T00:00:00-00:00
 author: "Arash Aghajani"
 githubname: ArashAghajani
 categories: ["Community post"]
