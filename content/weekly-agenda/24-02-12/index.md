@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary07.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
 draft: false
