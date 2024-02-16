@@ -1,6 +1,6 @@
 ---
 title: "Preparing for Model-Driven Apps Dark Mode - Icons"
-date: 2024-02-09T08:00:00-00:00
+date: 2024-02-16T08:00:00-00:00
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
@@ -22,7 +22,7 @@ Dark mode has become increasingly popular in software applications, providing a 
 
 To enable [Dark mode for model-driven apps](https://hackingpowerplatform.com/dark-mode-for-microsoft-dataverse/) add the following URL flag to your model-driven app’s URL:
 
-```
+```text
 &flags=themeOption%3Ddarkmode
 ```
 
@@ -55,7 +55,7 @@ The critical element here is the fill colour inside the `<path>` tag:
 <path fill="#000000">
 ```
 
-This explicitly sets the fill colour to black, and whilst teh background in dark mode is a dark grey, rather than black, black doesn't give sufficient contrast.
+This explicitly sets the fill colour to black, and whilst the background in dark mode is a dark grey, rather than black, black doesn't give sufficient contrast.
 
 ## The Solution
 
@@ -84,6 +84,10 @@ To give in our example:
 This modification ensures that the icons display appropriately regardless of the mode:
 
 ![Updated mode](images/updated-mode.png)
+
+### Side Note
+
+It's interesting to see that the updated colour is the same colour as the table name, which is a shade of grey, and that the colour changes slightly on hover.
 
 ## Conclusion
 
