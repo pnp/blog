@@ -31,7 +31,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building SPFx Password Vault Web Part and SharePoint quick links extension for browser** – two solutions are presented here. From idea and design criteria to code and demos for the Password Vault web part (encrypted password protected page and data) and for the SharePoint Quicklinks extension (dynamic quick links to site contents, site settings, etc.). Install and configure web part and extension, look at the code – focusing on PasswordValueService for web part and on a single file for extension.
 * **My experience as a first-time contributor to CLI for Microsoft 365** – a personal step-by-step experience that includes practical guidance on how to contribute. Creating your local playground, creating a fork, identifying good first issues and types of issues, getting the green light to work on the issue, writing a command, creating a PR and PR approval. The chance to work with maintainers and yes, the sense of addiction you may experience in the process!
 
-The host of this call is [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
+The host of this call is [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place as always in chat throughout the call.
 
 {{< youtube 0snk0FWRMIY >}}
 
@@ -126,7 +126,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -145,7 +145,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

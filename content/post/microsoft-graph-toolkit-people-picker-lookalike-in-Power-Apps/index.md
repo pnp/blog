@@ -199,10 +199,10 @@ For all lovers of dark-mode: here is a little motivation to keep reading this po
 
 1. Create a new app
 2. Save it locally
-3. Unpackage the app via [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/canvas#pac-canvas-unpack) 
+3. Unpackage the app via [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/reference/canvas#pac-canvas-unpack)
 4. Select the `themes.json` file
 5. Replace its content by [FluentUI for Teams theme](https://github.com/pnp/powerapps-samples/blob/main/samples/fluentui-for-teams-theme/sourcecode/Themes.json)
-6. Package the app again via [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/canvas#pac-canvas-pack)
+6. Package the app again via [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/reference/canvas#pac-canvas-pack)
 7. Open the app from within [Power Apps Studio](https://make.powerapps.com)
 8. Add a Dropdown control `drp_theme`
 9. Set its **Items** property to `["default", "dark", "high-contrast"]`
@@ -322,7 +322,7 @@ With that, we add people from our colPeople to our colAttendees and remove them 
 
 ```powerappsfl
 "data:image/svg+xml;utf8, " & EncodeUrl(
-    " 
+    "
 <svg width='48' height='48' viewBox='0 0 48 48' fill='" & If(
         gblThemeHiCo,
         "#ffffff",

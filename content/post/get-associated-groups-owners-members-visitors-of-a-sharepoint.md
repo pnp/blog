@@ -20,7 +20,7 @@ This will be super helpful if you want to get the default groups when
 you get the Web properties. Especially when you are automating web
 provisioning along with the Permissions.
 For doing that you can use the properties
-like [associatedOwnerGroup](https://docs.microsoft.com/previous-versions/office/sharepoint-visio/jj245638(v=office.15)), [associatedMemberGroup](https://docs.microsoft.com/previous-versions/office/sharepoint-visio/jj245549(v=office.15)), [associatedVisitorGroup](https://docs.microsoft.com/previous-versions/office/sharepoint-visio/jj247047(v=office.15)) in
+like [associatedOwnerGroup](https://learn.microsoft.com/previous-versions/office/sharepoint-visio/jj245638(v=office.15)), [associatedMemberGroup](https://learn.microsoft.com/previous-versions/office/sharepoint-visio/jj245549(v=office.15)), [associatedVisitorGroup](https://learn.microsoft.com/previous-versions/office/sharepoint-visio/jj247047(v=office.15)) in
 REST API for getting the SP Web Properties REST API
 - `https://contoso.sharepoint.com/sites/contososite/_api/web`.
 So the entire REST call with all the associated groups
@@ -87,7 +87,7 @@ This also would be super handy if you want to have a [Power
 Automate](https://flow.microsoft.com/) which will assign users to
 default SharePoint Owner or Member of Visitor Group.
  
-## Get Associated Groups in scripts for automation 
+## Get Associated Groups in scripts for automation
 
 If you want to have the same functionality for writing automated
 scripts, [CLI for Microsoft

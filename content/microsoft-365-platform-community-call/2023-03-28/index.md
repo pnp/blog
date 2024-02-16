@@ -27,7 +27,6 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
         * **Rajdeep Chanda, Harshit Kumar** and **Mahesh Singhania** – Latest on the Microsoft Graph Connectors
         * **To be announced** – Microsoft Graph Hackathon - Winner demo \#1
     * Article – [Introducing Microsoft 365 Copilot—A whole new way to work](https://www.microsoft.com/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work) - Colette Stallbaumer (Microsoft)
-    * Article – [New Microsoft Loop app is built for modern co-creation](https://www.hubsite365.com/crm-pages/new-microsoft-loop-app-is-built-for-modern-co-creation.htm) - Microsoft
     * Article – [Microsoft Business Applications Launch Event, April 4](https://msbizappslaunchevent.eventcore.com/home) - Microsoft
     * Article – [Announcing SharePoint Framework 1.17 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-release-candidate/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
     * Article – [Build custom communication experiences with Azure Communication Services UI Library for Microsoft Teams users](https://devblogs.microsoft.com/microsoft365dev/build-custom-communication-experiences-with-azure-communication-services-ui-library-for-microsoft-teams-users/) - [David de Matheu](https://twitter.com/ddematheu) (Microsoft) \| @ddematheu
@@ -49,9 +48,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 203 with by Germany-based Microsoft MVP, Developer, Consultant - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese (March 27th) \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-203/) \| [podcast](https://www.podbean.com/eas/pb-e56dm-13ca5ec)
@@ -64,7 +63,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Kiota SDK generator is now available - What you need to know!** – Kiota is GA. It is presently being rolled into Graph Explorer and into a VS Code Extension. Kiota enables you to create and add a powerful, super specific API client to work inside your application. See how a package is created and added to your solution by stepping through a scenario to sync PRs from GitHub (a single endpoint) right into your Microsoft ToDo app.
 * **Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code** – you’ve built an awesome app on your local machine, now it’s time to move it to a remote environment to validate and share with others. The move is streamlined with 3 Toolkit features - provision to cloud, deploy to cloud, and publishing to your organization. In this example a simple tab app makes its way to the Teams admin portal and can be added to Teams.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 5YfG-9pjiic >}}
 
@@ -72,7 +71,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/5YfG-9pjiic?t=0) – Intro
 
-[10:08](https://youtu.be/5YfG-9pjiic?t=608) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:08](https://youtu.be/5YfG-9pjiic?t=608) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:33](https://youtu.be/5YfG-9pjiic?t=693) – Together mode picture
 
@@ -96,7 +95,7 @@ As always, it's awesome to have you on the call.  Idyllic - seated in the virtua
 
 * March 29, 2023, 9:00AM PST. Build once, deploy efficiently, connect across Microsoft 365 – Virtual event. [Register](https://aka.ms/BuildwithTeams)
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:
@@ -115,8 +114,8 @@ As always, it's awesome to have you on the call.  Idyllic - seated in the virtua
     * Article – [Announcing SharePoint Framework 1.17 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-release-candidate/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * **Kiota SDK generator is now available - What you need to know!**
     * Repo – [Project Kiota](https://github.com/microsoft/kiota) \| aka.ms/kiota
-    * Documentation - [Welcome to Kiota](https://microsoft.github.io/kiota/) \| <https://microsoft.github.io/kiota/>
-    * Documentation - [Get started with Kiota](https://microsoft.github.io/kiota/get-started/) \| aka.ms/get/kiota
+    * Documentation - [Welcome to Kiota](https://learn.microsoft.com/openapi/kiota/) \| <https://learn.microsoft.com/openapi/kiota/>
+    * Documentation - [Get started with Kiota](https://learn.microsoft.com/openapi/kiota/) \| aka.ms/get/kiota
     * APIs – [APIs.guru](https://apis.guru/) \| <https://apis.guru/>
 * **Deploy a Microsoft Teams app to Azure using Teams Toolkit for Visual Studio Code**
     * Training - [Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/paths/m365-teams-toolkit-vsc/) \| aka.ms/learn/teamstoolkit

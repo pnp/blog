@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Denmark based Microsoft 365 Developer and Consultant [Dan Toft](https://twitter.com/tanddant) (EvoBis) | @tanddant.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Denmark based Microsoft 365 Developer and Consultant [Dan Toft](https://twitter.com/tanddant) (EvoBis) | @tanddant.
 
 ## Topics discussed in this session
 
@@ -24,16 +24,16 @@ In this episode of the weekly discussion revolving around the latest news and to
 * How would you like to be able to extend Microsoft 365 Copilot?
 * Will AI replace our jobs?
 * The added value of participating in the community for employees and employers
- 
+
 ## Referenced during conversation
 
 * [SharePoint Framework samples](https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=&sort-by=creationDateTime-true&page=1&product=SharePoint)
-* [Build for Microsoft Teams using SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-overview)
+* [Build for Microsoft Teams using SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/build-for-teams-overview)
 * [Teams Global Hack](https://aka.ms/htt)
 * [Guest user overview (winning productivity solution in Teams Global Hack)](https://github.com/microsoft/hack-together-teams/issues/69)
-* [ESPC '23](https://www.sharepointeurope.com/) 
+* [ESPC '23](https://www.sharepointeurope.com/)
 
-There were 23 articles or videos covered within this episode produced by Microsoft and community members.  
+There were 23 articles or videos covered within this episode produced by Microsoft and community members.
 
 ## This week
 
@@ -59,10 +59,10 @@ This session was recorded on Monday 4th of September and released on 5th of Sept
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube WtoR_GNlGak >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-mcec8-1498b8c >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -128,4 +128,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

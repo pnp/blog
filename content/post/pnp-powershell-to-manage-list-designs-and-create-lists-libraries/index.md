@@ -12,7 +12,7 @@ type: "regular"
 
 
 
-PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://docs.microsoft.com/sharepoint/lists-custom-template)
+PnP PowerShell has a set of cmdlets to [manage custom list templates.](https://learn.microsoft.com/sharepoint/lists-custom-template)
 
 [**Add-PnPListDesign**](https://pnp.github.io/powershell/cmdlets/Add-PnPListDesign.html)
 
@@ -38,10 +38,10 @@ Connect-PnPOnline -url $adminSiteUrl -interactive
 
 $extracted = Get-PnPSiteScriptFromList  -url $listUrl
 
-Add-PnPSiteScript -Title "Test Document Library" -Description "This creates a custom document library" -Content $extracted 
+Add-PnPSiteScript -Title "Test Document Library" -Description "This creates a custom document library" -Content $extracted
 $siteScripts = Get-PnPSiteScript
 
-$siteScriptObj = $siteScripts | Where-Object {$_.Title -eq "Test Document Library"} 
+$siteScriptObj = $siteScripts | Where-Object {$_.Title -eq "Test Document Library"}
 
 Add-PnPListDesign -Title "Test Document Library" -Description "Deploy document library with content types and views" -SiteScriptIds $siteScriptObj.Id-ListColor Pink -ListIcon BullseyeTarget
 ```
@@ -81,7 +81,7 @@ PO,Purchase Orders
 Execute the `Invoke-PnPListDesign` cmdlet
 
 ```powershell
-[CmdletBinding()] 
+[CmdletBinding()]
     Param(
     [Parameter(Mandatory=$false,  Position=0)]
     [String]$adminSiteUrl = "https://contoso-admin.sharepoint.com",
@@ -91,7 +91,7 @@ Execute the `Invoke-PnPListDesign` cmdlet
     [String]$librariesCSV =  "C:\Scripts\DocumentLibraryTemplate\libraries.csv",
 
     [Parameter(Mandatory=$false,  Position=4)]
-    [String]$listDesign = "Test Document Library" 
+    [String]$listDesign = "Test Document Library"
     )
 #creating indexed columns might help with performance of large libraries, i.e. >5000 files
 function Create-Index ($list, $targetFieldName)
@@ -113,9 +113,9 @@ while(!$lib)
 }
 if($lib)
 {
-    $lib.Rootfolder.MoveTo($($_.InternalName))  
-    Invoke-PnPQuery  
-    #this will change library title  
+    $lib.Rootfolder.MoveTo($($_.InternalName))
+    Invoke-PnPQuery
+    #this will change library title
     Set-PnPList -Identity $lib.Id -Title $($_.DisplayName)
     #add list to quick launch
     Add-PnPNavigationNode -Title $_.DisplayName -Url $($_.InternalName + "/") -Location "QuickLaunch"
@@ -133,7 +133,7 @@ if($lib)
 ```powershell-interactive
 
     PS C:\Windows\system32> C:\Scripts\DocumentLibraryTemplate\ApplyListDesignToCreateLibaries.ps1
-    
+
     Title                                        OutcomeText                            Outcome
     -----                                        -----------                            -------
     Create site column WorkAddress through XML                                          Success
@@ -174,9 +174,9 @@ if($lib)
     Add content type "test_11"                   List with name test_ct already exists.    NoOp
     Add view "All Documents"                     List with name test_ct already exists.    NoOp
     Add view "All Documents sorted"              List with name test_ct already exists.    NoOp
-    Annual Reports                                                                            
+    Annual Reports
     	Setting versioning to major/minor to : Annual Reports
-    
+
 ```
 
 Libraries created after running the script

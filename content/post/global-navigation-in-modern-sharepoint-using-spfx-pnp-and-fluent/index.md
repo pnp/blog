@@ -39,9 +39,9 @@ Below Artifacts are going to be used,
 -   [SharePoint communication
     Site](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)
 -   [SharePoint Framework
-    (SPFx)](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
+    (SPFx)](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 -   [Application
-    Customizer](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
+    Customizer](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions)
 -   [PnP Taxonomy](https://pnp.github.io/pnpjs/sp/taxonomy/)
 -   [Fluent Ui Command
     Bar](https://developer.microsoft.com/fluentui#/controls/web/commandbar)

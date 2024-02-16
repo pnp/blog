@@ -18,7 +18,7 @@ type: "regular"
 
 ## Call summary
 
- 
+
 
 This month's community call features presentations - Word API updates
 (preview of Footnote and Comment APIs for citation management and
@@ -38,7 +38,7 @@ was hosted by David Chesnut (Microsoft) | @davidchesnut.
 -   Igor Ribeiro - Software Engineer
 -   David Chesnut - Senior Dev Writer
 
-## Agenda 
+## Agenda
 
 -   Word API updates - Ruoying Liang, Senior Program Manager (Microsoft)
     -- [1:06](https://www.youtube.com/watch?v=MfHpw5Tzs30&t=66s)
@@ -54,7 +54,7 @@ was hosted by David Chesnut (Microsoft) | @davidchesnut.
     [46:15](https://www.youtube.com/watch?v=MfHpw5Tzs30&t=2775s)
 -   Q&A -- [47:02](https://www.youtube.com/watch?v=MfHpw5Tzs30&t=2822s)
 
-## Actions 
+## Actions
 
 -   Provide input on Mocking Office.js for unit tests blog. [Standard
     way to unit test and mock office-js
@@ -67,7 +67,7 @@ was hosted by David Chesnut (Microsoft) | @davidchesnut.
     recognition
     program](https://aka.ms/m365pnp-recognition "PnP recognition program")
 
-## Demo summaries 
+## Demo summaries
 
 -   **Preview on latest Microsoft Word API updates: Footnote and Comment
     APIs**.  The Footnote API enables users to insert searchable
@@ -87,7 +87,7 @@ was hosted by David Chesnut (Microsoft) | @davidchesnut.
     unprotected.
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 **Is there a way to "auto push" manifest updates?**
@@ -104,7 +104,7 @@ the relevant Office applications start, the add-in will update. The web
 application can change at any time.
 For more information, see [Test and deploy Microsoft 365 Apps by
 partners in the Integrated apps
-portal](https://docs.microsoft.com/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps?view=o365-worldwide#more-about-office-add-ins-security).
+portal](https://learn.microsoft.com/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps?view=o365-worldwide#more-about-office-add-ins-security).
 **Will the new Word APIs be available for all platforms?**
 These Word API updates will be available in Preview for Word on the web
 later this month (September 2021). Eventually, they will be available on
@@ -128,16 +128,16 @@ content is exposed via a RESTful endpoint. I am currently using
 getSelection and insertFileFromBase64.**
 Probably the best thing to be aware of is that you can use this method
 on a variety of objects. For example, you can use
-[Word.Body.InsertFileFromBase64](https://docs.microsoft.com/javascript/api/word/word.body?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_),
+[Word.Body.InsertFileFromBase64](https://learn.microsoft.com/javascript/api/word/word.body?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_),
 and
-[Word.Paragraph.InsertFileFromBase64](https://docs.microsoft.com/javascript/api/word/word.paragraph?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_).
+[Word.Paragraph.InsertFileFromBase64](https://learn.microsoft.com/javascript/api/word/word.paragraph?view=word-js-1.1#insertFileFromBase64_base64File__insertLocation_).
 To see all the objects with this method, type "InsertFileFromBase64"
 into the search box in the [reference section for the Word
-API](https://docs.microsoft.com/javascript/api/word?view=word-js-1.1).
+API](https://learn.microsoft.com/javascript/api/word?view=word-js-1.1).
 
 If you're looking for more specific guidance, please provide more
 information on ask on the [Microsoft 365 Q&A
-site](https://docs.microsoft.com/answers/topics/office-addins-dev.html?page=2&amp;pageSize=15&amp;sort=active&amp;filter=all),
+site](https://learn.microsoft.com/answers/topics/office-addins-dev.html?page=2&amp;pageSize=15&amp;sort=active&amp;filter=all),
 or at <https://stackoverflow.com> using the \[**office-js**\] tag.
 **When will we be able to use SPFX to create Office Addins?**
 A couple of years ago, we released a preview for creating Outlook
@@ -167,7 +167,7 @@ catch the error when calling getAccessToken(), which should be a 13012
 error, and use a fallback dialog to sign in the user. To see how to set
 up the fallback dialog, see [Create a Node.js Office Add-in that uses
 single sign-on - Office Add-ins | Microsoft
-Docs](https://docs.microsoft.com/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
+Docs](https://learn.microsoft.com/office/dev/add-ins/develop/create-sso-office-add-ins-nodejs)
 which also uses the [Office Add-in Node.js code
 sample](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/auth/Office-Add-in-NodeJS-SSO).
 
@@ -192,4 +192,3 @@ product bug. Please help us out and provide information on how to
 reproduce this bug at <https://github.com/OfficeDev/office-js/issues>.
 That's where we track any product bugs and we can look into it in more
 detail.
-

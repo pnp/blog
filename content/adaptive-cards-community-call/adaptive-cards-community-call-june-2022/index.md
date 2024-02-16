@@ -16,14 +16,14 @@ videos:
 
 ## Call summary
 
-In this month’s community call the focus is on the newly released Teams Toolkit v4.0. This latest Teams VS Code extension enables developers/non-developers to create Teams apps with minimal work. v4 capabilities called out include scenario-based app creation, run your Teams apps on Office and Outlook, create an app from sample, select to uncomment/activate commented out capabilities and seeing your new app in Run and Debug mode. With the Adaptive Cards VS Code extension installed, see side-by-site edit-render experience similar to Adaptive Card Designer. The 20-minute Q&A covers a host of topics. This call was hosted by [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on June 9, 2022.
+In this month’s community call the focus is on the newly released Teams Toolkit v4.0. This latest Teams VS Code extension enables developers/non-developers to create Teams apps with minimal work. v4 capabilities called out include scenario-based app creation, run your Teams apps on Office and Outlook, create an app from sample, select to uncomment/activate commented out capabilities and seeing your new app in Run and Debug mode. With the Adaptive Cards VS Code extension installed, see side-by-site edit-render experience similar to Adaptive Card Designer. The 20-minute Q&A covers a host of topics. This call was hosted by [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm. Recorded on June 9, 2022.
 
 {{< youtube 1mmHVg16_AA >}}
 
 ## Agenda
 
-* Teams Toolkit v4.0 features and Live App Demo - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [00:32](https://youtu.be/1mmHVg16_AA?t=32)
-* Q&A - [J.P. Roca](http://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [09:27](https://youtu.be/1mmHVg16_AA?t=567)
+* Teams Toolkit v4.0 features and Live App Demo - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [00:32](https://youtu.be/1mmHVg16_AA?t=32)
+* Q&A - [J.P. Roca](https://twitter.com/jpthepm) (Microsoft) \| @jpthepm – [09:27](https://youtu.be/1mmHVg16_AA?t=567)
 
 ## Demo summary
 
@@ -34,11 +34,11 @@ In this month’s community call the focus is on the newly released Teams Toolki
 
 *  **New Teams Toolkit v4.0 features used in Scenario-based Teams app using Adaptive Cards**
     * Tenant – [Microsoft 365 Developer Tenant](https://developer.microsoft.com/microsoft-365/dev-program)
-    * Documentation - [Get started](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-overview?WT.mc_id=m365-66412-timura)
-    * Documentation - [Teams Toolkit Overview](https://docs.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-66412-timura)
+    * Documentation - [Get started](https://learn.microsoft.com/microsoftteams/platform/get-started/get-started-overview?WT.mc_id=m365-66412-timura)
+    * Documentation - [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=m365-66412-timura)
     * Article - [Microsoft Teams Toolkit for Visual Studio Code now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-toolkit-for-visual-studio-code-now-generally-available/)
-    * Documentation - [Build your first tab app using JavaScript](https://docs.microsoft.com/microsoftteams/platform/sbs-gs-javascript?tabs=vscode%2Cvsc%2Cviscode&%3FWT.mc_id=m365-55688-timura) \| aka.ms/TeamsAppJS
-    * Twitter - [Tomomi Imura](http://twitter.com/girlie_mac) \| @girlie_mac
+    * Documentation - [Build your first tab app using JavaScript](https://learn.microsoft.com/microsoftteams/platform/sbs-gs-javascript?tabs=vscode%2Cvsc%2Cviscode&%3FWT.mc_id=m365-55688-timura) \| aka.ms/TeamsAppJS
+    * Twitter - [Tomomi Imura](https://twitter.com/girlie_mac) \| @girlie_mac
 
 ## Other references
 

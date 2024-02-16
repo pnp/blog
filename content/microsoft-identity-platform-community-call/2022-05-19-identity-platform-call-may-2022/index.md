@@ -17,18 +17,17 @@ draft: false
 
 ## Call summary
 
-This month’s in-depth topic: Microsoft Graph’s advanced capabilities for querying directory objects – Microsoft Graph APIs expose Directory Objects (Users, Groups, Devices, etc.) to interact with Azure AD. We added new functionalities to pre-existing Directory Objects for querying these objects with Microsoft Graph. Learn how to unlock the full potential of our Directory Object APIs using the Advanced Query Capabilities that allow developers to Count, Filter, Search and Sort Directory Objects on more properties with more OData operators. We cover - what are advanced query capabilities, look under the hood, walkthrough assorted query examples and SDK support (PowerShell, .NET), call out current limitations and conclude with Q&A. Presenter: [Luca Spolidoro](http://twitter.com/Licantrop0) – Senior Program Manager, Azure Identity \| @Licantrop0. Recorded May 19, 2022.
+This month’s in-depth topic: Microsoft Graph’s advanced capabilities for querying directory objects – Microsoft Graph APIs expose Directory Objects (Users, Groups, Devices, etc.) to interact with Azure AD. We added new functionalities to pre-existing Directory Objects for querying these objects with Microsoft Graph. Learn how to unlock the full potential of our Directory Object APIs using the Advanced Query Capabilities that allow developers to Count, Filter, Search and Sort Directory Objects on more properties with more OData operators. We cover - what are advanced query capabilities, look under the hood, walkthrough assorted query examples and SDK support (PowerShell, .NET), call out current limitations and conclude with Q&A. Presenter: [Luca Spolidoro](https://twitter.com/Licantrop0) – Senior Program Manager, Azure Identity \| @Licantrop0. Recorded May 19, 2022.
 
 {{< youtube 6yV8ejEiAvk >}}
 
 ## Referenced in this call
 
-* Documentation - [Advanced query capabilities on Azure AD directory objects](https://docs.microsoft.com/graph/aad-advanced-queries?tabs=http)
+* Documentation - [Advanced query capabilities on Azure AD directory objects](https://learn.microsoft.com/graph/aad-advanced-queries?tabs=http)
 * Sample - [Explore advanced Microsoft Graph Query Capabilities for Directory Objects (AAD) with .NET SDK](https://github.com/microsoftgraph/dotnet-aad-query-sample)
 * Feedback survey - [Feedback on Querying Directory Objects in Microsoft Graph](https://aka.ms/MsGraphAADSurveyComm)
-* Documentation – [Graph query - count parameter](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/Office%20Videos/Identity%20Calls/2022-05-19-Identity/Graph%20query%20-%20count%20parameter)
-* Documentation - [Use query parameters to customize responses](https://docs.microsoft.com/graph/query-parameters#using-search-on-directory-object-collections)
-* Documentation – [Graph query - orderby parameter](https://docs.microsoft.com/graph/query-parameters#orderby-parameter)
+* Documentation - [Use query parameters to customize responses](https://learn.microsoft.com/graph/query-parameters#using-search-on-directory-object-collections)
+* Documentation – [Graph query - orderby parameter](https://learn.microsoft.com/graph/query-parameters#orderby-parameter)
 * Tool – [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
 * Tools - [Microsoft Graph PowerShell SDK](https://github.com/microsoftgraph/msgraph-sdk-powershell)
 * Tools - [Welcome to the Windows Terminal, Console and Command-Line repo](https://github.com/microsoft/terminal)
@@ -39,13 +38,13 @@ This month’s in-depth topic: Microsoft Graph’s advanced capabilities for que
 * Let us know how we’re doing and suggest topics for future calls, please complete this survey [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
-* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://docs.microsoft.com/learn/paths/m365-identity-associate/)
+* Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities including Learning Path - [Implement Microsoft identity – Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on June 16 at 9:00am PT. Download the recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 

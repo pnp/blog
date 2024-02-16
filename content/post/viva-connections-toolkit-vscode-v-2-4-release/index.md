@@ -13,12 +13,12 @@ summary: "Viva Connections Toolkit is a Visual Studio Code extension that aims t
 # Taxonomies
 categories: ["Community post"]
 tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva", "Viva Connections"]
-type: "regular" 
+type: "regular"
 ---
 
 ## 🗒️ Quick intro
 
-[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code and now even create a CI/CD pipeline to introduce automate deployment of your app 🚀.
+[Viva Connections Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code and now even create a CI/CD pipeline to introduce automate deployment of your app 🚀.
 
 All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with [PnP samples](https://pnp.github.io/#samples), upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
@@ -59,11 +59,11 @@ In this minor release, we also rebuild the help and feedback section to a tree v
 
 ## 👀 Microsoft Adaptive Card Previewer
 
-[Microsoft Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) is a quite new VS Code extension that uses the latest rendering stack for Microsoft Teams to provide a more accurate preview of Adaptive Cards. Viva Connections Toolkit will now check if your SharePoint Framework project has an ACE component and if so it will show a notification to install Adaptive Card Previewer to boost your work with ACE development and allow you less context switching. 
+[Microsoft Adaptive Card Previewer](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-adaptive-cards) is a quite new VS Code extension that uses the latest rendering stack for Microsoft Teams to provide a more accurate preview of Adaptive Cards. Viva Connections Toolkit will now check if your SharePoint Framework project has an ACE component and if so it will show a notification to install Adaptive Card Previewer to boost your work with ACE development and allow you less context switching.
 
 ## 🚀 Update support of SPFx to 1.18.2
 
-Keeping you up to date and helping you upgrade your solution to the latest version of SPFx is one of the main functionalities of this extension. That's why as part of this minor release, we also updated the upgrade and validate action to SPFx v1.18.2. 
+Keeping you up to date and helping you upgrade your solution to the latest version of SPFx is one of the main functionalities of this extension. That's why as part of this minor release, we also updated the upgrade and validate action to SPFx v1.18.2.
 Gain confidence and upgrade guidance with ease to keep you going 🚀.
 
 ## 🗺️ Future roadmap

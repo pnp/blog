@@ -28,7 +28,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
-Demos: 
+Demos:
 
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh – Getting started with styling your Power Pages
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @dcpadur – Introduction to new SharePoint Pages Microsoft Graph API
@@ -43,7 +43,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft Viva and SPFx community call](https://pnp.github.io/blog/categories/microsoft-viva-and-spfx-community-call/)
 
-Demos: 
+Demos:
 
 * [Julie Turner](https://twitter.com/jfj1997)(Sympraxis Consulting) | @Jfj1997 – Getting started with PnPjs in SPFx solutions
 * [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia – Building ISV offering for Microsoft Viva with SPFx ACEs and multi-tenant API
@@ -66,7 +66,7 @@ Update of the newly created videos in our two YouTube channels which are the [Mi
 * [Build your first Notification bot for Microsoft Teams with Teams Toolkit for Visual Studio Code](https://www.youtube.com/watch?v=bwyd46tVzQo) by [Garry Trinder](https://twitter.com/garrytrinder) | @Garrytrinder
 * [Introduction to Site Templates in SharePoint Online](https://www.youtube.com/watch?v=88bAFBfSm0o) by [Cathy Dew](https://twitter.com/catpaint1) (Microsoft) | @catpaint1
 * [Latest status and the next investment areas for SharePoint Framework](https://www.youtube.com/watch?v=PKN0lYJHzWE) by [Alex Terentiev](https://twitter.com/alexaterentiev) | @Alexaterentiev and [Vesa Juvonen](https://twitter.com/vesajuvonen) | @Vesajuvonen
-* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
+* [Account Linking for Microsoft Teams apps](https://www.youtube.com/watch?v=UvC8Tsqcw7U) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German and Aditya Challapally (Microsoft)
 
 ### Microsoft 365 Developer Channel
 
@@ -108,7 +108,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -120,13 +120,13 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Community Days Mexico City 2022](https://mscloudevents.com/) - November 3-4, Mexico City, Mexico
 * [Microsoft 365 / Dynamics 365 Ottawa Event](https://m365ottawa.com/) - November 4, Ottawa, Canada
 * [M365 Change Management Forum](https://www.communitydays.org/event/2022-11-07/m365-change-management-forum#Home) - November 7, Online
-* [DYNUG Autum Conference](https://dynug.no/arrangementer/dynug-hostkonferanse-2/) - November 8-9, Oslo, Norway
-* [Tech Summit Nigeria 2022](https://www.techsummitnigeria.com/) - November 9-10, Lgos, Nigeria
+* DYNUG Autum Conference - November 8-9, Oslo, Norway
+* Tech Summit Nigeria 2022 - November 9-10, Lagos, Nigeria
 * [M365 Chicago](https://m365chicago.com/) - November 11-12, Online
 * [Viva Explorers Community Day - UK](https://www.vivaexplorers.com/) - November 12, Manchester, United Kingdom
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/de-en/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
+* aMS Germany Microsoft Community Event 2022 - November 11-15, Aachen, Germany
 * [Global AI Developer Days - Toronto](https://globalai.community/) - November 16-17, Toronto, Canada
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
+* M365 Saturday Coimbatore 2022 - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 

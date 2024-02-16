@@ -14,7 +14,7 @@ SharePoint Framework projects on any platform.
 
 
  
-## Manage Microsoft 365 and SharePoint Framework projects on any platform 
+## Manage Microsoft 365 and SharePoint Framework projects on any platform
 
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
@@ -32,19 +32,19 @@ system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
 
-## New version of CLI for Microsoft 365 -- v3.8 
+## New version of CLI for Microsoft 365 -- v3.8
 
 Following our monthly release cadence, we've released a new version of
 the CLI for Microsoft 365 with some new capabilities. Here are a few of
 the most noteworthy additions.
 
-## Changes 
+## Changes
 
 We've continued improving CLI building upon the changes we've introduced
 in the previous version.
 
 
-### Added support for configuring default command output 
+### Added support for configuring default command output
 
 In the previous release, we added a new command \`m365 cli config set\`
 which gave you the ability to configure the CLI to your personal
@@ -76,7 +76,7 @@ If there are other options that you would like to be able to configure,
 [please let us
 know](https://github.com/pnp/cli-microsoft365/discussions).
 
-### Improved error messages 
+### Improved error messages
 
 In the 3.2.0 release of CLI for Microsoft 365, we replaced the
 request library with axios which we use to handle our requests to
@@ -95,9 +95,9 @@ instead returned a generic error message which was meaningless.
 So in this release, we have reverted back to our previous behaviour and
 so now error messages will be returned direct from the API call.
 
-## New Commands 
+## New Commands
  
-### Return Policies from Azure AD 
+### Return Policies from Azure AD
  
 
 
@@ -136,7 +136,7 @@ this command.
 
 
  
-## New script samples 
+## New script samples
  
 
 
@@ -146,7 +146,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
 
 If you have any scripts that you use frequently, please
@@ -155,20 +155,20 @@ us so that we can learn more about the common automation scenarios.
 
 
  
-### Monitor and notify Microsoft 365 health status 
+### Monitor and notify Microsoft 365 health status
  
 
 
 This script helps [monitor the health status of your Microsoft 365
 tenant and notifies if something is not
-normal](https://pnp.github.io/cli-microsoft365/sample-scripts/tenant/tenant-monitor-notify-healthstatus/).
+normal](https://pnp.github.io/cli-microsoft365/sample-scripts/tenant/monitor-notify-healthstatus/).
 It creates a SharePoint List and will add the outage content to that and
 will also send an email notification to a specified mailbox to notify
 that an ouage has occured.
 
 
  
-### Grant API permissions to SharePoint Azure Active Directory (AAD) Application 
+### Grant API permissions to SharePoint Azure Active Directory (AAD) Application
  
 
 
@@ -179,7 +179,7 @@ use in a SharePoint Framework (SPFx) project.
 
 
  
-### List all Microsoft Teams team's Owners and Members 
+### List all Microsoft Teams team's Owners and Members
  
 
 
@@ -189,7 +189,7 @@ export them into a CSV file.
 
 
  
-## Contributors 
+## Contributors
  
 
 
@@ -212,7 +212,7 @@ Thank you all for the time you chose to spend on the CLI for Microsoft
 
 
  
-## Work in progress 
+## Work in progress
  
 
 
@@ -220,7 +220,7 @@ Here are some things that we're currently working on.
 
 
  
-### More commands, what else 
+### More commands, what else
  
 
 
@@ -236,7 +236,7 @@ different workloads in Microsoft 365.
 
 
 
-### Improved managing SharePoint pages 
+### Improved managing SharePoint pages
  
 
 
@@ -248,7 +248,7 @@ to let you use them to their full potential.
 
 
 
-### Improved creating Azure AD apps 
+### Improved creating Azure AD apps
  
 
 
@@ -271,7 +271,7 @@ Azure AD.
 
 
 
-### Script examples 
+### Script examples
  
 
 
@@ -290,7 +290,7 @@ with us so that we can learn more about the common automation scenarios.
 
 
 
-### 'ensure' commands 
+### 'ensure' commands
  
 
 
@@ -302,7 +302,7 @@ it's something you'd like us to implement for other commands as well.
 
 
  
-## Try it today 
+## Try it today
  
 
 

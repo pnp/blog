@@ -23,7 +23,7 @@ Introducing the latest release of CLI for Microsoft 365
 
 ## Last minor release before v7
 
-Before we will have a deep dive on what's added in this release it's worth mentioning that the v7 release is just around the corner. We are planning to go live next month so be sure you prepare yourself in advance. You may check out the [upgrade guidance](https://github.com/pnp/cli-microsoft365/blob/v7/docs/docs/v7-upgrade-guidance.mdx) directly in the repo today.
+Before we will have a deep dive on what's added in this release it's worth mentioning that the v7 release is just around the corner. We are planning to go live next month so be sure you prepare yourself in advance. You may check out the [upgrade guidance](https://pnp.github.io/cli-microsoft365/v7-upgrade-guidance) directly in the repo today.
 
 You may also install the upcoming release and give it a try:
 
@@ -58,7 +58,7 @@ We also introduced a new command that allows you to remove permissions to a Powe
 Thanks to that, you may for example remove permissions of a specific user for a specific app by running:
 
 ```sh
-m365 pa app permission remove --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --userName john.doe@contoso.com 
+m365 pa app permission remove --appName bc9f0a7e-53df-46af-b669-5888bb2f63d0 --userName john.doe@contoso.com
 ```
 
 Or to unshare a Power Apps app with the entire tenant
@@ -91,7 +91,7 @@ I will be honest, this is one of our personal favorites. Who wouldn't want some 
 To add a GitHub workflow for a SharePoint Framework project that uses an application login and triggers for every push to the `main` branch, you should run:
 
 ```sh
-m365 spfx project github workflow add 
+m365 spfx project github workflow add
 ```
 
 To do the same but with user login method just run:

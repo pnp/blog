@@ -13,7 +13,7 @@ videos: null
 draft: false
 ---
 
-We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
+We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
@@ -29,7 +29,7 @@ Demos this time
 
 
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin - Creating an Azure Communication Services Resource for your solution
-* Nancy Handa (Microsoft) - Introduction to Viva Connections Announcements 
+* Nancy Handa (Microsoft) - Introduction to Viva Connections Announcements
 * Luyao Wang (Microsoft) - Teams Activity Notification APIs: Now supporting new RSC permissions!
 
 
@@ -59,7 +59,7 @@ Demos this time
 Demos this time
 
 * [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_- How to Securely Consume Azure Resources from SharePoint Framework with Azure API Management
-* Nishkalank Bezawada (Tietoevry) - Managing SharePoint Webhook subscriptions using SPFx Webpart 
+* Nishkalank Bezawada (Tietoevry) - Managing SharePoint Webhook subscriptions using SPFx Webpart
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh - Building cascading dropdowns in SPFx solutions
 
 
@@ -69,7 +69,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-## New videos 
+## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
@@ -77,7 +77,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Connecting Microsoft Teams with your customers through the power of Azure Communications Services](https://www.youtube.com/watch?v=xmhFuMr0VCo) by [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford
 * [Getting started with Microsoft Lists - Track information for your business](https://www.youtube.com/watch?v=NKQyuWMMlOw)
 * [Building custom guest user management solution for Microsoft Teams with SPFx](https://www.youtube.com/watch?v=ivFCcHGaq7Y) by [Dan Toft](https://twitter.com/tanddant) (Evobis) | @tanddant and [Jeppe Spanggaard](https://twitter.com/jeppesc11) (Evobis) | @jeppesc11
-* [Introducing Microsoft Viva Amplify](https://www.youtube.com/watch?v=6axa1hfsxyI) 
+* [Introducing Microsoft Viva Amplify](https://www.youtube.com/watch?v=6axa1hfsxyI)
 * [Getting started with SharePoint - Create, upload, and share files in a document library](https://www.youtube.com/watch?v=bFfDb9bZTH8)
 * [Using OpenAI function calling with Microsoft Graph in Microsoft Teams bot](https://www.youtube.com/watch?v=CI9e9SmUVdE) by [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells
 * [Microsoft 365 PnP Weekly – Episode 221 – Sarah Haase](https://www.youtube.com/watch?v=9YdU1v1dA18)
@@ -132,7 +132,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -164,7 +164,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* AMS Aachen - November 28, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!

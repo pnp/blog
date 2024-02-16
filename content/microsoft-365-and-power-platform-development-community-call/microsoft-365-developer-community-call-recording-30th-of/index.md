@@ -31,15 +31,15 @@ and - **yoteams-build-core** v1.3.0 GA.
 (**Bold** indicates new this call)
 
 | **Project**        | **Current Version**            | **Release/Status**  |
-| ------------- |-------------| -----|                                           
+| ------------- |-------------| -----|
 |  PnP .NET Libraries - PnP Framework        |v1.6.0 GA, PnP Provisioning Engine Schema v202103                       |Version 1.7.0 -- Early Autumn 2021
 |PnP .NET Libraries - PnP Core SDK         |v1.3.0 GA, **PnP Transformation Framework: Public Preview released!**   |Version 1.4.0 -- Early Autumn 2021
 |PnP PowerShell                            |v1.7.0 GA                                                               |Working on v1.8, In progress: v2 POC
-|Yo teams - generator-teams                |**v3.3.0 GA**                                                           
-|Yo teams - yoteams-build-core             |**v1.3.0 GA**                                                           
-|Yo teams -- yoteams-deploy                |v1.0.1 GA                                                               
-|Yo teams - msteams-react-base-component   |v3.1.0                                                                  
-|Microsoft Graph Toolkit (MGT)             |v2.3.0 GA                                                               
+|Yo teams - generator-teams                |**v3.3.0 GA**
+|Yo teams - yoteams-build-core             |**v1.3.0 GA**
+|Yo teams -- yoteams-deploy                |v1.0.1 GA
+|Yo teams - msteams-react-base-component   |v3.1.0
+|Microsoft Graph Toolkit (MGT)             |v2.3.0 GA
 
 
 > **Note:** While version releases are periodic, nightly releases are
@@ -127,7 +127,7 @@ call.
 
 ### Microsoft Power Platform Samples
 
-[https://aka.ms/powerplatform-samples](https://aka.ms/powerplatform-samples)  
+[https://aka.ms/powerplatform-samples](https://aka.ms/powerplatform-samples)
 
 - No new Power Platform samples this week
 
@@ -244,7 +244,7 @@ slides.
 
 -   Documentation - [Prerequisites: Get started with Microsoft
     Teams app
-    development](https://docs.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
+    development](https://learn.microsoft.com/microsoftteams/platform/get-started/prerequisites?tabs=vs) 
 -   D1:  Issues --
     [OfficeDev/TeamsFx](https://github.com/OfficeDev/TeamsFx/issues)
 -   D1:  Video demo - [Getting stated with Microsoft Teams Toolkit and Blazor](https://www.youtube.com/watch?v=WPnZgcjr6PI)
@@ -323,7 +323,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -353,7 +353,7 @@ targeted at anyone who's interested in the general Microsoft 365
 development topics. This includes Microsoft Teams, Bots, Microsoft
 Graph, CSOM, REST, site provisioning, PnP PowerShell, PnP Sites Core,
 Site Designs, Power Automate, PowerApps, Column Formatting, list
-formatting, etc. topics. 
+formatting, etc. topics.
 
 More details on the Microsoft 365 community
 from [https://aka.ms/m365pnp](https://aka.ms/sppnp). We also welcome
@@ -363,7 +363,7 @@ calls!
 You can download recurrent invite from <https://aka.ms/m365-dev-sig>.
 Welcome and join in the discussion. If you have any questions, comments,
 or feedback, feel free to provide your input as comments to this post as
-well. 
+well.
 
 More details on the Microsoft 365 community and options to get
 involved are available

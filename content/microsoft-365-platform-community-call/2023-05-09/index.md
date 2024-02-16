@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 9th of May, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 9th of May, 2023"
 summary: "Demos: New flows and ideas for Power Automate with Microsoft Teams, Latest on the SharePoint site templates - Site creation and template updates, and Latest on using SharePoint Framework for Microsoft Teams extensibility. Delivered 7 articles, 3 conversations."
 date: 2023-05-09T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### New this week
 
@@ -32,7 +32,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * Article – [SharePoint in the AI Era: Introducing Copilot in SharePoint & 10 more innovations for creators](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-in-the-ai-era-introducing-copilot-in-sharepoint-amp/ba-p/3806069) - [Adam Harmetz](https://twitter.com/adamharmetz) (Microsoft) \| @AdamHarmetz
     * Article – [Microsoft Lists: Easier, Better, Faster, Stronger](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-lists-easier-better-faster-stronger/ba-p/3806075) - Lincoln DeMaris (Microsoft)
     * Article – [New era in content management and security in SharePoint, OneDrive, and Teams](https://techcommunity.microsoft.com/t5/microsoft-365-blog/new-era-in-content-management-and-security-in-sharepoint/ba-p/3806083) - [Sesha Mani](https://twitter.com/seshamanis) (Microsoft) \| @SeshaManiS
-    * Article – [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-2-for-microsoft-365-extensibility/) - [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
+    * Article – [Announcing SharePoint Framework 1.17.2 for Microsoft 365 extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-17-2-for-microsoft-365-extensibility/) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen.
     * Article – [Streamline your SharePoint experience with the new Microsoft Graph SharePoint Admin API](https://devblogs.microsoft.com/microsoft365dev/streamline-your-sharepoint-experience-with-the-new-microsoft-graph-sharepoint-admin-api/) – Mengke Li (Microsoft) & Adriana Wook (Microsoft)
     * Article – [Announcing the Microsoft Graph Early Adopter recognition program](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-early-adopter-recognition-program/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm & Kristen Womack (Microsoft)
     * [Microsoft 365 Sample Solution Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/) has 1560+ samples now! aka.ms/m365/samples
@@ -40,9 +40,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 209 (May 8th) with Belgium-based Microsoft MVP and Microsoft 365 Consultant - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/) (VanRoey.be) \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-209/) \| [podcast](https://www.podbean.com/eas/pb-9xtah-1402897)
@@ -56,7 +56,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Latest on the SharePoint site templates - Site creation and template updates** – refreshed templates that further simplify the site creation process. Templates show site capabilities and what’s included with template. Preview every page/list, can go back and change template. Create site, add members, add permissions, people can access site as soon as it is created. Templates for both Teams and Communications sites. Q&A includes possible future enhancements. Look book and SharePoint templates similar/different.
 * **Latest on using SharePoint Framework for Microsoft Teams extensibility** – SPFx uses Teams SDK v2.9.1 by default and a custom or auto generated manifest. Solutions created for Teams are also available automatically in Outlook and Microsoft 365 app. See simple steps to onboard a SharePoint web part into Microsoft Teams. The Teams SDK is natively available in context and Teams Toolkit supports SharePoint Framework. As well, improved debugging for SPFx provided by Teams Toolkit v5.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube fMxtUKL82mk >}}
 
@@ -88,7 +88,7 @@ A room filled with familiar faces including many from last week’s Microsoft 36
 
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:
@@ -113,7 +113,6 @@ A room filled with familiar faces including many from last week’s Microsoft 36
     * Templates - [SharePoint look book](https://lookbook.microsoft.com/)
     * Templates - [Apply and customize SharePoint site templates](https://support.microsoft.com/office/apply-and-customize-sharepoint-site-templates-39382463-0e45-4d1b-be27-0e96aeec8398)
     * Template - [Use the SharePoint Brand Central template](https://support.microsoft.com/office/use-the-sharepoint-brand-central-template-a5cb8333-75b6-4579-b159-1fdc182ba573)
-    * Documentation - [SharePoint site template and site script overview](https://ineleccom-my.sharepoint.com/personal/andrb_inelec_com/Documents/Desktop/SharePoint%20Videos/May%209%20-%20Platform%20Call/o%09https:/learn.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview)
 * **Latest on using SharePoint Framework for Microsoft Teams extensibility**
     * Documentation - [Overview of the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
     * Documentation – [Teams Toolkit Overview](https://learn.microsoft.com/microsoftteams/platform/toolkit/teams-toolkit-fundamentals)

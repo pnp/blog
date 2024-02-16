@@ -15,14 +15,14 @@ type: "regular"
 
 Topics covered in this month's community call include a demo -
 **PokéBubbles Game** and a session on **How to get Microsoft Certified
-in the Power Platform**. 
+in the Power Platform**.
 
 As well there was **Recent Power Apps News
 and Community Contributions**, and more! 
 
 Community welcomes [Anna
 Chu](https://twitter.com/_achu) - Sr. Program Manager (Microsoft) |
-@\_achu.  
+@\_achu. 
 
 This call was hosted by [Todd
 Baginski](https://twitter.com/toddbaginski) (Canviz).  Demo presenters
@@ -120,8 +120,8 @@ on demand. 
     stack](https://powerusers.microsoft.com/t5/Kid-Zone/A-Pok%C3%A9Bubbles-Game-just-match-the-correct-bubble-of-the-lowest/td-p/1295147) 
 -   D1:  Repo --
     [PokeBubbleGame](https://github.com/MichelleWongNL/PokeBubbleGame/blob/main/Pok%C3%A9Bubbles%20V4.msapp) 
--   D2:  Microsoft Learn -- [Build the skills that lead to
-    success](https://www.microsoft.com/resilience/training-and-certification-solutions) 
+-   D2:  Microsoft Learn -- Build the skills that lead to
+    success
 -   D2:  Sheryl's -- [BizApps
     Blog](https://sherylnetley.com/bizapps-blog/)  
 -   D2:  Website -
@@ -130,7 +130,7 @@ on demand. 
     Fundamentals (Hints, Tips,
     Advice)](https://www.youtube.com/watch?v=JAFX9IJ9fBI&list=PLKZVDmaJ3IRJy__kzsxc1SpxH-UALeVPy) 
 -   D2:  Documentation - [Microsoft
-    Learn](https://docs.microsoft.com/learn/)
+    Learn](https://learn.microsoft.com/learn/)
 
 ## Learn more
 

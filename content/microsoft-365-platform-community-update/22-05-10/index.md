@@ -135,7 +135,7 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 
 All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization
 
-*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source for new SharePoint dev center documentation exposed from [https://docs.microsoft.com/sharepoint/dev](https://docs.microsoft.com/sharepoint/dev)
+*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source for new SharePoint dev center documentation exposed from [https://learn.microsoft.com/sharepoint/dev](https://learn.microsoft.com/sharepoint/dev)
 *   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) - Open-source templates used by the [SharePoint Look Book site](https://lookbook.microsoft.com/)
 *   [sp-provisioning-service](https://github.com/SharePoint/sp-provisioning-service) - Source code of the [SharePoint look book site](https://lookbook.microsoft.com/)
 
@@ -254,7 +254,7 @@ This time no new articles.
 
 #### Updated articles
 
-* Updated article - [Content Type Propagation](https://docs.microsoft.com/en-us/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
+* Updated article - [Content Type Propagation](https://learn.microsoft.com/microsoft-365/community/content-type-propagation) - by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) (Microsoft)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model more detailed.
 
@@ -287,7 +287,7 @@ How to find what's relevant for you? Take advantage of our SharePoint Framework 
 
 These are samples which have been contributed on the community samples since last summary. We do welcome all Microsoft Teams samples to this gallery. They can be implemented using in any technology.
 
-If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
+If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
@@ -375,7 +375,7 @@ See more from the [guidance documentation](https://pnp.github.io/sharing-is-cari
 *   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning engine is part of the PnP CSOM extension. They encapsulate complex business driven operations behind easily usable API surface, which extends out-of-the-box CSOM NuGet packages. See [changelog](https://github.com/pnp/PnP-Sites-Core/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP PowerShell** - PnP PowerShell cmdlets are open-source complement for the SharePoint Online cmdlets. There are more than 300 different cmdlets to use and you can use them to manage tenant settings or to manipulate actual SharePoint sites. See [changelog](https://github.com/pnp/PnP-PowerShell/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP Modern Search solution** - The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes. See more details on the different supported capabilities from [https://aka.ms/pnp-search](https://microsoft-search.github.io/pnp-modern-search/).
-*   **Modernization tooling** - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+*   **Modernization tooling** - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://learn.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 *   **SharePoint Starter Kit v2** - Building modern experiences with Microsoft Teams flavors for SharePoint Online and SharePoint 2019 - reference solution in [GitHub](https://github.com/pnp/sp-starter-kit).
 *   **List formatting definitions** - Community contributed samples around the column and view formatting in [GitHub](https://github.com/pnp/List-Formatting).
 *   **Site Designs and Site Scripts** - Community contributed samples around \* SharePoint Site Designs and Site Scripts in [GitHub](https://github.com/pnp/sp-dev-site-scripts).
@@ -384,10 +384,10 @@ See more from the [guidance documentation](https://pnp.github.io/sharing-is-cari
 
 ### ✍ Documentation updates
 
-*   Microsoft Teams platform documentation - [Microsoft Docs](https://docs.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
-*   SharePoint Developer documentation - [Microsoft Docs](https://docs.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
-*   Microsoft Graph documentation - [Microsoft Docs](https://docs.microsoft.com/graph/) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
-*   Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+*   Microsoft Teams platform documentation - [Microsoft Docs](https://learn.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
+*   SharePoint Developer documentation - [Microsoft Docs](https://learn.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
+*   Microsoft Graph documentation - [Microsoft Docs](https://learn.microsoft.com/graph/) | [GitHub](https://learn.microsoft.com/graph/overview)
+*   Office add-in documentation - [Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ## Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
 

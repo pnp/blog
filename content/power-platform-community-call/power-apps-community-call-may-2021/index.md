@@ -18,7 +18,7 @@ Topics covered in this month's community call include - Building
 multilingual Power Apps, Using Environment Variables in Canvas Apps,
 Using Environment Variables in Flows, Recent Power Apps News and
 Community Contributions and Latest on [PnP Power Platform Samples
-Contributions](https://aka.ms/powerplatform-samples).   
+Contributions](https://aka.ms/powerplatform-samples).  
 
 **Demo
 Extravaganza 2021**.  Entries accepted now, Finalist voting starts --
@@ -102,9 +102,9 @@ presenters included Haniel Croitoru (Protiviti), Charles Sterling
 ## Referenced in this session
 
 -   Documentation - [Environment variables
-    overview](https://docs.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables)
+    overview](https://learn.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables)
     |
-    <https://docs.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables>
+    <https://learn.microsoft.com/powerapps/maker/data-platform/EnvironmentVariables>
 -   Blog - [Announcing data source environment
     variables](https://powerapps.microsoft.com/blog/announcing-data-source-environment-variables/)
     |

@@ -36,7 +36,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building React Taxonomy File Explorer experience with SPFx** – render and manipulate files (Drag&Drop), folders, sub-folders in a hierarchical view based on managed metadata. Web part built with SPFx v1.15 and PnPjs. One can Move, Copy and/or Link to files in folders and also enables moving documents into library from an external location. Uses PnPjs to retrieve terms. File hierarchy is collapsible. Step through React component structures including the master TaxonomyFileExplorer component.
 * **Introduction to new Viva Connections Toolkit VS Code extension to streamline your development** – after months of work, the toolkit is available now. Streamline your development process. See how to access and install the pre-release version of this new toolkit. Create a Viva project from a clean slate, from a scenario with CodeTour guidance or from an example (sample). Check for and install dependencies (Node.js., npm and npm dependencies). Now we need your feedback please.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler. Q&A takes place as always in chat throughout the
 call.
 
 {{< youtube lMmYhfqOspY >}}
@@ -44,12 +44,12 @@ call.
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [5:58](https://youtu.be/lMmYhfqOspY?t=358)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:17](https://youtu.be/lMmYhfqOspY?t=497)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:17](https://youtu.be/lMmYhfqOspY?t=497)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [9:30](https://youtu.be/lMmYhfqOspY?t=570)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:19](https://youtu.be/lMmYhfqOspY?t=679)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:07](https://youtu.be/lMmYhfqOspY?t=727)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:05](https://youtu.be/lMmYhfqOspY?t=785)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:01](https://youtu.be/lMmYhfqOspY?t=901)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [11:19](https://youtu.be/lMmYhfqOspY?t=679)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [12:07](https://youtu.be/lMmYhfqOspY?t=727)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [13:05](https://youtu.be/lMmYhfqOspY?t=785)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:01](https://youtu.be/lMmYhfqOspY?t=901)
 * Demo - Building React Taxonomy File Explorer experience with SPFx – [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0 – [16:47](https://youtu.be/lMmYhfqOspY?t=1007)
 * Introduction to new Viva Connections Toolkit VS Code extension to streamline your development – [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) \| @eliostruyf – [32:21](https://youtu.be/lMmYhfqOspY?t=1941)
 
@@ -117,7 +117,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15.2 RC|v1.16 preview late July/early A
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -136,7 +136,7 @@ SharePoint Framework (SPFx)|v1.14 GA, v1.15.2 RC|v1.16 preview late July/early A
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

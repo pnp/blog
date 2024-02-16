@@ -16,13 +16,13 @@ way to show people how they interact with different services. When
 considering this approach, the first step is to determine what we
 require. 
 
-## What data is available?  
+## What data is available? 
 
 Office 365 provides a whole lot of data you can use. You can choose to
 get all actions yourself or using existing reports that are available.
 Most of those reports can also be retrieved by the CLI for Microsoft
 365. You can use the [Microsoft Docs to read what activity reports are
-available](https://docs.microsoft.com/microsoft-365/admin/activity-reports/activity-reports?view=o365-worldwide "Microsoft Docs to read what activity reports are available").
+available](https://learn.microsoft.com/microsoft-365/admin/activity-reports/activity-reports?view=o365-worldwide "Microsoft Docs to read what activity reports are available").
 Querying these reports using the CLI is done using a pattern: 
 
 -   *m365* to execute the cli
@@ -37,7 +37,7 @@ require. 
 
 ```bash
 m365 spo report activityuserdetail
-m365 teams report activeuserdetail 
+m365 teams report activeuserdetail
 ```
  
 
@@ -56,7 +56,7 @@ output is going to be JSON. Resulting in the following snippet: 
 m365 teams report useractivityuserdetail --period D7 --output json
 ```
 
-## Working with the result set 
+## Working with the result set
 
 The data returned contains a bit of information we do not require and is
 not quite the format that we need to do reporting on. To remediate that
@@ -99,7 +99,7 @@ m365 yammer report activityuserdetail --period D7 --output json --query 'reverse
 ```
  
 
-##  Presenting your results 
+##  Presenting your results
 
 With the commands above we can retrieve the information we need to
 identify the social champions of last week. The next challenge is to
@@ -113,7 +113,7 @@ welcome post that looks something like the following: 
 
 ![social-webhook.png](images/social-webhook.png)
 
-## Sharing your data 
+## Sharing your data
 
 Once the webhook is set up you can use the URL and post results to it.
 Since we already have the data present we can use PowerShell to set the
@@ -144,7 +144,7 @@ Executed the result will look as follows:  
 
 You can find this sample, and many more samples at the [CLI for
 Microsoft Sample script
-repository](https://pnp.github.io/cli-microsoft365/sample-scripts/ "CLI for Microsoft Sample script repository")!
+repository](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction "CLI for Microsoft Sample script repository")!
 If you want additional reports the script would look almost the same.
 The main difference is the service to call, and the query to sort the
 results on. You can use the same approach to see who is active on Teams
@@ -166,7 +166,7 @@ $card = '{ "type": "AdaptiveCard", "$schema": "http://adaptivecards.io/schemas/a
 m365 adaptivecard send --url $webhookUrl --card $card
 ```
  
-## What's next 
+## What's next
 
 With that I hope that this blog provided some insights in how you can
 recognize your users based on their activity. Keep in mind that just
@@ -175,7 +175,7 @@ it is a fun way to see who is doing what. It might even be a great
 conversation starter. Or you could use the same approach to identify who
 is missing out and instead of sharing that publicly let a Teams Champion
 know who might need additional assistance. If you have any questions
-regarding the CLI for Microsoft or have feedback let us know! 
+regarding the CLI for Microsoft or have feedback let us know!
 
 We are
 always looking for

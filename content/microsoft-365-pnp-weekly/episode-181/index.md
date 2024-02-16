@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=0B3T8Qcfo3s
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Senior Service Engineer [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) \| @O365Bert.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Belgium based Senior Service Engineer [Bert Jansen](https://twitter.com/O365Bert) (Microsoft) \| @O365Bert.
 
 ## Topics discussed in this session
 
@@ -29,9 +29,9 @@ In this installment of the weekly discussion revolving around the latest news an
 
 * Tool - [Microsoft 365 Assessment tool](https://pnp.github.io/pnpassessment/index.html) \| aka.ms/microsoft365assessmenttool
 * Documentation - [Modernize your classic SharePoint sites](https://learn.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) \| aka.ms/sharepoint/modernization
-* Tool - [PnP Core SDK](https://pnp.github.io/pnpcore/) 
-* Documentation - [Microsoft Graph throttling guidance](https://learn.microsoft.com/graph/throttling) 
-* Documentation - [Avoid getting throttled or blocked in SharePoint Online](https://learn.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online) 
+* Tool - [PnP Core SDK](https://pnp.github.io/pnpcore/)
+* Documentation - [Microsoft Graph throttling guidance](https://learn.microsoft.com/graph/throttling)
+* Documentation - [Avoid getting throttled or blocked in SharePoint Online](https://learn.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 * Event - [European SharePoint, Office 3665 & Azure Conference (ESPC22)](https://www.sharepointeurope.com/) – Copenhagen, November 2022 \| Bert’s session on APIs and throttling.
 
 Also, we showcased 14 articles/videos published by Microsoft and the PnP Community in the last week.
@@ -50,10 +50,10 @@ This session was recorded on Monday, October 3, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 0B3T8Qcfo3s >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-c35mr-12dc349 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-c35mr-12dc349 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -74,10 +74,10 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Small Tips and Tricks – Microsoft 365 – How to check available licenses in our Tenant](https://knowledge-junction.in/2022/09/30/small-tips-and-tricks-microsoft-365-how-to-check-available-licenses-in-our-tenant/) - [Sabadra Prasham](https://twitter.com/SabadraPrasham) (Apexon) | @SabadraPrasham
 * [Additional RefinableString* Managed Property Variants in the Search Schema in SharePoint Online](https://sympmarc.com/2022/09/26/additional-refinablestring-managed-property-variants-in-the-search-schema-in-sharepoint-online/) - [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
 * [Creating Custom Content Types for Stream in SharePoint](https://sympmarc.com/2022/09/27/creating-custom-content-types-for-stream-in-sharepoint/) - [Marc Anderson](https://twitter.com/sympmarc) (Sympraxis Consulting) | @Sympmarc
-* [Collaborate in Teams meetings with Excel Live - Message Center Show Ep. 255](https://regarding365.com/collaborate-in-teams-meetings-with-excel-live-3d22784ca92b) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Collaborate in Teams meetings with Excel Live - Message Center Show Ep. 255](https://regarding365.com/collaborate-in-teams-meetings-with-excel-live-3d22784ca92b) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [HUGE Changes in the MS-600 Exam August 2022 Update!](https://www.youtube.com/watch?v=lTSpIp0zcQ8) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Episode #224 - Managing Document Set versions history with Microsoft Graph](https://www.youtube.com/watch?v=QEpPHMxzoPM) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -86,4 +86,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

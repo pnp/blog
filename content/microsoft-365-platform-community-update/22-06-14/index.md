@@ -163,7 +163,7 @@ Most of the community driven repositories are in the PnP GitHub organization as 
 
 All SharePoint specific repositories or services supported directly by Microsoft are located in the SharePoint GitHub organization
 
-*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source for new SharePoint dev center documentation exposed from [https://docs.microsoft.com/sharepoint/dev](https://docs.microsoft.com/sharepoint/dev)
+*   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source for new SharePoint dev center documentation exposed from [https://learn.microsoft.com/sharepoint/dev](https://learn.microsoft.com/sharepoint/dev)
 *   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) - Open-source templates used by the [SharePoint Look Book site](https://lookbook.microsoft.com/)
 *   [sp-provisioning-service](https://github.com/SharePoint/sp-provisioning-service) - Source code of the [SharePoint look book site](https://lookbook.microsoft.com/)
 
@@ -278,22 +278,22 @@ The Community Docs model was announced in April 2020 and it's great to see the i
 
 #### New articles
 
-* [Teams Shared Channels for Admins](https://docs.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
+* [Teams Shared Channels for Admins](https://learn.microsoft.com/microsoft-365/community/teams-shared-channel-for-admins) by [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/)
 
 #### Updated articles
 
-* [Content Type Propagation](https://docs.microsoft.com/microsoft-365/community/content-type-propagation) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
-* [Query String URL Tricks for SharePoint and Microsoft 365](https://docs.microsoft.com/microsoft-365/community/query-string-url-tricks-sharepoint-m365) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
-* [Power Automate - Send SharePoint files as attachments](https://docs.microsoft.com/microsoft-365/community/power-automate-send-sharepoint-files-as-attachments) by [blb0004](https://github.com/blb0004/)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Saisang Cai](https://github.com/Saisang)
-* [Accessibility by Design](https://docs.microsoft.com/microsoft-365/community/accessibility-by-design) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Benefits of using PowerShell with SharePoint](https://docs.microsoft.com/microsoft-365/community/benefits-of-using-powershell-with-sharepoint) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-* [Glossary](https://docs.microsoft.com/microsoft-365/community/glossary) by [Rene Modery](https://www.linkedin.com/in/modery/)
-* [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
-* [Elevating People and Communities](https://docs.microsoft.com/microsoft-365/community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [SharePoint Naming Guidelines](https://docs.microsoft.com/microsoft-365/community/sharepoint-naming-guidelines) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
-* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) by [Saisang Cai](https://github.com/Saisang)
+* [Content Type Propagation](https://learn.microsoft.com/microsoft-365/community/content-type-propagation) by [Daisy Feller](https://www.linkedin.com/in/daisy-feller/)
+* [Query String URL Tricks for SharePoint and Microsoft 365](https://learn.microsoft.com/microsoft-365/community/query-string-url-tricks-sharepoint-m365) by [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
+* [Power Automate - Send SharePoint files as attachments](https://learn.microsoft.com/microsoft-365/community/power-automate-send-sharepoint-files-as-attachments) by [blb0004](https://github.com/blb0004/)
+* [Glossary](https://learn.microsoft.com/microsoft-365/community/glossary) by [Saisang Cai](https://github.com/Saisang)
+* [Accessibility by Design](https://learn.microsoft.com/microsoft-365/community/accessibility-by-design) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Benefits of using PowerShell with SharePoint](https://learn.microsoft.com/microsoft-365/community/benefits-of-using-powershell-with-sharepoint) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [Glossary](https://learn.microsoft.com/microsoft-365/community/glossary) by [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+* [Glossary](https://learn.microsoft.com/microsoft-365/community/glossary) by [Rene Modery](https://www.linkedin.com/in/modery/)
+* [Why Microsoft 365 adoption projects fail](https://learn.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail) by [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+* [Elevating People and Communities](https://learn.microsoft.com/microsoft-365/community/microsoft-maturity-model-how-to-people-communities) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [SharePoint Naming Guidelines](https://learn.microsoft.com/microsoft-365/community/sharepoint-naming-guidelines) by [Sid Lama](https://www.linkedin.com/in/sidlama/)
+* [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--governance-and-compliance) by [Saisang Cai](https://github.com/Saisang)
 
 Have ideas for articles or want to contribute yourself? - Get involved! Here are also some additional resources explaining the model in more detail.
 
@@ -329,7 +329,7 @@ These are samples which have been contributed on the community samples since las
 
 *   New sample [bot-microsoft-search-api](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-microsoft-search-api) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German which shows how a bot can retreive different entities such as messages, events, files, and SharePoint list items using Microsoft Graph Search API, and display the resutls in adaptive cards with paging capability.
 
-If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
+If you are interested on Microsoft Teams samples, we have just released also new [Microsoft Teams sample gallery](https://pnp.github.io/teams-dev-samples/). Contributions to [Microsoft Teams samples](https://github.com/pnp/teams-dev-samples) is also more than welcome. This gallery already surfaces all Microsoft samples, [Microsoft Teams app templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates) and community samples.
 
 ### Power Platform samples
 
@@ -404,7 +404,7 @@ See more from the [guidance documentation](https://pnp.github.io/sharing-is-cari
 *   **PnP Provisioning Engine and PnP CSOM Core** - PnP provisioning engine is part of the PnP CSOM extension. They encapsulate complex business driven operations behind easily usable API surface, which extends out-of-the-box CSOM NuGet packages. See [changelog](https://github.com/pnp/PnP-Sites-Core/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP PowerShell** - PnP PowerShell cmdlets are open-source complement for the SharePoint Online cmdlets. There are more than 300 different cmdlets to use and you can use them to manage tenant settings or to manipulate actual SharePoint sites. See [changelog](https://github.com/pnp/PnP-PowerShell/blob/master/CHANGELOG.md) for the latest updates.
 *   **PnP Modern Search solution** - The PnP 'Modern Search' solution is a set of SharePoint Online modern Web Parts allowing SharePoint super users, webmasters and developers to create highly flexible and personalized search based experiences in minutes. See more details on the different supported capabilities from [https://aka.ms/pnp-search](https://microsoft-search.github.io/pnp-modern-search/).
-*   **Modernization tooling** - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+*   **Modernization tooling** - All tools and guidance on helping you to transform you SharePoint to modern experiences from [https://aka.ms/sppnp-modernize](https://learn.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 *   **SharePoint Starter Kit v2** - Building modern experiences with Microsoft Teams flavors for SharePoint Online and SharePoint 2019 - reference solution in [GitHub](https://github.com/pnp/sp-starter-kit).
 *   **List formatting definitions** - Community contributed samples around the column and view formatting in [GitHub](https://github.com/pnp/List-Formatting).
 *   **Site Designs and Site Scripts** - Community contributed samples around \* SharePoint Site Designs and Site Scripts in [GitHub](https://github.com/pnp/sp-dev-site-scripts).
@@ -413,10 +413,10 @@ See more from the [guidance documentation](https://pnp.github.io/sharing-is-cari
 
 ### ✍ Documentation updates
 
-*   Microsoft Teams platform documentation - [Microsoft Docs](https://docs.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
-*   SharePoint Developer documentation - [Microsoft Docs](https://docs.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
-*   Microsoft Graph documentation - [Microsoft Docs](https://docs.microsoft.com/graph/) | [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
-*   Office add-in documentation - [Microsoft Docs](https://docs.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
+*   Microsoft Teams platform documentation - [Microsoft Docs](https://learn.microsoft.com/microsoftteams/platform/) | [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
+*   SharePoint Developer documentation - [Microsoft Docs](https://learn.microsoft.com/sharepoint/dev/) | [GitHub](https://github.com/SharePoint/sp-dev-docs)
+*   Microsoft Graph documentation - [Microsoft Docs](https://learn.microsoft.com/graph/) | [GitHub](https://learn.microsoft.com/graph/overview)
+*   Office add-in documentation - [Microsoft Docs](https://learn.microsoft.com/office/dev/add-ins/) | [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ## Microsoft 365 Developer and Microsoft 365 Community YouTube video channels
 

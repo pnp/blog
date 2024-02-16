@@ -39,7 +39,7 @@ Registration** (applicationid, secret) with suitable set of API
 permissions. After that it was all about figuring out the Graph API call
 & JSON to set the Automatic Reply / Out of Office. [Read the
 documentation (& about permissions) from Docs
-here](https://docs.microsoft.com/graph/api/user-update-mailboxsettings?view=graph-rest-1.0&tabs=http&WT.mc_id=M365-MVP-5003326).
+here](https://learn.microsoft.com/graph/api/user-update-mailboxsettings?view=graph-rest-1.0&tabs=http&WT.mc_id=M365-MVP-5003326).
 
 Next I built a **Azure Logic Apps** that uses **HTTP Request
 trigger** (get) to retrieve user email and number of away days in
@@ -61,7 +61,7 @@ The Graph API call URL and example JSON I used to test this are:
 
 ```json
 https://graph.microsoft.com/v1.0/users/useremail/mailboxsettings
- 
+
 {
     "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Me/mailboxSettings",
      "automaticRepliesSetting": {
@@ -91,7 +91,7 @@ Username and Days in this Proof of Concept to parameters.
 ![image-40](images/image-40.png)
 For how to create and set up Azure API Management you can [find
 information in this
-URL](https://docs.microsoft.com/azure/api-management/?WT.mc_id=M365-MVP-5003326).
+URL](https://learn.microsoft.com/azure/api-management/?WT.mc_id=M365-MVP-5003326).
 It is good to keep in mind that Azure API Management has a cost involved
 -- it is not a free one. I created the one with Developer (No SLA) tier
 to keep costs lower. And it still estimated to be over 40€ per month.

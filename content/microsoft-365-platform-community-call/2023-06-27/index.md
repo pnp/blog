@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 27th of June, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 27th of June, 2023"
 summary: "Three demos: Microsoft Teams App Camp New Adventure!, Introduction to new Microsoft Graph Toolkit Search Components, and Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx + 8 new articles."
 date: 2023-06-27T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,14 +16,14 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and three demos.
 
 ### Latest updates
 
 * Announcements
     * This call is now on summer break. The next Microsoft 365 & Power Platform call will be on 22nd of August.
 * News
-    * Article - [Announcing Microsoft Graph CLI SDK v1.0.0-preview release candidate](https://d.docs.live.net/5b5d8cf27005bdc4/Desktop/o%09https:/devblogs.microsoft.com/microsoft365dev/announcing-microsoft-graph-cli-sdk-v1-0-0-preview-release-candidate/)
+    * Article - Announcing Microsoft Graph CLI SDK v1.0.0-preview release candidate
     * Article - [Breaking change: Enum property addition to teamworkdevices in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/breaking-change-enum-property-addition-to-teamworkdevices-in-microsoft-graph/)
     * Article - [Announcing public preview of Bot Framework powered Viva Connections extensibility](https://devblogs.microsoft.com/microsoft365dev/announcing-public-preview-of-bot-framework-powered-viva-connections-extensibility/)
     * Article - [Introducing profanity filtering control and customization for captions in Microsoft Teams meetings](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-profanity-filtering-control-and-customization-for/ba-p/3856784)
@@ -38,7 +38,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introduction to new Microsoft Graph Toolkit Search Components** – MGT v3.0 launched today - June27. A completely new capability delivered (in preview) is Search, specifically Search Box and Search Results components. Easily add search to a page with two tags, find files anywhere in Microsoft 365 environment. See the much more interesting, customizable search options in hero app that ships with MGT. Rich set of customization options, but also quite capable out of the box.
 * **Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx** – the 3rd installment on this end-to-end retail solution scenario you can build in Microsoft 365. In this demo, the focus is on the back-end .NET API relied upon by both the Teams personal app and a Viva Connections card. See in call in Postman and code in SPFx app for how to consume the API in a secure way by providing a token – easily configured.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube MX8OVvsAK0s >}}
 
@@ -46,7 +46,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/MX8OVvsAK0s?t=0) – Intro
 
-[09:01](https://youtu.be/MX8OVvsAK0s?t=541) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[09:01](https://youtu.be/MX8OVvsAK0s?t=541) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [10:29](https://youtu.be/MX8OVvsAK0s?t=629) – Together mode picture
 
@@ -69,8 +69,8 @@ Thank you for joining the call today. See you next time on August 22nd.
 ## Activities & Actions
 
 * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-    * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-    * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+    * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+    * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
 * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * Request a Demo spot on the call \| <https://aka.ms/community/request/demo>
@@ -92,7 +92,7 @@ Thank you for joining the call today. See you next time on August 22nd.
     * Repo – [App Camp](https://github.com/microsoft/app-camp)
 * **Introduction to new Microsoft Graph Toolkit Search Components**
     * Article - [Microsoft Graph Toolkit v3.0 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-toolkit-v3-0-is-now-generally-available/)
-    * Tool - [Microsoft Graph Toolkit Playground – v3](https://mgt.dev/next/v3/?path=/story/overview--page)
+    * Tool - [Microsoft Graph Toolkit Playground – v3](https://mgt.dev/?path=/docs/overview--docs)
     * Toolkit - aka.ms/mgt/ (click the Latest button under Releases in Right sidebar).
     * Demo (June 20) - [Introduction to Microsoft Graph Toolkit v3](https://youtu.be/LlFWaLTQ_II?t=690) – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
 * **Securely consuming Azure Functions from Microsoft 365 solutions powered by SPFx**
@@ -118,7 +118,7 @@ Thank you for joining the call today. See you next time on August 22nd.
 
 ## Recurrent call invites
 
-* Microsoft 365 platform call \| *weekly* - Tuesday, 8:00 am PT – <https://aka.ms/m365-dev-call> **Note:** This call will resume on August 22nd.  
+* Microsoft 365 platform call \| *weekly* - Tuesday, 8:00 am PT – <https://aka.ms/m365-dev-call> **Note:** This call will resume on August 22nd.
 * Microsoft 365 & Power Platform Dev call \| *bi-weekly* - Thursday, 7:00 am PT - <https://aka.ms/m365-dev-sig>
 * Viva Connections & SharePoint Framework call \| *bi-weekly* - Thursday, 7:00 am PT - <https://aka.ms/spdev-spfx-call>
 * Office add-in call \| *monthly* - 2nd Wednesday, 8:00 am PT - <https://aka.ms/officeaddinscall>

@@ -83,7 +83,7 @@ Make a note of this value somewhere.
 
 ### Patch a user with the new property
 
-Now we can use a PATCH to https://graph.microsoft.com/v1.0/users/{userId}
+Now we can use a PATCH to `https://graph.microsoft.com/v1.0/users/{userId}`
 
 with a body
 
@@ -103,7 +103,7 @@ Now that we created the extension and know how to patch and get data, we can bui
 
 ### GET request
 
-You can follow steps [create the custom connector](https://m365princess.com/microsoft-graph-people-picker-power-apps#create-the-custom-connector), but instead of adding a **GetPeople** action, add a **GetUsers** action:
+You can follow steps [create the custom connector](https://www.m365princess.com/blogs/microsoft-graph-people-picker-power-apps/#create-the-custom-connector), but instead of adding a **GetPeople** action, add a **GetUsers** action:
 
 1. Select **Definition**
 2. Select **New action**
@@ -159,7 +159,7 @@ We can then set the **Text** of a text label to
 
 ## Back to my app idea...
 
-Following [my idea to re-create Microsoft Graph toolkit components as Power Apps canvas components](https://m365princess.com/microsoft-graph-people-picker-power-apps) I did a more inclusive person card component - with pronouns.
+Following [my idea to re-create Microsoft Graph toolkit components as Power Apps canvas components](https://www.m365princess.com/blogs/microsoft-graph-people-picker-power-apps) I did a more inclusive person card component - with pronouns.
 
 ![submit new pronouns](images/pronouns.gif)
 

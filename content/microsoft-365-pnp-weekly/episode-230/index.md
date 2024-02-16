@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Federico Porceddu](https://www.linkedin.com/in/federicoporceddu/) Microsoft 365 MVP and Solution Architect at Avanade in Italy.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) are joined by [Federico Porceddu](https://www.linkedin.com/in/federicoporceddu/) Microsoft 365 MVP and Solution Architect at Avanade in Italy.
 
 
 ## In this episode
@@ -55,7 +55,7 @@ This session was recorded on Monday 11th of December. Session was published on T
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-ppi93-15210b1 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -66,7 +66,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Staged rollout management for Graph connectors is generally available](https://techcommunity.microsoft.com/t5/microsoft-search-blog/staged-rollout-management-for-graph-connectors-is-generally/ba-p/3998367) - [Mahesh Singhania](https://www.linkedin.com/in/maheshsinghania/) (Microsoft)
 * [Build your next application on Dataverse – now with hyperscale support for any enterprise data](https://devblogs.microsoft.com/powerplatform/build-your-next-application-on-dataverse-now-with-hyperscale-support-for-any-enterprise-data/) - [Srikumar Nair](https://www.linkedin.com/in/srikumarknair/)
 * [Power Platform CLI – Simplifying authentication profiles](https://devblogs.microsoft.com/powerplatform/power-platform-cli-simplifying-authentication-profiles/) - [Marcel Ferreira](https://www.linkedin.com/in/marcelbf/) (Microsoft)
-* [Announcing the Livestream Series – Let’s Learn Power: A Real-life AI + Power Platform Use Case](https://devblogs.microsoft.com/powerplatform/announcing-the-lets-learn-power-a-real-life-ai-power-platform-use-case-livestream/) - [Gomolemo Mohapi](https://www.linkedin.com/in/gomomohapi/) (Microsoft)
+* [Announcing the Livestream Series – Let’s Learn Power: A Real-life AI + Power Platform Use Case](https://twitter.com/EverythingMS/status/1733769543544455428) - [Gomolemo Mohapi](https://www.linkedin.com/in/gomomohapi/) (Microsoft)
 * [Building new apps and tables with Maker Copilot is now available worldwide](https://powerapps.microsoft.com/en-us/blog/build-apps-through-conversation-copilot-capability-now-available-worldwide/) - [Frank Lan](https://www.linkedin.com/in/frankwlan/) (Microsoft)
 * [Accelerate developer productivity with Microsoft Power Platform](https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/) - [Scott Durow](https://www.linkedin.com/in/scottdurow/) (Microsoft)
 
@@ -90,7 +90,7 @@ As we recorded the previous and this episode close by, we wanted to focus on com
 
 ## Samples
 
-Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples). 
+Check out all cool samples from community and from Microsoft. You can access all of them from the Unified Microsoft 365 & Power Platform sample gallery at [https://aka.ms/community/samples](https://aka.ms/community/samples).
 
 ## Upcoming events
 
@@ -117,4 +117,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

@@ -42,7 +42,7 @@ initiative](https://aka.ms/m365pnp) from July 2021:
     [OneDrive](https://github.com/onedrive),
     [Microsoft-Search](https://github.com/microsoft-search),
     [OfficeDev](https://github.com/officedev) and [SharePoint GitHub
-    organization](http://github.com/sharepoint) repositories - 65,581
+    organization](https://github.com/sharepoint) repositories - 65,581
 -   [Microsoft 365 Community (PnP) YouTube
     channel](https://aka.ms/sppnp-videos) had 101,455 views with 6,631
     hours of watch time and 24,292 subscribers
@@ -459,7 +459,7 @@ Microsoft are located in the SharePoint GitHub organization\
 
 -   [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - Source
     for new SharePoint dev center documentation exposed from
-    [http://docs.microsoft.com/sharepoint/dev](http://docs.microsoft.com/sharepoint/dev/)
+    [https://learn.microsoft.com/sharepoint/dev](https://learn.microsoft.com/sharepoint/dev/)
 -   [sp-dev-provisioning-templates](https://github.com/SharePoint/sp-dev-provisioning-templates) -
     Open-source templates used by the [SharePoint Look Book
     site](https://lookbook.microsoft.com/)
@@ -503,7 +503,7 @@ contributed samples and solutions, including samples, core component(s)
 and solutions, like [SharePoint Starter
 Kit](https://github.com/SharePoint/sp-starter-kit), [yo
 teams](https://aka.ms/yoteams) or [PnP
-PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
+PowerShell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 All Microsoft released SDKs and tools are supported based on the
 specific tool policies.
 
@@ -831,7 +831,7 @@ Contributions to [Microsoft Teams
 samples](https://github.com/pnp/teams-dev-samples) is also more than
 welcome. This gallery already surfaces all Microsoft samples, [Microsoft
 Teams app
-templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates)
+templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates)
 and community samples.
 
 
@@ -1018,16 +1018,16 @@ the related documentation sets and repositories as listed below:
 
 
 -   Microsoft Teams platform documentation - [Microsoft
-    Docs](https://docs.microsoft.com/microsoftteams/platform/) |
+    Docs](https://learn.microsoft.com/microsoftteams/platform/) |
     [GitHub](https://github.com/MicrosoftDocs/msteams-docs)
 -   SharePoint Developer documentation - [Microsoft
-    Docs](https://docs.microsoft.com/sharepoint/dev/) |
+    Docs](https://learn.microsoft.com/sharepoint/dev/) |
     [GitHub](https://github.com/SharePoint/sp-dev-docs)
 -   Microsoft Graph documentation - [Microsoft
-    Docs](https://docs.microsoft.com/graph) |
-    [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs)
+    Docs](https://learn.microsoft.com/graph) |
+    [GitHub](https://learn.microsoft.com/graph/overview)
 -   Office add-in documentation - [Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/) |
+    Docs](https://learn.microsoft.com/office/dev/add-ins/) |
     [GitHub](https://github.com/OfficeDev/office-js-docs-pr)
 
 ### :eyes: Microsoft 365 Developer and Microsoft 365 Community YouTube video channels

@@ -33,7 +33,7 @@ and 2 of a 3-part series of articles called: "[Build quality Microsoft
 Teams apps with these best practices](https://aka.ms/m365dev/blog)."
   Get the Microsoft Teams Toolkit (Controls) -- "[Designing your
 Microsoft Teams
-app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
+app](https://learn.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)"
 with layout guidance and reusable assets.  The host of this call was
 Vesa Juvonen (Microsoft) | @vesajuvonen.  Q&A takes place in chat
 throughout the call.
@@ -155,16 +155,16 @@ slides.
     Composer](https://github.com/Microsoft/BotFramework-Composer/) 
 
 -   Documentation - [Bot Framework Composer
-    documentation](https://docs.microsoft.com/composer/) 
+    documentation](https://learn.microsoft.com/composer/) 
 
 -   Documentation - [Azure Bot Service
-    documentation](https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0) 
+    documentation](https://learn.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0) 
 
 -   Samples - [Samples by JavaScript
     Framework](https://pnp.github.io/sp-dev-fx-webparts/) 
 
 -   [Microsoft Teams platform
-    documentation](https://docs.microsoft.com/microsoftteams/platform)
+    documentation](https://learn.microsoft.com/microsoftteams/platform)
 
 -   Blog - [Build quality Microsoft Teams apps with these best
     practices: Part
@@ -179,13 +179,13 @@ slides.
     3](https://developer.microsoft.com/microsoft-365/blogs/build-quality-microsoft-teams-apps-with-these-best-practices-part-3/)
 
 -   Documentation - [Designing your Microsoft Teams
-    app](https://docs.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)
+    app](https://learn.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-overview)
 
 -   Documentation - [Building Microsoft Teams Tabs using SharePoint
-    Framework](https://docs.microsoft.com/sharepoint/dev/spfx/integrate-with-teams-introduction) 
+    Framework](https://learn.microsoft.com/sharepoint/dev/spfx/integrate-with-teams-introduction) 
 
 -   Documentation - [Build a Me-experience in Microsoft
-    Teams](https://docs.microsoft.com/sharepoint/dev/spfx/build-for-teams-me-experience) 
+    Teams](https://learn.microsoft.com/sharepoint/dev/spfx/build-for-teams-me-experience) 
 
 -   [Microsoft 365 PnP Community
     hub](https://techcommunity.microsoft.com/t5/microsoft-365-pnp/ct-p/Microsoft365PnP) |
@@ -207,11 +207,11 @@ slides.
 ## General resources
 
 -   Microsoft Learn - [Microsoft Teams development Learning
-    Paths](https://docs.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
+    Paths](https://learn.microsoft.com/learn/browse/?products=office-teams&resource_type=learning%20path&roles=developer&expanded=office&wt.mc_id=devcomteams_learningpaths_webpage_mw)
 -   [Microsoft Teams Toolkit for Visual Studio
     Code](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Microsoft Teams app
-    templates](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
+    templates](https://learn.microsoft.com/microsoftteams/platform/samples/app-templates?wt.mc_id=devcomteams_viewapptemplates_webpage_mw)
 -   [Yo Teams video training package](https://aka.ms/yoteams-training)
 -   [Microsoft 365 Developer videos](https://aka.ms/m365devyoutube) |
     aka.ms/m365devyoutube

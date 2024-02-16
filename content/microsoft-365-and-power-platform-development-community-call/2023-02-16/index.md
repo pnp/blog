@@ -47,9 +47,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Good Flow story? Tell us. [FlowOfTheWeek](https://aka.ms/FlowOfTheWeekForm) – aka.ms/FlowOfTheWeekForm
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New – PnP PowerShell – [Bulk import data from multiple files to multiple lists](https://pnp.github.io/script-samples/spo-bulk-import-data/README.html?tabs=pnpps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * New – PnP PowerShell – [Pinpoint the items/docs that hasn’t been indexed yet after an update](https://pnp.github.io/script-samples/spo-get-items-not-indexed-since-last-update/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
-    * New – General PowerShell – [Bulk Email Send from CSV using Microsoft Graph API](https://pnp.github.io/script-samples/graph-send-email-from-csv-onbehalf-of-user/README.html?tabs=graphps) - [Siddharth Vaghasia](http://twitter.com/siddh_me) \| @siddh_me
+    * New – PnP PowerShell – [Bulk import data from multiple files to multiple lists](https://pnp.github.io/script-samples/spo-bulk-import-data/README.html?tabs=pnpps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New – PnP PowerShell – [Pinpoint the items/docs that hasn’t been indexed yet after an update](https://pnp.github.io/script-samples/spo-get-items-not-indexed-since-last-update/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – General PowerShell – [Bulk Email Send from CSV using Microsoft Graph API](https://pnp.github.io/script-samples/graph-send-email-from-csv-onbehalf-of-user/README.html?tabs=graphps) - [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/) – Featured Teams App Samples with Full Tutorials
     * [Tab Office Offer Creation](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-teams-sample-tab-office-offer-creation/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0
@@ -69,31 +69,31 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Building Microsoft Teams tabs with Adaptive Cards** – and using Microsoft Search API to search resources. Build tabs using ready-made UI building blocks for native UI on Desktop/Web/Mobile. Use Bot for back-end and Adaptive Cards for front-end. Reviews prerequisites like bot development/registration and SSO configuration if login is required. Also covers technology limitations. Step through configurations for app manifest, SSO, App Registration, task modules, use of adaptive card Designer, and more. [aka.ms/Feb16-Demo1](https://aka.ms/Feb16-Demo1)
 * **Creating an Internal CV (Curriculum Vitae) with List Formatting** – using Microsoft Lists to track info about people and their work history. Change your thinking from a standard card to a single large CV card footprint using JSON view formatting. Microsoft Lists card elements: In place field editing, expandable editing boxes, custom hovercards and clickable attachments (automation using Power Automate). Field editing box embedded in a card thanks to inlineEditField JSON property. [aka.ms/Feb16-Demo2](https://aka.ms/Feb16-Demo2)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 6qtx04uZsgs >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/6qtx04uZsgs?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/6qtx04uZsgs?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[06:18](https://youtu.be/6qtx04uZsgs?t=378) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[06:18](https://youtu.be/6qtx04uZsgs?t=378) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[08:30](https://youtu.be/6qtx04uZsgs?t=510) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+[08:30](https://youtu.be/6qtx04uZsgs?t=510) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
 
-[10:40](https://youtu.be/6qtx04uZsgs?t=640) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+[10:40](https://youtu.be/6qtx04uZsgs?t=640) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 
 [12:04](https://youtu.be/6qtx04uZsgs?t=724) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[13:36](https://youtu.be/6qtx04uZsgs?t=816) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[13:36](https://youtu.be/6qtx04uZsgs?t=816) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [14:04](https://youtu.be/6qtx04uZsgs?t=844) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[15:53](https://youtu.be/6qtx04uZsgs?t=953) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[15:53](https://youtu.be/6qtx04uZsgs?t=953) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [17:49](https://youtu.be/6qtx04uZsgs?t=1069) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
-[19:02](https://youtu.be/6qtx04uZsgs?t=1142) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[19:02](https://youtu.be/6qtx04uZsgs?t=1142) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [20:10](https://youtu.be/6qtx04uZsgs?t=1210) – Together mode picture
 
@@ -131,7 +131,7 @@ A virtually packed virtual auditorium! Thank you everybody once again for joinin
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free developer tenant
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -154,7 +154,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.11.0 GA|
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.8.0 GA|
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA|v2.x is available in nightly builds !!!
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview

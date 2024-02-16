@@ -21,11 +21,11 @@ in model-driven apps with Power BI (preview, and December Developer
 Tools Refresh) **--** [Charles Sterling](https://twitter.com/chass)
 (Microsoft).  Latest PnP Power Apps Samples -- [April
 Dunnam](https://twitter.com/aprildunnam) (Microsoft). This call was
-hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz). 
+hosted by [Todd Baginski](https://twitter.com/toddbaginski) (Canviz).
 
 The
 call was recorded on December 15, 2021.  Questions were addressed in
-chat throughout the call. 
+chat throughout the call.
 
 Thank for attending the call or viewing it on
 demand. 
@@ -98,7 +98,7 @@ demand. 
 -   D1:  Repo - [gamepad](https://github.com/johnnliu/gamepad) 
 
 -   D1:  Documentation - [Power Apps component framework
-    overview](https://docs.microsoft.com/powerapps/developer/component-framework/overview)
+    overview](https://learn.microsoft.com/powerapps/developer/component-framework/overview)
     (PCF Component) 
 
 -   D1:  Website -- [Gamepad Tester](https://gamepad-tester.com/) 
@@ -107,7 +107,7 @@ demand. 
     Studio](https://powerapps.microsoft.com/blog/experimental-co-authoring-for-power-apps-studio/)
 
 -   D2:  Documentation - [Co-authoring in canvas apps
-    (experimental)](https://docs.microsoft.com/powerapps/maker/canvas-apps/git-version-control)
+    (experimental)](https://learn.microsoft.com/powerapps/maker/canvas-apps/git-version-control)
 
 ## Learn more
 

@@ -38,10 +38,10 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * New PowerShell – [Export SharePoint Term Store terms to CSV](https://pnp.github.io/script-samples/spo-export-termstore-terms-to-csv/README.html?tabs=pnpps) - [Ramin Ahmadi](https://twitter.com/raminahmadi1986) \| @raminahmadi1986
     * New CLI – [List external users across all sites and in what site groups](https://pnp.github.io/script-samples/spo-list-site-externalusers-in-groups/README.html?tabs=cli-m365-ps) - [Martin Lingstuyl](https://github.com/martinlingstuyl)
     * Updated CLI – [List all external users in all site collections](https://pnp.github.io/script-samples/spo-list-site-externalusers/README.html?tabs=cli-m365-ps) - [Martin Lingstuyl](https://github.com/martinlingstuyl)
-    * Updated Power App PowerShell – [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated Power App PowerShell – [Copy Planner plan](https://pnp.github.io/script-samples/planner-copy-planner-plan/README.html?tabs=cli-m365-ps) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://adoption.microsoft.com/sample-solution-gallery/?sortby=creationDateTime-true&keyword=&product=Teams&action=ajax_plugin_call_sample_solution_gallery)
-    * New sample - [Tab Meeting StageView Vote Movie Fluid - Microsoft Teams App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie-fluid) and article [Use FluidFramework in a Microsoft Teams app](https://mmsharepoint.wordpress.com) - [Markus Moeller](http://twitter.com/Moeller2_0) \| @Moeller2_0
+    * New sample - [Tab Meeting StageView Vote Movie Fluid - Microsoft Teams App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-stageview-vote-movie-fluid) and article [Use FluidFramework in a Microsoft Teams app](https://mmsharepoint.wordpress.com) - [Markus Moeller](https://twitter.com/Moeller2_0) \| @Moeller2_0
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
     * Updated - [Accessibility color checker](https://github.com/LuiseFreese/powerapps-samples/tree/main/samples/accessibility-color-contrast-checker) - [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
     * New - Keyword Tagger - [Matt Schuessler](https://twitter.com/MattSchues) \| @MattSchues
@@ -53,7 +53,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Building a conversational tab in a Microsoft Teams app that captures external event conversations** – in a Microsoft Teams channel tab, create a conversation about an external event like an incident ticket including conversation’s context. Implementation - get Service URL from bot install activity, create a conversation using a Bot ConnectorClient, send conversationId to tab to be used in conversational tabs, and open conversation in Tab side panel. CodeTour walk through of presenter’s proof-of-concept sample.
 * **Use folders to create a dynamic list filter and Power Automate to populate folders and create pages** - receive e-mail, add details to list, display item details in manually formatted page. Automate this process with a flow that creates a folder for each new list item and moves the list item into the folder using the Power Automate template - When a new item is added in SharePoint, complete a custom action. Presenter configures flow that includes updating list with page URL and metadata.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -61,12 +61,12 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Paolo Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:28](https://youtu.be/k2yKGOCj4Ck?t=328)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:31](https://youtu.be/k2yKGOCj4Ck?t=391)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [7:07](https://youtu.be/k2yKGOCj4Ck?t=427)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [8:41](https://youtu.be/k2yKGOCj4Ck?t=521)
+* PnP .NET library updates - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:28](https://youtu.be/k2yKGOCj4Ck?t=328)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:31](https://youtu.be/k2yKGOCj4Ck?t=391)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [7:07](https://youtu.be/k2yKGOCj4Ck?t=427)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [8:41](https://youtu.be/k2yKGOCj4Ck?t=521)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [9:23](https://youtu.be/k2yKGOCj4Ck?t=563)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:35](https://youtu.be/k2yKGOCj4Ck?t=635)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [10:35](https://youtu.be/k2yKGOCj4Ck?t=635)
 * Demo - Document automation using Microsoft SharePoint Syntex Content Assembly – Ankit Rastogi (Microsoft) – [12:14](https://youtu.be/k2yKGOCj4Ck?t=734)
 * Demo - Building a conversational tab in a Microsoft Teams app that captures external event conversations - [Eoin O'Brien](https://www.linkedin.com/in/obrieneoin/) (Microsoft) – [20:53](https://youtu.be/k2yKGOCj4Ck?t=1253)
 * Demo - Use folders to create a dynamic list filter and Power Automate to populate folders and create pages - [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [34:18](https://youtu.be/k2yKGOCj4Ck?t=2058)
@@ -88,7 +88,7 @@ call.
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -96,11 +96,11 @@ call.
     * Article – [Automate creation of new documents with SharePoint Syntex Content Assembly](https://www.sharepointnutsandbolts.com/2022/05/Syntex-Content-Assembly.html)
 * **Building a conversational tab in a Microsoft Teams app that captures external event conversations**
     * Sample - [Proactive Tab Conversations](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-tab-conversations/csharp)
-    * Documentation - [Create conversational tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/conversational-tabs)
-    * Documentation - [Messages in bot conversations](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/conversations/conversation-messages)
-    * Documentation - [ConversationsExtensions.CreateConversationAsync Method](https://docs.microsoft.com/dotnet/api/microsoft.bot.connector.conversationsextensions.createconversationasync)
+    * Documentation - [Create conversational tabs](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/conversational-tabs)
+    * Documentation - [Messages in bot conversations](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/conversation-messages)
+    * Documentation - [ConversationsExtensions.CreateConversationAsync Method](https://learn.microsoft.com/dotnet/api/microsoft.bot.connector.conversationsextensions.createconversationasync)
 * **Use folders to create a dynamic list filter and Power Automate to populate folders and create pages**
-* Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
+* Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) \| [aka.ms/spdev-column-formatting](https://aka.ms/spdev-column-formatting)
 * Icons - [Flicon.io](https://flicon.io/)
 * Repo - [Community-tooling](https://github.com/pnp/community-tooling)
 * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
@@ -116,7 +116,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

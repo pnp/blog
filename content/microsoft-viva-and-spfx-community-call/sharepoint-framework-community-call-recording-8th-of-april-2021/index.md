@@ -213,7 +213,7 @@ slides.
     Solutions](https://blog.aterentiev.com/support-microsoft-teams-themes-in) 
 
 -   Documentation - [Create apps for Teams
-    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
+    meetings](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings)
 
 -   Repo - [React Image
     Editor](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-image-editor) 
@@ -225,7 +225,7 @@ slides.
 
 -   Documentation - [Embedding modern SharePoint pages in Microsoft
     Teams as personal apps
-    (preview)](https://docs.microsoft.com/sharepoint/dev/features/embed-pages-to-teams) 
+    (preview)](https://learn.microsoft.com/sharepoint/dev/features/embed-pages-to-teams) 
 
 -   PnP Weekly -- Episode 121 with guest Senior Program Manager from
     Microsoft Graph team [Nik
@@ -265,7 +265,7 @@ slides.
     Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6
     videos)
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 -   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 -   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -295,7 +295,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 
@@ -344,4 +344,3 @@ calls are used for the following objectives.
     discussion!
 
 *"Sharing is caring"*
-

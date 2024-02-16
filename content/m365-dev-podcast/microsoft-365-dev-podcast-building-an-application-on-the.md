@@ -26,7 +26,7 @@ Listen to the show here: 
     Marketplace](https://marketplace.visualstudio.com/publishers/eliostruyf)
 -   [Elio's blog](https://www.eliostruyf.com/)
 
-## Microsoft News 
+## Microsoft News
 
 -   [Build apps for Microsoft Teams with
     .NET](https://devblogs.microsoft.com/visualstudio/build-apps-for-microsoft-teams-with-net/)
@@ -37,10 +37,10 @@ Listen to the show here: 
     Certification by passing these security
     cont\...](https://developer.microsoft.com/graph/blogs/raise-the-bar-for-your-app-security-get-microsoft-365-certification-by-passing-these-security-controls/)
 
-## Community Links 
+## Community Links
 
 -   [Output connection strings and keys from Azure Bicep
-    (@johnny_reilly)](https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep/?utm_source=pocket_mylist)
+    (@johnny_reilly)](https://johnnyreilly.com/output-connection-strings-and-keys-from-azure-bicep)
 -   [Updated script to re-index user profiles for
     search](https://www.techmikael.com/2021/06/updated-script-to-re-index-user.html?utm_source=pocket_mylist)
 -   [StreamDeck series on Paul's

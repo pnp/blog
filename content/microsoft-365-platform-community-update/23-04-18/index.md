@@ -22,7 +22,7 @@ type: regular
 draft: false
 ---
 
-Microsoft 365 & Power Platform Community March 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community March 2023 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.
 
 Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the Microsoft 365 and Power Platform community. Time sequence for this summary is also longer than one month, but we will be aligning on the monthly updates again from this post forward.
 
@@ -33,7 +33,7 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 
 * Microsoft 365 & Power Platform Community - [https://aka.ms/community/home](https://aka.ms/community/home) - One location for all the resources and news around Microsoft 365 & Power Platform
 * Microsoft 365 & Power Platform samples - [https://aka.ms/community/samples](https://aka.ms/community/samples)
-* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](http://aka.ms/community/blog)
+* Microsoft 365 & Power Platform blog - [https://aka.ms/community/blog](https://aka.ms/community/blog)
 * Microsoft 365 & Power Platform Channel on YouTube - [https://aka.ms/community/videos](https://aka.ms/community/videos)
 
 Microsoft 365 Developer assets:
@@ -85,7 +85,7 @@ All of the cool samples for Microsoft 365 and Power Platform are listed in the u
 
 Here’s the list of active contributors (in alphabetical order) since last release details in GitHub repositories or community channels. Community is really about building tooling and knowledge together with the community for the community, so your contributions are highly valued across the Microsoft 365 & Power Platform customers, partners and obviously also at Microsoft.
 
-Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know. 
+Thank you for your assistance and contributions on behalf of the community. You are truly making a difference! If we missed someone, please let us know.
 
 {{< notice note>}}
 In this blog post we callout contributors in the Microsoft 365 & Power Platform community areas in the open-source projects, samples, videos, community calls etc. There are also countless fo awesome community members who are sharing their knowledge on daily basis in their own channels, which is a great option to contribute for others. Thank you all for that. Sharing is caring!
@@ -210,7 +210,7 @@ In this blog post we callout contributors in the Microsoft 365 & Power Platform 
 
 ### Companies
 
-Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. 
+Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications.
 
 > If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
@@ -268,7 +268,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
 * [David de Matheu](https://twitter.com/ddematheu) (Microsoft) | @ddematheu
-* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [DC Padur](https://twitter.com/dcpadur) (Microsoft) | @cdpadur
 * [Dewain Robinson](https://twitter.com/dewain76) (Microsoft) | @dewain76
@@ -279,7 +279,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Gary Pretty](https://twitter.com/GaryPretty) (Microsoft)
 * [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
 * Gino Buzzelli (Microsoft)
-* Gloria Sánchez (Microsoft) 
+* Gloria Sánchez (Microsoft)
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 * [Jason Johnston](https://twitter.com/JasonJohMSFT) (Microsoft) | @JasonJohMSFT
 * [Jens Haile](https://twitter.com/hailender) (Microsoft) | @hailender

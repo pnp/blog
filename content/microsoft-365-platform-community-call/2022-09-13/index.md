@@ -31,10 +31,10 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * Article – [Most used SharePoint Framework solutions from the Store - August 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-august/ba-p/3619482) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * Microsoft Teams Platform Updates
     * Sample – graph-meeting-notification - [This is a sample demonstrates use of online meeting subscription including resource data](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/graph-meeting-notification/csharp)
-    * Documentation - [subscription resource type](https://docs.microsoft.com/graph/api/resources/subscription?view=graph-rest-1.0)
+    * Documentation - [subscription resource type](https://learn.microsoft.com/graph/api/resources/subscription?view=graph-rest-1.0)
     * Sample – [meetings-audio-state](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/meetings-audio-state/nodejs)
-    * Documentation - [Meeting apps API references](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet)
-    * Latest – [What’s new for developers in Microsoft Teams](https://docs.microsoft.com/microsoftteams/platform/whats-new)
+    * Documentation - [Meeting apps API references](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/api-references?tabs=dotnet)
+    * Latest – [What’s new for developers in Microsoft Teams](https://learn.microsoft.com/microsoftteams/platform/whats-new)
 * Microsoft 365 PnP Weekly – Episode 178 (September 12th) with UK-based [Paul Hunt](https://twitter.com/cimares), Microsoft MVP \| @cimares\| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-178/) \| [podcast](https://www.podbean.com/media/share/pb-h8ads-12c134e)
 
 
@@ -79,7 +79,7 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Microsoft Graph Postman - Scripts and advanced functionality**
-    * Documentation - [Use Postman with the Microsoft Graph API](https://docs.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
+    * Documentation - [Use Postman with the Microsoft Graph API](https://learn.microsoft.com/graph/use-postman) \| aka.ms/graph/postman
     * Previous sessions
         * June 28 - Demo - [Taking advantage of the Microsoft Graph Postman collections](https://youtu.be/DlGcsPu9XfA) - [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) \| @Rabeb_Othmani
         * June 14 - Demo - [Introduction to Microsoft Graph Postman collection](https://youtu.be/y9FsUBzCRF8?t=2232) - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert

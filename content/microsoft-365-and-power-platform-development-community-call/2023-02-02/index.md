@@ -34,13 +34,13 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Good Flow story? Tell us. [FlowOfTheWeek](https://aka.ms/FlowOfTheWeekForm) – aka.ms/FlowOfTheWeekForm
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New – PnP PowerShell – [Get and compare documents hash from different tenants](https://pnp.github.io/script-samples/spo-compare-files/README.html?tabs=pnpps) - [Valeras Narbutas](http://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
-    * New – PnP PowerShell – [How to ensure that the Role/Title in each People web part is updated](https://pnp.github.io/script-samples/spo-update-people-web-part/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New – PnP PowerShell – [Get and compare documents hash from different tenants](https://pnp.github.io/script-samples/spo-compare-files/README.html?tabs=pnpps) - [Valeras Narbutas](https://twitter.com/ValerasNarbutas) (Macaw) \| @ValerasNarbutas
+    * New – PnP PowerShell – [How to ensure that the Role/Title in each People web part is updated](https://pnp.github.io/script-samples/spo-update-people-web-part/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New – PnP PowerShell – [Grant permissions for a given Azure Active Directory application registration](https://pnp.github.io/script-samples/spo-grant-app-site-permission/README.html?tabs=pnpps) - [Michał Romiszewski](https://twitter.com/romiszewski) \| @romiszewski
     * New – PnP PowerShell – [Export of Stream (Classic) Web Parts and pages that use them](https://pnp.github.io/script-samples/spo-export-stream-classic-webparts/README.html?tabs=pnpps) - [Tetsuya Kawahara](https://twitter.com/techan_k) \| @techan_k
-    * Updated – PnP PowerShell – [Creates and apply site designs](https://pnp.github.io/script-samples/spo-add-sitedesign-permissions/README.html?tabs=pnpps) – [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
-    * Updated – CLI for Microsoft 365 – [Retrieve Message Centre Announcements and post to MS Teams Channel](https://pnp.github.io/script-samples/spo-get-message-centre-announcements-and-post-to-teams-channel/README.html?tabs=pnpps) - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
-    * Updated – CLI for Microsoft 365 – [Report of where a Term is used](https://pnp.github.io/script-samples/ReportTermUse/README.html?tabs=pnpps) - [Adam Wójcik](http://twitter.com/Adam25858782) \| @Adam25858782
+    * Updated – PnP PowerShell – [Creates and apply site designs](https://pnp.github.io/script-samples/spo-add-sitedesign-permissions/README.html?tabs=pnpps) – [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * Updated – CLI for Microsoft 365 – [Retrieve Message Centre Announcements and post to MS Teams Channel](https://pnp.github.io/script-samples/spo-get-message-centre-announcements-and-post-to-teams-channel/README.html?tabs=pnpps) - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
+    * Updated – CLI for Microsoft 365 – [Report of where a Term is used](https://pnp.github.io/script-samples/ReportTermUse/README.html?tabs=pnpps) - [Adam Wójcik](https://twitter.com/Adam25858782) \| @Adam25858782
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/) – Featured Teams App Samples with Full Tutorials
     * [Teams DALL·E 2 Messaging Extension](https://github.com/pnp/teams-dev-samples/tree/main/samples/msgext-dalle) - [Lee Ford](https://twitter.com/lee_ford) \| (@lee_ford
@@ -59,31 +59,31 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Turn that ‘Power Apps’ app into a Mobile app!** – the “Wrap” feature in Power Apps enables you to package your canvas apps as custom-branded Android and iOS apps for native distribution to mobile users. Leverage Azure AD, Visual Studio App Center, Power Platform solutions. Install Wrap, create App Center container for mobile app, use PowerShell for registration, create. Step through the build process executed in the Apple Developer portal. Helpful tips throughout presentation. Conversation – aka.ms/Feb2-Demo1
 * **List Formatting Magic – Query string options and look up field handling** – three tips/tricks for today. Adding a lookup in your list to bring in items located in another list. Format multiple items in single list field using forEach to render each item on a new line within the current field – looks like a table. Make a % field look prettier leveraging the Number Battery sample. Appending SharePoint query strings to page/list URLs to remove navigation. Conversation – aka.ms/Feb2-Demo2
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube 65j1g851gKE >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/65j1g851gKE?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/65j1g851gKE?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[05:27](https://youtu.be/65j1g851gKE?t=327) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
+[05:27](https://youtu.be/65j1g851gKE?t=327) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
 
-[07:04](https://youtu.be/65j1g851gKE?t=424)<https://youtu.be/Qiw1jrys_lw?t=557> – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+[07:04](https://youtu.be/65j1g851gKE?t=424)<https://youtu.be/Qiw1jrys_lw?t=557> – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
 
-[08:55](https://youtu.be/65j1g851gKE?t=535) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+[08:55](https://youtu.be/65j1g851gKE?t=535) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 
 [09:44](https://youtu.be/65j1g851gKE?t=584) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[11:34](https://youtu.be/65j1g851gKE?t=694) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII & [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
+[11:34](https://youtu.be/65j1g851gKE?t=694) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII & [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
 
 [12:38](https://youtu.be/65j1g851gKE?t=758) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[14:41](https://youtu.be/65j1g851gKE?t=881) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[14:41](https://youtu.be/65j1g851gKE?t=881) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [16:51](https://youtu.be/65j1g851gKE?t=1011) – Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German
 
-[17:59](https://youtu.be/65j1g851gKE?t=1079) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+[17:59](https://youtu.be/65j1g851gKE?t=1079) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 
 [19:00](https://youtu.be/65j1g851gKE?t=1140) – Together mode picture
 
@@ -121,7 +121,7 @@ Thank you everybody once again for joining on the call. Please, please, please k
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -143,7 +143,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.11.0 GA|
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.8.0 GA|
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA|v2.x is available in nightly builds !!!
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview

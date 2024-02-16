@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=fMnzVDOINEU
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Portugal-based Developer, Microsoft 365 Architect, and Microsoft MVP - [Rodrigo Pinto](https://twitter.com/ScoutmanPt) (Storm Technology Ltd) \| @ScoutmanPt
 
 ## Topics discussed in this session
 
@@ -26,7 +26,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Impressions on ECS.
 * Living “Sharing is Caring.”
 * Tips on how to get involved in the community.
- 
+
 ## Referenced during conversation
 
 * ECS – European Collaboration Summit 2023 – <https://www.collabsummit.eu/>
@@ -58,10 +58,10 @@ This session was recorded on Monday 5th of June 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube fMnzVDOINEU >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-ptcmt-1428749 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 ## Microsoft articles
 
@@ -92,7 +92,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Weekly Update 5 May 2023 – Viva Connections in AppSource, Teams AI Library, Graph Dev Proxy v0.8, ACS Windows SDK](https://blog.thoughtstuff.co.uk/2023/06/weekly-update-5-may-2023-viva-connections-in-appsource-teams-ai-library-graph-dev-proxy-v0-8-acs-windows-sdk/) - [Tom Morgan](https://twitter.com/tomorgan) (CloudInteract) | @tomorgan
 * [Custom Result Types in Microsoft Search](https://searchexplained.com/custom-result-types-in-microsoft-search/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
 * [OneDrive simplified sharing, Connections news notifications, Teams work hours and location - #287](https://www.messagecentershow.com/e/onedrive-simplified-sharing-287/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-* [Microsoft 365 Developer News from Microsoft Build 2023](https://www.andrewconnell.com/blog/microsoft-365-developer-news-from-build-2023/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Microsoft 365 Developer News from Microsoft Build 2023](https://www.voitanos.io/blog/microsoft-365-developer-news-from-build-2023/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 
 ## Upcoming events
 
@@ -102,7 +102,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
 * [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
 * [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
-* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
+* Iowa Code Camp 2023 - June 17-18, 2023 - Iowa, USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 * [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom
@@ -125,4 +125,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

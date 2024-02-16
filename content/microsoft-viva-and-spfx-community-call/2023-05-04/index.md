@@ -72,7 +72,7 @@ The host of this call is [Garry Trinder](https://twitter.com/garrytrinder) (Micr
 
 ![together-230504.png](images/together-230504.png)
 
-Great as always to see many of you on the call today.  Thank you for joining call and for being part of your vibrant community.    
+Great as always to see many of you on the call today.  Thank you for joining call and for being part of your vibrant community.
 
 ## Actions
 
@@ -104,10 +104,10 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 **PnP Project**|**Current version**|**Release/Status**
 ---|---|---
-[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17.1 (GA)  
-[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.14 (GA)|v3.15 to release on May 12  
+[SharePoint Framework (SPFx)](https://aka.ms/spfx)|v1.17.1 (GA)
+[PnPjs Client-Side Libraries](https://pnp.github.io/pnpjs/)|v3.14 (GA)|v3.15 to release on May 12
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)|v6.7 (GA)
-[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.7 (Preview)|v0.8 to be released May 31 
+[Microsoft Graph Developer Proxy](https://aka.ms/graph/proxy/download)|v0.7 (Preview)|v0.8 to be released May 31
 [Reusable SPFx React Controls](https://github.com/pnp/sp-dev-fx-controls-react)|v3.14.0 (GA), v2.9.0|
 [Reusable SPFx React Property Controls](https://github.com/pnp/sp-dev-fx-property-controls)|v3.13.0 (GA), v2.7.0|
 [Viva Connections Toolkit for VS Code](https://github.com/pnp/vscode-viva) | v0.4.4 (GA)|
@@ -190,7 +190,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -209,7 +209,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

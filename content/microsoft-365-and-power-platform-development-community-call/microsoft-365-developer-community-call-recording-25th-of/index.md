@@ -241,7 +241,7 @@ slides.
     Lists](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/create-an-event-page-with-sharepoint-sharepoint-spaces-and/ba-p/2994438) 
 
 -   D3: Documentation -- [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting) 
 
 -   D3:  Samples -- [List formatting
     samples](https://github.com/pnp/List-Formatting/tree/master/view-samples)
@@ -318,7 +318,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

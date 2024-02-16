@@ -57,21 +57,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **How to create or migrate SharePoint pages with Microsoft Graph API and Power Automate** – new beta capabilities in Graph API targeting SharePoint pages include List, Create, Get, Update, Delete, Publish, Horizontal section, Vertical section, Web part. The new capabilities allow users to migrate the full canvas of SharePoint pages across sites and tenants. Step through a Flow action to GET an existing page and another action to POST a new page in existing site. Page content is a JSON payload.
 * **List Formatting Magic – inlineEditField and setValue for making list fields editable** – for most unformatted/basic columns you can slap the inlineEditField: @currentField on existing formats to make the column editable (click and change). For formatted columns or columns with multi-value formatting, use setValue with actionInput and displayValue to accomplish inline editing capability. See how Chris draws from samples - 48 Inline Editing samples, found in the PnP Samples repo to accomplish the objective.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube rIVhgzoqBbk >}}
 
 ## Agenda items
 
-* [05:45](https://youtu.be/rIVhgzoqBbk?t=345) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
-* [07:25](https://youtu.be/rIVhgzoqBbk?t=445) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
-* [09:27](https://youtu.be/rIVhgzoqBbk?t=567) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+* [05:45](https://youtu.be/rIVhgzoqBbk?t=345) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
+* [07:25](https://youtu.be/rIVhgzoqBbk?t=445) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+* [09:27](https://youtu.be/rIVhgzoqBbk?t=567) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 * [10:17](https://youtu.be/rIVhgzoqBbk?t=617) – Microsoft Teams Toolkit updates – [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
-* [11:43](https://youtu.be/rIVhgzoqBbk?t=703) – Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
+* [11:43](https://youtu.be/rIVhgzoqBbk?t=703) – Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert
 * [13:25](https://youtu.be/rIVhgzoqBbk?t=805) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
-* [15:28](https://youtu.be/rIVhgzoqBbk?t=928) – Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
-* [16:09](https://youtu.be/rIVhgzoqBbk?t=969) – Microsoft Teams Samples – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
-* [16:42](https://youtu.be/rIVhgzoqBbk?t=1002) – Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [15:28](https://youtu.be/rIVhgzoqBbk?t=928) – Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [16:09](https://youtu.be/rIVhgzoqBbk?t=969) – Microsoft Teams Samples – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [16:42](https://youtu.be/rIVhgzoqBbk?t=1002) – Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [17:04](https://youtu.be/rIVhgzoqBbk?t=1024) – Together mode picture
 * [17:56](https://youtu.be/rIVhgzoqBbk?t=1076) – Demo – How to create or migrate SharePoint pages with Microsoft Graph API and Power Automate – [Giuliano De Luca](https://twitter.com/DeLucaGiulian) \| @DeLucaGiulian
 * [26:32](https://youtu.be/rIVhgzoqBbk?t=1592) – Demo – List Formatting Magic – inlineEditField and setValue for making list fields editable – [Chris Kent](https://twitter.com/thechriskent) (DMI) \| @thechriskent
@@ -104,7 +104,7 @@ The excitement is real. We’ve maxed the number of attendees in this photo! Awe
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -127,7 +127,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.11.0 GA|
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.8.0 GA|
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA|Prepping v1.12.0 coming soon.  Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA

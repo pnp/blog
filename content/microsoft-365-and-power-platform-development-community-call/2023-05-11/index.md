@@ -35,14 +35,14 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New – PnP PowerShell – [Enable Modern creation forms for Document Sets](https://pnp.github.io/script-samples/spo-document-sets-modern-new-form/README.html?tabs=pnpps) - [Dan Toft](https://twitter.com/tanddant) (Evobis ApS) \| @tanddant
     * New – PnP PowerShell – [Enable and Disable App Bar in SharePoint Online](https://pnp.github.io/script-samples/spo-enable-disable-app-bar/README.html?tabs=pnpps) - [Aman Panjwani](https://www.linkedin.com/in/aman-17-panjwani/)
-    * Updated – CLI for Microsoft 365 – [Open Office documents in the Client](https://pnp.github.io/script-samples/spo-open-doc-in-client/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Disable SharePoint List Commenting at tenant level](https://pnp.github.io/script-samples/spo-disable-list-comments-tenant/README.html?tabs=spoms-ps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Associate Multiple Site Collections to Hub Site](https://pnp.github.io/script-samples/spo-associate-multiple-sites-to-hub/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Activate a site feature in SharePoint online](https://pnp.github.io/script-samples/spo-activate-site-feature/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Remove Title Area from SharePoint Page](https://pnp.github.io/script-samples/spo-remove-page-title-area/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Update SharePoint Page Banner Image](https://pnp.github.io/script-samples/spo-update-page-banner-image/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – CLI for Microsoft 365 – [Add Page template to Site](https://pnp.github.io/script-samples/spo-add-page-template/README.html?tabs=pnpps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
-    * Updated – SPO Management Shell – [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html?tabs=spoms-ps) - [Ganesh Sanap](http://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Open Office documents in the Client](https://pnp.github.io/script-samples/spo-open-doc-in-client/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Disable SharePoint List Commenting at tenant level](https://pnp.github.io/script-samples/spo-disable-list-comments-tenant/README.html?tabs=spoms-ps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Associate Multiple Site Collections to Hub Site](https://pnp.github.io/script-samples/spo-associate-multiple-sites-to-hub/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Activate a site feature in SharePoint online](https://pnp.github.io/script-samples/spo-activate-site-feature/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Remove Title Area from SharePoint Page](https://pnp.github.io/script-samples/spo-remove-page-title-area/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Update SharePoint Page Banner Image](https://pnp.github.io/script-samples/spo-update-page-banner-image/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – CLI for Microsoft 365 – [Add Page template to Site](https://pnp.github.io/script-samples/spo-add-page-template/README.html?tabs=pnpps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
+    * Updated – SPO Management Shell – [Set Home site for SharePoint online tenant](https://pnp.github.io/script-samples/spo-set-home-site/README.html?tabs=spoms-ps) - [Ganesh Sanap](https://twitter.com/GaneshSanap20) \| @GaneshSanap20
     * Updated – PnP PowerShell – [SharePoint Modern Page URL Report](https://pnp.github.io/script-samples/spo-modern-page-url-report/README.html?tabs=pnpps) - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock with thanks for feedback from David Nelson
     * [Good first issue asks](https://github.com/pnp/script-samples)
     * Power Platform Integrations / Connectors LABs Participant Calls. [Complete this form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0BHMrjhL0hDmckROosW6AFUOUVHNTlRRlAxQUI5S0hJNFdIWkZBRzlaTy4u)
@@ -62,27 +62,27 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **How to automate the process to convert the rows of excel sheets into the rows of Dataverse** – using Power Platform. See demo of final solution and understand prerequisite tools/access requirements, then step through uploading an xls to OneDrive and the importation of data into a Power Apps table and subsequent movement into Dataverse. Uses Import document and 2 supporting Power Automate flows. See the expressions used in Power Automate along with possible errors (learning opportunities) and explanations. Discussion at [aka.ms/May11-Demo2](https://aka.ms/May11-Demo1)
 * **Validating PowerShell parameters with SharePoint Information** – create your own PowerShell cmdlet that allows you to pull and tab through information from a site, list, text file, Azure, Graph, etc. within PowerShell environment. Learn by working through a scenario how ValidateSet and ValidateScript attributes and [ArgumentCompleter] help you deliver a better user experience, reduce bad data and make you a better coder! Bonus insight on working with chatGPT to deliver concise code. Discussion at [aka.ms/May11-Demo3](https://aka.ms/May11-Demo1)
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube N1t8EWstUcI >}}
 
 ## Agenda items
 
-[00:00](https://youtu.be/N1t8EWstUcI?t=0) – Intro - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[00:00](https://youtu.be/N1t8EWstUcI?t=0) – Intro - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[05:30](https://youtu.be/N1t8EWstUcI?t=330) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) \| @O365bert
+[05:30](https://youtu.be/N1t8EWstUcI?t=330) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) \| @O365bert
 
-[06:13](https://youtu.be/N1t8EWstUcI?t=373) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
+[06:13](https://youtu.be/N1t8EWstUcI?t=373) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
 
-[07:41](https://youtu.be/N1t8EWstUcI?t=461) – yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[07:41](https://youtu.be/N1t8EWstUcI?t=461) – yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [08:23](https://youtu.be/N1t8EWstUcI?t=503) – Microsoft Teams Toolkit updates - [John Miller](https://twitter.com/jmillerdev) (Microsoft) \| @jmillerdev
 
-[09:56](https://youtu.be/N1t8EWstUcI?t=596) – Microsoft Graph Toolkit updates – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[09:56](https://youtu.be/N1t8EWstUcI?t=596) – Microsoft Graph Toolkit updates – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[10:50](https://youtu.be/N1t8EWstUcI?t=650) – Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[10:50](https://youtu.be/N1t8EWstUcI?t=650) – Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[11:27](https://youtu.be/N1t8EWstUcI?t=687) – Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[11:27](https://youtu.be/N1t8EWstUcI?t=687) – Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [12:27](https://youtu.be/N1t8EWstUcI?t=747) – Microsoft Power Platform Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh
 
@@ -100,7 +100,7 @@ The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (M
 
 ![together-230511.png](images/together-230511.png)
 
-Thank you everyone for joining the call today. Awesome to see you here.  Great demos today.      
+Thank you everyone for joining the call today. Awesome to see you here.  Great demos today.
 
 ## Actions
 
@@ -121,7 +121,7 @@ Thank you everyone for joining the call today. Awesome to see you here.  Great d
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -141,9 +141,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/powershell)|v1.12.0 GA, v2.1.1 GA|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.1-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

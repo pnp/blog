@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=qhidaxkwW1Y
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Velencia, Spain based SharePoint and Cloud Solution Architect and Microsoft MVP [Luis Máñez](https://twitter.com/luismanez) (ClearPeople) \| @luismanez.
 
 ## Topics discussed in this session
 
@@ -46,10 +46,10 @@ This session was recorded on Monday, November 14, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube qhidaxkwW1Y >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-zufjw-1314b06 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-zufjw-1314b06 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -66,7 +66,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Generate Word Document Template Using Power Automate](https://powerusers.microsoft.com/t5/Power-Apps-Community-Blog/Generate-Word-Document-Template-Using-Power-Automate/ba-p/1874987) - [Ramprakash Duraisamy](https://twitter.com/rampprakashd) (Bosch) | @rampprakashd
 * [PnPjs 3.9.0 release](https://twitter.com/m365pnpjs/status/1591117187753775104) - [Microsoft 365 PnPjs](https://twitter.com/m365pnpjs) | @m365pnpjs
 * [How to copy views in SharePoint](https://www.blimped.nl/how-to-copy-views-in-sharepoint/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl
-* [Microsoft Teams Paging on Video Gallery - Message Center Show Ep. 261](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Microsoft Teams Paging on Video Gallery - Message Center Show Ep. 261](https://regarding365.com/microsoft-teams-paging-on-video-gallery-8c5ba1a85bc9) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [CLI for Microsoft 365 extension](https://marketplace.visualstudio.com/items?itemName=adamwojcikit.cli-for-microsoft-365-extension) - [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam25858782
 * [Library Components with Service Locator pattern in Viva Connections Adaptive Card extension - Part 2](https://www.youtube.com/watch?v=6bOu7xBjJ7c) - [Akshay Koul](https://twitter.com/TechAkki) | @TechAkki
 * [Episode 230 - Choosing the right extensibility model for Azure AD](https://www.youtube.com/watch?v=17d0Y44ebMs) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
@@ -76,9 +76,9 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and mroe.
 
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/about-bechtle/events/amsgermany) - November 11-15, Aachen, Germany
+* aMS Germany Microsoft Community Event 2022 - November 11-15, Aachen, Germany
 * [Global AI Developer Days - Toronto](https://globalai.community/) - November 16-17, Toronto, Canada
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
+* M365 Saturday Coimbatore 2022 - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 
@@ -94,4 +94,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

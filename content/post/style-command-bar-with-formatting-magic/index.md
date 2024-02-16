@@ -5,7 +5,7 @@ author: "Jasey Waegebaert"
 githubname: jwaegebaert
 categories: ["Community post"]
 images:
-- images/preview.png 
+- images/preview.png
 tags: ["SharePoint", "List formatting"]
 type: "regular"
 ---
@@ -16,11 +16,11 @@ A little background story about this article. For a customer, I was working on a
 
 ### Using CSS
 
-The way I usually apply this is to implement some CSS logic. Here you can already start applying a lot of logic within the command bar but you also run into a whole bunch of limitations. Within SPFx, I personally use Sass. This makes it a bit easier to write CSS but that aside. 
+The way I usually apply this is to implement some CSS logic. Here you can already start applying a lot of logic within the command bar but you also run into a whole bunch of limitations. Within SPFx, I personally use Sass. This makes it a bit easier to write CSS but that aside.
 
-```css 
+```css
 :global {
-  button[name='Upload'], 
+  button[name='Upload'],
   button[name='Share'] {
     display: none;
   }
@@ -39,20 +39,20 @@ These are a few scenarios where things can go wrong but in summary, CSS is easy 
 
 ### Using JavaScript or jQuery
 
-This will give you more ability to start editing your DOM. With this, you will be able to apply more elaborate scenarios such as moving a button or making adjustments to the parent of the button. But this runs into the same problem as the CSS approach. Take a look at the code below. 
+This will give you more ability to start editing your DOM. With this, you will be able to apply more elaborate scenarios such as moving a button or making adjustments to the parent of the button. But this runs into the same problem as the CSS approach. Take a look at the code below.
 
-``` javascript 
-let uploadbutton = document.getElementsByName("Upload")[0] || document.documentElement;  
+``` javascript
+let uploadbutton = document.getElementsByName("Upload")[0] || document.documentElement;
 
-uploadbutton.style.display = "none";  
+uploadbutton.style.display = "none";
 ```
 
-As you'll see in this snippet, we're using the name attribute again. This, in turn, causes us to modify elements that are not anticipated to be modified. 
+As you'll see in this snippet, we're using the name attribute again. This, in turn, causes us to modify elements that are not anticipated to be modified.
 
 ## View formatting magic
 
-Now we get to the juicy content. `View formatting` magic. Through view formatting, we have recently been given the ability to start adjusting a whole bunch of variables in the command bar. I discovered this myself when I went to check out some of [Chris Kent's](https://github.com/thechriskent) new list formatting samples. Here he had created a sample in which the Automate button was removed when a list item was selected. 
- 
+Now we get to the juicy content. `View formatting` magic. Through view formatting, we have recently been given the ability to start adjusting a whole bunch of variables in the command bar. I discovered this myself when I went to check out some of [Chris Kent's](https://github.com/thechriskent) new list formatting samples. Here he had created a sample in which the Automate button was removed when a list item was selected.
+
 With this new knowledge, I started testing the possibilities and a lot of new use cases became possible. For example, take a look at the following JSON.
 
 ``` json
@@ -81,7 +81,7 @@ With this new knowledge, I started testing the possibilities and a lot of new us
 }
 ```
 
-Here you will notice a lot of new information but it's pretty straightforward. Within view formatting, we have now been given the ability to start customizing the `commandBarProps`. Here you start by selecting a key. This then refers to one of the action buttons you want to change the properties of. 
+Here you will notice a lot of new information but it's pretty straightforward. Within view formatting, we have now been given the ability to start customizing the `commandBarProps`. Here you start by selecting a key. This then refers to one of the action buttons you want to change the properties of.
 
 > To make a quick comparison with the other approaches we discussed. If your site suddenly changes to another language, this key will still relate to the correct button.
 
@@ -109,7 +109,7 @@ Now if we apply this in practice we get the following.
 
 ``` json
 {
-  "commandBarProps": {    
+  "commandBarProps": {
     "commands": [
       {
         "key": "share",
@@ -152,5 +152,5 @@ For myself, this opens a lot of new doors with possibilities towards the formatt
 
 Some useful additional resources:
 
-- [Use view formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
-- [Command bar customization syntax reference](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
+- [Use view formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
+- [Command bar customization syntax reference](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)

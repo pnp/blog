@@ -42,7 +42,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Nikolay Belykh](https://github.com/nbelyh) | nbelyh - Building SPFx Visio file presenter for Teams and SharePoint
 * [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2\_0- Extend the PnP React SPFx ListView control with a contextual menu
@@ -70,8 +70,8 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 * [Power Platform Connectors Certification Process](https://www.youtube.com/watch?v=6rY-qWx_esI) by [Amjed Ayoub](https://linkedin.com/in/amjed-ayoub/) (Microsoft) | amjed-ayoub
 * [Custom Connector as Code Using Power Platform CLI](https://www.youtube.com/watch?v=4cKUiI48Xe0) by [Kartik Kanakasabesan](https://twitter.com/kkanakas) (Microsoft) | @kkanakas
 * [Deep linking a Power App to replicate InfoPath](https://www.youtube.com/watch?v=9_67VwIZnJk) by Christian McIntosh (Arkansas Electric)
-* [Building an ACE for showing real time trade prices of stocks](https://www.youtube.com/watch?v=Hwhx7wDkKjM) by [Kunj Sangani](https://twitter.com/sanganikunj) (Cognizant) | @sanganikunj 
-* [Marketplace leads for Office plugins are now becoming available in the Referrals Workspace](https://www.youtube.com/watch?v=As9GHLm5Xqc) by Sudha Padmanabhan (Microsoft) 
+* [Building an ACE for showing real time trade prices of stocks](https://www.youtube.com/watch?v=Hwhx7wDkKjM) by [Kunj Sangani](https://twitter.com/sanganikunj) (Cognizant) | @sanganikunj
+* [Marketplace leads for Office plugins are now becoming available in the Referrals Workspace](https://www.youtube.com/watch?v=As9GHLm5Xqc) by Sudha Padmanabhan (Microsoft)
 
 ---
 
@@ -108,7 +108,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -122,8 +122,8 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 ReVival](https://www.communitydays.org/event/2023-02-16/m365-revival-2023) - February 16, 2023 - Oslo, Norway
 * [Workplacedudes Summit](https://www.communitydays.org/event/2023-02-24/workplacedudes-summit) - February 24, 2023 - Nieuwkoop, Netherlands
 * [Global Power Platform Bootcamp 2023](https://www.communitydays.org/event/2023-02-24/global-power-platform-bootcamp-2023-new-york) - February 24-25, 2023 - New York, USA
-* [ Global AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-03/global-ai-bootcamp-2023) - March 3-4, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Global AI Bootcamp 2023 - March 3-4, 2023 - Virtual
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, 2023 - Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Latinamerican Modern Workplace Conference](https://www.communitydays.org/event/2023-04-27/get-cslatam-conference-2023) - April 27-29, 2023 - Mexico City, Mexico

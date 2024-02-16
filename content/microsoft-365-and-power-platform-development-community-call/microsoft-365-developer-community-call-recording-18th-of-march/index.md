@@ -176,7 +176,7 @@ slides.
     SharePoint](https://aka.ms/spdocs-column-formatting) 
 
 -   Samples -- [SharePoint List Formatting
-    Samples](http://github.com/pnp/sp-dev-list-formatting) 
+    Samples](https://github.com/pnp/sp-dev-list-formatting) 
 
 -   Repo -- [Comment
     Count](https://github.com/pnp/sp-dev-list-formatting/tree/master/column-samples/comment-count) 
@@ -251,7 +251,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

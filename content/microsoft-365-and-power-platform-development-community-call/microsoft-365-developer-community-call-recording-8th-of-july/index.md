@@ -156,7 +156,7 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   Documentation - [List thumbnails for a
-    DriveItem](https://docs.microsoft.com/graph/api/driveitem-list-thumbnails?view=graph-rest-1.0&tabs=http) 
+    DriveItem](https://learn.microsoft.com/graph/api/driveitem-list-thumbnails?view=graph-rest-1.0&tabs=http) 
 
 -   Sample - [Image
     Lightbox](https://github.com/pnp/List-Formatting/tree/master/column-samples/image-lightbox) 
@@ -169,10 +169,10 @@ slides.
     (nodeJS)](https://mmsharepoint.wordpress.com/2021/05/17/configure-teams-applications-with-azure-app-configuration-nodejs/) 
 
 -   Documentation - [Azure App Configuration
-    documentation](https://docs.microsoft.com/azure/azure-app-configuration/) 
+    documentation](https://learn.microsoft.com/azure/azure-app-configuration/) 
 
 -   Documentation - [Azure Key Vault Developer's
-    Guide](https://docs.microsoft.com/azure/key-vault/general/developers-guide) 
+    Guide](https://learn.microsoft.com/azure/key-vault/general/developers-guide) 
 
 -   Blog post - [Microsoft Teams Tabs SSO and Microsoft Graph - the
     'on-behalf-of' blog
@@ -249,7 +249,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

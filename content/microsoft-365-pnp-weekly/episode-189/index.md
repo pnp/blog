@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=INAsa46plt8
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft 365 Apps & Services MVP [Brett Lonsdale](https://twitter.com/brettlonsdale) (Lightning Tools) \| @brettlonsdale.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Microsoft 365 Apps & Services MVP [Brett Lonsdale](https://twitter.com/brettlonsdale) (Lightning Tools) \| @brettlonsdale.
 
 ## Topics discussed in this session
 
@@ -50,19 +50,19 @@ This session was recorded on Monday, November 25, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube INAsa46plt8 >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-y67zr-1327137 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-y67zr-1327137 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
 ## Microsoft articles
 
 * [Most used SharePoint Framework solutions from the Store - October 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-october/ba-p/3681768) - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
-* [“Add to OneDrive” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/add-to-onedrive-the-intrazone-podcast/ba-p/3680673) -  [Gaia Carini](https://www.linkedin.com/in/gaiacarini/),  [Katy Erlandson](https://www.linkedin.com/in/katy-e-14b41b45/) and [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman 
+* [“Add to OneDrive” 🎙 – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/add-to-onedrive-the-intrazone-podcast/ba-p/3680673) -  [Gaia Carini](https://www.linkedin.com/in/gaiacarini/),  [Katy Erlandson](https://www.linkedin.com/in/katy-e-14b41b45/) and [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Outlook REST API v2.0 & Beta deprecation update](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-beta-deprecation-update/) - Microsoft
-* [Using scripts for Microsoft Bookings calendar and mailbox](https://devblogs.microsoft.com/microsoft365dev/using-scripts-for-microsoft-bookings-calendar-and-mailbox/) - Altamish Ahmad 
+* [Using scripts for Microsoft Bookings calendar and mailbox](https://devblogs.microsoft.com/microsoft365dev/using-scripts-for-microsoft-bookings-calendar-and-mailbox/) - Altamish Ahmad
 (Microsoft)
 * [7 New Verified Connectors and 7 Updates released in October 2022](https://powerautomate.microsoft.com/blog/7-new-verified-connectors-and-7-updates-released-in-october-2022/) - Amjed Ayoub (Microsoft)
 * [Power Platform Developers tool – October update ](https://powerapps.microsoft.com/blog/power-platform-developers-tool-october-update/) - [Kartik Kanakasabesan](https://twitter.com/kkanakas) (Microsoft) | @kkanakas
@@ -101,4 +101,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

@@ -21,7 +21,7 @@ Latest updates and news on Power Platform including community events and trainin
 
 Activities: 5 articles, 3 documents, 3 samples, 3 Power Platform related video conversations delivered.
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on May 17, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on May 17, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -51,9 +51,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
     * [European Collaboration Summit 2023](https://www.collabsummit.eu/) - Düsseldorf, Germany, 24-36 May. Save 15% with “POWERPLATFORMROCKS” voucher
     * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June. EarlyBird ticket.s
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 
 ### Demo summaries
@@ -74,7 +74,7 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [05:26](https://youtu.be/WGXzKFn1zkM?t=326) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[09:27](https://youtu.be/WGXzKFn1zkM?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[09:27](https://youtu.be/WGXzKFn1zkM?t=567) – Power Platform Community Shows & Events - [Daniel Laskewitz](https://twitter.com/laskewitz) (Microsoft) \| @laskewitz & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [11:34](https://youtu.be/WGXzKFn1zkM?t=694) – Together mode picture
 
@@ -177,4 +177,3 @@ Thank you for joining the community call today. I hope you agree the three demos
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/community/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/community/home>
-

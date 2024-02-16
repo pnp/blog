@@ -40,9 +40,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * [Script samples](https://pnp.github.io/script-samples/)
     * New - PnP PowerShell – [Deploy sppkgs and install apps](https://pnp.github.io/script-samples/spo-deploy-sppkgs-and-install-apps/README.html?tabs=pnpps) – [Matteo Serpi](https://github.com/srpmtt)
     * New - PnP PowerShell – [Add demo content from a website such as Wikipedia](https://pnp.github.io/script-samples/spo-add-demo-content-from-site/README.html?tabs=pnpps) – [Kevin McDonnell](https://twitter.com/kevmcdonk) \| @kevmcdonk
-    * New - PnP PowerShell – [Sample showing how to export basic site collection properties to CSV](https://pnp.github.io/script-samples/spo-export-basic-sitecollection-info/README.html?tabs=pnpps) – [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Sample showing how to export basic site collection properties to CSV](https://pnp.github.io/script-samples/spo-export-basic-sitecollection-info/README.html?tabs=pnpps) – [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New - PnP PowerShell – [Associate Form Customizer Extension with List or Libraries Form](https://pnp.github.io/script-samples/spo-add-formextension-to-list/README.html?tabs=pnpps) – [Siddharth Vaghasia](https://twitter.com/siddh_me) \| @siddh_me
-    * New - PnP PowerShell – [Add dummy folders and files](https://pnp.github.io/script-samples/spo-add-dummy-folders-and-files/README.html?tabs=pnpps) – [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+    * New - PnP PowerShell – [Add dummy folders and files](https://pnp.github.io/script-samples/spo-add-dummy-folders-and-files/README.html?tabs=pnpps) – [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * [“Me Experience” tab in SPFx](https://aka.ms/tab-spfx-me-experience) – [Rabia Williams](https://twitter.com/williamsrabia) \| @williamsrabia
@@ -57,21 +57,21 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Introduction to CLI for Microsoft 365 and PnP PowerShell VS Code extensions** – delivering relevant code snippets, documentation, and script samples for commands within the environment you are coding. Simplifying finding scripts is the core driver for these extensions. Bring up commands by typing CLI or PnP (PowerShell) and then select to open script sample gallery or documents suggested related to command. New scripts and documents added to PnP libraries flow right into these extensions.
 * **Using list formatting to improve SharePoint pages library experience for content creators** – find site pages more quickly by using a few atypical and nicely formatted columns for organizing information. Start by creating a new view. Expose the Promoted State, Author Byline, and Banner Image columns. Format columns using formatting samples - person-hover-card, image-lightbox and promoted-state-icons from the PnP List Formatting Repo. As well, use icons, counts, colors, and conditions for more clarity. Rearrange columns in view.
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube dJ0s7FQvk7I >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [5:59](https://youtu.be/dJ0s7FQvk7I?t=359)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:17](https://youtu.be/dJ0s7FQvk7I?t=437)
-* yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt – [9:00](https://youtu.be/dJ0s7FQvk7I?t=540)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [5:59](https://youtu.be/dJ0s7FQvk7I?t=359)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [7:17](https://youtu.be/dJ0s7FQvk7I?t=437)
+* yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt – [9:00](https://youtu.be/dJ0s7FQvk7I?t=540)
 * Microsoft Teams Toolkit updates – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [10:13](https://youtu.be/dJ0s7FQvk7I?t=613)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:25](https://youtu.be/dJ0s7FQvk7I?t=685)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:25](https://youtu.be/dJ0s7FQvk7I?t=685)
 * Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [11:56](https://youtu.be/dJ0s7FQvk7I?t=716)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:56](https://youtu.be/dJ0s7FQvk7I?t=836)
-* Microsoft Teams Samples – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [14:42](https://youtu.be/dJ0s7FQvk7I?t=882)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:34](https://youtu.be/dJ0s7FQvk7I?t=934)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [13:56](https://youtu.be/dJ0s7FQvk7I?t=836)
+* Microsoft Teams Samples – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [14:42](https://youtu.be/dJ0s7FQvk7I?t=882)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [15:34](https://youtu.be/dJ0s7FQvk7I?t=934)
 * Demo – Introduction to CLI for Microsoft 365 and PnP PowerShell VS Code extensions – [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) \| @Adam25858782 – [17:16](https://youtu.be/dJ0s7FQvk7I?t=1036)
 * Using list formatting to improve SharePoint pages library experience for content creators – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [33:03](https://youtu.be/dJ0s7FQvk7I?t=1983)
 
@@ -99,7 +99,7 @@ Thank you for joining this call today with your community mates. Your feedback i
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -122,7 +122,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.11.0 GA|
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.8.0 GA|
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA|Prepping v1.12.0 coming soon.  Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA

@@ -20,35 +20,35 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 ### New this week
 
-* Article – [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) - [Ayça Baş](http://twitter.com/aycabs) (Microsoft) \| @aycabs
+* Article – [Building real-time collaborative apps with Microsoft 365, Azure and Power Platform](https://devblogs.microsoft.com/microsoft365dev/building-real-time-collaborative-apps-with-microsoft-365-azure-and-power-platform/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) \| @aycabs
 * Article - [Join the new Microsoft Viva Community Group on LinkedIn](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/join-the-new-microsoft-viva-community-group-on-linkedin/ba-p/3300541)
 * Sample - Teams platform update – [tab-people-picker](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/tab-people-picker)
-* Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
+* Documentation – Teams Dev Docs - [Common reasons for app validation failure](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/common-reasons-for-app-validation-failure)
 * Microsoft 365 Platform Community (PnP) – May 2022 update. Thank you to active community members and supportive organizations for your contributions. Not on the list? Join us!
-* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](http://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
+* Microsoft 365 PnP Weekly – Episode 165 (May 2nd) Finland-based software architect and Office Developer MVP [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) \| @LauraKokkarinen \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-165/) \| [podcast](https://www.podbean.com/media/share/pb-96zpk-12216e6)
 
 ### Demos
 
 * **Extend your Teams Search Based Message Extension to Outlook** – search messaging extensions are Adaptive Cards (rendered in Teams and now in Outlook) and contain links to external content. See three steps for updating an existing messaging extension – update app manifest (manually or with Teams toolkit), add Outlook channel for bot (in Azure Portal or Bot Framework Portal), and sideload updated app in Teams. Capability in public developer preview. Covered Roadmap, more announcements at Microsoft Build.
 * **Getting started on using Azure Communication Services in your web site** – glimpse the future in this demo showing some of the present capabilities of ACS – the same platform leveraged by Microsoft Teams, can be leveraged by you. Add voice and video calling capabilities to your web apps. Demo shows securely connecting 2 users through the ACS infrastructure and the few lines of code enabling this. ACS is fully managed by Microsoft. Use cases reviewed, sample provided.
 
-The host of this call was [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube qFhzkaY0PSs >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [5:43](https://youtu.be/qFhzkaY0PSs?t=343)
+* Latest updates and news on the Microsoft 365 platform – [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) *\|* @BrianTJackett – [5:43](https://youtu.be/qFhzkaY0PSs?t=343)
 * Monthly contributors on the Microsoft 365 platform community efforts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [8:52](https://youtu.be/qFhzkaY0PSs?t=532)
 * Demo - Extend your Teams Search Based Message Extension to Outlook – [Namrata Khubchandani](https://www.linkedin.com/in/namrata-khubchandani-181943a7/) (Microsoft) – [13:49](https://youtu.be/qFhzkaY0PSs?t=829)
-* Demo - Getting started on using Azure Communication Services in your web site – [David Rousset](http://twitter.com/davrous) (Microsoft) \| @davrous – [26:13](https://youtu.be/qFhzkaY0PSs?t=1573)
+* Demo - Getting started on using Azure Communication Services in your web site – [David Rousset](https://twitter.com/davrous) (Microsoft) \| @davrous – [26:13](https://youtu.be/qFhzkaY0PSs?t=1573)
 
 Thank you for your creativity and work execution. Samples are often showcased in Demos.
 
 
 ## Actions
 
-* Register for [Microsoft Build](http://register.build.microsoft.com) \| May 24-26, 2022
+* Register for [Microsoft Build](https://register.build.microsoft.com) \| May 24-26, 2022
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for [Sharing is Caring](https://pnp.github.io/sharing-is-caring/) events:
     * Community Docs Session \| Tuesday, May 17, 10:00 am PT - [Register](https://forms.microsoft.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUOUdFR0U1STdGS0lXUDA2Sk1YSE1WMEtHSy4u)
@@ -65,14 +65,14 @@ Thank you for your creativity and work execution. Samples are often showcased in
 ## Demo references
 
 * **Extend your Teams Search Based Message Extension to Outlook**
-    * Documentation - [Extend a Teams message extension across Microsoft 365](https://docs.microsoft.com/microsoftteams/platform/m365-apps/extend-m365-teams-message-extension)
+    * Documentation - [Extend a Teams message extension across Microsoft 365](https://learn.microsoft.com/microsoftteams/platform/m365-apps/extend-m365-teams-message-extension)
     * Tool – [Teams Toolkit (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension) \| aka.ms/VSTeamsToolkit
-    * Topic related sessions at Microsoft Build \| May 24-26, 2022 \| [Register now](http://register.build.microsoft.com)
+    * Topic related sessions at Microsoft Build \| May 24-26, 2022 \| [Register now](https://register.build.microsoft.com)
 * **Getting started on using Azure Communication Services in your web site**
-    * Documentation - [What is Azure Communication Services?](https://docs.microsoft.com/azure/communication-services/overview) \| aka.ms/communication-services-overview
+    * Documentation - [What is Azure Communication Services?](https://learn.microsoft.com/azure/communication-services/overview) \| aka.ms/communication-services-overview
     * Sample – [Azure Communication Services Quick Starter](https://github.com/davrous/acsauth)
     * Test Portal - [Azure Communication Services - Quick Test sample](https://david.azureedge.net/acs/samples/testacs.html) \| aka.ms/acsquicktest
-    * Documentation – [Calling SDK overview](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
+    * Documentation – [Calling SDK overview](https://learn.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
 
 ## General resources
 

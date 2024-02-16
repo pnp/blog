@@ -21,7 +21,7 @@ Latest updates and news on Power Platform including community events and trainin
 
 Announcement - Microsoft 365 Copilot will be additionally fueled by Power Platform Connectors
 
-This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 21, 2023. Questions addressed in chat throughout the call.
+This call was hosted by [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII and recorded on June 21, 2023. Questions addressed in chat throughout the call.
 
 ### New this month
 
@@ -39,8 +39,8 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
         * [New Model View in Power BI](https://learn.microsoft.com/shows/the-low-code-revolution/new-model-view-in-power-bi) (April 21)
     * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June.
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 
 ### Demo summaries
@@ -57,9 +57,9 @@ This call was hosted by [David Warner II](http://twitter.com/DavidWarnerII) (Mic
 
 [01:30](https://youtu.be/eLNTHIp-uQQ?t=90) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
 
-[02:56](https://youtu.be/eLNTHIp-uQQ?t=176) – Latest Power Apps Samples – [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[02:56](https://youtu.be/eLNTHIp-uQQ?t=176) – Latest Power Apps Samples – [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
-[04:36](https://youtu.be/eLNTHIp-uQQ?t=276) – Power Platform Community Shows & Events - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+[04:36](https://youtu.be/eLNTHIp-uQQ?t=276) – Power Platform Community Shows & Events - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam & [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 
 [05:48](https://youtu.be/eLNTHIp-uQQ?t=348) – Together mode picture
 
@@ -80,8 +80,8 @@ Thank you for joining us live and remotely today at the European Power Platform 
 ## Actions
 
 * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-    * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-    * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+    * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+    * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
 * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Give us feedback about this call – aka.ms/community/calls/feedback
 * Opt into the [PnP Community Recognition Program](https://aka.ms/m365pnp-recognition) \| [aka.ms/community/recognition](https://aka.ms/m365pnp-recognition)
@@ -101,39 +101,37 @@ Thank you for joining us live and remotely today at the European Power Platform 
 ## Demo references
 
 * **Cracking the Code: Demystifying the Data Outputs in Power Automate**
-    * Documentation - [Defining inputs and outputs](https://learn.microsoft.com/power-automate/guidance/planning/define-input-output) 
+    * Documentation - [Defining inputs and outputs](https://learn.microsoft.com/power-automate/guidance/planning/define-input-output)
 * **Dataverse security tips and tricks**
-    * Documentation - [Microsoft Power Platform security and governance documentation](https://learn.microsoft.com/power-platform/admin/security) 
-    * Documentation - [Configure user security in an environment](https://learn.microsoft.com/power-platform/admin/database-security) 
-    * Documentation - [Associate a business unit with an Azure AD security group](https://learn.microsoft.com/power-platform/admin/wp-security-cds#associate-a-business-unit-with-an-azure-ad-security-group) 
-    * Documentation - [Security in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security) 
-    * Documentation - [Security concepts in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security-cds) 
+    * Documentation - [Microsoft Power Platform security and governance documentation](https://learn.microsoft.com/power-platform/admin/security)
+    * Documentation - [Configure user security in an environment](https://learn.microsoft.com/power-platform/admin/database-security)
+    * Documentation - [Associate a business unit with an Azure AD security group](https://learn.microsoft.com/power-platform/admin/wp-security-cds#associate-a-business-unit-with-an-azure-ad-security-group)
+    * Documentation - [Security in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security)
+    * Documentation - [Security concepts in Microsoft Dataverse](https://learn.microsoft.com/power-platform/admin/wp-security-cds)
 * **How to Prepare for Microsoft Power Platform Certifications**
-    * <https://docs.microsoft.com/learn/certifications/>
+    * <https://learn.microsoft.com/learn/certifications/>
     * <https://aka.ms/community/recognition>
-    * <https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification>
+    * <https://learn.microsoft.com/learn/certifications/browse/?resource_type=certification>
     * <https://aka.ms/TrainCertPoster>
     * <https://aka.ms/TrainingCertDeck>
-    * <https://docs.microsoft.com/learn/certifications/>
-    * <https://docs.microsoft.com/learn/certifications/register-schedule-exam>
+    * <https://learn.microsoft.com/learn/certifications/>
+    * <https://learn.microsoft.com/learn/certifications/register-schedule-exam>
     * <https://learn.microsoft.com/certifications/exam-duration-question-types>
-    * <https://docs.microsoft.com/learn/certifications/exam-scoring-reports>
-    * <https://docs.microsoft.com/learn/certifications/certification-exam-policies>
-    * <https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification>
+    * <https://learn.microsoft.com/learn/certifications/exam-scoring-reports>
+    * <https://learn.microsoft.com/learn/certifications/certification-exam-policies>
+    * <https://learn.microsoft.com/learn/certifications/renew-your-microsoft-certification>
     * <https://learn.microsoft.com/training/>
     * <https://learn.microsoft.com/certifications/exams/pl-900/>
-    * <https://www.microsoft.com/events/training-days/>
     * <https://aka.ms/examdemo>
     * <https://learn.microsoft.com/shows/exam-readiness-zone/>
-    * <https://docs.microsoft.com/certifications/resources/az-900-sample-questions?azure-portal=true>
+    * <https://learn.microsoft.com/certifications/resources/az-900-sample-questions?azure-portal=true>
     * <https://learn.microsoft.com/certifications/practice-assessments-for-microsoft-certifications>
     * <https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ>
     * <https://solutionsreview.com/cloud-platforms/the-top-microsoft-azure-books/>
     * <https://partneruniversity.microsoft.com/>
-    * <https://docs.microsoft.com/learn/certifications/partners>
+    * <https://learn.microsoft.com/learn/certifications/partners>
     * <https://uk.mindhub.com/pl-900-microsoft-power-platform-fundamentals-microsoft-official-practice-test/p/MU-PL-900>
     * <https://developer.microsoft.com/offers/30-days-to-learn-it>
-    * [https://www.microsoft.com/cloudskillschallenge/build/registration/2022](https://www.microsoft.com/cloudskillschallenge/build/registration/2022 )
     * <https://www.studentminds.org.uk/examstress.html>
 
 ## General resources
@@ -164,4 +162,3 @@ Thank you for joining us live and remotely today at the European Power Platform 
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/community/samples>
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/community/home>
-

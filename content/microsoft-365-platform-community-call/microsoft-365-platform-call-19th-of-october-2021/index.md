@@ -179,7 +179,7 @@ slides.
     series](https://techcommunity.microsoft.com/t5/universal-print-blog/universal-print-lunch-amp-learn-series/ba-p/2222831) 
 
 -   **D1:**  Documentation - [Universal Print cloud printing API
-    overview](https://docs.microsoft.com/graph/universal-print-concept-overview?view=graph-rest-beta) 
+    overview](https://learn.microsoft.com/graph/universal-print-concept-overview?view=graph-rest-beta) 
 
 -   **D1:**  Demo - [MS Build SK118 Add cloud-based printing to your
     application with Universal
@@ -268,7 +268,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -307,7 +307,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

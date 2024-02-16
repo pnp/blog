@@ -21,15 +21,15 @@ controls with Joel Rodrigues
 ## Links from the show
 
 -   [Work with Azure Functions
-    Proxies](https://docs.microsoft.com/azure/azure-functions/functions-proxies?WT.mc_id=M365-MVP-4025164)
+    Proxies](https://learn.microsoft.com/azure/azure-functions/functions-proxies?WT.mc_id=M365-MVP-4025164)
 -   [Authentication and authorization in Azure App Service and Azure
-    Functions](https://docs.microsoft.com/azure/app-service/overview-authentication-authorization?WT.mc_id=M365-MVP-4025164)
+    Functions](https://learn.microsoft.com/azure/app-service/overview-authentication-authorization?WT.mc_id=M365-MVP-4025164)
 -   [PnP Reusable
     Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
 -   [Joel on Twitter](https://twitter.com/JoelFMRodrigues)
 -   [Joel's blog](https://www.m365-dev.com/)
 
-## Microsoft News 
+## Microsoft News
 
 -   [Office Add-in Development Community (PnP) -- July 2021
     update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-development-community-pnp-july-2021-update/ba-p/2576650?WT.mc_id=M365-MVP-4025164)
@@ -38,7 +38,7 @@ controls with Joel Rodrigues
 -   [Secure Open API (Swagger) calls with Azure Active
     Directory](https://dev.to/425show/secure-open-api-swagger-calls-with-azure-active-directory-jj7)
 
-## Community Links 
+## Community Links
 
 -   [Using VS Code Teams Toolkit Extension for Teams App
     Development](https://dev.to/azure/using-vs-code-toolkit-for-teams-app-development-2o0g)
@@ -48,4 +48,3 @@ controls with Joel Rodrigues
 -   [Get with the times & ditch TSLint in favor of ESLint in SharePoint
     Framework
     projects](https://www.voitanos.io/blog/spfx-replace-tslint-with-eslint/)
-    

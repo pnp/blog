@@ -19,31 +19,31 @@ In this installment of the weekly discussion revolving around the latest news an
 
 ## Topics discussed in this session
 
-*   Naming background on Stefan’s company - N8D and on Vienna.    
-*   Capabilities of Developer and Designer and the importance for the two to work closely together. 
-*   The separation of HTML and CSS, and the role of design tools like Figma Files, Adobe XD, Fluent and Pen & Paper! 
-*   Purpose, approach and recommendations to building accessible apps/pages. 
+*   Naming background on Stefan’s company - N8D and on Vienna.
+*   Capabilities of Developer and Designer and the importance for the two to work closely together.
+*   The separation of HTML and CSS, and the role of design tools like Figma Files, Adobe XD, Fluent and Pen & Paper!
+*   Purpose, approach and recommendations to building accessible apps/pages.
 *   About hTWOo - target audience, usage, support and evolution.
 *   Comparison of hTWOo and Fluent UI.
 *   hTWOo React – Wrapping HTML and CSS into React Controls - work with Julie Turner.
 
-We also covered 13 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 13 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
-*   **Waldek** – MVP Global Summit 2022 and among other things gathering feedback from MVPs on Microsoft announcements, plus releasing a new version of CLI for Microsoft 365.  
+*   **Waldek** – MVP Global Summit 2022 and among other things gathering feedback from MVPs on Microsoft announcements, plus releasing a new version of CLI for Microsoft 365.
 *   **Vesa** – moderating MVP Summit sessions, formally announcing the release of the Unified Samples Gallery and a new beta version of SPFx v1.15 with List overriding capability.  Working on a new Getting Started Series (5-minute videos).
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, March 28, 2022.   Enjoy the show.  
+This session was recorded on Monday, March 28, 2022.   Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube bTJ9En8YRP8 >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-a7fba-11e4682 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -108,15 +108,15 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 *   Demo - [Introduction to HtwoO React library – Fluent UI experiences
     easily](https://www.youtube.com/watch?v=J7WxE18CMMQ) - [Julie
-    Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
+    Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997
 *   Demo - [Getting started with HTWOO UI – Fluent Design in HTML and
     CSS](https://www.youtube.com/watch?v=_sPE3ARdRFs) - [Stefan
-    Bauer](http://twitter.com/StfBauer) (N8D) \| @StfBauer
+    Bauer](https://twitter.com/StfBauer) (N8D) \| @StfBauer
 *   Organization - [Open UI Platform](https://open-ui.org/)
 *   Documentation [PnPjs v2 - v3 Transition Guide](https://pnp.github.io/pnpjs/transition-guide/)
-*   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+*   Documentation - [Maturity Model for Microsoft 365 -- Introduction](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 *   Microsoft 365 Maturity Model on Twitter @[M365Maturity](https://twitter.com/M365Maturity)
-*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples) 
+*   Microsoft 365 Unified Sample Gallery (preview) - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
 *   [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 *   Want to ask a question or in general engage with the community - Add a note in the Microsoft 365 PnP Community hub at [https://aka.ms/m365pnp/community](https://aka.ms/m365pnp/community)
 *   Check out all the great community calls, SDKs, and tooling for Microsoft 365 from [https://aka.ms/m365pnp](https://aka.ms/m365pnp)
@@ -124,4 +124,4 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
-_"Sharing is caring!"_ 
+_"Sharing is caring!"_

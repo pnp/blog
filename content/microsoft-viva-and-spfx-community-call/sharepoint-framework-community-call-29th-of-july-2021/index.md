@@ -178,7 +178,7 @@ slides.
     control](https://pnp.github.io/sp-dev-fx-property-controls/controls/PropertyFieldCollectionData) 
 
 -   Hugo's Repo - [React Diagram Web
-    Parts](http://github.com/hugoabernier/react-diagram-webparts) 
+    Parts](https://github.com/hugoabernier/react-diagram-webparts) 
 
 -   Gallery - [SharePoint Framework Client-Side Web Part
     Samples](https://aka.ms/spfx-webparts) 
@@ -264,7 +264,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -309,7 +309,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 

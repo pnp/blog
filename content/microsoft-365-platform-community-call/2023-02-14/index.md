@@ -42,7 +42,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Create an Azure Communication Services Resource** – part 2 in series. Create an ACS resource, then select CallComposute template (from ACS UI Library) to Join Existing (Teams) Call. Set up Teams call, paste meeting link into template. In Azure, generate a User Access token and Identity and paste into template. Start call – make camera and sound selections. Try this no code (controls abstract the API surface) solution. Next week – custom React apps.
 * **What's next for the Microsoft Graph Toolkit!** – a show and tell session - what’s new for v3.0? Refreshed components with Fluent UI, multi-account support, generic picker control, disambiguation built-in, support for Graph JS SDK v3.0, support for sovereign clouds, support for node 14-16. Then what? Conversation component in collaboration with the ACS UI Library - scope is 1:1 and 1:m conversations. Finally, MGT v3.1 and beyond – enhanced File List experience and Search Component.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube NC1bGG_gUPE >}}
 
@@ -50,7 +50,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/NC1bGG_gUPE?t=0) – Intro
 
-[09:56](https://youtu.be/NC1bGG_gUPE?t=596) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[09:56](https://youtu.be/NC1bGG_gUPE?t=596) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [11:39](https://youtu.be/NC1bGG_gUPE?t=699) – Together mode picture
 
@@ -70,7 +70,7 @@ Thank you for joining today. Really cool to see your faces and hopefully we will
 
 ## Actions
 
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Help shape the Microsoft Community Advisory Board priorities for the next six months by completing survey - Microsoft Community Insights - January 2023 \| aka.ms/CommunityInsightsJan23
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:
@@ -95,7 +95,7 @@ Thank you for joining today. Really cool to see your faces and hopefully we will
     * Demo \#1 – [Getting Started with Azure Communication Services, Microsoft Graph, and Microsoft Teams](https://youtu.be/xDXS9muZ0DI?t=718) – [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) \| @DanWahlin
 * **What's next for the Microsoft Graph Toolkit!**
     * Tools - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) \| aka.ms/mgt
-    * Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph – next-v3.0](https://mgt.dev/next/v3/?path=/story/overview--page)
+    * Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph – next-v3.0](https://mgt.dev/?path=/docs/overview--docs)
 
 ## General resources
 

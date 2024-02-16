@@ -9,7 +9,7 @@ images:
   - images/21-professional-solutions-package-solution.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -19,8 +19,8 @@ draft: false
 
 -	*How do I change the name of my app in the app store?*
 - *How do I provide an app icon?*
-- *Where do I add screenshots and videos of my apps?* 
-- *How do I control whether my app gets deployed automatically to every site?*  
+- *Where do I add screenshots and videos of my apps?*
+- *How do I control whether my app gets deployed automatically to every site?*
 
 Great questions! You can control how your application appears in the app store by configuring your **package-solution.json**.
 
@@ -61,34 +61,34 @@ Let's agree on the following terms:
 If you decide to test some of the configurations described in this post, you'll need to perform the following steps:
 
 1. From the root of your solution, run the following command:
-   
+
    ```bash
    gulp bundle --ship
    ```
 
    > You only need to run this command once after you change your code. If you're testing **package-solution.json** changes, you can skip this step after the first time.
 1. Run the following command:
-  
+
    ```bash
    gulp package-solution --ship
    ```
 
    > You may object to my using `--ship` for both the `bundle` and `package-solution` commands while testing, but I always want to identify deployment issues as early as possible when I am preparing to deploy to the App Catalog. By using `--ship`, I make sure that I am testing my app in the same conditions that my users will be using it. Feel free to skip `--ship` if you wish.
 1. Find the generated `.sppkg` file with your file explorer (I usually navigate to the **sharepoint/solution** folder within VSCode, select the **.sppkg** and select **Reveal in File Explorer** in the context menu )
-   ![Reveal in File Explorer](images/reveal-in-explorer.png)  
+   ![Reveal in File Explorer](images/reveal-in-explorer.png)
 1. Go to your Tenant's App Catalog
 1. In the **Manage apps** page, drag your **.sppkg** file onto the **Apps for SharePoint** list.
 1. When prompted to **Enable app**, under **App availability**, select **Only enable this app**, followed by **Enable app** at the bottom of the pane.(there will be plenty of time later to automatically enable and deploy to all sites if that's what you wish to do, but please don't do this when you're testing your **package-solution.json** changes)
-![Only enable app](images/only-enable-app.png)  
+![Only enable app](images/only-enable-app.png)
 1. When you see **This app has been enabled**, select **Close** at the bottom of the pane.
-   ![This app has been enabled](images/app-has-been-enabled.png)  
+   ![This app has been enabled](images/app-has-been-enabled.png)
 1. Test as you wish!
 
 ### To deploy your package after the first time
 
 1. In your **package-solution.json**, increment the `version` value. I like to increase by `0.0.0.1` every time I deploy. For example, if `version` is `1.0.0.0`, I'll change it to `1.0.0.1`, `1.0.0.2` the next time, `1.0.0.3` after that, and so on.
 1. Run the following command:
-  
+
    ```bash
    gulp package-solution --ship
    ```
@@ -96,11 +96,11 @@ If you decide to test some of the configurations described in this post, you'll 
 1. Go to your Tenant's App Catalog
 1. In the **Manage apps** page, drag your newly-updated **.sppkg** file onto the **Apps for SharePoint** list.
 1. This time, it should say that your package wasn't uploaded because a file with the same name already exists. Select **Replace**.
-   ![A file already exists](images/already-exists.png)  
+   ![A file already exists](images/already-exists.png)
 1. As before, when prompted to **Enable app**, under **App availability**, select **Only enable this app**, followed by **Enable app** at the bottom of the pane.
 1. When you see **This app has been enabled**, select **Close** at the bottom of the pane.
 1. Make sure that the **App version** column has updated for your app.
-   ![App version shows 1.0.0.2](images/app-version-updated.png)  
+   ![App version shows 1.0.0.2](images/app-version-updated.png)
 1. Test your updated app!
 
 ### Updated your site-deployed app
@@ -110,17 +110,17 @@ If, in the process of testing your app, you deployed the app to a site, you may 
 1. Go to the site where you deployed your app.
 1. From the **Settings gear**, select **Add an app**
 1. On the **My apps** page, find your app under **Added apps** and select it.
-   ![Added apps](images/added-apps.png)  
+   ![Added apps](images/added-apps.png)
 1. From the app details page, select **Upgrade**
-   ![Upgrade app](images/upgrade-app.png)  
+   ![Upgrade app](images/upgrade-app.png)
 
 ## package-solution.json contents
 
-Ok, enough pre-amble! Let's look at the contents of the **package-solution.json** file. 
+Ok, enough pre-amble! Let's look at the contents of the **package-solution.json** file.
 
 Like the **.manifest.json**, the **package-solution.json** adheres to a [JSON schema](https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json) which determines the valid options that you can use. Withing VSCode, you can always Ctrl-Click on the schema URL to view the schema.
 
-![Click on the schema URL within VSCode](images/schema.png)  
+![Click on the schema URL within VSCode](images/schema.png)
 
 Here are some configurations you can find here:
 
@@ -146,7 +146,7 @@ Here are some configurations you can find here:
 
 ### `title`
 
-- If you want to localize how your app will be listed in other language, you  can use a localizable string for the title of the package. 
+- If you want to localize how your app will be listed in other language, you  can use a localizable string for the title of the package.
 - Can either be a non-localized string, or `$Resources:<stringId>;` if localized resources are provided for the package through a **.resx** file
 - If your organization does not need to localize, you can skip this one.
 
@@ -166,7 +166,7 @@ Here are some configurations you can find here:
 
 - Helps SharePoint make sure that sites where your app is deployed are notified when you change your app.
 - Recommend that you use one of the following versioning number schemes:
-    - **major**.**minor**.**build**.**revision**, or 
+    - **major**.**minor**.**build**.**revision**, or
     - **major**.**minor**.**maintenance**.**build**.
 - Each build the version number is incremented at the last digit.
 - Updating the major / minor version indicates changes of the functionality contracts:
@@ -197,14 +197,14 @@ Here are some configurations you can find here:
 ```
 
 - Appears in the app details page, under **Details & Support**
-  ![Version display](images/version-display.png)  
+  ![Version display](images/version-display.png)
 
 ### `supportedLocales`
 
-- If you localized your solution (i.e.: you support more than one language), you should list the cultures which this package can be used with. 
+- If you localized your solution (i.e.: you support more than one language), you should list the cultures which this package can be used with.
 - Follows LL-CC for each locale, where:
-    - **LL:** Is the 2-character [language code](https://support.microsoft.com/topic/country-region-and-language-codes-add36afe-804a-44f1-ae68-cfb9c9b72f8b#ID0EDH) (e.g.: `en` for English, `fr` for France)
-    - **CC:** Is the 2-character [region code](https://support.microsoft.com/topic/country-region-and-language-codes-add36afe-804a-44f1-ae68-cfb9c9b72f8b#ID0EDF) (e.g.: `us` for United States, `ca` for Canada)
+    - **LL:** Is the 2-character language code (e.g.: `en` for English, `fr` for France)
+    - **CC:** Is the 2-character region code (e.g.: `us` for United States, `ca` for Canada)
 - For example, if your app is localized for English (US) and French (France), you would use the following `supportedLocales`:
 
    ```json
@@ -224,7 +224,7 @@ Here are some configurations you can find here:
    ```
 
 - Appears under **Details & Support** on your app details page:
-  ![Language support](images/language-support.png)  
+  ![Language support](images/language-support.png)
 
 ## `iconPath`
 
@@ -233,18 +233,18 @@ Here are some configurations you can find here:
 - Image must be **96x96 pixels**.
 - Appears in the **My apps** page, app details, and **Manage apps**
   ![Icon in add an app](images/icon-add-an-app.png)
-  ![Icon in the app details](images/icon-details.png)  
-  ![Icon in manage apps](images/icon-manage-apps.png)  
+  ![Icon in the app details](images/icon-details.png)
+  ![Icon in manage apps](images/icon-manage-apps.png)
 - Your browser will cache the image. If you change the image in your solution, make sure to rename the file, or you'll spend many frustrating hours trying to figure out why your new icon is not reflected. (I speak from experience, here)
 - To add in icon to your app, follow these steps (inspired by [these great instructions](https://thechriskent.com/2017/06/19/sharepoint-framework-app-icon/) by Chris Kent -- but don't tell him I said anything nice about him, or it'll get to his head)
     1. In your SPFx solution's **sharepoint** folder, create an **assets** folder. You don't need to create a folder, and the folder does not need to be called **assets**, it's just a common convention. You do you.
     1. Save a 96px by 96px **.png** file that you wish to use as your app icon in your **assets** folder. For these instructions, we'll name the file **appicon.png**, but you can use whatever name you'd like.
     1. In your **package-solution.json**, add a new line in the `solution` node as follows:
-    
+
        ```json
        "iconPath": "assets/appicon.png",
        ```
-    
+
     > Remember: the path to the image must be relative to the **sharepoint** folder.
 
     Your **.json** file should look as follows:
@@ -278,7 +278,7 @@ Here are some configurations you can find here:
   `termsOfUseUrl`|Your company's terms of use URL, including `https://` or `http://` | Yes (but can be an empty string `""`)
   `mpnId`|Your [Microsoft Partner Network ID](https://partner.microsoft.com/mpn/partner), or `Undefined-1.16.1` if you aren't a partner | Yes
 
-- Your **.json** should look as follows: 
+- Your **.json** should look as follows:
 
   ```json
   {
@@ -302,7 +302,7 @@ So far, everything we have discussed was within the `solution` node of your **pa
 
 ### `shortDescription`
 
-- Short description of the app. This value will be displayed on legacy **Add an app** page. 
+- Short description of the app. This value will be displayed on legacy **Add an app** page.
 - It is a localized dictionary, which means that it should contain a locale, and a localized string, as follows:
 
   ```json
@@ -347,9 +347,9 @@ So far, everything we have discussed was within the `solution` node of your **pa
 
 ### `longDescription`
 
-- Long description of the app, with (supposedly) HTML support. This value will be displayed on the app details page. 
+- Long description of the app, with (supposedly) HTML support. This value will be displayed on the app details page.
 - Although the schema says that it supports HTML, I have only been able to add newline characters (`\n`), no other HTML.
-- Just like the `shortDescription`, it is a localized dictionary. 
+- Just like the `shortDescription`, it is a localized dictionary.
 - You should have a "default" key.
 - Here is an example of using a newline character in a `longDescription`:
   ```json
@@ -390,10 +390,10 @@ So far, everything we have discussed was within the `solution` node of your **pa
 ### `screenshotPaths`
 
 - Relative paths or absolute external URLs to the screenshots.
-- Like the `iconPath`, the base for relative paths is the base package directory (i.e.: **sharepoint**). 
+- Like the `iconPath`, the base for relative paths is the base package directory (i.e.: **sharepoint**).
 - You can add them to the **assets** folder you created under **sharepoint**
 - Unlike `iconPath`, you can include a link to an external image.
-- The screenshots will be displayed on the App's About page. 
+- The screenshots will be displayed on the App's About page.
 - You can add up to 5 screenshots.
 - The recommended screenshot dimensions aren't explicitly listed, but the placeholder is 706 pixels wide by 397 pixels high -- which is a 16:9 aspect ratio.
 - Make sure that your app's screenshots describe only the app and don't contain any additional advertising. It isn't cool.
@@ -422,18 +422,18 @@ So far, everything we have discussed was within the `solution` node of your **pa
     }
     ```
 
-    ![Screenshots in the About app page](images/screenshots.png)  
+    ![Screenshots in the About app page](images/screenshots.png)
 
 ### `videoUrl`
 
 - Add a URL to a YouTube or Vimeo video of your app.
-- Recommended length: 60-90 seconds. 
+- Recommended length: 60-90 seconds.
 - Your video should communicate the value of your product in narrative form and/or demonstrate how the product works.
 - Appears on the about app page
 - If you have screenshots and a video, the video will appear as the first slide on the carousel
-  ![Video on the about page](images/video.png)  
+  ![Video on the about page](images/video.png)
 - Here is an example of a **package-solution.json** with a video:
-  
+
   ```json
   {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
@@ -474,7 +474,7 @@ So far, everything we have discussed was within the `solution` node of your **pa
     - Social
     - Workflow & Process Management
 - Appears in your app details page, under **Details & Support**
-![Categories in app details](images/categories.png)  
+![Categories in app details](images/categories.png)
 
 ## Conclusion
 
@@ -489,7 +489,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – <https://aka.ms/spfx>
 -	Issues and feedback around SPFx - <https://aka.ms/spfx/issues>
 -	Microsoft 365 Platform Community – <https://aka.ms/m365/community>
--	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls> 
+-	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls>
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – <https://aka.ms/m365/samples>
 

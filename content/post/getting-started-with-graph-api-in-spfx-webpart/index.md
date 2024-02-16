@@ -11,7 +11,7 @@ type: "regular"
 ---
 
 
-## What is Graph API? 
+## What is Graph API?
  
 Microsoft Graph provides a unified programmability model that you can
 use to build apps for organizations and consumers that interact with the
@@ -23,9 +23,9 @@ the following Microsoft services like  Bookings, Calendar, Delve, Excel,
 Microsoft 365 compliance eDiscovery, Microsoft Search, OneDrive,
 OneNote, Outlook/Exchange, People (Outlook contacts), Planner,
 SharePoint, Teams, To Do, Workplace Analytics. for more details refer to
-[Graph API](https://docs.microsoft.com/graph/overview?view=graph-rest-1.0 "Graph API").
+[Graph API](https://learn.microsoft.com/graph/overview?view=graph-rest-1.0 "Graph API").
  
-## How to test API in graph explorer? 
+## How to test API in graph explorer?
  
 Before creating an SPFx web part implementation with Graph API we can
 explore APIs in [Graph
@@ -65,7 +65,7 @@ it :)
  
 Now lets' move to the SPFx implementation.
  
-## Implementation 
+## Implementation
  
 Open a command prompt\
 Move to the path where you want to create a project\
@@ -95,7 +95,7 @@ code tool. Here, I am using the VS code, so I will execute the command:
 
 Now will create a demo to read messages of a user. for more details
 refer to
-[Microsoft Graph](https://docs.microsoft.com/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
+[Microsoft Graph](https://learn.microsoft.com/graph/api/message-get?view=graph-rest-1.0&tabs=http "this").
  
 So first of all we have to set permission as per our endpoint in
 **package-solution.json**. Now the question is which permission we have
@@ -117,7 +117,7 @@ below.
 You can also find all the details in the official document for all the
 endpoints. 
  
-## Implementation 
+## Implementation
  
 **1**. In the **package-solution.json** file we will add permission.
  
@@ -296,7 +296,7 @@ Now test the web part in SharePoint-SiteURL +
  
 Find the [full source code](https://github.com/chandaniprajapati/GraphAPIDemo).
  
-## Summary 
+## Summary
  
 In this article, we have seen how to use graph API in SPFx web part and
 graph explorer.

@@ -129,13 +129,13 @@ Additional resources around the covered topics and links from the slides.
 *   **D1**:  Sample - [basic-card-sharepoint-crud](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-SharePoint-CRUD) 
 *   **D1**:  Samples - [ace-cardgallery](https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/ace-cardgallery) 
 *   **D2**:  Documentation/Tools - [A whole new way to deliver UI](https://adaptivecards.io/) 
-*   **D2**:  Documentation - [Adaptive Cards Template Language](https://docs.microsoft.com/adaptive-cards/templating/language) 
+*   **D2**:  Documentation - [Adaptive Cards Template Language](https://learn.microsoft.com/adaptive-cards/templating/language) 
 
 *   **D2**:  Samples - [Conferences-Samples](https://github.com/PiaSys/Conferences-Samples/tree/master/ACEs) 
 
-*   **D3**:  Documentation - [Validate web part property values](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values) 
-*   **D3**:  Documentation - [Make your SharePoint client-side web part configurable](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
-*   **D3**:  Documentation - [Integrate web part properties with SharePoint](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
+*   **D3**:  Documentation - [Validate web part property values](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/validate-web-part-property-values) 
+*   **D3**:  Documentation - [Make your SharePoint client-side web part configurable](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/basics/integrate-with-property-pane) 
+*   **D3**:  Documentation - [Integrate web part properties with SharePoint](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/guidance/integrate-web-part-properties-with-sharepoint) 
 *   **D3**:  Previous demos from [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @bernierh, on SPFx Design Patterns series
     *   [SharePoint Framework Design Patterns – Custom Web Part Properties (Part 3)](https://youtu.be/iMbQyxdPcSU?t=2632) – 13 January
     *   [SPFx Design Patterns – Custom Properties (Part 2)](https://youtu.be/--4erl4oE7Q?t=1619) – 30 December
@@ -170,7 +170,7 @@ Additional resources around the covered topics and links from the slides.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -189,7 +189,7 @@ Additional resources around the covered topics and links from the slides.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

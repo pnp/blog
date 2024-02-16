@@ -40,7 +40,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
     * Good Flow story? Tell us. [FlowOfTheWeek](https://aka.ms/FlowOfTheWeekForm) – aka.ms/FlowOfTheWeekForm
 * [Script samples](https://pnp.github.io/script-samples/)
-    * New - PnP PowerShell – [Extract the configuration of a PnP Modern Search results web part and apply it on another site collection](https://pnp.github.io/script-samples/spo-deploy-pnpmodernsearch-webpart/README.html?tabs=pnpps) - [Kasper Bo Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Extract the configuration of a PnP Modern Search results web part and apply it on another site collection](https://pnp.github.io/script-samples/spo-deploy-pnpmodernsearch-webpart/README.html?tabs=pnpps) - [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * [Meeting tab that records names so everyone can pronounce them properly](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-meeting-record-name) - [Markus Moeller](https://twitter.com/moeller2_0) \| @moeller2_0
@@ -55,25 +55,25 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 
 ### Demos
 
-* **Extend Microsoft Teams apps across Microsoft 365 (Outlook and Office)** - use the same Mail Storage app – a static Teams personal app, in Teams, Outlook and Office.com to store emails with attachments in (Teams, Outlook, OneDrive) based on host environment (detected) in which the personal app is running. Microsoft Graph open extensions detects and links to mails already saved. Requires [TeamsJS SDK 2.0](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?view=msteams-client-js-latest&tabs=javascript%2Cmanifest-teams-toolkit#whats-new-in-teamsjs-version-20&WT.mc_id=M365-MVP-5004617) (SSO), yoTeams v4.0 (instance) and [Teams manifest 1.13](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema&WT.mc_id=M365-MVP-5004617) or greater. Sample available now.
+* **Extend Microsoft Teams apps across Microsoft 365 (Outlook and Office)** - use the same Mail Storage app – a static Teams personal app, in Teams, Outlook and Office.com to store emails with attachments in (Teams, Outlook, OneDrive) based on host environment (detected) in which the personal app is running. Microsoft Graph open extensions detects and links to mails already saved. Requires [TeamsJS SDK 2.0](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/using-teams-client-sdk?view=msteams-client-js-latest&tabs=javascript%2Cmanifest-teams-toolkit#whats-new-in-teamsjs-version-20&WT.mc_id=M365-MVP-5004617) (SSO), yoTeams v4.0 (instance) and [Teams manifest 1.13](https://learn.microsoft.com/microsoftteams/platform/resources/schema/manifest-schema) or greater. Sample available now.
 * **Power Apps component library: Material design** - overview on Design Toolkit Initiative - prescriptive guidance around UI principles for Power Apps. Review UI options for makers – ugly/bad/good, material design, what/why component libraries for Power Apps, and introduction to first library with 16 components, template, proper documentation and 5000 SVGs. Download component library and template app then build an app, use mix of standard and component library controls, change app style easily in OnStart Property.
 
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube ssgNG_mcKUE >}}
 
 ## Agenda items
 
-* [06:46](https://youtu.be/ssgNG_mcKUE?t=406) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert
-* [08:21](https://youtu.be/ssgNG_mcKUE?t=501) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
-* [10:15](https://youtu.be/ssgNG_mcKUE?t=615) – yo Teams updates - [Rick Van Rousselt](http://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
+* [06:46](https://youtu.be/ssgNG_mcKUE?t=406) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert
+* [08:21](https://youtu.be/ssgNG_mcKUE?t=501) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth
+* [10:15](https://youtu.be/ssgNG_mcKUE?t=615) – yo Teams updates - [Rick Van Rousselt](https://twitter.com/rickvanrousselt) (Advantive) \| @rickvanrousselt
 * [11:31](https://youtu.be/ssgNG_mcKUE?t=691) – Microsoft Teams Toolkit updates - [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [12:36](https://youtu.be/ssgNG_mcKUE?t=756) – Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [12:36](https://youtu.be/ssgNG_mcKUE?t=756) – Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
 * [13:21](https://youtu.be/ssgNG_mcKUE?t=801) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM
-* [15:16](https://youtu.be/ssgNG_mcKUE?t=916) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
-* [16:44](https://youtu.be/ssgNG_mcKUE?t=1004) – Microsoft Teams Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
-* [17:14](https://youtu.be/ssgNG_mcKUE?t=1034) – Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
+* [15:16](https://youtu.be/ssgNG_mcKUE?t=916) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
+* [16:44](https://youtu.be/ssgNG_mcKUE?t=1004) – Microsoft Teams Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII
+* [17:14](https://youtu.be/ssgNG_mcKUE?t=1034) – Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam
 * [18:29](https://youtu.be/ssgNG_mcKUE?t=1109) – Together mode picture
 * [19:39](https://youtu.be/ssgNG_mcKUE?t=1179) – Extend Microsoft Teams apps across Microsoft 365 (Outlook and Office) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0
 * [35:01](https://youtu.be/ssgNG_mcKUE?t=2101) – Power Apps component library: Material design - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam, [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese & [Robin Rosengrün](https://twitter.com/power_r2) (EnBW) \| @power_r2
@@ -106,7 +106,7 @@ Thank you for joining the call today. Great to see some of you are donning your 
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -127,7 +127,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.11.0 GA|
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.8.0 GA|
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.12.0 GA|Prepping v1.12.0 coming soon.  Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA|
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.9.0 GA

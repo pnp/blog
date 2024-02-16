@@ -119,7 +119,7 @@ a blog post, and the solution to your customer's needs.  
      Demonstrates how with little code and using PnP components, one can
     deliver an elegant result! 
 
-  
+
 **SPFx extension samples:  (<https://aka.ms/spfx-extensions>)**
 
 -   **[Share to
@@ -272,7 +272,7 @@ slides.
     videos)
 
 -   Docs - [Tutorials and training material for SharePoint
-    Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+    Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 
 -   [SPFX Training Package](https://aka.ms/spfx-training)
 
@@ -317,7 +317,7 @@ slides.
 ## Other topics mentioned
 
 -   [SharePoint dev
-    documentation](https://docs.microsoft.com/sharepoint/dev/)
+    documentation](https://learn.microsoft.com/sharepoint/dev/)
 -   [SharePoint dev issue
     list](https://github.com/SharePoint/sp-dev-docs/issues)
 **Upcoming calls | Recurrent invites:  *(Subject to Updates in

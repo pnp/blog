@@ -13,7 +13,7 @@ videos:
 draft: false
 ---
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [VesaJuvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Kraków, Poland based SharePoint developer at Valo Solutions - [Marcin Wojciechowski](https://twitter.com/mgwojciech) \| @mgwojciech.
 
 ## Topics discussed in this session
 
@@ -25,12 +25,12 @@ In this installment of the weekly discussion revolving around the latest news an
 * Marcin’s tips for staying on top of latest technology.
 * Development tools mentioned:
     * [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
-    * [Edge Console](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/console/)
+    * [Edge Console](https://learn.microsoft.com/microsoft-edge/devtools-guide-chromium/console/)
     * [GitHub Copilot](https://dev.to/github/understand-your-code-using-github-copilot-5375#:~:text=%20Understand%20your%20code%20using%20GitHub%20Copilot%20,Copilot%20Labs%20sidebar%20has%20everything%20you...%20More%20)
     * [Jest](https://jestjs.io/)
-* Articles mentioned - [How to be better at twitter](https://www.m365princess.com/blogs/twitter/) and [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/) \| [Luise Freese](http://twitter.com/LuiseFreese) \| @LuiseFreese
+* Articles mentioned - [How to be better at twitter](https://www.m365princess.com/blogs/twitter/) and [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/) \| [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese
 
-Also, we showcased 24 articles/tweets/videos published by Microsoft and the PnP Community in the last week.  
+Also, we showcased 24 articles/tweets/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
@@ -43,10 +43,10 @@ This session was recorded on Monday, June 13, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube iciZb2BP0Hg >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-w7j5e-124d4dc >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -59,7 +59,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [SharePoint Roadmap Pitstop: May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2022/ba-p/3468499) - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) | @mkashman
 * [Application permissions for Bookings APIs in Microsoft Graph now available](https://devblogs.microsoft.com/microsoft365dev/application-permissions-for-bookings-apis-in-microsoft-graph-now-available/) - Microsoft
 * [Microsoft Teams JS SDK v2 is now generally available](https://devblogs.microsoft.com/microsoft365dev/microsoft-teams-js-sdk-v2-is-now-generally-available/) - [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @williamsrabia
-* [Enable single sign-on in a tab app](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview?referrer=whats.new.rssfeed) - Microsoft
+* [Enable single sign-on in a tab app](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/tab-sso-overview?referrer=whats.new.rssfeed) - Microsoft
 
 
 ## Community articles
@@ -80,14 +80,13 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Tweet - Julie Turner (Sympraxis) - PnPjs 3.4 release](https://twitter.com/m365pnpjs/status/1535328967200219136) - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997
 * [Episode #209 - Using the PnP DragDropFiles control in SPFx solutions](https://www.youtube.com/watch?v=Zj7vofom8Bs)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps Review, Troubleshooting, and Optimization](https://www.youtube.com/watch?v=U_auAaSD-Yg) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-  
+
 ## Additional resources
 
-* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)  
+* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365/community>
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

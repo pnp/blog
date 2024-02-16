@@ -138,27 +138,27 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   D1:  Documentation - [Overview: Viva Connections
-    (Preview)](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections-overview) 
+    (Preview)](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections-overview) 
 
 -   D1:  Blog - [Announcing public preview of SharePoint Framework 1.13
     -- with Viva Connections
     Extensibility](https://developer.microsoft.com/microsoft-365/blogs/announcing-public-preview-of-sharepoint-framework-1-13-with-viva-connections-extensibility/) 
 
 -   D1:  Documentation - [Overview of the SharePoint
-    Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) 
+    Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview) 
 
 -   D1:  Documentation - [Overview of Viva Connections
-    Extensibility](https://docs.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
+    Extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) 
 
 -   D1:  Documentation - [Authenticate users in Microsoft
-    Teams](https://docs.microsoft.com/microsoftteams/platform/concepts/authentication/authentication) 
+    Teams](https://learn.microsoft.com/microsoftteams/platform/concepts/authentication/authentication) 
 
 -   D1:  Documentation - [Create deep
-    links](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links)
+    links](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links)
      
 
 -   D2:  Documentation - [Manage search result layouts -- Things to
-    consider](https://docs.microsoft.com/microsoftsearch/customize-results-layout#things-to-consider)
+    consider](https://learn.microsoft.com/microsoftsearch/customize-results-layout#things-to-consider)
 
 -   D2:  Registration - [Result type customization for SharePoint
     content - Private
@@ -233,7 +233,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -272,7 +272,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free
@@ -286,4 +286,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 29th of September 2021*
-

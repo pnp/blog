@@ -26,7 +26,7 @@ SharePoint Framework (SPFx) project.
 **Prepare the SPFx Project**
 
 Prepare your SPFx project. I use a newly generated [SPFx
-project](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part) (v1.11) but you can also use your existing SPFx
+project](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part) (v1.11) but you can also use your existing SPFx
 project.
 **Install Modules**
 

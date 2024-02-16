@@ -18,7 +18,7 @@ Well did you ever wondered how to go about this? Lately I did, and since not tha
 
 ## How to start
 
-First approach that I was thinking to use was the Microsoft Graph REST API as this should always be the way to go if it is supported and possible of course. So I checked out the [API reference](https://docs.microsoft.com/graph/api/overview?view=graph-rest-1.0&preserve-view=true) (also [the beta one](https://docs.microsoft.com/graph/api/overview?view=graph-rest-beta&preserve-view=true)) and it turned out there is no Flow/PowerAutomate endpoint in the API 🥲 (at least I didn't find one 😀.
+First approach that I was thinking to use was the Microsoft Graph REST API as this should always be the way to go if it is supported and possible of course. So I checked out the [API reference](https://learn.microsoft.com/graph/api/overview?view=graph-rest-1.0&preserve-view=true) (also [the beta one](https://learn.microsoft.com/graph/api/overview?view=graph-rest-beta&preserve-view=true)) and it turned out there is no Flow/PowerAutomate endpoint in the API 🥲 (at least I didn't find one 😀.
 
 Ok so my next attempt to investigate how may I retrieve the list of flows was by checking out how it is already done in the tools used in Microsoft 365 world like the CLI for M365. The CLI offers many many helpful commands that allow you to manage your tenant (but not only that so I strongly encourage you to have a [check on this tool as well](https://pnp.github.io/cli-microsoft365/)). I checked out how the \`[m365 flow list](https://github.com/pnp/cli-microsoft365/blob/main/src/m365/flow/commands/flow-list.ts)\` command was developed (this is the power of the Open Source and PnP Community, why try to figure out all things from scratch when you may check how it was done by someone else and potentially totally better then your approach). Ok and it turned out that the CLI for M365 uses this endpoint 
 
@@ -110,6 +110,3 @@ If you want to start from something working (`git pull` > `gulp bundle` > `gulp 
 ## Conclusion
 
 I'm not sure if I have any 😀. If you ever had a requirement like that to include power automate flow information in you SPFx solution now you have a good starting point.
-
-
-

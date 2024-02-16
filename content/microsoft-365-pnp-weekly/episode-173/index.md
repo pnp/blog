@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=2JBtVXDGJDg
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Cloud Developer Advocate at Microsoft - [Garry Trinder](https://twitter.com/garrytrinder) \| @garrytrinder.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Cloud Developer Advocate at Microsoft - [Garry Trinder](https://twitter.com/garrytrinder) \| @garrytrinder.
 
 ## Topics discussed in this session
 
@@ -24,13 +24,13 @@ In this installment of the weekly discussion revolving around the latest news an
 * Tips for people wanting to get involved in open-source community-work in Microsoft 365.
 * Flashback to Microsoft DevCast with Jeff Teper and Satya Nadella from 1993 - <https://youtu.be/8bSCIUAeLis?t=7226>
 
-Also, we showcased 22 articles/videos published by Microsoft and the PnP Community in the last week. 
+Also, we showcased 22 articles/videos published by Microsoft and the PnP Community in the last week.
 
 ## This week
 
 * **Waldek** – Planning and addressing a question: Why would/should a developer care about building on Microsoft 365? Stay tuned!
 * **Vesa** – Wrapping up loose ends and gearing up for a most remote vacation.
-* **Garry** - Planning and learning other aspects of his role. 
+* **Garry** - Planning and learning other aspects of his role.
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
@@ -38,10 +38,10 @@ This session was recorded on Monday, July 4, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 2JBtVXDGJDg >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-h8afv-1267cf7 >}}    
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-h8afv-1267cf7 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -67,20 +67,19 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [m365pnp/spfx Docker image](https://hub.docker.com/r/m365pnp/spfx) - [Microsoft 365 Platform Community (PnP)](https://aka.ms/m365/community)
 * [Use FluidFramework in a Microsoft Teams app](https://mmsharepoint.wordpress.com/2022/06/25/use-fluidframework-in-a-microsoft-teams-app/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [How to add custom code via private Azure DevOps artifact feeds to your projects and build pipelines](https://laurakokkarinen.com/how-to-add-custom-code-via-private-azure-devops-artifact-feeds-to-your-projects-and-build-pipelines/) - [Laura Kokkarinen](https://twitter.com/LauraKokkarinen) (Sulava) | @LauraKokkarinen
-* [What’s new? Unboxing the SharePoint Framework (SPFx) v1.15](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [What’s new? Unboxing the SharePoint Framework (SPFx) v1.15](https://www.voitanos.io/blog/sharepoint-framework-v1-15-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 * [The Return of Hillbilly Tabs](http://www.markrackley.net/2022/06/29/the-return-of-hillbilly-tabs/) - [Mark Rackley](https://twitter.com/mrackley) (Avanade) | @mrackley
 * [How to upgrade your SPFx project to the latest version, and how to fix/avoid common issues](https://elischei.com/how-to-upgrade-your-spfx-project-to-the-latest-version-and-how-to-fix-avoid-common-issues/) - [Eli Schei](https://twitter.com/acupof_dev) (Point Taken AS) | @acupof_dev
 * [Building beautiful buttons in Canvas Apps part 1 - neumorphic buttons](https://www.kristinekolodziejski.com/blog/building-beautiful-buttons-in-canvas-apps-part-1-neumorphic-buttons) - [Kristine Kolodziejski](https://twitter.com/kristinekk94) (Computacenter) | @kristinekk94
 * [Episode #211 - Using the PnP TeamPicker control in SPFx solutions](https://www.youtube.com/watch?v=1KgLFywYP_U)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps Search Pane](https://www.youtube.com/watch?v=htH1bihCMKk) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @ShanesCows
-  
+
 ## Additional resources
 
-* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)  
+* [Release Notes for PnPjs v3.4.1](https://pnp.github.io/pnpjs/)
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
 * Check out all the great community calls, SDKs, and tooling for Microsoft 365 from <https://aka.ms/m365/community>
 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-
