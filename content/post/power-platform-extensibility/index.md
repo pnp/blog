@@ -2,10 +2,10 @@
 title: "Power Platform? I'm a developer!"
 date: 2024-02-09T08:40:00-04:00
 author: "Kinga Kazala"
-githubname: kkauala
+githubname: kkazala
 categories: ["Community post"]
 images:
-- images/myImage.png
+- images/image.png
 tags: []
 type: "regular"
 ---
