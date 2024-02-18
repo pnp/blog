@@ -5,7 +5,7 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/image.png
+- images/thumbnail.png
 tags: []
 type: "regular"
 ---
