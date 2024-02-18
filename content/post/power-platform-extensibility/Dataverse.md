@@ -208,7 +208,7 @@ Tables in Dataverse can use rich server-side logic and validation to ensure data
  </tr>
  <tr>
   <td>
-  <p><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations">Background  operations</a> (preview)</p>
+  <p><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations">Background  operations</a> <sup>(preview)</sup></p>
   </td>
   <td>
 
