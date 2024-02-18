@@ -73,7 +73,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
    <li ><b>Functions:</b>take parameters, perform an operation, and return a value. Functions are modeled after Microsoft Excel functions. Some functions have side effects, such as SubmitForm, which are appropriate only in a <a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas-in-depth">behavior formula</a>such as Button.OnSelect.</li>
    <li><b>Signals</b> return information about the environment. For example, <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/signals">Location</a> returns the device's current GPS coordinates. Signals don't take parameters or have side effects.</li>
    <li ><b>Enumerations</b> return a pre-defined constant value. For example,<a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-colors">Color</a> is an enumeration that has pre-defined values for Color.Red, Color.Blue, and so forth.</li>
-   <li ><>Named operators</>, such as <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#thisitem-thisrecord-and-as-operators">ThisItem</a> and<a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#self-and-parent-operators">Self</a>, provide access to information from within a container.</li>
+   <li ><b>Named operators</b>, such as <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#thisitem-thisrecord-and-as-operators">ThisItem</a> and <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#self-and-parent-operators">Self</a>, provide access to information from within a container.</li>
   </ul>
   </td>
   <td>
@@ -158,7 +158,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   <ul>
    <li >Code components that connect to external services or data directly via the user's browser       client and not through connectors are considered as premium. When these components are used in an app, <b>the app becomes premium</b>, and end-users are       required to have Power Apps licenses.</li>
     <li >Code components that don't       connect to external services or data are standard. When these components are used in an app that uses standard features, the app remains       standard, and end- users are required to be licensed at minimum for Office 365. </li>
-   <li >Code components can be declared as premium components by adding       a `&lt;external-service-usage&gt;` node to the component's manifest file with all the external service domains this component is
+   <li >Code components can be declared as premium components by adding       a &lt;external-service-usage&gt; node to the component's manifest file with all the external service domains this component is
        connecting to.</li>
   </ul>
   <p><a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/code-components-best-practices">Best practices and guidance for code components created using Power Apps component  framework</a></p>
