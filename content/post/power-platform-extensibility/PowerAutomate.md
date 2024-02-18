@@ -1,5 +1,12 @@
 ﻿
-# Power Automate
+## Power Automate
+
+### Contents
+
+1. [Power Platform? I'm a developer!](index.md)
+1. [Power Apps](powerApps.md)
+1. **Power Automate**
+1. [Dataverse](Dataverse.md)
 
 Power Automate **[Cloud flows](https://powerautomate.microsoft.com/en-us/digital-process-automation/) are always asynchronous**, while **Classic workflows** may be **either background (asynchronous) or real-time (synchronous)** workflows. Microsoft recommends to use Cloud Flows instead of classic background workflows.
 

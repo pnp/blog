@@ -1,4 +1,12 @@
-﻿# Dataverse
+﻿## Dataverse
+
+### Contents
+
+1. [Power Platform? I'm a developer!](index.md)
+1. [Power Apps](powerApps.md)
+1. [Power Automate](./PowerAutomate.md)
+1. **Dataverse**
+
 
 Because Dataverse includes many capabilities for people to configure custom business logic without writing code, the most common scenarios for developers to contribute involve filling spaces in-between where existing features may not provide functionality you need to meet a requirement. Fortunately, Dataverse provides many points for developers to extend the common functionality using code. Each of these options are typically invoked based on events that occur on the server, so understanding of the [Event Framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) will be valuable.
 
