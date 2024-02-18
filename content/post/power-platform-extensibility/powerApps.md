@@ -36,8 +36,7 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ## Summary of extensibility options in Power Apps
 
-![Extensibility options in Power Apps](./images/powerApps.png)
-
+![Extensibility options in Power Apps](./images/PowerApps.png)
 
 In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (cient-side)** and the user will see the result immediately.
 
@@ -54,32 +53,32 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 
 <sup> *Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.</sup>
 
-<table border="1" cellpadding="0" cellspacing="0" valign="top" style="direction:ltr;
+<table border="1" cellpadding="0" cellspacing="0" valign="top" style="
  border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width:
- 1pt" title="" summary="">
+ 1pt" >
  <tbody><tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Approach</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Programming
   language</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0534in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Description</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.4152in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Constraints and limitations</p>
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference-overview">Formulas</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >PowerFx</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0604in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Formulas combine many elements, for example:</p>
   <ul type="disc" style="direction:ltr;unicode-bidi:embed;margin-top:0in;margin-bottom:0in">
    <li ><span style="font-weight:bold;font-family:Calibri;font-size:11.0pt">Functions:</span><span style="font-family:Calibri;font-size:11.0pt"> take parameters, perform an operation, and return a value. Functions are modeled after Microsoft Excel functions. Some functions have side effects, such as SubmitForm, which are appropriate only in a </span><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas-in-depth"><span style="font-family:Calibri;font-size:11.0pt">behavior formula</span></a><span style="font-family:Calibri;font-size:11.0pt"> such as Button.OnSelect.</span></li>
@@ -89,20 +88,20 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
        operators</span><span style="font-family:Calibri;font-size:11.0pt">, such as </span><a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#thisitem-thisrecord-and-as-operators"><span style="font-family:Calibri;font-size:11.0pt">ThisItem</span></a><span style="font-family:Calibri;font-size:11.0pt"> and </span><a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#self-and-parent-operators"><span style="font-family:Calibri;font-size:11.0pt">Self</span></a><span style="font-family:Calibri;font-size:11.0pt">, provide access to information from within a container.</span></li>
   </ul>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.6305in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Not all functions area available in all Power Platform components. See <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference">Formula reference - Power Apps - Power Platform | Microsoft Learn</a> for a list of formulas available in Power Apps.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >In model-driven apps, Power Fx can be <a href="https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/page-powerfx-in-model-app">used in custom pages</a> to add notifications and navigate between pages. However,
   <span style="font-weight:bold">some</span> Power Fx <span style="font-weight: bold">functions are </span><a href="https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/commanding-use-powerfx#functions-not-supported"><span style="font-weight:bold">not supported</span> with commanding</a> in model-driven apps. </p>
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/web-resources">Web resources</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >JavaScript</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0729in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >You can use JavaScript in the following areas of <span style="font-weight:bold">Model-driven apps:</span></p>
   <ul>
    <li ><span style="font-family:Calibri;font-size:11.0pt">Form Script event handlers: a form loads, data is changed in a column or an item within the form,
@@ -117,7 +116,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Like all web resources, JavaScript web resources <a href="https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources">use the model-driven apps security context</a>. Only licensed users who have the
   necessary privileges can access them.</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.6305in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >There is <span style="font-weight:bold">no</span> type of<span style="font-weight:
   bold"> web resource</span> that <span style="font-weight:bold">supports</span>  the capabilities of an <span style="font-weight:bold">ASP.NET(.aspx)</span>
   page to execute<span style="font-weight:bold"> code on the server</span>. Web resources are<span style="font-weight:bold"> limited to static files</span>
@@ -131,13 +130,13 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.968in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component">Low-code canvas components</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >PowerFx</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0534in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Components are reusable building blocks for canvas apps so that app makers can create
   custom controls to use inside an app, or across apps using a <a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-library">component library</a>. Components can use advanced features such as custom properties
   and enable complex capabilities. </p>
@@ -145,20 +144,20 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   component library: <a href="https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/page-canvas-components">Add
   canvas components to a custom page in a model-driven app</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.5368in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component#known-limitations">Known limitations</a></p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Nested support: you can't add a low-code component inside another low-code component, even when using different types of components.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties">Component properties</a> like Function, Action and Event are still experimental at the time of writing.</p>
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant">Low-code Plug-ins</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >PowerFx</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0534in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >With the low-code plug-ins, you can create plug-ins with minimal or no coding
   required, and without the need for compiling solution and manual registration.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Low-code   plug-ins are stored within a Dataverse database and can be seamlessly
@@ -166,20 +165,20 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
    <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Running server-side, they reduce client-side workload</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#benefits-of-server-side-logic">Benefits of server-side logic</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Low-code plug-ins are stored within a Dataverse database and are created using <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in">Dataverse accelerator app</a>, which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.</p>
    <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Use of low-code plugins in your solution requires Premium licenses.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#limitations">Limitations</a></p>
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9548in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview">PowerApps component framework (PCF)</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >TypeScript</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0569in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Used to <span style="font-weight:bold">enhance the user experience</span> in <span style="font-weight:bold">forms, views, dashboards, and canvas app</span>
   screens. For example:</p>
   <ul>
@@ -209,7 +208,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   framework</a></p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/powerapps/maker/model-driven-apps/page-code-components">add  code components to a custom page for your model-driven app.</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Microsoft  <span style="font-weight:bold">Dataverse dependent APIs, including WebAPI,</span>
   are <a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/reference/"><span style="font-weight:bold">not available</span></a><span style="font-weight:bold"> for</span> Power Apps <span style="font-weight:bold">canvas  applications </span><span style="font-weight:bold;text-decoration:underline">yet</span><span style="font-weight:bold">. </span></p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Code  components should <span style="font-weight:bold">bundle all the code
@@ -222,13 +221,13 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries">React  controls &amp; platform libraries</a> (Preview)</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >TypeScript + React</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0604in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >React  controls use the same infrastructure as the Power Apps platform. This means
   you do not have to package React and platform libraries individually for each   control. All controls share a common library instance and version to provide  a <span style="font-weight:bold">seamless and consistent experience</span>.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >By  re-using the existing platform React and Fluent libraries, you can expect the
@@ -243,26 +242,26 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
   way</span>, with all Power Apps code components being created this way after  this feature reaches general availability. </p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript">Create  your first component</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >React  controls &amp; platform libraries are <a href="https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq"><span style="font-weight:bold">currently</span> only available</a> for canvas and  model-driven apps.</p>
   </td>
  </tr>
  <tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:.9486in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><a href="https://learn.microsoft.com/en-us/connectors/custom-connectors/">Custom
   connectors</a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >REST API</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:8.0534in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Use to  communicate to your external data sources and services. A custom connector is
   a wrapper around a REST API and can be created using tools like Azure
   Functions and Azure API Management</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span >New  connectors</span>, both Mirosoft and third party, are
   added constantly, and as an administrator you should be aware of new  connectors and ensure they are classified accordingly in your </span><a href="https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention"><span >Data loss prevention (DLP) policies</span></a></p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" ><span style="font-weight:bold">Power Platform only supports REST API,
   while </span>Logic Apps also supports SOAP APIs.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" > </p>

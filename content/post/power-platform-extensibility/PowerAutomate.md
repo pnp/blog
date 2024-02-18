@@ -51,40 +51,40 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 <sup>** By using custom process action that uses custom connector</sup><br/>
 <sup>*** VBScript is deprecated from Windows</sup>
 
-<table border="1" cellpadding="0" cellspacing="0" valign="top" style="direction:ltr;
+<table border="1" cellpadding="0" cellspacing="0" valign="top" style="
  border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width:
- 1pt" title="" summary="">
+ 1pt" >
  <tbody><tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Approach</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Programming
   language</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6368in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Description</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.4152in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Constraints
   and Limitations</p>
   </td>
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference-overview">Formulas</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">PowerFx</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6562in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Formulas
   combine many elements, for example:</p>
   <ul type="disc" style="direction:ltr;unicode-bidi:embed;margin-top:0in;
@@ -111,7 +111,7 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.5472in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Not all
   functions area available in all Power Platform components. For example <a href="https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch">regular
   expressions</a> like <span style="font-weight:bold">IsMatch</span>, <span style="font-weight:bold">Match</span>, and <span style="font-weight:bold">MatchAll</span>
@@ -122,16 +122,16 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant">Low-code
   Plug-ins</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">PowerFx</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6437in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">With
   the low-code plug-ins, users can create plug-ins with minimal or no coding
   required, and without the need for compiling solution and manual
@@ -150,7 +150,7 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
   Fx in desktop flows</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Low-code
   plug-ins are stored within a Dataverse database and are created using <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in">Dataverse
   accelerator app</a>, which must be installed in the environment.&nbsp;</p>
@@ -160,18 +160,18 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions">Custom
   process action</a></p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">declarative</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6409in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow-custom-actions">Custom
   process actions</a>, also known as Custom actions, allow creating&nbsp;custom
   reusable actions&nbsp;that encapsulate specific business logic, and may be
@@ -199,16 +199,16 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api">Custom
   API</a> </p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">.NET</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6368in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Custom
   API is a newer way to define custom messages with many advantages for
   developers. If you do not intend to use the no-code capabilities that custom
@@ -219,23 +219,23 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
   Dataverse section for a more detailed description</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.4152in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-actions#compare-custom-process-action-and-custom-api">Compare
   Custom Process Action and custom API</a></p>
   </td>
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow/workflow-extensions">workflow
   activities/assemblies</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">.NET</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6562in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">As
   reusable components, workflow extensions can be added to any workflow or
   custom action.&nbsp;</p>
@@ -243,23 +243,23 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
   Dataverse section for a more detailed description</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.3958in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
   </td>
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/connectors/custom-connectors/">Custom
   connectors</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">REST
   API</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6562in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Use to
   communicate to your external data sources and services. A custom connector is
   a wrapper around a REST API and can be created using tools like Azure
@@ -273,7 +273,7 @@ rosoft
   connectors and ensure they are classified accordingly in your&nbsp;</span><a href="https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention"><span lang="en-US">Data loss prevention (DLP) policies</span></a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.5263in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><span style="font-weight:bold;color:#161616">Power Platform only supports REST API,
   while </span>Logic Apps also supports SOAP APIs.</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:#161616" lang="en-US">&nbsp;</p>
@@ -291,16 +291,16 @@ rosoft
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration?tabs=run-script">Office
   Script in Excel</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">TypeScript</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6562in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Office
   Scripts in Excel let you automate your day-to-day tasks. You may record
   manual steps, or write your script on your own. </p>
@@ -312,7 +312,7 @@ rosoft
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.6305in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:#161616" lang="en-US">To use&nbsp;<a href="https://learn.microsoft.com/en-us/connectors/excelonlinebusiness">Excel
   Online (Business) connector</a> (standard) in Power Automate you must have a <a href="https://learn.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration?tabs=run-script#:~:text=on%20workbook%20comments.-,Important,-To%20use%20Office">business
   license of Microsoft 365</a>. </p>
@@ -346,16 +346,16 @@ rosoft
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7611in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions">Custom
   actions for Power Automate for Desktop</a></p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">.NET</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6368in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Custom
   actions exist at the environment level.&nbsp;</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Custom
@@ -364,7 +364,7 @@ rosoft
   belong in the standard library of automation actions.</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.6305in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">.dll
   files describing Custom actions, their dependency .dll files, and the .cab
   files are properly signed with a digital certificate trusted by your
@@ -378,12 +378,12 @@ rosoft
  </tr>
  <tr>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.7805in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US"><a href="https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/scripting">Custom
   script</a> in Desktop flows</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:1.2506in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">DOS
   command</p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:#161616" lang="en-US">VBScript *</p>
@@ -393,13 +393,13 @@ rosoft
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">.NET</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:5.6368in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Scripting
   actions enable you to run blocks of code and implement custom behavior in
   your desktop flows.</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;
-  vertical-align:top;width:6.6305in;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:#161616" lang="en-US">To prevent unauthorized access, Windows require administrator
   rights to access protected resources. To access protected resources (such as
   files) using the scripting actions, run Power Automate with administrator
