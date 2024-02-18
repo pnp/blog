@@ -468,8 +468,7 @@ ck if a
   events</a>, you can create a custom API without a plug-in to pass data about
   an event that other subscribers respond to. In other cases you'll combine a
   custom API with a plug-in to define some operation that is delegated to
-  Dataverse to compute and return the result.<span style="mso-spacerun:yes">�
-  </span>A <span style="font-weight:bold">plug-in that implements</span> the
+  Dataverse to compute and return the result.A <span style="font-weight:bold">plug-in that implements</span> the
   main operation for a custom API is subject to the <span style="font-weight:
   bold">2 minute time limit</span> to complete execution. </p>
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>

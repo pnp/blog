@@ -53,18 +53,16 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 
 <sup> *Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.</sup>
 
-<table border="1" cellpadding="0" cellspacing="0" valign="top" style="
- border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width:
- 1pt" >
+<table >
  <tbody><tr>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td >
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Approach</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td >
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Programming
   language</p>
   </td>
-  <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
+  <td >
   <p style="margin:0in;font-family:Calibri;font-size:11.0pt" >Description</p>
   </td>
   <td style="border-style:solid;border-color:#A3A3A3;border-width:1pt;vertical-align:top;padding:2.0pt 3.0pt 2.0pt 3.0pt">
