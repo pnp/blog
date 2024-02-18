@@ -130,14 +130,12 @@ Tables in Dataverse can use rich server-side logic and validation to ensure data
   <td>
   <p>Plug-ins  on events <b>aren’t the best approach ifyou must  listen to events on multiple tables</b> to complete a single business
   event like Close Inspection. Consider a <b>Dataverse  custom API instead of having plug-ins on multiple tables.</b></p>
-  <p><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins#disadvantages-of-plug-ins"><b>Disadvantages</b></a> of plug-ins</p>
-  <ul>
-   <li>Plug-ins<b> require the special skills</b> of a software developer to create and maintain the plug-in
- code. Smaller businesses may not have access to a developer with the needed skills. Business processes can change rapidly and providing options to enable change without requiring a developer can allow the system to adapt more rapidly.</li>
-   <li>Plug-ins <b>can be abused.</b> A <b>poorly written</b> plug-in can cause significant impact on the performance of the data processing
+  <p><a href="https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins#disadvantages-of-plug-ins"><b>Disadvantages</b></a> of plug-ins:</p>
+   <p>Plug-ins<b> require the special skills</b> of a software developer to create and maintain the plug-in
+ code. Smaller businesses may not have access to a developer with the needed skills. Business processes can change rapidly and providing options to enable change without requiring a developer can allow the system to adapt more rapidly.</p>
+   <p>They <b>can be abused.</b> A <b>poorly written</b> plug-in can cause significant impact on the performance of the data processing
  pipeline and ultimately the environment. The great power of plug-ins needs to be applied with some restraint and consideration for the impact
- it has on the system as a whole.</li>
-  </ul>
+ it has on the system as a whole.</p>
   </td>
  </tr>
  <tr>
