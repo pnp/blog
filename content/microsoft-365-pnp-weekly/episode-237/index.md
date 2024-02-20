@@ -9,7 +9,7 @@ images:
 - images/pnp-weekly-237-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=aKw2nCBl_2I
+- https://www.youtube.com/watch?v=A7eXQn4X2XM
 draft: false
 ---
 
@@ -36,11 +36,11 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## Agenda items
 
-[00:00](https://youtu.be/axfLww8z6co&t=0s) – Intro
+[00:00](https://youtu.be/A7eXQn4X2XM&t=0s) – Intro
 
-[03:03](https://youtu.be/axfLww8z6co?t=183) – Interview
+[03:03](https://youtu.be/A7eXQn4X2XM?t=183) – Interview
 
-[43:15](https://youtu.be/axfLww8z6co?t=2595) – Closing
+[43:15](https://youtu.be/A7eXQn4X2XM?t=2595) – Closing
 
 ## Action requested
 
