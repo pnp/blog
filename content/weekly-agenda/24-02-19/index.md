@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 19th of February 2024 week
-date: 2024-02-15T14:58:05.137Z
+date: 2024-02-16T02:58:05.137Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -78,6 +78,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Power Platform CLI – Simplifying authentication profiles](https://www.youtube.com/watch?v=BCjV-w-VGc4) by [Marcel Ferreira](https://twitter.com/marcel_ferreira) (Microsoft) | @marcel_ferreira
 * [Introducing the Microsoft Graph Toolkit chat components](https://www.youtube.com/watch?v=vc8Rf0hMw_0) by [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @sebastienlevert
 * [Extend Copilot for Microsoft 365: Ingest GitHub repositories and issues using Python](https://www.youtube.com/watch?v=uIHNgB2oDVw) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * [Creating SPFx powered Microsoft Teams solutions in minutes with Teams Toolkit](https://www.youtube.com/watch?v=-lS3tk0dzpk) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
@@ -122,8 +123,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 15th of February, 2024](https://www.youtube.com/watch?v=j5riWWLG00E)
 * [Microsoft 365 & Power Platform weekly call – 13th of February, 2024](https://www.youtube.com/watch?v=twSwBHVr1rI)
-
 
 ---
 
