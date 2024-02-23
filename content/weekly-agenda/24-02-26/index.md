@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -62,6 +62,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Deprecation and end of life for SharePoint add-ins](https://www.youtube.com/watch?v=xYQY98WZbc0) by [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen
 * [Building real-time Incident Dashboard with SPFx and List webhook notifications](https://www.youtube.com/watch?v=nSA7gjgS6Qg) by [Ejaz Hussain](https://twitter.com/EjazHussain_) (Advania UK) | @EjazHussain_
 * [Extend Copilot for Microsoft 365: Northwind Inventory sample](https://www.youtube.com/watch?v=xZVJQuXM9hk) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
 * [Maturity Model for Microsoft 365 - February 2024](https://www.youtube.com/watch?v=UsUEPpnsx28)
@@ -98,7 +99,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 * [Microsoft 365 PnP Weekly - Episode 237 - Sharon Sumner](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-237/) with Sharon Sumner (Casper 365)
 
-
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
 ---
@@ -107,6 +107,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 22nd of February 2024](https://www.youtube.com/watch?v=GEMGLY8mjck)
 * [Microsoft Power Platform community call – February 2024](https://www.youtube.com/watch?v=FV-p98DouoI)
 * [Microsoft 365 & Power Platform weekly call – 20th of February, 2024](https://www.youtube.com/watch?v=TDqJHDc1CcY)
 * [Office Add-ins community call – February 2024](https://www.youtube.com/watch?v=uN084BPYpfY)
