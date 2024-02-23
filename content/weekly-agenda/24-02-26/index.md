@@ -50,6 +50,7 @@ Demos this time
 
 * Sanjiv Venkatram (Prudentia Consulting) - Enabling to frontline workers with Power Platform, Azure IoT Central, Azure OpenAI, Python and Teams
 * [Mohammad Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer - How to build a Graph Search Teams message extension
+* [Chris Kent](https://twitter.com/thechriskent) (Takeda) – List formatting tips and tricks
 
 
 Also: 📷 Picture Time with community in Together Mode!
