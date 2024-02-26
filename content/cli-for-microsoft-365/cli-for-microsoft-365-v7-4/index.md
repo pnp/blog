@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - Entra ID
   - Copilot
-type: popular
+type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
