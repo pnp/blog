@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 237 - Sharon Sumner"
-summary: "Microsoft Regional Director and MVP - Sharon Sumner joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
+summary: "Microsoft Regional Director and MVP - Sharon Sumner joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on her career path and community involvement."
 date: 2024-02-20T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
