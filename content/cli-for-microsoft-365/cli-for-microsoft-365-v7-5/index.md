@@ -15,26 +15,24 @@ tags:
 type: popular
 ---
 
-Introducing the latest release of CLI for Microsoft 365
-
-[CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
+Introducing the latest release of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
  
 ## What's new
 
-### Support for multiple connections
+### Support for using multiple accounts
 
-The release includes a mayor quality-of-life improvement for users who manage multiple tenants. Now you can manage multiple connections to different tenants. This feature allows you to switch between tenants without having to log out and log back in. 
+The release includes a major quality-of-life improvement for users who manage multiple tenants. Now you can manage multiple connections to different tenants. This feature allows you to switch between tenants without having to log out and log back in. 
 
-This introduces a whole new group of commands to manage connections. You can now list, remove, set and use different connections. With this new feature we also added the ability to provide a custom name for each connection. If this is not provided, a random GUID will be used as the connection name.
+We introduce a whole new group of commands to manage connections. You can now list, remove, set and use different connections. With this new feature we also added the ability to provide a custom name for each connection. If this is not provided, the local account id will be used as the connection name.
 
 With this major new feature, you'll be able to execute the following commands:
 
 Use the device code flow to connect to a Microsoft 365 tenant and provide a custom name for the connection:
 
 ```sh
-m365 login --connectionName "MyConnection"
+m365 login --connectionName "Customer A"
 ```
 
 List all available connections:
@@ -46,19 +44,19 @@ m365 connection list
 Remove a connection:
 
 ```sh	
-m365 connection remove --name "MyConnection"
+m365 connection remove --name "Customer A"
 ```
 
 Rename an existing connection:
 
 ```sh	
-m365 connection set --connectionName "MyConnection" --newName "MyNewConnection"
+m365 connection set --connectionName "Customer A" --newName "Contoso"
 ```
 
 And finally, you can change the active connection:
 
 ```sh	
-m365 connection use --name "MySecondConnection"
+m365 connection use --name "Customer B"
 ```
 
 For more information check the following resources:
@@ -106,8 +104,8 @@ m365 entra group add --displayName Developers --type microsoft365 --mailNickname
 ```
 
 For more information check the following resources:
-- [m365 entra group user add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-user-add/)
 - [m365 entra group add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-add/)
+- [m365 entra group user add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-user-add/)
 
 #### User registration details
 
@@ -121,7 +119,7 @@ For more information check the documentation here: [m365 entra user registration
 
 ### Copy file
 
-We've added a new command to copy a file to a different location. Here you'll be able to copy a file from one location to another within the same site or to a different site. This command is especially useful for users who need to move files around within their SharePoint environment.
+We've added a new command to copy a file to a different location. Here you'll be able to copy a file from one location to another within the same site or to a different site. This command is especially useful for users who need to move files around within their SharePoint environment. Here a different approach is used than the existing `m365 spo file copy` command, which uses the SharePoint REST API to copy files. The new `m365 file copy` command uses the Microsoft Graph API to copy files.
 
 You can use the following command to copy a file to a different location:
 
@@ -135,9 +133,9 @@ For more information check the documentation here: [m365 file copy](https://pnp.
 
 Besides all these new commands, we've also made some changes to the existing commands. A lot of bugs have been fixed and the codebase has been polished. A major change that has been made is the renaming of the `yammer` command group to `viva engage`. This is to better reflect the change Microsoft has made to the name of the service.
 
-Also, a lot of improvements have been made to the documentation. We've added more examples and improved the readability of the documentation and we introduced a new article. This article explains how to use Use CLI for Microsoft 365 VS Code extension. You can find this article [here](https://pnp.github.io/cli-microsoft365/user-guide/using-cli-vs-code-extension/).
+Also, a lot of improvements have been made to the documentation. We've added more examples, improved the readability of the documentation, and we introduced a new article. This article explains how to use Use CLI for Microsoft 365 VS Code extension. You can find this article [here](https://pnp.github.io/cli-microsoft365/user-guide/using-cli-vs-code-extension/).
 
-If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v740) to find out more.
+If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v750) to find out more.
 
 ## Upcoming changes
 
