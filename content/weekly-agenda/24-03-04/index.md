@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 4th of March 2024 week
-date: 2024-02-22T12:22:32.465Z
+date: 2024-03-01T02:22:32.465Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -53,7 +53,6 @@ Demos this time
 * [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia -  Calling Microsoft Graph APIs from bot powered Viva Connection ACEs
 * [Guido Zambarda](https://twitter.com/iamguidozam) (PiaSys)  | @IAmGuidoZam - Navigating the property pane in SPFx
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -64,6 +63,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Running processes in the cloud with CLI for Microsoft 365](https://www.youtube.com/watch?v=y0CE-j_NP80) by [Albert-Jan Schot](https://twitter.com/appieschot)  (Blis Digital) | @appieschot
 * [Building your first bot powered Viva Connection ACE experience](https://www.youtube.com/watch?v=oAojYDcuAoM) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Extend Copilot for Microsoft 365: Ingest community samples using JavaScript and Node.js](https://www.youtube.com/watch?v=zOATaHTAe8I) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm
 * [Changes to the Website tab in the Microsoft Teams client](https://www.youtube.com/watch?v=CRMLmgw1Z2w&t=276s) by Loki Meyenburg (Microsoft)
@@ -92,14 +92,12 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Dev Proxy v0.15 with simulating CRUD APIs secured with Microsoft Entra](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-15-with-simulating-crud-apis-secured-with-microsoft-entra/) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Word JavaScript API 1.7 requirement set now available](https://devblogs.microsoft.com/microsoft365dev/word-javascript-api-1-7-requirement-set-now-available/) by Wang Yun (Microsoft)
 
-
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [CLI for Microsoft 365 v7.5](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v7-5/) by [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 * [Microsoft 365 PnP Weekly - Episode 238 - Brett Lonsdale](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-238/) with [Brett Lonsdale](https://twitter.com/lightningtools) (LightningTools) | @lightningtools
-
 
 **Interested on contributing to this blog??** - [See details](https://pnp.github.io/blog/post/contribute-blog/) and let's get your content promoted.
 
@@ -109,8 +107,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 29th of February, 2024](https://www.youtube.com/watch?v=KiyqVGpPTxY)
 * [Microsoft 365 & Power Platform weekly call – 27th of February, 2024](https://www.youtube.com/watch?v=93EX-fqurZk)
-
 
 ---
 
@@ -151,10 +149,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 
-* [Digital Workplace Conference New Zealadn](https://www.communitydays.org/event/2024-02-27/digital-workplace-conference-new-zealand) - February 26-28, 2024 - Christchurch, New Zealand
-* [Exchange Summit](https://www.communitydays.org/event/2024-02-29/exchange-summit) - February 29, 2024 - Würzburg, Germany
-* [Knoxville Microsoft 365 Community Day](https://www.communitydays.org/event/2024-02-29/knoxville-microsoft-365-community-day) - February 29 - March 1, 2024 - Friendsville, USA
-* [CollabDays Utah](https://www.communitydays.org/event/2024-03-01/collabdays-utah) - March 1-2, 2024 - Sandy, Utah, USA
 * [Copilot Days 2024](https://www.communitydays.org/event/2024-03-08/copilot-days-2024), March 8, 2024 - Madrid, Spain
 * [Canadian Power Platform Summit](https://www.communitydays.org/event/2024-03-15/canadian-power-platform-summit) - March 15-16, 2024 - Vancouver, Canada
 * [Dynamics User Group Pacific NorthWest Regional Meetup](https://www.communitydays.org/event/2024-03-15/dynamics-user-group-pacific-northwest-regional-meetup) - March 15-16, 2024 - Redmond, WA, USA
