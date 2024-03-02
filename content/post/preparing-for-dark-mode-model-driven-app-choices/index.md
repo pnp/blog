@@ -41,7 +41,7 @@ The standard approach to readability and contrast is the WCAG AA and AAA standar
 
 The reason why pastel (light/pale) colours are favoured in the current light mode is that they enable the contrast ratios for choice colours to meet AAA level.
 
-A contrast checker tool such as https://webaim.org/resources/contrastchecker/ can be used to check contrast ratios.
+A contrast checker tool such as from [WebAIM](https://webaim.org/resources/contrastchecker/) can be used to check contrast ratios.
 
 For example, the green in the below has the hex colour code #79f571, which has a contrast of 15.11:1, well above the 7:1 threshold for AAA.
 
@@ -93,7 +93,7 @@ These give:
 
 ![Bright colours light](images/mid-bright-view.png)![Bright colours dark](images/mid-bright-view-dark.png)
 
-### The Gotcha!
+### The Gotcha
 
 The bright colours look reasonable in dark mode, but not in light mode.
 
