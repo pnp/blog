@@ -15,6 +15,7 @@ tags:
   - PnP PowerShell
   - Microsoft Teams
   - SharePoint
+  - Graph
 type: popular
 ---
 
