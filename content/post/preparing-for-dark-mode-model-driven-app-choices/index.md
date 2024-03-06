@@ -1,10 +1,6 @@
 ---
 title: "Preparing for Dark Mode - Model-Driven App Choices"
-<<<<<<< HEAD
-date: 2025-02-09T08:00:00-00:00
-=======
 date: 2024-03-11T08:00:00-00:00
->>>>>>> 9e6fbfaa540a1beca842e5bf1b5c76f667294c19
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
