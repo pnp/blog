@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 11th of March 2024 week
-date: 2024-03-01T02:22:32.465Z
+date: 2024-03-08T02:22:32.465Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -31,7 +31,7 @@ This is the agenda for the upcoming week:
 Demos this time
 
 * [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – Extend Copilot for Microsoft 365: Advanced plug-ins considerations - case Northwind
-* Marc Windle (Microsoft) - Build real-time, collaborative apps with Fluid on SharePoint Embedded
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - Build real-time, collaborative apps with Fluid on SharePoint Embedded
 * [Raja Ahmed Sajjad](https://twitter.com/AhmedRajaSpeaks) (Microsoft) | @AhmedRajaSpeaks - Creating a Microsoft Teams Healthcare Application
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -49,8 +49,8 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos this time
 
 * [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston - Automating SharePoint Premium Document Translation
-* Shrushti Shah (Rapid Circle) - How to create automated AI Approvals
-* Nite Dan (BA Glass) - How to build an AI powered workflow to manage large SharePoint libraries
+* [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle) - How to create automated AI Approvals
+* [Nite Dan](https://www.linkedin.com/in/nitedan/) (BA Glass) - How to build an AI powered workflow to manage large SharePoint libraries
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -62,6 +62,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Try campaigns in Viva Engage](https://www.youtube.com/watch?v=TqANhh9pgls) by [Allison Michels](https://www.youtube.com/watch?v=TqANhh9pgls) (Microsoft)
+* [JustAskIt - Consultants toolkit with OpenAI and model-driven app](https://www.youtube.com/watch?v=zJuwddLU7jg) by [Jon Russell](https://twitter.com/jondoesflow) (ANS Group) | @jondoesflow & [Mike Gowland](https://twitter.com/gogocrabman) (ANS Group) | @gogocrabman
 * [Getting started with the PnP Modern Search web parts](https://www.youtube.com/watch?v=Nc9MfiJ7usA) by [Kasper Bo Larsen](https://twitter.com/kasperbolarsen) (Fellowmind Denmark) | @kasperbolarsen
 * [Inside planning for the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=jXdRmpRXxAw) by [Mark Kashman](https://twitter.com/MKashman) (Microsoft) | @MKashman
 * [Extend Copilot for Microsoft 365: Document Search plugin sample](https://www.youtube.com/watch?v=bAtopDhZI3Y) by [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
@@ -74,7 +76,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 * [Add intelligence into your apps with Dataverse AI functions](https://www.youtube.com/watch?v=5kFqjle7Mh8)
 * [Create a Canvas App from an Excel File | Get Started with Power Shorts](https://www.youtube.com/watch?v=IgpI0SNJmg0)
 * [Credentials in Power Automate - Effortless password rotations](https://www.youtube.com/watch?v=Meqw4d_GMP8)
-
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -106,6 +107,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft 365 & Power Platform weekly call – 5th of March, 2024](https://www.youtube.com/watch?v=PBMKgLuQPbc)
+* [PnP PowerShell v2.4.0](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v2-4-0/) by [Gautam Seth](https://twitter.com/gautamdsheth) (Staffbase) | @gautamdsheth
 
 ---
 
