@@ -59,19 +59,19 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ## Summary of extensibility options in Power Apps
 
-![Extensibility options in Power Apps](./images/PowerApps.png)
+![Extensibility options in Power Apps](./images/PowerApps2.png)
 
 In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (cient-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
 
 |||Canvas Apps|Model-driven Apps|[Custom Pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/design-page-for-model-app)|Power Pages|
 |-|-|-|-|-|-|
-|[Formulas - Power Apps](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference) |Power Fx|✅|✅|✅|❌|
-|[Script web resources](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/webpage-html-web-resources) |JavaScript |❌|✅|❌|❌|
-|[Low-code canvas components](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)<sup>*</sup> and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
-|[Low-code plugins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant) <sup>Preview</sup>|Power Fx, Connectors|✅|👉|✅|❌|
-|[PowerApps component framework](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview) (PCF)|Typescript |✅|✅|✅|✅|
-|[React controls & platform libraries](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries) <sup>Preview</sup>|TypeScript |✅|✅|✅|❌|
-|[Custom connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/) |openAPI  |✅|👉|✅|❌|
+|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅|✅|❌|
+|[Script web resources](#web-resources-with-javascript) |JavaScript |❌|✅|❌|❌|
+|[Low-code canvas components](#low-code-canvas-components-using-power-fx) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)<sup>*</sup> and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors|✅|👉|✅|❌|
+|[PowerApps component framework](#powerapps-component-framework-pcf-using-typescript) (PCF)|Typescript |✅|✅|✅|✅|
+|[React controls & platform libraries](#react-controls-using-typescript--react-⭐s) <sup>Preview</sup>|TypeScript |✅|✅|✅|❌|
+|[Custom connectors](#custom-connectors-with-rest-api) |openAPI  |✅|👉|✅|❌|
 |[Custom webpage templates](https://learn.microsoft.com/en-us/power-pages/configure/web-templates)|HTML, CSS, Liquid  |❌|❌|❌|✅|
 
 <sup> *Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.</sup>
@@ -103,7 +103,7 @@ Read more: [Web resources](https://learn.microsoft.com/en-us/power-apps/develope
 - Web resources and IFRAMEs
 - Sitemap
 
->[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](Dataverse.md) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
+>[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](Dataverse.md#business-rules) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
 Like all web resources, JavaScript web resources [use the model-driven apps security context](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources). Only licensed users who have the necessary privileges can access them.
 
 **Constraints and limitations**:  **Web resource do not support capabilities of an ASP.NET(.aspx)** pages to execute **code on the server**. They are **limited to static files**  or files that are **processed in the browser**.
@@ -194,12 +194,4 @@ Custom connectors are **not supported in Power Pages**. However, you can use **D
 [Custom  connector FAQ for Azure Logic Apps, Power Automate, and Power Apps](https://learn.microsoft.com/en-us/connectors/custom-connectors/faq)
 
 [Known  limitations](https://learn.microsoft.com/en-us/connectors/custom-connectors/customconnectorssolutions#known-limitations)
-
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. **Power Apps**
-1. [Power Automate](./PowerAutomate.md)
-1. [Dataverse](Dataverse.md)
-
 

@@ -38,7 +38,7 @@ Tables in Dataverse can use rich server-side logic and validation to ensure data
 
 ## Summary of extensibility options in Dataverse
 
-![Extensibility options in Dataverse](./images/Dataverse.png)
+![Extensibility options in Dataverse](./images/Dataverse2.png)
 
 ## Formula  columns using Power Fx
 
@@ -185,10 +185,3 @@ You can  use custom APIs without any synchronous logic that exist to only to  no
 
 Custom  events can represent events that occur in external systems. See [External  Events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events#external-events) for additional considerations
 
-
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. [Power Apps](powerApps.md)
-1. [Power Automate](./PowerAutomate.md)
-1. **Dataverse**

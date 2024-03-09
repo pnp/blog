@@ -39,12 +39,15 @@ Don't underestimate the power of **Power Fx**. It's getting better and better, a
 
 The following summary outlines existing options for implementing business logic, encompassing low-code solutions such as custom canvas components or business rules, as well as pro-code options like React components, add-ins, and more.
 
-The following sections present the available options in more detail, outlining differences and whenever applicable, the limitations.
-
 ![Extensibility options](./images/Summary.png)
 
-For a detailed summary of the above options, see the following articles:
+## Deep dive
+
+![Extensibility options](./images/Extensibility2.png)
+
+The sections that follow present available options in more detail, outlining differences and whenever applicable, the limitations.
 
 - [Power Apps](powerApps.md)
 - [Power Automate](./PowerAutomate.md)
 - [Dataverse](Dataverse.md)
+

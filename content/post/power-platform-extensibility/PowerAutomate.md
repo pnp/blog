@@ -33,19 +33,19 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 ## Summary of extensibility options in Power Automate
 
-![Extensibility options in Power Automate](./images/PowerAutomate.png)
+![Extensibility options in Power Automate](./images/PowerAutomate2.png)
 
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|
-|[Formulas - Power Apps](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference) |Power Fx|✅|✅<sup>Preview</sup>|❌|❌|
-|[Low-code plugins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant) <sup>Preview</sup>|Power Fx, Connectors |✅|❌|❌|❌|
-|[Custom process action](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions)|declarative|✅|❌|✅*|✅|
-|[Custom API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-actions#compare-custom-process-action-and-custom-api) |.NET|✅|❌|❌|✅|
-|[workflow activities/assemblies](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow/workflow-extensions)|.NET|✅|❌|✅|✅|
-|[Custom connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/) |REST API|✅|✅|✅**|❌|
-|[Office Scripts in Excel](https://learn.microsoft.com/en-us/office/dev/scripts/overview/excel)|TypeScript|✅|❌|❌|❌|
-|[Custom actions for Power Automate for Desktop](https://learn.microsoft.com/en-us/power-automate/desktop-flows/create-custom-actions)|.NET|❌|✅|❌|❌|
-|[Custom script](https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/scripting) in Desktop flows|DOS command<br/>VBScript***<br/>JavaScript<br/>PowerShell<br/>Python<br/>.NET<br/>|❌|✅|❌|❌|
+|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅<sup>Preview</sup>|❌|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors |✅|❌|❌|❌|
+|[Custom process action](#custom-process-actions-declarative))|declarative|✅|❌|✅*|✅|
+|[Custom API](#custom-api-using-net) |.NET|✅|❌|❌|✅|
+|[workflow activities/assemblies](#workflow-activitiesassemblies)|.NET|✅|❌|✅|✅|
+|[Custom connectors](#custom-connectors-using-rest-api) |REST API|✅|✅|✅**|❌|
+|[Office Scripts in Excel](#office-script-in-excel-using-typescript)|TypeScript|✅|❌|❌|❌|
+|[Custom actions for Power Automate for Desktop](#custom-actions-for-power-automate-for-desktop-using-net)|.NET|❌|✅|❌|❌|
+|[Custom script](#custom-script-in-desktop-flows) in Desktop flows|DOS command<br/>VBScript***<br/>JavaScript<br/>PowerShell<br/>Python<br/>.NET<br/>|❌|✅|❌|❌|
 
 
 <sup>* To allow business process flow execute the custom process action, define table entity and enable "As a Business Process Flow" in action properties</sup><br/>
@@ -90,7 +90,7 @@ Read more: [Custom  process action](https://learn.microsoft.com/en-us/power-apps
 The  business logic of a custom process action is implemented using a workflow.  When you create a custom process action, the associated real-time workflow is  automatically registered to execute in the main operation stage of the  message execution pipeline.
 They  are stored in Dataverse and may use a context of a table, or be defined as global.
 
-See [Dataverse](Dataverse.md) page for a more details.
+See [Dataverse](Dataverse.md#custom-process-actions) page for a more details.
 
 **Constraints and limitations**: To allow business process flow execute the custom process action, define table  entity and enable **As a Business Process Flow** in action properties
 
@@ -100,7 +100,7 @@ Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/
 
 **Description**: Custom  API is a newer way to define custom messages with many advantages for  developers. If you do not intend to use the no-code capabilities that custom  process actions provide to configure business logic, custom API provides  better capabilities for developers to create their own messages.
 
-See [Dataverse](Dataverse.md) page for a more details.
+See [Dataverse](Dataverse.md#custom-api-using-net) page for a more details.
 
 **Constraints and limitations**: [Compare Custom Process Action and custom API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-actions#compare-custom-process-action-and-custom-api)
 
@@ -110,7 +110,7 @@ Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/po
 
 **Description**:  As  reusable components, workflow extensions can be added to any workflow or  custom action.
 
-See [Dataverse](Dataverse.md) page for a more details.
+See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a more details.
 
 ## Custom  connectors using REST  API
 
@@ -178,10 +178,3 @@ Read more: [Custom  script in Desktop flows](https://learn.microsoft.com/en-us/p
 * VBScript is deprecated from Windows. In future releases of Windows, VBScript will be available as a [feature on demand](https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features-resources#vbscript) before its removal from the operating system
 
 **Constraints and limitations**: To prevent unauthorized access, Windows require administrator  rights to access protected resources. To access protected resources (such as files) using the scripting actions, run Power Automate with administrator  rights.
-
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. [Power Apps](powerApps.md)
-1. **Power Automate**
-1. [Dataverse](Dataverse.md)
