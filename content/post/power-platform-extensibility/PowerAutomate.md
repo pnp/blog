@@ -39,9 +39,9 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 |-|-|-|-|-|-|
 |[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅<sup>Preview</sup>|❌|❌|
 |[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors |✅|❌|❌|❌|
-|[Custom process action](#custom-process-actions-declarative))|declarative|✅|❌|✅*|✅|
+|[Custom process action](#custom-process-actions-declarative)|declarative|✅|❌|✅*|✅|
 |[Custom API](#custom-api-using-net) |.NET|✅|❌|❌|✅|
-|[workflow activities/assemblies](#workflow-activitiesassemblies)|.NET|✅|❌|✅|✅|
+|[Workflow activities/assemblies](#workflow-activitiesassemblies)|.NET|✅|❌|✅|✅|
 |[Custom connectors](#custom-connectors-using-rest-api) |REST API|✅|✅|✅**|❌|
 |[Office Scripts in Excel](#office-script-in-excel-using-typescript)|TypeScript|✅|❌|❌|❌|
 |[Custom actions for Power Automate for Desktop](#custom-actions-for-power-automate-for-desktop-using-net)|.NET|❌|✅|❌|❌|
@@ -94,7 +94,7 @@ See [Dataverse](Dataverse.md#custom-process-actions) page for a more details.
 
 **Constraints and limitations**: To allow business process flow execute the custom process action, define table  entity and enable **As a Business Process Flow** in action properties
 
-## Custom  API using .NET
+## Custom API using .NET
 
 Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api)
 
@@ -112,7 +112,7 @@ Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/po
 
 See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a more details.
 
-## Custom  connectors using REST  API
+## Custom connectors using REST  API
 
 Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors)
 
@@ -126,7 +126,7 @@ New  connectors-both Mirosoft  first party and third party-are added constantly,
 
 [Known  limitations](https://learn.microsoft.com/en-us/connectors/custom-connectors/customconnectorssolutions#known-limitations)
 
-## Office  Script in Excel using TypeScript
+## Office Script in Excel using TypeScript
 
 Read more: [Office  Script in Excel](https://learn.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration?tabs=run-script)
 
@@ -149,7 +149,7 @@ Requests and responses in Excel are limited  to  **5MB**, and the maximum size o
 [Power  Automate specific restrictions](https://learn.microsoft.com/en-us/office/dev/scripts/testing/platform-limits?tabs=business#power-automate-specific-restrictions)
 [TypeScript  restrictions in Office Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/develop/typescript-restrictions)
 
-## Custom  actions for Power Automate for Desktop using .NET
+## Custom actions for Power Automate for Desktop using .NET
 
 Read more: [Custom  actions for Power Automate for Desktop](https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions)
 
@@ -162,7 +162,7 @@ Read more: [Custom  actions for Power Automate for Desktop](https://learn.micros
 
   [Known  limitations](https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions#known-limitations)
 
-## Custom  script in Desktop flows
+## Custom script in Desktop flows
 
 Read more: [Custom  script in Desktop flows](https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/scripting)
 
