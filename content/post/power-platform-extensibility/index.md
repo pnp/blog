@@ -15,7 +15,7 @@ type: "regular"
 ## Contents
 
 1. **Power Platform extensibility options** (this page)
-1. [Power Apps](PowerApps.md)
+1. [Power Apps](powerApps.md)
 1. [Power Automate](./PowerAutomate.md)
 1. [Dataverse](Dataverse.md)
 

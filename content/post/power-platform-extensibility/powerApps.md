@@ -76,7 +76,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 
 <sup> *Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.</sup>
 
-### Formulas using Power Fx
+## Formulas using Power Fx
 
 Read more: [Formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference-overview)
 
@@ -91,7 +91,7 @@ Read more: [Formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/
 
 In model-driven apps, Power Fx can be [used in custom pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/page-powerfx-in-model-app) to add notifications and navigate between pages. Custom pages are a new feature with significant product changes. Refer to [Known issues with custom pages in a model-driven app](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/model-app-page-issues) for information on current limitations.
 
-### Web resources with JavaScript
+## Web resources with JavaScript
 
 Read more: [Web resources](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/web-resources)
 
@@ -103,7 +103,7 @@ Read more: [Web resources](https://learn.microsoft.com/en-us/power-apps/develope
 - Web resources and IFRAMEs
 - Sitemap
 
->[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** (described later in the [Dataverse](Dataverse.md) section) first because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
+>[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](Dataverse.md) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
 Like all web resources, JavaScript web resources [use the model-driven apps security context](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources). Only licensed users who have the necessary privileges can access them.
 
 **Constraints and limitations**:  **Web resource do not support capabilities of an ASP.NET(.aspx)** pages to execute **code on the server**. They are **limited to static files**  or files that are **processed in the browser**.
@@ -112,7 +112,7 @@ The maximum size of files that can be uploaded is determined by the `Organizatio
 
 Source: [Limitations of web resources](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/web-resources#limitations-of-web-resources)
 
-### Low-code canvas components using Power Fx
+## Low-code canvas components using Power Fx
 
 Read more: [Low-code canvas components](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component)
 
@@ -123,7 +123,7 @@ Canvas components can also be used in model-driven apps using custom pages and  
 
 [Known limitations](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component#known-limitations)
 
-### Low-code Plug-ins using Power Fx
+## Low-code Plug-ins using Power Fx
 
 Read more: [Low-code Plug-ins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant)
 
@@ -136,7 +136,7 @@ Running server-side, they reduce client-side workload. [Benefits of server-side 
 
 Use of low-code plugins in your solution requires Premium licenses. [Limitations](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#limitations)
 
-### PowerApps component framework (PCF) using TypeScript
+## PowerApps component framework (PCF) using TypeScript
 
 Read more: [PowerApps component framework (PCF)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview)
 
@@ -164,7 +164,7 @@ Code components can be classified into two types:
 Code  components should **bundle all the code  including external library** content into the primary code bundle. They should not use the HTML web storage objects, Data  stored locally on the user's browser or mobile client is not secure and not  guaranteed to be available reliably.
 Source: [Limitations  of Power Apps component framework - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/limitations)
 
-### React controls using TypeScript + React ⭐
+## React controls using TypeScript + React ⭐
 
 Read more: [React  controls & platform libraries (preview)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries)
 
@@ -178,10 +178,9 @@ Microsoft  expects this approach to **become the preferred way**, with all Power
 
 **Constraints and limitations**:  React controls & platform libraries are **currently** [not supported for Power Pages](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq)
 
-### Custom  connectors with REST API
+## Custom  connectors with REST API
 
 Read more:[Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/)
-
 
 **Description**:  Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure Functions or Azure API Management.
 
