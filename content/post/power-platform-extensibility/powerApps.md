@@ -70,7 +70,7 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 |[Low-code canvas components](#low-code-canvas-components-using-power-fx) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)<sup>*</sup> and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
 |[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors|✅|👉|✅|❌|
 |[PowerApps component framework](#powerapps-component-framework-pcf-using-typescript) (PCF)|Typescript |✅|✅|✅|✅|
-|[React controls & platform libraries](#react-controls-using-typescript--react-⭐s) <sup>Preview</sup>|TypeScript |✅|✅|✅|❌|
+|[React controls & platform libraries](#react-controls-using-typescript--react) <sup>Preview</sup>|TypeScript |✅|✅|✅|❌|
 |[Custom connectors](#custom-connectors-with-rest-api) |openAPI  |✅|👉|✅|❌|
 |[Custom webpage templates](https://learn.microsoft.com/en-us/power-pages/configure/web-templates)|HTML, CSS, Liquid  |❌|❌|❌|✅|
 
@@ -165,7 +165,7 @@ Code components can be classified into two types:
 Code  components should **bundle all the code  including external library** content into the primary code bundle. They should not use the HTML web storage objects, Data  stored locally on the user's browser or mobile client is not secure and not  guaranteed to be available reliably.
 Source: [Limitations  of Power Apps component framework - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/limitations)
 
-## React controls using TypeScript + React ⭐
+## React controls using TypeScript + React
 
 Read more: [React  controls & platform libraries (preview)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries)
 
