@@ -142,7 +142,6 @@ Use of low-code plugins in your solution requires Premium licenses.
 
 Read more: [PowerApps component framework (PCF)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview)
 
-
 **Description**: Used to **enhance the user experience** in **forms, views, dashboards, and canvas app**  screens. For example:
 - replace a column on a form that displays a numeric text value with a dial or slider code component. (`FIELD`)
 - transform a list into an entirely different visual experience bound to the dataset, like a Calendar or Map. (`DATASET`)
@@ -196,6 +195,11 @@ Custom connectors are **not supported in Power Pages**. However, you can use **D
 
 [Known  limitations](https://learn.microsoft.com/en-us/connectors/custom-connectors/customconnectorssolutions#known-limitations)
 
+## Contents
 
+1. [Power Platform extensibility options](index.md)
+1. **Power Apps**
+1. [Power Automate](./PowerAutomate.md)
+1. [Dataverse](Dataverse.md)
 
 
