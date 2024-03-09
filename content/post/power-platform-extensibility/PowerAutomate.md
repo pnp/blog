@@ -112,7 +112,7 @@ Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/po
 
 See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a more details.
 
-## Custom connectors using REST  API
+## Custom connectors using REST API
 
 Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors)
 
