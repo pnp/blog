@@ -130,11 +130,13 @@ Read more: [Low-code Plug-ins](https://learn.microsoft.com/en-us/power-apps/make
 **Description**:  With the low-code plug-ins, you can create plug-ins with minimal or no coding  required, and without the need for compiling solution and manual registration.
 
 Low-code  plug-ins are stored within a Dataverse database and can be seamlessly  integrated into Power Apps and Power Automate. They are defined using the Power Fx expression language and can directly connect   with Dataverse business data and external data sources through Power Platform connectors.
-Running server-side, they reduce client-side workload. [Benefits of server-side logic](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#benefits-of-server-side-logic)
+Running **server-side, they reduce client-side workload**. [Benefits of server-side logic](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#benefits-of-server-side-logic)
 
 **Constraints and limitations**:   Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
 
-Use of low-code plugins in your solution requires Premium licenses. [Limitations](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#limitations)
+Use of low-code plugins in your solution requires Premium licenses.
+
+[Limitations](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#limitations)
 
 ## PowerApps component framework (PCF) using TypeScript
 
@@ -174,13 +176,13 @@ By  re-using the existing platform React and Fluent libraries, you can expect th
 - Optimized solution packaging
 - Faster runtime transfer, scripting and control rendering
 
-Microsoft  expects this approach to **become the preferred way**, with all Power Apps code components being created this way after  this feature reaches general availability. [Create  your first component](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript)
+Microsoft  expects this approach to **become the preferred way**⭐, with all Power Apps code components being created this way after  this feature reaches general availability. [Create  your first component](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript)
 
 **Constraints and limitations**:  React controls & platform libraries are **currently** [not supported for Power Pages](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq)
 
 ## Custom  connectors with REST API
 
-Read more:[Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/)
+Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/)
 
 **Description**:  Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure Functions or Azure API Management.
 
