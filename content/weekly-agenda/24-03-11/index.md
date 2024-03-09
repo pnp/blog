@@ -48,7 +48,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston - Automating SharePoint Premium Document Translation
+* [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston - Automation in SharePoint Premium
 * [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle) - How to create automated AI Approvals
 * [Nite Dan](https://www.linkedin.com/in/nitedan/) (BA Glass) - How to build an AI powered workflow to manage large SharePoint libraries
 
