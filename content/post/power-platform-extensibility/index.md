@@ -1,5 +1,5 @@
 ---
-title: "Power Platform? I'm a developer!"
+title: "Power Platform? I'm aPower Platform extensibility options"
 date: 2024-02-18T08:40:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
@@ -10,16 +10,18 @@ tags: []
 type: "regular"
 ---
 
-## Power Platform extensibility
+# Power Platform extensibility
 
-### Contents
+## Contents
 
-1. **Power Platform? I'm a developer!**
+1. **Power Platform extensibility options** (this page)
 1. [Power Apps](PowerApps.md)
 1. [Power Automate](./PowerAutomate.md)
 1. [Dataverse](Dataverse.md)
 
-When building Power Platform solutions, we should first evaluate Platform capabilities and use as much of low-code as possible.
+
+## Don't code if you don't need to
+When building Power Platform solutions, first evaluate Platform capabilities and use as much of low-code as possible.
 This means learning which controls are available, how to use [Power Fx](https://learn.microsoft.com/en-us/power-platform/power-fx/overview) (if you ever wrote Excel formula, you will feel at home), deciding which parts of business logic should be executed client-side, and when it's time to use Power Automate or other capabilities instead.
 
 Make sure you are familiar with [Where to place logic: Canvas apps, model-driven apps, Microsoft Dataverse, or Power Automate flows?](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic) and keep an eye on the [Release plans for Dynamics 365, Power Platform, and Cloud for Industry - Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/release-plans/)⭐ to learn about new features as they are prepared for release.
@@ -29,9 +31,9 @@ Microsoft Power Platform often implements something in a particular way that ben
 >
 >Source: [Determine when to configure or when to code](https://learn.microsoft.com/en-us/training/modules/introduction-power-platform-extend/configure-code)
 
-But what happens if, after extensive evaluation, you see that the existing controls or declarative process don't meet your requirements? Depending on [where you want to place your logic](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic), you may start coding using either **Power Fx**, **Typescript** or **.NET**.
+If, after extensive evaluation, you see that the existing controls or declarative process don't meet your needs, you may start coding using either **Power Fx**, **Typescript** or **.NET**. The choice of technologiy will depend on [where you want to place your logic](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic).
 
-Yes, _"coding in Power Fx"_. It's getting better and better, and is now offering [error handling](https://learn.microsoft.com/en-us/power-platform/power-fx/error-handling) (preview feature at the time of writing), [named formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/object-app#formulas-property), [assertions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-assert), [regular expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch), etc (always ensure that the feature you want to use is generally available, because experimental and preview features are not meant for production).
+Don't underestimate the power of **Power Fx**. It's getting better and better, and is now offering [error handling](https://learn.microsoft.com/en-us/power-platform/power-fx/error-handling) (preview feature at the time of writing), [named formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/object-app#formulas-property), [assertions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-assert), [regular expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch), etc. Always ensure that the feature you want to use is generally available, because experimental and preview features are not meant for production.
 
 ## Extensibility options
 
