@@ -179,7 +179,7 @@ Microsoft  expects this approach to **become the preferred way**⭐, with all Po
 
 **Constraints and limitations**:  React controls & platform libraries are **currently** [not supported for Power Pages](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq)
 
-## Custom  connectors with REST API
+## Custom connectors with REST API
 
 Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/)
 
