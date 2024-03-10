@@ -79,9 +79,9 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 |[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅|✅|❌|
 |[Script web resources](#web-resources-with-javascript) |JavaScript |❌|✅|❌|❌|
 |[Low-code canvas components](#low-code-canvas-components-using-power-fx) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)* and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
-|[Low-code plugins](#low-code-plug-ins-using-power-fx) (preview)|Power Fx, Connectors|✅|👉|✅|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx) |Power Fx, Connectors|✅|👉|✅|❌|
 |[PowerApps component framework](#powerapps-component-framework-pcf-using-typescript) (PCF)|Typescript |✅|✅|✅|✅|
-|[React controls & platform libraries](#react-controls-using-typescript--react) (preview)|TypeScript |✅|✅|✅|❌|
+|[React controls & platform libraries](#react-controls-using-typescript--react) |TypeScript |✅|✅|✅|❌|
 |[Custom connectors](#custom-connectors-with-rest-api) |openAPI  |✅|👉|✅|❌|
 |[Custom webpage templates](https://learn.microsoft.com/en-us/power-pages/configure/web-templates)|HTML, CSS, Liquid  |❌|❌|❌|✅|
 
@@ -91,14 +91,16 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 
 Read more: [Formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference-overview)
 
-**Description**: Formulas combine many elements, for example:
+Formulas combine many elements, for example:
 
 - **Functions:** take parameters, perform an operation, and return a value. Functions are modeled after Microsoft Excel functions. Some functions have side effects, such as `SubmitForm`, which are appropriate only in a [behavior formula](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas-in-depth) such as `Button.OnSelect`.
 - **Signals** return information about the environment. For example, [Location](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/signals) returns the device's current GPS coordinates. Signals don't take parameters or have side effects.
 - **Enumerations** return a pre-defined constant value. For example, [Color](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-colors) is an enumeration that has pre-defined values for `Color.Red`, `Color.Blue`, and so forth.
 - **Named operators**, such as [ThisItem](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#thisitem-thisrecord-and-as-operators) and [Self](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#self-and-parent-operator), provide access to information from within a container.
 
-**Constraints and limitations**: Not all functions area available in all Power Platform components. See [Formula reference - Power Apps - Power Platform | Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference) for a list of formulas available in Power Apps.
+### Constraints and limitations
+
+Not all functions area available in all Power Platform components. See [Formula reference - Power Apps - Power Platform | Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference) for a list of formulas available in Power Apps.
 
 In model-driven apps, Power Fx can be [used in custom pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/page-powerfx-in-model-app) to add notifications and navigate between pages. Custom pages are a new feature with significant product changes. Refer to [Known issues with custom pages in a model-driven app](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/model-app-page-issues) for information on current limitations.
 
@@ -106,7 +108,7 @@ In model-driven apps, Power Fx can be [used in custom pages](https://learn.micro
 
 Read more: [Web resources](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/web-resources)
 
-**Description**: You can use JavaScript in the following areas of **model-driven apps:**
+You can use JavaScript in the following areas of **model-driven apps:**
 
 - Form Script event handlers: a form loads, data is changed in a column or an item within the form, data is saved in a form
 - Command bar (ribbon) commands
@@ -117,7 +119,9 @@ Read more: [Web resources](https://learn.microsoft.com/en-us/power-apps/develope
 >[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](Dataverse.md#business-rules) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
 Like all web resources, JavaScript web resources [use the model-driven apps security context](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources). Only licensed users who have the necessary privileges can access them.
 
-**Constraints and limitations**:  **Web resource do not support capabilities of an ASP.NET(.aspx)** pages to execute **code on the server**. They are **limited to static files**  or files that are **processed in the browser**.
+### Constraints and limitations
+
+ **Web resource do not support capabilities of an ASP.NET(.aspx)** pages to execute **code on the server**. They are **limited to static files**  or files that are **processed in the browser**.
 A web resource **can contain code** that is  **processed in the browser** to **execute web service calls** to interact with  Dataverse data.
 The maximum size of files that can be uploaded is determined by the `Organization.MaxUploadFileSize` property. The default setting is `5 MB`.
 
@@ -127,10 +131,12 @@ Source: [Limitations of web resources](https://learn.microsoft.com/en-us/power-a
 
 Read more: [Low-code canvas components](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component)
 
-**Description**:  Components are reusable building blocks for canvas apps so that app makers can create custom controls to use inside an app, or across apps using a [component library](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-library). Components can use advanced features such as custom properties  and enable complex capabilities.
+ Components are reusable building blocks for canvas apps so that app makers can create custom controls to use inside an app, or across apps using a [component library](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-library). Components can use advanced features such as custom properties  and enable complex capabilities.
 Canvas components can also be used in model-driven apps using custom pages and  component library: [Add  canvas components to a custom page in a model-driven app](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/page-canvas-components).
 
-**Constraints and limitations**: You can't add a low-code component inside another low-code component, even when using different types of components. [Component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties) like Function, Action and Event are still experimental at the time of writing.
+### Constraints and limitations
+
+You can't add a low-code component inside another low-code component, even when using different types of components. [Component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties) like Function, Action and Event are still experimental at the time of writing.
 
 [Known limitations](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component#known-limitations)
 
@@ -138,12 +144,14 @@ Canvas components can also be used in model-driven apps using custom pages and  
 
 Read more: [Low-code Plug-ins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant)
 
-**Description**:  With the low-code plug-ins, you can create plug-ins with minimal or no coding  required, and without the need for compiling solution and manual registration.
+ With the low-code plug-ins, you can create plug-ins with minimal or no coding  required, and without the need for compiling solution and manual registration.
 
 Low-code  plug-ins are stored within a Dataverse database and can be seamlessly  integrated into Power Apps and Power Automate. They are defined using the Power Fx expression language and can directly connect   with Dataverse business data and external data sources through Power Platform connectors.
 Running **server-side, they reduce client-side workload**. [Benefits of server-side logic](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#benefits-of-server-side-logic)
 
-**Constraints and limitations**:   Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
+### Constraints and limitations
+
+  Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
 
 Use of low-code plugins in your solution requires Premium licenses.
 
@@ -153,7 +161,7 @@ Use of low-code plugins in your solution requires Premium licenses.
 
 Read more: [PowerApps component framework (PCF)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview)
 
-**Description**: Used to **enhance the user experience** in **forms, views, dashboards, and canvas app**  screens. For example:
+Used to **enhance the user experience** in **forms, views, dashboards, and canvas app**  screens. For example:
 
 - replace a column on a form that displays a numeric text value with a dial or slider code component. (`FIELD`)
 - transform a list into an entirely different visual experience bound to the dataset, like a Calendar or Map. (`DATASET`)
@@ -172,16 +180,18 @@ Code components can be classified into two types:
 
 [Add  code components to a custom page for your model-driven app](https://learn.microsoft.com/en-us/powerapps/maker/model-driven-apps/page-code-components)
 
-**Constraints and limitations**: Microsoft **Dataverse dependent APIs, including WebAPI,**  are [not available](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/reference) for Power Apps **canvas  applications** **_yet_**.
+### Constraints and limitations
+
+Microsoft **Dataverse dependent APIs, including WebAPI,**  are [not available](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/reference) for Power Apps **canvas  applications** **_yet_**.
 
 Code  components should **bundle all the code  including external library** content into the primary code bundle. They should not use the HTML web storage objects, Data  stored locally on the user's browser or mobile client is not secure and not  guaranteed to be available reliably.
 Source: [Limitations  of Power Apps component framework - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/limitations)
 
 ## React controls using TypeScript + React
 
-Read more: [React  controls & platform libraries (preview)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries)
+Read more: [React  controls & platform libraries](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries)
 
-**Description**: React controls use the same infrastructure as the Power Apps platform. This means  you do not have to package React and platform libraries individually for each control. All controls share a common library instance and version to provide  a **seamless and consistent experience**.
+React controls use the same infrastructure as the Power Apps platform. This means  you do not have to package React and platform libraries individually for each control. All controls share a common library instance and version to provide  a **seamless and consistent experience**.
 By  re-using the existing platform React and Fluent libraries, you can expect the  following benefits:
 
 - Reduced control bundle size
@@ -190,17 +200,21 @@ By  re-using the existing platform React and Fluent libraries, you can expect th
 
 Microsoft  expects this approach to **become the preferred way**⭐, with all Power Apps code components being created this way after  this feature reaches general availability. [Create  your first component](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript)
 
-**Constraints and limitations**:  React controls & platform libraries are **currently** [not supported for Power Pages](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq)
+### Constraints and limitations
+
+ React controls & platform libraries are **currently** [not supported for Power Pages](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/react-controls-platform-libraries#faq)
 
 ## Custom connectors with REST API
 
 Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors/)
 
-**Description**:  Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure Functions or Azure API Management.
+ Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure Functions or Azure API Management.
 
 New  connectors, both Microsoft and third party, are  added constantly, and as an administrator you should be aware of new  connectors and ensure they are classified accordingly in your [Data loss prevention (DLP) policies](https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
 
-**Constraints and limitations**:  Power Platform **only supports REST API**,  while Logic Apps also supports SOAP APIs.
+### Constraints and limitations
+
+ Power Platform **only supports REST API**,  while Logic Apps also supports SOAP APIs.
 
 Custom connectors are **not supported in Power Pages**. However, you can use **Dataverse  Dataflows** to render data from a REST API to Power Pages. That data  will then need to either be replicated to Dataverse, or presented as a  Virtual Table.
 

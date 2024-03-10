@@ -49,8 +49,8 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|
-|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅ (preview) |❌|❌|
-|[Low-code plugins](#low-code-plug-ins-using-power-fx) (preview) |Power Fx, Connectors |✅|❌|❌|❌|
+|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅ |❌|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx)  |Power Fx, Connectors |✅|❌|❌|❌|
 |[Custom process action](#custom-process-actions-declarative)|declarative|✅|❌|✅*|✅|
 |[Custom API](#custom-api-using-net) |.NET|✅|❌|❌|✅|
 |[Workflow activities/assemblies](#workflow-activitiesassemblies)|.NET|✅|❌|✅|✅|
@@ -70,26 +70,30 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 Read more: [Formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/formula-reference-overview)
 
-**Description**: Formulas combine many elements, for example:
+Formulas combine many elements, for example:
 
 - **Functions:** take parameters, perform an operation, and return a value. Functions are modeled after Microsoft Excel functions. Some functions have side effects, such as `SubmitForm`, which are appropriate only in a [behavior formula](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas-in-depth) such as `Button.OnSelect`.
 - **Signals** return information about the environment. For example, [Location](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/signals) returns the device's current GPS coordinates. Signals don't take parameters or have side effects.
 - **Enumerations** return a pre-defined constant value. For example, [Color](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-colors) is an enumeration that has pre-defined values for `Color.Red`, `Color.Blue`, and so forth.
 - **Named operators**, such as [ThisItem](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#thisitem-thisrecord-and-as-operators) and [Self](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/operators#self-and-parent-operator), provide access to information from within a container.
 
-**Constraints and limitations**:   Not all  functions area available in all Power Platform components. For example [regular  expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch) like  `IsMatch`,  `Match`, and `MatchAll`  are available in both, Canvas and Model-driven apps but  **not in Power Automate.**
+### Constraints and limitations
+
+  Not all  functions area available in all Power Platform components. For example [regular  expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch) like  `IsMatch`,  `Match`, and `MatchAll`  are available in both, Canvas and Model-driven apps but  **not in Power Automate.**
 
 ## Low-code Plug-ins using Power Fx
 
 Read more: [Low-code  Plug-ins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant)
 
-**Description**:  With the low-code plug-ins, you can create plug-ins with minimal or no coding  required, and without the need for compiling solution and manual registration.
+ With the low-code plug-ins, you can create plug-ins with minimal or no coding  required, and without the need for compiling solution and manual registration.
 
 Low-code  plug-ins are stored within a Dataverse database and can be seamlessly  integrated into Power Apps and Power Automate. They are defined using the Power Fx expression language and can directly connect   with Dataverse business data and external data sources through Power Platform connectors.
 
 >**Idea**: You may use low-code plugins as a way  to execute [regular  expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch) in Power Automate.
 
-**Constraints and limitations**:   Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
+### Constraints and limitations
+
+  Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
 
 Use of low-code plugins in your solution requires Premium licenses.
 
@@ -99,30 +103,34 @@ Use of low-code plugins in your solution requires Premium licenses.
 
 Read more: [Custom  process action](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions)
 
-**Description**: [Custom  process actions](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow-custom-actions), also known as Custom actions, allow creating custom  reusable actions that encapsulate specific business logic, and may be  invoked directly from a workflow.
+[Custom  process actions](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow-custom-actions), also known as Custom actions, allow creating custom  reusable actions that encapsulate specific business logic, and may be  invoked directly from a workflow.
 
 The  business logic of a custom process action is implemented using a workflow.  When you create a custom process action, the associated real-time workflow is  automatically registered to execute in the main operation stage of the  message execution pipeline.
 They  are stored in Dataverse and may use a context of a table, or be defined as global.
 
 See [Dataverse](Dataverse.md#custom-process-actions) page for a more details.
 
-**Constraints and limitations**: To allow business process flow execute the custom process action, define table  entity and enable **As a Business Process Flow** in action properties
+### Constraints and limitations
+
+To allow business process flow execute the custom process action, define table  entity and enable **As a Business Process Flow** in action properties
 
 ## Custom API using .NET
 
 Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api)
 
-**Description**: Custom  API is a newer way to define custom messages with many advantages for  developers. If you do not intend to use the no-code capabilities that custom  process actions provide to configure business logic, custom API provides  better capabilities for developers to create their own messages.
+Custom  API is a newer way to define custom messages with many advantages for  developers. If you do not intend to use the no-code capabilities that custom  process actions provide to configure business logic, custom API provides  better capabilities for developers to create their own messages.
 
 See [Dataverse](Dataverse.md#custom-api-using-net) page for a more details.
 
-**Constraints and limitations**: [Compare Custom Process Action and custom API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-actions#compare-custom-process-action-and-custom-api)
+### Constraints and limitations
+
+[Compare Custom Process Action and custom API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-actions#compare-custom-process-action-and-custom-api)
 
 ## Workflow activities/assemblies
 
 Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow/workflow-extensions)
 
-**Description**:  As  reusable components, workflow extensions can be added to any workflow or  custom action.
+ As  reusable components, workflow extensions can be added to any workflow or  custom action.
 
 See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a more details.
 
@@ -130,11 +138,13 @@ See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a
 
 Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/custom-connectors)
 
-**Description**: Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure  Functions or Azure API Management.
+Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure  Functions or Azure API Management.
 
 New  connectors-both Mirosoft  first party and third party-are added constantly, and as an administrator you should be aware of new  connectors and ensure they are classified accordingly in your [Data loss prevention (DLP) policies](https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
 
-**Constraints and limitations**: Power Platform **only supports REST API**,  while Logic Apps also supports SOAP APIs.
+### Constraints and limitations
+
+Power Platform **only supports REST API**,  while Logic Apps also supports SOAP APIs.
 
 [Custom  connector FAQ for Azure Logic Apps, Power Automate, and Power Apps](https://learn.microsoft.com/en-us/connectors/custom-connectors/faq)
 
@@ -144,11 +154,13 @@ New  connectors-both Mirosoft  first party and third party-are added constantly,
 
 Read more: [Office  Script in Excel](https://learn.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration?tabs=run-script)
 
-**Description**:   Office  Scripts in Excel let you automate your day-to-day tasks. You may record  manual steps, or write your script on your own.
+  Office  Scripts in Excel let you automate your day-to-day tasks. You may record  manual steps, or write your script on your own.
 
 Although  it's meant for editing workbook, you don't have to access Excel contents at  all. Instead, you may use Office Script in Excel to execute your TypeScript  functions, to execute any logic that is not available using Power Fx.
 
-**Constraints and limitations**:   To use [Excel  Online (Business) connector (standard)](https://learn.microsoft.com/en-us/connectors/excelonlinebusiness)
+### Constraints and limitations
+
+  To use [Excel  Online (Business) connector (standard)](https://learn.microsoft.com/en-us/connectors/excelonlinebusiness)
 in Power Automate you must have a [business  license of Microsoft 365](https://learn.microsoft.com/en-us/office/dev/scripts/develop/power-automate-integration?tabs=run-script#:~:text=on%20workbook%20comments.-,Important,-To%20use%20Office)
 
 Excel Scripts may be saved either in [OneDrive or in a SharePoint](https://learn.microsoft.com/en-us/office/dev/scripts/overview/script-storage)
@@ -167,10 +179,12 @@ Requests and responses in Excel are limited  to  **5MB**, and the maximum size o
 
 Read more: [Custom  actions for Power Automate for Desktop](https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions)
 
-**Description**:   Custom  actions exist at the environment level.
+  Custom  actions exist at the environment level.
   Custom  actions developed by your organization and uploaded to the respective  environments can be included in desktop flows and utilized like actions that  belong in the standard library of automation actions.
 
-**Constraints and limitations**:   .dll  files describing Custom actions, their dependency .dll files, and the .cab  files are properly signed with a digital certificate trusted by your
+### Constraints and limitations
+
+  .dll  files describing Custom actions, their dependency .dll files, and the .cab  files are properly signed with a digital certificate trusted by your
   organization. The certificate should also be installed on the device under the trusted root certificate authority where the desktop flow with custom
   action dependencies is modified and/or executed.
 
@@ -180,7 +194,7 @@ Read more: [Custom  actions for Power Automate for Desktop](https://learn.micros
 
 Read more: [Custom  script in Desktop flows](https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/scripting)
 
-**Description**: Scripting  actions enable you to run blocks of code and implement custom behavior in  your desktop flows using:
+Scripting  actions enable you to run blocks of code and implement custom behavior in  your desktop flows using:
 
 - DOS command,
 - VBScript*,
@@ -191,4 +205,6 @@ Read more: [Custom  script in Desktop flows](https://learn.microsoft.com/en-us/p
 
 \* VBScript is deprecated from Windows. In future releases of Windows, VBScript will be available as a [feature on demand](https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features-resources#vbscript) before its removal from the operating system
 
-**Constraints and limitations**: To prevent unauthorized access, Windows require administrator  rights to access protected resources. To access protected resources (such as files) using the scripting actions, run Power Automate with administrator  rights.
+### Constraints and limitations
+
+To prevent unauthorized access, Windows require administrator  rights to access protected resources. To access protected resources (such as files) using the scripting actions, run Power Automate with administrator  rights.

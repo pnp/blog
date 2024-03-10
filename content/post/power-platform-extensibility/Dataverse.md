@@ -19,7 +19,7 @@ type: "regular"
 
 ## Where to place logic
 
-Dataverse offers many capabilities for configuring custom business logic without the need for coding. For developers, the primary focus often lies in bridging gaps between existing features when required functionality is not readily available.
+Dataverse offers many capabilities for configuring custom business logic without coding. For developers, the primary focus often lies in bridging gaps between existing features, when required functionality is not readily available.
 
 Dataverse provides a number of options to extend the functionality using code, typically triggered by events that occur on the server.  Therefore, familiarity with the [Event Framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) is essential for effectively implementing these extensions.
 
@@ -56,22 +56,26 @@ Tables in Dataverse can use rich server-side logic and validation, to ensure dat
 
 Read more: [Formula  columns](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/formula-columns)
 
-**Description**: Formula column is a column that derives its value from a formula using other columns  in the same table.
+Formula column is a column that derives its value from a formula using other columns  in the same table.
 
-**Constraints and limitations**: The formula can be defined using the Power Apps editor and can reference other  calculated columns, but not rollup columns. Calculated  columns are read-only and their values are calculated at runtime when the  record is retrieved.
+### Constraints and limitations
+
+The formula can be defined using the Power Apps editor and can reference other  calculated columns, but not rollup columns. Calculated  columns are read-only and their values are calculated at runtime when the  record is retrieved.
 
 They're not specific to the user; the calculation is performed using a system user account, so the values may be based on records that the user doesn't otherwise have privileges to view, such as columns that have field-level security enabled.
 
-[Calculated columns](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/define-calculated-fields) will eventually be  discontinued. It's recommend to use the **Formula columns** for calculations instead.
+> [Calculated columns](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/define-calculated-fields) will eventually be  discontinued. It's recommend to use the **Formula columns** for calculations instead.
 
 ## Rollup  column using Power Fx
 
 Read more: [Rollup  column](https://learn.microsoft.com/en-us/training/modules/create-define-calculation-rollup-fields/1-intro)
 
-**Description**:  Contains  an aggregate value computed over the rows related to a specified row,  can aggregates data from relate  records in another table
+ Contains  an aggregate value computed over the rows related to a specified row,  can aggregates data from relate  records in another table
 In more  complex scenarios, you can aggregate data over the hierarchy of rows.
 
-**Constraints and limitations**: The  rollups are calculated by scheduled system jobs that run asynchronously in the background. Rollup columns are **only  recalculated every hour** by default, but can be scheduled to run daily every x hours.
+### Constraints and limitations
+
+The  rollups are calculated by scheduled system jobs that run asynchronously in the background. Rollup columns are **only  recalculated every hour** by default, but can be scheduled to run daily every x hours.
 
 [Rollup columns benefits and capabilities](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/define-rollup-fields#rollup-columns-benefits-and-capabilities)
 
@@ -81,11 +85,13 @@ In more  complex scenarios, you can aggregate data over the hierarchy of rows.
 
 Read more: [Business  rules](https://learn.microsoft.com/en-us/training/modules/define-create-business-rule)
 
-**Description**:  Business  logic to ensure that columns in a model-driven app are shown, hidden, or set  with the correct values without writing JavaScript code or creating plug-ins.
+ Business  logic to ensure that columns in a model-driven app are shown, hidden, or set  with the correct values without writing JavaScript code or creating plug-ins.
   Define business  rules for a table that apply to all the table forms and at the server  level. Business rules defined for a table apply to both canvas
   apps and model-driven apps if the table is used in the  app.
 
-**Constraints and limitations**:   Not all  business rule actions are available on canvas apps at this time: [Differences  between canvas and model-driven apps](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-create-business-rule#differences-between-canvas-and-model-driven-apps)
+### Constraints and limitations
+
+  Not all  business rule actions are available on canvas apps at this time: [Differences  between canvas and model-driven apps](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-create-business-rule#differences-between-canvas-and-model-driven-apps)
 
 [Create business rules to apply logic in a model-driven app form](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form)
 
@@ -93,11 +99,13 @@ Read more: [Business  rules](https://learn.microsoft.com/en-us/training/modules/
 
 Read more: [Low-code  Plug-ins](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant)
 
-**Description**:   Traditionally,  plug-ins were created as custom classes compiled into a .NET Framework  assembly, which were then uploaded and registered within Dataverse. However,  with the introduction of low-code plug-ins, users can create these event  handlers with minimal or no coding required, and without the need for manual  registration.
+  Traditionally,  plug-ins were created as custom classes compiled into a .NET Framework  assembly, which were then uploaded and registered within Dataverse. However,  with the introduction of low-code plug-ins, users can create these event  handlers with minimal or no coding required, and without the need for manual  registration.
 
 Low-code  plug-ins are stored within a Dataverse database and can be seamlessly  integrated into Power Apps and Power Automate. The behavior of the workflow  is defined using the **Power Fx** expression language and can directly connect with Dataverse business data and  external data sources through Power Platform connectors. With low-code   plug-ins, makers can rapidly construct complex workflows with minimal coding  expertise, resulting in a more streamlined and efficient data architecture.
 
-**Constraints and limitations**: Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
+### Constraints and limitations
+
+Low-code plug-ins are stored within a Dataverse database and are created using [Dataverse accelerator app](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/low-code-plug-ins?tabs=instant#prerequisites-for-creating-a-low-code-plug-in), which must be installed in the environment. All new environments have the Dataverse accelerator app automatically installed as of October 1st 2023.
 
 Use of low-code plugins in your solution requires Premium licenses.
 
@@ -108,7 +116,7 @@ Use of low-code plugins in your solution requires Premium licenses.
 
 Read more: [Dataverse  plugins](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins)
 
-**Description**:  A plug-in is  a custom event handler that executes in response to a specific event raised  during processing of a Microsoft Dataverse data operation. It sits between the API and the data.
+ A plug-in is  a custom event handler that executes in response to a specific event raised  during processing of a Microsoft Dataverse data operation. It sits between the API and the data.
 
 When  the target event occurs during a data processing operation, the code within  the registered plug-in class executes. It can create, read, modify, or delete  data being processed during the current database transaction. **Logic is transactional and either all complete or  all roll back**.
 
@@ -118,7 +126,9 @@ They  can perform logic with **elevated permissions**  that the user might not n
 
 Plug-ins can be synchronous or asynchronous. **Asynchronous**  plug-in will cause the data **operation to wait** until the code in the plug-in completes. This has an impact on end-user  perceived performance of the system, which is why **synchronous plug-ins must execute and complete quickly**. **Asynchronous** plug-in execution is **queued** and later executed after the data  operation has completed.
 
-**Constraints and limitations**: Plug-ins  on events **aren’t the best approach ifyou must  listen to events on multiple tables** to complete a single business
+### Constraints and limitations
+
+Plug-ins  on events **aren’t the best approach ifyou must  listen to events on multiple tables** to complete a single business
 event like Close Inspection. Consider a **Dataverse  custom API instead of having plug-ins on multiple tables.**
 [Disadvantages](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins#disadvantages-of-plug-ins) of plug-ins:
 
@@ -129,9 +139,9 @@ event like Close Inspection. Consider a **Dataverse  custom API instead of havin
 
 Read more: [Custom  process actions](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions)
 
-**Description**: **Custom process actions** provide ability to **define a single verb (or message)**  that **matches an operation** you need to  perform for your **business**. These new  messages are **driven by a process or behavior**  rather than what can be done with a table.
+**Custom process actions** provide ability to **define a single verb (or message)**  that **matches an operation** you need to  perform for your **business**. These new  messages are **driven by a process or behavior**  rather than what can be done with a table.
 
-They  can **perform operations**, such as Create,  Update, Delete, Assign (record), SendEmail, Start/Stop Workflow or Perform  Action [Rollback](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions#:~:text=Enable-,rollback,-Generally%2C%20processes%20that):  Custom process actions have always been synchronous 'real-time' workflows.
+They  can **perform operations**, such as Create,  Update, Delete, Assign (record), SendEmail, Start/Stop Workflow or Perform  Action [Rollback](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-actions#:~:text=Enable-,rollback,-Generally%2C%20processes%20that). Custom process actions have always been synchronous 'real-time' workflows.
 
 **Everything you** can **do** just with the **user interface of the action will support transactions**.  Some  actions developers might do in code initiated by the custom process action  might not support transactions. For example, if the code perform actions in  other systems that are beyond the scope of the transaction.
 
@@ -139,7 +149,9 @@ They  can **perform operations**, such as Create,  Update, Delete, Assign (recor
 absence of restriction isn't an advantage; workflows can't run indefinitely  and will eventually fail.
 There  are two ways to **extend Custom Process Actions**  using code: **with custom workflow activities**  or by **registering plug-ins on stages.**
 
-**Constraints and limitations**:  A best  practice recommendation is that **long running  operations** should be executed **outside  of Dataverse** using Power Automate, Logic Apps, or other capabilities  offered by Azure.
+### Constraints and limitations
+
+ A best  practice recommendation is that **long running  operations** should be executed **outside  of Dataverse** using Power Automate, Logic Apps, or other capabilities  offered by Azure.
 
 You  cannot enable rollback if a  custom process action is invoked directly from within a workflow. You can  enable rollback if an action is triggered by a Power Apps web services  message.
 
@@ -151,11 +163,13 @@ Unlike  Microsoft Dataverse workflows or plug-ins, an custom process action does
 
 Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow/workflow-extensions)
 
-**Description**: If  you don't find the  functionality you require using the default process activities, you can **add custom activities** so that they're available in the editor used to compose workflow, dialog, and action processes.
+If  you don't find the  functionality you require using the default process activities, you can **add custom activities** so that they're available in the editor used to compose workflow, dialog, and action processes.
 
 The new actions will be available in the workflow designer for  users to apply - **for example a condition or  some new operation.** In this way you can add new custom actions in the  process designer for users of your environment.
 
-**Constraints and limitations**:   Unlike  an ordinary plug-in, with workflow extensions you don't have the opportunity  to explicitly register your code for a specific step. This means you don't  control whether the code in your workflow extension will run synchronously or  asynchronously.
+### Constraints and limitations
+
+  Unlike  an ordinary plug-in, with workflow extensions you don't have the opportunity  to explicitly register your code for a specific step. This means you don't  control whether the code in your workflow extension will run synchronously or  asynchronously.
 
 When  your **workflow extension is used** in a **synchronous workflow or a custom action** the   time spent running the code directly impacts the user's experience. For this  reason, workflow extensions should require **no more than two seconds** to complete when  used **synchronously**.  If your extension requires **more time**  than this, you should **document this and discourage** use of the extension **in  synchronous workflows or custom actions.**
 
@@ -163,7 +177,7 @@ When  your **workflow extension is used** in a **synchronous workflow or a custo
 
 Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api)
 
-**Description**: Custom  API is a **newer** way to define custom  messages, offering developers better capabilities to create their own  messages.
+Custom  API is a **newer** way to define custom  messages, offering developers better capabilities to create their own  messages.
 
 Using  Microsoft Dataverse [business  events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events), you can create a custom API without a plug-in to pass data about  an event that other subscribers respond to. In other cases you'll combine a custom API with a plug-in to define some operation that is delegated to  Dataverse to compute and return the result.A **plug-in that implements** the main operation for a custom API is subject to the **2 minute time limit** to complete execution.
 
@@ -172,29 +186,35 @@ See [Custom Processing Step Type](https://learn.microsoft.com/en-us/power-apps/d
 
 Custom  API is the **best** choice when the **only** service it uses is the **Dataverse API for other data work**.
 
-**Constraints and limitations**: Custom  APIs use plug-ins to perform data operations. Like all Dataverse plug-ins,  these plug-ins have a **two-minute execution time-out**.
+### Constraints and limitations
+
+Custom  APIs use plug-ins to perform data operations. Like all Dataverse plug-ins,  these plug-ins have a **two-minute execution time-out**.
 
 Sending the request asynchronously doesn't provide more  execution time.
 
 Set  "Enabled for Workflow" to true when you need to enable calling  a custom API as a workflow action. However, when this option is selected some [limitations](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api#use-a-custom-api-in-a-workflow)  are imposed.
 
-## Background  operations (preview)
+## Background operations
 
-Read more: [Background  operations (preview)](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations)
+Read more: [Background  operations](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations)
 
-**Description**:   Use [background  operations](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations) to send requests that Dataverse processes asynchronously,  without maintaining connection while a request runs. Even when executing  request asynchronously, the **two-minute  execution time-out** still applies to the plug-in.
+Use [background  operations](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/background-operations) to send requests that Dataverse processes asynchronously,  without maintaining connection while a request runs. Even when executing  request asynchronously, the **two-minute  execution time-out** still applies to the plug-in.
 
-**Constraints and limitations**:  If an  error occurs during execution of the request, it's retried up to three times,  using [exponential  backoff strategy](https://wikipedia.org/wiki/Exponential_backoff).
+### Constraints and limitations
+
+ If an  error occurs during execution of the request, it's retried up to three times,  using [exponential  backoff strategy](https://wikipedia.org/wiki/Exponential_backoff).
 
 
 ## Business  events
 
 Read more: [Business  events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events)
 
-**Description**:   Automation  of business logic and integration with other systems are driven by events.  Using Microsoft Dataverse **business events**, you can create a **custom API without a plug-in**,  to pass data **about an event** that other  subscribers respond to asynchronously.
+  Automation  of business logic and integration with other systems are driven by events.  Using Microsoft Dataverse **business events**, you can create a **custom API without a plug-in**,  to pass data **about an event** that other  subscribers respond to asynchronously.
 You can  use custom APIs without any synchronous logic that exist to only to  notify listeners that an event of interest occurred. You emit the event by   calling the custom action.
 
-**Constraints and limitations**:   Custom  process actions can also be cataloged as business events. This is for  backward compatibility, and custom API is the recommended approach for  exposing events.
+### Constraints and limitations
+
+  Custom  process actions can also be cataloged as business events. This is for  backward compatibility, and custom API is the recommended approach for  exposing events.
 
 Custom  events can represent events that occur in external systems. See [External  Events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events#external-events) for additional considerations
 
