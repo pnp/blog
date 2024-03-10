@@ -23,7 +23,7 @@ type: "regular"
 >
 >Power Automate supports **transactions through ChangeSets** which can be used with the **Dataverse** connector to perform atomic transactions. For transactions not related to Dataverse, custom rollback logic must be implemented.
 
-Power Automate can function autonomously as a workflow triggered manually, on a schedule, or by an event such as the arrival of an email or the creation of an item in a list. It mas also be used to execute business logic that is not intended for client-side execution within Power Apps.
+Power Automate can function autonomously as a workflow triggered manually, on a schedule, or by an event such as the arrival of an email or the creation of an item in a list. It may also be used to execute business logic that is not intended for client-side execution within Power Apps.
 
 Power Automate is great for [use cases](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic#power-automate-flows) where you need to run complex logic, need multiple connectors, or you don't want the user to wait for the action to finish. Consider it if:
 
@@ -140,7 +140,7 @@ Read more: [Custom  connectors](https://learn.microsoft.com/en-us/connectors/cus
 
 Use to  communicate to your external data sources and services. A custom connector is  a wrapper around a REST API and can be created using tools like Azure  Functions or Azure API Management.
 
-New  connectors-both Mirosoft  first party and third party-are added constantly, and as an administrator you should be aware of new  connectors and ensure they are classified accordingly in your [Data loss prevention (DLP) policies](https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
+New  connectors-both Microsoft  first party and third party-are added constantly, and as an administrator you should be aware of new  connectors and ensure they are classified accordingly in your [Data loss prevention (DLP) policies](https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
 
 ### Constraints and limitations
 
@@ -184,11 +184,11 @@ Read more: [Custom  actions for Power Automate for Desktop](https://learn.micros
 
 ### Constraints and limitations
 
-  .dll  files describing Custom actions, their dependency .dll files, and the .cab  files are properly signed with a digital certificate trusted by your
-  organization. The certificate should also be installed on the device under the trusted root certificate authority where the desktop flow with custom
-  action dependencies is modified and/or executed.
+.dll  files describing Custom actions, their dependency .dll files, and the .cab  files are properly signed with a digital certificate trusted by your
+organization. The certificate should also be installed on the device under the trusted root certificate authority where the desktop flow with custom
+action dependencies is modified and/or executed.
 
-  [Known  limitations](https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions#known-limitations)
+[Known  limitations](https://learn.microsoft.com/en-us/power-automate/desktop-flows/custom-actions#known-limitations)
 
 ## Custom script in Desktop flows
 

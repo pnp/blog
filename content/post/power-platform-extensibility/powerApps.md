@@ -33,7 +33,7 @@ To keep the app performant, you should consider the following when placing logic
 >-  Use only simple logic, and avoid complex formulas with dozens of lines
 >-  Limit it to a few data connectors in a formula
 >-  Avoid using logic to manipulate or transform data
->-  Avoid processing multiple records at a time (for example, avoid using the ForAll function)
+>-  Avoid processing multiple records at a time (for example, avoid using the `ForAll` function)
 >
 >**Model-driven** apps provide several ways to run logic and all of these options run on the device that runs the apps. Consider placing logic in model-driven apps if:
 
@@ -72,7 +72,7 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ![Extensibility options in Power Apps](./images/PowerApps.png)
 
-In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (cient-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
+In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (client-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
 
 |||Canvas Apps|Model-driven Apps|[Custom Pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/design-page-for-model-app)|Power Pages|
 |-|-|-|-|-|-|

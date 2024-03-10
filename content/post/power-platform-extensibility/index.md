@@ -31,7 +31,7 @@ Microsoft Power Platform often implements something in a particular way that ben
 >
 >Source: [Determine when to configure or when to code](https://learn.microsoft.com/en-us/training/modules/introduction-power-platform-extend/configure-code)
 
-If, after extensive evaluation, you see that the existing controls or declarative process don't meet your needs, you may start coding using either **Power Fx**, **Typescript** or **.NET**. The choice of technologiy will depend on [where you want to place your logic](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic).
+If, after extensive evaluation, you see that the existing controls or declarative process don't meet your needs, you may start coding using either **Power Fx**, **Typescript** or **.NET**. The choice of technology will depend on [where you want to place your logic](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic).
 
 Don't underestimate the power of **Power Fx**. It's getting better and better, and is now offering [error handling](https://learn.microsoft.com/en-us/power-platform/power-fx/error-handling), [named formulas](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/object-app#formulas-property), [assertions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-assert), [regular expressions](https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch), etc. Always ensure that the feature you want to use is generally available, because experimental and preview features are not meant for production.
 

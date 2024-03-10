@@ -128,7 +128,7 @@ Plug-ins can be synchronous or asynchronous. **Asynchronous**  plug-in will caus
 
 ### Constraints and limitations
 
-Plug-ins  on events **aren’t the best approach ifyou must  listen to events on multiple tables** to complete a single business
+Plug-ins  on events **are not the best approach if you must  listen to events on multiple tables** to complete a single business
 event like Close Inspection. Consider a **Dataverse  custom API instead of having plug-ins on multiple tables.**
 [Disadvantages](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins#disadvantages-of-plug-ins) of plug-ins:
 
@@ -179,7 +179,7 @@ Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/
 
 Custom  API is a **newer** way to define custom  messages, offering developers better capabilities to create their own  messages.
 
-Using  Microsoft Dataverse [business  events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events), you can create a custom API without a plug-in to pass data about  an event that other subscribers respond to. In other cases you'll combine a custom API with a plug-in to define some operation that is delegated to  Dataverse to compute and return the result.A **plug-in that implements** the main operation for a custom API is subject to the **2 minute time limit** to complete execution.
+Using  Microsoft Dataverse [business  events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events), you can create a custom API without a plug-in to pass data about  an event that other subscribers respond to. In other cases you'll combine a custom API with a plug-in to define some operation that is delegated to  Dataverse to compute and return the result. A **plug-in that implements** the main operation for a custom API is subject to the **2 minute time limit** to complete execution.
 
 They  can be used **on demand by the apps and flows**,  the data changes done in the** custom API  plug-in** are **transactional**.
 See [Custom Processing Step Type](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/custom-api#select-a-custom-processing-step-type) for guidance on defining how can your custom API be  executed.
