@@ -1,6 +1,6 @@
 ---
 title: "Power Platform extensibility options"
-date: 2024-02-18T08:40:00-04:00
+date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
@@ -43,7 +43,7 @@ The following summary outlines existing options for implementing business logic,
 
 ## Deep dive
 
-![Extensibility options](./images/Extensibility2.png)
+![Extensibility options](./images/Extensibility.png)
 
 The sections that follow present available options in more detail, outlining differences and whenever applicable, the limitations.
 > Important: Some of the capabilities described in this series are still in **preview** at the time of writing. Always refer to the official documentation to ensure your solution is using generally available capabilities.

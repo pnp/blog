@@ -1,6 +1,6 @@
 ---
 title: "Extensibility options in Power Apps"
-date: 2024-02-18T08:40:00-04:00
+date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
@@ -70,7 +70,7 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ## Summary of extensibility options in Power Apps
 
-![Extensibility options in Power Apps](./images/PowerApps2.png)
+![Extensibility options in Power Apps](./images/PowerApps.png)
 
 In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (cient-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
 

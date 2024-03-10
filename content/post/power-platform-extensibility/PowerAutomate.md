@@ -1,6 +1,6 @@
 ---
 title: "Extensibility options in Power Automate"
-date: 2024-02-18T08:40:00-04:00
+date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
@@ -45,7 +45,7 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 ## Summary of extensibility options in Power Automate
 
-![Extensibility options in Power Automate](./images/PowerAutomate2.png)
+![Extensibility options in Power Automate](./images/PowerAutomate.png)
 
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|

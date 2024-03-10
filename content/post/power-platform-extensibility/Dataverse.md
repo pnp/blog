@@ -1,6 +1,6 @@
 ---
 title: "Extensibility options in Dataverse"
-date: 2024-02-18T08:40:00-04:00
+date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
@@ -50,7 +50,7 @@ Tables in Dataverse can use rich server-side logic and validation, to ensure dat
 
 ## Summary of extensibility options in Dataverse
 
-![Extensibility options in Dataverse](./images/Dataverse2.png)
+![Extensibility options in Dataverse](./images/Dataverse.png)
 
 ## Formula  columns using Power Fx
 
