@@ -1,4 +1,14 @@
-﻿# Power Automate
+---
+title: "Extensibility options in Power Automate"
+date: 2024-02-18T08:40:00-04:00
+author: "Kinga Kazala"
+githubname: kkazala
+categories: ["Community post"]
+images:
+- images/thumbnail.png
+tags: []
+type: "regular"
+---
 
 ## Contents
 
@@ -12,6 +22,8 @@
 > Power Automate **[Cloud flows](https://powerautomate.microsoft.com/en-us/digital-process-automation/) are always asynchronous**, while **Classic workflows** may be **either background (asynchronous) or real-time (synchronous)** workflows. Microsoft recommends to use Cloud Flows instead of classic background workflows.
 >
 >Power Automate supports **transactions through ChangeSets** which can be used with the **Dataverse** connector to perform atomic transactions. For transactions not related to Dataverse, custom rollback logic must be implemented.
+
+Power Automate can function autonomously as a workflow triggered manually, on a schedule, or by an event such as the arrival of an email or the creation of an item in a list. It mas also be used to execute business logic that is not intended for client-side execution within Power Apps.
 
 Power Automate is great for [use cases](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic#power-automate-flows) where you need to run complex logic, need multiple connectors, or you don't want the user to wait for the action to finish. Consider it if:
 
@@ -37,20 +49,22 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|
-|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅<sup>Preview</sup>|❌|❌|
-|[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors |✅|❌|❌|❌|
+|[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅ (preview) |❌|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx) (preview) |Power Fx, Connectors |✅|❌|❌|❌|
 |[Custom process action](#custom-process-actions-declarative)|declarative|✅|❌|✅*|✅|
 |[Custom API](#custom-api-using-net) |.NET|✅|❌|❌|✅|
 |[Workflow activities/assemblies](#workflow-activitiesassemblies)|.NET|✅|❌|✅|✅|
 |[Custom connectors](#custom-connectors-using-rest-api) |REST API|✅|✅|✅**|❌|
 |[Office Scripts in Excel](#office-script-in-excel-using-typescript)|TypeScript|✅|❌|❌|❌|
 |[Custom actions for Power Automate for Desktop](#custom-actions-for-power-automate-for-desktop-using-net)|.NET|❌|✅|❌|❌|
-|[Custom script](#custom-script-in-desktop-flows) in Desktop flows|DOS command<br/>VBScript***<br/>JavaScript<br/>PowerShell<br/>Python<br/>.NET<br/>|❌|✅|❌|❌|
+|[Custom script](#custom-script-in-desktop-flows) in Desktop flows|DOS command, VBScript***, JavaScript, PowerShell, Python, .NET|❌|✅|❌|❌|
 
 
-<sup>* To allow business process flow execute the custom process action, define table entity and enable "As a Business Process Flow" in action properties</sup><br/>
-<sup>** By using custom process action that uses custom connector</sup><br/>
-<sup>*** VBScript is deprecated from Windows</sup>
+\* To allow business process flow execute the custom process action, define table entity and enable "As a Business Process Flow" in action properties
+
+** By using custom process action that uses custom connector
+
+*** VBScript is deprecated from Windows
 
 ## Formulas using Power Fx
 
@@ -175,6 +189,6 @@ Read more: [Custom  script in Desktop flows](https://learn.microsoft.com/en-us/p
 - Python and
 - .NET.
 
-* VBScript is deprecated from Windows. In future releases of Windows, VBScript will be available as a [feature on demand](https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features-resources#vbscript) before its removal from the operating system
+\* VBScript is deprecated from Windows. In future releases of Windows, VBScript will be available as a [feature on demand](https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features-resources#vbscript) before its removal from the operating system
 
 **Constraints and limitations**: To prevent unauthorized access, Windows require administrator  rights to access protected resources. To access protected resources (such as files) using the scripting actions, run Power Automate with administrator  rights.

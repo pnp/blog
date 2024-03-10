@@ -1,4 +1,14 @@
-﻿# Power Apps
+---
+title: "Extensibility options in Power Apps"
+date: 2024-02-18T08:40:00-04:00
+author: "Kinga Kazala"
+githubname: kkazala
+categories: ["Community post"]
+images:
+- images/thumbnail.png
+tags: []
+type: "regular"
+---
 
 ## Contents
 
@@ -26,6 +36,7 @@ To keep the app performant, you should consider the following when placing logic
 >-  Avoid processing multiple records at a time (for example, avoid using the ForAll function)
 >
 >**Model-driven** apps provide several ways to run logic and all of these options run on the device that runs the apps. Consider placing logic in model-driven apps if:
+
 >- Logic needs to be run on the device.
 >- The logic requires multiple entities (tables).
 >- You need sophisticated logic that isn't available with out-of-the-box features.
@@ -67,14 +78,14 @@ In **Canvas app formulas, model-driven form script, business rules, and Power Ap
 |-|-|-|-|-|-|
 |[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅|✅|❌|
 |[Script web resources](#web-resources-with-javascript) |JavaScript |❌|✅|❌|❌|
-|[Low-code canvas components](#low-code-canvas-components-using-power-fx) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)<sup>*</sup> and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
-|[Low-code plugins](#low-code-plug-ins-using-power-fx) <sup>Preview</sup>|Power Fx, Connectors|✅|👉|✅|❌|
+|[Low-code canvas components](#low-code-canvas-components-using-power-fx) with [behavior formulas](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-behavior)* and [component properties](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-properties)|Power Fx|✅|👉|✅|❌|
+|[Low-code plugins](#low-code-plug-ins-using-power-fx) (preview)|Power Fx, Connectors|✅|👉|✅|❌|
 |[PowerApps component framework](#powerapps-component-framework-pcf-using-typescript) (PCF)|Typescript |✅|✅|✅|✅|
-|[React controls & platform libraries](#react-controls-using-typescript--react) <sup>Preview</sup>|TypeScript |✅|✅|✅|❌|
+|[React controls & platform libraries](#react-controls-using-typescript--react) (preview)|TypeScript |✅|✅|✅|❌|
 |[Custom connectors](#custom-connectors-with-rest-api) |openAPI  |✅|👉|✅|❌|
 |[Custom webpage templates](https://learn.microsoft.com/en-us/power-pages/configure/web-templates)|HTML, CSS, Liquid  |❌|❌|❌|✅|
 
-<sup> *Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.</sup>
+\* Behavior formulas for components (experimental): The feature to create custom behavioral properties is currently experimental. However, you can use the default OnReset property that is available on all components in your production environment.
 
 ## Formulas using Power Fx
 
@@ -143,6 +154,7 @@ Use of low-code plugins in your solution requires Premium licenses.
 Read more: [PowerApps component framework (PCF)](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/overview)
 
 **Description**: Used to **enhance the user experience** in **forms, views, dashboards, and canvas app**  screens. For example:
+
 - replace a column on a form that displays a numeric text value with a dial or slider code component. (`FIELD`)
 - transform a list into an entirely different visual experience bound to the dataset, like a Calendar or Map. (`DATASET`)
 
@@ -171,6 +183,7 @@ Read more: [React  controls & platform libraries (preview)](https://learn.micros
 
 **Description**: React controls use the same infrastructure as the Power Apps platform. This means  you do not have to package React and platform libraries individually for each control. All controls share a common library instance and version to provide  a **seamless and consistent experience**.
 By  re-using the existing platform React and Fluent libraries, you can expect the  following benefits:
+
 - Reduced control bundle size
 - Optimized solution packaging
 - Faster runtime transfer, scripting and control rendering

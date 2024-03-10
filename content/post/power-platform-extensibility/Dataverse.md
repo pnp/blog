@@ -1,4 +1,14 @@
-﻿# Dataverse
+---
+title: "Extensibility options in Dataverse"
+date: 2024-02-18T08:40:00-04:00
+author: "Kinga Kazala"
+githubname: kkazala
+categories: ["Community post"]
+images:
+- images/thumbnail.png
+tags: []
+type: "regular"
+---
 
 ## Contents
 
@@ -9,13 +19,15 @@
 
 ## Where to place logic
 
-Because Dataverse includes many capabilities for people to configure custom business logic without writing code, the most common scenarios for developers to contribute involve filling spaces in-between where existing features may not provide functionality you need to meet a requirement. Fortunately, Dataverse provides many points for developers to extend the common functionality using code. Each of these options are typically invoked based on events that occur on the server, so understanding of the [Event Framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) will be valuable.
+Dataverse offers many capabilities for configuring custom business logic without the need for coding. For developers, the primary focus often lies in bridging gaps between existing features when required functionality is not readily available.
 
-A best practice recommendation is that [long running operations should be executed outside of Dataverse](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow-custom-actions#watch-out-for-long-running-actions) using Power Automate, Logic Apps, or other capabilities offered by Azure.
+Dataverse provides a number of options to extend the functionality using code, typically triggered by events that occur on the server.  Therefore, familiarity with the [Event Framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) is essential for effectively implementing these extensions.
 
-**All operations in a synchronous transaction are limited to a total of two minutes. An exception thrown by your code at any synchronous stage within the database transaction will cause the entire transaction to be rolled back.**
+> [Long running operations should be executed outside of Dataverse](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/workflow-custom-actions#watch-out-for-long-running-actions) using Power Automate, Logic Apps, or other capabilities offered by Azure.
+>
+>All operations in a **synchronous transaction are limited to a total of two minutes**. An exception thrown by your code at any synchronous stage within the database transaction will cause the **entire transaction to be rolled back**.
 
-Tables in Dataverse can use rich server-side logic and validation to ensure data quality and reduce repetitive code in each app that creates and uses data in a table.
+Tables in Dataverse can use rich server-side logic and validation, to ensure data quality and reduce repetitive code in each app creating and using data in a table.
 
 - [Business rules](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-create-business-rule): Validate data across multiple columns and tables, and provide warning and error messages, regardless of the app used to create the data.
 - [Business process flows](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-create-business-rule): Guide users to ensure that they enter data consistently and follow the same steps every time. Business process flows are currently only supported for model-driven apps.
@@ -109,6 +121,7 @@ Plug-ins can be synchronous or asynchronous. **Asynchronous**  plug-in will caus
 **Constraints and limitations**: Plug-ins  on events **aren’t the best approach ifyou must  listen to events on multiple tables** to complete a single business
 event like Close Inspection. Consider a **Dataverse  custom API instead of having plug-ins on multiple tables.**
 [Disadvantages](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/plug-ins#disadvantages-of-plug-ins) of plug-ins:
+
 - Plug-ins **require the special skills** of a software developer to create and maintain the plug-in code. Smaller businesses may not have access to a developer with the needed skills. Business processes can change rapidly and providing options to enable change without requiring a developer can allow the system to adapt more rapidly.
 - They **can be abused.** A **poorly written** plug-in can cause significant impact on the performance of the data processing  pipeline and ultimately the environment. The great power of plug-ins needs to be applied with some restraint and consideration for the impact  it has on the system as a whole.
 

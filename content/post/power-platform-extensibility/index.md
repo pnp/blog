@@ -1,5 +1,5 @@
 ---
-title: "Power Platform? I'm aPower Platform extensibility options"
+title: "Power Platform extensibility options"
 date: 2024-02-18T08:40:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
@@ -10,7 +10,6 @@ tags: []
 type: "regular"
 ---
 
-# Power Platform extensibility
 
 ## Contents
 
@@ -21,8 +20,9 @@ type: "regular"
 
 
 ## Don't code if you don't need to
+
 When building Power Platform solutions, first evaluate Platform capabilities and use as much of low-code as possible.
-This means learning which controls are available, how to use [Power Fx](https://learn.microsoft.com/en-us/power-platform/power-fx/overview) (if you ever wrote Excel formula, you will feel at home), deciding which parts of business logic should be executed client-side, and when it's time to use Power Automate or other capabilities instead.
+This means learning which controls are available, how to use [Power Fx](https://learn.microsoft.com/en-us/power-platform/power-fx/overview) (if you ever wrote Excel formula, you will feel at home), deciding which parts of business logic should be executed client-side, and when it's time to use Power Automate, or other capabilities instead.
 
 Make sure you are familiar with [Where to place logic: Canvas apps, model-driven apps, Microsoft Dataverse, or Power Automate flows?](https://learn.microsoft.com/en-us/power-apps/guidance/planning/logic) and keep an eye on the [Release plans for Dynamics 365, Power Platform, and Cloud for Industry - Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/release-plans/)⭐ to learn about new features as they are prepared for release.
 
