@@ -18,6 +18,12 @@ We want to give you a better overview on what's happening each week. This is a s
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. Want to demo what you have created? - absolutely welcome. [Voluteer for a demo spot](https://aka.ms/community/request/demo).
 
+{{< notice important>}}
+As US moved already to Daylight Savings Time on 10th of March, timings of the calls can be a bit off within your calendar, depending on your country and Daylight Savings Time model. For example for Europe, we are back to normal timings starting from 30th of March when Europe moves to Daylight Savings time. 
+
+If you download the recurrent invites of the meetings, those are automatically correctly aligned in your calendar. Sorry for the inconvience this might cause.
+{{< /notice >}}
+
 This is the agenda for the upcoming week:
 
 ---
@@ -42,7 +48,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 14th of March
 
-* Thursday, 14th of March, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 14th of March, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
