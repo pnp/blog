@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 11th of March 2024 week
-date: 2024-03-01T02:22:32.465Z
+date: 2024-03-07T16:42:31.945Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
