@@ -1,5 +1,5 @@
 ---
-title: "Extensibility options in Power Apps"
+title: "Power Platform extensibility options in Power Apps"
 date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
