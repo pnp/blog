@@ -5,18 +5,12 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/thumbnail.png
+- images/thumbnail1.png
 tags: []
 type: "regular"
 ---
 
 
-## Contents
-
-1. **Power Platform extensibility options** (this page)
-1. [Power Apps](powerApps.md)
-1. [Power Automate](./PowerAutomate.md)
-1. [Dataverse](Dataverse.md)
 
 
 ## Don't code if you don't need to
@@ -45,10 +39,13 @@ The following summary outlines existing options for implementing business logic,
 
 ![Extensibility options](./images/Extensibility.png)
 
-The sections that follow present available options in more detail, outlining differences and whenever applicable, the limitations.
+## Power Platform extensibility options series
+
+The following articles in the series present available options in more detail, outlining differences and whenever applicable, the limitations.
+
 > Important: Some of the capabilities described in this series are still in **preview** at the time of writing. Always refer to the official documentation to ensure your solution is using generally available capabilities.
 
-- [Power Apps](powerApps.md)
-- [Power Automate](./PowerAutomate.md)
-- [Dataverse](Dataverse.md)
-
+1. Power Platform extensibility options - this article
+1. [Power Apps](./../power-platform-extensibility-02/index.md)
+1. [Power Automate](./../power-platform-extensibility-03/index.md)
+1. [Dataverse](./../power-platform-extensibility-04/index.md)

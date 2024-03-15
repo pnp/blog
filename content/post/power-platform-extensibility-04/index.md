@@ -5,17 +5,10 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/thumbnail.png
+- images/thumbnail4.png
 tags: []
 type: "regular"
 ---
-
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. [Power Apps](powerApps.md)
-1. [Power Automate](./PowerAutomate.md)
-1. **Dataverse**
 
 ## Where to place logic
 

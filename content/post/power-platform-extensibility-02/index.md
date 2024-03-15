@@ -5,24 +5,16 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/thumbnail.png
+- images/thumbnail2.png
 tags: []
 type: "regular"
 ---
 
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. **Power Apps**
-1. [Power Automate](./PowerAutomate.md)
-1. [Dataverse](Dataverse.md)
-
+## Where to place logic
 
 >**In Power Apps, the execution of components can be both synchronous and asynchronous, depending on the specific functions and scenarios.**
 >
 >**There is no built-in transaction support in Power Apps itself. However, you can use stored procedures called from a Power Automate flow to achieve transaction-like behavior.**
-
-## Where to place logic
 
 Whenever possible, you should first consider applying one of the several declarative process options to define or apply business logic.
 
@@ -116,7 +108,7 @@ You can use JavaScript in the following areas of **model-driven apps:**
 - Web resources and IFRAMEs
 - Sitemap
 
->[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](Dataverse.md#business-rules) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
+>[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](./../power-platform-extensibility-04/index.md#business-rules) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
 Like all web resources, JavaScript web resources [use the model-driven apps security context](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources). Only licensed users who have the necessary privileges can access them.
 
 ### Constraints and limitations

@@ -10,13 +10,6 @@ tags: []
 type: "regular"
 ---
 
-## Contents
-
-1. [Power Platform extensibility options](index.md)
-1. [Power Apps](powerApps.md)
-1. **Power Automate**
-1. [Dataverse](Dataverse.md)
-
 ## Where to place logic
 
 > Power Automate **[Cloud flows](https://powerautomate.microsoft.com/en-us/digital-process-automation/) are always asynchronous**, while **Classic workflows** may be **either background (asynchronous) or real-time (synchronous)** workflows. Microsoft recommends to use Cloud Flows instead of classic background workflows.
@@ -108,7 +101,7 @@ Read more: [Custom  process action](https://learn.microsoft.com/en-us/power-apps
 The  business logic of a custom process action is implemented using a workflow.  When you create a custom process action, the associated real-time workflow is  automatically registered to execute in the main operation stage of the  message execution pipeline.
 They  are stored in Dataverse and may use a context of a table, or be defined as global.
 
-See [Dataverse](Dataverse.md#custom-process-actions) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04/index.md#custom-process-actions) page for a more details.
 
 ### Constraints and limitations
 
@@ -120,7 +113,7 @@ Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/
 
 Custom  API is a newer way to define custom messages with many advantages for  developers. If you do not intend to use the no-code capabilities that custom  process actions provide to configure business logic, custom API provides  better capabilities for developers to create their own messages.
 
-See [Dataverse](Dataverse.md#custom-api-using-net) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04/index.md#custom-api-using-net) page for a more details.
 
 ### Constraints and limitations
 
@@ -132,7 +125,7 @@ Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/po
 
  As  reusable components, workflow extensions can be added to any workflow or  custom action.
 
-See [Dataverse](Dataverse.md#workflow-activitiesassemblies-using-net) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04/index.md#workflow-activitiesassemblies-using-net) page for a more details.
 
 ## Custom connectors using REST API
 
