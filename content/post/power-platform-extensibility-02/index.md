@@ -10,6 +10,14 @@ tags: []
 type: "regular"
 ---
 
+## Power Platform extensibility options series
+
+1. [Power Platform extensibility options](./../power-platform-extensibility-01/index.md)
+1. Power Apps - this article
+1. [Power Automate](./../power-platform-extensibility-03/index.md)
+1. [Dataverse](./../power-platform-extensibility-04/index.md)
+
+
 ## Where to place logic
 
 >**In Power Apps, the execution of components can be both synchronous and asynchronous, depending on the specific functions and scenarios.**

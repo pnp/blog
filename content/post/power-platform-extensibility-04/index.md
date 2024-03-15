@@ -1,5 +1,5 @@
 ---
-title: "Extensibility options in Dataverse"
+title: "Power Platform extensibility options in Dataverse"
 date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
@@ -9,6 +9,14 @@ images:
 tags: []
 type: "regular"
 ---
+
+## Power Platform extensibility options series
+
+1. [Power Platform extensibility options](./../power-platform-extensibility-01/index.md)
+1. [Power Apps](./../power-platform-extensibility-02/index.md)
+1. [Power Automate](./../power-platform-extensibility-03/index.md)
+1. Dataverse - this article
+
 
 ## Where to place logic
 

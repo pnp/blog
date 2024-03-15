@@ -1,14 +1,21 @@
 ---
-title: "Extensibility options in Power Automate"
+title: "Power Platform extensibility options in Power Automate"
 date: 2024-03-10T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/thumbnail.png
+- images/thumbnail3.png
 tags: []
 type: "regular"
 ---
+
+## Power Platform extensibility options series
+
+1. [Power Platform extensibility options](./../power-platform-extensibility-01/index.md)
+1. [Power Apps](./../power-platform-extensibility-02/index.md)
+1. Power Automate - this article
+1. [Dataverse](./../power-platform-extensibility-04/index.md)
 
 ## Where to place logic
 

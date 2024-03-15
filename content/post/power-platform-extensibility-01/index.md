@@ -10,8 +10,12 @@ tags: []
 type: "regular"
 ---
 
+## Power Platform extensibility options series
 
-
+1. Power Platform extensibility options - this article
+1. [Power Apps](./../power-platform-extensibility-02/index.md)
+1. [Power Automate](./../power-platform-extensibility-03/index.md)
+1. [Dataverse](./../power-platform-extensibility-04/index.md)
 
 ## Don't code if you don't need to
 
