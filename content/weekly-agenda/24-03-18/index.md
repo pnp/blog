@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 18th of March 2024 week
-date: 2024-03-14T11:40:53.361Z
+date: 2024-03-15T02:40:53.361Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -21,7 +21,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 {{< notice important>}}
 As US moved already to Daylight Savings Time on 10th of March, timings of the calls can be a bit off within your calendar, depending on your country and Daylight Savings Time model. For example for Europe, we are back to normal timings starting from 30th of March when Europe moves to Daylight Savings time. 
 
-If you download the recurrent invites of the meetings, those are automatically correctly aligned in your calendar. Sorry for the inconvience this might cause.
+If you download the recurrent invites of the meeting(s), those are automatically correctly aligned in your calendar. Sorry for the inconvience this might cause.
 {{< /notice >}}
 
 This is the agenda for the upcoming week:
@@ -36,9 +36,9 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* Majesty Uwagerikpeb (Microsoft) and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm – Simulate handling Teams Admin Center notifications for Microsoft Graph connectors
-* [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia - Creating Copilot Plugin for Microsoft Lists with Copilot Studio
-* Eric Scherlinger (Microsoft) - Building personalized content ACE for Viva Connections based on user profile attributes
+* [Majesty Uwagerikpe](https://www.linkedin.com/in/majesty-uwagerikpe-308619162/) (Microsoft) and [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) | @Waldekm – Simulate handling Teams Admin Center notifications for Microsoft Graph connectors
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys.com) | @PaoloPia - Creating Copilot Plugin for Microsoft Lists with Copilot Studio
+* [Eric Scherlinger](https://www.linkedin.com/in/ericsche/) (Microsoft) - Building personalized content ACE for Viva Connections based on user profile attributes
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -56,9 +56,9 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos: 
 
-* Migrating Applications from Lotus Notes/Domino to Dataverse and Power Apps - Mats Jansson (Adopteq)
-* Power Automate - "fits the gaps" for manufacturing with Dynamics 365 SCM - Matt Burback (Winnebago Industries)
-* Tracking Community Engagement in MS Teams - Reid Schmidling (Centene)
+* [Mats Jansson](https://www.linkedin.com/in/matsj/) (Adopteq) - Migrating Applications from Lotus Notes/Domino to Dataverse and Power Apps
+* [Matt Burback](https://www.linkedin.com/in/matt-burback-4711535/) (Winnebago Industries) - Power Automate - "fits the gaps" for manufacturing with Dynamics 365 SCM
+* [Reid Schmidling](https://www.linkedin.com/in/reidschmidling/) (Centene) - Tracking Community Engagement in MS Teams
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -74,9 +74,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo - Deploying SPFx Packages from Tenant App Catalog to Hub Site and Associated Sites
-* [Sudharsan Kesavanarayanan](https://twitter.com/sudharsank) (NTT) | @sudharsank - Grouping documents using Enterprise Keywords in SPFx
-* [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878 and Michał Kornet (Logamic) - Manage you Microsoft 365 tenant with ease with CLI for Microsoft 365
+* [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Pension Protection Fund) - Deploying SPFx Packages from Tenant App Catalog to Hub Site and Associated Sites
+* [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT) - Grouping documents using Enterprise Keywords in SPFx
+* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) & [Michał Kornet](https://www.linkedin.com/in/michał-kornet-sharepoint-dev/) (Logamic) - Manage you Microsoft 365 tenant with ease with CLI for Microsoft 365
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -89,7 +89,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [What’s New in Microsoft Teams Toolkit - January 2024](https://www.youtube.com/watch?v=qPsiyrW0PbY) by [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
+* [Automate Microsoft Forms submitted data flow with Power Automate](https://www.youtube.com/watch?v=Wf29I1qId6A) by [Enea Liçaj](https://twitter.com/EneaIlias) (novaCapta)
+* [What’s New in Microsoft Teams Toolkit - January 2024](https://www.youtube.com/watch?v=qPsiyrW0PbY) by [John Miller](https://twitter.com/jmillerdev) (Microsoft)| @jmillerdev
 * [Extend Copilot for Microsoft 365: Teams Toolkit connector sample](https://www.youtube.com/watch?v=j1El0uMyfXk) by [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm and [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Introduction to custom templates in Viva Amplify for efficient corporate communications](https://www.youtube.com/watch?v=ET82Dkx0Rvg) by [Liz Sundet](https://twitter.com/percusn) (Microsoft) | @percusn
 * [Patterns for Consuming Microsoft Graph via Azure Services in Viva Connections ACE cards](https://www.youtube.com/watch?v=S9nt3-V1Fsg) by [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
@@ -131,6 +132,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 14th of March, 2024](https://www.youtube.com/watch?v=Zo1RvFcTdDg)
 * [Microsoft 365 & Power Platform weekly call – 12th of March, 2024](https://www.youtube.com/watch?v=l7Q0hooVdEQ)
 * [Viva Connections and SharePoint Framework community call 7th of March 2024](https://www.youtube.com/watch?v=lLn0XSDxv44)
 
