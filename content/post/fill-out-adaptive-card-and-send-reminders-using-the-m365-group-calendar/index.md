@@ -2,7 +2,7 @@
 # this is the title
 title: "Send calendar reminders to particular Teams messages by utilising adaptive cards and the M365 Group Calendar"
 # this is the publishing date of your article, usually this should match "now"
-date: 2024-03-20T08:40:00-04:00
+date: 2024-03-20T08:40:00-11:00
 # This is your name
 author: "Hubert Lam"
 # This is your GitHub name
