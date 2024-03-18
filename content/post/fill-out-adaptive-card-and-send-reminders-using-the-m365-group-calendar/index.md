@@ -26,7 +26,7 @@ Microsoft Teams is fantastic for teamwork, but it still has its shortcomings esp
 As of writing, the context menu on every Teams Channel message provides a **Create task** button:
 ![Planner task entry - does not pop up with a reminder](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Planner.png)
 
-However, the Planner task practically does not pop up. In fact, Planner can be quite unhelpful as it keeps generating additional emailed reminders. Hardly a good solution when some of us are suffering from email overload.
+However, by design the Planner task practically does not pop up until 2 days before the set due date. In fact, Planner can be quite unhelpful as it keeps generating additional emailed reminders. Hardly a good solution when some of us are suffering from email overload.
 
 ## Sending out a calendar event? Power Automate's built in action is limited too.
 The best solution so far is to utilise a user's calendar, which will pop up "in your face". 
@@ -42,4 +42,8 @@ The following Power Automate flow will:
 * Show all reminders appear on the Group Calendar, whether it be viewed in Outlook or the SharePoint modern web app
 ![The overall sequence of actions](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Add%20to%20calendar.png)
 Note that this solution does not utilise just a plain SharePoint list (with a Calendar view tacked on) or the more special Event list. 
+
+## Create a new flow based on "For a selected Teams message"
+We'll start by creating a new **Instant cloud flow**, which uses the **For a selected message (V2)** trigger.
+![New instant cloud flow](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Instant%20cloud%20flow.png)
 
