@@ -547,4 +547,5 @@ The `TeamsTagArray` variable's value is set with the expression `split(outputs('
 ![TeamsTagArray variable value](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/TeamsTagArray.png))
 
 
-
+# Accompanying video
+https://www.youtube.com/watch?v=7VngNR3tv3k
