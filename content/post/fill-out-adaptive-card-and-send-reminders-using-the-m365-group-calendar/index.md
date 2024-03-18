@@ -36,11 +36,12 @@ However, the limitations of Power Automate's **Create an event (V4)** action is 
 
 # Solution
 The following Power Automate flow will:
-* Allow _all_ users of the team to execute
-* Uses the Team's Group Calendar to send out events that aren't necessarily online meetings.
+* Allow _all_ users (and not just one user) of the team to execute and preset a reminder.
+* Uses the Team's **M365 Group Calendar** to send out an event that isn't an online meeting.
   - An optional reminder time can be set (similar to usual Outlook calendar events) and pop up on team member's calendar reminders
-* Show all reminders appear on the Group Calendar, whether it be viewed in Outlook or the SharePoint modern web app
+* Allow the event to appear in locations where the Group Calendar events can be viewed, whether it be in Outlook or the SharePoint modern webpart.
 ![The overall sequence of actions](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Add%20to%20calendar.png)
+
 Note that this solution does not utilise just a plain SharePoint list (with a Calendar view tacked on) or the more special Event list. 
 
 ## Create a new flow based on "For a selected Teams message"
@@ -48,6 +49,7 @@ We'll start by creating a new **Instant cloud flow**, which uses the **For a sel
 ![New instant cloud flow](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Instant%20cloud%20flow.png)
 
 An example of the adaptive card which this trigger is based on:
+
 ```json
 {
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
@@ -561,6 +563,7 @@ Later, an Apply to Each loop will run through this array to fetch all of the @me
 
 Finally, there may be duplicate team members if there are multiple groups of people selected to remind. The `Join` action will take the union of the `AllReminderEmails` variable with itself to remove duplicates, and then join the remaining de-duplicated output with a comma and space:
 ```union(variables('AllReminderEmails'),variables('AllReminderEmails'))```
+
 ![Join - remove duplicates](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Join%20-%20remove%20duplicates.png)
 
 ### Send Group Event (scope)
