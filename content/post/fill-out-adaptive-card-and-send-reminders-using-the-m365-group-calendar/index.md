@@ -22,10 +22,17 @@ type: "regular"
 # Rationale
 Microsoft Teams is fantastic for teamwork, but it still has its shortcomings especially when it comes to setting reminders. 
 
+## Planner: Create a task, but the due date doesn't pop up on the calendar
 As of writing, the context menu on every Teams Channel message provides a **Create task** button:
-https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Planner.png
+![Planner task entry - does not pop up with a reminder](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Planner.png)
 
-However, the Planner task practically does not pop up. The best solution so far is to utilise a user's calendar, but the limitations of Power Automate's **Create an event (V4)** action is quite troublesome - without some sophisticated discovery of the initiating user's default calendar ID, it's not a flow that can be used by any member of the Team.
+However, the Planner task practically does not pop up. In fact, Planner can be quite unhelpful as it keeps generating additional emailed reminders. Hardly a good solution when some of us are suffering from email overload.
+
+## Sending out a calendar event? Power Automate's built in action is limited too.
+The best solution so far is to utilise a user's calendar, which will pop up "in your face". 
+
+However, the limitations of Power Automate's **Create an event (V4)** action is quite troublesome - without some sophisticated discovery of the initiating user's default calendar ID, it's not a flow that can be used by any member of the Team. We want every team member to be able to generate these reminders for the rest of the team.
+
 
 # Solution
 The following Power Automate flow will:
@@ -33,5 +40,6 @@ The following Power Automate flow will:
 * Uses the Team's Group Calendar to send out events that aren't necessarily online meetings.
   - An optional reminder time can be set (similar to usual Outlook calendar events) and pop up on team member's calendar reminders
 * Show all reminders appear on the Group Calendar, whether it be viewed in Outlook or the SharePoint modern web app
-
+![The overall sequence of actions](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Add%20to%20calendar.png)
 Note that this solution does not utilise just a plain SharePoint list (with a Calendar view tacked on) or the more special Event list. 
+
