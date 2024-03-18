@@ -23,4 +23,15 @@ type: "regular"
 Microsoft Teams is fantastic for teamwork, but it still has its shortcomings especially when it comes to setting reminders. 
 
 As of writing, the context menu on every Teams Channel message provides a **Create task** button:
+https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Planner.png
 
+However, the Planner task practically does not pop up. The best solution so far is to utilise a user's calendar, but the limitations of Power Automate's **Create an event (V4)** action is quite troublesome - without some sophisticated discovery of the initiating user's default calendar ID, it's not a flow that can be used by any member of the Team.
+
+# Solution
+The following Power Automate flow will:
+* Allow _all_ users of the team to execute
+* Uses the Team's Group Calendar to send out events that aren't necessarily online meetings.
+  - An optional reminder time can be set (similar to usual Outlook calendar events) and pop up on team member's calendar reminders
+* Show all reminders appear on the Group Calendar, whether it be viewed in Outlook or the SharePoint modern web app
+
+Note that this solution does not utilise just a plain SharePoint list (with a Calendar view tacked on) or the more special Event list. 
