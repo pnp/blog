@@ -20,11 +20,11 @@ draft: true
 
 The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kiruveedula-529b7a148), Product Manager, Microsoft.
 
-* **Update on changes to app entry point and dev sideloading** Go over new updates to UI sideloading for Outlook add-ins and discuss potential delay in sideloading.[Kate Everitt](https://www.linkedin.com/in/kate-everitt-6aa69a3/), Principal Product Manager, Microsoft.
+* **Update on changes to app entry point and dev sideloading** Go over new updates to UI sideloading for Outlook add-ins and discuss potential delay in sideloading. [Kate Everitt](https://www.linkedin.com/in/kate-everitt-6aa69a3/), Principal Product Manager, Microsoft.
 
-* **Writing assistance Update from the Word Extensibility team** Released a new feature called Writing Assistance for Word add-ins that will allow developers to leaverage some of the on-canvas elements used by editor in Word. Can begin testing feature now. [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. [Ana Pegan](https://www.linkedin.com/in/anapegan/), Senior Product Manager, Microsoft.
+* **Writing assistance Update from the Word Extensibility team** Released a new feature called Writing Assistance for Word add-ins that will allow developers to leverage some of the on-canvas elements present in the editor in Word. Can begin testing feature now. [Yun Wang](https://www.linkedin.com/in/wang-yun-99370463/?originalSubdomain=cn), Principal Product Manager, Microsoft. [Ana Pegan](https://www.linkedin.com/in/anapegan/), Senior Product Manager, Microsoft.
 
-* **Security enhancements to callback tokens for Office add-ins** Enhancements have been made to callback tokens to increase security, released a new API.[Akhilesh Shah](https://www.linkedin.com/in/akhileshshah/), Senior Product Manager, Microsoft.
+* **Security enhancements to callback tokens for Office add-ins** Enhancements have been made to callback tokens to increase security, have released a new API that incorporates these changes. [Akhilesh Shah](https://www.linkedin.com/in/akhileshshah/), Senior Product Manager, Microsoft.
 
 * **Add-in entrance moved from Insert Tab to Home Tab and File Menu** The add-in entrance for Word, Excel, and PowerPoint has moved from being under the Insert tab to being located on the Home tab and File menu. [Adrian Wu](https://www.linkedin.com/in/adrian-wu-53462582/?originalSubdomain=cn), Senior Product Manager, Microsoft.
 
@@ -67,7 +67,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 Still investigating this question.
 
 
-**will the delay be removed for the centralized deployment as well? Admin deployed addins from the store?**
+**Will the delay be removed for the centralized deployment as well? Admin deployed addins from the store?**
 
 I don't have the answers to this but I hear the need for quick deployment across multiple surfaces.
 
