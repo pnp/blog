@@ -518,7 +518,8 @@ An example of the adaptive card which this trigger is based on:
             ]
         }
     ]
-}```
+}
+```
 
 A few notes about this card:
 * It emulates the fields which any user will have to fill out in order to create an Outlook calendar event. Those fields are:
@@ -529,6 +530,21 @@ A few notes about this card:
   - Select the starting and finishing times
   - Select the timeframe before this event occurs to remind others
 * Fields which Outlook doesn't have, but this card possesses in order to take advantage of Teams feature(s)
-  - Select who to remind (this looks up the @mention tags that are created and only reminds those people)
+  - Select who to remind (multi-select field, this looks up the @mention tags that are created for that team and only reminds those people)
+
+![Outlook emulating adaptive card](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Calendar%20Reminder%20AC.png))
+
+## Constructing the flow
+The flow will require some **Compose** actions and a stack of variables to handle the dates and times as strings.
+
+| **Variable name** | **Variable type** |  **What it does** | 
+|--|--|--|
+| `StartTime` | String | Holds the start time as a string. If it's an All Day event, it will be overwritten with `event-dateT00:00:00.000000` |
+| `FinishTime` | String | As above, but for the finishing time. For All Day events, the `addDays` Power Automate function is used to add one day to the `StartTime` | 
+| `TeamsTagArray` | Array | Holds the Teams @mention tag names to lookup | 
+
+The `TeamsTagArray` variable's value is set with the expression `split(outputs('Compose_-_all_ticked_groups_of_staff_to_remind'),',')` . This splits the existing "array" of comma separated values passed on from the adaptive card.
+![TeamsTagArray variable value](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/TeamsTagArray.png))
+
 
 
