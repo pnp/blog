@@ -47,3 +47,475 @@ Note that this solution does not utilise just a plain SharePoint list (with a Ca
 We'll start by creating a new **Instant cloud flow**, which uses the **For a selected message (V2)** trigger.
 ![New instant cloud flow](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Instant%20cloud%20flow.png)
 
+An example of the adaptive card which this trigger is based on:
+```{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.3",
+    "msteams": {
+        "width": "Full"
+    },
+    "body": [
+        {
+            "type": "Container",
+            "style": "emphasis",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "75px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "width": "75px",
+                                    "url": "https://<URL>/Alert_2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "wrap": true,
+                                    "size": "Large",
+                                    "weight": "Bolder",
+                                    "color": "Attention",
+                                    "text": "**Add calendar entry into Mathematics Department M365 Group Calendar**"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": "- This form is used to set events in the Mathematics Department's M365 Group Calendar to remind staff of particular items.\n- If it involves an online (Teams) meeting, set the Teams meeting directly in MS Teams.\n- Recurrent events can't be set this way. If you need to set a recurrent reminder, create an entry into the **Group Calendar** directly.",
+            "wrap": true
+        },
+        {
+            "type": "Container",
+            "style": "warning",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Menu_Top.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Event title",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "Input.Text",
+                                    "spacing": "None",
+                                    "isRequired": true,
+                                    "id": "event-title",
+                                    "errorMessage": "Give a description of an event, or provide a link to the document to be filled out",
+                                    "label": "e.g. Year 12 Assessment Task 3 letters due",
+                                    "placeholder": "Enter the event title here"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ]
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Document_Detail.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Give a description of the event",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "text": "- This Teams discussion thread's link is automatically included in the calendar entry. \n- If you'd like a document to be filled out, paste the sharing link to the document ",
+                                    "wrap": true,
+                                    "spacing": "None"
+                                },
+                                {
+                                    "type": "Input.Text",
+                                    "spacing": "None",
+                                    "isRequired": true,
+                                    "id": "event-description",
+                                    "placeholder": "Given a description of the event",
+                                    "errorMessage": "Please enter an event title",
+                                    "label": "The Teams discussion thread is automatically linked in the calendar entry"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge"
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Speech_Alert.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Set the importance of the event",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "Input.ChoiceSet",
+                                    "choices": [
+                                        {
+                                            "title": "Normal",
+                                            "value": "normal"
+                                        },
+                                        {
+                                            "title": "High",
+                                            "value": "high"
+                                        }
+                                    ],
+                                    "placeholder": "Select the importance of the calendar event",
+                                    "isRequired": true,
+                                    "id": "event-importance",
+                                    "style": "expanded",
+                                    "spacing": "None",
+                                    "errorMessage": "Set the importance of the calendar reminder",
+                                    "label": "High importance events will be marked differently"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge"
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Play.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Select the date of the event",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "Input.Date",
+                                    "spacing": "None",
+                                    "isRequired": true,
+                                    "errorMessage": "Please select the date of the event",
+                                    "id": "event-date",
+                                    "label": "Use the date dropdown to select the date"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge"
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Reverse_Time.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Select the starting and finishing times",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "text": "By default, both the starting and finish times are set to midnight to indicate an All Day event. \n\nIf alternative Starting and Finish times are required, set them to different times of the day. The Finish time needs to be later than the Starting time.",
+                                    "wrap": true,
+                                    "spacing": "None"
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "width": "stretch",
+                                            "items": [
+                                                {
+                                                    "type": "Input.Time",
+                                                    "spacing": "None",
+                                                    "id": "event-start-time",
+                                                    "label": "Starting time",
+                                                    "errorMessage": "Enter a starting time for the calendar reminder",
+                                                    "value": "00:00",
+                                                    "isRequired": true
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "Column",
+                                            "width": "stretch",
+                                            "items": [
+                                                {
+                                                    "type": "Input.Time",
+                                                    "id": "event-finish-time",
+                                                    "label": "Finish time",
+                                                    "errorMessage": "Enter a finish time for the calendar reminder",
+                                                    "value": "00:00",
+                                                    "isRequired": true
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "spacing": "Large"
+                                }
+                            ]
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge",
+                    "id": "event-start-finish-time-block",
+                    "style": "attention",
+                    "bleed": true
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/Speech_Alert.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Select the timeframe before this event occurs to remind others",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "Input.ChoiceSet",
+                                    "choices": [
+                                        {
+                                            "title": "15 min before",
+                                            "value": "remind-15"
+                                        },
+                                        {
+                                            "title": "1 hour before",
+                                            "value": "remind-60"
+                                        },
+                                        {
+                                            "title": "3 hours before",
+                                            "value": "remind-180"
+                                        },
+                                        {
+                                            "title": "1 day before",
+                                            "value": "remind-1-day"
+                                        },
+                                        {
+                                            "title": "3 days before",
+                                            "value": "remind-3-day"
+                                        },
+                                        {
+                                            "title": "1 week before",
+                                            "value": "remind-1-week"
+                                        },
+                                        {
+                                            "title": "No reminder required",
+                                            "value": "remind-none"
+                                        }
+                                    ],
+                                    "placeholder": "Select how long before the event to remind staff",
+                                    "isRequired": true,
+                                    "id": "event-reminder",
+                                    "spacing": "None",
+                                    "errorMessage": "Select the timeframe when Executive Staff should be reminded",
+                                    "label": "Avoid setting \"No reminder required\""
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge"
+                },
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "50px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://<URL>/class-light.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Select who to remind",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "Input.ChoiceSet",
+                                    "choices": [
+                                        {
+                                            "title": "2024 Teaching Staff",
+                                            "value": "2024 Teaching Staff"
+                                        },
+                                        {
+                                            "title": "Year 7 Teachers",
+                                            "value": "Year 7 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 8 Teachers",
+                                            "value": "Year 8 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 9 Teachers",
+                                            "value": "Year 9 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 10 Teachers",
+                                            "value": "Year 10 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 11 Teachers",
+                                            "value": "Year 11 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 11 Adv Teachers",
+                                            "value": "Year 11 Adv Teachers"
+                                        },
+                                        {
+                                            "title": "Year 11 X1 Teachers",
+                                            "value": "Year 11 X1 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 12 Teachers",
+                                            "value": "Year 12 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 12 Adv/X1 Teachers",
+                                            "value": "Year 12 Adv/X1 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 12 X1/X2 Teachers",
+                                            "value": "Year 12 X1/X2 Teachers"
+                                        },
+                                        {
+                                            "title": "Year 12 X2 Teachers",
+                                            "value": "Year 12 X2 Teachers"
+                                        },
+                                        {
+                                            "title": "Mathematics (local PDP) Teachers",
+                                            "value": "Mathematics (local PDP) Teachers"
+                                        }
+                                    ],
+                                    "placeholder": "Select the groups of staff to remind",
+                                    "isRequired": true,
+                                    "id": "event-teams-tags",
+                                    "spacing": "None",
+                                    "errorMessage": "Select at least one group of staff to remind",
+                                    "label": "Tick all that apply. Teachers who are part of the ticked Teams tags will be reminded.",
+                                    "isMultiSelect": true
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ],
+                    "separator": true,
+                    "spacing": "ExtraLarge"
+                }
+            ]
+        }
+    ]
+}```
