@@ -48,7 +48,8 @@ We'll start by creating a new **Instant cloud flow**, which uses the **For a sel
 ![New instant cloud flow](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Instant%20cloud%20flow.png)
 
 An example of the adaptive card which this trigger is based on:
-```{
+```json
+{
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "type": "AdaptiveCard",
     "version": "1.3",
@@ -543,9 +544,190 @@ The flow will require some **Compose** actions and a stack of variables to handl
 | `FinishTime` | String | As above, but for the finishing time. For All Day events, the `addDays` Power Automate function is used to add one day to the `StartTime` | 
 | `TeamsTagArray` | Array | Holds the Teams @mention tag names to lookup | 
 
+### TeamsTagArray
 The `TeamsTagArray` variable's value is set with the expression `split(outputs('Compose_-_all_ticked_groups_of_staff_to_remind'),',')` . This splits the existing "array" of comma separated values passed on from the adaptive card.
 ![TeamsTagArray variable value](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/TeamsTagArray.png))
 
+Later, an Apply to Each loop will run through this array to fetch all of the @mention tag IDs within the Team. The loop will:
+![Looping through the TeamsTagArray](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Looping%20through%20the%20TeamsTagArray.png)
 
-# Accompanying video
+* Filter out all of the non-current tags
+* Get the current tag ID (`Compose - current Team tag`)
+* List the members for the current tag
+* Loop through all of the members and fetch their email addresses, place it into the `TeamsTagMembers` array variable
+* Append an additional JSON object to the `AllReminderEmails` array variable (ready for placement into as a recipient in the calendar event)
+
+![Looping through the TeamsTagArray (second part of screenshot)](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Looping%20through%20the%20TeamsTagArray%202.png)
+
+Finally, there may be duplicate team members if there are multiple groups of people selected to remind. The `Join` action will take the union of the `AllReminderEmails` variable with itself to remove duplicates, and then join the remaining de-duplicated output with a comma and space:
+```union(variables('AllReminderEmails'),variables('AllReminderEmails'))```
+![Join - remove duplicates](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Join%20-%20remove%20duplicates.png)
+
+### Send Group Event (scope)
+The next major step is to create an event in the Group Calendar that belongs to the Team. The default Power Automate action does not allow that event to be "sent" to other recipients, so the **Send HTTP Request** action is needed.
+
+In short, the actions in this scope will:
+* Get the `Team ID` which the flow was triggered from
+* Get the details of the M365 Group from the `Team ID` by using a filter on the groups that the user owns/belongs to
+* Filters the list of the M365 Groups obtained, so that only the one relevant to the Team is left
+* Fetch the Group Email address (so that the "organiser" of the event if the M365 Group)
+  - Also fetch the Group Name (as a display name)
+* Send the HTTP Request
+
+![Send Group Event scope](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Send%20Group%20Event%201.png)
+
+
+#### Send HTTP Request (V2) - M365 Groups edition
+The `URI` to use is the following:
+```https://graph.microsoft.com/v1.0/groups/@{outputs('Compose_-_Group_ID')}/events```
+
+The body:
+```json
+{
+    "reminderMinutesBeforeStart": @{variables('MinuteBeforeToRemind')},
+    "isReminderOn": true,
+    "hasAttachments": false,
+"showAs": "tentative",
+    "subject": "@{triggerBody()?['cardOutputs']?['event-title']}",
+    "importance": "@{triggerBody()?['cardOutputs']?['event-importance']}",
+    "sensitivity": "normal",
+    "isAllDay": @{variables('AllDayEvent')},
+    "isCancelled": false,
+"body": {
+        "contentType": "html",
+        "content": "@{replace(replace(variables('MessageBody'),'"','\"'),decodeUriComponent('%0A'),'\n')}"
+    },
+    "start": {
+        "dateTime": "@{if(equals(outputs('Compose_-_Original_Start_Time'), outputs('Compose_-_Original_Finish_Time')), variables('StartTime'), body('Convert_time_zone_-_StartTime_to_Group_Calendar'))}",
+        "timeZone": "AUS Eastern Standard Time"
+    },
+    "end": {
+        "dateTime": "@{if(equals(outputs('Compose_-_Original_Start_Time'), outputs('Compose_-_Original_Finish_Time')), variables('FinishTime'), body('Convert_time_zone_-_FinishTime_to_Group_Calendar'))}",
+        "timeZone": "AUS Eastern Standard Time"
+    },
+    "location": {
+        "displayName": "",
+        "locationType": "default",
+        "uniqueIdType": "unknown",
+        "address": {},
+        "coordinates": {}
+    },
+    "locations": [],
+    "recurrence": null,
+    "attendees": [
+@{body('Join_-_All_exec_emails')}
+    ],
+    "organizer": {
+        "emailAddress": {
+            "name": "@{outputs('Compose_-_Group_Name')}",
+            "address": "@{outputs('Compose_-_Group_Email')}"
+        }
+    }
+}
+```
+
+![Send Group Event - Send HTTP Request](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Send%20Group%20Event%202.png)
+  
+
+### The final adaptive card
+
+Once the Group Calendar entry is created, it will also wriggle itself on to the selected tag members' mailboxes :) An adaptive card is then posted as a reply to the same thread to indicate a reminder has been set:
+```json
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.4",
+    "msteams": {
+        "width": "Full"
+    },
+    "body": [
+        {
+            "type": "Container",
+            "style": "emphasis",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "40px",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "width": "50px",
+                                    "url": "https://<URL>/Alert_2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "wrap": true,
+                                    "size": "Large",
+                                    "weight": "Bolder",
+                                    "color": "Attention",
+                                    "text": "**Reminder set: @{triggerBody()?['cardOutputs']?['event-title']}**"
+                                }
+                            ],
+                            "verticalContentAlignment": "Center"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "style": "warning",
+            "items": [
+                {
+                    "type": "FactSet",
+                    "facts": [
+                        {
+                            "title": "Date",
+                            "value": "@{body('Convert_time_zone_-_event_date')}"
+                        },
+                        {
+                            "title": "Who to remind",
+                            "value": "@{body('Join_-_Teams_tag_names')}"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.OpenUrl",
+                    "title": "See original Teams message",
+                    "iconUrl": "<URL>/teams.png",
+                    "url": "@{triggerBody()?['teamsFlowRunContext']?['messagePayload']?['linkToMessage']}"
+                },
+                {
+                    "type": "Action.OpenUrl",
+                    "title": "See Mathematics Department Group Calendar",
+                    "iconUrl": "https://<URL>/sharepoint.png",
+                    "url": "https://<url_to_sharepoint_intranet</a>"
+                }
+            ]
+        }
+    ]
+}
+```
+
+
+
+## Accompanying video
 https://www.youtube.com/watch?v=7VngNR3tv3k
+
+
+# Conclusion
+The Mathematics Department at Normanhurst Boys High School, Sydney, NSW, Australia has been using this user triggered flow for the past 18 months, and every time someone has set a calendar reminder in this way, it has saved them time from going to their mailbox, then selecting recipients, and then letting the Team know a new calendar entry has been created.
+
+Nobody so far, has forgotten the item that they were meant to have been reminded of, given the broad number of ways that M365 Group Calendar entries make themselves appear:
+* On a user's mailbox
+* Pop up as a reminder at the specified time period prior to the event
+* On a SharePoint Modern Group Calendar webpart.
