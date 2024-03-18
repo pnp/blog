@@ -17,3 +17,10 @@ tags: []
 # don't change
 type: "regular"
 ---
+
+
+# Rationale
+Microsoft Teams is fantastic for teamwork, but it still has its shortcomings especially when it comes to setting reminders. 
+
+As of writing, the context menu on every Teams Channel message provides a **Create task** button:
+<img width="711" alt="image" src="https://github.com/z3019494/blog/assets/60587625/c423f1ae-5ae5-4a29-a4e6-09ec16c0c78d">
