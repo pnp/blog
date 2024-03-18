@@ -519,3 +519,16 @@ An example of the adaptive card which this trigger is based on:
         }
     ]
 }```
+
+A few notes about this card:
+* It emulates the fields which any user will have to fill out in order to create an Outlook calendar event. Those fields are:
+  - Event title
+  - Give a description of the event
+  - Set the importance of the event
+  - Select the date of the event
+  - Select the starting and finishing times
+  - Select the timeframe before this event occurs to remind others
+* Fields which Outlook doesn't have, but this card possesses in order to take advantage of Teams feature(s)
+  - Select who to remind (this looks up the @mention tags that are created and only reminds those people)
+
+
