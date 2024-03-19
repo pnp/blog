@@ -34,7 +34,7 @@ Check out the full list of updates in this release 👇:
 
 Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a bit more detail 👇
 
-## 🚀 Generate and Azure DevOps pipeline along with generating a certificate and Entra app registration for your login flow
+## 🚀 Generate an Azure DevOps pipeline along with generating a certificate and Entra app registration for your login flow
 
 ![Azure DevOps support](images/azdo-support.png)
 
@@ -52,7 +52,7 @@ If needed go over the [docs for more guidance](https://github.com/pnp/vscode-viv
 
 ![CI/CD pipeline in action](images/azdo-ci-cd.gif)
 
-We don't plan to stop here 😍. We would love to hear your feedback 🙏 and in the future releases we are already investigating more ways how this experience could be improved and to provide support for GitLab 🤯
+We don't plan to stop here 😍. We would love to hear your feedback 🙏 and in future releases we are already investigating more ways how this experience could be improved and to provide support for GitLab 🤯
 
 ## 🆕 New and better way to scaffold your SPFx project
 
@@ -68,23 +68,23 @@ Check it out in action 👇
 
 ![scaffodling in action](images/scaffolding-form.gif)
 
-We don't plan to stop here 😍. We would love to hear your feedback 🙏 and in future releases, we are already checking for more ways to improve the scaffolding process like adding fast-serve integration, or more scaffolding templates that for example will use react hooks by default.
+We don't plan to stop here 😍. We would love to hear your feedback 🙏 in future releases, we are already checking for more ways to improve the scaffolding process like adding fast-serve integration, or more scaffolding templates that for example will use react hooks by default.
 
 ## 👀 More tenant management features
 
-Viva Connections toolkit is not only about developing but also managing your SPFx solutions. In this release we revisited our account and environment tree views. 
+Viva Connections toolkit is not only about developing but also managing your SPFx solutions. In this release, we revisited our account and environment tree views. 
 
-In the first one, we provide you with more navigation links that might be helpful for your work like links to SharePoint admin portal or to the web API permission management page. We also added a new section that will show you all service health incidents that are currently happening on your tenant. Clicking on the link will redirect you to the health incident report. This should give you more insights about what's going on with your tenant and may give you a quick answer why some of the features you are using might not be working properly
+In the first one, we provide you with more navigation links that might be helpful for your work like links to the SharePoint admin portal or to the web API permission management page. We also added a new section that will show you all service health incidents that are currently happening on your tenant. Clicking on the link will redirect you to the health incident report. This should give you more insights about what's going on with your tenant and may give you a quick answer as to why some of the features you are using might not be working properly
 
 The environment view was renamed to 'app catalog details' and in this release, we added an additional feature to give you more power around managing your SPFx solutions. We added a list that shows you tenant-wide extensions installed on your tenant. This is just a first step in more management features but it will already give you a quick overview of all of the solutions that are impacting your SharePoint online pages, or lists, or forms.
 
 ![More tenant management features](images/tenant-info.png)
 
-We don't plan to stop here 😍. We would love to hear your feedback 🙏 and in future releases, we are already thinking on more ways that will allow you to manage deployed SPFx packages to your app catalogs.
+We don't plan to stop here 😍. We would love to hear your feedback 🙏 and in future releases, we are already thinking of more ways that will allow you to manage deployed SPFx packages to your app catalogs.
 
 ## 🗺️ Future roadmap
 
-This release is our last step before the next v3 release of this extension. Check out the [issue list for v3 release](https://github.com/pnp/vscode-viva/issues?q=is%3Aopen+is%3Aissue+milestone%3Av3.0) to find out more. And we don't plan to stop, we are already thinking of v4 and new ways to extend features that were introduced in this release. If you want to check what we are planning or add your own idea please [join the discussion](https://github.com/pnp/vscode-viva/discussions/159). Feedback appreciated 👍.
+This release is our last step before the next v3 release of this extension. Check out the [issue list for v3 release](https://github.com/pnp/vscode-viva/issues?q=is%3Aopen+is%3Aissue+milestone%3Av3.0) to find out more. And we don't plan to stop, we are already thinking of v4 and new ways to extend features that were introduced in this release. If you want to check what we are planning or add your own idea please [join the discussion](https://github.com/pnp/vscode-viva/discussions/159). Feedback is appreciated 👍.
 
 ## 👍 Power of the community
 
