@@ -1,6 +1,6 @@
 ---
 title: "Power Platform extensibility options in Power Automate"
-date: 2024-03-10T08:50:00-04:00
+date: 2024-03-20T08:50:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
