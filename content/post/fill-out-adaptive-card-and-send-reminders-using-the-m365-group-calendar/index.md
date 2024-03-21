@@ -11,7 +11,7 @@ githubname: z3019494
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/Reminder AC.png
+- images/Reminder%20AC.png
 # don't change
 tags: []
 # don't change
