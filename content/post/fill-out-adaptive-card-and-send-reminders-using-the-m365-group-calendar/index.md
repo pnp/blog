@@ -11,7 +11,7 @@ githubname: z3019494
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/Reminder%20AC.png
+- https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Reminder%20AC.png
 # don't change
 tags: []
 # don't change
