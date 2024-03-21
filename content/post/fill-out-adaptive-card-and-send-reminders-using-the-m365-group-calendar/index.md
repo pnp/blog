@@ -11,7 +11,7 @@ githubname: z3019494
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Reminder%20AC.png
+- images/ReminderAC.png
 # don't change
 tags: []
 # don't change
@@ -28,7 +28,7 @@ As of writing, the context menu on every Teams Channel message provides a **Crea
 
 However, by design the Planner task practically does not pop up until 2 days before the set due date. In fact, Planner can be quite unhelpful as it keeps generating additional emailed reminders. Hardly a good solution when some of us are suffering from email overload.
 
-## Sending out a calendar event? Power Automate's built in action is limited too.
+## Sending out a calendar event? Power Automate's built in "Create an event (V4)" action is limited too.
 The best solution so far is to utilise a user's calendar, which will pop up "in your face". 
 
 However, the limitations of Power Automate's **Create an event (V4)** action is quite troublesome - without some sophisticated discovery of the initiating user's default calendar ID, it's not a flow that can be used by any member of the Team. We want every team member to be able to generate these reminders for the rest of the team.
