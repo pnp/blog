@@ -13,9 +13,9 @@ type: "regular"
 ## Power Platform extensibility options series
 
 1. Power Platform extensibility options - this article
-1. [Power Apps](./../power-platform-extensibility-02/index.md)
-1. [Power Automate](./../power-platform-extensibility-03/index.md)
-1. [Dataverse](./../power-platform-extensibility-04/index.md)
+1. [Power Apps](./../power-platform-extensibility-02)
+1. [Power Automate](./../power-platform-extensibility-03)
+1. [Dataverse](./../power-platform-extensibility-04)
 
 ## Don't code if you don't need to
 
@@ -50,6 +50,6 @@ The following articles in the series present available options in more detail, o
 > Important: Some of the capabilities described in this series are still in **preview** at the time of writing. Always refer to the official documentation to ensure your solution is using generally available capabilities.
 
 1. Power Platform extensibility options - this article
-1. [Power Apps](./../power-platform-extensibility-02/index.md)
-1. [Power Automate](./../power-platform-extensibility-03/index.md)
-1. [Dataverse](./../power-platform-extensibility-04/index.md)
+1. [Power Apps](./../power-platform-extensibility-02)
+1. [Power Automate](./../power-platform-extensibility-03)
+1. [Dataverse](./../power-platform-extensibility-04)
