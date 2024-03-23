@@ -714,7 +714,7 @@ Once the Group Calendar entry is created, it will also wriggle itself on to the 
                     "type": "Action.OpenUrl",
                     "title": "See Mathematics Department Group Calendar",
                     "iconUrl": "https://<URL>/sharepoint.png",
-                    "url": "https://<url_to_sharepoint_intranet"
+                    "url": "https://<url_to_sharepoint_intranet>"
                 }
             ]
         }
