@@ -66,6 +66,26 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
+### Power Platform monthly Community Call - 20th of March
+
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Wednesday, 20th of March, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+
+Demos: 
+
+* Migrating Applications from Lotus Notes/Domino to Dataverse and Power Apps - Mats Jansson (Adopteq)
+* Power Automate - "fits the gaps" for manufacturing with Dynamics 365 SCM - Matt Burback (Winnebago Industries)
+* Tracking Community Engagement in MS Teams - Reid Schmidling (Centene)
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+---
+
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 21st of March
 
 * Thursday, 21st of March 2024, 7:00 AM PT / 2:00 PM GMT
