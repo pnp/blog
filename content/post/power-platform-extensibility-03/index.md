@@ -47,6 +47,8 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 
 ![Extensibility options in Power Automate](./images/PowerAutomate.png)
 
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
+
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|
 |[Formulas - Power Apps](#formulas-using-power-fx) |Power Fx|✅|✅ |❌|❌|

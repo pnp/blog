@@ -43,6 +43,8 @@ The following summary outlines existing options for implementing business logic,
 
 ![Extensibility options](./images/Extensibility.png)
 
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
+
 ## Power Platform extensibility options series
 
 The following articles in the series present available options in more detail, outlining differences and whenever applicable, the limitations.

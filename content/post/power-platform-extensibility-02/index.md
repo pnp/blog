@@ -72,6 +72,8 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ![Extensibility options in Power Apps](./images/PowerApps.png)
 
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
+
 In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (client-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
 
 |||Canvas Apps|Model-driven Apps|[Custom Pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/design-page-for-model-app)|Power Pages|

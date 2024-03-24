@@ -53,6 +53,8 @@ Tables in Dataverse can use rich server-side logic and validation, to ensure dat
 
 ![Extensibility options in Dataverse](./images/Dataverse.png)
 
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
+
 ## Formula  columns using Power Fx
 
 Read more: [Formula  columns](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/formula-columns)
