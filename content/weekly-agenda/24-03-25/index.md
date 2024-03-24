@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -36,10 +36,9 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @Waldekm – Extend Copilot for Microsoft 365: Ingest local Microsoft Graph docs content using C# and .NET
-* Marc Windle (Microsoft) – Populate custom metadata on SharePoint Embedded files using AI processing
-* [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz – Create a prompt plugin for Copilot for Microsoft 365 with Microsoft Copilot Studio
-
+* [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz/) (Microsoft) – Create a prompt plugin for Copilot for Microsoft 365 with Microsoft Copilot Studio
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) – Populate custom metadata on SharePoint Embedded files using AI processing
+* [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) – Extend Copilot for Microsoft 365: Ingest local Microsoft Graph docs content using C# and .NET
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -55,10 +54,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Lee Ford](https://twitter.com/lee_ford) (Symity) | @lee_ford - How to capture Teams call records using Microsoft Graph subscriptions
-* [Michel Mendes](https://twitter.com/michelcarlo) (Avanade) | @MichelCarlo - Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages
-* [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII - Power Platform Animation - Tips, Tricks & Tools
-
+* [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity) - How to capture Teams call records using Microsoft Graph subscriptions
+* [Michel Mendes](https://www.linkedin.com/in/michelcarlo/) (Avanade) - Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages
+* [David Warner II](https://www.linkedin.com/in/davidwarnerii/) (Microsoft) - Power Platform Animation - Tips, Tricks & Tools
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -66,27 +64,33 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Extend Copilot for Microsoft 365: Advanced plug-ins considerations - case Northwind](https://www.youtube.com/watch?v=zfKwfo7AOl8) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
+* [Introduction to Approvals Kit for Power Platform](https://www.youtube.com/watch?v=4YE_I1cR7FY) - [Grant Archibald](https://www.linkedin.com/in/grantarchibald/) (Microsoft)
+* [Viva Connections Partner Showcase - Accelerator 365](https://www.youtube.com/watch?v=byMOGoBb3R0) - [Glyn Clough](https://www.linkedin.com/in/glynclough/) (Accelerator 365)
+* [Introduction to new PnP search web components to build your custom enterprise search web site](https://www.youtube.com/watch?v=e8cVL7xiVmo) - [Frank Cornu](https://www.linkedin.com/in/franckcornu/) (Ubisoft)
+* [Microsoft Lists - New Forms Experience [Now available]](https://www.youtube.com/watch?v=6RGEv3EqoLk) - [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft)
+* [Extend Copilot for Microsoft 365: Advanced plug-ins considerations - case Northwind](https://www.youtube.com/watch?v=zfKwfo7AOl8) by [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft)
 * [Maturity Model for Microsoft 365 - March 2024](https://www.youtube.com/watch?v=M-N_gLkRM0A)
-* [Building SPFx solution to get more insights on shared assets in SharePoint or Teams](https://www.youtube.com/watch?v=gW0f3AuESGA) by [Robin Meure](https://twitter.com/robinmeure) (Microsoft) | @robinmeure
-* [Microsoft 365 PnP Weekly - Episode 241 - Rick van Rousselt](https://www.youtube.com/watch?v=21xp4uUzzP0) with [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
-* [Build collaborative apps quickly on Microsoft 365 and SharePoint Embedded with Fluid Framework 2.0](https://www.youtube.com/watch?v=22HCu5cDpfk) by Kashif Qureshi (Microsoft) and Nick Simons (Microsoft)
+* [Building SPFx solution to get more insights on shared assets in SharePoint or Teams](https://www.youtube.com/watch?v=gW0f3AuESGA) by [Robin Meure](https://www.linkedin.com/in/robinmeure/) (Microsoft)
+* [Microsoft 365 PnP Weekly - Episode 241 - Rick van Rousselt](https://www.youtube.com/watch?v=21xp4uUzzP0) with [Rick Van Rousselt](https://www.linkedin.com/in/rickvanrousselt/) (Advantive)
+* [Build collaborative apps quickly on Microsoft 365 and SharePoint Embedded with Fluid Framework 2.0](https://www.youtube.com/watch?v=22HCu5cDpfk) by [Kashif Qureshi](https://www.linkedin.com/in/kashq/) (Microsoft) and [Nick Simons](https://www.linkedin.com/in/nmsimons/) (Microsoft)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+* [Dataverse Hierarchical security and how to include or exclude disabled status direct report’s record](https://www.youtube.com/watch?v=EpUru3MA1kY)
+* [Use the Power Automate Plug-in for Windows Copilot | Getting Started with Power Shorts](https://www.youtube.com/watch?v=xDj2lh7mQCw)
 * [How to get started with AI Classify in Power Apps](https://www.youtube.com/watch?v=UvNJSr6jncU)
 * [Add AI-generated code using Copilot in Visual Studio Code with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=OldCDObeipA)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Where do I start Microsoft 365? Teams apps in Teams, Outlook, and Copilot for Microsoft 365](https://www.youtube.com/watch?v=X6Fnhq54dvk) by [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German
-* [Supercharge your custom copilot in Teams with AI Vision and Automation](https://www.youtube.com/watch?v=hAjV4rpL_HY)
+* [New Teams Toolkit and Teams App CLI](https://www.youtube.com/watch?v=OS-BUN6QO5E) - [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft)
+* [Where do I start Microsoft 365? Teams apps in Teams, Outlook, and Copilot for Microsoft 365](https://www.youtube.com/watch?v=X6Fnhq54dvk) by [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft) | @Bob1German
+* [Supercharge your custom copilot in Teams with AI Vision and Automation](https://www.youtube.com/watch?v=hAjV4rpL_HY) by [Carter Gilliam](https://www.linkedin.com/in/r-carter-gilliam/) (Microsoft)
 
 
 ---
@@ -95,7 +99,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Simulate handling Teams Admin Center notifications for Microsoft Graph connectors](https://devblogs.microsoft.com/microsoft365dev/simulate-handling-teams-admin-center-notifications-for-microsoft-graph-connectors/) by [Majesty Uwagerikpe](https://www.linkedin.com/in/majesty-uwagerikpe-308619162/) (Microsoft) and [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) | @Waldekm – 
+* [Teams Toolkit for Visual Studio Code update – March 2024](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-march-2024/)
+* [Simulate handling Teams Admin Center notifications for Microsoft Graph connectors](https://devblogs.microsoft.com/microsoft365dev/simulate-handling-teams-admin-center-notifications-for-microsoft-graph-connectors/) by [Majesty Uwagerikpe](https://www.linkedin.com/in/majesty-uwagerikpe-308619162/) (Microsoft) and [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft)
 
 
 
@@ -103,8 +108,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [Microsoft 365 PnP Weekly - Episode 241 - Rick van Rousselt](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-241/) with [Rick Van Rousselt](https://twitter.com/RickVanRousselt) (Advantive) | @RickVanRousselt
-* [Viva Connections Toolkit v2.6.0 release - Azure DevOps pipeline support, a new scaffolding form with the possibility to install additional dependencies, and a lot lot more](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-6-release/) by [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878
+* [Microsoft 365 PnP Weekly - Episode 241 - Rick van Rousselt](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-241/) with [Rick Van Rousselt](https://www.linkedin.com/in/rickvanrousselt/) (Advantive) | @RickVanRousselt
+* [Viva Connections Toolkit v2.6.0 release - Azure DevOps pipeline support, a new scaffolding form with the possibility to install additional dependencies, and a lot lot more](https://pnp.github.io/blog/post/viva-connections-toolkit-vscode-v-2-6-release/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) | @Adam2585878
 
 
 ---
@@ -113,6 +118,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 21st of March 2024](https://www.youtube.com/watch?v=4DiMJA0SZXQ)
+* [Microsoft Power Platform community call – March 2024](https://www.youtube.com/watch?v=hxPctoJoprg)
 * [Microsoft 365 & Power Platform weekly call – 19th of March, 2024](https://www.youtube.com/watch?v=gderDdQO_M8)
 
 
@@ -155,7 +162,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 
-* [Modern Workplace Conference Paris 2024](https://www.communitydays.org/event/2024-03-18/modern-workplace-conference-paris-2024) - March 18-19, 2024 - Paris, France
 * [Microsoft Fabric community conference](https://www.communitydays.org/event/2024-03-26/microsoft-fabric-community-conference), March 26 - 28, 2024 - Las Vegas (Nevada), USA
 * [AMS Lausanne 2024](https://www.communitydays.org/event/2024-04-05/ams-lausanne-2024) - April 5, 2024 - Lausanne, Switzerland
 * [M365 Community Days NJ](https://www.communitydays.org/event/2024-04-06/m365-community-days-nj) - April 6-7, 2024 - New Jersey, USA
