@@ -24,7 +24,7 @@ Microsoft Teams is fantastic for teamwork, but it still has its shortcomings esp
 
 ## Planner: Create a task, but the due date doesn't pop up on the calendar
 As of writing, the context menu on every Teams Channel message provides a **Create task** button:
-![Planner task entry - does not pop up with a reminder](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Planner.png)
+![Planner task entry - does not pop up with a reminder](images/Planner.png)
 
 However, by design the Planner task practically does not pop up until 2 days before the set due date. In fact, Planner can be quite unhelpful as it keeps generating additional emailed reminders. Hardly a good solution when some of us are suffering from email overload.
 
@@ -40,13 +40,14 @@ The following Power Automate flow will:
 * Uses the Team's **M365 Group Calendar** to send out an event that isn't an online meeting.
   - An optional reminder time can be set (similar to usual Outlook calendar events) and pop up on team member's calendar reminders
 * Allow the event to appear in locations where the Group Calendar events can be viewed, whether it be in Outlook or the SharePoint modern webpart.
-![The overall sequence of actions](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Add%20to%20calendar.png)
+
+![Add to Calendar](images/AddToCalendar.png)
 
 Note that this solution does not utilise just a plain SharePoint list (with a Calendar view tacked on) or the more special Event list. 
 
 ## Create a new flow based on "For a selected Teams message"
 We'll start by creating a new **Instant cloud flow**, which uses the **For a selected message (V2)** trigger.
-![New instant cloud flow](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Instant%20cloud%20flow.png)
+![New instant cloud flow](images/Instant%20cloud%20flow.png)
 
 An example of the adaptive card which this trigger is based on:
 
@@ -535,7 +536,7 @@ A few notes about this card:
 * Fields which Outlook doesn't have, but this card possesses in order to take advantage of Teams feature(s)
   - Select who to remind (multi-select field, this looks up the @mention tags that are created for that team and only reminds those people)
 
-![Outlook emulating adaptive card](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Calendar%20Reminder%20AC.png))
+![Outlook emulating adaptive card](images/Calendar%20Reminder%20AC.png)
 
 ## Constructing the flow
 The flow will require some **Compose** actions and a stack of variables to handle the dates and times as strings.
@@ -548,10 +549,10 @@ The flow will require some **Compose** actions and a stack of variables to handl
 
 ### TeamsTagArray
 The `TeamsTagArray` variable's value is set with the expression `split(outputs('Compose_-_all_ticked_groups_of_staff_to_remind'),',')` . This splits the existing "array" of comma separated values passed on from the adaptive card.
-![TeamsTagArray variable value](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/TeamsTagArray.png))
+![TeamsTagArray variable value](images/TeamsTagArray.png)
 
 Later, an Apply to Each loop will run through this array to fetch all of the @mention tag IDs within the Team. The loop will:
-![Looping through the TeamsTagArray](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Looping%20through%20the%20TeamsTagArray.png)
+![Looping through the TeamsTagArray](images/Looping%20through%20the%20TeamsTagArray.png)
 
 * Filter out all of the non-current tags
 * Get the current tag ID (`Compose - current Team tag`)
@@ -559,12 +560,12 @@ Later, an Apply to Each loop will run through this array to fetch all of the @me
 * Loop through all of the members and fetch their email addresses, place it into the `TeamsTagMembers` array variable
 * Append an additional JSON object to the `AllReminderEmails` array variable (ready for placement into as a recipient in the calendar event)
 
-![Looping through the TeamsTagArray (second part of screenshot)](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Looping%20through%20the%20TeamsTagArray%202.png)
+![Looping through the TeamsTagArray (second part of screenshot)](images/Looping%20through%20the%20TeamsTagArray%202.png)
 
 Finally, there may be duplicate team members if there are multiple groups of people selected to remind. The `Join` action will take the union of the `AllReminderEmails` variable with itself to remove duplicates, and then join the remaining de-duplicated output with a comma and space:
 ```union(variables('AllReminderEmails'),variables('AllReminderEmails'))```
 
-![Join - remove duplicates](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Join%20-%20remove%20duplicates.png)
+![Join - remove duplicates](images/Join%20-%20remove%20duplicates.png)
 
 ### Send Group Event (scope)
 The next major step is to create an event in the Group Calendar that belongs to the Team. The default Power Automate action does not allow that event to be "sent" to other recipients, so the **Send HTTP Request** action is needed.
@@ -577,7 +578,7 @@ In short, the actions in this scope will:
   - Also fetch the Group Name (as a display name)
 * Send the HTTP Request
 
-![Send Group Event scope](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Send%20Group%20Event%201.png)
+![Send Group Event scope](images/Send%20Group%20Event%201.png)
 
 
 #### Send HTTP Request (V2) - M365 Groups edition
@@ -629,7 +630,7 @@ The body:
 }
 ```
 
-![Send Group Event - Send HTTP Request](https://github.com/z3019494/blog/blob/main/content/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/images/Send%20Group%20Event%202.png)
+![Send Group Event - Send HTTP Request](images/Send%20Group%20Event%202.png)
   
 
 ### The final adaptive card
@@ -713,7 +714,7 @@ Once the Group Calendar entry is created, it will also wriggle itself on to the 
                     "type": "Action.OpenUrl",
                     "title": "See Mathematics Department Group Calendar",
                     "iconUrl": "https://<URL>/sharepoint.png",
-                    "url": "https://<url_to_sharepoint_intranet</a>"
+                    "url": "https://<url_to_sharepoint_intranet>"
                 }
             ]
         }
