@@ -12,10 +12,10 @@ type: "regular"
 
 ## Power Platform extensibility options series
 
-1. [Power Platform extensibility options](./../power-platform-extensibility-01/index.md)
-1. [Power Apps](./../power-platform-extensibility-02/index.md)
+1. [Power Platform extensibility options](./../power-platform-extensibility-01)
+1. [Power Apps](./../power-platform-extensibility-02)
 1. Power Automate - this article
-1. [Dataverse](./../power-platform-extensibility-04/index.md)
+1. [Dataverse](./../power-platform-extensibility-04)
 
 ## Where to place logic
 
@@ -46,6 +46,8 @@ It's [recommended to build separate flows](https://learn.microsoft.com/en-us/pow
 ## Summary of extensibility options in Power Automate
 
 ![Extensibility options in Power Automate](./images/PowerAutomate.png)
+
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
 
 |||Cloud Flows|Desktop Flows|Business Process Flow|Classic workflows|
 |-|-|-|-|-|-|
@@ -108,7 +110,7 @@ Read more: [Custom  process action](https://learn.microsoft.com/en-us/power-apps
 The  business logic of a custom process action is implemented using a workflow.  When you create a custom process action, the associated real-time workflow is  automatically registered to execute in the main operation stage of the  message execution pipeline.
 They  are stored in Dataverse and may use a context of a table, or be defined as global.
 
-See [Dataverse](./../power-platform-extensibility-04/index.md#custom-process-actions) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04) page for a more details.
 
 ### Constraints and limitations
 
@@ -120,7 +122,7 @@ Read more: [Custom  API](https://learn.microsoft.com/en-us/power-apps/developer/
 
 Custom  API is a newer way to define custom messages with many advantages for  developers. If you do not intend to use the no-code capabilities that custom  process actions provide to configure business logic, custom API provides  better capabilities for developers to create their own messages.
 
-See [Dataverse](./../power-platform-extensibility-04/index.md#custom-api-using-net) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04) page for a more details.
 
 ### Constraints and limitations
 
@@ -132,7 +134,7 @@ Read more: [Workflow activities/assemblies](https://learn.microsoft.com/en-us/po
 
  As  reusable components, workflow extensions can be added to any workflow or  custom action.
 
-See [Dataverse](./../power-platform-extensibility-04/index.md#workflow-activitiesassemblies-using-net) page for a more details.
+See [Dataverse](./../power-platform-extensibility-04) page for a more details.
 
 ## Custom connectors using REST API
 
