@@ -6,7 +6,7 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-240-promo.png
+- images/pnp-weekly-243-promo.png
 tags: []
 videos:
 - https://www.youtube.com/watch?v=0mNeLOKOgi0
@@ -27,28 +27,28 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## This week
 
-- **Jussi** – planning a new project, attending Ignite in Switzerland
-- **Waldek** – Launched an experimental learn module with a simulated dev environment
-- **Vesa** – attending MVP summit in person
+- **Tony** – M365 conference, talking about using Microsoft Graph PowerShell SDK and using Copilot for Microsoft 365 intelligently
+- **Waldek** – released new version of Dev Proxy and CLI for Microsoft 365, publishing new content on Microsoft learn around extending Microsoft Copilot for Microsoft 365
+- **Vesa** – preparing for the M365 conference, releasing new preview version of SPFx
 
 ## Agenda items
 
-[00:00](https://www.youtube.com/watch?v=alowHTRvyr0&t=0s) – Intro
+[00:00](https://www.youtube.com/watch?v=0mNeLOKOgi0&t=0s) – Intro
 
-[01:10](https://www.youtube.com/watch?v=alowHTRvyr0&t=70s) – Interview
+[01:10](https://www.youtube.com/watch?v=0mNeLOKOgi0&t=121s) – Interview
 
-[01:10](https://www.youtube.com/watch?v=alowHTRvyr0&t=70s) – Closing
+[01:10](https://www.youtube.com/watch?v=0mNeLOKOgi0&t=2954s) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Wednesday 27th of March. Session was published on Tuesday 12th of March, 2024.
+This session was recorded on Wednesday 27th of March. Session was published on Tuesday 2nd of April, 2024.
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/m365pnp-videos)
-    {{< youtube alowHTRvyr0 >}}
+    {{< youtube 0mNeLOKOgi0 >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-    {{< podbean pb-b29mi-159ed0a >}}
+    {{< podbean pb-tj8fc-15c642e >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -64,8 +64,6 @@ Check out all cool samples from community and from Microsoft. You can access all
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
-* [Canadian Power Platform Summit](https://www.communitydays.org/event/2024-03-15/canadian-power-platform-summit) - March 15-16, 2024 - Vancouver, Canada
-* [Modern Workpalce Conference Paris 2024](https://www.communitydays.org/event/2024-03-18/modern-workplace-conference-paris-2024) - March 18-19, 2024 - Paris, France
 * [AMS Lausanne 2024](https://www.communitydays.org/event/2024-04-05/ams-lausanne-2024) - April 5, 2024 - Lausanne, Switzerland
 * [M365 Community Days NJ](https://www.communitydays.org/event/2024-04-06/m365-community-days-nj) - April 6-7, 2024 - New Jersey, USA
 * [North American Cloud and Collaboration Summit](https://www.communitydays.org/event/2024-04-09/north-american-cloud-and-collaboration-summit) - April 9-12, 2024 - Irving, TX, USA
