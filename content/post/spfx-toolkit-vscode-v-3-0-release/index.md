@@ -24,15 +24,15 @@ All of that is possible due to the awesome work done by the [PnP community](http
 
 It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
-We are pleased to announce that we finally finished working on the v3 version which includes a number of awesome game-changer features that makes building and managind SharePoint Framework solutions a lot easier.
+We are pleased to announce that we finally finished working on the v3 version which includes a number of awesome game-changer features that make building and managing SharePoint Framework solutions a lot easier.
 
-Among many things that was done those are the updates that stand out most 👇:
+Among many things that were done, those are the updates that stand out most 👇:
 
-- 👉 Introduction of a totally new scaffolding experience with possibility to install additional dependencies when creating a new project
-- 👉 Generate Azure DevOps pipeline for your SPFx project with possibility to generate certificate and app registration needed for the flow in a single go!
-- 👉 Updated account tree view with additional links to SharePoint admin site, web API permission management page and health incident list
+- 👉 Introduction of a totally new scaffolding experience with the possibility to install additional dependencies when creating a new project
+- 👉 Generate Azure DevOps pipeline for your SPFx project with the possibility to generate certificate and app registration needed for the flow in a single go!
+- 👉 Updated account tree view with additional links to SharePoint admin site, web API permission management page, and health incident list
 - 👉 Updated app catalog tree view adding tenant-wide extensions list
-- 👉 Repolished sample gallery with more filtering options and detail view
+- 👉 Repolished sample gallery with more filtering options and details view
 - 👉 Seamless integration with Teams Toolkit
 - 👉 Added an extension walkthrough that helps you get started with SharePoint Framework development and get to know all of the SharePoint Framework Toolkit features
 
