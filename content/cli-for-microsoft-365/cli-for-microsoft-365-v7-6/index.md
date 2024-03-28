@@ -53,11 +53,10 @@ m365 purview threatassessment add --type url --expectedAssessment block --catego
 For more information check the following resources:
 - [m365 purview threatassessment list](https://pnp.github.io/cli-microsoft365/cmd/purview/threatassessment/threatassessment-list/)
 - [m365 purview threatassessment add](https://pnp.github.io/cli-microsoft365/cmd/purview/threatassessment/threatassessment-add/)
-....
 
 ### Generate Azure DevOps Pipeline for a SharePoint Framework project
 
-Till now CLI for Microsoft 365 allowed you to generate a CI/CD workflow for your SharePoint Framework project using the [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/). In this release, we extended this capability and added the support for Azure DevOps Pipelines. It's important to understand that the command will not create the Azure DevOps pipeline. You will need to manually create it in Azure DevOps. The command will only create the workflow file which you can then push to your repo and create a new YAML pipeline based on it. The command needs to be run in the context of your SharePoint Framework project. The created .yml file will be present in the `.azuredevops/pipelines` directory in your project.
+Till now CLI for Microsoft 365 allowed you to generate a CI/CD workflow for your SharePoint Framework project using the [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/) command. In this release, we extended this capability and added the support for Azure DevOps Pipelines. It's important to understand that the command will not create the Azure DevOps pipeline. You will need to manually create it in Azure DevOps. The command will only create the workflow file which you can then push to your repo and create a new YAML pipeline based on it. The command needs to be run in the context of your SharePoint Framework project. The created .yml file will be present in the `.azuredevops/pipelines` directory in your project.
 
 To add an Azure DevOps Pipeline for a SharePoint Framework project triggered on push to `main`, simply run: 
 
@@ -82,7 +81,7 @@ For more information check the following resources:
 
 ### More features to manage your Outlook messages
 
-CLI for Microsoft 365 already has several commands that allow you to manage Outlook messages. In This release, we added a new command that allows you to permanently remove a specific message from a mailbox.
+CLI for Microsoft 365 already has several commands that allow you to manage Outlook messages. In this release, we added a new command that allows you to permanently remove a specific message from a mailbox.
 
 To remove a specific message for the currently signed-in user:
 
@@ -107,9 +106,9 @@ For more information check the following resources:
 
 ### Retrieve retirement report of SharePoint Add-Ins and Azure ACS
 
-Microsoft has announced that SharePoint Add-Ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants and will be fully retired as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
+Microsoft has announced that SharePoint Add-Ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
 
-One of our contributors added a new script that allows us to get information about retirement-related components from a selected tenant. It covers key elements such as event receivers, SharePoint Add-Ins, Azure Access Control Service (ACS), and installed SharePoint Add-Ins. If you are eager to find out more check out the [script in our docs](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/sp-add-ins-and-azure-acs-retirement-report/).
+One of our contributors added a new script that allows us to get information about retirement-related components from a selected tenant. It covers key elements such as event receivers, SharePoint Add-Ins, and Azure Access Control Service (ACS). If you are eager to find out more check out the [script in our docs](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/sp-add-ins-and-azure-acs-retirement-report/).
 
 ## What's changed
 
