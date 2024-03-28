@@ -51,14 +51,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Pension Protection Fund) - Deploying SPFx Packages from Tenant App Catalog to Hub Site and Associated Sites
-* [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT) - Grouping documents using Enterprise Keywords in SPFx
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) & [Michał Kornet](https://www.linkedin.com/in/michał-kornet-sharepoint-dev/) (Logamic) - Manage you Microsoft 365 tenant with ease with CLI for Microsoft 365
-
-
 * [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) and [Martin Machacek](https://www.linkedin.com/in/martin-mach%C3%A1%C4%8Dek-a8662086/)  - Boost your development with CLI for Microsoft 365
 * [Sergej Schwabauer](https://www.linkedin.com/in/sergej-schwabauer-a26b5267/) (Aurum) - Expanding Your Toolkit: More Fluent UI Components for your projects
-
 
 
 Also: 📷 Picture Time with community in Together Mode!
