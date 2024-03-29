@@ -34,6 +34,7 @@ Among many things that were done, those are the updates that stand out most 👇
 - 👉 Updated app catalog tree view adding tenant-wide extensions list
 - 👉 Repolished sample gallery with more filtering options and details view
 - 👉 Seamless integration with Teams Toolkit
+- 👉 Configuration settings allowing to pick between NVM or NVS for Node.js management,
 - 👉 Added an extension walkthrough that helps you get started with SharePoint Framework development and get to know all of the SharePoint Framework Toolkit features
 
 Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a bit more detail 👇
