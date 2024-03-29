@@ -116,6 +116,14 @@ Besides all these new commands, we've also made some changes to the existing com
 
 If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v760) to find out more.
 
+Also for more information check out the docs of the updated commands:
+- [m365 spo folder add](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-add/)
+- [m365 spo folder set](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-set/)
+- [m365 spo site recyclebinitem restore](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-recyclebinitem-restore/)
+- [m365 teams tab get](https://pnp.github.io/cli-microsoft365/cmd/teams/tab/tab-get/)
+- [m365 teams team add](https://pnp.github.io/cli-microsoft365/cmd/teams/team/team-add/)
+- [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/)
+
 ## Upcoming changes
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
