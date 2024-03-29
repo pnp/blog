@@ -12,10 +12,10 @@ type: "regular"
 
 ## Power Platform extensibility options series
 
-1. [Power Platform extensibility options](./../power-platform-extensibility-01/index.md)
+1. [Power Platform extensibility options](./../power-platform-extensibility-01)
 1. Power Apps - this article
-1. [Power Automate](./../power-platform-extensibility-03/index.md)
-1. [Dataverse](./../power-platform-extensibility-04/index.md)
+1. [Power Automate](./../power-platform-extensibility-03)
+1. [Dataverse](./../power-platform-extensibility-04)
 
 
 ## Where to place logic
@@ -72,6 +72,8 @@ Generally, you should limit this approach to **non–mission-critical, simple lo
 
 ![Extensibility options in Power Apps](./images/PowerApps.png)
 
+See full resolution [here](https://gist.github.com/kkazala/9e83d5e7ad5e2cccf87586adf4523e0f)
+
 In **Canvas app formulas, model-driven form script, business rules, and Power Apps component framework**, logic happens **in the user interface (client-side)** and the user will see the result immediately. When the operations are performed synchronously, the user's screen is blocked until all operations are completed.
 
 |||Canvas Apps|Model-driven Apps|[Custom Pages](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/design-page-for-model-app)|Power Pages|
@@ -116,7 +118,7 @@ You can use JavaScript in the following areas of **model-driven apps:**
 - Web resources and IFRAMEs
 - Sitemap
 
->[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](./../power-platform-extensibility-04/index.md#business-rules) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
+>[Client scripting](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting) should **NOT** be your first choice for applying custom business process logic in model-driven app forms. Consider using **business rules** first (described later in the [Dataverse](./../power-platform-extensibility-04) section), because they are easy to understand and implement for a non-developer, and they can be included as part of a Dataverse solution for deployment in production.
 Like all web resources, JavaScript web resources [use the model-driven apps security context](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/script-jscript-web-resources). Only licensed users who have the necessary privileges can access them.
 
 ### Constraints and limitations
