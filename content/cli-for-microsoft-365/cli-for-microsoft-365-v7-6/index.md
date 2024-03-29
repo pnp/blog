@@ -106,13 +106,13 @@ For more information check the following resources:
 
 ### Retrieve retirement report of SharePoint Add-Ins and Azure ACS
 
-Microsoft has announced that SharePoint Add-Ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
+Microsoft has announced that SharePoint Add-Ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework-based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
 
 One of our contributors added a new script that allows us to get information about retirement-related components from a selected tenant. It covers key elements such as event receivers, SharePoint Add-Ins, and Azure Access Control Service (ACS). If you are eager to find out more check out the [script in our docs](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/sp-add-ins-and-azure-acs-retirement-report/).
 
 ## What's changed
 
-Besides all these new commands, we've also made some changes to the existing commands. A lot of bugs have been fixed and the codebase has been polished. Some of our existing commands also got improved like the `spo folder add/set` commands that now have the possibility to set the folder color. Another great example is the `spo site recyclebinitem restore` that now has two new options that allow you to restore all items from the first or second-stage recycle bin.
+Besides all these new commands, we've also made some changes to the existing commands. A few bugs have been fixed and the codebase has been polished. Some of our existing commands also got improved like the `spo folder add/set` commands that now have the possibility to set the folder color. Another great example is the `spo site recyclebinitem restore` that now has two new options that allow you to restore all items from the first and/or second-stage recycle bin.
 
 If you are eager to go over all of the details and improvements added in this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v760) to find out more.
 
