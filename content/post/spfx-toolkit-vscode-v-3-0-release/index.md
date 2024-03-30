@@ -91,7 +91,7 @@ Check it out in action 👇
 
 ## 🚀 Generate a CI/CD workflow at the start of your work and do not leave it till the very end🤦‍♂️
 
-'DevOps stuff is not easy' - that's the feedback I got from a developer and personal friend who explained to me why he leaves creating a CI/CD workflow for his SPFx project till the very end or when time is running short and money runs out, he does not create on at all. We asked around and it turns out that a task to create a CI/CD workflow is usually estimated in hours or even days 😮. The problem is lack of guidance which is specific for SharePoint Framework projects, and problematic setup which sometimes leads to solutions that are based on bad examples and as a result, we may find workflows with secrets or even passwords present in their YAML definition. 
+'DevOps stuff is not easy' - that's the feedback I got from a developer and personal friend who explained to me why he leaves creating a CI/CD workflow for his SPFx project till the very end or when time is running short and money runs out, he does not create one at all. We asked around and it turns out that a task to create a CI/CD workflow is usually estimated in hours or even days 😮. The problem is lack of guidance which is specific for SharePoint Framework projects, and problematic setup which sometimes leads to solutions that are based on bad examples and as a result, we may find workflows with secrets or even passwords present in their YAML definition. 
 
 With SharePoint Framework Toolkit you will be able to create a CI/CD workflow in minutes not hours! The VS Code extension will generate the YAML for your SPFx project. 
 
@@ -101,7 +101,7 @@ It provides you with step-by-step guidance on how set up the workflow the first 
 
 Let's do a quick overview.
 
-The `CI/CD Workflow` action is available from the `Actions` view only when you are in the context of a SharePoint Framework project. Clicking on it will open up a form (again we extended VS Code with additional UI) that will guide you through all the information that is required to create a YAML workflow file. The form has 3 steps and all of the fields are already prefiled with default data based on your project so you even it is possible not to change anything just hit on create and you will still get a perfectly working flow.
+The `CI/CD Workflow` action is available from the `Actions` view only when you are in the context of a SharePoint Framework project. Clicking on it will open up a form (again we extended VS Code with additional UI) that will guide you through all the information that is required to create a YAML workflow file. The form has 3 steps and all of the fields are already prefiled with default data based on your project so it is even possible not to change anything just hit on create and you will still get a perfectly working flow.
 
 ![CI/CD form](images/ado1.png)
 
@@ -121,13 +121,13 @@ Depending on what you pick the YAML workflow will have variable placeholders wit
 
 In the third and last step, you need to decide if you will be deploying to a tenant or a site app catalog. If you pick the site-level app catalog you don't need to provide the URL manually as the SharePoint Framework Toolkit is already aware of your app catalogs so it will present you a dropdown to select one of the sites from the list. As a last option, you may mark if the package will be deployed to all sub-sites, for the site-level app catalog, or to the whole tenant, if you are deploying to the tenant app catalog.
 
-After that, you may hit the generate button and wait for the magic to happen. After the flow is generated you will get additional guidance on how to set up a new pipeline based on a YAML file in Azure DevOps after you push it to the repo. Also if you selected the application login method for generating the Entra App Registration, you will get additional details of your newly created application registration in Entra ID, together with a direct link to it and its details ready to be copied and used in the pipeline.
+![CI/CD form user site app catalogs](images/ado5.png)
+
+After that, you may hit the generate button and wait for the magic to happen. After the flow is generated you will get additional guidance on how to set up a new pipeline based on a YAML file in Azure DevOps after you push it to the repo. Also if you selected the application login method with generating the Entra App Registration, you will get additional details of your newly created application registration in Entra ID, together with a direct link to it and its details ready to be copied and used in the pipeline.
 
 ![CI/CD form result](images/ado9.png)
 
 If you are wondering why those properties are not already filled in the pipeline variables for you, well although that is one of the options it is not the recommended way as Azure DevOps provides pipeline properties that may be defined in pipeline definition in Azure DevOps UI or you may create a dedicated variable group using Azure DevOps library which is the recommended approach.
-
-![CI/CD form application login method](images/ado2.png)
 
 Check it out in action 👇
 
@@ -149,7 +149,7 @@ This is just the start. In next releases we plan to give you even more power and
 
 ## 👣 Walkthrough - your easy start with SharePoint Framework Toolkit
 
-SharePoint Framework Toolkit brings a totally new experience to VS Code extending it with additional UI like building sample gallery or scaffolding forms. It provides many features that help you at every stage of developing and managing your SharePoint Framework project. We understand it may be hard to get started with this VS Code extension and not everybody wants to go over the readme me from top to bottom 😉. That's why we introduced a VS Code walkthrough that provides you step-by-step guidance on how to set up a dev tenant and get started with SharePoint Framework development and what and how you may use the most important and helpful features of this Toolkit. 
+SharePoint Framework Toolkit brings a totally new experience to VS Code extending it with additional UI like build-in sample gallery or scaffolding forms. It provides many features that help you at every stage of developing and managing your SharePoint Framework project. We understand it may be hard to get started with this VS Code extension and not everybody wants to go over the readme me from top to bottom 😉. That's why we introduced a VS Code walkthrough that provides you step-by-step guidance on how to set up a dev tenant and get started with SharePoint Framework development and what and how you may use the most important and helpful features of this Toolkit. 
 
 ![walkthrough](images/walkthrough2.png)
 
