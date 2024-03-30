@@ -22,17 +22,17 @@ Introducing the latest release of CLI for Microsoft 365. [CLI for Microsoft 365]
  
 ## What's new
 
-### New purview threatassessment commands
+### New Purview threat assessment commands
 
-The release includes additional management features for purview. We added two new commands that will allow you to list and remove threat assessments. Let's see it in action. 
+The release includes additional management features for Purview. We added two new commands that will allow you to list and remove threat assessments. Let's see it in action. 
 
-To list all threatassessment simply run:
+To list all threat assessments, simply run:
 
 ```sh
 m365 purview threatassessment list
 ```
 
-You may also filter them by type, for example, to list threat assessments of type mail you may run:
+You may also filter them by type, for example, to list threat assessments of type mail run:
 
 ```sh
 m365 purview threatassessment list --type mail
@@ -44,7 +44,7 @@ To create a file threat assessment:
 m365 purview threatassessment add --type file --expectedAssessment block --category malware --fileName 'test.txt' --path 'C:\Path\To\File.txt'
 ```
 
-Or to Create a url threat assessment run:
+Or to create a URL threat assessment run:
 
 ```sh
 m365 purview threatassessment add --type url --expectedAssessment block --category phishing --url 'http://contoso.com'
@@ -54,23 +54,23 @@ For more information check the following resources:
 - [m365 purview threatassessment list](https://pnp.github.io/cli-microsoft365/cmd/purview/threatassessment/threatassessment-list/)
 - [m365 purview threatassessment add](https://pnp.github.io/cli-microsoft365/cmd/purview/threatassessment/threatassessment-add/)
 
-### Generate Azure DevOps Pipeline for a SharePoint Framework project
+### Generate Azure DevOps Pipeline for an SPFx project
 
 Till now CLI for Microsoft 365 allowed you to generate a CI/CD workflow for your SharePoint Framework project using the [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/) command. In this release, we extended this capability and added the support for Azure DevOps Pipelines. It's important to understand that the command will not create the Azure DevOps pipeline. You will need to manually create it in Azure DevOps. The command will only create the workflow file which you can then push to your repo and create a new YAML pipeline based on it. The command needs to be run in the context of your SharePoint Framework project. The created .yml file will be present in the `.azuredevops/pipelines` directory in your project.
 
-To add an Azure DevOps Pipeline for a SharePoint Framework project triggered on push to `main`, simply run: 
+To add an Azure DevOps Pipeline for an SPFx project triggered on push to `main`, simply run: 
 
 ```sh
 m365 spfx project azuredevops pipeline add
 ```
 
-To add an Azure DevOps Pipeline for a SharePoint Framework project with `user` login method triggered on push to `dev` branch:
+To add an Azure DevOps Pipeline for an SPFx project with `user` login method triggered on push to `dev` branch:
 
 ```sh
 m365 spfx project azuredevops pipeline add --loginMethod "user" --branchName "dev"
 ```
 
-To add an Azure DevOps Pipeline for a SharePoint Framework project with deployment to a site collection app catalog:
+To add an Azure DevOps Pipeline for an SPFx project with deployment to a site collection app catalog:
 
 ```sh
 m365 spfx project azuredevops pipeline add --scope "sitecollection" --siteUrl "https://some.sharepoint.com/sites/someSite"
@@ -106,9 +106,9 @@ For more information check the following resources:
 
 ### Retrieve retirement report of SharePoint Add-Ins and Azure ACS
 
-Microsoft has announced that SharePoint Add-Ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework-based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
+Microsoft has announced that SharePoint Add-ins and Azure ACS will be retired and as a result will stop working for new tenants as of November 1st, 2024 and they will stop working for existing tenants as of April 2nd, 2026. It's important to remember those dates and migrate your existing Add-in projects to SharePoint Framework-based solutions. In a large tenant that has many customizations, it may be hard to find all the places that require your attention. Thankfully CLI for Microsoft 365 may be the answer to that problem.
 
-One of our contributors added a new script that allows us to get information about retirement-related components from a selected tenant. It covers key elements such as event receivers, SharePoint Add-Ins, and Azure Access Control Service (ACS). If you are eager to find out more check out the [script in our docs](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/sp-add-ins-and-azure-acs-retirement-report/).
+One of our contributors added a new script that allows us to get information about retirement-related components from a selected tenant. It covers key elements such as event receivers, SharePoint Add-ins, and Azure Access Control Service (ACS). If you are eager to find out more check out the [script in our docs](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/sp-add-ins-and-azure-acs-retirement-report/).
 
 ## What's changed
 
