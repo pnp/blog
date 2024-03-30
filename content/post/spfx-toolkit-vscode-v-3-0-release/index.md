@@ -67,7 +67,7 @@ Check it out in action 👇
 
 This is just a start and your feedback is a must before we enhance this even more 💬! With this new approach, we already see additional improvements we may provide like: allow to install more additional dependencies like MS Graph Toolkit or SPFx fast serve. Some of those options could be specific for a component type like some could be present only when you are creating a web part. And even we could provide additional setup besides just installing the npm package. The form UI itself could provide even more context and explanation giving examples or links to additional documentation. And many more, but before we start do visit our repo, start a discussion or an issue, or contact us however you want but don't be shy and do provide feedback 🙏.
 
-BUT WAIT! Why would you start from scratch if you may kick of a new project based on one of the Microsoft 365 and Power Platform Community project samples all without leaving VS Code 🤯. SharePoint Framework Toolkit provides you with a built-in sample gallery, currently filled with 400+ samples 🤯 coming from the PnP web part, extensions and ACEs sample repositories! 
+BUT WAIT! Why would you start from scratch if you may kick of a new project based on one of the Microsoft 365 and Power Platform Community project samples all without leaving VS Code 🤯. SharePoint Framework Toolkit provides you with a built-in sample gallery, currently filled with 400+ samples 🤯 coming from the PnP web part, extensions, and ACEs sample repositories! 
 
 ![sample gallery](images/samples.png)
 
@@ -121,7 +121,7 @@ Depending on what you pick the YAML workflow will have variable placeholders wit
 
 In the third and last step, you need to decide if you will be deploying to a tenant or a site app catalog. If you pick the site-level app catalog you don't need to provide the URL manually as the SharePoint Framework Toolkit is already aware of your app catalogs so it will present you a dropdown to select one of the sites from the list. As a last option, you may mark if the package will be deployed to all sub-sites, for the site-level app catalog, or to the whole tenant, if you are deploying to the tenant app catalog.
 
-After that you may hit on the generate button and wait for the magic to happen. After the flow is generated you will get additional guidance on how to set up a new pipeline based on a YAML file in Azure DevOps after you push it to the repo. Also if you selected the application login method for generating the Entra App Registration, you will get additional details of your newly created application registration in Entra ID, together with a direct link to it and its details ready to be copied and used in the pipeline.
+After that, you may hit the generate button and wait for the magic to happen. After the flow is generated you will get additional guidance on how to set up a new pipeline based on a YAML file in Azure DevOps after you push it to the repo. Also if you selected the application login method for generating the Entra App Registration, you will get additional details of your newly created application registration in Entra ID, together with a direct link to it and its details ready to be copied and used in the pipeline.
 
 ![CI/CD form result](images/ado9.png)
 
@@ -131,7 +131,7 @@ If you are wondering why those properties are not already filled in the pipeline
 
 Check it out in action 👇
 
-![CI/CD pipeline](images/azdo-cd-cd.gif)
+![CI/CD pipeline](images/azdo-ci-cd.gif)
 
 Give this feature a try and see how easy it is to set up a CI/CD workflow for GitHub and now also for Azure DevOps. Continuous deployment makes your project management a lot easier allowing you to focus on coding and reducing the amount of manual steps you need to do every time you want to deploy a newer version of your package to the app catalog. Please provide feedback 💬🙏! And we don't plan to stop 😮. In future releases, we are already looking to extend the support for GitLab 🤩.
 
