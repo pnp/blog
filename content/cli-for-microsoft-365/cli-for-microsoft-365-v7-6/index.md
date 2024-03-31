@@ -24,7 +24,7 @@ Introducing the latest release of CLI for Microsoft 365. [CLI for Microsoft 365]
 
 ### New Purview threat assessment commands
 
-The release includes additional management features for Purview. We added two new commands that will allow you to list and remove threat assessments. Let's see it in action. 
+The release includes additional management features for Purview. We added two new commands that will allow you to list and create threat assessments. Let's see it in action. 
 
 To list all threat assessments, simply run:
 
