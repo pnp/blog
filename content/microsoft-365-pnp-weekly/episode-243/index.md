@@ -11,7 +11,6 @@ tags: []
 videos:
 - https://www.youtube.com/watch?v=0mNeLOKOgi0
 draft: false
----
 
 In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Tony Redmond](https://twitter.com/12Knocksinna), Principal at Redmond & Associates, MVP.
 
