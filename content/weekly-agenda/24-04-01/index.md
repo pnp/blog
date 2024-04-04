@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 1st of April 2024 week
-date: 2024-03-21T12:34:40.295Z
+date: 2024-03-28T06:34:40.295Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,13 +11,12 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: draft
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. Want to demo what you have created? - absolutely welcome. [Voluteer for a demo spot](https://aka.ms/community/request/demo).
-
 
 
 This is the agenda for the upcoming week:
@@ -32,10 +31,9 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys) - Creating Copilot for Microsoft 365 plugin with Copilot Studio
-* [Akanksha Rakesh](https://www.linkedin.com/in/akanksharakesh/) (Microsoft) & [Abi Suresh](https://www.linkedin.com/in/abirami-suresh/) (Microsoft) - Enterprise administration, security, and compliance with SharePoint Embedded
 * [Nicole Woon](https://www.linkedin.com/in/niwoon/) (Microsoft) & [Farham Mian](https://www.linkedin.com/in/farhanahmedmian/)  (Microsoft)- Introduction to the SharePoint Web UI Kit - design engaging sites in Figma
-
+* [Akanksha Rakesh](https://www.linkedin.com/in/akanksharakesh/) (Microsoft) & [Abi Suresh](https://www.linkedin.com/in/abirami-suresh/) (Microsoft) - Enterprise administration, security, and compliance with SharePoint Embedded
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys) - Creating Copilot for Microsoft 365 plugin with Copilot Studio
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -54,11 +52,9 @@ Demos this time
 * [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) and [Martin Machacek](https://www.linkedin.com/in/martin-mach%C3%A1%C4%8Dek-a8662086/)  - Boost your development with CLI for Microsoft 365
 * [Sergej Schwabauer](https://www.linkedin.com/in/sergej-schwabauer-a26b5267/) (Aurum) - Expanding Your Toolkit: More Fluent UI Components for your projects
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
 
 ---
 
@@ -66,6 +62,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Tips and Tricks for Developing Elegant UI/UX in Canvas Apps](https://www.youtube.com/watch?v=A15S0kcmMrE) by [Ryan Johnston](https://www.linkedin.com/in/ryan-d-johnston/) (PowerApps911)
+* [Latest on the SharePoint Pages API in Microsoft Graph](https://www.youtube.com/watch?v=_FgikLdcPVc) by [DC Padur](https://www.linkedin.com/in/dcpadur/) (Microsoft)
 * [Introducing new Viva Connections chart card layout option](https://www.youtube.com/watch?v=JOIb4KhiWAI) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Preparing for the in-person event: Attendee tips and tricks | #M365Con](https://www.youtube.com/watch?v=E3wpmDlxiN0) by [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/) (Smarter Consulting), [Sean Bugler](https://www.linkedin.com/in/sbglr/) (Metropolitan Transportation Commission), [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis) and [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft)
 * [Create a publication in Microsoft Viva Amplify](https://www.youtube.com/watch?v=yI_Q41N5I1c)
@@ -76,19 +74,16 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Get efficient reclassifications using Dataverse for Teams and Power BI](https://www.youtube.com/watch?v=IE91YxBWqvQ) by [Fernando Calero](https://www.linkedin.com/in/fernandocalero/) (Alta Symposium)
 * [Microsoft Power Platform Developer Office Hours - March 2024 🔥🔥🔥](https://www.youtube.com/watch?v=qQA5wPKasP4) by [ShafQat Nizar](https://www.linkedin.com/in/shafqatn/) (Microsoft), [Marc Schweigert](https://www.linkedin.com/in/devkeydet/) (Microsoft), [Matthew Barbour](https://www.linkedin.com/in/matt-barbour-02702b1/) (Microsoft)
 
-
-
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Copilot in Power Automate | Join us at the Microsoft Business Applications Launch Event](https://www.youtube.com/watch?v=kXoyou07sJ0)
 * [Automate using UI elements with Power Automate | Get Started with Power Shorts](https://www.youtube.com/watch?v=1yBW2IHK2mc)
 * [Connect your own Virtual Network with Hosted Machine Group | Power Platform Shorts](https://www.youtube.com/watch?v=baw_33urHIo)
 
-
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
+* [https://www.youtube.com/watch?v=5h1hhD5Lprw](https://www.youtube.com/watch?v=5h1hhD5Lprw)
 * [Overcoming a blocked on code situation](https://www.youtube.com/watch?v=5FvLZZoU6SQ) 
-
 
 
 ---
@@ -97,9 +92,9 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Bot Powered Viva Connections extensibility supported for Teams Solutions](https://devblogs.microsoft.com/microsoft365dev/bot-powered-viva-connections-extensibility-supported-for-teams-solutions/) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Dev Proxy v0.16 with simulated handling Teams Admin Center notifications for Microsoft Graph connectors](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-16-with-simulated-handling-teams-admin-center-notifications-for-microsoft-graph-connectors/) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
 * [Public preview of SharePoint Framework 1.19 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-19-first-release-of-upcoming-features/) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
@@ -113,17 +108,15 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Power Platform extensibility options in Dataverse](https://pnp.github.io/blog/post/power-platform-extensibility-04/) by [Kinga Kazala](https://www.linkedin.com/in/kingakazala/) (ETH Zuerich)
 * [Send calendar reminders to particular Teams messages by utilising adaptive cards and the M365 Group Calendar](https://pnp.github.io/blog/post/fill-out-adaptive-card-and-send-reminders-using-the-m365-group-calendar/) by [Hubert Lam](https://www.linkedin.com/in/hubert-lam-17b76554) (Normanhurst Boys High School)
 
-
 ---
 
 ## Last community call recordings published last week
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 28th of March, 2024](https://www.youtube.com/watch?v=JiCKWZL8QBE)
 * [Microsoft 365 & Power Platform weekly call – 26th of March, 2024](https://www.youtube.com/watch?v=rloHngNiofQ)
 * [Office Add-ins community call – March 2024](https://www.youtube.com/watch?v=itoSh7V_YX4&)
-
-
 
 ---
 
