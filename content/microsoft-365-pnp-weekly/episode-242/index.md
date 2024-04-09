@@ -71,21 +71,6 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Protect enterprise solutions with new Microsoft Power Platform security features](https://www.microsoft.com/en-us/power-platform/blog/2024/03/20/protect-enterprise-solutions-with-new-microsoft-power-platform-security-features/) - [Nirav Shah](https://www.linkedin.com/in/niravyshah/) (Microsoft)
 * [Announcing General Availability of built-in Dataverse offline for canvas apps](https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-built-in-dataverse-offline-for-canvas-apps/) - [Tristan Dehove](https://www.linkedin.com/in/tristan-dehove-85197128/) (Microsoft)
 * [Control Access to Dataverse with IP Firewall: Secure Your Data with Ease](https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse/) - [Ritesh Pandey](https://www.linkedin.com/in/riteshkp19/) (Microsoft)
-* --
-* [Bringing Copilot to more customers worldwide—across life and work](https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/14/bringing-copilot-to-more-customers-worldwide-across-life-and-work/) - [Divya Kumar](https://www.linkedin.com/in/divyakumar/) (Microsoft)
-* [Microsoft 365 Community Conference event guide: Keynote, AMA, sessions, and more](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-community-conference-event-guide-keynote-ama/ba-p/4080590) - [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft)
-* [Behind the Scenes: Talking AI and Copilot with Microsoft Customer Support Engineers](https://techcommunity.microsoft.com/t5/microsoft-365-blog/behind-the-scenes-talking-ai-and-copilot-with-microsoft-customer/ba-p/4081962) - [Ross Smith](https://www.linkedin.com/in/rosss42/) (Microsoft)
-* [Invest in Tech: Supercharge your frontline with AI](https://techcommunity.microsoft.com/t5/microsoft-365-blog/invest-in-tech-supercharge-your-frontline-with-ai/ba-p/4083061) - [Zoe Hawtof](https://www.linkedin.com/in/zoehawtof/) (Microsoft)
-* [Upcoming preview of Microsoft Office LTSC 2024](https://techcommunity.microsoft.com/t5/microsoft-365-blog/upcoming-preview-of-microsoft-office-ltsc-2024/ba-p/4082963) - [TJ Devine](https://www.linkedin.com/in/tjdevine/) (Microsoft)
-* [What's new in Viva Insights - March 2024](https://techcommunity.microsoft.com/t5/viva-insights-blog/what-s-new-in-viva-insights-march-2024/ba-p/4082905) - [Zach Miners](https://www.linkedin.com/in/zachminers/) (Microsoft)
-* [Maximizing your role as a Viva Gint Administrator](https://techcommunity.microsoft.com/t5/viva-glint-blog/maximizing-your-role-as-a-viva-gint-administrator/ba-p/4087050) - [Kathryn Bowen](https://www.linkedin.com/in/kathryn-bowen/) (Microsoft)
-* [Action required: ensure your Microsoft Teams apps are ready for upcoming domain changes](https://devblogs.microsoft.com/microsoft365dev/action-required-ensure-your-microsoft-teams-apps-are-ready-for-upcoming-domain-changes/) - [Chris Yanasak](https://www.linkedin.com/in/chris-yanasak/) (Microsoft)
-* [Maximize your Office Add-in success with free Microsoft Partner programs](https://devblogs.microsoft.com/microsoft365dev/maximize-your-office-add-in-success-with-free-microsoft-partner-programs/) - Steve Jin (Microsoft)
-* [March 2024 update of Power Automate for desktop](https://powerautomate.microsoft.com/en-us/blog/march-2024-update-of-power-automate-for-desktop/) - Yiannis Mavridis (Microsoft)
-* [Introducing Power Fx in desktop flows: Empowering Makers with low-code capabilities](https://powerautomate.microsoft.com/en-us/blog/introducing-power-fx-in-desktop-flows-empowering-makers-with-low-code-capabilities/) - [James Papadimitriou](https://www.linkedin.com/in/dipap/) (Microsoft)
-* [Introducing inline actions](https://powerapps.microsoft.com/en-us/blog/introducing-inline-actions/) - [Tasha Scott](https://www.linkedin.com/in/tasha-scott-bb74b245/) (Microsoft)
-* [Investing in Your Success](https://powerapps.microsoft.com/en-us/blog/investing-in-your-success/) - [Corey Kropp](https://www.linkedin.com/in/coreykropp/) (Microsoft)
-
 
 ## Community articles
 
