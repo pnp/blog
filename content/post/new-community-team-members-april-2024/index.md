@@ -1,6 +1,6 @@
 ---
 title: "New Microsoft 365 & Power Platform Community coordination team members – April 2024"
-date: 2024-04-10T05:00:00-05:00
+date: 2024-04-10T02:36:03.619Z
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["Community post"]
