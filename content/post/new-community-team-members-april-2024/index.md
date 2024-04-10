@@ -11,7 +11,9 @@ type: regular
 draft: false
 ---
 
-We are excited to announce that we are again extending our virtual [Microsoft 365 & Power Platform Community coordination team](https://pnp.github.io/#team) with additional community members. This virtual community team is responsible of the different [Microsoft 365 & Power Platform Community](https://aka.ms/community/home) activities in different community channels, including our open-source work in the GitHub. This team consist of Microsoft employees and community members (MVPs) focused on helping the community the best use of Microsoft products, like Microsoft Copilot, Microsoft Teams, Microsoft Viva, Power Platform, OneDrive, SharePoint, or API layer like Microsoft Graph.
+We are excited to announce that we are again extending our virtual [Microsoft 365 & Power Platform Community coordination team](https://pnp.github.io/#team) with additional community members. This virtual community team is responsible of the different [Microsoft 365 & Power Platform Community](https://aka.ms/community/home) activities in different community channels, including our open-source work in the GitHub. 
+
+This team consist of Microsoft employees and community members (MVPs) **focused on helping the community** the best use of Microsoft products, like Microsoft Copilot, Microsoft Teams, Microsoft Viva, Power Platform, OneDrive, SharePoint, or API layer like Microsoft Graph.
 
 We believe that by **working together as a one unified team across the organization barriers**, we can make even larger worldwide impact and helping other community member to succeed on adopting different practices within Microsoft 365 & Power Platform areas. **Better together with shared objectives**, not in isolation.
 
@@ -50,7 +52,7 @@ You will find Rashmee on:
 
 * [Twitter/X/Xer](https://twitter.com/ReshmeeAuckloo)
 * [GitHub](https://github.com/reshmee011)
-* [LinkedIn](https://www.linkedin.com/in/laskewitz/)
+* [LinkedIn](https://www.linkedin.com/in/reshmee-auckloo-98a23619/)
 
 ## Dan Toft - Microsoft 365 & SharePoint Specialist, MVP
 
