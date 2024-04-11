@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of April 2024 week
-date: 2024-04-04T12:36:03.619Z
+date: 2024-04-05T02:36:03.619Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -32,9 +32,8 @@ This is the agenda for the upcoming week:
 Demos this time
 
 * [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz/) (Microsoft) – Create a connector AI plugin for Copilot for Microsoft 365 with Microsoft Copilot Studio
-* [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) – Latest on the Microsoft Dev Proxy
 * [Sanjukta Sen](https://www.linkedin.com/in/sensanjukta/) (Microsoft) – Direct File Download API support for SharePoint files through Microsoft Graph
-
+* [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) – Latest on the Microsoft Dev Proxy
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -54,7 +53,6 @@ Demos this time
 * [Matt Jimison](https://www.linkedin.com/in/matthewjimison/) (Takeda) - Extending User Properties in Copilot Studio
 * [David Schneider](https://www.linkedin.com/in/david-schneider/) (isolutions) - Swiss train timetable copilot plugin
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -65,6 +63,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Expanded Authentication Options for SharePoint Sites.Selected permission](https://www.youtube.com/watch?v=9DCKuku_Q2o) by [Patrick Rodgers](https://www.linkedin.com/in/patrick-rodgers-b6a05610/) (Microsoft)
 * [Viva Connections Partner Showcase - adenin](https://www.youtube.com/watch?v=e6bXjGSJaxE) by [Henry Amm](https://www.linkedin.com/in/henryamm/) (adenin) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Build custom connector in Power Platform to generate images from Azure OpenAI DALL·E mode](https://www.youtube.com/watch?v=9I-xPaa3Dks) by [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/)
 * [Jeff Teper invites you to the Microsoft 365 Community Conference 2024](https://www.youtube.com/watch?v=hOEP5hqX8As) by [Jeff Teper](https://www.linkedin.com/in/jeffteper/)
@@ -110,6 +109,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 4th of April 2024](https://www.youtube.com/watch?v=FcsjBYA_PR8)
 * [Microsoft 365 & Power Platform weekly call – 2nd of April, 2024](https://www.youtube.com/watch?v=_bbyRfO-Kuk)
 
 
@@ -151,9 +151,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
-* [AMS Lausanne 2024](https://www.communitydays.org/event/2024-04-05/ams-lausanne-2024) - April 5, 2024 - Lausanne, Switzerland
-* [M365 Community Days NJ](https://www.communitydays.org/event/2024-04-06/m365-community-days-nj) - April 6-7, 2024 - New Jersey, USA
 * [Windows Server Summit](https://www.communitydays.org/event/2024-04-08/windows-server-summit-2024) - April 9-9, 2024, Wuerzburg, Germany
 * [North American Cloud and Collaboration Summit](https://www.communitydays.org/event/2024-04-09/north-american-cloud-and-collaboration-summit) - April 9-12, 2024 - Irving, TX, USA
 * [INTRANETS AND AI ON MICROSOFT 365](https://www.communitydays.org/event/2024-04-09/intranets-and-ai-on-microsoft-365) - April 9 - 10, 2024 - Copenhagen, Denmark
