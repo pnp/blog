@@ -59,6 +59,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
+---
+
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 18th of April
 
 * Thursday, 18th of April 2024, 8:00 AM PT / 3:00 PM GMT
