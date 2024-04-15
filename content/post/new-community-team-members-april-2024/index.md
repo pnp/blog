@@ -38,9 +38,9 @@ You will find Katerina on:
 * [LinkedIn](https://www.linkedin.com/in/katerinachernevskaya/)
 
 
-## Rashmee Auckloo - Pension Protection Fund, MVP
+## Reshmee Auckloo - Pension Protection Fund, MVP
 
-![Rashmee Auckloo](images/reshmeeauckloo.png)
+![Reshmee Auckloo](images/reshmeeauckloo.png)
 
 I am a SharePoint Developer at Pension Protection Fund and a Microsoft MVP in M365 Development since January 2024. I started my career journey as a .Net developer before transitioning to SharePoint and Project Server in 2011. In 2021, I began my cloud journey with SharePoint Online and Microsoft 365, discovering a vast array of extensions available.
 
@@ -48,7 +48,7 @@ Throughout my journey, I have found community resources to be invaluable, inspir
 
 Beyond work and community engagements, I cherish spending quality time with my two daughters, family, and friends.
 
-You will find Rashmee on:
+You will find Reshmee on:
 
 * [Twitter/X/Xer](https://twitter.com/ReshmeeAuckloo)
 * [GitHub](https://github.com/reshmee011)
