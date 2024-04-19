@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 15th of April 2024 week
-date: 2024-04-11T08:52:33.116Z
+date: 2024-04-12T02:52:33.116Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -39,6 +39,28 @@ Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
+---
+
+### Power Platform monthly Community Call - 17th of April
+
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Wednesday, 17th of April, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+
+Demos: 
+
+* [Kristine Kolodziejski](https://www.linkedin.com/in/kristine-kolodziejski/) (EY) - Copilot Branding 101 - how to style your copilot to enhance user experience
+* [Ashley Francis](https://www.linkedin.com/in/ashley-francis-seattle/) (The Francis Group, PLLC) - Copilot for your Copilot  - How you can collaborate with AI to use AI
+* [Cat Schneider](https://www.linkedin.com/in/yerawizardcat/) (Hitachi Solutions) - JSON: a Low-Code Introduction for No-Coders
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+---
+
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 18th of April
 
 * Thursday, 18th of April 2024, 8:00 AM PT / 3:00 PM GMT
@@ -62,6 +84,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Building SPFx extension for search-driven navigation and security controls​](https://www.youtube.com/watch?v=5MHzYUBElUA) by [Markus Möller](https://www.linkedin.com/in/markus-moeller-25b72821/) (Avanade)
 * [Extending your Teams manifest for Copilot, SPFx, Power Apps, and more](https://www.youtube.com/watch?v=8Dza3wky3Vo) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
 * [Provisioning look book SharePoint templates using PnP PowerShell](https://www.youtube.com/watch?v=lK17E412uNg) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys)
 * [Introducing Viva Pulse](https://www.youtube.com/watch?v=VuqNeCRQSZY)
@@ -108,6 +131,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 11th of April, 2024](https://www.youtube.com/watch?v=vZy2OhrNovg)
 * [Microsoft 365 & Power Platform weekly call – 9th of April, 2024](https://www.youtube.com/watch?v=tUs56DXWFhs)
 
 
@@ -150,10 +174,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Windows Server Summit](https://www.communitydays.org/event/2024-04-08/windows-server-summit-2024) - April 9-9, 2024, Wuerzburg, Germany
-* [North American Cloud and Collaboration Summit](https://www.communitydays.org/event/2024-04-09/north-american-cloud-and-collaboration-summit) - April 9-12, 2024 - Irving, TX, USA
-* [INTRANETS AND AI ON MICROSOFT 365](https://www.communitydays.org/event/2024-04-09/intranets-and-ai-on-microsoft-365) - April 9 - 10, 2024 - Copenhagen, Denmark
-* [CollabDays Poland 2024](https://www.communitydays.org/event/2024-04-11/collabdays-poland-2024) - April 11-12, 2024 - Wassaw, Poland
 * [Modern Endpoint Management Summit 2024 EMEA Edition](https://www.communitydays.org/event/2024-04-17/modern-endpoint-management-summit-2024-emea-edition) - April 17-19, 2024 - Issy-les-Moulineaux, France
 * [D365UG Sverige](https://www.communitydays.org/event/2024-04-17/d365ug-sverige) - April 17, 2024 - Stockholm, Sverige
 * [ColorCloud](https://www.communitydays.org/event/2024-04-18/colorcloud) - April 18 - 19, 2024 - Hamburg, Germany
