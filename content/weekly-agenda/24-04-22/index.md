@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 22nd of April 2024 week
-date: 2024-04-19T02:52:33.116Z
+date: 2024-04-20T02:52:33.116Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -40,7 +40,6 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-
 ### Microsoft 365 & Power Platform bi-weekly community Call - 25th of April
 
 * Thursday, 25th of April, 8:00 AM PT / 3:00 PM GMT
@@ -52,7 +51,6 @@ Demos this time
 * [Sunil Kumar](https://www.linkedin.com/in/powertrainer/) (Delphi Consulting) - Leveraging AI Prompts in Power Apps, Power Automate and Copilot
 * [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (CloudAngles) - How to build an HR bot with Power Automate and SharePoint
 * [Sairam Srinivasan](https://www.linkedin.com/in/sodaba/) (Avasoft) - Extending Copilot using Copilot Studio
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
