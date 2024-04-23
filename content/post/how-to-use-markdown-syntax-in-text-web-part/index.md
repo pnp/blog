@@ -24,7 +24,7 @@ The following table lists the Markdown syntax available in the Text Web Part:
 
 |Element|Markdown Syntax|
 |---|---|
-|Header|`#[space]Header`<br />`##[space]Header`<br />`###[space]Header`|
+|Heading|`#[space]Heading`<br />`##[space]Heading`<br />`###[space]Heading`|
 |Bold Text|`**Bold Text**`<br />or<br />`__Bold Text__`|
 |Italic Text|`*Italic Text*`<br />or<br />`_Italic Text_`|
 |Strikethrough|`~~Strikethrough~~`|
@@ -32,17 +32,17 @@ The following table lists the Markdown syntax available in the Text Web Part:
 |Bulleted List|`*[space]Item`<br />or<br />`-[space]Item`|
 |Quote|`>[space]Quote`|
 
-### Header
+### Heading
 
-To create a header, start the line with `#` (hash) followed by a space, then write your text. Fewer `#` symbols indicate larger headers.
+To create a heading, start the line with `#` (hash) followed by a space, then write your text. Fewer `#` symbols indicate larger headings.
 
 ```
-#[space]Header
-##[space]Header
-###[space]Header
+#[space]Heading
+##[space]Heading
+###[space]Heading
 ```
 
-![Using markdown syntax, demonstrate how to set a header in a Text Web Part](./images/header.gif)
+![Using markdown syntax, demonstrate how to set a heading in a Text Web Part](./images/heading.gif)
 
 ### Bold Text
 
