@@ -1,6 +1,6 @@
 ---
 title: "SharePoint: How to Use Markdown Syntax in Text Web Part"
-date: 2024-04-18T00:00:00-00:00
+date: 2024-04-24T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
 categories: ["Community post"]
