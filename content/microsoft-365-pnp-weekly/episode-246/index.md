@@ -32,8 +32,6 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## This week
 
-Your hosts forgot this section from this week - we'll try next time again.
-
 - **Simon** – Viva Connections interview with Vesa, preparing for M365 conference in the US, preparing for launching new products, new sprint planning
 - **Waldek** – new release of Dev Proxy with exciting features, stay tuned for the release on Thu, Apr 25
 - **Vesa** – preparing for launching Brand Central, preparing for the M365 conference
@@ -44,7 +42,7 @@ Your hosts forgot this section from this week - we'll try next time again.
 
 [01:49](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=109s) – Interview
 
-[49:55](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=2995s) – Interview
+[49:55](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=2995s) – Middle chat with Waldek and Vesa
 
 [54:39](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=3279s) – Articles
 
