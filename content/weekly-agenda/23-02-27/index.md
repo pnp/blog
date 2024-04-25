@@ -42,7 +42,7 @@ Typically demos here are from the community by the community. You are welcome to
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells - Using app only model with Microsoft Graph APIs for Planner
 * [Adam Wójcik](https://twitter.com/Adam25858782) (Hitachi Energy) | @Adam2585878  - Improve your test strategy with Microsoft Graph Developer Proxy
@@ -60,7 +60,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 Commu
 * [Introduction to Azure Communication Services](https://www.youtube.com/watch?v=EXFvo5FOFbY) by [Tomas Chladek](https://twitter.com/tomaschladek2) (Microsoft) | @tomaschladek2
 * [Effortlessly showing grids of data in your Power Apps using the Creator Kit](https://www.youtube.com/watch?v=DOHYl95xtLM) by [Scott Durow](https://twitter.com/ScottDurow) (Develop 1) | @ScottDurow
 * [Introduction to Microsoft Viva Home experience](https://www.youtube.com/watch?v=uWR2W9kLyVE) by [Tejas Mehta](https://twitter.com/tpmehta) (Microsoft) | @tpmehta, [Anshuman Gaur](https://twitter.com/_AnshumanGaur) (Microsoft) | @_AnshumanGaur, [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
-* [Building CAML query web part for easy data presentation](https://www.youtube.com/watch?v=SPJiV5CbRUc) by [Dan Toft](https://twitter.com/tanddant) (Evobis ApS) | @tanddant 
+* [Building CAML query web part for easy data presentation](https://www.youtube.com/watch?v=SPJiV5CbRUc) by [Dan Toft](https://twitter.com/tanddant) (Evobis ApS) | @tanddant
 
 ---
 
@@ -92,7 +92,7 @@ If you are looking to learn how to use the Microsoft 365 & power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -106,7 +106,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Community Days - Women in Tech 2023](https://www.communitydays.org/event/2023-03-03/m365-community-days-women-in-tech-2023) - March 3, 2023 - Virtual
 * [Global Power Platform Bootcamp Nairobi 2023](https://www.communitydays.org/event/2023-03-04/global-power-platform-bootcamp-nairobi-2023#home) - March 4, 2023 - Nairobi, Kenya
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel
@@ -134,7 +134,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 We hope to see you around!
 

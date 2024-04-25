@@ -44,14 +44,14 @@ Welcome to the second of three Microsoft 365 Platform - Holiday season coffee an
     * Article – [Microsoft Graph PowerShell v2 is now in public preview, half the size, and will speed up your automations](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/) – Microsoft Graph team
     * Article – “Notes from the ESPC22 keynotes” 🎙 – The Intrazone podcast - [Mark Kashman](https://twitter.com/mkashman) (Microsoft) \| @mkashman
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the call.
 
 {{< youtube pJbEAaLQk5g >}}
 
 ## Agenda items
 
-* [19:05](https://youtu.be/pJbEAaLQk5g?t=1145) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
-* [20:40](https://youtu.be/pJbEAaLQk5g?t=1240) – Questions, feedback, discussions – [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII, [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and PnP Community participants
+* [19:05](https://youtu.be/pJbEAaLQk5g?t=1145) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+* [20:40](https://youtu.be/pJbEAaLQk5g?t=1240) – Questions, feedback, discussions – [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII, [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and PnP Community participants
 
 ## Actions
 

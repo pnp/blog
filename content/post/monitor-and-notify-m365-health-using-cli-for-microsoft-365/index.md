@@ -89,7 +89,7 @@ scripts will be executed without the need for authentication every time.
 Since the solution is not a confidential or had complex business
 process, it is safe to go ahead with this approach. CLI for Microsoft
 365 also provides [logging in using a
-certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-office-365/#log-in-using-a-certificate) if
+certificate](https://pnp.github.io/cli-microsoft365/user-guide/connecting-microsoft-365#log-in-using-a-certificate) if
 you prefer that approach.
 
 
@@ -126,8 +126,8 @@ m365 tenant status list --query "value[?Status != 'ServiceOperational']"  --outp
 Here we are using a SharePoint List in one of the SharePoint sites. The
 advantage of that is, you can have the information kept and you can tag
 it to a Power Automate if you want to build some logics (I have created
-a [Power Automate
-solution](https://arjunumenon.com/tenant-status-solution-m365cli/#bonus-solution---configure-power-automate-for-doing-any-business-process) so
+a Power Automate
+solution so
 that can you can have a look into that and design your requirements
 accordingly). In my case, SharePoint List look something like below
 
@@ -198,13 +198,13 @@ m365 outlook mail send --to "recipient@yourtenant.onmicrosoft.com" --subject "Ou
 #### Send email when the service is back to Operational
 
 Getting notification when the service is back to normal is equally
-important compared to the [notification when a Service is not
-Operational](https://arjunumenon.com/tenant-status-solution-m365cli/#send-email-when-the-service-is-not-operational).
+important compared to the notification when a Service is not
+Operational.
 This would enable you as an IT Pro to notify the concerned team and your
 organization on that.
 
-In the above steps, we had saved the data to a [SharePoint
-list](https://arjunumenon.com/tenant-status-solution-m365cli/#sharepoint-list) when
+In the above steps, we had saved the data to a SharePoint
+list when
 service are not operational. When our script checks the status and
 identifies that the service which was there in SharePoint List is no
 more there in the non-operational list of Tenant Workloads, we can
@@ -257,15 +257,15 @@ In my case, what I have done is that,
     another flow which will get triggered if an item is modified
 
 2.  If the `Still in Outage`{.language-plaintext
-    .highlighter-rouge} flag in [SharePoint
-    List](https://arjunumenon.com/tenant-status-solution-m365cli/#sharepoint-list) is **YES** (Creation
+    .highlighter-rouge} flag in SharePoint
+    List is **YES** (Creation
     Triggered Flow)
     1.  Send notification via email informing about Outage
     2.  Send a Push Notification to the configured user
 
 3.  If the `Still in Outage`{.language-plaintext
     .highlighter-rouge} flag in [SharePoint
-    List](https://arjunumenon.com/tenant-status-solution-m365cli/#sharepoint-list) is **No** (Modified
+    List is **No** (Modified
     Trigger Flow)
     1.  Send notification via email about Service becoming Operational
 
@@ -300,8 +300,8 @@ requirement. You can access the scripts which I have used from below.
 
 ### Complete Script - Easily understandable
 
-Below script is the similar implementation of the [Production Read
-Script](https://arjunumenon.com/tenant-status-solution-m365cli/#simple-script---production-ready-lines-of-code--4).
+Below script is the similar implementation of the Production Read
+Script.
 Rather than using PowerShell piping, we are using conventional For-Each
 so that script is easily readable.
  
@@ -345,8 +345,8 @@ In the below script, I have used PowerShell piping and hence the script
 may look complicated. But it hardly has 3 lines of code which does the
 complete operation and these kind of scripts will be ideal for your
 production like environment. If you need to understand the script, you
-can view [easily understandable
-script](https://arjunumenon.com/tenant-status-solution-m365cli/#complete-script---easily-understandable).
+can view easily understandable
+script.
  
  
 ```bash
@@ -381,7 +381,7 @@ it has explained how to configure PowerShell
 Too lazy to build scripts. Don't worry. We got your back. Now the
 complete script package is available in the CLI for Microsoft
 365 [sample scripts
-section](https://pnp.github.io/cli-microsoft365/sample-scripts/tenant/tenant-monitor-notify-healthstatus/).
+section](https://pnp.github.io/cli-microsoft365/sample-scripts/tenant/monitor-notify-healthstatus/).
 Photo by [Austin
 Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on
 Unsplash

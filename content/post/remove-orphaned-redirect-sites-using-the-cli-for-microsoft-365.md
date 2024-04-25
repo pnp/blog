@@ -55,10 +55,10 @@ $sites | ForEach-Object {
 
 You can find this and many more samples on how to use the CLI for
 Microsoft 365 in our [official samples
-section.](https://pnp.github.io/cli-microsoft365/sample-scripts/)
+section.](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction)
 
 
-## What is the CLI for Microsoft 365? 
+## What is the CLI for Microsoft 365?
 
 [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) is a
 cross-platform CLI that allows you to manage various configuration
@@ -74,7 +74,7 @@ Microsoft 365, you can configure your tenant no matter which operating
 system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
-### Try it today 
+### Try it today
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:

@@ -39,7 +39,7 @@ Demos this time
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Anoop Tatti](https://twitter.com/anooptells) (Content+Cloud) | @Anooptells - Multilingual SharePoint Page Summarization with Open AI API and Microsoft Graph Pages API
 * [Reshmee Auckloo](https://www.twitter.com/ReshmeeAuckloo) (Pension Protection Fund) | @ReshmeeAuckloo - Building a custom Instagram Feed experience with SPFx
@@ -47,7 +47,7 @@ Demos:
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-## New videos 
+## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
@@ -56,7 +56,7 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Build a training request solution with Power Platform](https://www.youtube.com/watch?v=_zt_O2_JBDY) by Phiwayinkosi Khanya Dludlu
 * [Power Platform Integrations / Connectors LABs Call - 8th of March, 2023](https://www.youtube.com/watch?v=cOlwOaAbD3s) by [Jocelyn Panchal - Power Platform Connections Ep 14](https://www.youtube.com/watch?v=zFFTeYiKFTw) by [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) | @JocelynP_PM
 * [A SharePoint document generator as Microsoft 365 app as Microsoft Teams native app](https://www.youtube.com/watch?v=1m5x55DCSNU) by [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
-* [Overview and Applications of the Dataverse Connector](https://www.youtube.com/watch?v=v-dOcyp4Bp8) by Matt Townsend (Microsoft) 
+* [Overview and Applications of the Dataverse Connector](https://www.youtube.com/watch?v=v-dOcyp4Bp8) by Matt Townsend (Microsoft)
 * [Group voicemail app using SharePoint, Microsoft Teams, Power Automate & Power Apps](https://www.youtube.com/watch?v=2yY3GQnzsQg) by Kevin Dibb (Chemours)
 * [Maturity Model for Microsoft 365 - May 2023](https://www.youtube.com/watch?v=IqjPW4aJQIg)
 * [Maturity Model for Microsoft 365 - April 2023](https://www.youtube.com/watch?v=k8clqL-_zpI)
@@ -130,7 +130,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -146,7 +146,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [365 EduCon DC](https://365educon.com/DC/) - June 12-16, 2023 - Washington, D.C., USA
 * [Viva Explorer Belgium](https://www.communitydays.org/event/2023-06-13/viva-explorers-belgium) - June 13, 2023 - Zaventem, Belgium
 * [AMS Berlin 2023](https://www.communitydays.org/event/2023-06-15/amsberlin-2023) - June 15, 2023 - Berlin, Germany
-* [Iowa Code Camp 2023](https://www.communitydays.org/event/2023-06-17/iowa-code-camp-2023) - June 17-18, 2023 - Iowa, USA
+* Iowa Code Camp 2023 - June 17-18, 2023 - Iowa, USA
 * [CollabDays Central Europe](https://www.collabdays.org/2023-ce/) - June 17, 2023 - Zurich, Switzerland
 * [European Power Platform conference](https://www.sharepointeurope.com/european-power-platform-conference/), June 20-22, 2023 - Dublin, Ireland
 * [Commsverse 2023](https://www.communitydays.org/event/2023-06-21/commsverse-2023) - June 21-22, 2023 - Surrey, United Kingdom
@@ -158,7 +158,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!

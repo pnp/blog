@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=iL4KIA7nQu4
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK-based [Kevin McDonnell](https://twitter.com/kevmcdonk), Head of Practice Modern Workplace at CPS, Microsoft MVP (Office Apps & Services) \| @kevmcdonk
 
 ## Topics discussed in this session
 
@@ -31,7 +31,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Book - <https://tonyfadell.com/the-book/>
 * Event September 22nd - Empowering Your Workforce in Economic Uncertainty - Satya Nadella, <https://www.microsoft.com/microsoft-viva/event>
 * Podcast Series - [GreyHatBeardPrincess Podcast](https://www.greyhatbeard.com/) \| @greyhatbeard
-* Documentation - [Introduction to Microsoft Viva Goals](https://docs.microsoft.com/viva/goals/intro-to-ms-viva-goals)
+* Documentation - [Introduction to Microsoft Viva Goals](https://learn.microsoft.com/viva/goals/intro-to-ms-viva-goals)
 
 
 Also, we showcased 17 articles/videos published by Microsoft and the PnP Community in the last week.
@@ -46,10 +46,10 @@ This session was recorded on Monday, September 5, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube iL4KIA7nQu4 >}}
-    *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-7edi5-12bc1a1 >}}   
+    *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-7edi5-12bc1a1 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -69,13 +69,13 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Series: Build Power Apps that don't look like Power Apps - Material Design part 2](https://pnp.github.io/blog/post/build-powerapps-that-dont-look-like-powerapps-2/) - [Luise Freese](https://twitter.com/LuiseFreese) | @LuiseFreese
 * [Deploy static web sites with Power Platform](https://pnp.github.io/blog/post/deploy-static-web-sites-with-powerplatform/) - [Duvan Baena](https://github.com/DuvanBaena/)
 * [Extend Teams apps to M365 with SSO the right way](https://mmsharepoint.wordpress.com/2022/08/31/extend-teams-apps-to-m365-with-sso-the-right-way/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
-* [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://www.andrewconnell.com/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
-* [Introducing Adoption Score](https://regarding365.com/introducing-adoption-score-af6be396ad1f) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-* [Customize list forms with SharePoint Framework form customizers](https://blog.mastykarz.nl/customize-list-forms-sharepoint-framework-form-customizers/) - [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm
-* [Episode #220 - Using the Search Verticals Web Part of PnP Modern Search](https://www.youtube.com/watch?v=SzPTCasRHfk) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Unboxing the SharePoint Framework (SPFx) v1.15.2 release](https://www.voitanos.io/blog/sharepoint-framework-v1-15-2-whats-in-latest-update-of-spfx/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Introducing Adoption Score](https://regarding365.com/introducing-adoption-score-af6be396ad1f) - [Daniel Glenn](https://twitter.com/DanielGlenn) (InfoWorks, Inc) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Customize list forms with SharePoint Framework form customizers](https://blog.mastykarz.nl/customize-list-forms-sharepoint-framework-form-customizers/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm
+* [Episode #220 - Using the Search Verticals Web Part of PnP Modern Search](https://www.youtube.com/watch?v=SzPTCasRHfk) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [Power Apps import Excel to SharePoint list or any data source with Power Automate](https://www.youtube.com/watch?v=MhFNwjaR10A) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
 * [Power Hour: Power Apps Creator Kit](https://www.youtube.com/watch?v=WqcrFfl8hRc) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @wonderlaura
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -84,4 +84,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

@@ -13,7 +13,7 @@ videos:
 ---
 
 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Oslo, Norway based Principal Product Manager, [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @mikaelsvenson.
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Oslo, Norway based Principal Product Manager, [Mikael Svenson](https://twitter.com/mikaelsvenson) (Microsoft) | @mikaelsvenson.
 
 ## Topics discussed in this session
 
@@ -25,7 +25,7 @@ In this installment of the weekly discussion revolving around the latest news an
 - Mikael's work in the open-source areas with the [PnP Search Web Parts](https://microsoft-search.github.io/pnp-modern-search/)
 - Impact of divercity and global teams across the world for making products better
 
-We also covered 17 articles published by Microsoft and the PnP Community over the last week. 
+We also covered 17 articles published by Microsoft and the PnP Community over the last week.
 
 ## This week
 
@@ -34,14 +34,14 @@ We also covered 17 articles published by Microsoft and the PnP Community over th
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Monday, April 25, 2022.   Enjoy the show.  
+This session was recorded on Monday, April 25, 2022.   Enjoy the show.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube F-O83IZp7LE >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-4qmw4-120e239 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -56,7 +56,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Community articles
 
-- [Copy a SharePoint list with PnP PowerShell](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/copy-a-sharepoint-list-with-pnp-powershell/ba-p/3292722) - [Toni Pohl](http://twitter.com/atwork)(atwork) | @atwork
+- [Copy a SharePoint list with PnP PowerShell](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/copy-a-sharepoint-list-with-pnp-powershell/ba-p/3292722) - [Toni Pohl](https://twitter.com/atwork)(atwork) | @atwork
 - [Getting started with ACE in SPFx](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-ace-in-spfx/ba-p/3280615) - [Chandani Prajapati](https://twitter.com/Chandani_SPD) (RapidCircle) | @Chandani_SPD
 - [Automatically raise your desk when joining a Microsoft Teams call or meeting](https://www.loryanstrant.com/2022/04/25/automatically-raise-your-desk-when-joining-a-microsoft-teams-call-or-meeting/) - [Loryan Strant](https://twitter.com/LoryanStrant) (RapidCircle) | @LoryanStrant
 - [SPFx Form Customizer Extension To Customize SharePoint New/Edit/Display Form Of List/Libraries](https://www.c-sharpcorner.com/article/spfx-form-customizer-extension-to-customize-sharepoint-neweditdisplay-form-of/) - [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me

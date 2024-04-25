@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 & Power Platform Community Call - 18th of April, 2023"  
+title: "Microsoft 365 & Power Platform Community Call - 18th of April, 2023"
 summary: "Demos: Introduction to Microsoft Teams Toolkit v5 - New features and capabilities, and Hack Together winner - Building a command-line-interface tool designed to answer user queries using the Microsoft Graph API, plus 2 articles, 2 conversations."
 date: 2023-04-18T02:00:00.000Z
 author: "Vesa Juvonen"
@@ -16,7 +16,7 @@ draft: false
 
 ## Call summary
 
-Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos. 
+Welcome to the weekly call focused on capabilities of the Microsoft 365 and Power Platform.  In this call, we highlight recently announced and key existing developer resources, news, community events and two demos.
 
 ### New this week
 
@@ -38,9 +38,9 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 PnP Weekly – Episode 206 (April 17th) with by UK-based Consultant, ECS organizer, and Microsoft MVP - [Spencer Harbar](https://twitter.com/harbars) \| @harbars \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-206/) \| [podcast](https://www.podbean.com/eas/pb-8xezu-13e666e)
@@ -51,7 +51,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 and Powe
 * **Introduction to Microsoft Teams Toolkit v5 - New features and capabilities** – review on Teams apps, manifests, hosting and cross platform visibility. New v5 automation features for composable automation, templates, CLI/IDE extensions. Install the teamsfx CLI tool from npm, create a project (notification bot), walk through default project structure in scaffold, app package, environment variables, hosting files, teams app update, F5 debug, instructions in yml files, new tunneling task, automated creation of needed platform resources.
 * **Building a command-line-interface tool designed to answer user queries using the Microsoft Graph API** – combine the power of Microsoft Graph and large language model (LLM) to deliver a powerful wizard – magi. Magi’s three building blocks – command line (LCLI), ChatGPT API and Microsoft Graph. The CLI skeleton is just 16 lines. OpenAI library provides a .NET focused experience. Prompt engineering is key to getting most out of the ChatGPT API. GraphClientFactory makes arbitrary requests to Graph API. A hackathon winning solution.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube ax3Zu-DItLE >}}
 
@@ -59,7 +59,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/ax3Zu-DItLE?t=0) – Intro
 
-[10:12](https://youtu.be/ax3Zu-DItLE?t=612) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[10:12](https://youtu.be/ax3Zu-DItLE?t=612) – Latest updates – news across the Microsoft blogs – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [13:10](https://youtu.be/ax3Zu-DItLE?t=790) – Announcement - Microsoft Teams toolkit cloud skill challenge – Garry Trinder (Microsoft) \| @garrytrinder
 
@@ -84,7 +84,7 @@ Today’s together mode was executed flawlessly with zero instruction. Nice work
 * [Register](https://learn.microsoft.com/training/challenges?id=131a4a86-7d76-4ead-891f-aeaf5b7d32df) for the Microsoft Teams Toolkit Cloud Skills Challenge, April 12th – 26th. \| aka.ms/LearnTeamsToolkit
 * [Rate this call](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR02h_1H9_XFFp4etSzu5JxFUOEc5UkxDN0dGMUgyOTBDVklBREJPRVI1Qi4u)’s content and let us know how we can improve \| aka.ms/community/calls/feedback Thanks!
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform advertised on the Community Days site.
 * Community call agendas are published each week at aka.ms/community/meetup
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:

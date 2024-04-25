@@ -66,7 +66,7 @@ Thank for attending the call or viewing it on demand. 
 
 *   D1:  Repo - [Power-Audio-Player--PowerApps-](https://github.com/KojoShaddy/Power-Audio-Player--PowerApps-) 
 
-*   D2:  Documentation – [Preview: Pay-as-you-go plan](https://docs.microsoft.com/power-platform/admin/pay-as-you-go-overview) | aka.ms/powerplatformPAYG
+*   D2:  Documentation – [Preview: Pay-as-you-go plan](https://learn.microsoft.com/power-platform/admin/pay-as-you-go-overview) | aka.ms/powerplatformPAYG
 
 *   D2:  Questions/Feedback – PowerPlatformPAYG@microsoft.com
 

@@ -86,7 +86,7 @@ Removes external connection with id MyApp
 m365 search externalconnection remove --id "MyApp"
 ```
 
-For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/search/externalconnection/externalconnection-remove/) command.
+For more information see the [search externalconnection remove](https://pnp.github.io/cli-microsoft365/cmd/external/connection/connection-remove) command.
 
 ### CLI for Microsoft 365 web site now with a dark theme and a team page
 
@@ -146,9 +146,9 @@ Thank you all for the time you chose to spend on CLI for Microsoft 365 and for y
 
 Here are some things that we're currently working on.
 
-### New Request command 
+### New Request command
 
-We're constantly seeking for ways to let you work with CLI for Microsoft 365 more efficiently and freely. Currently we are working on a new command that allows you to send a raw request to the targeted API. This command might be used for more advanced scenarios where CLI would take away all additional work regarding creating a request and passing authorization token or for some functionality which is not (yet) covered by a dedicated CLI command. For more information on that topic please do check [New command: request issue](https://github.com/pnp/cli-microsoft365/issues/3512) 
+We're constantly seeking for ways to let you work with CLI for Microsoft 365 more efficiently and freely. Currently we are working on a new command that allows you to send a raw request to the targeted API. This command might be used for more advanced scenarios where CLI would take away all additional work regarding creating a request and passing authorization token or for some functionality which is not (yet) covered by a dedicated CLI command. For more information on that topic please do check [New command: request issue](https://github.com/pnp/cli-microsoft365/issues/3512)
 
 ### SharePoint Online permission management commands
 
@@ -158,7 +158,7 @@ We're working on new commands that will help manage permissions in SharePoint On
 
 When building apps for Microsoft 365, next to your code, you also need to manage how your app is exposed to Microsoft 365. You need to register your application in Azure Active Directory, and depending what type of app you build, you might need to deploy it to an app catalog as well. All these properties are managed in different locations and we're thinking of ways that we could simplify it for you.
 
-### Discussions 
+### Discussions
 
 CLI for Microsoft 365 is constantly growing and evolving. We're always looking for ways to improve. There are still many areas not covered by the CLI as well as many amazing ideas for unique features the tool might provide. Currently we are considering adding support with commands which will allow you to manage file versioning, document sets and comments a user may add to a list item or page in SharePoint Online. Your feedback will help us make the right decisions in which areas we should focus on. If you want to help out please do join the currently open [discussions](https://github.com/pnp/cli-microsoft365/discussions)
 

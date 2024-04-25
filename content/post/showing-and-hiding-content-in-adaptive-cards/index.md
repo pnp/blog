@@ -83,7 +83,7 @@ Last step is to test it. Switch to "Preview" mode and examine behavior of your c
 
 ## Only show when
 
-This approach uses "[Adaptive Cards Templating Language](https://docs.microsoft.com/adaptive-cards/templating/language)". To be able to use it, first you need to define Data that will be bind with the card. And once you have the data, then you are able to create a condition that determines when an element should be visible:
+This approach uses "[Adaptive Cards Templating Language](https://learn.microsoft.com/adaptive-cards/templating/language)". To be able to use it, first you need to define Data that will be bind with the card. And once you have the data, then you are able to create a condition that determines when an element should be visible:
 
 ![thumbnail image 9 of blog post titled Showing and hiding content in Adaptive Cards](images/image-6-1536x478.png)
 

@@ -42,7 +42,7 @@ access* page.
 ## With Graph API
 
 First, we're going to play with Graph API through the [Microsoft Graph
-Toolkit](https://docs.microsoft.com/fr-fr/graph/toolkit/overview).
+Toolkit](https://learn.microsoft.com/fr-fr/graph/toolkit/overview).
 
 ### Prepare your sample
 
@@ -87,7 +87,7 @@ export default class HelloApi extends React.Component<IHelloApiProps, {}> {
 
 Now run your sample with `gulp serve` and display your web part in your
 remote workbench
-(<https://contoso.sharepoint.com/_layouts/15/workbench.aspx>). Try to
+(`https://contoso.sharepoint.com/_layouts/15/workbench.aspx`). Try to
 use the `PeoplePicker` component: you'll see that just by clicking on
 the search box, you'll get *We didn't find any matches*.
 ![peoplepicker-ui-fail.png](images/peoplepicker-ui-fail.png)
@@ -115,7 +115,7 @@ available search box to get it easily).
 ![aad-app-spo-api-graph.png](images/aad-app-spo-api-graph.png)
 Once added, grant it by clicking on **Grant admin consent for contoso**.
 If you go in the *API access* page
-(<https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement>),
+(`https://contoso-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/webApiPermissionManagement`),
 you should see something like this:
 ![(other Graph API permissions displayed here won't be necessary for the sample)](images/api-access-approved.png)
 **Warning**
@@ -149,9 +149,9 @@ component!
 When using a custom API, it's a little bit more tricky but easy to
 handle anyway.
 You can follow [this Microsoft
-article](https://docs.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
+article](https://learn.microsoft.com/fr-fr/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi) until
 the "[Deploy the
-solution](https://docs.microsoft.com/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
+solution](https://learn.microsoft.com/sharepoint/dev/spfx/use-aadhttpclient-enterpriseapi#deploy-the-solution-to-the-sharepoint-app-catalog)"
 part.
 Instead of bundling and shipping, we'll add the AAD App
 (called *contoso-api-dp20200915* if we follow the mentioned article)

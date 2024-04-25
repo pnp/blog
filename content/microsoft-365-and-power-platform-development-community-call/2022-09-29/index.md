@@ -42,9 +42,9 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
     * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
     * New - PnP PowerShell – [Get all files in a Document Library along with Created By and Modified By](https://pnp.github.io/script-samples/spo-get-files-and-creators-modifiers/README.html?tabs=pnpps) – [Todd Klindt](https://twitter.com/ToddKlindt) (Sympraxis Consulting) \| @ToddKlindt
-    * New - PnP PowerShell – [Create a Quick Links web part with items defined in a datasource](https://pnp.github.io/script-samples/spo-quicklink-wp-creator/README.html?tabs=pnpps) – [Kasper Larsen](http://twitter.com/kasperbolarsen) \| @kasperbolarsen
+    * New - PnP PowerShell – [Create a Quick Links web part with items defined in a datasource](https://pnp.github.io/script-samples/spo-quicklink-wp-creator/README.html?tabs=pnpps) – [Kasper Larsen](https://twitter.com/kasperbolarsen) \| @kasperbolarsen
     * New - PnP PowerShell – [Add Content Type Hub with calendar format field to List](https://pnp.github.io/script-samples/spo-add-contenttypehub-format-field-to-List/README.html?tabs=pnpps) – [André Lage](https://twitter.com/aaclage) (Datalynx AG) \| @aaclage
-    * New - Graph Power shell SDK – [Get users by license and review last signed in](https://pnp.github.io/script-samples/graph-get-license-and-signins/README.html?tabs=graphps) – [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+    * New - Graph Power shell SDK – [Get users by license and review last signed in](https://pnp.github.io/script-samples/graph-get-license-and-signins/README.html?tabs=graphps) – [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
     * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Microsoft Teams samples](https://pnp.github.io/teams-dev-samples/)
     * Sample – [Tab Office Mail Storage - Microsoft Teams App](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-office-sso-mail-save) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0
@@ -57,20 +57,20 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **How to build a good vibes generator bot for Microsoft Teams –** send positive affirmations to Teams’ users. Design goals: Secret-less (uses managed identity), server-less (Azure cloud), and open source. Architecture – uses Azure Functions, a bot, assembles vibe from phrases stored in Cosmos DB, and sends as Adaptive Card into a Teams conversation. 2 types of interactions (entry points) for bot to get vibes (listening to messages (@mention) or based on a schedule (durable function).
 * **Building a movie voting experience as Microsoft Teams meeting app –** using Teams stageView and real-time collaboration based on FluidFramework. Scenario: Vote on movies, identify audience favorite, and watch it in stageView. Meeting owner Schedules a Teams meeting, adds the “Tab Meeting Vote Movie Fluid” app, and inserts up to 3 movie options in app. Meeting participants see movie options in right sidebar. Voting results are updated nearly instantaneously. Better synchronization to come with Teams Live Share.
 
-The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<https://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube H3YNMCIi3xw >}}
 
 ## Agenda items
 
-* PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) @O365bert – [7:31](https://youtu.be/H3YNMCIi3xw?t=451)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:34](https://youtu.be/H3YNMCIi3xw?t=574)
+* PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) @O365bert – [7:31](https://youtu.be/H3YNMCIi3xw?t=451)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) \| @gautamdsheth – [9:34](https://youtu.be/H3YNMCIi3xw?t=574)
 * yo Teams updates - [Stephan Bisser](https://twitter.com/stephanbisser) (Solvion) \| @stephanbisser – [11:21](https://youtu.be/H3YNMCIi3xw?t=681)
-* Microsoft Graph Toolkit updates - [Sébastien Levert](http://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [12:35](https://youtu.be/H3YNMCIi3xw?t=755)
+* Microsoft Graph Toolkit updates - [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert – [12:35](https://youtu.be/H3YNMCIi3xw?t=755)
 * Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) \| @JocelynP_PM – [14:47](https://youtu.be/H3YNMCIi3xw?t=887)
-* Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock – [16:07](https://youtu.be/H3YNMCIi3xw?t=967)
+* Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock – [16:07](https://youtu.be/H3YNMCIi3xw?t=967)
 * Microsoft Teams Samples – [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen – [18:21](https://youtu.be/H3YNMCIi3xw?t=1101)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [18:57](https://youtu.be/H3YNMCIi3xw?t=1137)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) \| @aprildunnam – [18:57](https://youtu.be/H3YNMCIi3xw?t=1137)
 * Demo – How to build a good vibes generator bot for Microsoft Teams – [Lee Ford](https://twitter.com/lee_ford) (Symity) \| @lee_ford and [Luise Freese](https://twitter.com/LuiseFreese) \| @LuiseFreese – [20:46](https://youtu.be/H3YNMCIi3xw?t=1246)
 * Demo – Building a movie voting experience as Microsoft Teams meeting app – [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) \| @Moeller2_0 – [33:00](https://youtu.be/H3YNMCIi3xw?t=1980)
 
@@ -91,7 +91,7 @@ The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http:/
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -114,7 +114,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|Nightly builds
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.1 GA|Release in approximately 2 weeks
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

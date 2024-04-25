@@ -44,7 +44,7 @@ This month's community call featured presentations:
 -   **Shared mailboxes in Outlook** - Juan Balmori (Microsoft) and
     Ankush Oberoi (Microsoft) discussed shared mailboxes and shared
     folders. [Shared
-    mailbox](https://docs.microsoft.com/microsoft-365/admin/email/about-shared-mailboxes)
+    mailbox](https://learn.microsoft.com/microsoft-365/admin/email/about-shared-mailboxes)
     is now in preview and we encourage you to try it out and give us
     feedback at <https://github.com/OfficeDev/office-js/issues>.
 -   **Message recipients changed event for Outlook** - Elizabeth Samuel
@@ -53,7 +53,7 @@ This month's community call featured presentations:
     recipients.
 
 
-## Q&A (Question & Answers) 
+## Q&A (Question & Answers)
 
 
 \
@@ -106,29 +106,29 @@ of any web app running in a browser. It's not possible to write
 directly to disk from the browser in any way that works cross-platform.
 A recommended approach to write to a CSV file is to [write to files
 using Microsoft Graph and
-OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0).
+OneDrive](https://learn.microsoft.com/graph/api/resources/onedrive?view=graph-rest-1.0).
 
-## Resources 
+## Resources
 
-### Outlook shared mailbox 
+### Outlook shared mailbox
 
 -   [Create a shared mailbox - Microsoft 365 admin | Microsoft
-    Docs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
+    Docs](https://learn.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
 -   [Remove automapping for a shared mailbox - Outlook | Microsoft
-    Docs](https://docs.microsoft.com/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox)
+    Docs](https://learn.microsoft.com/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox)
 
 -   [Enable shared folders and shared mailbox scenarios in an Outlook
     add-in | Microsoft
-    Docs](https://docs.microsoft.com/office/dev/add-ins/outlook/delegate-access?tabs=windows)
+    Docs](https://learn.microsoft.com/office/dev/add-ins/outlook/delegate-access?tabs=windows)
 
-### PnP: Use Outlook event-based activation to tag external recipients (preview) 
+### PnP: Use Outlook event-based activation to tag external recipients (preview)
 
 -   PnP sample: [Use Outlook event-based activation to tag external
     recipients
     (preview)](https://github.com/OfficeDev/PnP-OfficeAddins/tree/main/Samples/outlook-tag-external)
 
-### Office Add-ins community call 
+### Office Add-ins community call
 
 -   [Recurring, monthly community call calendar
     invite](https://aka.ms/officeaddinscommunitycall)
@@ -137,11 +137,11 @@ OneDrive](https://docs.microsoft.com/graph/api/resources/onedrive?view=graph-res
 -   Community call recordings on the [YouTube Microsoft 365 community
     channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
 
-### Office Add-ins feedback 
+### Office Add-ins feedback
 
 -   Technical questions -- Microsoft Q&A
-    ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)),
-    ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+    ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)),
+    ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 -   Issues -- [GitHub](https://github.com/OfficeDev/office-js/issues)
 -   Recommendations and suggestions -- [Microsoft 365 Developer Platform
     ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)

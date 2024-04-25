@@ -18,7 +18,7 @@ GitHub.](https://github.com/LuiseFreese/blog/tree/main/sketchnotes/learnTogether
 
 Call to action: Learn how to make apps with Microsoft Graph and complete
 this [Microsoft Graph Learn
-Challenge](https://docs.microsoft.com/learn/challenges?id=7ca6c7f7-cc0d-4c31-9b74-5ce5658787e7&WT.mc_id=m365-24198-cxa)
+Challenge](https://learn.microsoft.com/learn/challenges?id=7ca6c7f7-cc0d-4c31-9b74-5ce5658787e7&WT.mc_id=m365-24198-cxa)
 
 ![Segment1.png](images/Segment1.png)
 

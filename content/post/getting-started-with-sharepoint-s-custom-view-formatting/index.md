@@ -10,7 +10,7 @@ tags: ["Microsoft lists", "SharePoint", "List formatting"]
 type: "regular"
 ---
 
-## Introduction 
+## Introduction
 
 In a previous [blog
 post](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-column-formatting/ba-p/2207937),
@@ -28,7 +28,7 @@ together', like so\...
 
 ![view-formatting-after.png](images/view-formatting-after.png)
 
-## Preparing for your journey 
+## Preparing for your journey
 
 Before you get going, there are a few things that will help prepare you
 for the trek ahead.
@@ -36,7 +36,7 @@ If you haven't, I would highly recommend reading the first blog post in
 this series: [Getting started with SharePoint's custom column
 formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-column-formatting/ba-p/2207937).
 You can also refer to the [official
-documentation](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
+documentation](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
 for view formatting to help fill in any gaps not covered here.
 I should also warn you that your HTML and CSS skills are going to come
 into play a lot more here, as you'll be trying to work with multiple
@@ -51,7 +51,7 @@ that only applies to View formatting, but everything we learned from the
 previous blog post will apply here as well.
 
 
-## Choose your own adventure 
+## Choose your own adventure
 
 In case you weren't aware, views in a Modern SharePoint list come in a
 few flavors.
@@ -74,7 +74,7 @@ For our journey here, we're going to start with a *List* view and then
 use it to create a *Tile* view.
 
 
-## I wisely started with a map 
+## I wisely started with a map
 
 Before we get into defining our custom view formatting, it may be
 helpful to spend some time up front thinking about how we'll structure
@@ -88,7 +88,7 @@ This isn't necessary, obviously, but I personally find it helpful to
 have a blueprint in front of me (even if it's only a mental one).
 
 
-## Formatting List views 
+## Formatting List views
 
 If you recall from the *[column
 formatting](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-sharepoint-s-custom-column-formatting/ba-p/2207937)*
@@ -115,7 +115,7 @@ List views aren't that much different.
 
 ``` JSON
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",    
+    "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",
     "hideSelection": true,
     "hideColumnHeader": true,
     "rowFormatter": {}
@@ -138,7 +138,7 @@ make your row a different color, you're probably better off using the
 *design mode* tools, but if you're interested in learning more about
 the `additionalRowClass` property, it is covered well enough in the
 [official
-documentation](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting#apply-conditional-classes-on-rows).
+documentation](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting#apply-conditional-classes-on-rows).
 We, however, will not be satisfied with applying some simplistic
 styling. NO! We are bound for greater `rowFormatter` glory!
 
@@ -148,10 +148,10 @@ styling. NO! We are bound for greater `rowFormatter` glory!
 > together by some column. There are also `footerFormatter` and
 > `hideFooter` properties that affect the \"List Footer\" that appears
 > if you're displaying item totals.
-> 
+>
 
 
-## One container to rule them all 
+## One container to rule them all
 
 The `rowFormatter` property is simply an object that wraps all of the
 HTML elements we're going to create our view. If, for some reason, we
@@ -161,7 +161,7 @@ following JSON definition.
 
 ``` JSON
 {
-    "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",    
+    "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",
     "hideSelection": true,
     "hideColumnHeader": true,
     "rowFormatter": {
@@ -185,7 +185,7 @@ understand\...how we reference columns.
 
 
 
-## How to reference fields 
+## How to reference fields
 
 When we were dealing with formatting individual columns, we always used
 the built-in variable `@currentField`, but what about when we're
@@ -262,7 +262,7 @@ We come up with this.
                         ]
                     },
                     {
-                        "elmType": "div",                        
+                        "elmType": "div",
                         "attributes": {
                             "title": "Race/Weapons DIV/Column"
                         },
@@ -320,7 +320,7 @@ to be much to look at. So let's fix that.
 
 
 
-## Putting some meat on the bone 
+## Putting some meat on the bone
 
 Now that we've got our skeleton all rigged up, it's time to fill it
 out some.
@@ -383,7 +383,7 @@ content will be rendered behind our parent div. Without this, the
 background image would cover up our border.
 
 
-## Stylin' and Profilin' 
+## Stylin' and Profilin'
 
 Now that we've got our first two layers done, let's take a look at our
 third layer. If we refer back to our skeleton, we can see that our
@@ -417,7 +417,7 @@ Now that we've got our container, let's work on the next three
 children, which will represent our three columns.
 
 
-## First column 
+## First column
 
 We'll just div right into the definition for our first column, which is
 a simple parent div to hold our image and role icon.
@@ -495,7 +495,7 @@ At this point, we have something like the below image.
 ![column-1.png](images/column-1.png)
 
 
-## Second column 
+## Second column
 
 Our second column consists of three rows, each containing a different
 bit of text relating information about the current member. Here's the
@@ -563,7 +563,7 @@ We're getting closer to our desired end result.
 
 
 
-## The final column 
+## The final column
 
 Our last column consists of two rows of equal size to hold our Race and
 Weapon Icons. Let's take a look.
@@ -604,7 +604,7 @@ There's nothing new to discuss here, but it does finish off our sample.
 ![column-3.png](images/column-3.png)
 
 
-## The Complete Schema 
+## The Complete Schema
 
 ``` JSON
 {
@@ -743,7 +743,7 @@ There's nothing new to discuss here, but it does finish off our sample.
 ```
 
 
-## Our adventure draws near its end 
+## Our adventure draws near its end
 
 Now that we've got our view formatted, we're done, right? We could be,
 but the list view is off somehow\...
@@ -785,7 +785,7 @@ property in the list view example and paste them into the new
 Doing that should get us to where we want to be.
 ![final-product.png](images/final-product.png)
 
-## Prologue 
+## Prologue
 
 Over the course of two blogs, we've covered the basic building blocks
 of custom column formatting as well as how to customize our list and

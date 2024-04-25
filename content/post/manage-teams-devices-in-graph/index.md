@@ -34,13 +34,13 @@ There are a couple provisos to be aware of in using Microsoft Graph and Teams de
 
 ## How do I achieve this?
 
-Whilst you can use these endpoints in any application/language you choose, to best illustrate this in an article I am going to use PowerShell. And the the easiest way to do this is by using the official [Graph SDK for PowerShell](https://docs.microsoft.com/en-us/powershell/microsoftgraph/overview?view=graph-powershell-1.0).
+Whilst you can use these endpoints in any application/language you choose, to best illustrate this in an article I am going to use PowerShell. And the the easiest way to do this is by using the official [Graph SDK for PowerShell](https://learn.microsoft.com/powershell/microsoftgraph/overview?view=graph-powershell-1.0).
 
 > Other SDKs/languages are available, and you can see samples within the Graph reference:
 >
 > ![image](./images/sdks.png)
 
-To install the Graph SDK for PowerShell Module by following [these instructions](https://docs.microsoft.com/en-us/powershell/microsoftgraph/installation?view=graph-powershell-1.0).
+To install the Graph SDK for PowerShell Module by following [these instructions](https://learn.microsoft.com/powershell/microsoftgraph/installation?view=graph-powershell-1.0).
 
 Once installed, if you can check the module is installed by running:
 

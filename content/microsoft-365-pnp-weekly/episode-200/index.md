@@ -12,12 +12,12 @@ videos:
 - https://www.youtube.com/watch?v=Em0B-NnUWAs
 draft: false
 ---
- 
-In this 200th installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, US-based interview host – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert is joined by Finland-based show host [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and Netherlands-based show host [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm.
+
+In this 200th installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, US-based interview host – [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) \| @sebastienlevert is joined by Finland-based show host [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and Netherlands-based show host [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm.
 
 ## Topics discussed in this session
 
-* Remembering [Episode 1](https://www.youtube.com/watch?v=Z4FDQnffkO8) recorded on 17 August 2018. 
+* Remembering [Episode 1](https://www.youtube.com/watch?v=Z4FDQnffkO8) recorded on 17 August 2018.
 * Why exactly are the PnP Weekly hosts spending time each week to interview community members and review articles?
 * What/Who initially provoked the show’s hosts to communicate to community? Why?
 * In what ways have community members been effectively broadening their career journeys by working with other members of this Community?
@@ -26,7 +26,7 @@ In this 200th installment of the weekly discussion revolving around the latest n
 * Just so you know, it was Vesa’s 6000th day at Microsoft anniversary today!
 * How will the Community look in Episode 300? Where is the community headed?
 * Thank you to all Community members for watching/listening to this series.
-* Also referenced during discussion - [Vesa’s Blog](https://www.youtube.com/channel/UCMZR3Yvur84PhKAZ-oO3YDQ/videos) (inactive) 
+* Also referenced during discussion - [Vesa’s Blog](https://www.youtube.com/channel/UCMZR3Yvur84PhKAZ-oO3YDQ/videos) (inactive)
 
 We showcased 26 articles/videos published by Microsoft and the community in the last week.
 
@@ -48,10 +48,10 @@ This session was recorded on Monday, February 28, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube Em0B-NnUWAs >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-cuzet-13ad58a >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-cuzet-13ad58a >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -82,7 +82,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Building a SharePoint intranet with ChatGPT and Bing – Branding modern sites](https://sharepoint.handsontek.net/2023/03/02/building-sharepoint-intranet-chatgpt-bing-branding-modern-sites/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
 * [Formatting grouped list headers with user profile pictures](https://lists.handsontek.net/formatting-grouped-list-headers-user-profile-pictures/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
 * [What’s new for Microsoft Viva – February 2023](https://teams.handsontek.net/2023/03/01/whats-new-microsoft-viva-february-2023/) - [João Ferreira](https://twitter.com/Joao12Ferreira) (Appspace) | @Joao12Ferreira
-* [Message Center Show - Exchange Online: Almost Total Recall - #274](https://www.messagecentershow.com/e/exchange-online-almost-total-recall-274/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Message Center Show - Exchange Online: Almost Total Recall - #274](https://www.messagecentershow.com/e/exchange-online-almost-total-recall-274/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Meeting Follow Ups and Invites with Power Apps and Automate](https://www.youtube.com/watch?v=4C0ZAUN6n8s) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps 911) | @ShanesCows
 * [Episode #240 - Creating Planner Plans, with Buckets and Tasks using Microsoft Power Automate](https://www.youtube.com/watch?v=nIrP2jVGezA) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Automate for Desktop PDF Creator Using Word Template](https://www.youtube.com/watch?v=lYuvBSNKgrk) - [Daniel Christian](https://twitter.com/dchristian19) (Wells Fargo) | @dchristian19
@@ -92,7 +92,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel
@@ -117,7 +117,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 ## Additional resources
@@ -128,4 +128,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

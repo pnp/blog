@@ -31,8 +31,8 @@ Notice: This particular call is on a summer break between July 1st and 31st of A
 * Article – [Most used SharePoint Framework solutions from the Store - May 2022](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-used-sharepoint-framework-solutions-from-the-store-may-2022/ba-p/3498944) – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 * Article – [Create M365 Group with Sensitivity Label programmatically](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/create-m365-group-with-sensitivity-label-programmatically/ba-p/3502429) – Microsoft
 * Article – [Microsoft 365 Assessment tool helps scan for active SharePoint 2013 workflows](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/microsoft-365-assessment-tool-helps-scan-for-active-sharepoint/ba-p/3493331) - Sudha Narayanan (Microsoft)
-* Documentation - Link unfurling support in [Share to Teams](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams-overview) \| Teams Platform Update
-* Documentation - [Manage your Teams apps using Developer Portal](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal) \| Teams Platform Update
+* Documentation - Link unfurling support in [Share to Teams](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/share-to-teams-overview) \| Teams Platform Update
+* Documentation - [Manage your Teams apps using Developer Portal](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal) \| Teams Platform Update
 * Portal – [Developer Portal](https://dev.teams.microsoft.com/)
 * Microsoft 365 PnP Weekly – Episode 171 (June 20th) with Germany based Teams/Power Apps Consultant, Partner Manager, MVP at Valo Solutions - [Edyta Gorzon](https://twitter.com/EdytaGorzon) \| @EdytaGorzon \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-171/) \| [podcast](https://www.podbean.com/media/share/pb-axtx9-1255b1a)
 
@@ -77,11 +77,11 @@ Thank you for your creativity and work execution. Samples are often showcased in
 * **Using the Microsoft Graph PowerShell SDK for common operations**
     * SDK - [Microsoft Graph PowerShell SDK](https://github.com/microsoftgraph/msgraph-sdk-powershell)
     * PowerShell Gallery - [Welcome to the PowerShell Gallery](https://www.powershellgallery.com/) \| Powershellgallery.com
-    * Documentation - [Out-GridView](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/out-gridview?view=powershell-7.2)
+    * Documentation - [Out-GridView](https://learn.microsoft.com/powershell/module/microsoft.powershell.utility/out-gridview?view=powershell-7.2)
 * **Get started with UI Library for Azure Communication Services**
-    * Documentation - [UI Library Overview](https://docs.microsoft.com/azure/communication-services/concepts/ui-library/ui-library-overview?pivots=platform-web) \| aka.ms/acsuilibrary
+    * Documentation - [UI Library Overview](https://learn.microsoft.com/azure/communication-services/concepts/ui-library/ui-library-overview?pivots=platform-web) \| aka.ms/acsuilibrary
     * Tool - [ACS UI Library Design Kit](https://www.figma.com/community/file/1095841357293210472/ACS-UI-Library-Design-Kit) \| aka.ms/acsdesignkit
-    * Documentation – [Samples](https://docs.microsoft.com/azure/communication-services/samples/overview)
+    * Documentation – [Samples](https://learn.microsoft.com/azure/communication-services/samples/overview)
     * Article - [Microsoft Build 2022: Azure Communication Services updates to build faster and reach further](https://techcommunity.microsoft.com/t5/azure-communication-services/microsoft-build-2022-azure-communication-services-updates-to/ba-p/3416337)
     * Article - [UI Library Design Kit](https://techcommunity.microsoft.com/t5/azure-communication-services/ui-library-design-kit/ba-p/3283411)
     * Repo – [Azure Communication Services - UI Library](https://azure.github.io/communication-ui-library/?path=/story/overview--page)

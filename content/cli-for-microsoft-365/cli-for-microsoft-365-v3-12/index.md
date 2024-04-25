@@ -10,7 +10,7 @@ tags: ["CLI for Microsoft 365"]
 type: "regular"
 ---
 
-## Manage Microsoft 365 and SharePoint Framework projects on any platform 
+## Manage Microsoft 365 and SharePoint Framework projects on any platform
 
 
 CLI for Microsoft 365 is a cross-platform CLI that allows you to manage
@@ -27,7 +27,7 @@ system you use. Additionally, using CLI for Microsoft 365, you can
 manage your SharePoint Framework projects.
 
 
-## New version of CLI for Microsoft 365 -- v3.12 
+## New version of CLI for Microsoft 365 -- v3.12
 
 
 Following our monthly release cadence, we've released a new version of
@@ -35,12 +35,12 @@ the CLI for Microsoft 365 with some new capabilities. Here are a few of
 the most noteworthy additions.
 
 
-### New Commands 
+### New Commands
  
 We've continued improving the CLI, adding new commands and we've
 introduced in the previous version.
 
-#### Create a bucket in a Microsoft Planner plan 
+#### Create a bucket in a Microsoft Planner plan
  
 We have added a new command that gives you the ability to create new
 buckets in your Microsoft Planner Plans.
@@ -49,7 +49,7 @@ To create a new bucket in a given plan, execute:
  
     m365 planner bucket add --name "My Planner Bucket" --planName "My Planner Plan" --ownerGroupName "My Planner Group"
  
-#### Retrieve buckets from a Microsoft Planner plan 
+#### Retrieve buckets from a Microsoft Planner plan
  
 We have added a new command that gives you the ability list the existing
 buckets in a given Microsoft Planner Plan.
@@ -58,7 +58,7 @@ To retrieve information about buckets in a given plan, execute:
  
     m365 planner bucket list --planName "My Plan" --ownerGroupName "My Group"
  
-#### Retrieve a list of Microsoft Planner plans 
+#### Retrieve a list of Microsoft Planner plans
  
 We have added a new command that gives you the ability list the
 Microsoft Planner plans associated with a given Microsoft 365 Group.
@@ -67,7 +67,7 @@ To retrieve information about the plans in a given group, execute:
  
     m365 planner plan list --ownerGroupName "My Planner Group"
  
-#### List OneDrive sites 
+#### List OneDrive sites
  
 We have added a new command that gives you the ability to list
 information about all of the OneDrive sites in a Microsoft 365 tenant.
@@ -76,7 +76,7 @@ To retrieve a list of OneDrive sites, execute:
  
     m365 onedrive list
  
-#### cli doctor 
+#### cli doctor
  
 We have introduced a new command that to make it easier for you to
 provide all the necessary diagnostic information needed to triage and
@@ -89,14 +89,14 @@ execute:
  
 
 
-### Changes 
+### Changes
 
 
 We've continued improving the CLI, building upon the changes we've
 introduced in the previous version.
 
 
-#### Upgraded commands to use Microsoft Graph v1.0 endpoints 
+#### Upgraded commands to use Microsoft Graph v1.0 endpoints
 
 
 When new capabilities are added to the Microsoft Graph they are usually
@@ -123,7 +123,7 @@ v1.0 endpoints.
 -   teams user app list
 -   teams channel get
  
-#### Project upgrade support for latest SharePoint Framework developer preview 
+#### Project upgrade support for latest SharePoint Framework developer preview
  
 The *spfx project upgrade* command has been updated to support the
 latest developer preview versions.
@@ -141,7 +141,7 @@ execute:
  
     m365 spfx project upgrade --preview
  
-#### Retrieve Associated Groups of a site  
+#### Retrieve Associated Groups of a site 
  
 The *spo web get* command can be used to return information about a
 given site, previously this did not include returning information about
@@ -156,7 +156,7 @@ groups, execute:
     m365 spo web get --webUrl https://contoso.sharepoint.com/subsite --withGroups
 ```
 
-### New script samples 
+### New script samples
  
 
 
@@ -166,7 +166,7 @@ complex tasks. Because CLI for Microsoft 365 is cross-platform you can
 use it on any OS and in any shell. To help you get started using the CLI
 for Microsoft 365 for automation scenarios, we started gathering some
 [sample
-scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/).
+scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction).
 
  
 
@@ -176,7 +176,7 @@ If you have any scripts that you use frequently, please
 with us so that we can learn more about the common automation scenarios.
 
 
-#### Add multiple lists in multiple sites 
+#### Add multiple lists in multiple sites
  
 
 
@@ -188,7 +188,7 @@ This
 will create multiple lists in multiple sites, including also mapping a
 content type to the created lists.
 
-#### Identify failed Site Designs executions 
+#### Identify failed Site Designs executions
 
 When people in your organization create new SharePoint sites, you often
 need to ensure some level of consistency. For example, you may need
@@ -216,7 +216,7 @@ will iterate over all lists, folders and subfolders in a given site and
 return the item count for each.
 
 
-### Contributors 
+### Contributors
 
 This release wouldn't be possible without the help of (in alphabetical
 order)
@@ -237,7 +237,7 @@ order)
 Thank you all for the time you chose to spend on the CLI for Microsoft
 365 and your help to advance it!
  
-## Work in progress 
+## Work in progress
 
 
 Here are some things that we're currently working on.
@@ -254,7 +254,7 @@ what's possible in Microsoft 365. In the upcoming versions of the CLI
 for Microsoft, you can expect us to add more commands across the
 different workloads in Microsoft 365.
 
-### Updating Azure AD apps 
+### Updating Azure AD apps
 
 
 Recently, we introduced a command to easily create Azure AD app
@@ -269,7 +269,7 @@ registration which will be helpful for example when building apps for
 Microsoft Teams. Stay tuned!
 
 
-### Script examples 
+### Script examples
 
 In every release of the CLI for Microsoft 365, we introduce new commands
 for managing Microsoft 365. With over 350 commands across the different
@@ -282,7 +282,7 @@ automation scripts in PowerShell Core and Bash. If you have any scripts
 using SPO or PnP PowerShell that you use frequently, please share them
 with us so that we can learn more about the common automation scenarios.
 
-### 'ensure' commands 
+### 'ensure' commands
  
 
 
@@ -295,7 +295,7 @@ you how you like it and if it's something you'd like us to implement
 for other commands as well.
 
  
-## Try it today 
+## Try it today
 
 Get the latest release of the CLI for Microsoft 365 from npm by
 executing:

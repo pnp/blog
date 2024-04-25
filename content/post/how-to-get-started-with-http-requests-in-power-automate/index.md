@@ -15,13 +15,13 @@ type: "regular"
 If you ever wondered what is an HTTP request and why you would want to
 know how this works - this post is made for you.
 
-## What is a HTTP request and why would I need it? 
+## What is a HTTP request and why would I need it?
 
 HTTP requests are a super powerful thing - not only in Power Automate!
 We will first need to understand what this is in order to determine why
 we would like to know how to use them. But wait - HTTP?
 
-### What is HTTP? 
+### What is HTTP?
 
 Let's first get us all an the same page. HTTP is the acronym
 for **Hypertext Transfer Protocol**. Its purpose is to structure
@@ -53,7 +53,7 @@ about methods **POST, PUT, PATCH, DELETE**.
 Now that we know what an HTTP request does, we want to learn what it
 could do in Power Automate
 
-## What can HTTP requests do in Power Automate? 
+## What can HTTP requests do in Power Automate?
 
 Power Automate offers you a huge variety of connectors and within those
 connectors, many actions which you can use to automate your processes.
@@ -62,7 +62,7 @@ need or that you might want to build in Power Automate, which is why we
 have an HTTP action in Power Automate as well. With the HTTP action we
 can invoke a REST API.
 
-### What is a REST API? 
+### What is a REST API?
 
 Wait but what? Ok, let's slow down a little bit. What is a REST API and
 would we want to invoke that?
@@ -87,12 +87,12 @@ Microsoft provides us with an amazing tool to try out Microsoft Graph,
 it's the [Graph
 Explorer](https://developer.microsoft.com/graph/graph-explorer).
 
-## How to create a HTTP request in Power Automate 
+## How to create a HTTP request in Power Automate
 
 Now how do we create an HTTP requests in Power Automate? First let me
 introduce everyone to our little
 
-### Use case 
+### Use case
 
 We want to use Power Automate to create a Team with some predefined
 content in it. To make things easier, we will use the mobile trigger and
@@ -121,15 +121,15 @@ action into the flow:
 You can see a lot of fields in that HTTP action, so I will make you
 understand them.
 
-### What do we need to make a successful HTTP request? 
+### What do we need to make a successful HTTP request?
 
 It is a very good idea to open documentation
-on [docs.microsoft.com](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) while
+on [docs.microsoft.com](https://learn.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) while
 building your flows that call Microsoft Graph. You will find in nearly
 all pages four things, that we need to consider when doing an HTTP
 request:
 
-#### Endpoint 
+#### Endpoint
 
 First things first, if we want to call an API with HTTP, we need to know
 the right endpoint. Think of an endpoint like a phone number that you
@@ -142,7 +142,7 @@ we will later
 use `https://graph.microsoft.com/v1.0/teams/{team-id}/channels/{channel-id}/tabs` to
 create this tab.
 
-#### Method 
+#### Method
 
 Second thing we need to know is which method we want to use. As already
 explained,
@@ -163,23 +163,23 @@ action, we will see a representation of that:
 
 As we want to *create* a new tab in a channel, we will use **POST**.
 
-#### Headers 
+#### Headers
 
 Headers are not mandatory for all requests, but look like
 this: `Content-type: application/json` - If they are needed,
 documentation will tell you.
 
-#### Data (or body) 
+#### Data (or body)
 
 If we call an endpoint, it's not enough to specify the URL the request
 needs to make to, but we will also need to post some additional info
 into the body of our requests. Most GET requests though don't need
 information in the body, as they will only list the requested resources.
 
-### Fill in the HTTP action 
+### Fill in the HTTP action
 
 If we carefully follow
-the [Docs](https://docs.microsoft.com/graph/teams-configuring-builtin-tabs),
+the [Docs](https://learn.microsoft.com/graph/teams-configuring-builtin-tabs),
 we will see that we should do this:
 
 `POST https://graph.microsoft.com/v1.0/teams/{team-id}/channels/{channel-id}/tabs`
@@ -190,7 +190,7 @@ we will see that we should do this:
 "configuration":
  {
     "contentUrl": "https://m365princess.com",
-    "websiteUrl": "https://m365princess.com" 
+    "websiteUrl": "https://m365princess.com"
     }
 }
 ```
@@ -214,7 +214,7 @@ In total, this looks like this:
 
 ![http-without-auth.png](images/http-without-auth.png)
 
-#### Authentication in Azure AD 
+#### Authentication in Azure AD
 
 We are almost there, but some critical parts are missing. As you can see
 in the last image, there is a **Show advanced options** link in the HTTP
@@ -232,10 +232,10 @@ We will follow these steps to register an app in Azure AD:
 -   Save tenant ID and Client(app) ID somewhere (notepad or similar)
 -   Click **API PERMISSIONS** and select **Microsoft Graph**
 -   Now look up the permissions needed for this action: [Add tabs to a
-    channel](https://docs.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-1.0)
+    channel](https://learn.microsoft.com/graph/api/channel-post-tabs?view=graph-rest-1.0)
 
   Permission type  Permissions (from least to most privileged)
- 
+
   Application      TeamsTab.Create.Group\*, TeamsTab.Create, TeamsTab.ReadWriteForTeam.All, TeamsTab.ReadWrite.All, Group.ReadWrite.All, Directory.ReadWrite.All
 
 -   Select all these permissions
@@ -247,13 +247,13 @@ We will follow these steps to register an app in Azure AD:
 -   Copy the value and save it in your notepad (you will need that
     later)
 
-#### Write the IDs into variables 
+#### Write the IDs into variables
 
 In our flow, we will now initialize three variables at first level
 (before any condition) and set their values the copied values of Tenant
 ID, App ID and App Secret. All three variables are of type string.
 
-#### Complete the HTTP request 
+#### Complete the HTTP request
 
 Now we will fill in some more information in the HTTP request:
 
@@ -269,7 +269,7 @@ App Secret.
 
 ![flow-total.png](images/flow-total.png)
 
-## [](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/#celebrate)Celebrate 
+## [](https://m365princess.com/how-to-get-started-with-http-requests-in-power-automate/#celebrate)Celebrate
 
 If we now run the flow and take a look at the new team in Microsoft
 Teams:
@@ -282,7 +282,7 @@ Teams:
 we can spot our freshly created tab with the the content we wanted to
 provide!
 
-## Conclusion 
+## Conclusion
 
 HTTP requests re a super coo method to achieve a lot of things that are
 not actions in Power Automate, but can still be executed using Microsoft

@@ -205,7 +205,7 @@ slides.
 -   **D1**:  Sample -- [bot meeting lifecycle feedback - Microsoft Teams
     App](https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-meeting-lifecycle-feedback) 
 -   **D1**:  Documentation - [Prerequisites for apps in Teams
-    meetings](https://docs.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?tabs=dotnet#real-time-teams-meeting-events) 
+    meetings](https://learn.microsoft.com/microsoftteams/platform/apps-in-teams-meetings/teams-apps-in-meetings?tabs=dotnet#real-time-teams-meeting-events) 
 -   **D2**:  Website - [Drive value with Microsoft 365 adoption
     tools](https://adoption.microsoft.com/) 
 -   **D2**:  Samples - [Sample Solution
@@ -278,7 +278,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

@@ -34,13 +34,13 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
   * Updated - [RegEx Matching](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/RegEx%20Matching) - [Mitanshu Garg](https://twitter.com/mitanshu)
   * [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks)
 * [Script samples](https://pnp.github.io/script-samples/)
-  * New PowerShell - Add bulk users to SharePoint site groups from CSV - [Chandani Prajapati](http://twitter.com/Chandani_SPD) \| @Chandani_SPD
-  * New Power App PowerShell -Get Flows Connected to SharePoint - [Russell Gove](http://twitter.com/russgove) (Tronox) \| @russgove
+  * New PowerShell - Add bulk users to SharePoint site groups from CSV - [Chandani Prajapati](https://twitter.com/Chandani_SPD) \| @Chandani_SPD
+  * New Power App PowerShell -Get Flows Connected to SharePoint - [Russell Gove](https://twitter.com/russgove) (Tronox) \| @russgove
   * Updated CLI - Planner migration to SharePoint list - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
-  * Updated CLI - SharePoint Modern Page Publishing Report - [Nanddeep Nachan](http://twitter.com/NanddeepNachan) \| @NanddeepNachan
+  * Updated CLI - SharePoint Modern Page Publishing Report - [Nanddeep Nachan](https://twitter.com/NanddeepNachan) \| @NanddeepNachan
   * Updated CLI - Multiple Samples update – m365 connection check - [Jasey Waegebaert](https://twitter.com/JWaegebaert) \| @JWaegebaert
   * Updated CLI - Copy Planner plan - [Milan Holemans](https://github.com/milanholemans) \| milanholemans
-  * Updated CLI - Copy library view to another library(ies) - [Reshmee Auckloo](http://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
+  * Updated CLI - Copy library view to another library(ies) - [Reshmee Auckloo](https://twitter.com/ReshmeeAuckloo) \| @ReshmeeAuckloo
   * Updated PowerShell - Add multiple folders in libraries using a CSV file - [Jiten Palmer](https://twitter.com/Jitenpa44241205) \| @Jitenpa44241205
   * [Good first issue asks](https://github.com/pnp/script-samples)
 * [Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
@@ -56,7 +56,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Introduction to available open-source list formatting samples from updated list formatting sample portal** – exciting updates regarding the List Formatting Repo that address sample inconsistencies, currency and discovery. All samples and documentation have been updated. The Repo has been reorganized including new groupings by Operator, Placeholder Token, Action, Category, Feature, Author, and by Class. Instruction for submissions created. Go behind scenes to learn about the Farrier tool and automations now used to keep the repo up-to-date.
 
 
-The host of this call was [David Warner II](http://twitter.com/DavidWarnerII)
+The host of this call was [David Warner II](https://twitter.com/DavidWarnerII)
 (Microsoft) \| @DavidWarnerII. Q&A takes place in chat throughout the
 call.
 
@@ -64,14 +64,14 @@ call.
 
 ## Agenda items
 
-* PnP .NET library updates - [Paolo Pialorsi](http://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:35](https://youtu.be/hH5Bk4OGuxQ?t=335)
-* PnP PowerShell updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:58](https://youtu.be/hH5Bk4OGuxQ?t=418)
-* yo Teams updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:32](https://youtu.be/hH5Bk4OGuxQ?t=452)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:52](https://youtu.be/hH5Bk4OGuxQ?t=472)
-* Independent Publisher Connectors - [Natalie Pienkowska](http://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [8:17](https://youtu.be/hH5Bk4OGuxQ?t=497)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:52](https://youtu.be/hH5Bk4OGuxQ?t=592)
+* PnP .NET library updates - [Paolo Pialorsi](https://twitter.com/paolopia) (PiaSys.com) \| @paolopia – [5:35](https://youtu.be/hH5Bk4OGuxQ?t=335)
+* PnP PowerShell updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [6:58](https://youtu.be/hH5Bk4OGuxQ?t=418)
+* yo Teams updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:32](https://youtu.be/hH5Bk4OGuxQ?t=452)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [7:52](https://youtu.be/hH5Bk4OGuxQ?t=472)
+* Independent Publisher Connectors - [Natalie Pienkowska](https://twitter.com/NataliePienkow1) (Microsoft) \| @NataliePienkow1 – [8:17](https://youtu.be/hH5Bk4OGuxQ?t=497)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [9:52](https://youtu.be/hH5Bk4OGuxQ?t=592)
 * Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) @Bob1German – [10:30](https://youtu.be/hH5Bk4OGuxQ?t=630)
-* Microsoft Power Platform Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:20](https://youtu.be/hH5Bk4OGuxQ?t=680)
+* Microsoft Power Platform Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [11:20](https://youtu.be/hH5Bk4OGuxQ?t=680)
 * Demo - Building Publishing Connectors for MailJet product – [Clément Olivier](https://twitter.com/Clement0livier) \| @Clement0livier – [13:25](https://youtu.be/hH5Bk4OGuxQ?t=805)
 * Demo - Microsoft Graph “Sites.Selected” permissions within SharePoint Online – [Pankaj Surti](https://twitter.com/pankajsurti) (Microsoft) \| @pankajsurti – [22:50](https://youtu.be/hH5Bk4OGuxQ?t=1370)
 * Demo - Introduction to available open-source list formatting samples from updated list formatting sample portal – [Chris Kent](https://twitter.com/theChrisKent) (DMI) \| @theChrisKent – [41:41](https://youtu.be/hH5Bk4OGuxQ?t=2501)
@@ -96,12 +96,12 @@ call.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) from Microsoft and community.
 * Sign up to [Share your story](https://aka.ms/share-your-story) in the [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek) series.
 * Request a Demo spot on the call – <https://aka.ms/m365pnp/request/demo>
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
 * **Building Publishing Connectors for MailJet product**
-  * Connector - [MailJet (Independent Publisher) (Preview)](https://docs.microsoft.com/connectors/mailjetip/)
+  * Connector - [MailJet (Independent Publisher) (Preview)](https://learn.microsoft.com/connectors/mailjetip/)
   * Repo – [MailJet](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/MailJet)
   * Connectors - [Welcome to the Independent Publisher Connector Directory!](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors)
 * **Microsoft Graph “Sites.Selected” permissions within SharePoint Online**
@@ -111,7 +111,7 @@ call.
 * **Introduction to available open-source list formatting samples from updated list formatting sample portal**
   * Repo - [Community-tooling](https://github.com/pnp/Community-Tooling)
   * Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting)
-  * Documentation – [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) \| aka.ms/spdev-column-formatting
+  * Documentation – [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) \| aka.ms/spdev-column-formatting
 
 Thank you for your great work. Samples are often showcased in Demos. Request a Demo spot on the call [https://aka.ms/m365pnp/request/demo](https://aka.ms/m365pnp/request/demo)
 
@@ -122,7 +122,7 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.10.0 GA|Prepping 1.11.0 (after summer break)
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.7.0 GA|Prepping for 1.8.0 (after summer break)
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/PnP-PowerShell)|v1.11.0 GA|
 [Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.0.0 GA
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.7.0 GA

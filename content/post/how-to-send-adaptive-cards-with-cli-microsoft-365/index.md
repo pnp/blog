@@ -16,7 +16,7 @@ even if you don't know anything about the CLI Microsoft 365 or about
 Adaptive cards, don't stop reading, you will be able to do that in a
 few minutes- I promise!
 
-## What is CLI Microsoft 365? 
+## What is CLI Microsoft 365?
 
 Lets first get us all on the same page and clarify, what CLI Microsoft
 365 is and why we should use it: It is a CLI (Command Line Interface)
@@ -26,11 +26,11 @@ configurations were only possible by PowerShell for Windows, which
 limited a lot of admins. But even if you work on Windows and are pretty
 fine with using PowerShell, CLI might be a nice alternative to try out.
 
-### How to use CLI Microsoft 365 
+### How to use CLI Microsoft 365
 
 I will now describe your first steps:
 
-#### Install Node.js 
+#### Install Node.js
 
 To use the CLI Microsoft 365, you will need to install Node.js - Please
 follow these steps:
@@ -44,7 +44,7 @@ to develop your SPFx
 apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/use-node-version-manager-to-develop-your-spfx-apps/ba-p/2128393) by
 [Toni Pohl](https://twitter.com/atwork) 
 
-#### Install CLI Microsoft 365 
+#### Install CLI Microsoft 365
 
 Now that you have Node.js installed, we can continue with installing the
 CLI Microsoft 365. You can choose any shell you like: If you want to,
@@ -65,7 +65,7 @@ In case you wonder:
 * the `-g` means that we want to install this package globally
 * it will take about 2 minutes
 
-#### Login 
+#### Login
 
 Now that we installed CLI Microsoft 365, it's time to actually do
 something here. But before we can get or post anything, we will need to
@@ -133,7 +133,7 @@ m365 outlook
 you will get the commands, that are available to you in this command
 group. Sometimes, you can go several levels deep-Just try them out!
 
-## What are Adaptive Cards? 
+## What are Adaptive Cards?
 
 Next thing we need to know is, what are Adaptive Cards and why would we
 want to use them? When we look at
@@ -149,7 +149,7 @@ like to know more, please read [Get started with Adaptive
 Cards](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-started-with-adaptive-cards/ba-p/2048786) by
 [Tomasz Poszytek](https://twitter.com/tomaszposzytek)
 
-## How do we send an Adaptive Card with CLI Microsoft 365? 
+## How do we send an Adaptive Card with CLI Microsoft 365?
 
 Now that we know what is an Adaptive Card, let's have a look on how we
 get this sent by CLI. The
@@ -159,7 +159,7 @@ this from? This depends on where you want to send this Adaptive Card to.
 In this example, I want to use Microsoft Teams as host application and
 therefore we will need to create an incoming webhook in Teams.
 
-### Create the Webhook 
+### Create the Webhook
 
 If you have no clue what is a webhook, no problem, [Rabia
 Williams](https://www.twitter.com/williamsrabia) got you covered with
@@ -184,13 +184,11 @@ this step is optional.
 This URL is the URL we will need in the command later - If you want to,
 paste it into a notepad or similar.
 
-### Author your Card 
+### Author your Card
 
 Now it's time to author your card. You can do this in a lot of editors,
 I use either the [Adaptive Cards
-Designer](https://adaptivecards.io/designer) or the [Adaptive Cards
-Viewer Extension in Visual Studio
-Code](https://marketplace.visualstudio.com/items?itemName=tomlm.vscode-adaptivecards),
+Designer](https://adaptivecards.io/designer),
 but recently also found [Adaptive Card
 Studio](https://marketplace.visualstudio.com/items?itemName=madewithcardsio.adaptivecardsstudiobeta).
 You can also use one of the [provided
@@ -225,7 +223,7 @@ copy/paste the code from [CLI Microsoft 365
 documentation](https://pnp.github.io/cli-microsoft365/cmd/adaptivecard/adaptivecard-send/).
 Congratulations :rocket:- you sent your first adaptive Card with CLI.
 
-## Feedback and what's next? 
+## Feedback and what's next?
 
 I hope you liked this little post on how to get started with CLI
 Microsoft 365 and learning how to send an Adaptive Card with it. I would

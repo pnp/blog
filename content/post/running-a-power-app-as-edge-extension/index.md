@@ -29,7 +29,7 @@ ToDo list to store data from the Flow so there is no real logic required
 on that side.  The goal is thus to run our Power App as an Edge
 Extension.
 
-## Edge Extension 
+## Edge Extension
 
 Up until this scenario I never had build an Edge Extension so I resorted
 to Google to figure out the steps required. As it turns out there are
@@ -37,7 +37,7 @@ quite a few tutorials and the process itself is straightforward. You
 have a `manifest.json` that describes the extension and a set of files
 like icons, html and JavaScript. You can walk through the [Create an
 extension
-tutorial](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension)
+tutorial](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension)
 to get a feeling of all the components. 
 Our Manifest itself is straight forward. We will be using two
 files `frame.html` and `frame.js`, those must be in
@@ -135,7 +135,7 @@ might not always trickle down as some of the content is cached. My best
 experience was to reload the extension each time I changed something in
 the JS or HTML.
 
-## Power Apps 
+## Power Apps
 
 Once you have your Edge Extension working the Power App can be running
 whatever you like. There is a bit of a chicken and egg issue as you need
@@ -159,7 +159,7 @@ Flow is linked to the `OnSelect` and runs as follows:
 
 That is all there is to our app; a single button that calls our Flow. 
 
-## Flow 
+## Flow
 
 The last component is the Flow, it uses the `Power App` trigger and a
 single action to create a new ToDo. Since we are passing the title and
@@ -169,7 +169,7 @@ expression: `@{triggerBody()['Addato-do(V3)_Title']}`. The full flow
 looks like this:
 ![flow-todo.png](images/flow-todo.png)
 
-## Fusion Development 
+## Fusion Development
 
 Now I understand that some of these steps could have been done writing
 actual code instead of using the Power Platform. However the fact that I

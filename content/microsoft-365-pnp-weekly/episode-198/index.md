@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=WA5UQCU5K2M
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust
 
 ## Topics discussed in this session
 
@@ -67,10 +67,10 @@ This session was recorded on Friday, February 17, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube WA5UQCU5K2M >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-hfy3i-13965d2 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-hfy3i-13965d2 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -90,7 +90,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Managing and applying Purview retention labels using code](https://www.blimped.nl/managing-and-applying-purview-retention-labels-using-code/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
 * [Working with Microsoft Teams PowerShell in Azure Automation](https://www.blimped.nl/working-with-teams-powershell-in-azure-automation/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU Business Solutions) | @martinlingstuyl
 * [Use Teams Toolkit and Visual Studio (C#) to create a Teams Tab using Microsoft Graph Toolkit](https://mmsharepoint.wordpress.com/2023/02/16/use-teams-toolkit-and-visual-studio-c-to-create-a-teams-tab-using-microsoft-graph-toolkit/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
-* [Suggested Files in 1:1 Chats - #272](https://www.messagecentershow.com/e/suggested-files-in-11-chats-272/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](http://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
+* [Suggested Files in 1:1 Chats - #272](https://www.messagecentershow.com/e/suggested-files-in-11-chats-272/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn, [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
 * [Viva Engage — The artist formerly known as Yammer](https://regarding365.com/viva-engage-the-artist-formerly-known-as-yammer-59002e6defe4) - [Rebecca Jackson](https://twitter.com/RebeccaJLJ) (Avanade) | @RebeccaJLJ
 * [PnP React Controls Part 13 – IconPicker](https://spknowledge.com/2023/02/16/pnp-react-controls-part-13-iconpicker/) - [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT Ltd Singapore) | @sudharsank
 * [Effortlessly Collaborate With Document Annotation Now In Microsoft Syntex](https://www.leonarmston.com/2023/02/effortlessly-collaborate-with-document-annotation-now-in-microsoft-syntex/) - [Leon Armston](https://twitter.com/LeonArmston) (Intelogy) | @LeonArmston
@@ -109,7 +109,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Community Days - Women in Tech 2023](https://www.communitydays.org/event/2023-03-03/m365-community-days-women-in-tech-2023) - March 3, 2023 - Virtual
 * [Global Power Platform Bootcamp Nairobi 2023](https://www.communitydays.org/event/2023-03-04/global-power-platform-bootcamp-nairobi-2023#home) - March 4, 2023 - Nairobi, Kenya
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel
@@ -134,7 +134,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 ## Additional resources
@@ -145,4 +145,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

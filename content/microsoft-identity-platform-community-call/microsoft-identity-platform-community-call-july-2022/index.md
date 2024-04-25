@@ -38,7 +38,7 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded July 21,2022
 ## Referenced in this call
 
 * Documentation - [Quickstart: Set up a SD
-    tenant](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)
+    tenant](https://learn.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)
 * Library - [Microsoft Authentication Library for JavaScript
     (MSAL.js)](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 * Documentation – [MSAL Browser
@@ -52,47 +52,47 @@ Krishna](https://twitter.com/kalyankrishna1). Recorded July 21,2022
     platform](https://github.com/Azure-Samples/ms-identity-javascript-react-tutorial)
 * Documentation - [Microsoft identity platform and OAuth 2.0 authorization
     code
-    flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
+    flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow)
 * Documentation - [Single sign-on with
-    MSAL.js](https://docs.microsoft.com/azure/active-directory/develop/msal-js-sso)
+    MSAL.js](https://learn.microsoft.com/azure/active-directory/develop/msal-js-sso)
 * Documentation - [Continuous access
-    evaluation](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
+    evaluation](https://learn.microsoft.com/azure/active-directory/conditional-access/concept-continuous-access-evaluation)
 * Samples - [Microsoft identity platform code
-    samples](https://docs.microsoft.com/azure/active-directory/develop/sample-v2-code)
+    samples](https://learn.microsoft.com/azure/active-directory/develop/sample-v2-code)
     \| aka.ms/aadcodesamples
 * Cheat Sheet - [Cross Site Scripting Prevention Cheat
     Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 * Demo - [Getting Started with Create React
     App](https://github.com/derisen/msal-react-demo)
 * Documentation - [Microsoft identity platform ID
-    tokens](https://docs.microsoft.com/azure/active-directory/develop/id-tokens)
+    tokens](https://learn.microsoft.com/azure/active-directory/develop/id-tokens)
     \| aka.ms/id-tokens
 * Documentation - [Provide optional claims to your
-    app](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+    app](https://learn.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
     \| aka.ms/optionalclaims
 * Documentation - [Claims challenges, claims requests, and client
-    capabilities](https://docs.microsoft.com/azure/active-directory/develop/claims-challenge)
+    capabilities](https://learn.microsoft.com/azure/active-directory/develop/claims-challenge)
     \| aka.ms/ClaimsChallenge
 
 ## Actions
 
 * Let us know how we’re doing and suggest topics for future calls, please
     complete this survey
-    [https://aka.ms/IDDevCommunityCallSurvey](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FIDDevCommunityCallSurvey&data=04%7C01%7CChristos.Matskas%40microsoft.com%7C18e3d21d4b1a44823a7608d9deba552b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637785715396882782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=I5LYE8pBSlftGEofnz98KPtVi5KfZFts7UZ7CHjRRQk%3D&reserved=0)
+    [https://aka.ms/IDDevCommunityCallSurvey](https://aka.ms/IDDevCommunityCallSurvey)
 * Opt into PnP Recognition Program \| <https://aka.ms/m365pnp-recognition>
 * Register for the [Microsoft 365 Developer
     Program](https://aka.ms/m365/devprogram) and get a free developer tenant
 * Get started with [free training modules](https://aka.ms/m365/dev/learn)
     covering Microsoft 365 platform capabilities including Learning Path -
     [Implement Microsoft identity –
-    Associate](https://docs.microsoft.com/en-us/learn/paths/m365-identity-associate/)
+    Associate](https://learn.microsoft.com/learn/paths/m365-identity-associate/)
 * Mark your calendar for next call on August 22nd at 9:00am PT. Download the
     recurrent invite for this call \| <https://aka.ms/IDDevCommunityCalendar>
 
 ## Resources in General
 
-* Documentation - [What is the Microsoft identity platform?](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)
-* Documentation - [Microsoft identity platform documentation](https://docs.microsoft.com/azure/active-directory/develop/)
+* Documentation - [What is the Microsoft identity platform?](https://learn.microsoft.com/azure/active-directory/develop/v2-overview)
+* Documentation - [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
 * Developer – [Microsoft Identity Platform](https://developer.microsoft.com/identity)
 * Microsoft 365 Unified Sample gallery - <https://aka.ms/m365/samples>
 

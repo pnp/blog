@@ -21,9 +21,9 @@ type: "regular" # available type (epic, trending, popular, or regular)
 
 There are many ways we may manage Microsoft 365. To name a few we may
 use [Microsoft Graph PowerShell
-SDK](https://docs.microsoft.com/graph/powershell/get-started) or
+SDK](https://learn.microsoft.com/graph/powershell/get-started) or
 [SharePoint Online Management
-Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) or
+Shell](https://learn.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) or
 [PnP PowerShell](https://pnp.github.io/powershell/) or [CLI for
 Microsoft 365](https://pnp.github.io/cli-microsoft365/). During my SP
 consultant/dev work I most of the times used the last two. From time to
@@ -45,7 +45,7 @@ SharePoint, and sooner or later there was always a need of some small
 provision or other setup kind of script to be created (at least this was
 my story and most of the people I worked with). The first thing usually
 used was the [SharePoint
-PowerShell](https://docs.microsoft.com/sharepoint/sharepoint-powershell).
+PowerShell](https://learn.microsoft.com/sharepoint/sharepoint-powershell).
 The next cool thing that happened was the SharePointPnPPowerShell
 2013/16/19 and all the improvements it gave. After some time it was the
 'must have tool' when it comes to developing PowerShell scripts to
@@ -61,7 +61,7 @@ almost 600 commands ([check full docs
 list](https://github.com/pnp/powershell/tree/dev/documentation)) that
 gives the possibility to manage SharePoint Online, Microsoft Teams,
 Microsoft Planner and Power Platform (mainly Power Automate (for
-PowerApps there is also the[PowerApps.PowerShell](https://docs.microsoft.com/power-platform/admin/powerapps-powershell)
+PowerApps there is also the[PowerApps.PowerShell](https://learn.microsoft.com/power-platform/admin/powerapps-powershell)
 which may be used.
 It's straight forward and easy to use and it's a perfect pick for any
 quick day to day tenant management as well as for huge scripts that may

@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=2uQA1iMhiFI
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Independent consultant and Microsoft MVP - [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) \| @techChirag.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by UK based Independent consultant and Microsoft MVP - [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) \| @techChirag.
 
 ## Topics discussed in this session
 
@@ -50,10 +50,10 @@ This session was recorded on Monday, September 26, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 2uQA1iMhiFI >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-9cb9v-12d3268 >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-9cb9v-12d3268 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -81,12 +81,12 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Managed Identity rocks with PnP.PowerShell!](https://www.scoutman.pt/managed-identity-rocks-with-pnp.powershell/) - [Rodridgo Pinto](https://twitter.com/ScoutmanPt) (Storm Tehcnologies) | @ScoutmanPt
 * [Where in the world is my Teams conversation?](https://www.enowsoftware.com/solutions-engine/m365-teams-center/where-in-the-world-is-my-teams-conversation) - [Loryan Strant](https://twitter.com/LoryanStrant) (Rapid Circle) | @LoryanStrant
-* [Register SPFx list form customizers with the SharePoint REST API](https://www.andrewconnell.com/blog/sharepoint-framework-register-list-form-customizers-rest-api/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Register SPFx list form customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-list-form-customizers-rest-api/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [1 step to update an item in an array in Power Automate](https://sharepains.com/2022/09/21/update-an-item-array-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://aycabas.com/2022/09/19/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 * [Episode #223 - Advanced SPFx Form Customizers with DynamicForm](https://www.youtube.com/watch?v=fuVrosr-NgQ) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [5 Power Apps Best Practices for Early Makers](https://www.youtube.com/watch?v=WUy2IaTa56g) - [Shane Young](https://twitter.com/ShanesCows) (PowerApps911) | @shanescows
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -95,4 +95,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

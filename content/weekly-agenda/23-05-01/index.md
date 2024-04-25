@@ -41,16 +41,16 @@ Demos this time
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * Daniel Turley (Avanade) - SPFx framework at Microsoft - Accelerator Domain Models
 * [Kunj Balkrishna Sangani](https://twitter.com/sanganikunj) (LTIMindtree) | @sanganikunj - Building Conversation search experience for Microsoft Teams with SPFx
-* [Dan Toft](https://twitter.comn/tanddant) (Evobis) | @tanddant- Replicating the Quick Links web part for extensibility
+* [Dan Toft](https://twitter.com/tanddant) (Evobis) | @tanddant- Replicating the Quick Links web part for extensibility
 
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/m365pnp/request/demo) and we'll get you scheduled!
 
-## New videos 
+## New videos
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
@@ -118,7 +118,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![together-221201.png](images/community-recognization-program.png)
 
@@ -127,7 +127,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ## Microsoft 365 Conference in Las Vegas in May
 
-We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May. 
+We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May.
 
 {{< youtube WEOeKXcCZvY >}}
 
@@ -159,7 +159,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!

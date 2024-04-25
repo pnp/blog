@@ -32,10 +32,10 @@ Practices](https://pnp.github.io/) initiative, so the Flow, Custom
 Connector and implementation instructions are available in
 [GitHub](https://github.com/pnp/powerautomate-samples/tree/main/samples/teams-invites-via-graph-api).
 
-## Getting Hands-On With Graph 
+## Getting Hands-On With Graph
 
 The main part of this flow is numerous calls to the [Graph
-API](https://docs.microsoft.com/graph/overview). The Graph API is
+API](https://learn.microsoft.com/graph/overview). The Graph API is
 Microsoft's standard endpoint to expose and interact with data relevant
 to your tenant. It includes Microsoft 365 (such as Teams, Exchange,
 SharePoint, Workspace Analytics), Enterprise and Mobility and even
@@ -43,9 +43,9 @@ Windows 10 activities and devices. It really should be seen as a single
 stop shop for anything and everything in your tenant. The only thing it
 doesn't expose is D365 data.
 There is a [Graph
-connector](https://docs.microsoft.com/connectors/microsoftgraphsecurity/) already
+connector](https://learn.microsoft.com/connectors/microsoftgraphsecurity/) already
 available in Power Automate, but it is very limited to Security
-considerations. 
+considerations.
 
 Thankfully, the rest of the Graph API abilities are
 available, but you have to go via a custom connector. You could call
@@ -111,7 +111,7 @@ screen, then select Grant Admin consent button. This shortcuts and
 pre-approves the app.
 Leave this tab open and let's go and define our custom connector.
 
-## Defining The Custom Connector 
+## Defining The Custom Connector
 
 Jan Bakker has done an excellent job of walking you through
 this, [Build a custom connector](https://powerusers.microsoft.com/t5/Power-Automate-blog/Build-a-custom-connector-for-Microsoft-Graph-API/ba-p/647492).
@@ -166,7 +166,7 @@ Select Add a platform then chose Web. Enter the Redirect URL from the
 Custom Connector. Now we are ready to define the actions for our
 connector.
 
-### Creating the Actions 
+### Creating the Actions
 
 For our flow, we need 3 actions, Get the owners of a team, Get a user
 and Invite a User. This is where Graph Explorer and Postman help. You
@@ -211,11 +211,11 @@ in a body showing you all the information about the owners.
 
 To just define the others
 
-#### Get User 
+#### Get User
 
 Verb: Get, URL: <https://graph.microsoft.com/v1.0/users?$filter=>
 
-#### Invite User 
+#### Invite User
 
 Verb: Put, URL: <https://graph.microsoft.com/v1.0/invitations>, Body is
 below, as you need to define a new invite, with the required parameters.
@@ -232,7 +232,7 @@ The data doesn't matter, just the parameters that you need to pass.
 
 Make sure you test all your actions and lets move on to the Form.
 
-## Microsoft Form To Capture Information 
+## Microsoft Form To Capture Information
 
 Not going to dwell here, as others are doing a much better job at
 describing Forms. Basically, a simple form to define First and Last
@@ -246,7 +246,7 @@ The teams list will have to be maintained to those that you want the
 public to be able to request access to.
 Finally, lets take a look at the flow.
 
-## Power Automate Definition 
+## Power Automate Definition
 
 This Flow is triggered by a new response being submitted against the
 Form defined above. Next, get the response details.
@@ -293,7 +293,7 @@ Selecting the connector will show the actions or triggers available.
 The parameters are those that were defined in the Custom connector,
 passing in the output from the compose above.
 
- 
+
 ![](images/LinkeD365_23-1620296726812.png)
 
 Now, the response back from Get Owners is a JSON object, so next, Parse

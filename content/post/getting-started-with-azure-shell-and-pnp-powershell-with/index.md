@@ -41,12 +41,12 @@ So, let's get started; you will need a few things to get going,
 -   If setting up services locally by PowerShell, then [install the Az
     module](https://www.powershellgallery.com/packages/Az/5.8.0).
 
-## Setting Up 
+## Setting Up
 
 There are a few tasks we are going to do to set up working with Azure
 Shell, Azure AD App and Certificates.
  
-### Activate Azure Shell 
+### Activate Azure Shell
 
 First, let's go ahead and activate the Azure Shell; we will use this to
 set up the required resources as well:
@@ -81,7 +81,7 @@ options and specify:
 -   Resource Group Name: `azure-cloud-shell`
 -   Storage Account: "pkbtenantcloudshell"
 -   File Share: `pkbtenantcloudshellfiles`
-  
+
 > Note: the naming of some of these resources is very strict, e.g., 3 -24characters, no spaces, lowercase
 
 - Select `Create Storage`
@@ -106,7 +106,7 @@ However, you will need to upgrade the module periodically.
 For information on installing PnP-PowerShell, check out the
 documentation site for more details: <https://pnp.github.io/powershell/>
  
-### Create a KeyVault 
+### Create a KeyVault
 
 Next, we want somewhere secure to store a certificate -- Azure
 KeyVault.
@@ -120,7 +120,7 @@ creation.
 You can, if you prefer, navigate to the Azure Portal and use the
 marketplace to create a new KeyVault resource; [check out this quick
 start
-guide](https://docs.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#sign-in-to-azure).
+guide](https://learn.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#sign-in-to-azure).
 OR set this up in Azure Cloud Shell run the following commands:
 Firstly, to check that the service is available in your preferred
 region, run the following:
@@ -139,8 +139,8 @@ Set-AzKeyVaultAccessPolicy -VaultName 'pkbtenant-keyvault' -UserPrincipalName 'p
 ![Azure Shell - Create KeyVault](images/New KeyVault - AzShell.png)
 Please refer to the documentation if you want to be more specific around
 the KeyVault -- [Azure
-Portal](https://docs.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#create-a-vault)
-[PowerShell](https://docs.microsoft.com/powershell/module/az.keyvault/?view=azps-5.9.0).
+Portal](https://learn.microsoft.com/en-gb/azure/key-vault/general/quick-create-portal#create-a-vault)
+[PowerShell](https://learn.microsoft.com/powershell/module/az.keyvault/?view=azps-5.9.0).
 We will be importing a certificate in a later section.
  
 ### Create Azure AD App with Register-PnPAzureApp
@@ -168,7 +168,7 @@ login credentials further steps if MFA is enabled. IMHO feels a bit
 cumbersome to do this each time I want to do a task in the Shell,
 especially on an iPad/phone.
 
-### Create an Azure AD App 
+### Create an Azure AD App
 
 To set up the app quickly with PnP PowerShell, you need to use a
 ***Windows machine*** to run the cmdlet *`Register-PnPAzureApp`* which
@@ -226,7 +226,7 @@ This is ready to use in a later section.
 When I start the Azure Shell, I want to minimize the number of lines, to
 connect to the services securely and get going quickly.
 
-### Parameter Splatting 
+### Parameter Splatting
 
 Parameter splatting is a method to pass a collection of parameters for a
 PowerShell command into a variable and apply this to the cmdlet you
@@ -238,7 +238,7 @@ Get-NiceMessage -Param1 "good" -Param2 "morning" -Param3 "community"
 $MyParams = @{
     Param1 = "good",
     Param2 = "morning",
-    Param3 = "community"    
+    Param3 = "community"
 }
 Get-NiceMessage @MyParams
 ```
@@ -246,9 +246,9 @@ Get-NiceMessage @MyParams
 This will save time if you repeatedly apply the same parameters on the
 cmdlets, reducing the time to write the command and your scripts cleaner
 to read.  To read more about this PowerShell feature, [check out the
-documentation](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.1).
+documentation](https://learn.microsoft.com/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.1).
  
-### PowerShell Profiles 
+### PowerShell Profiles
 
 Interestingly, I did not know about this feature until the MOTD message
 appeared on the Azure Shell. I wanted to understand this further so dug
@@ -280,7 +280,7 @@ the service:
 # Connect to KeyVault Data
 try{
     $vaultName = "pkbtenant-keyvault" # Replace with your KeyVault name
-    $appName = "PnP PowerShell Azure Shell Access" 
+    $appName = "PnP PowerShell Azure Shell Access"
     $appId = (Get-AzADApplication -DisplayName $appName).ApplicationId
     $tenantId = (Get-AzContext).Tenant.Id
     $certName = "azureshell-pnpps-connection"
@@ -305,9 +305,9 @@ prompt to indicate the prerequisites are ready to use for a connection
 (green text).
  
 To learn more about profiles check out the [documentation for
-profiles](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7).
+profiles](https://learn.microsoft.com/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7).
  
-### Connecting to the service 
+### Connecting to the service
 
 Once you have all these elements setup, you can connect with PnP
 PowerShell with one short line:

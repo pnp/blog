@@ -71,7 +71,7 @@ The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Mic
 
 ## Demos
 
-*   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
+*   **Introduction to Microsoft Information Protection Policy APIs** – MIP capabilities help organizations to classify, label, manage and protect data based on [sensitivity](https://learn.microsoft.com/Office365/SecurityCompliance/sensitivity-labels).  Learn about the MIP SDK (File, Policy and Protection SDKs).  Microsoft Graph exposes MIP Policy APIs - policy-specific functionality and resolves state to Actions (add a header/footer, add metadata…).   Graph (Beta) endpoint Policy APIs reviewed - Get Labels, Evaluate (add/remove labels), Extract Label (metadata), are moving to Graph this week.      
 
 *   **Latest on Cloud Hybrid Search (SSA) & Graph connectors​ for indexing content from on-premises** – Cloud Hybrid Search a.k.a. Cloud SSA, creates a single cloud-based index and interleaves search content from multiple internal/external sources in results.  Alternatively, Microsoft Search powered by Microsoft Graph uses Graph connectors (3 types) to bring in data from sources.  See search experiences that use Graph connectors rolling out in 2022 - Intelligent Discovery, Viva Topics, Context IQ, etc.   Sign-up for Graph connectors SDK Preview. 
 
@@ -94,16 +94,16 @@ Additional resources around the covered topics and links from the slides.
 
 *   **D1:**  Article - [Microsoft Information Protection SDK: Now Generally Available!](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-information-protection-sdk-now-generally-available/ba-p/263144) | aka.ms/mipsdk
 *   **D1:**  SDK - [Microsoft Information Protection Software Development Kit Version 1.11](https://www.microsoft.com/download/details.aspx?id=103655) | aka.ms/mipsdkbins
-*   **D1:**  Documentation - [Microsoft Information Protection SDK documentation](https://docs.microsoft.com/information-protection/develop/) | aka.ms/MIPSDKDocs
-*   **D1:**  Code Samples - [mip sdk](https://docs.microsoft.com/samples/browse/?terms=mip%20sdk) | aka.ms/MIPSDKSamples
-*   **D1:**  Documentation - [Information Protection overview](https://docs.microsoft.com/graph/security-information-protection-overview) 
+*   **D1:**  Documentation - [Microsoft Information Protection SDK documentation](https://learn.microsoft.com/information-protection/develop/) | aka.ms/MIPSDKDocs
+*   **D1:**  Code Samples - [mip sdk](https://learn.microsoft.com/samples/browse/?terms=mip%20sdk) | aka.ms/MIPSDKSamples
+*   **D1:**  Documentation - [Information Protection overview](https://learn.microsoft.com/graph/security-information-protection-overview) 
 *   **D1:**  Tool - [Microsoft.InformationProtection.Protection](https://www.nuget.org/packages/Microsoft.InformationProtection.Protection) 
-*   **D1:**  Documentation - [Learn about sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-*   **D2:**  Documentation - [Overview of Microsoft Graph connectors](https://docs.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
+*   **D1:**  Documentation - [Learn about sensitivity labels](https://learn.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+*   **D2:**  Documentation - [Overview of Microsoft Graph connectors](https://learn.microsoft.com/MicrosoftSearch/connectors-overview) | aka.ms/GraphConnectors
 *   **D2:**  Preview - [Microsoft Graph connectors SDK - Preview Sign Up](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR85rE_Nkb1NIvksuNPELLfxURUhHNEdSNkg1RjRVN1dDQUVCNFA3VVNJTC4u) | aka.ms/GCSDKPreview
 *   **D2:**  Survey - [SharePoint Search: Cloud SSA & Microsoft Graph Connectors](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7kEEdsi-MxEsUn8uaHhA2lUMlpSSjRSQkNISTJYNUFNMEtSQktJOFhaOS4u) | aka.ms/CloudSSA
-*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
-*   **D3:**  Documentation - [Get component in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/components/get) 
+*   **D3:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
+*   **D3:**  Documentation - [Get component in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/components/get) 
 *   **D3:**  MGT Playground – [mgt-get](https://mgt.dev/?path=/story/components-mgt-get--get-email) 
 *   **D3:**  Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) 
 *   **D3:**  Learn - [Develop apps with the Microsoft Graph Toolkit](https://aka.ms/mgt/learn) | [aka.ms/mgt/learn](https://aka.ms/mgt/learn)
@@ -146,7 +146,7 @@ Previous demos in [Sébastien Levert](https://twitter.com/sebastienlevert)’s (
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

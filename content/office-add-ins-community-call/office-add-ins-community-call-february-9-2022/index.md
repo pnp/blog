@@ -108,12 +108,12 @@ We don't have plans at this time. It would be great if we could connect with you
 
 Yes, this is on the backlog. The Outlook mobile team is focusing first on event-based add-ins (compose event). They're hoping to release this soon. After that, they plan to roll out smart alerts.
 
-  
+
 **Can Power automate 'Excel Run script' run macros in a .xlsm file?**
 
-No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://docs.microsoft.com/office/dev/scripts/develop/macros-power-automate) for more information.
+No, you can't run VBA macros using the Run Script action. However, you can run Office Scripts in a .xlsm file. See [https://learn.microsoft.com/office/dev/scripts/develop/macros-power-automate](https://learn.microsoft.com/office/dev/scripts/develop/macros-power-automate) for more information.
 
-  
+
 **Is it possible to get the w14:paraId attribute value for paragraphs using the API? When getting the Open XML, it is not included even if the paragraphs have w14:paraId attributes.**
 
 Thanks for the question, which is super interesting! Can you please post this on Stack Overflow at [https://stackoverflow.com/questions/tagged/office-js](https://stackoverflow.com/questions/tagged/office-js) with more details so we can have a deeper look?
@@ -124,16 +124,16 @@ This is not allowed by the Outlook user experience, so there really isn't a way 
 
 **We have a client using Outlook 2019 Volume License edition and they are stuck in using Internet Explorer as the host, is there any intention to update this to support Edge/Chromium as later e3/e5 builds do and the retail version does**
 
-As per [Browsers used by Office Add-ins - Office Add-ins](https://docs.microsoft.com/office/dev/add-ins/concepts/browsers-used-by-office-web-add-ins) | Microsoft Docs, Office 2019 uses Trident (IE), there is no plan to backport. If they want to stay in that licensing model they can upgrade to Office 2021 which uses WebView2.
+As per [Browsers used by Office Add-ins - Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/concepts/browsers-used-by-office-web-add-ins) | Microsoft Docs, Office 2019 uses Trident (IE), there is no plan to backport. If they want to stay in that licensing model they can upgrade to Office 2021 which uses WebView2.
 
-  
+
 **Is there a plan to support Message.Compose on native mobile add-ins?**
 
 Yes, we are working on this.
 
 ## Resources
 
-*   Documentation – [Call Exchange web services from an Outlook add-in](https://docs.microsoft.com/office/dev/add-ins/outlook/web-services) | [https://docs.microsoft.com/office/dev/add-ins/outlook/web-services](https://docs.microsoft.com/office/dev/add-ins/outlook/web-services)
+*   Documentation – [Call Exchange web services from an Outlook add-in](https://learn.microsoft.com/office/dev/add-ins/outlook/web-services) | [https://learn.microsoft.com/office/dev/add-ins/outlook/web-services](https://learn.microsoft.com/office/dev/add-ins/outlook/web-services)
 *   REST API Add-in verification request – [https://aka.ms/RESTCheck](https://aka.ms/RESTCheck). 
 *   Article – [Outlook REST API v2.0 production and beta endpoint deprecation](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-deprecation-notice/) | [https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-deprecation-notice](https://devblogs.microsoft.com/microsoft365dev/outlook-rest-api-v2-0-deprecation-notice)
 *   Sample – [Single Sign-on (SSO) sample Outlook add-in](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Outlook-Add-in-SSO) | [https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Outlook-Add-in-SSO](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/auth/Outlook-Add-in-SSO) 
@@ -147,7 +147,6 @@ Yes, we are working on this.
 
 ### Office Add-ins feedback
 
-*   Technical questions – Microsoft Q&A ([office-js-dev](https://docs.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://docs.microsoft.com/answers/topics/office-addins-dev.html))
+*   Technical questions – Microsoft Q&A ([office-js-dev](https://learn.microsoft.com/answers/topics/office-js-dev.html)), ([office-addins-dev](https://learn.microsoft.com/answers/topics/office-addins-dev.html))
 *   Issues – [GitHub](https://github.com/OfficeDev/office-js/issues)
 *   Recommendations and suggestions – [Microsoft 365 Developer Platform ideas](https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform)
-

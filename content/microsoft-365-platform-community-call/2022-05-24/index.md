@@ -29,13 +29,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 **Introduction to Microsoft Viva ISV benefits program** - announcing a new set of benefits (20 of them) for ISV partners publishing Microsoft Viva solutions to AppSource or to SharePoint/Viva Connections store. Microsoft’s committed to the Employee Experience Platform (EXP), a.k.a., Microsoft Viva Platform and Ecosystem. Hear about the new Microsoft 365 ISV Benefits program, go-to-market benefit highlights and how to enroll in the program. This “platform” is built for extensibility. Learn more here.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout and live at end of the call.
 
 {{< youtube H27wIjW4BNA >}}
 
 ## Agenda items
 
-* Topic - Introduction to Microsoft Viva ISV benefits program - [Gloria Sánchez](https://www.linkedin.com/in/glosanchez/) (Microsoft) & [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [3:28](https://youtu.be/H27wIjW4BNA?t=208)
+* Topic - Introduction to Microsoft Viva ISV benefits program - [Gloria Sánchez](https://www.linkedin.com/in/glosanchez/) (Microsoft) & [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [3:28](https://youtu.be/H27wIjW4BNA?t=208)
 * Microsoft Build 2022 Keynote Watch party – [12:50](https://youtu.be/H27wIjW4BNA?t=770)
 
 ## Actions

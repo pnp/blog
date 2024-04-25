@@ -28,7 +28,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 ## View video segments
 
-* Demo - Update the ASP.NET server in Visual Studio [00:42](https://youtu.be/watch?v=zdyWBTxtjF4?t=42)
+* Demo - Update the ASP.NET server in Visual Studio [00:42](https://youtu.be/zdyWBTxtjF4)
 * Topic - Feedback request for Excel Add-in Auto install launch function [08:40] (https://www.youtube.com/watch?v=zdyWBTxtjF4&t=520s)
 * Community spotlight [12:04] (https://www.youtube.com/watch?v=zdyWBTxtjF4&t=724s)
 * Q&A [12:16](htthttps://www.youtube.com/watch?v=zdyWBTxtjF4&t=736s)
@@ -66,7 +66,7 @@ Update (December 5, 2022): These were added to Script Lab. Open Script Lab in Po
 
 We currently do not have plans to add Microsoft Word Forms apis to Office JS. Currently the best way to do this would be to use the Forms connector in Power Automate.
 
-**Hi! Is it possible to write Outlook add-in that will work with Gmail account to set email signature in Outlook using event-based activation as described in https://learn.microsoft.com/en-us/samples/officedev/pnp-officeaddins/outlook-add-in-set-signature/?**
+**Hi! Is it possible to write Outlook add-in that will work with Gmail account to set email signature in Outlook using event-based activation as described in https://learn.microsoft.com/samples/officedev/pnp-officeaddins/outlook-add-in-set-signature/?**
 
 This is a good question to ask here https://github.com/OfficeDev/office-js.
 
@@ -86,8 +86,8 @@ We're sorry to hear you're experiencing an issue with developing an add-in on an
 ## Additional Resources
 
 * **Update the ASP.NET server in Visual Studio**
-    * Documentation - [Sideload an add-in on the web when using Visual Studion](https://learn.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing#sideload-an-add-in-on-the-web-when-using-visual-studio)
-    * Documentation - [Office Add-ins platform overview](https://learn.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins)
+    * Documentation - [Sideload an add-in on the web when using Visual Studion](https://learn.microsoft.com/office/dev/add-ins/testing/sideload-office-add-ins-for-testing#sideload-an-add-in-on-the-web-when-using-visual-studio)
+    * Documentation - [Office Add-ins platform overview](https://learn.microsoft.com/office/dev/add-ins/overview/office-add-ins)
     * Samples - [Office Add-ins code samples](https://github.com/OfficeDev/Office-Add-in-samples)
 * **Feedback request for Excel Add-in Auto install launch function**
     * Feedback - [What if your office JS add-in can be auto installed and auto launched](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxFri8-AP1RMhGrt_lYwo8BUMTcwNzBSU1dWM0paRE5HSTg1UkE4N1dMMS4u&wdLOR=c0D8EB527-F375-4499-8FE2-DA3B5029A060)

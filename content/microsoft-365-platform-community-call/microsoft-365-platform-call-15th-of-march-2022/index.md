@@ -27,11 +27,11 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     *   [Microsoft 365 Developer Podcast](https://m365devpodcast.com) focused exclusively on Microsoft 365 dev topics – hosted by Jeremy Thake (Microsoft) and Paul Schaeflein (Addin365).
     *   Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/) focused on the latest news and topics on Microsoft 365 hosted by Vesa Juvonen and Waldek Mastykarz
 *   Teams Platform Updates - updated authenticate API to support external OAuth providers, and 4 new Step-by-Step (SBS) Guides released.   aka.ms/TeamsDevDocs
-    *   Documentation - [Use external OAuth providers](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-oauth-provider)
-    *   Step-by-Step Guide - [Build search based messaging extension](https://docs.microsoft.com/microsoftteams/platform/sbs-messagingextension-searchcommand?tabs=latestversionofvisualstudio)
-    *   Step-by-Step Guide - [Build action based messaging extension](https://docs.microsoft.com/microsoftteams/platform/sbs-meetingextension-action?tabs=latestversionofvisualstudio)
-    *   Step-by-Step Guide - [AAD SSO for tabs and messaging extension](https://docs.microsoft.com/microsoftteams/platform/sbs-tabs-and-messaging-extensions-with-sso?tabs=vs2019)
-    *   Step-by-Step Guide - [Build Teams connectors](https://docs.microsoft.com/microsoftteams/platform/sbs-teams-connectors)
+    *   Documentation - [Use external OAuth providers](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-oauth-provider)
+    *   Step-by-Step Guide - [Build search based messaging extension](https://learn.microsoft.com/microsoftteams/platform/sbs-messagingextension-searchcommand?tabs=latestversionofvisualstudio)
+    *   Step-by-Step Guide - [Build action based messaging extension](https://learn.microsoft.com/microsoftteams/platform/sbs-meetingextension-action?tabs=latestversionofvisualstudio)
+    *   Step-by-Step Guide - [AAD SSO for tabs and messaging extension](https://learn.microsoft.com/microsoftteams/platform/sbs-tabs-and-messaging-extensions-with-sso?tabs=vs2019)
+    *   Step-by-Step Guide - [Build Teams connectors](https://learn.microsoft.com/microsoftteams/platform/sbs-teams-connectors)
 *   New series launched – [Learn from the community](https://aka.ms/LearnFromTheCommunity/ThisWeek).  This week’s article:  [Learn from the community: Low code bot onboards members to Microsoft Teams channel](https://devblogs.microsoft.com/microsoft365dev/learn-from-the-community-low-code-bot-onboards-members-to-microsoft-teams-channel/).  Sign up to [Share your story](https://aka.ms/share-your-story)
 *   The great people, supportive organizations and solid work done in this community over the last month is recognized today!  Available now – the [Microsoft 365 Platform Community (PnP) – March 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-march-2022-update/ba-p/3253349).  A heartfelt thank you goes out to the community members, organizations and Microsoft employees who have contributed their time and talents to this community in the last month. 
 *   Hear about the latest 7 Microsoft 365 Platform related stories and view 3 great demos delivered by Microsoft presenters on the latest capabilities of the Microsoft 365 platform.
@@ -94,7 +94,7 @@ Additional resources around the covered topics and links from the slides.
 *   **D1:**  Android Private Preview – [https://aka.ms/lists-android-signup](https://aka.ms/lists-android-signup) (signup seems for be closed for now) 
 *   **D1:**  Samples - [Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) 
 *   **D1:**  Samples - [SharePoint List Formatting Samples](https://github.com/pnp/List-Formatting) 
-*   **D1:**  Documentation - [Use column formatting to customize SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) | aka.ms/spdocs-column-formatting
+*   **D1:**  Documentation - [Use column formatting to customize SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) | aka.ms/spdocs-column-formatting
 *   **D1:**  See latest list samples in [Sample Solution Gallery - Microsoft Adoption](https://adoption.microsoft.com/sample-solution-gallery?sortby=creationDateTime-true&keyword=&product=Microsoft%20Lists&action=ajax_plugin_call_sample_solution_gallery) from
 
     *   [André Lage](https://twitter.com/aaclage) (Datalynx AG) | [@aaclage](/t5/user/viewprofilepage/user-id/861803)
@@ -102,16 +102,16 @@ Additional resources around the covered topics and links from the slides.
     *   [João Ferreira](https://twitter.com/joao12ferreira) (Beezy) | @joao12ferreira
     *   [Tetsuya Kawahara](https://twitter.com/techan_k) | @techan\_k
 
-*   **D2:**  Documentation - [Build a SharePoint web part with the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part) | aka.ms/mgt/spfx
-*   **D2:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
-*   **D2:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/customize-components/style) 
-*   **D2:**  Documentation - [Microsoft Graph Toolkit caching](https://docs.microsoft.com/graph/toolkit/customize-components/cache) 
-*   **D2:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://docs.microsoft.com/graph/toolkit/customize-components/localization) 
+*   **D2:**  Documentation - [Build a SharePoint web part with the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/get-started/build-a-sharepoint-web-part) | aka.ms/mgt/spfx
+*   **D2:**  Documentation - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://learn.microsoft.com/graph/toolkit/overview) | aka.ms/mgt/docs
+*   **D2:**  Documentation - [Styling components in the Microsoft Graph Toolkit](https://learn.microsoft.com/graph/toolkit/customize-components/style) 
+*   **D2:**  Documentation - [Microsoft Graph Toolkit caching](https://learn.microsoft.com/graph/toolkit/customize-components/cache) 
+*   **D2:**  Documentation - [Localizing the Microsoft Graph Toolkit components](https://learn.microsoft.com/graph/toolkit/customize-components/localization) 
 *   **D2:**  MGT Playground - [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://mgt.dev/?path=/story/overview--page) | [https://mgt.dev/](https://mgt.dev/)
 *   **D2:**  Sebastien’s MGT Demos Repo - [MGT Sandbox](https://github.com/sebastienlevert/mgt-sandbox) | aka.ms/mgt/sandbox
 *   **D2:**  MGT Demos Playlist **\-** [Microsoft Graph Toolkit – YouTube](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUVLPfpm0QL4DVQ8Rw2Md5k)
 *   **D2:**  Issues – [MGT Issus](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) | [aka.ms/mgt/issues](https://aka.ms/mgt/issues)
-*   **D2:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://docs.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
+*   **D2:**  Learn – [Develop apps with the Microsoft Graph Toolkit](https://learn.microsoft.com/learn/paths/m365-msgraph-toolkit/?WT.mc_id=m365-19989-cxa) | [https://aka.ms/mgt/learn](https://aka.ms/mgt/learn) 
 *   **Microsoft 365 PnP Weekly – Episode 157** (March 14th) with US based, Microsoft 365 Extensibility Developer, MVP, and PnP team member focused on PnPjs project, [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) | @jfj1997  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-157-julie-turner-sympraxis/ba-p/3256417) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-157-%e2%80%93-14th-of-march-2022/)
 
 ## General resources
@@ -140,7 +140,7 @@ Additional resources around the covered topics and links from the slides.
 *   [Microsoft 365 developer program site](https://developer.microsoft.com/office/dev-program?WT.mc_id=m365-24198-cxa) \- Need to become a Tenant Admin to test look book capabilities? Get a Microsoft 365 E5 developer subscription (free tenant for 90 days)
 *   [SharePoint Provisioning Service](https://lookbook.microsoft.com/service-description) \- Easily provision look book designs to any tenant in the world
 *   [SharePoint Provisioning templates on Github](https://github.com/SharePoint/sp-dev-provisioning-templates)
-*   [PnP Provisioning Tenant Templates documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+*   [PnP Provisioning Tenant Templates documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 *   [SharePoint Page Transformation webcast series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 *   [PnP Power Shell](https://aka.ms/sppnp-powershell)
 *   [SharePoint Modernization Tools](https://github.com/SharePoint/sp-dev-modernization/tree/dev/Tools)

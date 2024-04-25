@@ -161,16 +161,16 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   **D1:**  Documentation - [SharePoint hub sites
-    overview](https://docs.microsoft.com/sharepoint/dev/features/hub-site/hub-site-overview) 
+    overview](https://learn.microsoft.com/sharepoint/dev/features/hub-site/hub-site-overview) 
 
 -   **D1:**  Documentation - [Planning your SharePoint hub
-    sites](https://docs.microsoft.com/sharepoint/planning-hub-sites) 
+    sites](https://learn.microsoft.com/sharepoint/planning-hub-sites) 
 
 -   **D1:**  Article - [Associate a SharePoint site with a hub
     site](https://support.microsoft.com/office/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 
 
 -   **D2:**  Documentation - [Overview of Progressive Web Apps
-    (PWAs)](https://docs.microsoft.com/microsoft-edge/progressive-web-apps-chromium/) 
+    (PWAs)](https://learn.microsoft.com/microsoft-edge/progressive-web-apps-chromium/) 
 
 -   PnP Weekly -- Episode 140 (October 25th) with Sweden based MVP and
     Chief Technical Architect at Advania - [Simon
@@ -237,7 +237,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -275,7 +275,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

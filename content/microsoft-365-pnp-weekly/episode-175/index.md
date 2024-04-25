@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=34SoeV_4bpw
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Redmond-based Principal Software Engineer for Microsoft Graph - [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) \| @gavinbarron
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, hosts – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen, [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm are joined by Redmond-based Principal Software Engineer for Microsoft Graph - [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) \| @gavinbarron
 
 ## Topics discussed in this session
 
@@ -43,10 +43,10 @@ This session was recorded on Monday, August 22, 2022.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 34SoeV_4bpw >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-z7qu4-12a7b3f >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-z7qu4-12a7b3f >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -67,11 +67,11 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 * [Work apps need work data](https://blog.mastykarz.nl/work-apps-work-data/) - [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm
 * [Teams Meeting App API in Bot activity handlers](https://mmsharepoint.wordpress.com/2022/08/17/teams-meeting-app-api-in-bot-activity-handlers/) - [Markus Möller](https://twitter.com/Moeller2_0) (Avanade) | @Moeller2_0
 * [PnPjs v3.6 release announcement](https://twitter.com/m365pnpjs/status/1559552704808198146) - [Microsoft 365 PnPjs](https://pnp.github.io/pnpjs/)
-* [Episode #218 - Using the Search Results Web Part of PnP Modern Search](https://www.youtube.com/watch?v=StrblWJlYsU) - [Paolo Pialorsi](http://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
+* [Episode #218 - Using the Search Results Web Part of PnP Modern Search](https://www.youtube.com/watch?v=StrblWJlYsU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys.com) | @PaoloPia
 * [CSS Basics for Low Code Devs](https://www.youtube.com/watch?v=KyFN-Mx7JiE) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam
 * [Power Hour: Power Apps Export To CSV (using flow)](https://www.youtube.com/watch?v=imfiwKUTsJ4) - [Laura Rogers](https://twitter.com/WonderLaura) (IW Mentor) | @wonderlaura & [Joelle Jobson](https://twitter.com/Joelle_Shmoelle) (IW Mentor) | @Joelle_Shmoelle
 
-  
+
 ## Additional resources
 
 * [PnP Sharing is Caring initiative](https://aka.ms/sharing-is-caring) - Getting started guidance and training for using GitHub and contributing to the community
@@ -80,4 +80,3 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

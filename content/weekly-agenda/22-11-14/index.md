@@ -27,9 +27,9 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 platform calls](https://pnp.github.io/blog/categories/microsoft-365-platform-call/)
 
-Demos: 
+Demos:
 
-* [Brian T. Jackett](http://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett and Jason Johnston (Microsoft) - Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive)
+* [Brian T. Jackett](https://twitter.com/BrianTJackett) (Microsoft) | @BrianTJackett and Jason Johnston (Microsoft) - Calling Microsoft Graph from Polyglot Notebooks (.Net Interactive)
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) - Add single sign-on to your Microsoft Teams bots using Teams Toolkit for Visual Studio Code
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -42,7 +42,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Power Platform calls](https://pnp.github.io/blog/categories/power-apps-community-call/)
 
-Demos: 
+Demos:
 
 * [Heidi Jordan](https://twitter.com/heidi_jordan14) (Avanade) | @heidi_jordan14 - Approval Scenarios with Power Automate
 * [Wes Preston](https://twitter.com/idubbs) | @idubbs - Direct Action buttons for M365 with Power Apps
@@ -57,7 +57,7 @@ Also: 📷 Picture Time with community in Together Mode!
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can read the summary blog post including call recording here: [Microsoft 365 Community blog - Microsoft 365 & Power Platform Development](https://pnp.github.io/blog/categories/microsoft-365-and-power-platform-development-community-call/)
 
-Demos: 
+Demos:
 
 * [Siddharth Vaghasia](https://twitter.com/siddh_me) | @siddh_me - Building utility solution to manage SPFx form customizers in lists
 * [Niklas Wilhelm](https://twitter.com/NiklasWilhelm4) (NetForce 365) | @NiklasWilhelm4 – Visualizing dynamically SharePoint data within SPFx solutions using ERD model
@@ -75,7 +75,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Topic
 
-* Learn how to enable Single-Sign-On on Android Apps using MSAL & also to secure it using Proof-of-Possession 
+* Learn how to enable Single-Sign-On on Android Apps using MSAL & also to secure it using Proof-of-Possession
 
 ---
 
@@ -132,7 +132,7 @@ If you are looking to learn how to use the Microsoft 365 Platform Community reso
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ---
 
@@ -141,9 +141,9 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options.
 
 
-* [aMS Germany Microsoft Community Event 2022](https://www.bechtle.com/de-en/about-bechtle/events/amsgermany) - November 15, Aachen, Germany
+* aMS Germany Microsoft Community Event 2022 - November 15, Aachen, Germany
 * [Global AI Developer Days - Toronto](https://globalai.community/) - November 16-17, Toronto, Canada
-* [M365 Saturday Coimbatore 2022](https://athen.tech/M365-Saturday-Coimbatore-2022/) - November 19, Coimbatore, India
+* M365 Saturday Coimbatore 2022 - November 19, Coimbatore, India
 * [Collab Days Lisbon 2022](https://www.collabdays.org/2022-lisbon/) - November 26, Lisbon, Portugal
 * [​​​​​​​European SharePoint, Office 365 and Azure Conference 2022](https://www.sharepointeurope.com/) - November 28 - December 1st, 2022, Copenhagen, Denmark
 
@@ -153,4 +153,3 @@ Please take the opportunity to join these great conferences organized by the bes
 We hope to see you around!
 
 _Sharing is caring 🧡_
-

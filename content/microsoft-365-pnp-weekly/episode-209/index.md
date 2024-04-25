@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=6aJUj4JrQqI
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium-based Microsoft MVP and Microsoft 365 Consultant - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/) (VanRoey.be)
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm are joined by Belgium-based Microsoft MVP and Microsoft 365 Consultant - [Milan Holemans](https://www.linkedin.com/in/milan-holemans/) (VanRoey.be)
 
 ## Topics discussed in this session
 
@@ -29,7 +29,7 @@ In this installment of the weekly discussion revolving around the latest news an
 * Why do you spend time being a maintainer?
 * What recently released Microsoft 365 capability, not including capabilities you learned about at MVP Summit, most interests you?
 * Vesa’s summary on what things were generating the most excitement at the Microsoft 365 Conference in Las Vegas last week.
- 
+
 ## Referenced during conversation
 
 * Tool - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
@@ -66,10 +66,10 @@ This session was recorded on Monday 8th of May 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube 6aJUj4JrQqI >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
     {{< podbean pb-9xtah-1402897 >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -120,7 +120,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 ## Additional resources
@@ -131,4 +131,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

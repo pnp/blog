@@ -46,14 +46,14 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
     * European Collaboration Summit 2023 – May 24 – 26, 2023 – Düsseldorf – collabsummit.eu – [Register](https://www.collabsummit.eu/)
     * ACT NOW – save €300 on tickets for the [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference) – Dublin, 20-23 June
     * 365 EduCon - Use promo code “Community” to save 25% off any pass type.
-        * [Washington DC](http://www.365educon.com/dc) – June 12-16, 2023
-        * [Seattle](http://www.365educon.com/seattle) – August 21-25, 2023 & PWR EduCon
-        * [Chicago](http://www.365educon.com/chicago) – October 30 – November 3, 2023
+        * [Washington DC](https://techcon365.com/DC/) – June 12-16, 2023
+        * [Seattle](https://techcon365.com/Seattle/) – August 21-25, 2023 & PWR EduCon
+        * [Chicago](https://techcon365.com/Chicago/) – October 30 – November 3, 2023
     * Upcoming [Community Days](https://communitydays.org/) Events - aka.ms/communitydays
 * Conversations
     * Microsoft 365 Developer Podcast – Partner showcase: Building nBold with Guillaume Meyer (February 26th) \| [podcast](https://m365devpodcast.com/e/partner-series-building-nbold-with-guillaume-meyer/)
     * Microsoft 365 Developer Podcast – Kiota and Microsoft Graph SDKs with Vincent Biret and Rabeb Othmani (February 21st) \| [podcast](https://m365devpodcast.com/e/kiota-and-microsoft-graph-sdks-with-vincent-biret-and-rabeb-othmani/)
-    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](http://pnpweekly.podbean.com)
+    * Microsoft 365 PnP Weekly – Episode 199 (February 27th) with reflections from [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-199/) \| [podcast](https://pnpweekly.podbean.com)
     * Microsoft 365 PnP Weekly – Episode 198 (February 21st) with Bosnia and Herzegovina-based Speaker, Author, Cloud Solutions Architect, Azure MVP at Devoteam M Cloud - [Mustafa Toroman](https://twitter.com/toromust) \| @toromust \| [video](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-198/) \| [podcast](https://www.podbean.com/eas/pb-hfy3i-13965d2)
     * Power Platform Connections - Power Platform Connections Ep 2 - Scott Durow (February 23rd) \| [video](https://www.youtube.com/watch?v=CINlK7F3Nhg)
     * Power Platform Connections - Hugo loves the Ribbon Workbench Tool! (February 23rd) \| [video](https://www.youtube.com/watch?v=wY1-gVy1Tvg)
@@ -64,7 +64,7 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 * **Teams Toolkit Learn Path - Build a bot using Teams Toolkit for Visual Studio Code** – step through prerequisites to create a bot for Teams and understand functions of a proactive messaging (reminder) bot in your workflow. Bot architectural components include web server, Azure Bot Service, Azure AD app registration, HTTP tunnel, and Microsoft Teams app package. In Visual Studio Code, create a Notification bot using an HTTP trigger running on Azure Functions using JavaScript. On local machine, tour provisioned capabilities. Module 2 in a 5-part series.
 * **Remotely debug your Microsoft Teams apps from any device using Vorlon.js** – develop and remotely debug (and make live updates) apps on Android or iPhone from a Windows PC using the Vorlon.js. Requires adding only a script to Teams web app running on these surfaces. The script monitors calls to console log that’s connected to PC via WiFi. See functionality in demo today. What can we build for you tomorrow? Envision a VS Code extension for Teams Toolkit.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube 77u73mD9MKE >}}
 
@@ -72,7 +72,7 @@ The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Micros
 
 [00:00](https://youtu.be/77u73mD9MKE?t=0) – Intro
 
-[11:35](https://youtu.be/77u73mD9MKE?t=695) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
+[11:35](https://youtu.be/77u73mD9MKE?t=695) – Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen
 
 [12:13](https://youtu.be/77u73mD9MKE?t=733) – Microsoft Teams Platform updates – Surbhi Gupta (Microsoft)
 
@@ -97,7 +97,7 @@ Thanks everyone for joining the call today. Great to see many new and familiar f
 ## Actions
 
 * [Request to Present a demo](https://aka.ms/community/request/demo) during Microsoft 365 & Power Platform community calls - aka.ms/community/request/demo
-* [Register](http://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
+* [Register](https://www.communitydays.org) for an Upcoming Event around Microsoft 365 and Power Platform.
 * Opt into PnP Recognition Program – aka.ms/m365pnp-recognition
 * Register for upcoming [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) events:
     * Power Platform Samples Contributor \| Wednesday, March 15th, 10:00am PT \| 1:00pm ET - [Register](https://forms.office.com/pages/responsepage.aspx?id=KtIy2vgLW0SOgZbwvQuRaXDXyCl9DkBHq4A2OG7uLpdUN0hMNTRPWVVWTkhFTk9QQzhFSTRIS1JLSC4u)
@@ -123,7 +123,7 @@ Thanks everyone for joining the call today. Great to see many new and familiar f
     * Learn - [Build and deploy apps for Microsoft Teams using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/training/paths/m365-teams-toolkit-vsc/) \| aka.ms/learn/teamstoolkit
     * Visual Studio Marketplace – [Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 * **Remotely debug your Microsoft Teams apps from any device using Vorlon.js**
-    * Tool - [INTRODUCING VORLON.JS](https://vorlonjs.io/)
+    * Tool - [INTRODUCING VORLON.JS](https://www.vorlonjs.io/)
 
 ## General resources
 

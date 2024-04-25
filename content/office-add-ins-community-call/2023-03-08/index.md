@@ -4,7 +4,7 @@ summary: "Topic: March 2023 Word Extensibility APIs (preview) presented by Yun W
 date: 2023-03-08T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
-categories: ["Office Add-ins community call"]
+categories: ["Office add in developer community call"]
 images:
 - images/Session-Promo-Mar-2023.jpg
 tags: ["Office Add-ins","Microsoft 365"]
@@ -69,7 +69,7 @@ Yes, the functions demoed are currently in preview.
 
 **Is there any documentation page about all this new Word API?**
 
-To learn more about the Word JavaScript API in preview, see [Word JavaScript preview APIs](https://learn.microsoft.com/en-us/javascript/api/requirement-sets/word/word-preview-apis?view=powerpoint-js-preview).
+To learn more about the Word JavaScript API in preview, see [Word JavaScript preview APIs](https://learn.microsoft.com/javascript/api/requirement-sets/word/word-preview-apis?view=powerpoint-js-preview).
 
 **Last month, you asked for missing Outlook events so that ISVs can migrate their existing Outlook COM add-ins to the new web based add-ins. With that in mind, we are looking for the following: 1. The ability to display a dialog when a Compose, Reply, Reply All, or Forward is clicked. The customers want to either display a warning or in some cases (like the Compose) they want to force the user to select from a list of pre-defined subjects (this is for a help desk scenario). Other (mostly legal) customers want to see a very prominent prompt show up when clicking on Reply All. 2. The ability to support on-send Outlook events (or Smart Alerts) in iPhone or Android. This is a frequent request from our customers and we need a roadmap from the Office team to know whether this is a planned feature or not, and what to tell our customers.**
 
@@ -123,7 +123,7 @@ We don't have any plans to support this in the near future. That being said if y
 * [Twitter](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Unified Sample gallery](https://aka.ms/community/samples)
 * [Microsoft 365 Platform Community in YouTube](https://aka.ms/community/videos)
-* [Microsoft 365 Platform Community](http://aka.ms/community/home)
+* [Microsoft 365 Platform Community](https://aka.ms/community/home)
 * [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 * [Submit questions for next community call](https://aka.ms/officeaddinsform)
 * [Next community call – April 12th at 08:00am PT](https://aka.ms/officeaddinscommunitycall)

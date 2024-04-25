@@ -9,7 +9,7 @@ images:
   - images/06-building-spfx-solutions-for-teams.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -33,7 +33,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Creating SPFx solutions for Microsoft Teams
 
-SPFx is the easiest and fastest way to build solutions for Microsoft Teams. Any SPFx web part can be also exposed as a personal app or a channel tab just by defining the Teams as a supported host - without actual code changes. This setting is enabled by default for all new SPFx solutions. 
+SPFx is the easiest and fastest way to build solutions for Microsoft Teams. Any SPFx web part can be also exposed as a personal app or a channel tab just by defining the Teams as a supported host - without actual code changes. This setting is enabled by default for all new SPFx solutions.
 
 ![Default SPFx solution in Teams](images/spfx-in-teams.png)
 
@@ -53,9 +53,9 @@ When you install SPFx solution to the SharePoint app catalog, the content of the
 
 Documentation
 
--	[Build Microsoft Teams tab using SharePoint Framework - Tutorial](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
--	[Expose SharePoint Framework web parts in Microsoft Teams](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-expose-webparts-teams)
--	[Microsoft Teams platform documentation – Build your first app with SPFx](https://learn.microsoft.com/en-us/microsoftteams/platform/sbs-gs-spfx?tabs=vscode%2Cviscode)
+-	[Build Microsoft Teams tab using SharePoint Framework - Tutorial](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
+-	[Expose SharePoint Framework web parts in Microsoft Teams](https://learn.microsoft.com/sharepoint/dev/spfx/build-for-teams-expose-webparts-teams)
+-	[Microsoft Teams platform documentation – Build your first app with SPFx](https://learn.microsoft.com/microsoftteams/platform/sbs-gs-spfx?tabs=vscode%2Cviscode)
 
 Here's a bit [outdated video](https://www.youtube.com/watch?v=JoTAC2i-XeU) on building Microsoft Teams application using SPFx.
 
@@ -69,19 +69,19 @@ Here’s a great sample of a SPFx powered Microsoft Teams solutions. This soluti
 
 ## Frequent questions on using SPFx for Microsoft Teams solutions
 
-**Is using SPFx for Teams only for SharePoint developers?** 
+**Is using SPFx for Teams only for SharePoint developers?**
 
 No. SPFx is for any developer who is looking to build using web stack development tooling and with the other benefits. If you have an existing SaaS service (web site), you'd most likely rather use the Microsoft Teams app model, but SPFx is a great option esspecially for enterprise development scenarios.
 
-**Why would I use SPFx for creating my Microsoft Teams app?** 
+**Why would I use SPFx for creating my Microsoft Teams app?**
 
 Using SPFx is the easiest and fastest way to build the solution for Microsoft 365. You have automatic single-sing on and your code is automatically hosted in the tenant where it’s being deployed. This provides two main benefits – no reason to host the code externally, for example in Azure and it also creates a security boundary for the customer tenant – no code is loaded from external sources. This provides administrative control and governance of what’s running in the tenant.
 
-**Am I packaging then two solutions to same package for deployment?** 
+**Am I packaging then two solutions to same package for deployment?**
 
 No. The same piece of code or application can be executed within Microsoft Teams or in SharePoint (or in other Micoroft 365 applications). This is not duplicating code or creating two different applications, it’s all about reusing the same code across the different services. Write once and expose the application in Microsoft Teams, Microsoft Viva, Outlook, Microsoft 365 app (office) or SharePoint.
 
-**Why there is not different TypeScript base classes for Teams vs web parts?** 
+**Why there is not different TypeScript base classes for Teams vs web parts?**
 
 There’s no need for that. You can consider a web part as a widget. It’s not specific for SharePoint. It’s a web widget designed to be created using TypeScript and to access services and APIs within Microsoft 365.
 
@@ -96,7 +96,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

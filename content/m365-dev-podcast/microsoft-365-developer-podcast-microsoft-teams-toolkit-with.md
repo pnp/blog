@@ -25,18 +25,18 @@ Listen to the show here: 
 -   [Teams Toolkit for VSCode
     (Preview)](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.ms-teams-vscode-extension)
 -   [Single sign-on (SSO) support for
-    tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
+    tabs](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
 -   [Developer Portal (Preview)](https://dev.teams.microsoft.com/home)
 -   <https://aka.ms/teamsdevdocs>
 
-## Microsoft News 
+## Microsoft News
 
 -   [MSAL for React is
     here!](https://developer.microsoft.com/graph/blogs/msal-for-react-is-here/?utm_source=pocket_mylist)
 -   [MSAL for Angular v2 is now
     available](https://developer.microsoft.com/graph/blogs/msal-for-angular-v2-is-now-available/?utm_source=pocket_mylist)
 
-## Community Links 
+## Community Links
 
 -   [Azure AD User Account Federation Report
     (@darrenjrobinson)](https://blog.darrenjrobinson.com/azure-ad-user-account-federation-report/)

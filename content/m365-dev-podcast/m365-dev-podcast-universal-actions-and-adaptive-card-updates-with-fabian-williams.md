@@ -6,7 +6,7 @@ author: Paul Schaeflein
 githubname: pschaeflein
 categories:
   - Microsoft 365 developer podcast
-images: 
+images:
   - images/blog/m365-dev-podcast/m365podcast_artwork_copy.jpg
 tags: []
 type: regular
@@ -23,8 +23,8 @@ Listen to the show here:  [Universal Actions and Adaptive Card Updates with Fab
 *   [bot-sequential-flow-adaptive-cards](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-sequential-flow-adaptive-cards)
 *   [Teams Catering Bot](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/bot-teams-catering/csharp)
 *   [Adaptive card with request for approval is also sent to the approver’s email](https://github.com/pnp/teams-dev-samples/tree/main/samples/app-ReporterPlus)
-*   [User attribution for bots messages](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/action-commands/respond-to-task-module-submit?tabs=dotnet%2Cdotnet-1#user-attribution-for-bots-messages?WT.mc_id=M365-MVP-4025164)
-*   [Up-to-date cards](https://docs.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/up-to-date-views?WT.mc_id=M365-MVP-4025164)
+*   [User attribution for bots messages](https://learn.microsoft.com/microsoftteams/platform/messaging-extensions/how-to/action-commands/respond-to-task-module-submit?tabs=dotnet%2Cdotnet-1#user-attribution-for-bots-messages?WT.mc_id=M365-MVP-4025164)
+*   [Up-to-date cards](https://learn.microsoft.com/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/up-to-date-views?WT.mc_id=M365-MVP-4025164)
 
 ## Microsoft News
 

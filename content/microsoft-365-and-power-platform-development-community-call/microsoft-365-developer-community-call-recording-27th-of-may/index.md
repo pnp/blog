@@ -189,14 +189,14 @@ slides.
 
 -   [Documentation - ][Send activity feed
     notifications to users in Microsoft
-    Teams](https://docs.microsoft.com/graph/teams-send-activityfeednotifications)
+    Teams](https://learn.microsoft.com/graph/teams-send-activityfeednotifications)
 
 -   [Video - ][Microsoft Teams -- Use the
     teamwork Microsoft Graph
     endpoint](https://www.youtube.com/watch?v=G33bN7cl2QU&t=3536s)
 
 -   [Documentation - ][Create deep
-    links](https://docs.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links)
+    links](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/deep-links)
 
 -   [Graphics - ][Fluent UI Icon
     Search](https://www.flicon.io/)
@@ -276,7 +276,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

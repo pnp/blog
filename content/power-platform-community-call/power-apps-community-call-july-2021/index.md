@@ -19,12 +19,12 @@ Number Puzzle, Pandemic Response Solution, Kitty Run! Game, and Sports
 Stats Tracker. 
 
 After the demos were presented, call attendees selected
-with slim margins, the top app.  
+with slim margins, the top app. 
 
 Also, Recent Power Apps News and
 Community Contributions and Latest on [PnP Power Platform Samples
 Contributions](https://aka.ms/powerplatform-samples).   This session
-included Q&A in chat.  
+included Q&A in chat. 
 
 The call was hosted by Todd Baginski (Canviz). 
 Demo presenters are Rory Neary, Krishna Rachakonda, Venkat Rao, Nghiem
@@ -81,7 +81,7 @@ or viewing it on demand. 
     <https://aka.ms/PowerAppsDemoExtravaganza>
 
 -   Documentation - [Microsoft Power Platform: 2021 release wave 2
-    plan](https://docs.microsoft.com/power-platform-release-plan/2021wave2/) 
+    plan](https://learn.microsoft.com/power-platform-release-plan/2021wave2/) 
 
 -   News - [Power Virtual Agents Community Challenge for all
     Communities](https://powerusers.microsoft.com/t5/News-Announcements/Power-Virtual-Agents-Community-Challenge-for-all-Communities/m-p/1169763#M93) 
@@ -185,7 +185,7 @@ or viewing it on demand. 
     Game](https://powerusers.microsoft.com/t5/Demo-Extravaganza-2021/Kitty-Run/cns-p/951957) 
 
 -   Documentation - [What is the Speech
-    service?](https://docs.microsoft.com/azure/cognitive-services/speech-service/overview) 
+    service?](https://learn.microsoft.com/azure/cognitive-services/speech-service/overview) 
 
 -   Video - [Speech to text in Power Apps with Power Automate by Yash
     Kamdar at Hyd Power Apps & Power Automate
@@ -202,7 +202,7 @@ or viewing it on demand. 
     \...](https://kamdaryash.wordpress.com/2020/02/05/create-a-pdf-file-of-text-converted-from-speech-recorded-in-powerapps-using-azure-cognitive-services-part-3/) 
 
 -   Documentation - [Use expressions in conditions to check multiple
-    values](https://docs.microsoft.com/power-automate/use-expressions-in-conditions) 
+    values](https://learn.microsoft.com/power-automate/use-expressions-in-conditions) 
 
 -   Article - [Setting Lookup in a Flow CDS Connector: Classic vs.
     Current Environment

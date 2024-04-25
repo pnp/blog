@@ -52,19 +52,19 @@ Welcome to the bi-weekly call focused on Microsoft 365 client-side development. 
 * **Building polished form experiences with SPFx form customizer** – working back from the final UI to the code behind the scenes, see how to create a custom form component. Steps include create a list or library structure using content types, create a Form Customizer extension project using SPFx, configure and debug, deploy solution to App Catalog, and finally associate the custom component to the content type. This capability is available only using SPFx v1.15.
 * **Building SPFx solution with Azure Communication Services integration** – see how pre-built ACS composite chat component is used in a SPFx web part sample called RoomChat built by João Mendes. After an overview of ACS, create a Communications Service. Visit the ACS UI Library (sandbox) – and pick up a chat component. Step through core code elements of the web part. Use property panes or SharePoint Online tenant properties for storing information used by your web part.
 
-The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler.  Q&A takes place as always in chat throughout the call.
+The host of this call is [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler.  Q&A takes place as always in chat throughout the call.
 
 {{< youtube r2iTAgNRREA >}}
 
 ## Agenda items
 
 * SharePoint Framework – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:47](https://youtu.be/r2iTAgNRREA?t=407)
-* PnPjs Client-Side Libraries - [Julie Turner](http://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:54](https://youtu.be/r2iTAgNRREA?t=534)
+* PnPjs Client-Side Libraries - [Julie Turner](https://twitter.com/jfj1997) (Sympraxis Consulting) \| @jfj1997 – [8:54](https://youtu.be/r2iTAgNRREA?t=534)
 * CLI for Microsoft 365 - [Garry Trinder](https://twitter.com/garrytrinder) (CPS Solutions) \| @garrytrinder – [10:40](https://youtu.be/r2iTAgNRREA?t=640)
-* PnP SPFx Controls - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:07](https://youtu.be/r2iTAgNRREA?t=787)
-* PnP Modern Search - [Patrick Rodgers](http://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:53](https://youtu.be/r2iTAgNRREA?t=833)
-* PnP Samples - [Hugo Bernier](http://twitter.com/bernierh) (Microsoft) \| @bernierh – [14:25](https://youtu.be/r2iTAgNRREA?t=865)
-* PnP SPFx ACEs Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:01](https://youtu.be/r2iTAgNRREA?t=961)
+* PnP SPFx Controls - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:07](https://youtu.be/r2iTAgNRREA?t=787)
+* PnP Modern Search - [Patrick Rodgers](https://twitter.com/mediocrebowler) (Microsoft) \| @mediocrebowler – [13:53](https://youtu.be/r2iTAgNRREA?t=833)
+* PnP Samples - [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [14:25](https://youtu.be/r2iTAgNRREA?t=865)
+* PnP SPFx ACEs Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) \| @DavidWarnerII – [16:01](https://youtu.be/r2iTAgNRREA?t=961)
 * Demo – Building polished form experiences with SPFx form customizer – [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) \| @ EjazHussain\_ – [17:36](https://youtu.be/r2iTAgNRREA?t=1056)
 * Demo – Building SPFx solution with Azure Communication Services integration – [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) \| @bernierh – [30:25](https://youtu.be/r2iTAgNRREA?t=1825)
 
@@ -88,13 +88,13 @@ The host of this call is [Patrick Rodgers](http://twitter.com/mediocrebowler) (M
 * **Building polished form experiences with SPFx form customizer**
     * Documentation - [Getting Started with SPFx Form Customizer](https://www.office365clinic.com/2022/07/11/getting-started-with-spfx-form-customizer/)
     * Repo - [cc-formcustomizer-playground](https://github.com/ejazhussain/spfx-projects/tree/main/react-formcustomizer-customers)
-    * Documentation - [Build your first Form Customizer extension (preview)](https://docs.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
+    * Documentation - [Build your first Form Customizer extension (preview)](https://learn.microsoft.com/sharepoint/dev/spfx/extensions/get-started/building-form-customizer)
 * **Building SPFx solution with Azure Communication Services integration**
-    * Documentation - [What is Azure Communication Services?](https://docs.microsoft.com/azure/communication-services/overview)
+    * Documentation - [What is Azure Communication Services?](https://learn.microsoft.com/azure/communication-services/overview)
     * Tools – [ACS UI Library](https://azure.github.io/communication-ui-library/?path=/story/overview--page) \| aka.ms/acsstroybook
     * Sample - [Room Chat](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-roomchat)
-    * Documentation - [SharePoint Online tenant properties](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties?tabs=sprest)
-    * ACS Quick Start - [Get started with the calling hero sample](https://docs.microsoft.com/azure/communication-services/samples/calling-hero-sample)
+    * Documentation - [SharePoint Online tenant properties](https://learn.microsoft.com/sharepoint/dev/spfx/tenant-properties?tabs=sprest)
+    * ACS Quick Start - [Get started with the calling hero sample](https://learn.microsoft.com/azure/communication-services/samples/calling-hero-sample)
 
 Thank you for your great work. Samples are often showcased in Demos.
 
@@ -134,7 +134,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 *   [GitHub PnPjs](https://github.com/pnp/pnpjs/)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Tutorials](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq) (12 videos)
 *   Tutorials - [Getting started with SharePoint Framework v1.10 Extensions](https://www.youtube.com/playlist?list=PLR9nK3mnD-OXtWO5AIIr7nCR3sWutACpV) (6 videos)
-*   Docs - [Tutorials and training material for SharePoint Development](https://docs.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
+*   Docs - [Tutorials and training material for SharePoint Development](https://learn.microsoft.com/sharepoint/dev/training/training/?wt.mc_id=YT_CCrecording)
 *   [SPFX Training Package](https://aka.ms/spfx-training)
 *   [SPFx Web Parts](https://aka.ms/spfx-webparts)
 *   [SPFx Extensions](https://aka.ms/spfx-extensions)
@@ -153,7 +153,7 @@ Thank you for your great work. Samples are often showcased in Demos.
 
 ## Other mentioned topics
 
-*   [SharePoint dev documentation](https://docs.microsoft.com/sharepoint/dev/)
+*   [SharePoint dev documentation](https://learn.microsoft.com/sharepoint/dev/)
 *   [SharePoint dev issue list](https://github.com/SharePoint/sp-dev-docs/issues)
 
 ## Upcoming calls | Recurrent invites

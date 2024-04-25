@@ -198,14 +198,14 @@ slides.
 
 -   [Documentation - ][Bot Framework
     Composer
-    documentation](https://docs.microsoft.com/composer/)
+    documentation](https://learn.microsoft.com/composer/)
 
 -   [[Documentation - ][Add
     authentication to your Teams
-    bot](https://docs.microsoft.com/microsoftteams/platform/bots/how-to/authentication/add-authentication?tabs=dotnet%2Cdotnet-sample)]
+    bot](https://learn.microsoft.com/microsoftteams/platform/bots/how-to/authentication/add-authentication?tabs=dotnet%2Cdotnet-sample)]
 
 -   Documentation  - [Create your
-    project](https://docs.microsoft.com/microsoftteams/platform/get-started/first-app-bot?tabs=vscode#create-your-project) 
+    project](https://learn.microsoft.com/microsoftteams/platform/get-started/first-app-bot?tabs=vscode#create-your-project) 
 
 -   [Connectors - ][Microsoft Power
     Platform
@@ -283,7 +283,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -327,4 +327,3 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 ------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 3rd of September 2021*
-

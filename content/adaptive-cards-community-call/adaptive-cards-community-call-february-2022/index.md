@@ -31,11 +31,11 @@ The following topics are covered in this month’s community call.  Demo:  **A
 ## Referenced in this call
 
 *   Repo - [Teams Video Player Bot](https://github.com/officedev/Teams-Video-Player-Bot) 
-*   Documentation - [Tabs link unfurling and Stage View](https://docs.microsoft.com/microsoftteams/platform/tabs/tabs-link-unfurling) 
+*   Documentation - [Tabs link unfurling and Stage View](https://learn.microsoft.com/microsoftteams/platform/tabs/tabs-link-unfurling) 
 *   Teams template - [Company Communicator App Template](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) 
-*   Documentation – [Invoke Stage View through deep link](https://docs.microsoft.com/microsoftteams/platform/tabs/tabs-link-unfurling#invoke-stage-view-through-deep-link) 
+*   Documentation – [Invoke Stage View through deep link](https://learn.microsoft.com/microsoftteams/platform/tabs/tabs-link-unfurling#invoke-stage-view-through-deep-link) 
 *   Repo - [Tabs link unfurling and Stage View](https://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/tabs/tabs-link-unfurling.md) 
-*   Documentation - [List apps installed for user](https://docs.microsoft.com/graph/api/userteamwork-list-installedapps?view=graph-rest-1.0&tabs=http) 
+*   Documentation - [List apps installed for user](https://learn.microsoft.com/graph/api/userteamwork-list-installedapps?view=graph-rest-1.0&tabs=http) 
 
 ## Resources in General
 

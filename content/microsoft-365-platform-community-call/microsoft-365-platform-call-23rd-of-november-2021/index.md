@@ -169,11 +169,11 @@ slides.
     connectors](https://techcommunity.microsoft.com/t5/microsoft-search-blog/what-s-new-and-what-s-next-for-microsoft-graph-connectors/ba-p/2913895) 
 
 -   **D1:**  Documentation - [Microsoft Graph connector
-    agent](https://docs.microsoft.com/microsoftsearch/graph-connector-agent) 
+    agent](https://learn.microsoft.com/microsoftsearch/graph-connector-agent) 
 
 -   **D2:**  Learn module - [Extend Microsoft Viva Connections with
     application
-    customizers](https://docs.microsoft.com/learn/modules/viva-connections-extend-with-app-customizers/) 
+    customizers](https://learn.microsoft.com/learn/modules/viva-connections-extend-with-app-customizers/) 
 
 -   **D2:**  Tools - Viva Connections Toolkit (SPFx 1.13) | npm install
     -g
@@ -234,7 +234,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -272,7 +272,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

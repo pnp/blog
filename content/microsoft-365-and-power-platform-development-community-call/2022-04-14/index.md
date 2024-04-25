@@ -73,13 +73,13 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 
 ([https://aka.ms/TeamsSampleBrowser](https://aka.ms/TeamsSampleBrowser))
 
-* [Move Your Filters app](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-move-your-filters) - [Mark Allan](http://twitter.com/MarkXA) | @MarkXA &amp; [Tom Resing](http://twitter.com/resing) | @resing
+* [Move Your Filters app](https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-move-your-filters) - [Mark Allan](https://twitter.com/MarkXA) | @MarkXA &amp; [Tom Resing](https://twitter.com/resing) | @resing
 
 ## Microsoft Power Platform Samples
 
 ([https://aka.ms/powerplatform-samples)](https://aka.ms/powerplatform-samples)
 
-* [Invoice Automation using the SharePoint Syntex](https://github.com/Spucelik/powerapps-samples/tree/main/samples/InvoiceProcessing) - [Steve Pucelik](http://twitter.com/spucelik) | @spucelik
+* [Invoice Automation using the SharePoint Syntex](https://github.com/Spucelik/powerapps-samples/tree/main/samples/InvoiceProcessing) - [Steve Pucelik](https://twitter.com/spucelik) | @spucelik
 
 ## Script Samples
 
@@ -88,7 +88,7 @@ The host of this call was [David Warner II](https://twitter.com/DavidWarnerII) (
 * New Scenarios
     * [Delete Custom SharePoint list designs](https://pnp.github.io/script-samples/spo-remove-list-designs/README.html?tabs=pnpps) - [Reshmee Auckloo](https://twitter.com/reshmeeauckloo) | @ReshmeeAuckloo
 * Updates or scenarios implemented with alterative tools
-    * [Undelete items from SharePoint Recycle bin](https://pnp.github.io/script-samples/bulk-undelete-from-recyclebin/README.html?tabs=pnpps) - [Adam Wójcik](http://twitter.com/Adam25858782) | @Adam25858782
+    * [Undelete items from SharePoint Recycle bin](https://pnp.github.io/script-samples/bulk-undelete-from-recyclebin/README.html?tabs=pnpps) - [Adam Wójcik](https://twitter.com/Adam25858782) | @Adam25858782
 
 Article: [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414) – aka.ms/script-samples/getting-started
 
@@ -106,26 +106,26 @@ Thank you for your work. Samples are often showcased in Demos.    Request a Demo
 
 ## Topics covered in this call
 
-* PnP .NET library updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [6:15](https://youtu.be/5yULqXWIz2M?t=375)
-* PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Valo Intranet) | @gautamdsheth – [6:58](https://youtu.be/5yULqXWIz2M?t=418)
-* yo Teams updates - [Wictor Wilén](http://twitter.com/wictor) (Microsoft) | @wictor – [8:03](https://youtu.be/5yULqXWIz2M?t=483)
-* Microsoft Graph Toolkit updates - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [9:35](https://youtu.be/5yULqXWIz2M?t=575)
-* Microsoft Script Samples - [David Warner II](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [2:43](https://youtu.be/5yULqXWIz2M?t=163)
-* Microsoft Teams Samples - [Bob German](http://twitter.com/Bob1German) (Microsoft) | @Bob1German – [10:23](https://youtu.be/5yULqXWIz2M?t=623)
-* Microsoft Power Platform Samples - [April Dunnam](http://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [11:20](https://youtu.be/5yULqXWIz2M?t=680)
+* PnP .NET library updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [6:15](https://youtu.be/5yULqXWIz2M?t=375)
+* PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Valo Intranet) | @gautamdsheth – [6:58](https://youtu.be/5yULqXWIz2M?t=418)
+* yo Teams updates - [Wictor Wilén](https://twitter.com/wictor) (Microsoft) | @wictor – [8:03](https://youtu.be/5yULqXWIz2M?t=483)
+* Microsoft Graph Toolkit updates - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [9:35](https://youtu.be/5yULqXWIz2M?t=575)
+* Microsoft Script Samples - [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII – [2:43](https://youtu.be/5yULqXWIz2M?t=163)
+* Microsoft Teams Samples - [Bob German](https://twitter.com/Bob1German) (Microsoft) | @Bob1German – [10:23](https://youtu.be/5yULqXWIz2M?t=623)
+* Microsoft Power Platform Samples - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam – [11:20](https://youtu.be/5yULqXWIz2M?t=680)
 * Demos – [13:13](https://youtu.be/5yULqXWIz2M?t=793)
 
 ### Demos
 
-* TeamsFx .NET - Current Updates - April 2022 – [Thomy Gölles](http://twitter.com/thomyg) (Solvion) | @thomyg – [13:21](https://youtu.be/5yULqXWIz2M?t=801)
+* TeamsFx .NET - Current Updates - April 2022 – [Thomy Gölles](https://twitter.com/thomyg) (Solvion) | @thomyg – [13:21](https://youtu.be/5yULqXWIz2M?t=801)
     * Repo - [Microsoft Teams Framework (TeamsFx)](https://github.com/OfficeDev/TeamsFx)
     * Tool – [Blazor - Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
-* Controlling list toolbar with JSON using commandBarProps option – [Chris Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent – [38:15](https://youtu.be/5yULqXWIz2M?t=2295)
-    * Documentation - [Command bar customization syntax reference](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
+* Controlling list toolbar with JSON using commandBarProps option – [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent – [38:15](https://youtu.be/5yULqXWIz2M?t=2295)
+    * Documentation - [Command bar customization syntax reference](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-commandbar-formatting)
     * Icons – [Flicon](https://flicon.io/)
 
-* Building dynamic dashboard pages with list formatting – [Chris Kent](http://twitter.com/theChrisKent) (DMI) | @theChrisKent – [53:09](https://youtu.be/5yULqXWIz2M?t=3189)
+* Building dynamic dashboard pages with list formatting – [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @theChrisKent – [53:09](https://youtu.be/5yULqXWIz2M?t=3189)
     * Sample - [Heat Map](https://github.com/pnp/List-Formatting/tree/master/view-samples/heat-map)
     * Sample - [Honeycomb Links](https://github.com/pnp/List-Formatting/tree/master/view-samples/honeycomb-link)
     * Sample - [Recent Comments](https://github.com/pnp/List-Formatting/tree/master/view-samples/recent-comments)
@@ -135,7 +135,7 @@ Thank you for your work. Samples are often showcased in Demos.    Request a Demo
 
 Additional resources around the covered topics and links from the slides.
 
-* Microsoft 365 PnP Weekly – Episode 161 (April 11th) with California, US based Power Platform Community Program Manager, [David Warner](http://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-161-%E2%80%93-11th-of-april-2022/)
+* Microsoft 365 PnP Weekly – Episode 161 (April 11th) with California, US based Power Platform Community Program Manager, [David Warner](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII  | [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056) | [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-161-%E2%80%93-11th-of-april-2022/)
 * Microsoft 365 PnP Weekly – Episode 160 (April 4th) with Bangalore, India based MVP, [Arjun Menon](https://twitter.com/arjunumenon) (Tata Consultancy Services) | @arjunumenon | [video ](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-160-arjun-menon-tata/ba-p/3275260)| [podcast](https://pnpweekly.podbean.com/e/microsoft-365-pnp-weekly-episode-160-%E2%80%93-4th-of-april-2022/)
 * Microsoft 365 Developer Podcast - Development Topics with Andrew Connell (April 12th) | @andrewconnell | [podcast](https://www.m365devpodcast.com/e/development-topics-with-andrew-connell/)
 

@@ -33,7 +33,7 @@ Demos this time
 
 Also: 📷 Picture Time with community in Together Mode!
 
-### ### Microsoft 365 & Power Platform bi-weekly community Call - 12th of October
+### Microsoft 365 & Power Platform bi-weekly community Call - 12th of October
 
 * Thursday, 12th of October, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
@@ -154,7 +154,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [DynUG Autumn Conference](https://www.communitydays.org/event/2023-11-21/dynug-autumn-conference) - November 21-22, 2023 - Oslo, Norway
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 We hope to see you around!

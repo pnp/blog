@@ -9,7 +9,7 @@ images:
 - images/TTK-doodle.png
 tags: ["Microsoft365", "Azure AD", "Microsoft Graph", "Microsoft Teams",  "SharePoint Framework (SPFx)" ]
 videos:
-- https://www.youtube.com/watch?v=vzmpJKMBOKk0
+- https://www.youtube.com/watch?v=vzmpJKMBOKk
 draft: false
 ---
 
@@ -27,4 +27,4 @@ So, what are you waiting for? Go to [https://aka.ms/learn/teamstoolkit](https://
 
 📖 [Read more about the learn path here](https://devblogs.microsoft.com/microsoft365dev/learn-how-to-develop-apps-for-microsoft-teams-using-teams-toolkit-in-visual-studio-code/)
 
-👀[Watch our video to get an overview of the learning path](https://www.youtube.com/watch?v=vzmpJKMBOKk0)
+👀[Watch our video to get an overview of the learning path](https://www.youtube.com/watch?v=vzmpJKMBOKk)

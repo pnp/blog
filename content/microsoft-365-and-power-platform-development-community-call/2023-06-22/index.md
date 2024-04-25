@@ -24,7 +24,7 @@ Welcome to the bi-weekly call focused on Microsoft 365 platform development topi
 * **Trimming SharePoint file versions to reduce Storage costs** – What is SharePoint storage?, How is usage calculated?, What does it cost?, How do I minimize the SharePoint Storage consumption? Proactive - reduce number versions saved from 500 to 50 (Retention policy). Reactive - use script – to calculate potential storage reduction and the File version Trimmer. See code for calculating storage used in site collection and call to DeleteVersions function. Use the PowerShell Remove-PnPFileVersion function. Conversation at [aka.ms/June22-Demo2](https://aka.ms/June22-Demo1)
 * **Using ChatGPT (or your favorite AI) to speed up PowerShell Development** – what is AI?, how can AI help me write better code?, what 2 tools are used by the speaker and for what purpose? GitHub Copilot - \$10/month. ChatGPT - Chat with it, know that it compliments GitHub Copilot - \$20 a month. Speaker prompts both assistants for information and refines results. Interesting usage research referenced. Conversation at [aka.ms/June22-Demo3](https://aka.ms/June22-Demo1)
 
-The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<https://twitter.com/DavidWarnerII> (Microsoft) \| @VesaJuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube STvHHHfie7k >}}
 
@@ -32,9 +32,9 @@ The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http:/
 
 [00:00](https://youtu.be/STvHHHfie7k?t=0) – Intro - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen
 
-[06:10](https://youtu.be/STvHHHfie7k?t=370) – PnP .NET library updates - [Bert Jansen](http://twitter.com/O365bert) (Microsoft) \| @O365bert
+[06:10](https://youtu.be/STvHHHfie7k?t=370) – PnP .NET library updates - [Bert Jansen](https://twitter.com/O365bert) (Microsoft) \| @O365bert
 
-[07:58](https://youtu.be/STvHHHfie7k?t=478) – PnP PowerShell updates - [Gautam Sheth](http://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
+[07:58](https://youtu.be/STvHHHfie7k?t=478) – PnP PowerShell updates - [Gautam Sheth](https://twitter.com/gautamdsheth) (Staffbase) \| @gautamdsheth
 
 [09:25](https://youtu.be/STvHHHfie7k?t=565) – yo Teams updates - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen
 
@@ -44,7 +44,7 @@ The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http:/
 
 [11:49](https://youtu.be/STvHHHfie7k?t=709) – Independent Publisher Connectors - [Jocelyn Panchal](https://twitter.com/JocelynP_PM) (Microsoft) @JocelynP_PM
 
-[13:16](https://youtu.be/STvHHHfie7k?t=796) – Microsoft Script Samples - [Paul Bullock](http://twitter.com/pkbullock) \| @pkbullock
+[13:16](https://youtu.be/STvHHHfie7k?t=796) – Microsoft Script Samples - [Paul Bullock](https://twitter.com/pkbullock) \| @pkbullock
 
 [15:14](https://youtu.be/STvHHHfie7k?t=914) – Microsoft Teams Samples - [Vesa Juvonen](https://twitter.com/VesaJuvonen) (Microsoft) \| @VesaJuvonen
 
@@ -65,7 +65,7 @@ The host of this call was [Vesa Juvonen](https://twitter.com/VesaJuvonen)<http:/
 
 ![together-230622.png](images/together-230622.png)
 
-Thank you everyone for joining the call today. Great seeing many familiar faces.   
+Thank you everyone for joining the call today. Great seeing many familiar faces.
 
 ## Activities & Actions
 
@@ -92,7 +92,7 @@ Thank you everyone for joining the call today. Great seeing many familiar faces.
 * ISV’S BUILDING MONETIZED TEAMS APPS - The ecosystem team wants to support you! \| aka.ms/TeamsApp/Support
 * Get started with [free training modules](https://aka.ms/m365/dev/learn) covering Microsoft 365 platform capabilities.
 * Visit the [Microsoft 365 Unified Sample Solution Gallery](https://adoption.microsoft.com/sample-solution-gallery) with more than 1500 samples from Microsoft and community.
-* Download the recurrent invite for this call – <http://aka.ms/spdev-sig-call>
+* Download the recurrent invite for this call – <https://aka.ms/spdev-sig-call>
 
 ## Demo references
 
@@ -115,9 +115,9 @@ Thank you for your great work. Samples are often showcased in Demos. Request a D
 ---|---|---
 PnP .NET Libraries - [PnP Framework](https://github.com/pnp/pnpframework)|v1.12.0 GA
 PnP .NET Libraries - [PnP Core SDK](https://github.com/pnp/pnpcore/tree/dev)|v1.9.0 GA
-[Microsoft 365 Assessment tool](https://docs.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
+[Microsoft 365 Assessment tool](https://learn.microsoft.com/assessments/)|v1.0.0 (SharePoint Syntex Assessment)|Successor to the Modernization Scanner tool
 [PnP PowerShell](https://github.com/pnp/powershell)|v1.12.0 GA, v2.1.1 GA|Nightly builds
-[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0 
+[Yo teams - generator-teams](https://github.com/pnp/generator-teams/tree/master/packages/generator-teams)|v4.1.0 GA, v4.1.1-preview.2|Prepping v4.2.0
 [Yo teams - yoteams-build-core](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-build-core)|v1.8.0 GA, v1.8.1-preview
 [Yo teams – yoteams-deploy](https://github.com/pnp/generator-teams/tree/master/packages/yoteams-deploy)|v1.2.0 GA, v1.4.0-preview
 [Yo teams - msteams-react-base-component](https://github.com/wictorwilen/msteams-react-base-component)|v3.1.1 GA

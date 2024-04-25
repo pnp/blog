@@ -153,7 +153,7 @@ slides.
     call](https://1drv.ms/p/s!AlposW7ozA_90j_0wCE_XEVxYoZQ?e=5YX8v4)
 
 -   Documentation - [contentType resource
-    type](https://docs.microsoft.com/graph/api/resources/contenttype?view=graph-rest-beta?WT.mc_id=m365-24198-cxa) 
+    type](https://learn.microsoft.com/graph/api/resources/contenttype?view=graph-rest-beta?WT.mc_id=m365-24198-cxa) 
 
 -   Blog -- [Create a London Underground Line Status Bot using Power
     Virtual Agents & Azure Management API in
@@ -163,10 +163,10 @@ slides.
     Platform](https://powerapps.microsoft.com/blog/azure-api-management-connector-on-the-power-platform/) 
 
 -   Documentation - [Use column formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/column-formatting?WT.mc_id=m365-15744-cxa) 
 
 -   Documentation - [Use view formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting?WT.mc_id=m365-24198-cxa) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting?WT.mc_id=m365-24198-cxa) 
 
 -   Repo - [SharePoint List Formatting
     Samples](https://github.com/pnp/List-Formatting) 
@@ -235,7 +235,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)

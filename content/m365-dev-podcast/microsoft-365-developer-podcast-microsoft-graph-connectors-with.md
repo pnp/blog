@@ -28,7 +28,7 @@ Jackett
 -   [Postman Collection (combined with all-up Graph
     collection)](https://aka.ms/graphpostman)
 
-### Microsoft News 
+### Microsoft News
 
 -   [Homepage - Microsoft 365 Developer
     Blog](https://developer.microsoft.com/microsoft-365/blogs/)
@@ -40,10 +40,9 @@ Jackett
 -   [Microsoft Graph Mailbag -- A deeper look into the Microsoft Graph
     PowerShell
     SDK](https://developer.microsoft.com/graph/blogs/microsoft-graph-mailbag-a-deeper-look-into-the-microsoft-graph-powershell-sdk/)
--   [Protected APIs in Microsoft
-    Teams](https://docs.microsoft.com/graph/teams-protected-apis)
 
-### Community Links 
+
+### Community Links
 
 -   [New release: New resources and other improvements in SharePointDsc
     v4.7](https://techcommunity.microsoft.com/t5/sharepointdsc/new-release-new-resources-and-other-improvements-in/ba-p/2436520)  [@Yorick

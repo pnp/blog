@@ -174,7 +174,7 @@ slides.
 -   [Slides used in this ​community
     call](https://1drv.ms/p/s!AlposW7ozA_90jxX2fV4s9TIDfha?e=TgkQJ8)
 -   Documentation - [Use view formatting to customize
-    SharePoint](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting) 
+    SharePoint](https://learn.microsoft.com/sharepoint/dev/declarative-customization/view-formatting) 
 -   Repo - [PnP Core
     SDK](https://github.com/pnp/pnpcore)
 -   Library - [PnP Core
@@ -185,16 +185,16 @@ slides.
     SDK](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-core-sdk/ba-p/2207918) 
 -   Documentation - [Create your first Microsoft Teams app using the
     Yeoman
-    generator](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
+    generator](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/using-web-part-as-ms-teams-tab)
 -   Documentation - [Single sign-on (SSO) support for
-    tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
+    tabs](https://learn.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
 -   Documentation - [Microsoft identity platform and OAuth 2.0
     On-Behalf-Of
-    flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
+    flow](https://learn.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
 -   Library - [Fluent UI - React
     Northstar](https://fluentsite.z22.web.core.windows.net/0.53.0)
 -   Templates & Components - [Teams React UI
-    Library](https://dev-int.teams.microsoft.com/storybook/main/index.html)
+    Library](https://learn.microsoft.com/microsoftteams/platform/concepts/design/design-teams-app-basic-ui-components)
 -   PnP Weekly -- Episode 120 with guest MVP [Paolo
     Pialorsi](https://twitter.com/paolopia) (PiaSys) | @paolopia |
     [video](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-120/ba-p/2242545)
@@ -245,7 +245,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series/)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -295,6 +295,6 @@ from [https://aka.ms/m365pnp](https://aka.ms/sppnp).
 
 *"Sharing is caring"*
 
-------------------------------------------------------------------------    
+------------------------------------------------------------------------
 
 *Microsoft 365 PnP team, Microsoft - 2nd of April 2021*

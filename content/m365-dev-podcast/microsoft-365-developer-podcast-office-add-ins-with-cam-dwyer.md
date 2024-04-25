@@ -15,16 +15,16 @@ DevOps and security principles.
 Listen to the show here:  [Office Add-Ins with Cam Dwyer
 (m365devpodcast.com)](https://www.m365devpodcast.com/e/office-add-ins-with-cam-dwyer/)
 
-## Microsoft News 
+## Microsoft News
 
 -   [Visual Studio
     2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
 -   [New feature request experience for Microsoft Graph and Office
     Platform](https://developer.microsoft.com/graph/blogs/new-feature-request-experience-for-microsoft-graph-and-office/)
 -   [Microsoft
-    Q&A](https://docs.microsoft.com/answers/products/m365#microsoft-graph)
+    Q&A](https://learn.microsoft.com/answers/products/m365#microsoft-graph)
 
-## Community Links 
+## Community Links
 
 -   [Run CLI for Microsoft 365 in
     Docker](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/run-cli-for-microsoft-365-in-docker/ba-p/2207125)

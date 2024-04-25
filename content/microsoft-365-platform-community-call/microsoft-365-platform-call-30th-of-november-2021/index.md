@@ -149,7 +149,7 @@ Additional resources around the covered topics and links from the
 slides.
 
 -   **D1:**  Documentation - [Microsoft 365 App Compliance
-    Program](https://docs.microsoft.com/microsoft-365-app-certification/overview) 
+    Program](https://learn.microsoft.com/microsoft-365-app-certification/overview) 
 
 -   **D2:** Article - [Guidance for implementing partner offerings for
     Viva Connections with ACEs and custom
@@ -164,16 +164,16 @@ slides.
     more](https://devblogs.microsoft.com/microsoft365dev/go-developers-can-now-access-microsoft-graph-with-streamlined-authentication-and-more/) 
 
 -   **D3:** Documentation - [Install the Microsoft Graph
-    SDKs](https://docs.microsoft.com/graph/sdks/sdk-installation) 
+    SDKs](https://learn.microsoft.com/graph/sdks/sdk-installation) 
 
 -   **D3:** Repo - [Microsoft Graph SDK for
     Go](https://github.com/microsoftgraph/msgraph-sdk-go) 
 
 -   **D3:** Documentation - [Azure for Go
-    developers](https://docs.microsoft.com/azure/developer/go/) 
+    developers](https://learn.microsoft.com/azure/developer/go/) 
 
 -   **D3:** Q&A --
-    [aka.askgraphdk](https://docs.microsoft.com/answers/topics/microsoft-graph-sdk.html) 
+    [aka.askgraphdk](https://learn.microsoft.com/answers/topics/microsoft-graph-sdk.html) 
 
 
 ## General resources
@@ -227,7 +227,7 @@ slides.
 -   [SharePoint Provisioning templates on
     GitHub](https://github.com/SharePoint/sp-dev-provisioning-templates)
 -   [PnP Provisioning Tenant Templates
-    documentation](https://docs.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
+    documentation](https://learn.microsoft.com/sharepoint/dev/solution-guidance/pnp-provisioning-tenant-templates?WT.mc_id=m365-24198-cxa)
 -   [SharePoint Page Transformation webcast
     series](https://developer.microsoft.com/sharepoint/blogs/sharepoint-page-transformation-webcast-series?WT.mc_id=m365-24198-cxa)
 -   [PnP Power Shell](https://aka.ms/sppnp-powershell)
@@ -265,7 +265,7 @@ delivered by community members. 
  More details on the Microsoft 365
 community from [https://aka.ms/m365pnp](https://aka.ms/sppnp). 
 You can download recurrent invite for this call
-from <https://aka.ms/m365-dev-call>.  
+from <https://aka.ms/m365-dev-call>. 
 
 Welcome and join in the
 discussion. If you have any questions, comments, or feedback, feel free

@@ -42,13 +42,13 @@ Welcome to the weekly call focused on capabilities of the Microsoft 365 platform
 
 **Introduction to Microsoft Viva Toolkit to kickstart your Microsoft Viva extensibility** – synergies between Viva Toolkit & SharePoint Framework (SPFx) - Pro-code developer tooling to simplify development, validation, and publishing of custom Microsoft Viva experiences. Capabilities and features in the Viva Toolkit - connection between Visual Studio Code and tenant, environment validation, installation of technical dependencies, solution update with CLI for Microsoft 365, start from scenario or sample, CodeTour, and works on any SPFx project. Teams Toolkit alignment.
 
-The host of this call was [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
+The host of this call was [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen. Q&A takes place in chat throughout the call.
 
 {{< youtube fDLm2xXpExY >}}
 
 ## Agenda items
 
-* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:21](https://youtu.be/fDLm2xXpExY?t=381)
+* Latest updates and news on the Microsoft 365 platform – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) \| @vesajuvonen – [6:21](https://youtu.be/fDLm2xXpExY?t=381)
 * Microsoft Teams Platform updates – [Wajeed Shaikh](https://twitter.com/Wajeed_Shaikh) (Microsoft) \| @Wajeed_Shaikh – [9:01](https://youtu.be/fDLm2xXpExY?t=541)
 * Demo\* - Microsoft Graph Python SDK (public preview) Update – Isaac Vargas Chacon (Microsoft) & Samwel Kanda (Microsoft)
 * Demo\* - Building One Productivity Hub with SPFx for Teams, Microsoft 365 app, Outlook & SharePoint – [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) \| @waldekm

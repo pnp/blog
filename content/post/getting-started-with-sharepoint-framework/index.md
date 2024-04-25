@@ -28,18 +28,18 @@ client-side framework you want and easily deploy your app to your users.
 Here is a list of resources to help you get started with building apps
 using the SharePoint Framework.
 
-### [Introduction to customizing and extending SharePoint](https://docs.microsoft.com/learn/modules/intro-sharepoint-framework/?WT.mc_id=m365-14993-wmastyka) (learn module)
+### [Introduction to customizing and extending SharePoint](https://learn.microsoft.com/learn/modules/intro-sharepoint-framework/?WT.mc_id=m365-14993-wmastyka) (learn module)
 
 If you like a structured way of learning, this is the best place to
 start. This learn module takes you through the basics of what SharePoint
 Framework is, what kind of apps it allows you to build and how to do it.
 This module is a part of a larger [learning
-path](https://docs.microsoft.com/learn/paths/m365-extend-fundamental/?WT.mc_id=m365-14993-wmastyka)
+path](https://learn.microsoft.com/learn/paths/m365-extend-fundamental/?WT.mc_id=m365-14993-wmastyka)
 that allows you to get certified as a Microsoft 365 developer.
 [View the learn
-module](https://docs.microsoft.com/learn/modules/intro-sharepoint-framework/?WT.mc_id=m365-14993-wmastyka)
+module](https://learn.microsoft.com/learn/modules/intro-sharepoint-framework/?WT.mc_id=m365-14993-wmastyka)
 
-### [Hands-on tutorials for SharePoint development](https://docs.microsoft.com/sharepoint/dev/training/training?WT.mc_id=m365-14993-wmastyka)
+### [Hands-on tutorials for SharePoint development](https://learn.microsoft.com/sharepoint/dev/training/training?WT.mc_id=m365-14993-wmastyka)
 
 If you prefer a more hands-on approach, the SharePoint development
 tutorials and training are another great place to start. There are both
@@ -48,9 +48,9 @@ building solutions using SharePoint Framework. They're kept up-to-date
 with the latest version of SharePoint Framework so it's a great
 resource for you to bookmark.
 [View the hands-on tutorials for SharePoint
-development](https://docs.microsoft.com/sharepoint/dev/training/training?WT.mc_id=m365-14993-wmastyka)
+development](https://learn.microsoft.com/sharepoint/dev/training/training?WT.mc_id=m365-14993-wmastyka)
 
-### [SharePoint development docs](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-14993-wmastyka)
+### [SharePoint development docs](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-14993-wmastyka)
 
 Once you're past the basics, the official SharePoint Framework is a
 great place to deepen your knowledge. In the docs you will find
@@ -59,7 +59,7 @@ also offer prescriptive guidance on topics such as how to implement
 SharePoint Framework in development teams or what enterprise
 organizations should take into account.
 [View SharePoint Framework
-docs](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-14993-wmastyka)
+docs](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-14993-wmastyka)
 
 ### [Microsoft 365 Community](https://pnp.github.io/)
 

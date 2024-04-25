@@ -22,9 +22,9 @@ type: regular
 draft: false
 ---
 
-Microsoft 365 & Power Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community. 
+Microsoft 365 & Power Platform Community (PnP) November 2022 update is out with a summary of the latest guidance, samples, and solutions from Microsoft or from the community for the community.
 
-Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community. 
+Starting from this update, we are a bit adjusting the format, so that we can focus more on the contributors across the different areas of the community.
 
 >  *We are committed on building the best tech community in the world where everyone feels welcome and we help to empower each and every community member to achieve more.*
 
@@ -33,7 +33,7 @@ Starting from this update, we are a bit adjusting the format, so that we can foc
 
 * Microsoft 365 & Power Platform  Community - [https://aka.ms/m365/community](https://aka.ms/m365/community) - One location for all the resources and news around Microsoft 365 & Power Platform
 * Microsoft 365 and Power Platform samples - [https://aka.ms/m365/samples](https://aka.ms/m365/samples)
-* Microsoft 365 community blog - [http://aka.ms/m365/community/blog](http://aka.ms/m365/community/blog)
+* Microsoft 365 community blog - [https://aka.ms/m365/community/blog](https://aka.ms/m365/community/blog)
 * Microsoft 365 development blog - [https://aka.ms/m365/dev/blog](https://aka.ms/m365/dev/blog)
 * Microsoft 365 Community Channel on YouTube - [https://aka.ms/m365/videos](https://aka.ms/m365/videos)
 * Microsoft 365 Developer YouTube channel - [https://aka.ms/m365/dev/videos](https://aka.ms/m365/dev/videos)
@@ -117,7 +117,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Chirag Patel](https://twitter.com/techChirag) (Patel Consulting) | @techChirag
 * [Chris Kent](https://twitter.com/theChrisKent) (DMI) | @TheChrisKent
 * [Chris Palmer](https://github.com/chris-p-source) | chris-p-source
-* Chris Piasecki (CGI) 
+* Chris Piasecki (CGI)
 * [Christian Zuellig](https://github.com/czullu) (MondayCoffee) | czullu
 * [Christophe Humbert](https://twitter.com/Path2SharePoint) | @Path2SharePoint
 * [Chandani Prajapati](https://twitter.com/Chandani_SPD)  (Rapid Circle) | @Chandani_SPD
@@ -130,7 +130,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Dennis Goedegebuure](https://twitter.com/expiscornovus) (Ultima Business Solutions) | Expiscornovus
 * [Darren Lutchner](https://twitter.com/assist_365) | @assist_365
 * [Derek Cash Peterson](https://www.twitter.com/spdcp) (Sympraxis Consulting) | @Spdcp
-* [Dian Taylor](https://twitter.com/D365Goddess) (RSM) | @D365Goddess 
+* [Dian Taylor](https://twitter.com/D365Goddess) (RSM) | @D365Goddess
 * [Divya Akula](https://github.com/divya-akula) (Tarento) | divya-akula
 * [Dipesh Bhanani](https://twitter.com/AskDipesh) | @AskDipesh
 * [Don Kirkham](https://www.twitter.com/DonKirkham) (DMI, Inc) | @DonKirkham
@@ -138,7 +138,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Duvan Baena](https://twitter.com/djb349) | @djb349
 * [Edin Kapic](https://twitter.com/ekapic) (Vista) | @ekapic
 * [Eickhel Mendoza](https://twitter.com/eickhel) (Intelequia Technologies) | @eickhel
-* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_ 
+* [Ejaz Hussain](https://twitter.com/EjazHussain_) (Content & Cloud) | @EjazHussain_
 * [Elio Struyf](https://twitter.com/eliostruyf) (Struyf Consulting) | @Eliostruyf
 * [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 * [Emily Prindeville](https://github.com/v-emilypr) (Aquent) | v-emilypr
@@ -172,7 +172,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Joanne Klein](https://twitter.com/JoanneCKlein) | @JoanneCKlein
 * [João Ferreira](https://twitter.com/Joao12Ferreira) | @Joaoferreira
 * [João J. Mendes](https://twitter.com/joaojmendes) (Staffbase) | @Joaojmendes
-* [Joe Unwin](https://twitter.com/Flow_Joe_) (Hitachi Solutions) | @Flow_Joe_ 
+* [Joe Unwin](https://twitter.com/Flow_Joe_) (Hitachi Solutions) | @Flow_Joe_
 * [Joey Bloom](https://github.com/JoeyBloom) | JoeyBloom
 * [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues
 * [Josef Benda](https://github.com/SmarterJB) (Smarter Business Solutions GmbH) | SmarterJB
@@ -184,7 +184,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Keith Craigo](https://twitter.com/KeithCraigo) | @KeithCraigo
 * [Kevin McDonnell](https://twitter.com/kevmcdonk) (CPS) | @kevmcdonk
 * [Kinga Kazala](https://twitter.com/kinga_kazala) (ETH) | @kinga_kazala
-* [Kristine Kolodziejski](kristinekk94) (Computacenter) | @kristinekk94  
+* [Kristine Kolodziejski](kristinekk94) (Computacenter) | @kristinekk94
 * [Konrad Kolodziejak](https://github.com/wilecoyotegenius) (Capgemini) | wilecoyotegenius
 * [kon-iro](https://twitter.com/kon_iro) | @kon_iro
 * [Kunj Sangani](https://twitter.com/sanganikunj) | @sanganikunj
@@ -223,7 +223,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Miguel Verweij](https://twitter.com/miguelverweij) (Sogeti) | @MiguelVerweij
 * [Milan Holemans](https://github.com/milanholemans) (VanRoey.be) | milanholeman
 * [Mike Zimmerman](https://github.com/mikezimm) – mikezimm
-* [Mitanshu Garg](https://twitter.com/mitanshu) (Schlumberger) | @mitanshu    
+* [Mitanshu Garg](https://twitter.com/mitanshu) (Schlumberger) | @mitanshu
 * [Mohammed Amer](https://twitter.com/Mohammad3mer) (Atea Global Services) | @Mohammad3mer
 * [Musale Martin](https://twitter.com/m4musale) | @m4musale
 * [Nathalie Leenders](https://twitter.com/NathLeenders) (Chemours) | @NathLeenders
@@ -291,7 +291,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 * [Todd Baginski](https://twitter.com/toddbaginski) (Canviz) | @Toddbaginski
 * [Todd Klindt](https://twitter.com/ToddKlindt)  (Sympraxis Consulting) | @ToddKlindt
 * [Tomi Tavela](https://twitter.com/tavikukko) (Staffbase) | @tavikukko
-* [Tony Philips](https://twitter.com/TonyMSTeams) (Cloud Design Box) | @TonyMSTeams 
+* [Tony Philips](https://twitter.com/TonyMSTeams) (Cloud Design Box) | @TonyMSTeams
 * [Trevor Seward](https://twitter.com/NaupliusTrevor) | @NaupliusTrevor
 * [Veronique Lengelle](https://twitter.com/veronicageek) (CPS) | @Veronicageek
 * [Victor Romanov](https://github.com/VRomanovTau) (Taurus Quadra Ltd) | VRomanovTau
@@ -303,7 +303,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 
 ### Companies
 
-Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications. 
+Here are the companies, which provided support the community initiative for this month by allowing their employees working for the benefit of others in the community. There were also people who contributed from other companies during last month, but we did not get their logos and approval to show them in time for these communications.
 
 > If you'd like to see your company logo here,  please let us know and share the logo with us. Thx.
 
@@ -356,7 +356,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Alex Jerabek](https://github.com/AlexJerabek) (Microsoft) | AlexJerabek
 * [Alex Terentiev](https://twitter.com/alexaterentiev) (Microsoft) | @Alexaterentiev
 * [Alison McKay](https://github.com/alison-mk) (Microsoft) | alison-mk
-* Ankit Rastogi (Microsoft)   
+* Ankit Rastogi (Microsoft)
 * [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @Aprildunnam
 * [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @Aycabs
 * Ben Summers (Microsoft)
@@ -369,7 +369,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Daniel Laskewitz](https://twitter.com/Laskewitz) (Microsoft) | @Laskewitz
 * [Dan Wahlin](https://twitter.com/DanWahlin) (Microsoft) | @DanWahlin
 * [David Chesnut](https://twitter.com/davidchesnut) (Microsoft) | @Davidchesnut
-* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous 
+* [David Rousset](https://twitter.com/davrous) (Microsoft) | @davrous
 * [David Warner II](https://twitter.com/DavidWarnerII) (Microsoft) | @DavidWarnerII
 * [Dona Sarkar](https://twitter.com/donasarkar) (Microsoft) | @DonaSarkar
 * [Eoin O'Brien](https://github.com/eoinobrien) (Microsoft) | eoinobrien
@@ -377,7 +377,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Fabian Williams](https://twitter.com/fabianwilliams) (Microsoft) | @fabianwilliams
 * [Garry Trinder](https://twitter.com/garrytrinder) (Microsoft) | @Garrytrinder
 * [Gavin Barron](https://twitter.com/gavinbarron) (Microsoft) | @gavinbarron
-* Gloria Sánchez (Microsoft) 
+* Gloria Sánchez (Microsoft)
 * [Hugo Bernier](https://twitter.com/bernierh) (Microsoft) | @Bernierh
 * Isaac Vargas Chacon (Microsoft)
 * [James Eccles](https://github.com/jameseccles) (Microsoft) | jameseccles
@@ -386,10 +386,10 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Jens Haile](https://twitter.com/hailender) (Microsoft) | @hailender
 * [Juan Balmori](https://twitter.com/@juaneloBalmori) ( Microsoft) | @juaneloBalmori
 * [John Miller](https://twitter.com/jmillerdev)  (Microsoft)| @jmillerdev
-* [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm 
+* [J.P. Roca](https://twitter.com/jpthepm ) (Microsoft) | @jpthepm
 * [Koen Zomers](https://twitter.com/koenzomers) (Microsoft) | @Koenzomers
 * [Laura Graham](https://github.com/Lauragra) (Microsoft) | Lauragra
-* Leslie Thomas (Microsoft) 
+* Leslie Thomas (Microsoft)
 * [Linda Lu Cannon](https://github.com/lindalu-MSFT) - (Microsoft) | lindalu-MSFT
 * [Luca Bandinelli](https://github.com/lucaband) (Microsoft) | lucaband
 * [Marco Rocca](https://twitter.com/marco_r_73) (Microsoft) | @marco_r_73
@@ -408,7 +408,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Philippe Signoret](https://twitter.com/psignoret) (Microsoft) | @psignoret
 * [Rabeb Othmani](https://twitter.com/Rabeb_Othmani) (Microsoft) | @Rabeb_Othmani
 * [Rabia Williams](https://twitter.com/williamsrabia) (Microsoft) | @Williamsrabia
-* [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) | @PowerAppsRAW 
+* [Richard A. Wilson](https://twitter.com/PowerAppsRAW) (Microsoft) | @PowerAppsRAW
 * [Rick Kirkham](https://github.com/Rick-Kirkham) (Microsoft) | Rick-Kirkham
 * [Sam Ramon](https://github.com/samantharamon) (Microsoft) | samantharamon
 * Samriddhi Seth (Microsoft)
@@ -416,7 +416,7 @@ Here’s the list of Microsoft people who have been closely involved with the Mi
 * [Sébastien Levert](https://twitter.com/sebastienlevert) (Microsoft) | @Sebastienlevert
 * Sheena Makker (Microsoft)
 * [Tee Earls](https://github.com/TeeEarls) (Microsoft) | @TeeEarls
-* [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin 
+* [Todd Anglin](https://twitter.com/ToddAnglin) (Microsoft) | @ToddAnglin
 * Troy Starr (Microsoft) | TroyStarr
 * [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @Vesajuvonen
 * Wajeed Shaikh | [Wajeed-msft](https://github.com/Wajeed-msft)

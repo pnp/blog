@@ -12,8 +12,8 @@ videos:
 - https://www.youtube.com/watch?v=vHJOsHhWXNs
 draft: false
 ---
- 
-In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) | @waldekm focused on the upcoming conferences and their previous experiences on the in-person events across the world. No visitor in this episode due to an unfortunate last minute cancellation, which is party visible within the recording.
+
+In this installment of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://twitter.com/vesajuvonen) (Microsoft) | @vesajuvonen and [Waldek Mastykarz](https://twitter.com/waldekm) (Microsoft) | @waldekm focused on the upcoming conferences and their previous experiences on the in-person events across the world. No visitor in this episode due to an unfortunate last minute cancellation, which is party visible within the recording.
 
 ## Topics discussed in this session
 
@@ -60,10 +60,10 @@ This session was recorded on Monday, February 28, 2023.
 
 *   Video at [Microsoft 365 Community YouTube channel.](https://aka.ms/m365pnp-videos)
     {{< youtube vHJOsHhWXNs >}}
-*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/) 
-    {{< podbean pb-tdkub-13a78bc >}}   
+*   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
+    {{< podbean pb-tdkub-13a78bc >}}
 
-These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
+These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_
 
 Here are all the links and people mentioned in this recording. Thanks, everyone for your contributions to the community!
 
@@ -103,7 +103,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [M365 Community Days - Women in Tech 2023](https://www.communitydays.org/event/2023-03-03/m365-community-days-women-in-tech-2023) - March 3, 2023 - Virtual
 * [Global Power Platform Bootcamp Nairobi 2023](https://www.communitydays.org/event/2023-03-04/global-power-platform-bootcamp-nairobi-2023#home) - March 4, 2023 - Nairobi, Kenya
 * [Globa AI Bootcamp 2023](https://www.communitydays.org/event/2023-03-10/global-ai-bootcamp-2023) - March 10-11, 2023 - Virtual
-* [Microsoft Dynamics ERP Finance & Supply Chain Community Summit](https://www.communitydays.org/event/2023-03-11/dynamics-365-finance-and-supply-chain-summit) - March 11, 2023 - Lisbon, Portugal
+* Microsoft Dynamics ERP Finance & Supply Chain Community Summit - March 11, 2023 - Lisbon, Portugal
 * [DynamicsCon Virtual](https://www.communitydays.org/event/2023-03-15/dynamicscon-virtual) - March 15-16, Virtual
 * [Modern Workplace Conference Paris](https://modern-workplace.pro/) - March 27-29, 2023 - Paris, France
 * [Dynamics Power Israel](https://www.communitydays.org/event/2023-03-30/dynamics-power-israel) - March 30, 2023 - Tel Aviv, Israel
@@ -128,7 +128,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Microsoft Ignite 2023](https://ignite.microsoft.com/) - November 15-16, 2023
 * [CollabDays Lisbon 2023](https://www.collabdays.org/2023-lisbon/) - November 25, 2023 - Lisbon, Portugal
 * [European SharePoint, Office 365 & Azure Conference 2023](https://www.sharepointeurope.com/) - November 27-30 - Amsterdam, Netherlands
-* [AMS Aachen](https://www.communitydays.org/event/2023-11-28/ams-aachen) - November 28, 2023 - Aachen, Germany
+* [AMS Aachen](https://www.communitydays.org/event/2023-11-16/ams-aachen) - November 16, 2023 - Aachen, Germany
 * [European Cloud Summit](https://www.cloudsummit.eu/) - December 4-6, 2023 - Wiesbaden, Germany
 
 ## Additional resources
@@ -139,4 +139,3 @@ Here are the upcoming events from the centralized [Community Days site](https://
 If you’d like to hear from a specific community member in an upcoming recording and/or have specific questions for Microsoft 365 engineering or visitors – please let us know. We will do our best to address your requests or questions.
 
 _"Sharing is caring!"_ 🧡
-

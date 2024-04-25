@@ -9,7 +9,7 @@ images:
   - images/05-site-tenant-scoped-spfx-solution.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
+  - Microsoft Viva
   - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
@@ -45,7 +45,7 @@ Here’s how the scope impacts the solution deployment
 -	Site scoped deployment – Components in the solution are only available in the sites where the solution is explicitly installed after it has been deployed to the tenant app catalog
 -	Tenant wide deployment - Compoents in the solution are immediately available across the tenant when the solution is deployed to app catalog
 
-In general, most of the SPFx solutions are nowadays deployed using the tenant scoped deployment option as it makes sure that the features and capabilities are immediately available as they are deployed to app catalog by the administrator. 
+In general, most of the SPFx solutions are nowadays deployed using the tenant scoped deployment option as it makes sure that the features and capabilities are immediately available as they are deployed to app catalog by the administrator.
 
 You can control this setting by using `skipFeatureDeployment setting` in the `package-solution.json`. The name of this setting is quite confusing and has longer historical reason (see FAQ section for details). When the setting is `true`, SPFx solution is scoped at the tenant level with visual indication on this for the administrator as part of the solution deployment.
 
@@ -54,7 +54,7 @@ It’s important to notice that regardless of the deployment scope – if you ar
 
 See following article for more details on the tenant scope deployment
 
-- [Tenant-scoped solution deployment for SharePoint Framework solutions](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/tenant-scoped-deployment)
+- [Tenant-scoped solution deployment for SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/tenant-scoped-deployment)
 
 Here's a bit [outdated video](https://www.youtube.com/watch?v=pemHOZCSwZI) on using the tenant scoped deployment of the SPFx solutions - User interface elements have evolved a bit, but the basic steps are still exactly the same.
 
@@ -62,26 +62,26 @@ Here's a bit [outdated video](https://www.youtube.com/watch?v=pemHOZCSwZI) on us
 
 ## Frequent questions around tenant scoped deployment
 
-**Why is the setting called skipFeatureDeployment?** 
+**Why is the setting called skipFeatureDeployment?**
 
-This is due the historical reasons and has reference to the classic SharePoint feature framework. When a solution is site scoped, it can use [feature framework xml elements to automatically provisioning assets](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/provision-sp-assets-from-package) to the site when solution is being installed. 
+This is due the historical reasons and has reference to the classic SharePoint feature framework. When a solution is site scoped, it can use [feature framework xml elements to automatically provisioning assets](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/provision-sp-assets-from-package) to the site when solution is being installed.
 
 So the initial naming was refering to this behaviour - are you looking to skip the feature feature deployment and simply have the solution deployed automatically. Due the backward compatibility reasons, we have not updated the name of this setting, but it's indeed quite confusion.
 
 How about having attribute called `tenant-scoped-deployment` with boolean value... yes. That's how it should be. Maybe we'll update this in future SPFx versions and have support for both.
 
 
-**Does the scope impact SPFx solution used outside of SharePoint** 
+**Does the scope impact SPFx solution used outside of SharePoint**
 
-Not really and by default it’s good practice to use the tenant scoped option for these to avoid any scope related issues. This will ensure that SPFx powered extensibility for Microsoft Teams, Microsoft Viva, Outlook and Microsoft 365 app (Office) will work without issues. 
+Not really and by default it’s good practice to use the tenant scoped option for these to avoid any scope related issues. This will ensure that SPFx powered extensibility for Microsoft Teams, Microsoft Viva, Outlook and Microsoft 365 app (Office) will work without issues.
 
 Technically there are options to use site scope option with these scenarios as well, but additional value of that is limited.
 
-**I’d like to get my extensions also available automatically in the tenant – how would this work?** 
+**I’d like to get my extensions also available automatically in the tenant – how would this work?**
 
-You’d combine the tenant scoped deployment and tenant wide deployment of extensions feature. We will cover this option in more detailed for extensions in upcoming blog post. 
+You’d combine the tenant scoped deployment and tenant wide deployment of extensions feature. We will cover this option in more detailed for extensions in upcoming blog post.
 
-**I'm using tenant scope deployment with Microsoft Graph APIs - will components be visible for end users before the API requests are approved?** 
+**I'm using tenant scope deployment with Microsoft Graph APIs - will components be visible for end users before the API requests are approved?**
 
 This is an interesting question. It's quite common that you'd combine tenant scope deployment with solutions which are asking API permissions. API permissions are granted for the SPFx solution after the solution has been activated. This does mean that there's a timeframe in the deployment, when the components in the solution are already exposed for example in the web part picker, but if the API approval has not yet happened, they would not work properly.
 
@@ -95,7 +95,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 
