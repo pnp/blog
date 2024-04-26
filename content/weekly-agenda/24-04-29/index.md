@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 29th of April 2024 week
-date: 2024-04-20T02:52:33.116Z
+date: 2024-04-26T02:52:33.116Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -32,7 +32,7 @@ This is the agenda for the upcoming week:
 Demos this time
 
 * [Cathy Dew](https://www.linkedin.com/in/cathyowendew/) (Microsoft) - Introduction to new SharePoint Brand Center - Custom Fonts as more
-* [ Dewain Robinson ](https://www.linkedin.com/in/dewain-robinson-6ba8932/) (Microsoft) - Copilot Studio
+* [Dewain Robinson ](https://www.linkedin.com/in/dewain-robinson-6ba8932/) (Microsoft) - How to leverage Actions and Dynamic Chaining with Copilot Studio to optimize your custom Copilot
 * [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) (Microsoft) - Demystifying Microsoft Graph Connectors
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -98,8 +98,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [SharePoint: How to Use Markdown Syntax in Text Web Part](https://pnp.github.io/blog/post/how-to-use-markdown-syntax-in-text-web-part/) - [Tetsuya Kawahara](https://www.linkedin.com/in/tetsuya-kawahara-730498180/)
 * [Microsoft 365 PnP Weekly - Episode 246 - Simon Doy](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-246/) with [Simon Doy](https://www.linkedin.com/in/simondoy/) (iThink)
-
+* [Dynamic Stream (on SharePoint) video playback in PowerApps](https://pnp.github.io/blog/post/dynamic-stream-on-sharepoint-video-playback-in-powerapps/) - [Anand Vijayaragavan](https://www.linkedin.com/in/anand-vijayaragavan-89443012/) (BE-terna Sweden)
 
 
 ---
@@ -108,8 +109,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 25th of April, 2024](https://www.youtube.com/watch?v=2wpalXv2bOI)
 * [Microsoft 365 & Power Platform weekly call – 23rd of April, 2024](https://www.youtube.com/watch?v=LOTGxag6H6I)
-
 
 ---
 
@@ -149,9 +150,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Comms VNext](https://www.communitydays.org/event/2024-04-23/comms-vnext) - April 23-25, 2024 - Denver, CO, USA
-* [Dynaway CONNECT](https://www.communitydays.org/event/2024-04-23/dynaway-connect) - April 23-25, 2024 - Greenviile, USA
-* [AMS Papeete](https://www.communitydays.org/event/2024-04-25/ams-papeete) - April 25, 2024 - Tahiti, French Polyseia
 * [BizApps-Palooza](https://www.communitydays.org/event/2024-04-26/bizapps-palooza-2024) - April 26-27, 2024 - Toronto, Canada
 * [D365 Summit 2024](https://www.communitydays.org/event/2024-04-26/dynamics-365-summit-2024) - April 26-27, 2024 - Lisbon, Portugal
 * [AMS Noumea](https://www.communitydays.org/event/2024-04-30/ams-noumea) - April 30, 2024 - Nouméa, New Caledonia
