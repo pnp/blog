@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v7.7
-date: 2024-04-30T08:00:00.000Z
+date: 2024-04-30T06:00:00.000Z
 author: Arjun Menon
 githubname: arjunumenon
 categories:
