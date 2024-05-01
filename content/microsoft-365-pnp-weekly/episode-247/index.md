@@ -6,11 +6,11 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-246-promo.png
+- images/pnp-weekly-247-promo.png
 tags: []
 videos:
 - https://www.youtube.com/watch?v=l1raA3YDnfA
-draft: true
+draft: false
 ---
 
 In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Simon Hudson](https://twitter.com/simonjhudson), MVP.
@@ -60,12 +60,15 @@ We did not cover any new videos or articles as the show was recorded advance due
 
 ## Microsoft articles
 
+-
 
 ## Community articles
 
+-
 
 ## Videos
 
+-
 
 ## Samples
 
@@ -75,7 +78,6 @@ Check out all cool samples from community and from Microsoft. You can access all
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
-* [AMS Noumea](https://www.communitydays.org/event/2024-04-30/ams-noumea) - April 30, 2024 - Nouméa, New Caledonia
 * [DynamicsCon LIVE](https://www.communitydays.org/event/2024-05-13/dynamicscon-live) - May 14-16, 2024 - Denver, CO, USA
 * [IM Tech Summit Europe 2024](https://www.communitydays.org/event/2024-05-15/im-tech-summit-europe-2024), May 15, 2024 - Brighton, UK
 * [M365 Philly](https://www.communitydays.org/event/2024-05-18/m365-philly-2024) - May 18, 2024 - Malvern (Philadelphia), USA
