@@ -1,17 +1,16 @@
 ---
 title: Weekly Agenda - 6th of May 2024 week
-date: 2024-05-02T08:37:13.497Z
+date: 2024-05-03T08:37:13.497Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary19 .png
+  - images/weeklysummary19.png
 tags: []
 type: trending
 videos:
-  - https://www.youtube.com/watch?v=QcI2quaKaJo
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -31,9 +30,8 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Simran Ajwani](https://www.linkedin.com/in/simranajwani/) (Microsoft) – Microsoft 365 Search Connector in Power Platform 
+* [Nate Tennant](https://www.linkedin.com/in/nathantennant/) (Microsoft) – Enabling lightweight approvals in any SharePoint list for easy request tracking
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)  (Microsoft) – Introduction new Viva Connections card designer v2 experience
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -52,7 +50,6 @@ Demos this time
 * [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) - Automate SharePoint pages translation by leveraging Azure AI Translator service
 * [Warieta Gift Ejovwoke](https://www.linkedin.com/in/giftwarieta/) (Flutterwave) - Building an Estate Passcode generator app with Power Apps and Power Automate
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -63,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Avengers assemble...simpler checklists with Power Automate in Dynamics 365](https://www.youtube.com/watch?v=ZH0u0_XhRlY) by [Angeliki Patsiavou](https://www.linkedin.com/in/angeliki-patsiavou/) (Avanade)
 * [Manage, secure, and search content in SharePoint Embedded](https://www.youtube.com/watch?v=LxC6EvqnguI) by [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft)
 * [Employee Retention in Viva Engage](https://www.youtube.com/watch?v=okpUihm8Z7I)
 * [Building a Mindmap Teams Application with Fluid Framework](https://www.youtube.com/watch?v=Ic-CzJwZcZE) by [Peter Paul Kirschner](https://www.linkedin.com/in/petkir/) (cubido business solutions)
@@ -84,6 +82,8 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
+* [Mesh 201: Load a URL from a 3D asset](https://www.youtube.com/watch?v=6wnK16RCGZw) by [Megha Sharma](https://www.linkedin.com/in/meghashar/) (Microsoft)
+* [Where is the Microsoft 365 API?](https://www.youtube.com/watch?v=0rSTPGC9iYI) by [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft)
 * [Manage guest users with Teams Guest Overview](https://www.youtube.com/watch?v=oQai6vSmnvU) with [Dan Toft](https://www.linkedin.com/in/dan-toft/) (Evobis) and [Jeppe Spanggaard](https://www.linkedin.com/in/jeppe-spanggaard/) (Evobis)
 
 ---
@@ -112,6 +112,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 2nd of May 2024](https://www.youtube.com/watch?v=sGq7XSPAAew)
 * [Microsoft 365 & Power Platform weekly call – 30th of April, 2024](https://www.youtube.com/watch?v=TO35xJN9mxE)
 
 ---
@@ -144,9 +145,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [BizApps-Palooza](https://www.communitydays.org/event/2024-04-26/bizapps-palooza-2024) - April 26-27, 2024 - Toronto, Canada
-* [D365 Summit 2024](https://www.communitydays.org/event/2024-04-26/dynamics-365-summit-2024) - April 26-27, 2024 - Lisbon, Portugal
-* [AMS Noumea](https://www.communitydays.org/event/2024-04-30/ams-noumea) - April 30, 2024 - Nouméa, New Caledonia
 * [DynamicsCon LIVE](https://www.communitydays.org/event/2024-05-13/dynamicscon-live) - May 14-16, 2024 - Denver, CO, USA
 * [IM Tech Summit Europe 2024](https://www.communitydays.org/event/2024-05-15/im-tech-summit-europe-2024), May 15, 2024 - Brighton, UK
 * [M365 Philly](https://www.communitydays.org/event/2024-05-18/m365-philly-2024) - May 18, 2024 - Malvern (Philadelphia), USA
