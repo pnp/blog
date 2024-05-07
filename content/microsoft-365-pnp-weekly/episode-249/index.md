@@ -1,47 +1,46 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 247 - Simon Hudson"
-summary: "Owner, Director & MVP - Simon Hudson joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
-date: 2024-04-30T02:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 249 - Katerina Chernevskaya"
+summary: "Software architect & MVP - Katerina Chernevskaya joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
+date: 2024-05-14T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-247-promo.png
+- images/pnp-weekly-249-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=l1raA3YDnfA
-draft: false
+- https://www.youtube.com/watch?v=4EToddQCsc8
+draft: true
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Simon Hudson](https://twitter.com/simonjhudson), MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Katerina Chernevskaya](https://www.linkedin.com/in/katerinachernevskaya/), Software architect, MVP.
 
 ## In this episode
 
-- Who truly owns an intranet in an organization
-- Challenges of change management
-- The force behind change
-- Improving organizations through the maturity model
-- Why engage with the community
+- Katerina's journey in the community
+- How sharing your knowledge and experience makes the community a better place
+- The one trick to motivate yourself to learn new things
+- The state of AI on the Microsoft cloud
+- Have we changed how we learn?
 
 ## References
 
-- [Microsoft 365 community conference](https://m365conf.com/)
-- [Maturity model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+- [Sharing is caring](https://pnp.github.io/sharing-is-caring/)
+- [Power Platform samples GitHub repo](https://github.com/pnp/powerplatform-samples)
+- [Azure AI Studio](https://azure.microsoft.com/products/ai-studio/)
 - [European Collaboration Summit](https://collabsummit.eu)
 
 ## This week
 
-- **Simon** – evaluating innovation course for a university, finishing preps for a talk for ECS, updating maturity model, preparing user groups
-- **Waldek** – exploring new opportunities for Dev Proxy
-- **Vesa** – SPFx v1.19 release candidate is out, and shortly going GA, final preps for M365 conf
+- **Katerina** – preparing for upcoming sessions, finalizing documentation for projects
+- **Waldek** – learning C#, extending CLI for Microsoft 365 with support for SPFx v1.19
+- **Vesa** – preparing for ECS
 
 ## Agenda items
 
-[00:00](https://www.youtube.com/watch?v=l1raA3YDnfA&t=0s) – Intro
+[00:00](https://www.youtube.com/watch?v=4EToddQCsc8&t=0s) – Intro
 
-[01:49](https://www.youtube.com/watch?v=l1raA3YDnfA&t=94s) – Interview
-
-[1:13:37](https://www.youtube.com/watch?v=l1raA3YDnfA&t=2850s) – Closing
+[01:49](https://www.youtube.com/watch?v=4EToddQCsc8&t=87s) – Interview
 
 ## Action requested
 
@@ -52,11 +51,11 @@ This session was recorded on Monday 22nd of April. Session was published on Tues
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/community/youtube)
     {{< youtube l1raA3YDnfA >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-    {{< podbean pb-jas3z-15f6813 >}}
+    {{< podbean pb-2jequ-1606b45 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
-We did not cover any new videos or articles as the show was recorded advance due to the [Microsoft 365 Community Conference](https://m365conf.com) at Orlando.
+We did not cover any new videos or articles as the show was recorded advance due to the [European Collaboration Summit](https://collabsummit.eu) at Wiesbaden.
 
 ## Microsoft articles
 
