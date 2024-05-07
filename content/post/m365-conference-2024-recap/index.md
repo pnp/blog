@@ -9,14 +9,14 @@ categories: ["Community post"]
 images:
 - images/M365Con-letters.jpg
 # don't change
-tags: []
+tags: ["Community","Conferences","Microsoft 365"]
 # don't change
 type: "regular"
 ---
 
 [Original Post](https://unsuckm365.com/2024/05/02/my-microsoft-365-conference-recap-may-2024-edition)
 
-Back in 2022 I attended the [Microsoft 365 Conference](https://m365conf.com/) (the first after the pandemic hit us) and wrote my [first blog post](https://unsuckm365.com/2022/04/16/the-microsoft-365-conference-and-how-you-owe-it-to-yourself-going-to-the-next-one/) about it. My manager at the time told me I needed to improve my branding and coming back from it, I felt on fire. After many years of taking training and neglecting in-person events, I knew I had finally met my people and I decided to dig into this community that embraced me so quickly from day one. And I kept coming to every single one of them, and eventually I even started presenting at [M365 Community Days](https://www.communitydays.org/) myself, though nothing to this size. Nonetheless, things felt new and exciting for a while but then... they sort of weren't. Until this week.
+Back in 2022 I attended the [Microsoft 365 Conference](https://m365conf.com/) (the first after the pandemic hit us) and wrote my [first blog post](https://unsuckm365.com/2022/04/16/the-microsoft-365-conference-and-how-you-owe-it-to-yourself-going-to-the-next-one/) about it. My manager at the time told me I needed to improve my branding and coming back from it, I felt on fire. After many years of taking training and neglecting in-person events, I knew I had finally met my people and I decided to dig into this community that embraced me so quickly from day one. And I kept coming to every single one of them, and eventually I even started presenting at [M365 Community Days](https://www.communitydays.org/) myself, though nothing of this size. Nonetheless, things felt new and exciting for a while but then... they sort of weren't. Until this week.
 
 ## Holy Conference!
 
