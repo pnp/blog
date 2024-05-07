@@ -1,47 +1,49 @@
 ---
-title: "Microsoft 365 PnP Weekly - Episode 247 - Simon Hudson"
-summary: "Owner, Director & MVP - Simon Hudson joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
-date: 2024-04-30T02:00:01-00:00
+title: "Microsoft 365 PnP Weekly - Episode 248 - Ami Diamond"
+summary: "Consultant & MVP - Ami Diamond joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
+date: 2024-05-07T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-247-promo.png
+- images/pnp-weekly-248-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=l1raA3YDnfA
+- https://www.youtube.com/watch?v=YG3kLrE8jrg
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Simon Hudson](https://twitter.com/simonjhudson), MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Ami Diamond](https://twitter.com/), SharePoint consultant, MVP.
 
 ## In this episode
 
-- Who truly owns an intranet in an organization
-- Challenges of change management
-- The force behind change
-- Improving organizations through the maturity model
-- Why engage with the community
+- Ami's journey to becoming an MVP
+- The importance of sharing experience in the community
+- Sharing experience in local vs. global communities
+- Tips for successfully introducing new tools in organizations
+- How does Microsoft 365 consultancy look like in Israel
+- Facilitating collaboration on Microsoft 365
 
 ## References
 
-- [Microsoft 365 community conference](https://m365conf.com/)
-- [Maturity model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
-- [European Collaboration Summit](https://collabsummit.eu)
+- [SharePoint Wizard (Ami's YouTube channel)](https://www.youtube.com/@SharePointWizard)
+- [European Collab Summit](https://collabsummit.eu)
 
 ## This week
 
-- **Simon** – evaluating innovation course for a university, finishing preps for a talk for ECS, updating maturity model, preparing user groups
-- **Waldek** – exploring new opportunities for Dev Proxy
-- **Vesa** – SPFx v1.19 release candidate is out, and shortly going GA, final preps for M365 conf
+- **Ami** – working on projects, trainings, and regular customer engagements, planning recording new videos
+- **Waldek** – extending CLI for Microsoft 365 with support for SPFx v1.19, exploratory work around integrating Dev Proxy and LLMs
+- **Vesa** – preparing for ECS, working on some more announcements
 
 ## Agenda items
 
-[00:00](https://www.youtube.com/watch?v=l1raA3YDnfA&t=0s) – Intro
+[00:00](https://www.youtube.com/watch?v=YG3kLrE8jrg&t=0s) – Intro
 
-[01:49](https://www.youtube.com/watch?v=l1raA3YDnfA&t=94s) – Interview
+[01:10](https://www.youtube.com/watch?v=YG3kLrE8jrg&t=70s) – Interview
 
-[1:13:37](https://www.youtube.com/watch?v=l1raA3YDnfA&t=2850s) – Closing
+[46:40](https://www.youtube.com/watch?v=YG3kLrE8jrg&t=2800s) – Articles
+
+[1:05:05](https://www.youtube.com/watch?v=YG3kLrE8jrg&t=3905s) – Closing
 
 ## Action requested
 
@@ -50,13 +52,11 @@ Please remember to keep on providing us feedback on how we can help on this jour
 This session was recorded on Monday 22nd of April. Session was published on Tuesday 23rd of April, 2024.
 
 *   Video at [Microsoft 365 & Power Platform Community YouTube channel.](https://aka.ms/community/youtube)
-    {{< youtube l1raA3YDnfA >}}
+    {{< youtube YG3kLrE8jrg >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-    {{< podbean pb-jas3z-15f6813 >}}
+    {{< podbean pb-8wbgg-1605bc8 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
-
-We did not cover any new videos or articles as the show was recorded advance due to the [Microsoft 365 Community Conference](https://m365conf.com) at Orlando.
 
 ## Microsoft articles
 
