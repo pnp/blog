@@ -41,11 +41,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Power Platform monthly Community Call - 17th of April
+### Power Platform monthly Community Call - 15th of May
 
 Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-* Wednesday, 17th of April, 8:00 AM PT / 4:00 PM GMT
+* Wednesday, 15th of May, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
 
@@ -133,9 +133,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft 365 & Power Platform weekly call – 7th of May, 2024](https://www.youtube.com/watch?v=eT97wr15x2k)
-* 
-* [Viva Connections and SharePoint Framework community call 2nd of May 2024](https://www.youtube.com/watch?v=sGq7XSPAAew)
-* [Microsoft 365 & Power Platform weekly call – 30th of April, 2024](https://www.youtube.com/watch?v=TO35xJN9mxE)
+
 
 ---
 
