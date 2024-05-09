@@ -22,9 +22,9 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 13th of May
+### Microsoft 365 & Power Platform weekly call - 14th of May
 
-* Tuesday, 13th of May 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 14th of May 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
