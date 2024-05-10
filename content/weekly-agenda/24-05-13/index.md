@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 13th of May 2024 week
-date: 2024-05-09T11:54:53.470Z
+date: 2024-05-10T02:54:53.470Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -86,6 +86,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [Office collaboration, file previews, and content discovery with SharePoint Embedded](https://www.youtube.com/watch?v=g_caVYNkBA4) by [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft)
 * [Modernizing SharePoint version history with custom SPFx solution](https://www.youtube.com/watch?v=ThXs8DV5hIg) by [Dan Toft](https://linkedin.com/in/dan-toft) (Evobis)​ and [Tobias Maestrini](https://linkedin.com/in/tobiasmaestrini)
 * [Introduction to section backgrounds in SharePoint](https://www.youtube.com/watch?v=h78qhsop-rc) by [Yi Han](https://linkedin.com/in/yi-han-36024a96) (Microsoft) 
 * [Introduction to CLI for Microsoft 365](https://www.youtube.com/watch?v=LilaTreXvwo) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) 
@@ -132,6 +133,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 9th of May, 2024](https://www.youtube.com/watch?v=8y0P9CstqCc)
 * [Microsoft 365 & Power Platform weekly call – 7th of May, 2024](https://www.youtube.com/watch?v=eT97wr15x2k)
 
 
