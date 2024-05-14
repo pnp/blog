@@ -13,7 +13,7 @@ videos:
 draft: true
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Katerina Chernevskaya](https://www.linkedin.com/in/katerinachernevskaya/), Software architect, MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Katerina Chernevskaya](https://www.linkedin.com/in/katerinachernevskaya/), Software architect, MVP. 
 
 ## In this episode
 
