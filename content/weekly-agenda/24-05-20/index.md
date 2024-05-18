@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 20th of May 2024 week
-date: 2024-05-16T12:05:29.723Z
+date: 2024-05-18T02:05:29.723Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -62,6 +62,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
+* [hink Copilot with Vardhaman Deshpande](https://www.youtube.com/watch?v=3mopChq_4U8) with [Vardhaman Deshpande](https://www.linkedin.com/in/vardhamand/) (Advania)
+* [Enabling frontline workers with Power Platform, Azure IoT Central, Azure OpenAI, Python and Teams](https://www.youtube.com/watch?v=tKXuXmYUjOQ) by [Sanjiv Venkatram](https://www.linkedin.com/in/sanjiv-venkatram/) (Prudentia Consulting)
+* [Viva Engage Deep Dive into Multi-Tenant Organizations](https://www.youtube.com/watch?v=4RxHzwYGRqk) by [Allison Michels](https://www.linkedin.com/in/michelsallison/) (Microsoft), [Audrey Hosford](https://www.linkedin.com/in/audrey-hosford-08379322/) (Microsoft) & [Raj Jain](https://www.linkedin.com/in/jain--raj/) (Microsoft)
 * [Calling Microsoft Graph APIs from bot powered Viva Connection ACEs](https://www.youtube.com/watch?v=RcItMXeKlL0) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys)
 * [Think Copilot with Albert-Jan Schot](https://www.youtube.com/watch?v=cYYKhWZqsVM) with [Albert-Jan Schot ](https://www.linkedin.com/in/albertjanschot/) (Blis Digital)
 * [Billing experiences with SharePoint Embedded](https://www.youtube.com/watch?v=A5PZjJz-97c) by [Akanksha Rakesh](https://www.linkedin.com/in/akanksharakesh/) (Microsoft)
@@ -72,14 +75,13 @@ Update of the newly published videos in our YouTube channel [Microsoft 365 & Pow
 * [Think Copilot with Paolo Pialorsi](https://www.youtube.com/watch?v=VYp9bmU9Sto) with [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys)
 * [Think Copilot with Ejaz Hussain](https://www.youtube.com/watch?v=4nXPHn0CYVM) with [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK)
 
-
-
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Use a category classification custom model in Power Automate | GSW Power Shorts](https://www.youtube.com/watch?v=zgzpUylhaLQ)
 
-
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
+
+- No new videos here
 
 ---
 
@@ -87,6 +89,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [New capabilities for Microsoft Graph APIs for Teams meetings with external attendees](https://devblogs.microsoft.com/microsoft365dev/new-capabilities-for-microsoft-graph-apis-for-teams-meetings-with-external-attendees/) by Benjamin Olson (Microsoft)
+* [Device Permission Prompt API available for Office Add-ins on the web](https://devblogs.microsoft.com/microsoft365dev/device-permission-prompt-api-available-for-office-add-ins/) by [Ester Bergen](https://www.linkedin.com/in/esterbergen/) (Microsoft)
 * [Announcing backward compatibility with Microsoft Graph PowerShell v2.19](https://devblogs.microsoft.com/microsoft365dev/announcing-backward-compatibility-with-microsoft-graph-powershell-v2-19//) by Carol Mbasinge Kigoonya (Microsoft)
 * [Curating a collection of free Microsoft Copilot prompts](https://devblogs.microsoft.com/microsoft365dev/curating-a-collection-of-free-microsoft-copilot-prompts/) by [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/) (Microsoft)
 * [Retiring SharePoint Framework domain isolated web parts for SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/retiring-sharepoint-framework-domain-isolated-web-parts-for-sharepoint-online/) by [Bert Jansen](https://www.linkedin.com/in/bertjansen/) (Microsoft)
@@ -106,6 +110,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 16th of May 2024](https://www.youtube.com/watch?v=UYiCMs61GH8)
 * [Microsoft Power Platform community call – May 2024](https://www.youtube.com/watch?v=gThxicsU4uw)
 * [Microsoft 365 & Power Platform weekly call – 14th of May, 2024](https://www.youtube.com/watch?v=PZCFH70kZ8I)
 
@@ -135,6 +140,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference/) - June 11-13, 2024 - Brussels, Belgium
 * [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) - September 18-20 - Las Vegas, NV, USA
+* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - November 18-22, 2024
 * [ESPC](https://www.sharepointeurope.com/) - December 2-5, 2024, Stockholm, Sweden
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
