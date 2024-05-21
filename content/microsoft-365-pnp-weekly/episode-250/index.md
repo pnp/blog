@@ -6,7 +6,7 @@ author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
 images:
-- images/pnp-weekly-50-promo.png
+- images/pnp-weekly-250-promo.png
 tags: []
 videos:
 - https://www.youtube.com/watch?v=08WzEbHDvPE
