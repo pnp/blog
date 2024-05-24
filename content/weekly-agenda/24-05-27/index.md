@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 27th of May 2024 week
-date: 2024-05-23T12:55:40.388Z
+date: 2024-05-24T02:55:40.388Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -38,7 +38,6 @@ Also: 📷 Picture Time with community in Together Mode!
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 
-
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 30th of May
 
 * Thursday, 30th of May2024, 7:00 AM PT / 2:00 PM GMT
@@ -59,8 +58,23 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ## New videos 
 
-Update of the newly published videos in our YouTube channel [Microsoft 365 & Power Platform Community](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
+Initial list of Microsoft 365 Conference videos from Orlando
 
+* [Keynote: The Age of Copilots](https://www.youtube.com/watch?v=6Y3N8RmMYWQ) - [Jeff Teper](https://www.linkedin.com/in/jeffteper/) (Microsoft)
+* [Delivering Business Value and User Satisfaction in the Era of AI](https://www.youtube.com/watch?v=lcgEQFuA8n8) - [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu/) (Microsoft)
+* [Content Management and Collaboration for the AI Era](https://www.youtube.com/watch?v=TwJjRhnDhbg) - [Zach Rosenfield](https://www.linkedin.com/in/zrosenfield/) (Microsoft), [Lincoln DeMaris](https://www.linkedin.com/in/lincoln-demaris-2950439/) (Microsoft), [Melissa Torres](https://www.linkedin.com/in/melissa-torres-177b0814/) (Microsoft), [Sesha Mani](https://www.linkedin.com/in/seshamani/) (Microsoft) & [Ashu Rawat](https://www.linkedin.com/in/ashurawat/) (Microsoft)
+* [Reshaping productivity with Copilot for Microsoft 365](https://www.youtube.com/watch?v=wz8l4_ndXT8) - [Bobby Kishore](https://www.linkedin.com/in/bobby-kishore-502b/) (Microsoft) & [Dan Parish](https://www.linkedin.com/in/danparish/) (Microsoft)
+* [The future of work with Microsoft Teams](https://www.youtube.com/watch?v=54gP4BPpvOM) - [Manik Gupta](https://www.linkedin.com/in/manikg/) (Microsoft) & [Sumi Singh](https://www.linkedin.com/in/sumi-singh-61718861/) (Microsoft)
+* [What's new and next for Microsoft Viva and the Employee Experience](https://www.youtube.com/watch?v=YImQSp2ciBQ) - [Kirk Gregersen](https://www.linkedin.com/in/kirk-gregersen-3b13311/) (Microsoft), [Kristi Kelly](https://www.linkedin.com/in/kristikelly91/) (Microsoft) & [Nick DeFalco](https://www.linkedin.com/in/nickdefalco/) (Microsoft)
+* [Transforming Communications with AI](https://www.youtube.com/watch?v=WetuVKGc6h0) - [Steve Clayton](https://www.linkedin.com/in/stevecla/) (Microsoft)
+* [Planning a corporate communications strategy with SharePoint News and Viva Amplify](https://www.youtube.com/watch?v=KDLItMTdMCg) - [Dave Cohen](https://www.linkedin.com/in/davidmcohen3000/) (Microsoft), [Naomi Moneypenny](https://www.linkedin.com/in/moneypenny/) (Microsoft) & [Maeneka Grewal](https://www.linkedin.com/in/maeneka/) (Microsoft)
+* [Leveraging AI for communications](https://www.youtube.com/watch?v=IOeQeUZ9pCA) - [Kristi Kelly](https://www.linkedin.com/in/kristikelly91/) (Microsoft), [Erin Rosenthal](https://www.linkedin.com/in/erinrosenthal/) (Microsoft) & [Allison Michels](https://www.linkedin.com/in/michelsallison/) (Microsoft)
+* [How Microsoft is transforming communications & engagement](https://www.youtube.com/watch?v=Pcg5vJ3auCA) - [John Cirone](https://www.linkedin.com/in/johncirone/) [Microsoft]
+
+
+Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
+
+* [Tooling for creating your List Formatting JSON definitions with HTML and style definition](https://www.youtube.com/watch?v=SM4q-Xe_vL4) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
 * [Building personalized content ACE for Viva Connections based on user profile attributes](https://www.youtube.com/watch?v=Lfb-gvQawkE) by [Eric Scherlinger](https://www.linkedin.com/in/ericsche/) (Microsoft)
 * [Maturity Model for Microsoft 365 - May 2024](https://www.youtube.com/watch?v=nRKoTdKCdO8)
 * [Build real-time, collaborative apps with Fluid on SharePoint Embedded](https://www.youtube.com/watch?v=t1ZPKR7iEJI) by [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft)
@@ -102,7 +116,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-
+* [Microsoft Graph Webhooks - What, Why, How & Best Practices](https://pnp.github.io/blog/post/microsoft-graph-webhook-delta-query/) by [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
 * [Microsoft 365 PnP Weekly - Episode 250 - Paul Keijzers](https://pnp.github.io/blog/microsoft-365-pnp-weekly/episode-250/) with [Paul Keijzers](https://www.linkedin.com/in/paulkeijzers-sharepoint-specialist-teams-expert/)
 
 ---
@@ -111,8 +125,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 23rd of May 2024](https://www.youtube.com/watch?v=v2yMnOgDxAA)
 * [Microsoft 365 & Power Platform weekly call – 21st of May, 2024](https://www.youtube.com/watch?v=Upi8sNidmuE)
-
 
 ---
 
@@ -132,22 +146,18 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ---
 
-
 ## Upcoming events
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
 * [European Power Platform Conference](https://www.sharepointeurope.com/european-power-platform-conference/) - June 11-13, 2024 - Brussels, Belgium
 * [Microsoft Power Platform Conference](https://powerplatformconf.com/#!/) - September 18-20 - Las Vegas, NV, USA
-* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - November 18-22, 2024
+* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - November 18-22, 2024, Chicago, IL, USA
 * [ESPC](https://www.sharepointeurope.com/) - December 2-5, 2024, Stockholm, Sweden
+* [European Collaboration Summit 2025](https://collabsummit.eu/) - May 26-28, 2025, Düsseldorf, Germany
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
-* [Americas SharePoint Intrabet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
-* [EMEA SharePoint Intranet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
-* [APAC SharePoint Intranet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
 * [DynamicsMinds 2024](https://www.communitydays.org/event/2024-05-27/dynamicsminds-2024) - May 27-29, 2024 - Portorož, Slovenia
 * [Dynug Spring Conference](https://www.communitydays.org/event/2024-05-28/dynug-spring-conference) - May 28, 2024 -   Oslo, Norway
 * [BECONNECTED DAY 12 - COLLABDAYS ITALY 2024](https://www.communitydays.org/event/2024-05-30/beconnected-day-12-collabdays-italy-2024) - May 30, 2024 - Milan, Italy
