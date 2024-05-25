@@ -24,18 +24,18 @@ Just check out the features list 👇 it's a looot 🤯.
 
 ![features](images/features.png)
 
-And now it just got bit smarter 🤩. In the latest pre-release (v3.2.1) we integrated it with GitHub Copilot Chat so that now you may use it as your SPFx assitant in chat that is tailored to provide you guidance and help with developing SharePoint Framework solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com.
-This is just a first step taken in this awesome new area and your tests and feedback are super important so that we may improve and move in the right direction 🚀. The team is doing all it's best to be at the very edge of the technology stack to provide you with best in class tooling to make your SharePoint Framework Development seamless and painless 😍... and yes we do not sleep 😴😉.
+And now it just got a bit smarter 🤩. In the latest pre-release (v3.2.1) we integrated it with GitHub Copilot Chat so that now you may use it as your SPFx assistant in chat that is tailored to provide you guidance and help with developing SharePoint Framework solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com.
+This is just a first step taken in this awesome new area and your tests and feedback are super important so that we may improve and move in the right direction 🚀. The team is doing all it's best to be at the very edge of the technology stack to provide you with best-in-class tooling to make your SharePoint Framework Development seamless and painless 😍... and yes we do not sleep 😴😉.
 
 Sounds cool 😎? Let’s have a deeper dive and check it in a bit more detail 👇
 
 ## 🧠💬 SPFx Toolkit in GitHub Copilot Chat
 
-Now with the latest pre-release of SPFx Toolkit (please also check other requirements described in the next chapter) you may now use @spfx and your dedicated SharePoint Framework Copilot 🤩 the same way you would be using GitHub Copilot in Chat. Just check it out 👇
+Now with the latest pre-release of SPFx Toolkit (please also check other requirements described in the next chapter) you may now use @spfx as your dedicated SharePoint Framework Copilot 🤩 the same way you would be using GitHub Copilot in Chat. Just check it out 👇
 
-![in action](images/chat-in-action.png)
+![in action](images/chat-in-action.gif)
 
-As you may see it is context aware. Provides you help tailored towards SharePoint Framework development and is part of SPFx Toolkit VS Code extension which means it may provide you clickable actions (buttons) in the response to run a dedicated functionality from the VS Code extension.
+As you may see it is context-aware. It provides you help tailored towards SharePoint Framework development and is part of SPFx Toolkit VS Code extension which means it may provide you clickable actions (buttons) in the response to run a dedicated functionality from the VS Code extension.
 
 ![actions](images/spfx-example4.png)
 
@@ -48,7 +48,7 @@ Besides standard chit-chat 😉 it comes along with 4 dedicated commands that yo
 
 ![code action](images/spfx-example1.png)
 
-The chat extension is fine-tuned using oficial Microsoft docs but also is aware of the Microsoft 365 and Power Platform activities and initatives. Check out how it respond to the prompt suggesting to use PnP SPFx React controls
+The chat extension is fine-tuned using official Microsoft docs but also is aware of the Microsoft 365 and Power Platform activities and initiatives. Check out how it responds to the prompt suggesting using PnP SPFx React controls
 
 ![using SPFx react controls](images/spfx-example2.png)
 
@@ -56,7 +56,7 @@ or here, where it suggested to use PnP JS functionality
  
 ![using pnpjs](images/spfx-example3.png)
 
-It's still in its early beta days and there are many things that might go wrong but we are already exited for this new oportunity and can't wait to see what you will be able to build with it🤩. Happy Coding!
+It's still in its early beta days and there are many things that might go wrong but we are already excited for this new opportunity and can't wait to see what you will be able to build with it🤩. Happy Coding!
 
 ## 🧪 It's triple BETA so how may I get it
 
@@ -72,11 +72,11 @@ Please refer to our [additional guidance to find out more](https://github.com/pn
 
 ## 🙏 Feedback
 
-We've just taken our first steps in this exiting new area to provide you best in class features that will help you create solutions using SharePoint Framework Development. We are simple developers that try to be at the very edge to provide you with the tooling you need to make your developer life easier. To help us in this journey your feedback is super important so that we are sure we moving in the right direction. As this feaatrue is in it's early beta days and there are many things that still need to be fine-tuned we would really appreciate if you could share with us you experience and feedback about this functionality leaving it in the [related GitHub Discussion](https://github.com/pnp/vscode-viva/discussions/241)
+We've just taken our first steps in this exciting new area to provide you best-in-class features that will help you create solutions using SharePoint Framework Development. We are simple developers who try to be at the very edge to provide you with the tooling you need to make your developer life easier. To help us in this journey your feedback is super important so that we are sure we are moving in the right direction. As this feature is in its early beta days and there are many things that still need to be fine-tuned we would really appreciate it if you could share with us your experience and feedback about this functionality leaving it in the [related GitHub Discussion](https://github.com/pnp/vscode-viva/discussions/241)
 
 ## 🗺️ Future roadmap
 
-We don't plan to stop, we are already thinking of more awesome featues we plan to deliver with v4 release. If you want to check what we are planning or add your own idea please [join the discussion](https://github.com/pnp/vscode-viva/discussions/159). Feedback is appreciated 👍.
+We don't plan to stop, we are already thinking of more awesome features we plan to deliver with v4 release. If you want to check what we are planning or add your own idea please [join the discussion](https://github.com/pnp/vscode-viva/discussions/159). Feedback is appreciated 👍.
 
 ## 👍 Power of the community
 
