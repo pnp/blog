@@ -26,7 +26,7 @@ We have just published a new minor version of CLI for Microsoft 365. [CLI for Mi
 
 ### New Search Command
 
-Nowadays searching for the right information is fundamental action that is an initial point to many flows, scripts or our day to day tasks. That is why we introduced a new `m365 search` command which is at the very root of our command hierachy. It laverages Mircosoft Graph search capabilities to retreivie information about almost any Microsoft 365 area.
+Nowadays searching for the right information is a fundamental action that many times is an initial point to flows, scripts, or our day-to-day tasks. That is why we introduced a new `m365 search` command that is at the very root of our command hierarchy. It leverages Mircosoft Graph search capabilities to retrieve information about almost any Microsoft 365 area.
 
 To search for all sites you may simply run:
 
@@ -34,13 +34,13 @@ To search for all sites you may simply run:
 m365 search --scopes 'site' --queryText 'site:\"https://contoso-my.sharepoint.com/personal/*\"'
 ```
 
-To query list items and sites that contain the string "accountt" and requests a spelling modification for the query, just use:
+To query list items and sites that contain the string "accountt" and request a spelling modification for the query, just use:
 
 ```sh
 m365 search --scopes 'listItem, site' --queryText 'accountt' --enableSpellingSuggestion --enableSpellingModification
 ```
 
-To search for file report.xlsl in specific folder of user personal OneDrive you may run the following:
+To search for file report.xlsl in a specific folder of user's personal OneDrive you may run the following:
 
 ```sh
 m365 search --scopes 'driveItem' --queryText 'filename:report.xlsl AND path:\"https://contoso-my.sharepoint.com/personal/john.doe_contoso_com/Documents/Reports/2024\"'
@@ -51,7 +51,7 @@ For more information check the following resources:
 
 ### Viva Engage Command
 
-We taken the first steps in introducing commands that will allow you to manage Viva Engage Communities and we introduced a get command to retrieve details about the specified community.
+We took the first steps in introducing commands that will allow you to manage Viva Engage Communities and we added a get command to retrieve details about the specified community.
 
 To get a specific community by ID. simply run:
 
@@ -64,7 +64,7 @@ For more information check the following resources:
 
 ### SharePoint Command
 
-Do you know what's better from removing list items from a SharePoint list? Removing them in a batch! In this release we added a command that will help you be more effective in exactly that.
+Do you know what's better than removing list items from a SharePoint list? Removing them in a batch! In this release, we added a command that will help you be more effective in exactly that.
 
 To remove a list of IDs from a list with a csv run:
 
@@ -77,7 +77,7 @@ For more information check the following resources:
 
 ### Entra Group Commands
 
-In this release we introduced new Entra commands that allow you to update role of a single or multiple users and a new command that retrieve all groups which the user is a member of. Let's check them out in action.
+In this release, we introduced new Entra commands that allow you to update role of a single or multiple users and a new command that retrieves all groups of which the user is a member of. Let's check them out in action.
 
 To update a single user specified by UPN to an owner of a group specified by display name, simpy run:
 
@@ -91,7 +91,7 @@ To update multiple users specified by UPN to owners of a group specified by ID y
 m365 entra group user set --groupId a03c0c35-ef9a-419b-8cab-f89e0a8d2d2a --userNames "john.doe@contoso.com,adele.vance@contoso.com" --role Owner
 ```
 
-To retrieve groups where the currently logged user is a member of, just run:
+To retrieve groups where the currently logged user is a member, just run:
 
 ```sh
 m365 entra user groupmembership list --userName '@meUserName'
@@ -107,7 +107,7 @@ Besides all these new commands, we've also made some changes to the existing com
 
 ### SharePoint Framework Commands
 
-We have extended the SharePoint Framework commands so that it supports the latest version of the SharePoint Framework which is `v1.19.0`. We've also updated the `spfx doctor` command to validate and suggest latest version of gulp-cli. For more information on the commands, refer to the documentation:
+We have extended the SharePoint Framework commands so that it supports the latest version of the SharePoint Framework which is `v1.19.0`. We've also updated the `spfx doctor` command to validate and suggest the latest version of gulp-cli. For more information on the commands, refer to the documentation:
 
 - [m365 spfx project upgrade](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade)
 - [m365 spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor)
@@ -115,7 +115,7 @@ We have extended the SharePoint Framework commands so that it supports the lates
 
 ### Outlook Command
 
-Thanks to latest update done to `outlook message list` command you may now query email from a given period of time.
+Thanks to the latest update done to `outlook message list` command you may now query email from a given period of time.
 Check out the documentation to find out more:
 
 - [m365 outlook message list](https://pnp.github.io/cli-microsoft365/cmd/outlook/message/message-list)
