@@ -9,13 +9,12 @@ images:
   - images/banner-cli-m365.png
 tags:
   - CLI for Microsoft 365
-  - Entra
+  - Entra ID
   - Search
   - Viva Engage
   - SharePoint Framework
   - SharePoint
 type: popular
-lastmod: 2024-04-29T06:01:46.698Z
 ---
 
 We have just published a new minor version of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
@@ -24,7 +23,7 @@ We have just published a new minor version of CLI for Microsoft 365. [CLI for Mi
  
 ## What's new
 
-### New Search Command
+### New search command
 
 Nowadays searching for the right information is a fundamental action that many times is an initial point to flows, scripts, or our day-to-day tasks. That is why we introduced a new `m365 search` command that is at the very root of our command hierarchy. It leverages Mircosoft Graph search capabilities to retrieve information about almost any Microsoft 365 area.
 
@@ -46,23 +45,23 @@ To search for file report.xlsl in a specific folder of user's personal OneDrive 
 m365 search --scopes 'driveItem' --queryText 'filename:report.xlsl AND path:\"https://contoso-my.sharepoint.com/personal/john.doe_contoso_com/Documents/Reports/2024\"'
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 - [m365 search](https://pnp.github.io/cli-microsoft365/cmd/search/)
 
-### Viva Engage Command
+### New Viva Engage command
 
-We took the first steps in introducing commands that will allow you to manage Viva Engage Communities and we added a get command to retrieve details about the specified community.
+We took the first steps in introducing commands that will allow you to manage your Viva Engage communities. We added a `get` command to retrieve details about a specific community.
 
-To get a specific community by ID. simply run:
+To get a specific community by ID, simply run:
 
 ```sh
 m365 viva engage community get --id eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI0Mjg1NzkwNjE3NyJ9
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 - [m365 viva engage community get](https://pnp.github.io/cli-microsoft365/cmd/viva/engage/engage-community-get/)
 
-### SharePoint Command
+### New SharePoint command
 
 Do you know what's better than removing list items from a SharePoint list? Removing them in a batch! In this release, we added a command that will help you be more effective in exactly that.
 
@@ -72,26 +71,26 @@ To remove a list of IDs from a list with a csv run:
 m365 spo listitem batch remove --filePath ./IDlist.csv --webUrl https://contoso.sharepoint.com/sites/project-x --listTitle "Demo List"
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 - [m365 spo listitem batch remove](https://pnp.github.io/cli-microsoft365/cmd/spo/listitem/listitem-batch-remove/)
 
-### Entra Group Commands
+### New Microsoft Entra ID group commands
 
-In this release, we introduced new Entra commands that allow you to update role of a single or multiple users and a new command that retrieves all groups of which the user is a member of. Let's check them out in action.
+In this release, we introduced new Entra ID commands that allow you to update the roles of single or multiple users and a new command that retrieves all groups of which the user is a member of. Let's check them out in action.
 
-To update a single user specified by UPN to an owner of a group specified by display name, simpy run:
+To update a single user specified by UPN to an owner of a group, simply run:
 
 ```sh
 m365 entra group user set --groupDisplayName Developers --userNames john.doe@contoso.com --role Owner
 ```
 
-To update multiple users specified by UPN to owners of a group specified by ID you may run the following:
+To update multiple users specified by UPN to owners of a group, you may run the following:
 
 ```sh
 m365 entra group user set --groupId a03c0c35-ef9a-419b-8cab-f89e0a8d2d2a --userNames "john.doe@contoso.com,adele.vance@contoso.com" --role Owner
 ```
 
-To retrieve groups where the currently logged user is a member, just run:
+To retrieve groups where the currently logged-in user is a member of, just run the following:
 
 ```sh
 m365 entra user groupmembership list --userName '@meUserName'
@@ -103,9 +102,9 @@ For more information check the following resources:
 
 ## What's changed
 
-Besides all these new commands, we've also made some changes to the existing commands. A few bugs have been fixed and the codebase has been polished. Changes includes the enhancement in [SharePoint Framework commands](#sharepoint-framework-commands), [Outlook command](#outlook-command) and [Power Automate command](#power-automate-command)
+Besides all these new commands, we've also made some changes to some existing commands. A few bugs have been fixed and the codebase has been polished. Changes includes the enhancement in [SharePoint Framework commands](#sharepoint-framework-commands), [Outlook commands](#outlook-commands) and [Power Automate commands](#power-automate-commands)
 
-### SharePoint Framework Commands
+### SharePoint Framework commands
 
 We have extended the SharePoint Framework commands so that it supports the latest version of the SharePoint Framework which is `v1.19.0`. We've also updated the `spfx doctor` command to validate and suggest the latest version of gulp-cli. For more information on the commands, refer to the documentation:
 
@@ -113,14 +112,14 @@ We have extended the SharePoint Framework commands so that it supports the lates
 - [m365 spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor)
 - [m365 spfx project doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-doctor)
 
-### Outlook Command
+### Outlook commands
 
-Thanks to the latest update done to `outlook message list` command you may now query email from a given period of time.
+Thanks to the latest update done to the `outlook message list` command, you may now retrieve messages within a specific time frame.
 Check out the documentation to find out more:
 
 - [m365 outlook message list](https://pnp.github.io/cli-microsoft365/cmd/outlook/message/message-list)
 
-### Power Automate Command
+### Power Automate commands
 
 We have extended the `flow run list` command with an additional option that now allows you to retrieve details about the flow trigger.
 Review the command documentation for more details:
@@ -161,7 +160,7 @@ We would like to give a big shoutout and high fives to the amazing individuals w
 - [Martin Löper](https://github.com/MartinLoeper)
 - [maheshpalle](https://github.com/maheshpalle)
 
-## Get Started Today!
+## Get started today!
 
 Experience the power of the CLI for Microsoft 365 by getting the latest release from npm:
 
@@ -175,10 +174,10 @@ Alternatively, you can access the latest release from Docker:
 docker run --rm -it m365pnp/cli-microsoft365:latest
 ```
 
-## Need More Information?
+## Need more information?
 
 For additional guidance on getting started or to explore detailed information about commands, architecture, or the project itself, visit [aka.ms/cli-m365](https://aka.ms/cli-m365).
 
-## Stay Connected!
+## Stay connected!
 
 We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
