@@ -26,6 +26,11 @@ This post will guide you on how to display approvers in the view.
 
 When the approval feature is enabled, columns such as `Approver Creator`, `Approvers`, and `Responses` are automatically created in addition to the `Approval status` column. However, these columns are not usually displayed in the view. By displaying these columns in the view, you can easily identify the approvers.
 
+To display these columns in the view:
+1. Select the name of the view shown in the upper right corner >  Select **Add or remove fields**
+1. Check the columns `Approver Creator`, `Approvers`, and `Responses`
+1. Select **Apply**
+
 ![Screenshot of edit view columns panel](./images/edit-view-columns-panel.png)
 
 ![Screenshot of the list with approvers displayed](./images/list-with-approvers.png)
@@ -61,6 +66,12 @@ When approving or rejecting, the users who approved or rejected are added to the
 When canceling, the `Approver Creator`, `Approvers`, and `Responses` columns are cleared.
 
 ![Video of the behavior when the approval is canceled](./images/behavior-cancel.gif)
+
+## Edit in Grid View
+
+When in edit in grid view, the `Approver Creator`, `Approvers`, `Responses`, and `Approval status` columns are read-only, and these columns cannot be edited.
+
+![Screenshot of the grid view](./images/grid-view.png)
 
 ## Advanced
 
