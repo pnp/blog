@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Lists: How to display approvers when using Approvals in Lists"
+title: "Microsoft Lists: How to display approvers on the view when using Approvals in Lists"
 date: 2024-05-30T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
