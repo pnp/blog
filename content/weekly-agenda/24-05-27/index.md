@@ -175,7 +175,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Community Summit North America 2024](https://www.communitydays.org/event/2024-10-13/community-summit-north-america-2024) - October 13-17, 2024 - San Antonio, Texas, United States
 * [Scottish Summit](https://www.communitydays.org/event/2024-10-16/scottish-summit-2024) - October 16-19, 2024 - Aberdeen, Scotland
 * [Power 365 2024 Edition 5](https://www.communitydays.org/event/2024-10-17/power-365-2024-edition-5) - October 17, 2024 - Lille, Hauts-de-France, France
-* [Collabdays New England](https://www.communitydays.org/event/2024-10-18/collabdays-new-england) - October 18-19, 2024 - Burlington, Massachusetts, United States
+* [Collabdays New England](https://www.communitydays.org/event/2024-10-18/collabdays-new-england) - October 18-19, 2024 - Burlington, Massachusetts, United States  
 * [Summit NA Roadshow - Houston](https://www.communitydays.org/event/2024-12-05/summit-na-roadshow-houston) - December 5, 2024 - Houston, Texas, United States
 * [M365 Miami](https://www.communitydays.org/event/2025-02-06/m365-miami) - February 6-7, 2025 - Miami, Florida, USA
 
