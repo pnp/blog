@@ -23,7 +23,7 @@ tags: ["Microsoft Graph"]
 categories: ["Community post"]
 canonicalURL: https://www.voitanos.io/blog/microsoft-graph-webhook-delta-query/
 ---
-> This article originally appeared on Andrew Connell's site, **[Microsoft Graph Webhooks - What, Why, How & Best Practices](https://www.voitanos.io/blog/microsoft-graph-webhook-delta-query/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Framework%20Updated%20in%20SharePoint%20Server%20Subscription%20Edition)**.
+> This article originally appeared on Andrew Connell's site, **[Microsoft Graph Webhooks - What, Why, How & Best Practices](https://www.voitanos.io/blog/microsoft-graph-webhook-delta-query/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Microsoft+Graph+Webhooks+-+What%2C+Why%2C+How+%26+Best+Practices)**.
 
 In this article, I want to talk about a feature that's been in Microsoft Graph for a very long time. But it's always surprising to me how many people aren't aware of it.
 
