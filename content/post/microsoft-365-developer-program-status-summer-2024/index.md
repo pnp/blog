@@ -3,7 +3,7 @@ title: What You Need to Know - Microsoft 365 Developer Program Changes in 2024
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Understand the recent changes in the Microsoft 365 Developer Program, why they were made, and when you can get a free M365 developer/sandbox tenants again.
-date: 2024-05-23T11:20:19-04:00
+date: 2024-06-02T11:20:19-04:00
 
 # Author. Your own name
 author: "Andrew Connell"
