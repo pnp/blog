@@ -35,37 +35,55 @@ To display these columns in the view:
 
 ![Screenshot of the list with approvers displayed](./images/list-with-approvers.png)
 
-By displaying these columns, you can also set filters to show only items for which you are the approver.
-
-![Screenshot of filtered list](./images/filter-list.png)
-
 ### Explanation of Each Column
 
 |Column Name|Internal Name of Column|Column Type|Description|
 |---|---|---|---|
+|Approval status|_ApprovalStatus|Number|The following numbers are set<br />0: Not Submitted<br />1: Requested<br />2: Rejected<br />3: Approved|
 |Approver Creator|_ApprovalSentBy|Person or Group|Displays the user who requested the approval.|
 |Approvers|_ApprovalAssignedTo|Person or Group (multiple selections possible)|Displays the users set as approvers.|
 |Responses|_ApprovalRespondedBy|Person or Group (multiple selections possible)|Displays the users who approved or rejected.|
 
-### Behavior for Each Process
+## Behavior for Each Process
 
-#### Behavior When Requesting Approval
+### Behavior When Requesting Approval
 
-When requesting approval, the user who requested the approval is set in the `Approver Creator` column, and the approvers are set in the `Approvers` column.
+When requesting approval,  the `Approval status` is set to Requested, the user who requested the approval is set in the `Approver Creator` column, and the approvers are set in the `Approvers` column.
 
 ![Video of the behavior when an approval request is made](./images/behavior-request-approve.gif)
 
-#### Behavior When Approving/Rejecting
+### Behavior When Approving/Rejecting
 
-When approving or rejecting, the users who approved or rejected are added to the `Responses` column.
+When approving or rejecting,  the `Approval status` is set to Approved or Rejected, and the users who approved or rejected are added to the `Responses` column.
 
 ![Video of the behavior when approving/rejecting](./images/behavior-approve-reject.gif)
 
-#### Behavior When Canceling Approval Requests
+### Behavior When Canceling Approval Requests
 
-When canceling, the `Approver Creator`, `Approvers`, and `Responses` columns are cleared.
+When canceling, the `Approval status` is set to Not submitted, and the `Approver Creator`, `Approvers`, and `Responses` columns are cleared.
 
 ![Video of the behavior when the approval is canceled](./images/behavior-cancel.gif)
+
+## Creating a View for Items Requiring Your Approval
+
+You can also use view filters to display only the items that the current logged-in user needs to approve.
+
+![Screenshot of the requiring your approval view screen](./images/requiring-your-approval-view.png)
+
+To create the view:
+1. [Create a view](https://support.microsoft.com/office/create-or-change-the-view-of-a-list-25393905-087c-4b0a-9fb4-5c1e165b99b7)
+1. Select the name of the view shown in the upper right corner >  Select **Edit current view**
+1. Set the following filters
+
+    `Approval status` is equal to **1** (Requested)
+
+    And `Approvers` is equal to **[Me]**
+
+    And `Responses` is not equal to **[Me]**
+
+1. Select **OK**
+
+![Screenshot of the edit current view screen](./images/edit-current-view.png)
 
 ## Edit in Grid View
 
@@ -73,89 +91,6 @@ When in edit in grid view, the `Approver Creator`, `Approvers`, `Responses`, and
 
 ![Screenshot of the grid view](./images/grid-view.png)
 
-## Advanced
-
-The `Approvers`, `Responses`, and `Approver Creator` columns usually only display the user's name. If you want to display the user's icon and change your own color to stand out, try to set the JSON below in the column formatting. This JSON is based on [person-assign-to-me](https://github.com/pnp/List-Formatting/tree/master/column-samples/person-assign-to-me) in [List Formatting Samples](https://github.com/pnp/List-Formatting).
-
-![Screenshot of comparison before and after formatting](./images/formatting.png)
-
-![Screenshot of how to format](./images/how-to-format.png)
-
-``` json
-{
-  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
-  "elmType": "div",
-  "children": [
-    {
-      "elmType": "div",
-      "style": {
-        "display": "flex",
-        "flex-direction": "column",
-        "margin-top": "2px",
-        "margin-bottom": "2px"
-      },
-      "children": [
-        {
-          "elmType": "div",
-          "children": [
-            {
-              "elmType": "div",
-              "style": {
-                "display": "flex",
-                "flex-wrap": "wrap"
-              },
-              "children": [
-                {
-                  "elmType": "div",
-                  "forEach": "_person in @currentField",
-                  "style": {
-                    "display": "=if(@currentField,'flex','none')",
-                    "flex-direction": "row",
-                    "align-items": "center",
-                    "white-space": "nowrap",
-                    "border-radius": "14px",
-                    "margin": "4px"
-                  },
-                  "attributes": {
-                    "class": "=if([$_person.email]==@me,'ms-bgColor-themeLighter ms-fontColor-themeDarker','ms-bgColor-neutralLight ms-fontColor-neutralPrimary')"
-                  },
-                  "defaultHoverField": "[$_person]",
-                  "children": [
-                    {
-                      "elmType": "img",
-                      "style": {
-                        "width": "28px",
-                        "height": "28px",
-                        "border-radius": "50%"
-                      },
-                      "attributes": {
-                        "src": "=getUserImage([$_person.email],'small')"
-                      }
-                    },
-                    {
-                      "elmType": "div",
-                      "txtContent": "[$_person.title]",
-                      "style": {
-                        "padding-left": "6px",
-                        "padding-right": "10px"
-                      },
-                      "attributes": {
-                        "class": "ms-fontSize-s"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
-```
-
 ## Additional Notes
 
-- The [approval-status-icon-color](https://github.com/pnp/List-Formatting/tree/master/column-samples/approval-status-icon-color) sample in [List Formatting Samples](https://github.com/pnp/List-Formatting) demonstrates how to change icons and colors based on the value in the `Approval status` column. If you want to format the approval status column according to its value, please refer to this sample.
 - I confirmed that the `Responses` column is also updated when approvals are done via the Microsoft Teams Approval app. However, updates to the `Approval status` and `Responses` columns were not reflected until the Approval request details dialog was opened once on the list. It is unclear whether this is a bug, but I have submitted [feedback on this phenomenon](https://feedbackportal.microsoft.com/feedback/idea/7adb8e4a-b21d-ef11-989a-6045bd796e5a) to the [Microsoft feedback portal](https://feedbackportal.microsoft.com/feedback/).
