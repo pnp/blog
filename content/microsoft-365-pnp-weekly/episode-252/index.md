@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 252 - Anopp Tatti"
-summary: "Microsoft 365 specialist & MVP - Anoop Tatti joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
-date: 2024-06-03T02:00:01-00:00
+summary: "Microsoft 365 architect & MVP - Anoop Tatti joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
+date: 2024-06-04T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]
@@ -9,44 +9,63 @@ images:
 - images/pnp-weekly-252-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=08WzEbHDvPE
+- https://www.youtube.com/watch?v=Eqjo__njGEk
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Anoop Tatti](https://www.linkedin.com/in/anooptatti/), Advania, MVP.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) are joined by [Anoop Tatti](https://www.linkedin.com/in/anooptatti/), Advania, MVP.
+
+Unfortunately Waldek got sick between the article and interview recordings, so he could not join on the discussion with Anoop.
 
 ## In this episode
 
-- 
-- 
+- Introduction to Anoop's career
+- Current landscape of the partner ecosystem within Microsoft 365
+- Is SharePoint portals still a thing or is the future only in AI 
+- Impact of transition to AI for corporate communications
+- Scenario and business value of building extensibility for Copilot
+- AI focused engagements vs traditional extensibility
+- Why AI can have challenges on evaluating end user's intent - it's all about context
+- Different direction and models for AI extensibility and use cases
+- End-user considerations on the AI onboarding
+- Prompt engineering is dead, long live prompt engineering
+- Value of the community and why everyone should get involved?
 
 ## References
 
-- 
-- 
+- [Advania](https://www.advania.com/)
+- [European Collaboration Summit](https://collabsummit.eu/)
+- [Viva Connections SPFx samples](https://github.com/pnp/sp-dev-fx-aces)
+- [Community Days - Community Events](https://www.communitydays.org/)
 
 ## This week
 
-- **Anoop** – 
+- **Anoop** – Continue on private ChatGPT project and building new SPFx web part for customer
 - **Waldek** – 
-- **Vesa** – 
+- **Vesa** – Catching up and starting to prepare for upcoming vacation break
 
 ## Agenda items
 
-[00:00](https://www.youtube.com/watch?v=08WzEbHDvPE&t=0s) – Intro
+[00:00](https://www.youtube.com/watch?v=Eqjo__njGEk&t=0s) – Intro
 
-[02:45](https://www.youtube.com/watch?v=08WzEbHDvPE&t=165s) – Interview
+[01:49](https://www.youtube.com/watch?v=Eqjo__njGEk&t=109s) – Interview
+
+[47:51](https://www.youtube.com/watch?v=Eqjo__njGEk&t=2871s) – Mid-chat with Waldek
+
+[49:32](https://www.youtube.com/watch?v=Eqjo__njGEk&t=2972s) – Articles
+
+[1:09:58](https://www.youtube.com/watch?v=Eqjo__njGEk&t=4198s) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-This session was recorded on Tuesday 3rd of June. Session was published on Tuesday 3rd of June, 2024.
+This session was recorded on Tuesday 4th of June. Session was published on Tuesday 4th of June, 2024.
 
 *   Video at [Microsoft Community Learning YouTube channel.](https://aka.ms/community/youtube)
-    {{< youtube 08WzEbHDvPE >}}
+    {{< youtube Eqjo__njGEk >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-    {{< podbean pb-hzmvv-161a462 >}}
+    {{< podbean pb-awgbq-16316b7 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
@@ -92,13 +111,6 @@ Check out all cool samples from community and from Microsoft. You can access all
 
 Here are the upcoming events from the centralized [Community Days site](https://communitydays.org/events?when=upcoming) where you can find in-person, hybrid and online events for Microsoft 365 and more.
 
-* [Americas SharePoint Intrabet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
-* [EMEA SharePoint Intranet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
-* [APAC SharePoint Intranet Festival](https://www.communitydays.org/event/2024-05-22/americas-sharepoint-intranet-festival) - May 22, 2024 - Virtual
-* [DynamicsMinds 2024](https://www.communitydays.org/event/2024-05-27/dynamicsminds-2024) - May 27-29, 2024 - Portorož, Slovenia
-* [Dynug Spring Conference](https://www.communitydays.org/event/2024-05-28/dynug-spring-conference) - May 28, 2024 -   Oslo, Norway
-* [BECONNECTED DAY 12 - COLLABDAYS ITALY 2024](https://www.communitydays.org/event/2024-05-30/beconnected-day-12-collabdays-italy-2024) - May 30, 2024 - Milan, Italy
-* [CollabDays Netherlands 2024](https://www.communitydays.org/event/2024-06-01/netherlands-2024) - June 1, 2024 - Vianen, Netherlands
 * [TechCon365 and PWRCon - A Microsoft 365 and Power Platform Conference](https://www.communitydays.org/event/2024-06-03/techcon365-and-pwrcon-a-microsoft-365-and-power-platform-conference) - June 3-8, 2024 - Seattle, WA, USA
 * [Collabdays Madrid](https://www.communitydays.org/event/2024-06-14/collabdays-madrid-2024) - June 14, 2024 - Madrid, Spain
 * [AI Community Event](https://www.communitydays.org/event/2024-07-12/ai-community-event-toronto-2024) - July 12, 2024 - Toronto, Canada
@@ -106,7 +118,7 @@ Here are the upcoming events from the centralized [Community Days site](https://
 * [Low Code No Code Microsoft Power Platform Conference 2024](https://www.communitydays.org/event/2024-08-22/low-code-no-code-microsoft-power-platform-conference-2024) - August 22-24, 2024 - Virtual
 * [CollabDays Hamburg](https://www.communitydays.org/event/2024-08-31/collabdays-hamburg-2024) - August 31, 2024 - Hamburg, Germany
 * [Baltic Summit](https://www.communitydays.org/event/2024-09-13/baltic-summit-2024) - September 13-14, 2024 - Gdynia, Poland
-* [C9ollabdays Zagreb](https://www.communitydays.org/event/2024-09-14/collabdays-2024-zagreb) - September 14, Zagreb, Croatia
+* [Collabdays Zagreb](https://www.communitydays.org/event/2024-09-14/collabdays-2024-zagreb) - September 14, Zagreb, Croatia
 * [Experts Live Europe 2024](https://www.communitydays.org/event/2024-09-23/experts-live-europe-2024), September 23-25, 2024 - Budapest, Hungary
 * [AMS Leipzig 2024](https://www.communitydays.org/event/2024-09-27/ams-leipzig-2024), September 27, Leipzig, Germany
 * [M365 SUMMIT - Microsoft Cloud Engineering](https://www.communitydays.org/event/2024-09-27/m365-summit-microsoft-cloud-engineering) - September 27-28, 2024 - Manchester, UK
