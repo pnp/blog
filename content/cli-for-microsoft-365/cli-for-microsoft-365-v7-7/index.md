@@ -13,7 +13,7 @@ tags:
   - Purview
   - SharePoint
   - SharePoint Framework
-type: popular
+type: regular
 lastmod: 2024-04-29T06:01:46.698Z
 ---
 

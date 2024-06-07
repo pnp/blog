@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 3rd of June 2024 week
-date: 2024-05-30T14:56:27.205Z
+date: 2024-05-31T02:56:27.205Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,12 +10,14 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. Want to demo what you have created? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
+
+Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
 This is the agenda for the upcoming week:
 
@@ -38,7 +40,6 @@ Also: 📷 Picture Time with community in Together Mode!
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 
-
 ### Microsoft 365 & Power Platform bi-weekly community Call - 6th of June
 
 * Thursday, 6th of June, 8:00 AM PT / 3:00 PM GMT
@@ -49,7 +50,7 @@ Demos this time
 
 * [Stuart Ridout](https://www.linkedin.com/in/stuartmridout/) (Microsoft) - PromptBuddy - share your prompts within your team - build with Power Apps and Dataverse for Teams
 * [Richard Wierenga](https://www.linkedin.com/in/richard-wierenga/)(Blis Digital) - Fusion development for fasttracking a solution
-* [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity) - Extend M365 Copilot with external APIs using plugins
+* [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity) - Extend Microsoft 365 Copilot with external APIs using plugins
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -122,6 +123,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 30th of May 2024](https://www.youtube.com/watch?v=v2uXobzKe4M)
 * [Microsoft 365 & Power Platform weekly call – 28th of May, 2024](https://www.youtube.com/watch?v=pMlS72c3crI)
 
 ---
