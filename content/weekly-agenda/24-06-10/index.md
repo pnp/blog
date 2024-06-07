@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 10th of June 2024 week
-date: 2024-05-31T02:56:27.205Z
+date: 2024-06-07T02:56:27.205Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -31,8 +31,8 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* Milan Kaur (Microsoft) - Introducing Click2Call for Teams in Azure Communication Services
-* [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft) & and [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft) - Creating no-code custom copilots from SharePoint
+* [Milan Kaur](https://www.linkedin.com/in/milankaurintech/) (Microsoft) - Introducing Click2Call for Teams in Azure Communication Services
+* [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft) & and [Sudha Narayanan](https://www.linkedin.com/in/sudha-narayanan-3295326a/) (Microsoft) - "Click to Copilot" - Creating no-code custom copilots from SharePoint
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -47,9 +47,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Guido Zambarda](https://www.linkedin.com/in/guidozam/) (PiaSys) - Using MGT Login control in SPFx
+* [Guido Zambarda](https://www.linkedin.com/in/guidozam/) (PiaSys) - Using Microsoft Graph Toolkit Login control in SPFx
 * [Stefan Bauer](https://www.linkedin.com/in/stfbauer/) (N8D) - Using npm workspace for making management of complex SPFx solutions easy
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachy Energy) - SharePoint Framework Toolkit showcase 1/3 - Getting Started with SPFx with SPFx Toolkit
+* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachy Energy) - SharePoint Framework Toolkit showcase 1/3 - Getting Started with SPFx Toolkit
 
 
 Also: 📷 Picture Time with community in Together Mode!
