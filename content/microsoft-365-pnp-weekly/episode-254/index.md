@@ -9,11 +9,11 @@ images:
 - images/pnp-weekly-254-promo.png
 tags: []
 videos:
-- https://www.youtube.com/watch?v=tyMihXFRRnAfefefeffefefefefefefe
+- https://www.youtube.com/watch?v=MCfgUjKxJlo
 draft: false
 ---
 
-In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](http://twitter.com/vesajuvonen) (Microsoft) and [Waldek Mastykarz](http://twitter.com/waldekm) (Microsoft) are joined by [Adam Wójcik](https://twitter.com/), MVP, and open-source maintainer from Poland.
+In this episode of the weekly discussion revolving around the latest news and topics on Microsoft 365, host – [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) are joined by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/), MVP, and open-source maintainer from Poland.
 
 ## In this episode
 
@@ -40,58 +40,53 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## Agenda items
 
-[00:00](https://www.youtube.com/watch?v=tyMihXFRRnA&t=0s) – Intro
+[00:00](https://www.youtube.com/watch?v=MCfgUjKxJlo&t=0s) – Intro
 
-[01:10](https://www.youtube.com/watch?v=tyMihXFRRnA&t=70s) – Interview
+[03:13](https://www.youtube.com/watch?v=MCfgUjKxJlo&t=193s) – Interview
 
-[42:00](https://www.youtube.com/watch?v=tyMihXFRRnA&t=2520s) – Articles
+[1:02:32](https://www.youtube.com/watch?v=MCfgUjKxJlo&t=3752s) – Articles
 
-[1:01:16](https://www.youtube.com/watch?v=tyMihXFRRnA&t=3676s) – Closing
+[1:19:55](https://www.youtube.com/watch?v=MCfgUjKxJlo&t=4795s) – Closing
 
 ## Action requested
 
 Please remember to keep on providing us feedback on how we can help on this journey. We always welcome feedback on making the community more inclusive and diverse.
 
-Interview of this episode was recorded on Thursday 6th of June. Articles were recorded on Monday 10th of June. Session was published on Tuesday 11th of June, 2024.
+Interview of this episode was recorded on Monday 17th of June. Session was published on Tuesday 18th of June, 2024.
 
 *   Video at [Microsoft Community Learning YouTube channel.](https://aka.ms/community/youtube)
-    {{< youtube Eqjo__njGEk >}}
+    {{< youtube MCfgUjKxJlo >}}
 *   Podcast at [https://pnpweekly.podbean.com.](https://pnpweekly.podbean.com/)
-    {{< podbean pb-ifx8n-163a0eb >}}
+    {{< podbean pb-npcqc-1644376 >}}
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
 ## Microsoft articles
 
-* [SharePoint Roadmap Pitstop: May 2024](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-may-2024/ba-p/4158987) - [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft)
-* [Most widely used SharePoint Framework ISVs from the Store - May 2024](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/most-widely-used-sharepoint-framework-isvs-from-the-store-may/ba-p/4163933) - [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-* [Use Fluid DevTools to debug your web app](https://devblogs.microsoft.com/microsoft365dev/use-fluid-devtools-to-debug-your-web-app/) - [Alejandro Villarreal](https://www.linkedin.com/in/alexvy86/) (Microsoft)
-* [Microsoft 365 Certification validates app compliance through annual pen testing](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-validates-app-compliance-through-annual-pen-testing/) - [Krishna Mawani](https://www.linkedin.com/in/krishnamawani/) (Microsoft)
-* [https://powerautomate.microsoft.com/en-us/blog/may-2024-update-of-power-automate-for-desktop/](https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-may-2024-feature-update/) - [Clay Wesener](https://www.linkedin.com/in/claywesener/) (Microsoft)
-* [May 2024 update of Power Automate for desktop](https://powerautomate.microsoft.com/en-us/blog/may-2024-update-of-power-automate-for-desktop/) - [Yiannis Mavridis](https://www.linkedin.com/in/yiannis-mavridis-234227227/) (Microsoft)
-* [Develop a tenant environment strategy to adopt Power Platform at scale](https://powerapps.microsoft.com/en-us/blog/develop-a-tenant-environment-strategy-t/) - [Robert Standefer](https://www.linkedin.com/in/rstandefer/) (Microsoft)
+* [What’s new from Teams Rooms and Devices at InfoComm 2024](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-from-teams-rooms-and-devices-at-infocomm-2024/ba-p/4159888) - [Kelly Johnson](https://www.linkedin.com/in/kelly-johnson-mba-3665ab1b/) (Microsoft)
+* [Easily deploy and manage hundreds of Teams Rooms on Windows with Autopilot and Autologin](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/easily-deploy-and-manage-hundreds-of-teams-rooms-on-windows-with/ba-p/4164392) - [Alvin Tsou](https://www.linkedin.com/in/alvin-tsou/) (Microsoft)
+* [Copilot Deployment Kit in Viva Amplify now generally available](https://techcommunity.microsoft.com/t5/viva-amplify-blog/copilot-deployment-kit-in-viva-amplify-now-generally-available/ba-p/4161748) - [Britt Boston](https://www.linkedin.com/in/brittboston/) (Microsoft)
+* [Copilot Dashboard update – Features and data interpretation guide](https://techcommunity.microsoft.com/t5/viva-insights-blog/copilot-dashboard-update-features-and-data-interpretation-guide/ba-p/4165494) - [John Mighell](https://www.linkedin.com/in/john-mighell/) (Microsoft)
+* [What’s new: Power Apps May 2024 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-power-apps-may-2024-feature-update/) - [Clay Wesener](https://www.linkedin.com/in/claywesener/) (Microsoft)
 
 ## Community articles
 
-* [Enabling an existing app, new features in Teams Toolkit for Copilot plugins](https://pkbullock.com/blog/2024/exploring-new-features-when-enabling-the-teams-toolkit-with-copilot-plugin) - [Paul Bullock](https://www.linkedin.com/in/pkbullock/) (Avanade)
-* [Enabling Global Navigation in the SharePoint Home Site](https://sympmarc.com/2024/06/05/enabling-global-navigation-in-the-sharepoint-home-site/) - [Marc Anderson](https://www.linkedin.com/in/marcanderson/) (Sympraxis Consulting)
-* [https://www.linkedin.com/in/toddklindt/](https://mmsharepoint.wordpress.com/2024/05/28/using-sharepoint-framework-spfx-to-assign-delegated-scope-permissions-to-a-site/) - [Markus Möller](https://www.linkedin.com/in/markus-moeller-25b72821/) (Avanade)
-* [How to use PowerShell 7 and PnP.PowerShell When You Can’t Install Software](https://www.toddklindt.com/blog/Lists/Posts/Post.aspx?List=56f96349%2D3bb6%2D4087%2D94f4%2D7f95ff4ca81f&ID=901&Web=48e6fdd1%2D17db%2D4543%2Db2f9%2D6fc7185484fc) - [Todd Klindt](https://www.linkedin.com/in/toddklindt/) (Sympraxis Consulting)
-* [Term Store and Search index - a rocky relationship since 2013](https://www.m365thinking.com/post/term-store-and-search-index-a-rocky-relationship-since-2013) - [Kasper Larsen](https://www.linkedin.com/in/kasperbolarsen/) (Fellowmind)
-* [SharePoint Command Bar Customizations For Power Users](https://wonderlaura.com/2024/06/05/sharepoint-command-bar-customization/) - [Laura Rogers](https://www.linkedin.com/in/sharepointguru/) (IW Mentor)
+* [SharePoint Framework Toolkit v3.3.0 minor release > @spfx let's code together](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-3-3-release/) - [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)
+* [Build Better Content Centric Apps with SharePoint Embedded](https://wbaer.net/2024/06/build-better-content-centric-apps-with-sharepoint-embedded/) - [Bill Baer](https://www.linkedin.com/in/wbaer/) (Microsoft)
+* [Set SharePoint Item-Level Permissions using Power Automate](https://sharepains.com/2024/06/11/sharepoint-item-level-permissions-power-automate/) - [Pieter Veenstra](https://www.linkedin.com/in/pieterveenstra/) (Vantage 365)
+* [How to navigate Microsoft Copilot pricing and packaging maze?](https://toniontech.com/2024/06/how-to-navigate-microsoft-copilot-pricing-and-packaging-maze/) - [Toni Frankola](https://www.linkedin.com/in/tonifrankola/) (SysKit)
+* [Adding that Chef's Kiss to your Teams App descriptions for Copilot](https://pkbullock.com/blog/2024/adding-the-chefs-kiss-to-your-teams-app-descriptions-for-copilot) - [Paul Bullock](https://www.linkedin.com/in/pkbullock/) (Avanade)
+* [Moving existing Content Types to the Content Type Hub](https://www.blimped.nl/moving-existing-contenttypes-to-the-contenttypehub/) - [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-YOU)
+* [PnP Modern Search - 4.12.1](https://github.com/microsoft-search/pnp-modern-search/releases/tag/4.12.1) - [Mikael Svenson](https://www.linkedin.com/in/mikaels/) (Microsoft)
 
 ## Videos
 
-* [Power Apps Variables - All 5 Types](https://www.youtube.com/watch?v=AfuG4mLPaJw) - [Shane Young](https://www.linkedin.com/in/cincyshane/) (PowerApps911)
-* [Client authentication with certificates - Authentication shorts](https://www.youtube.com/watch?v=NFeufptAoZE) - [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/) (Smartersoft B.V.)
+* [pisode #289 - Using Service Principals with custom Power Platform Connectors](https://www.youtube.com/watch?v=rSHHaHEGDxU) - [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
 * [SharePoint Versioning FIXED Finally!](https://www.youtube.com/watch?v=FGcKOO1q14E) - [Steve Corey](https://www.linkedin.com/in/stevecorey365/) (Quisitive)
-* [M365 Copilot Catchup, Recalled Recall, SharePoint text supercharge | Ep 336](https://www.youtube.com/watch?v=x4qf61qUpzk) - [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) (Rapid Circle) & [Daniel Glenn](https://www.linkedin.com/in/danielglenn/) (CollabFront)
-* [Should your next Microsoft 365 app be a SPFx web part, SPA, or Teams app?](https://www.youtube.com/watch?v=CdlFs7CITyE) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
-* [SharePoint Site Columns vs List Columns](https://www.youtube.com/watch?v=leiUM5bkuGI) - [Daniel Anderson](https://www.linkedin.com/in/danielando/)
-* [How to use PnP React Controls - Animated Dialog](https://www.youtube.com/watch?v=wYSIsncFraA) - [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT)
-* [How to use PnP React Controls - FilePicker & FileIcon control](https://www.youtube.com/watch?v=QBDm7-FVK7A) - [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT)
-* [How to build your own Copilot with Microsoft Copilot Studio [Custom Copilot]](https://www.youtube.com/watch?v=JjM9mck8Wds) - [Giuliano De Luca](https://www.linkedin.com/in/delucagiuliano/) (BMW Group)
-
+* [Shaped images in SharePoint. Copilot time-based responses | Ep 337](https://www.youtube.com/watch?v=bHxkVkjQdk4) - [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) (Rapid Circle) & [Daniel Glenn](https://www.linkedin.com/in/danielglenn/) (CollabFront)
+* [SharePoint Image Web Part - Custom Shapes](https://www.youtube.com/watch?v=OEsQG47rSJY) - [Daniel Anderson](https://www.linkedin.com/in/danielando/)
+* [How to use React Hooks in SPFx](https://www.youtube.com/watch?v=11dAZxnxWvE) - [Sudharsan Kesavanarayanan](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) (NTT)
+* [Form Options for SharePoint and Microsoft Lists](https://www.youtube.com/watch?v=XlkAO_KBqu4) - [Julie Turner](https://www.linkedin.com/in/juliemturner/) (Sympraxis Consulting), [Keri Russo](https://www.linkedin.com/in/keriannrusso/) (Sympraxis Consulting), [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis Consulting), [Patrick Cash-Peterson](https://www.linkedin.com/in/pcashpeterson/) (Sympraxis Consulting), [Marc Anderson](https://www.linkedin.com/in/marcanderson/) (Sympraxis Consulting) & [Todd Klindt](https://www.linkedin.com/in/toddklindt/) (Sympraxis Consulting)
 
 ## Samples
 
