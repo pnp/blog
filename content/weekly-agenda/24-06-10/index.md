@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary24.png
 tags: []
-<<<<<<< HEAD
+
 type: trending
 videos: null
 draft: true
