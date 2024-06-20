@@ -69,8 +69,6 @@ This session was recorded on Tuesday 4th of June. Session was published on Tuesd
 
 These videos and podcasts are published each week and are intended to be roughly 45 - 60 minutes in length.  Please do give us feedback on this video and podcast series and also do let us know if you have done something cool/useful so that we can cover that in the next weekly summary! The easiest way to let us know is to share your work on Twitter and add the hashtag [#PnPWeekly](https://twitter.com/search?q=%23pnpweekly). We are always on the lookout for refreshingly new content. “_Sharing is caring!”_ 
 
-We did not cover any new videos or articles as the show was recorded advance due to the [European Collaboration Summit](https://collabsummit.eu) at Wiesbaden.
-
 ## Microsoft articles
 
 * [Updates for Town Hall in Microsoft Teams and Teams Live Events](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/updates-for-town-hall-in-microsoft-teams-and-teams-live-events/ba-p/4148352) - [Drew Blundell](https://www.linkedin.com/in/drew-blundell/) (Microsoft)
