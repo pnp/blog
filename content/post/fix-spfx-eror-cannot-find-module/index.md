@@ -3,7 +3,7 @@ title: "How to Fix the SPFx Error: 'Cannot find module node:os'"
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: "Learn to fix the SharePoint Framework error 'Cannot find module node:os'. Understand the root cause and the simple solution: running npm install."
-date: 2024-06-17T16:42:45-04:00
+date: 2024-06-19T16:42:45-04:00
 
 # Author. Your own name
 author: "Andrew Connell"
