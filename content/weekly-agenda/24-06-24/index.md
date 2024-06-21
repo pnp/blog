@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 24th of June 2024 week
-date: 2024-06-23T11:47:43.134Z
+date: 2024-06-21T18:14:05.191Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -33,6 +33,7 @@ Demos this time
 
 * [Garry Trinder ](https://www.linkedin.com/in/patrick-rodgers-b6a05610/) (Microsoft) - Improving your app security with Dev Proxy
 * [Patrick Rodgers](https://www.linkedin.com/in/patrick-rodgers-b6a05610/)  (Microsoft) - Introducing granular SharePoint Application Permissions
+* [Sam Betts](https://www.linkedin.com/in/sambettscv/) (Microsoft - Building Copilot Feedback Bot for collecting feedback from users)
 
 
 Also: 📷 Picture Time with community in Together Mode!
