@@ -33,6 +33,7 @@ Demos this time
 
 * [Garry Trinder ](https://www.linkedin.com/in/patrick-rodgers-b6a05610/) (Microsoft) - Improving your app security with Dev Proxy
 * [Patrick Rodgers](https://www.linkedin.com/in/patrick-rodgers-b6a05610/)  (Microsoft) - Introducing granular SharePoint Application Permissions
+* [Sam Betts](https://www.linkedin.com/in/sambettscv/) (Microsoft - Building Copilot Feedback Bot for collecting feedback from users)
 
 
 Also: 📷 Picture Time with community in Together Mode!
