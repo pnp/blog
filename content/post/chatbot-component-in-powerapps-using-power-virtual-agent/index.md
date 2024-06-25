@@ -6,12 +6,12 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/image1.png
-tags: ["PowerApps", "Copilot studios"]
+tags: ["PowerApps", "Copilot Studio"]
 type: "regular"
 ---
 
 
-The chatbot component in powerapps using Copilot studios is a powerful tool that allows developers and citizen developers to integrate chat functionality into their Power Apps. This component enables users to engage in real-time conversations with virtual agents, providing a seamless and interactive experience.
+The chatbot component in powerapps using Copilot Studio is a powerful tool that allows developers and citizen developers to integrate chat functionality into their Power Apps. This component enables users to engage in real-time conversations with virtual agents, providing a seamless and interactive experience.
 
 With this chatbot component, users can easily communicate with the virtual agents, ask questions, and receive automated responses. It enhances the overall user experience by providing personalized and relevant information based on the user's queries.
 
@@ -70,6 +70,3 @@ Finish the PowerApp and share with your users.
 By following these steps, you can create a Power App with integrated chat functionality, providing a seamless and interactive experience for your app users.
 
 By leveraging the chat-component-powerapps-using-power-virtual-agent, organizations can automate customer support, provide self-service options, and streamline various processes. This not only improves customer satisfaction but also increases efficiency by reducing manual interactions and response times.
-
-
-
