@@ -11,7 +11,7 @@ images:
 
 tags:
   - .NET
-  - Entra ID
+  - Microsoft Entra ID
   - PnP PowerShell
   - Microsoft Teams
   - SharePoint
