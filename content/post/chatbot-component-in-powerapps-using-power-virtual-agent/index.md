@@ -6,7 +6,7 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/image1.png
-tags: ["PowerApps", "Copilot Studio"]
+tags: ["Power Apps", "Copilot Studio"]
 type: "regular"
 ---
 
