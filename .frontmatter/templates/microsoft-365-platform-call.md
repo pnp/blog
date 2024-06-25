@@ -8,7 +8,7 @@ categories:
 images: []
 tags:
   - Add-ins
-  - extensions
+  - SPFx Extensions
   - Microsoft 365
   - Microsoft Graph
   - Microsoft Teams
@@ -24,7 +24,7 @@ Microsoft 365 Platform Community Call - weekly community call recording from DAT
 
 Welcome to the weekly call focused on capabilities of the Microsoft 365 platform.   
 
-*   
+*
 *
 *
 
@@ -32,14 +32,14 @@ The host of this call was [HOST NAME](https://twitter.com/TWITTERACCOUNT) (COM
 
 ## Microsoft 365 Platform News Flash
 
-*   
+*
 *
 *
 
 
 ## Actions  
 
-*   
+*
 *
 *
 
@@ -59,7 +59,7 @@ Thank you for your work. Samples are often showcased in Demos.
 
 Topics covered in this call
 
-*   
+*
 *
 *
 
@@ -122,4 +122,3 @@ _“Sharing is caring”_
 * * *
 
 _Microsoft 365 PnP team, Microsoft - DATE_
-
