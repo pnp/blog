@@ -19,7 +19,7 @@ images:
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 # Community posts should always use "Community post" as the categories
-tags: ["SharePoint Framework","SPFx"]
+tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
 canonicalURL: https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/
 ---

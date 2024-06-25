@@ -12,19 +12,19 @@ description: "SharePoint Framework Toolkit is a Visual Studio Code extension tha
 summary: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva", "Viva Connections", "GitHub", "Azure DevOps", "pipeline", "workflow"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Card", "Viva", "Viva Connections", "GitHub", "Azure DevOps", "pipeline", "workflow"]
 type: "regular"
 ---
 
 ## 🗒️ Quick intro
 
-[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app 🚀. 
+[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app 🚀.
 
 Just check out the features list 👇
 
 ![features](images/features.png)
 
-All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with [PnP samples](https://pnp.github.io/#samples), upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more. 
+All of that is possible due to the awesome work done by the [PnP community](https://pnp.github.io/) which is visible in many functionalities of this extension: sample gallery filled with [PnP samples](https://pnp.github.io/#samples), upgrading SPFx project using [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/), and many more.
 
 It does not matter if you are starting your journey with SPFx development and Viva solutions or if you are already experienced in this area, this VS Code extension will have the features you need to kick off your work to the next level 💪.
 
@@ -45,17 +45,17 @@ Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a 
 
 ## 🆕 New ways to start a new project
 
-This feature was developed based on a lot of feedback given around the current scaffolding process. As of now Microsoft provides scaffolding over the SharePoint Yeoman generator that may be executed from the terminal. Although it serves its purpose, over time developers found this process confusing and not flexible. 
+This feature was developed based on a lot of feedback given around the current scaffolding process. As of now Microsoft provides scaffolding over the SharePoint Yeoman generator that may be executed from the terminal. Although it serves its purpose, over time developers found this process confusing and not flexible.
 
 It's based on a Q&A approach where the Yeoman generator asks a couple of questions and based on our answers a new project is created. This process produces a lot of confusion especially for someone new to SharePoint Framework development as it is unclear how many steps there will be and what is the required information that will be needed to create for example an Application Customizer SPFx extension. Although the terminal UI is getting enhanced and currently is filled with colors, emojis, and graphs 😮, it is still mainly based on text which gives fewer opportunities to provide additional explanation and clarity to the process.
 
 At the same time, the amount of options it gives lacks flexibility. Many developers provided feedback that the default project templates it produces could be updated or extended, for example with an additional template that by default uses react hooks, or the generator could provide more optional steps to install additional dependencies that are typically used in SharePoint Framework solutions, for example, MS Graph Toolkit 😢.
 
-Although most of the feedback was acknowledged still there was little work done from Microsoft's side to improve this process mainly due to its priority and lack of resources, and that's where the community jumped in 💪! In this release of SharePoint Framework Toolkit, we rebuild this experience from the ground up, extending the VS Code UI with an additional view that presents you with a scaffolding form divided into 3 steps. 
+Although most of the feedback was acknowledged still there was little work done from Microsoft's side to improve this process mainly due to its priority and lack of resources, and that's where the community jumped in 💪! In this release of SharePoint Framework Toolkit, we rebuild this experience from the ground up, extending the VS Code UI with an additional view that presents you with a scaffolding form divided into 3 steps.
 
 ![scaffolding form](images/scaffolding.png)
 
-The form validates your inputs dynamically without the need of submit. The UI adapts based on the type of component you want to create (web part, extension, library, or ACE), so it is easy to see all the information which is required at a single glance 🤩. 
+The form validates your inputs dynamically without the need of submit. The UI adapts based on the type of component you want to create (web part, extension, library, or ACE), so it is easy to see all the information which is required at a single glance 🤩.
 
 Fields in the first two steps of the form are required and mostly represent the SharePoint Yeoman generator steps. But the third step is a true game changer. It provides you an additional option to install one of the well-known and widely used npm packages provided by the Microsoft 365 and Power Platform Community. As of now the form allows you to install SPFx property pane controls and reusable React controls, and PnPjs 😍.
 
@@ -67,19 +67,19 @@ Check it out in action 👇
 
 This is just a start and your feedback is a must before we enhance this even more 💬! With this new approach, we already see additional improvements we may provide like: allow to install more additional dependencies like MS Graph Toolkit or SPFx fast serve. Some of those options could be specific for a component type like some could be present only when you are creating a web part. And even we could provide additional setup besides just installing the npm package. The form UI itself could provide even more context and explanation giving examples or links to additional documentation. And many more, but before we start do visit our repo, start a discussion or an issue, or contact us however you want but don't be shy and do provide feedback 🙏.
 
-BUT WAIT! Why would you start from scratch if you may kick of a new project based on one of the Microsoft 365 and Power Platform Community project samples all without leaving VS Code 🤯. SharePoint Framework Toolkit provides you with a built-in sample gallery, currently filled with 400+ samples 🤯 coming from the PnP web part, extensions, and ACEs sample repositories! 
+BUT WAIT! Why would you start from scratch if you may kick of a new project based on one of the Microsoft 365 and Power Platform Community project samples all without leaving VS Code 🤯. SharePoint Framework Toolkit provides you with a built-in sample gallery, currently filled with 400+ samples 🤯 coming from the PnP web part, extensions, and ACEs sample repositories!
 
 ![sample gallery](images/samples.png)
 
-The sample gallery allows you to filter by name, description, tag, author, project type, and SharePoint Framework version. 
+The sample gallery allows you to filter by name, description, tag, author, project type, and SharePoint Framework version.
 
 ![sample gallery filter options](images/sg1.png)
 
-You may even enter the project details populated from the sample readme.md file all within VS Code. 
+You may even enter the project details populated from the sample readme.md file all within VS Code.
 
 ![sample gallery details](images/sg2.png)
 
-The view is fully responsive to any size of VS Code and allows you to view samples either using card view or a simple list without any media which produces less 'noise'. 
+The view is fully responsive to any size of VS Code and allows you to view samples either using card view or a simple list without any media which produces less 'noise'.
 
 ![sample gallery is respoinsive](images/samples-responsive.png)
 
@@ -91,13 +91,13 @@ Check it out in action 👇
 
 ## 🚀 Generate a CI/CD workflow at the start of your work and do not leave it till the very end🤦‍♂️
 
-'DevOps stuff is not easy' - that's the feedback I got from a developer and personal friend who explained to me why he leaves creating a CI/CD workflow for his SPFx project till the very end or when time is running short and money runs out, he does not create one at all. We asked around and it turns out that a task to create a CI/CD workflow is usually estimated in hours or even days 😮. The problem is lack of guidance which is specific for SharePoint Framework projects, and problematic setup which sometimes leads to solutions that are based on bad examples and as a result, we may find workflows with secrets or even passwords present in their YAML definition. 
+'DevOps stuff is not easy' - that's the feedback I got from a developer and personal friend who explained to me why he leaves creating a CI/CD workflow for his SPFx project till the very end or when time is running short and money runs out, he does not create one at all. We asked around and it turns out that a task to create a CI/CD workflow is usually estimated in hours or even days 😮. The problem is lack of guidance which is specific for SharePoint Framework projects, and problematic setup which sometimes leads to solutions that are based on bad examples and as a result, we may find workflows with secrets or even passwords present in their YAML definition.
 
-With SharePoint Framework Toolkit you will be able to create a CI/CD workflow in minutes not hours! The VS Code extension will generate the YAML for your SPFx project. 
+With SharePoint Framework Toolkit you will be able to create a CI/CD workflow in minutes not hours! The VS Code extension will generate the YAML for your SPFx project.
 
 ![CI/CD form](images/CICD-pipeline.png)
 
-It provides you with step-by-step guidance on how set up the workflow the first time and even suggests the recommended login method for a production-ready solution. And when you just think that's all, we will surprise you with additional steps that will even allow you to generate a certificate and create an Entra App Registration using this certificate so that it may be used in the workflow to authenticate to your tenant as an app 🤯🤩. Oh and I almost forgot, till now it only supported GitHub actions but in this release, we extended the support with Azure DevOps pipelines 🚀. 
+It provides you with step-by-step guidance on how set up the workflow the first time and even suggests the recommended login method for a production-ready solution. And when you just think that's all, we will surprise you with additional steps that will even allow you to generate a certificate and create an Entra App Registration using this certificate so that it may be used in the workflow to authenticate to your tenant as an app 🤯🤩. Oh and I almost forgot, till now it only supported GitHub actions but in this release, we extended the support with Azure DevOps pipelines 🚀.
 
 Let's do a quick overview.
 
@@ -149,7 +149,7 @@ This is just the start. In next releases we plan to give you even more power and
 
 ## 👣 Walkthrough - your easy start with SharePoint Framework Toolkit
 
-SharePoint Framework Toolkit brings a totally new experience to VS Code extending it with additional UI like build-in sample gallery or scaffolding forms. It provides many features that help you at every stage of developing and managing your SharePoint Framework project. We understand it may be hard to get started with this VS Code extension and not everybody wants to go over the readme me from top to bottom 😉. That's why we introduced a VS Code walkthrough that provides you step-by-step guidance on how to set up a dev tenant and get started with SharePoint Framework development and what and how you may use the most important and helpful features of this Toolkit. 
+SharePoint Framework Toolkit brings a totally new experience to VS Code extending it with additional UI like build-in sample gallery or scaffolding forms. It provides many features that help you at every stage of developing and managing your SharePoint Framework project. We understand it may be hard to get started with this VS Code extension and not everybody wants to go over the readme me from top to bottom 😉. That's why we introduced a VS Code walkthrough that provides you step-by-step guidance on how to set up a dev tenant and get started with SharePoint Framework development and what and how you may use the most important and helpful features of this Toolkit.
 
 ![walkthrough](images/walkthrough2.png)
 

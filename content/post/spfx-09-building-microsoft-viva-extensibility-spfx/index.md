@@ -10,7 +10,6 @@ images:
 tags:
   - Microsoft Teams
   - Microsoft Viva
-  - SharePoint
   - SharePoint Framework (SPFx)
 type: regular
 videos:
