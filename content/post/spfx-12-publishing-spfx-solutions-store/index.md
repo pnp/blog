@@ -9,7 +9,7 @@ images:
   - images/12-publishing-spfx-solution-appsource-store.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

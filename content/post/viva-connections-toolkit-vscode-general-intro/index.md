@@ -12,7 +12,7 @@ description: "With the Viva Connections Toolkit extension, you can create and ma
 summary: ""
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Card", "Viva"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Card", "Viva Connections"]
 type: "regular"
 ---
 

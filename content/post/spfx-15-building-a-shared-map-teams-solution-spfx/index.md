@@ -9,7 +9,7 @@ images:
   - images/15-building-shared-map-teams-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

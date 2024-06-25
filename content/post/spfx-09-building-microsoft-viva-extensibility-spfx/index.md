@@ -9,7 +9,7 @@ images:
   - images/09-microsoft-viva-extensibility-with-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

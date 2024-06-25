@@ -9,7 +9,7 @@ images:
   - images/07-automatic-hosting-spfx-code-m365.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false

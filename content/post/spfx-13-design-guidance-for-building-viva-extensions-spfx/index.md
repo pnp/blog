@@ -9,7 +9,7 @@ images:
   - images/13-design-guidance-assets-viva-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

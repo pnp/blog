@@ -9,7 +9,7 @@ images:
   - images/19-professional-solutions-web-part-manifest.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false

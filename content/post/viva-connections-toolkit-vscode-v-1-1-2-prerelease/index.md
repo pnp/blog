@@ -12,7 +12,7 @@ description: "V"
 summary: "Viva Connections Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying your solution straight to your tenant without the need to leave VS Code 🚀. Check out our progress to the next major release and what is already avaible for you to test out in the current pre-release."
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Card", "Viva"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Card", "Viva Connections"]
 type: "regular"
 ---
 

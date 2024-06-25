@@ -9,7 +9,7 @@ images:
   - images/21-professional-solutions-package-solution.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connectionsns
   - SharePoint Framework (SPFx)
 type: regular
 draft: false

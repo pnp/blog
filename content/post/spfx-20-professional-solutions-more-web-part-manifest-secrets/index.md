@@ -9,7 +9,7 @@ images:
   - images/20-professional-solutions-more-web-part-manifest-secrets.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false

@@ -9,7 +9,7 @@ images:
   - images/04-using-microsoft-graph-with-spfx-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

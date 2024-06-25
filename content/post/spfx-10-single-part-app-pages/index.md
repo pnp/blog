@@ -9,7 +9,7 @@ images:
   - images/10-single-part-app-pages-spfx-spo.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

@@ -9,7 +9,7 @@ images:
   - images/01-introduction-what-is-spfx-promo.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false
