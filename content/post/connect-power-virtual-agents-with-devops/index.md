@@ -13,7 +13,7 @@ categories: ["Community post"]
 images:
 - images/thumbnail.png
 # don't change
-tags: ["Power Virtual Agents","Azure DevOps","Power Automate", "Azure DevOps API","Microsoft Graph"]
+tags: ["Power Virtual Agents","Azure DevOps","Power Automate", "Azure DevOps","Microsoft Graph"]
 # don't change
 type: "regular"
 ---
