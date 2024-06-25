@@ -10,20 +10,20 @@ images:
 tags:
   - CLI for Microsoft 365
   - Entra ID
-  - Graph
+  - Microsoft Graph
   - Viva Engage
 type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### Support for using multiple accounts
 
-The release includes a major quality-of-life improvement for users who manage multiple tenants. Now you can manage multiple connections to different tenants. This feature allows you to switch between tenants without having to log out and log back in. 
+The release includes a major quality-of-life improvement for users who manage multiple tenants. Now you can manage multiple connections to different tenants. This feature allows you to switch between tenants without having to log out and log back in.
 
 We introduce a whole new group of commands to manage connections. You can now list, remove, set and use different connections. With this new feature we also added the ability to provide a custom name for each connection. If this is not provided, the local account id will be used as the connection name.
 
@@ -43,19 +43,19 @@ m365 connection list
 
 Remove a connection:
 
-```sh	
+```sh
 m365 connection remove --name "Customer A"
 ```
 
 Rename an existing connection:
 
-```sh	
+```sh
 m365 connection set --connectionName "Customer A" --newName "Contoso"
 ```
 
 And finally, you can change the active connection:
 
-```sh	
+```sh
 m365 connection use --name "Customer B"
 ```
 
@@ -141,7 +141,7 @@ If you are eager to go over all of the details and improvements added in this re
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 91 issues that are actively being developed and 63 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 91 issues that are actively being developed and 63 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 
