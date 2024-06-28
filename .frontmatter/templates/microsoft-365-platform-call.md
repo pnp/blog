@@ -13,7 +13,7 @@ tags:
   - Microsoft Graph
   - Microsoft Teams
   - SharePoint
-  - SharePoint Framework
+  - SharePoint Framework (SPFx)
 type: regular
 ---
 

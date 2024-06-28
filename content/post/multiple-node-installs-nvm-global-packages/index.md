@@ -19,7 +19,7 @@ images:
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 # Community posts should always use "Community post" as the categories
-tags: ["SharePoint Framework","SharePoint Framework (SPFx)","SPFx"]
+tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post","SPFx"]
 canonicalURL: https://www.voitanos.io/blog/multiple-node-installs-nvm-global-packages/
 ---
