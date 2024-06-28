@@ -9,8 +9,7 @@ images:
   - images/20-professional-solutions-more-web-part-manifest-secrets.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false
@@ -19,9 +18,9 @@ draft: false
 
 -	*How do I make my web part span the whole width of the page?*
 - *Can I hide a web part from the toolbox?*
-- *How can I make my web parts theme-aware?* 
-- *Can I make my custom properties searchable?*  
-- *Where do I control whether a web part shows up in Teams tabs, personal apps, full page apps, and Teams meeting apps?*  
+- *How can I make my web parts theme-aware?*
+- *Can I make my custom properties searchable?*
+- *Where do I control whether a web part shows up in Teams tabs, personal apps, full page apps, and Teams meeting apps?*
 
 Great questions! Luckily, the answers to all your questions are the same: you can use your web part's manifest to control your web part behaviors.
 
@@ -54,7 +53,7 @@ Unless otherwise specified, all the properties discussed here should be added (i
   "version": "*",
   "manifestVersion": 2,
 
-  // Add properties here 
+  // Add properties here
   ...
 }
 ```
@@ -97,14 +96,14 @@ Unless otherwise specified, all the properties discussed here should be added (i
     ```json
     {
       // ...
-    
+
       "supportsThemeVariants": true,
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "requiresCustomScript": false,
-    
+
       "preconfiguredEntries": [{
         // ...
       }]
@@ -116,21 +115,21 @@ Unless otherwise specified, all the properties discussed here should be added (i
 
 ### `supportsFullBleed`
 
-- Communication site pages offer an additional section layout named Full-width section. This layout spans the full width of the page without any horizontal margin or padding. 
+- Communication site pages offer an additional section layout named Full-width section. This layout spans the full width of the page without any horizontal margin or padding.
   ![Full width section](images/fullbleed.png)
 - When you set `supportsFullBleed` to `true`, you enable your web part to support  full-width section, and it will show up in the toolbox for full width sections.
 
     ```json
     {
       // ...
-    
+
       "supportsFullBleed": true,
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "requiresCustomScript": false,
-    
+
       "preconfiguredEntries": [{
         // ...
       }]
@@ -139,9 +138,9 @@ Unless otherwise specified, all the properties discussed here should be added (i
 
   ![Full bleed web parts](images/fullwidthwebparts.png "Custom web parts listed in full width section")
 - Without `supportsFullBleed`, your web part will add extra padding around the content (highlighted in red in the picture below):
-  ![Padding around web part](images/webpartpadding.png "Padding shown in red")  
+  ![Padding around web part](images/webpartpadding.png "Padding shown in red")
 - With `"supportsFullBleed": true`, your web part will reduce the padding:
-  ![No padding](images/nopadding.png "See mom?! No padding!")  
+  ![No padding](images/nopadding.png "See mom?! No padding!")
 
 ### `hiddenFromToolbox`
 
@@ -150,14 +149,14 @@ Unless otherwise specified, all the properties discussed here should be added (i
     ```json
     {
       // ...
-    
+
       "hiddenFromToolbox": true,
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "requiresCustomScript": false,
-    
+
       "preconfiguredEntries": [{
         // ...
       }]
@@ -176,12 +175,12 @@ Unless otherwise specified, all the properties discussed here should be added (i
     ```json
     {
       // ...
-    
+
       "requiresCustomScript": true,
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "preconfiguredEntries": [{
         // ...
       }]
@@ -196,12 +195,12 @@ Unless otherwise specified, all the properties discussed here should be added (i
     ```json
     {
       // ...
-    
+
       "disabledOnClassicSharepoint": true,
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "preconfiguredEntries": [{
         // ...
       }]
@@ -230,14 +229,14 @@ Here are some useful properties you should consider:
     ```json
     {
       // ...
-    
+
       "searchablePropertyNames": ["title", "process"],
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "preconfiguredEntries": [{
-        "title": "title goes here", 
+        "title": "title goes here",
         "process": "Enter your process markup here"
       }]
     }
@@ -255,14 +254,14 @@ Here are some useful properties you should consider:
     ```json
     {
       // ...
-    
+
       "linkPropertyNames": ["documentUrl", "learnMoreLink"],
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "preconfiguredEntries": [{
-        "documentUrl": "Shared documents/process.docx", 
+        "documentUrl": "Shared documents/process.docx",
         "learnMoreLink: "https://yourprocessgoeshere.com"
       }]
     }
@@ -277,14 +276,14 @@ Here are some useful properties you should consider:
     ```json
     {
       // ...
-    
+
       "imageLinkPropertyNames": ["profileImage", "logoImage"],
-    
+
       "version": "*",
       "manifestVersion": 2,
-    
+
       "preconfiguredEntries": [{
-        "profileImage": "assets/defaultprofile.png", 
+        "profileImage": "assets/defaultprofile.png",
         "logoImage": "/sites/contoso/assets/logo.png"
       }]
     }
@@ -303,7 +302,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – <https://aka.ms/spfx>
 -	Issues and feedback around SPFx - <https://aka.ms/spfx/issues>
 -	Microsoft 365 Platform Community – <https://aka.ms/m365/community>
--	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls> 
+-	Public SPFx and other Microsoft 365 platform community calls – <https://aka.ms/m365/calls>
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – <https://aka.ms/m365/samples>
 

@@ -9,7 +9,7 @@ categories: ["Microsoft Viva and SPFx community call"]
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
 - images/thumbnail.png
-tags: ["Adaptive Cards", "Office Add-ins", "Extensions", "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
+tags: ["Adaptive Cards", "Office Add-ins", - SPFx Extensions, "Microsoft 365", "Microsoft Teams", "SharePoint", "SharePoint Framework (SPFx)", "Viva Connections"]
 # Videos lists the video on the page for social media
 # TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:
@@ -80,11 +80,11 @@ The host of this call is [NAME](https://twitter.com/TWITTER) (Microsoft) | @twit
 ### Demo 1 title
 
 Demo description
-    
+
 ### Demo 2 title
 
 Demo description
-    
+
 ### Demo 3 title
 
 Demo description
@@ -95,7 +95,7 @@ Demo description
 
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER 
 
 ## SPFx web part samples
 
@@ -103,7 +103,7 @@ Demo description
 
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER 
 
 ## PnP SPFx ACEs
 
@@ -111,7 +111,7 @@ Demo description
 
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
 -   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER
--   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER  
+-   [SAMPLE TITLE](SAMPLE URL) - [AUTHOR](https://twitter.com/TWITTER) (Company) | @TWITTER 
 
 \* To be posted soon.
 
@@ -133,7 +133,7 @@ Thank you for your great work.  Samples are often showcased in Demos.    
 -   **Demo 1**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
 -   **Demo 2**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
 -   **Demo 3**:  TITLE – [PRESENTER](https://twitter.com/TWITTER) (Company) | @TWITTER – [##:##](https://youtu.be/INSERT-VIDEO-CODE-HERE?t=##) 
-    
+
 
 ## Resources
 
@@ -155,7 +155,7 @@ Additional resources around the covered topics and links from the slides.
 -   Archives - Microsoft 365 PnP Weekly - [Videos](https://www.youtube.com/playlist?list=PLR9nK3mnD-OVYI-St_CBiFfuL4CZbBpkC), [Podcasts](https://pnpweekly.podbean.com/)  
 -   Tools - [Teams Toolkit (v2.2 Preview)](https://aka.ms/teams-toolkit) 
 -   Tools - [Microsoft Teams Framework (TeamsFx)](https://github.com/officedev/teamsfx) 
-    
+
 -   Gallery - [Microsoft 365 Extensibility look book gallery](https://aka.ms/m365/extensibility)   
 -   [Microsoft Build sessions guide](https://aka.ms/modernworkbuildsessions) (Modern Work Digital Brochure) - aka.ms/modernworkbuildsessions
 -   SharePoint Framework - v1.12.1 npm install –g @microsoft/generator-sharepoint@next
