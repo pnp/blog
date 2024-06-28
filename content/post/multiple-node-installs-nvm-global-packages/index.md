@@ -3,7 +3,7 @@ title: Multiple Node.js Installs with NVM and Global Packages
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Explore the power of the Node Version Manager (NVM) in managing multiple Node.js installs for diverse SharePoint and Teams Toolkit projects.
-date: 2024-05-20T14:27:22-04:00
+date: 2024-06-27T14:27:22-04:00
 
 # Author. Your own name
 author: "Andrew Connell"
