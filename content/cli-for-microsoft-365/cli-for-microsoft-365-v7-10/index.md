@@ -174,8 +174,6 @@ We would like to give a big shoutout and high fives to the amazing individuals w
 - [bubbletroubles](https://github.com/bubbletroubles)
 - [dojcsakj](https://github.com/dojcsakj)
 - [Ikramullah Quraishi](https://github.com/IkramullahQuraishi)
-- [Martin Loitzl](https://github.com/mloitzl)
-- [Michał Kornet](https://github.com/mkm17)
 - [Mikey](https://github.com/BrainSlugs83)
 - [Scott Berry](https://github.com/scberr)
 - [ToeKneeFan](https://github.com/ToeKneeFan)
