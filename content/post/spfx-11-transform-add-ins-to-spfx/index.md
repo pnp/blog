@@ -9,8 +9,7 @@ images:
   - images/11-sharepoint-add-ins-to-spfx-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

@@ -9,18 +9,18 @@ images:
   - images/banner-cli-m365.png
 tags:
   - CLI for Microsoft 365
-  - Entra ID
+  - Microsoft Entra ID
   - Search
   - Viva Engage
-  - SharePoint Framework
+  - SharePoint Framework (SPFx)
   - SharePoint
-type: popular
+type: regular
 ---
 
 We have just published a new minor version of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### New search command
@@ -130,7 +130,7 @@ Review the command documentation for more details:
 
 Curious about what lies ahead? We are excited to share some of our ongoing projects and initiatives. We have some commands pertaining to [Microsoft Entra Privileged Identity Management (PIM)](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-configure) which are in the pipeline and will be released in the upcoming versions.
 
-Right now, there are over 50 opened PRs with new awesome features that will soon be added to CLI for Microsoft 365, and [58 issues that are up for grabs](https://github.com/pnp/cli-microsoft365/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 50 opened PRs with new awesome features that will soon be added to CLI for Microsoft 365, and [58 issues that are up for grabs](https://github.com/pnp/cli-microsoft365/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new/choose) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 

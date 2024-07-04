@@ -6,12 +6,12 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/image10.png
-tags: ["PowerApps", "Power Automate", "Stream on SharePoint"]
+tags: ["Power Apps", "Power Automate", "Stream on SharePoint"]
 type: "regular"
 ---
 
 
-The new Stream control in Power Apps lets you embed Microsoft Stream (on SharePoint) videos directly in your canvas app. To add a Steam video in your canvas app, you will need the embed URL of the video. 
+The new Stream control in Power Apps lets you embed Microsoft Stream (on SharePoint) videos directly in your canvas app. To add a Steam video in your canvas app, you will need the embed URL of the video.
 
 ![Embed code for Stream video.png](images/image1.png "Embed code for Stream video")
 
@@ -74,7 +74,3 @@ Now, when selecting a video item from the gallery the Stream control can dynamic
 Hope you find this post useful.
 
 Hopefully, in the future Microsoft will enable the standard SharePoint connector to support Unique ID of Stream videos.
-
-
-
-

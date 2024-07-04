@@ -8,7 +8,6 @@ categories:
 images:
   - images/example.png
 tags:
-  - SharePoint
   - SharePoint Framework (SPFx)
   - PnP PowerShell
 type: regular
@@ -97,7 +96,7 @@ Get-PnPTenantSite -Detailed | select url | ForEach-Object {
 
          Start-Sleep -Seconds 5
 
-        #Find Name of app from installed package 
+        #Find Name of app from installed package
         $RestMethodUrl = '/_api/web/lists/getbytitle(''Apps%20for%20SharePoint'')/items?$select=Title,LinkFilename'
         $apps = (Invoke-PnPSPRestMethod -Url $RestMethodUrl -Method Get).Value
         $appTitle = ($apps | where-object {$_.LinkFilename -eq $packageName} | select Title).Title
@@ -107,7 +106,7 @@ Get-PnPTenantSite -Detailed | select url | ForEach-Object {
 
         #Install App to the Site if not already installed
         $web = Get-PnPWeb -Includes AppTiles
-        $app = $web.AppTiles  |  where-object {$_.Title -eq $currentPackage.Title } 
+        $app = $web.AppTiles  |  where-object {$_.Title -eq $currentPackage.Title }
         if(!$app){
             Install-PnPApp -Identity $currentPackage.Id -Scope Site
             Start-Sleep -Seconds 5

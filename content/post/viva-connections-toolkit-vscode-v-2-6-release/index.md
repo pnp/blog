@@ -12,7 +12,7 @@ description: "Viva Connections Toolkit (SPFx Toolkit) is a Visual Studio Code ex
 summary: "Viva Connections Toolkit (SPFx Toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook and Microsoft365.com."
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva", "Viva Connections", "GitHub", "Azure DevOps", "pipeline", "workflow"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Cards", "Viva Connections", "GitHub", "Azure DevOps", "pipeline", "workflow"]
 type: "regular"
 ---
 
@@ -44,7 +44,7 @@ It's also worth pointing out that it was developed the same way as the GitHub wo
 
 ![Generate app registration](images/generate-app-reg.png)
 
-In the end, what you will get is the YAML definition of your Azure DevOps pipeline. This is important to understand, it will not set up the flow for you as Viva Connection Toolkit does not integrate with Azure DevOps nor GitHub, so in the end you always have a few manual steps to go over to set up the flow. But what's also good to know is that when you generate the flow you get detailed step-by-step guidance on how to set it up the first time in Azure DevOps. What's even more awesome is if you selected to generate the Entra app registration in the pipeline output you will get a new app with a link to it and a table with most of the variables that are required for your flow like Entra App Id, or Tenant Id or the encoded string of your certificate. You may also use the certificate file itself if you want, and what is maybe more preferable, as the generated certificate is located in the `temp` folder. 
+In the end, what you will get is the YAML definition of your Azure DevOps pipeline. This is important to understand, it will not set up the flow for you as Viva Connection Toolkit does not integrate with Azure DevOps nor GitHub, so in the end you always have a few manual steps to go over to set up the flow. But what's also good to know is that when you generate the flow you get detailed step-by-step guidance on how to set it up the first time in Azure DevOps. What's even more awesome is if you selected to generate the Entra app registration in the pipeline output you will get a new app with a link to it and a table with most of the variables that are required for your flow like Entra App Id, or Tenant Id or the encoded string of your certificate. You may also use the certificate file itself if you want, and what is maybe more preferable, as the generated certificate is located in the `temp` folder.
 
 ![CI/CD pipeline result](images/azdo-result.png)
 
@@ -72,7 +72,7 @@ We don't plan to stop here 😍. We would love to hear your feedback 🙏 in fut
 
 ## 👀 More tenant management features
 
-Viva Connections toolkit is not only about developing but also managing your SPFx solutions. In this release, we revisited our account and environment tree views. 
+Viva Connections toolkit is not only about developing but also managing your SPFx solutions. In this release, we revisited our account and environment tree views.
 
 In the first one, we provide you with more navigation links that might be helpful for your work like links to the SharePoint admin portal or to the web API permission management page. We also added a new section that will show you all service health incidents that are currently happening on your tenant. Clicking on the link will redirect you to the health incident report. This should give you more insights about what's going on with your tenant and may give you a quick answer as to why some of the features you are using might not be working properly
 
