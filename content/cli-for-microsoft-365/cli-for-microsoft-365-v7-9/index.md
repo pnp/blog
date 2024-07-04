@@ -12,7 +12,7 @@ tags:
   - Microsoft Entra ID
   - Search
   - Viva Engage
-  - SharePoint Framework
+  - SharePoint Framework (SPFx)
   - SharePoint
 type: regular
 ---
