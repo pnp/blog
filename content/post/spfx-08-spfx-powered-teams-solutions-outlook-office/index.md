@@ -9,8 +9,7 @@ images:
   - images/08-spfx-outlook-office-teams.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

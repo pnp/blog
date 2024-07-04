@@ -9,7 +9,7 @@ images:
   - images/banner-cli-m365.png
 tags:
   - CLI for Microsoft 365
-  - Azure Active Directory
+  - Azure AD
   - SharePoint
 type: popular
 ---

@@ -12,13 +12,13 @@ description: "SharePoint Framework Toolkit is a Visual Studio Code extension tha
 summary: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SPFx", "SharePoint Framework", "AI", "GitHub Copilot", "Chat"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "AI", "GitHub Copilot", "Chat"]
 type: "regular"
 ---
 
 ## 🗒️ Quick intro
 
-[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app 🚀. 
+[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app 🚀.
 
 Just check out the features list 👇 it's a looot 🤯.
 
@@ -53,7 +53,7 @@ The chat extension is fine-tuned using official Microsoft docs but also is aware
 ![using SPFx react controls](images/spfx-example2.png)
 
 or here, where it suggested to use PnP JS functionality
- 
+
 ![using pnpjs](images/spfx-example3.png)
 
 It's still in its early beta days and there are many things that might go wrong but we are already excited for this new opportunity and can't wait to see what you will be able to build with it🤩. Happy Coding!

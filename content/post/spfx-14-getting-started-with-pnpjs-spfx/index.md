@@ -9,8 +9,7 @@ images:
   - images/14-getting-started-with-using-pnpjs-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:
