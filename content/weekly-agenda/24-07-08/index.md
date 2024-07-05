@@ -88,8 +88,13 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+<<<<<<< HEAD
 * [CLI for Microsoft 365 v7.10](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v7-10/) by [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-You Business Solutions)
 * [Multiple Node.js Installs with NVM and Global Packages](https://pnp.github.io/blog/post/multiple-node-installs-nvm-global-packages/) by [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
+=======
+* no new blog posts this week
+
+>>>>>>> fbe44f3de73e4d77053c697f0c19a8da9e8bd5e0
 
 ---
 
@@ -98,7 +103,14 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Viva Connections and SharePoint Framework community call 27th of June 2024](https://www.youtube.com/watch?v=XUuxItNZbzo)
+<<<<<<< HEAD
 
+=======
+* 
+* [Microsoft 365 & Power Platform weekly call – 25th of June, 2024](https://www.youtube.com/watch?v=nIbHyF9yCjg)
+* [Power Platform Code First aka Pro Developer Office Hours – June 2024](https://www.youtube.com/watch?v=sxTWkMNcTy8)
+* [Microsoft 365 & Power Platform community call - 20th of June 2024](https://www.youtube.com/watch?v=zmsW1DhQcD8)
+>>>>>>> fbe44f3de73e4d77053c697f0c19a8da9e8bd5e0
 
 ---
 
@@ -136,7 +148,10 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Low Code No Code Microsoft Power Platform Conference 2024](https://www.communitydays.org/event/2024-08-22/low-code-no-code-microsoft-power-platform-conference-2024) - August 22-24, 2024 - Virtual
 * [Dynamics User Group Ohio Regional Meetup](https://www.communitydays.org/event/2024-08-27/dynamics-user-group-ohio-regional-meetup-2024), August 27-28, 2024 - Dublin, Ohio, Unites States
 * [CollabDays Hamburg](https://www.communitydays.org/event/2024-08-31/collabdays-hamburg-2024) - August 31, 2024 - Hamburg, Germany
+<<<<<<< HEAD
 * [CollabDays Finland](https://www.communitydays.org/event/2024-09-05/collabdays-finland-2024) - September 5, 2024 - Helsinki, Finland
+=======
+>>>>>>> fbe44f3de73e4d77053c697f0c19a8da9e8bd5e0
 * [ams Tunis](https://www.communitydays.org/event/2024-09-12/ams-tunis), September 12, 2024 - Al Marsa, Tunisia
 * [Baltic Summit](https://www.communitydays.org/event/2024-09-13/baltic-summit-2024) - September 13-14, 2024 - Gdynia, Poland
 * [Collabdays Zagreb](https://www.communitydays.org/event/2024-09-14/collabdays-2024-zagreb) - September 14, Zagreb, Croatia
