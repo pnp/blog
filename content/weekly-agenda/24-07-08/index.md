@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of July 2024 week
-date: 2024-06-27T11:25:31.643Z
+date: 2024-07-05T08:48:26.533Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
