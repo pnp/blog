@@ -71,4 +71,4 @@ With these steps, you can set columns to be always hidden while using their valu
 
   ![Quick property editing](./images/quick-property-editing.png)
 
-- [List Formatting Samples](https://pnp.github.io/List-Formatting/formsamples/) provides JSON samples for customizing form headers and footers.
+- [List Formatting Samples](https://pnp.github.io/List-Formatting/formsamples/) provides JSON samples for customizing the header and footer of forms.
