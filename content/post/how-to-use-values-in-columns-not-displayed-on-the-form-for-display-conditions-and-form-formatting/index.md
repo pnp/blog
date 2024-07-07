@@ -71,4 +71,5 @@ With these steps, you can set columns to be always hidden while using their valu
 
   ![Quick property editing](./images/quick-property-editing.png)
 
+- Please note that even if a column is hidden from the form, it can still be updated through the API.
 - [List Formatting Samples](https://pnp.github.io/List-Formatting/formsamples/) provides JSON samples for customizing the header and footer of forms.
