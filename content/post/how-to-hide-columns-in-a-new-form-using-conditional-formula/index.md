@@ -3,7 +3,7 @@
 title: "Microsoft Lists: How to hide columns in a new form using conditional formula"
 
 # this is the publishing date of your article, usually this should match "now"
-date: 2024-07-07T16:00:00-00:00
+date: 2024-07-06T16:00:00-00:00
 
 # This is your name
 author: "Tetsuya Kawahara"
