@@ -1,16 +1,16 @@
 ---
-title: Weekly Agenda - 1st of July 2024 week
-date: 2024-06-27T11:25:31.643Z
+title: Weekly Agenda - 15th of July 2024 week
+date: 2024-07-11T09:19:53.180Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary27.png
+  - images/weeklysummary29.png
 tags: []
-type: regular
+type: trending
 videos: null
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -23,22 +23,44 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 4th of July
+### Power Platform monthly Community Call - 17th of July
 
-* Thursday, 4th of July, 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
+Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-Demos this time
+* Wednesday, 17th of July, 8:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
 
-* [Swami Nawale](https://www.linkedin.com/in/swaminawale/) (Beyond Key) - Creating Modern Templates using Microsoft Syntex
-* [Sandeep Angara](https://www.linkedin.com/in/sandeep-angara/) (Argano) - Enhancing UX in Copilot using Adaptive Cards
+Demos: 
+
+* The Solution Deployer to Centrally Manage Reusable Components – [Valentin Mazhar](https://www.linkedin.com/in/valentin-mazhar/) (Zurich Insurance)
+* Managing & tracking Power Platform capacity usage over time – [EY Kalman](https://www.linkedin.com/in/thecrmninja/) (ps Hummingbird)
+* Harnessing the power of low-code in Model-driven Apps – [Josh Giles](https://www.linkedin.com/in/joshgiles94/) (Bridgeall)
 
 
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
+---
+
+### Microsoft 365 & Power Platform bi-weekly community Call - 18th of July
+
+* Thursday, 18th of July, 7:00 AM PT / 2:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
+
+Demos this time
+
+* [Syed Md Maruf Hasan](https://www.linkedin.com/in/syed-hasan-maruf/)  - How to build an office disinfect tracker with Power Apps and SharePoint
+* [Ana Inés Urrutia de Souza](https://www.linkedin.com/in/anainesurrutia/) (KPMG) - How to automate record creation with data extraction and AI summarization using Power Platform
+* [Matt Jimison](https://www.linkedin.com/in/matthewjimison/) (Takeda) - Collecting Custom Feedback on Copilot Studio's Generative Answers
+
+
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
 
@@ -47,30 +69,29 @@ Also: 📷 Picture Time with community in Together Mode!
 
 More videos from Microsoft 365 Community Conference 2024
 
-* [Getting started with Viva Amplify | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=IYpqqbp2TLw) by [Naomi Moneypenny](https://linkedin.com/in/moneypenny) and [Michael Holste](https://linkedin.com/in/michaelholste)
-* [Building Communities to connect employees & accelerate knowledge sharing | Microsoft 365 Conference](https://www.youtube.com/watch?v=NeZpsJTFagQ) by [Erin Rosenthal](https://linkedin.com/in/erinrosenthal), [Mike McLean](https://www.linkedin.com/in/michaeltmclean), and [Allison Michels](https://linkedin.com/in/michelsallison)
-* [Create an AI Ready Organization: Best Practices for Copilot for Microsoft 365](https://www.youtube.com/watch?v=p1d1GSc-fG4) by [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), [Olga Gordon](https://linkedin.com/in/olga-gordon-b1531118), and [Cynthia Johnson](https://linkedin.com/in/cynthiajohnson123)
-* [The Viva Communications & Communities Solution | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=Sw9jmsaz0B0) by [Naomi Moneypenny](https://linkedin.com/in/moneypenny), [Ed Averett](https://linkedin.com/in/edaverett), and [Jason Mayans](https://linkedin.com/in/mayans)
+* [The Ins and Outs of M365 Backup Archive and enhanced version controls](https://www.youtube.com/watch?v=E8ISaE2nmc0)
+* [SharePoint: Transform your content experiences in the era of AI | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=nv3f1VU7H1I)
+* [New AI capabilities helping retailers drive growth via Microsoft 365, Teams, and Frontline Workers](https://www.youtube.com/watch?v=3rkLGxSEjSw)
+* [Modernizing Customer Care with new Queues app in Teams | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=MgqhzPD8_R8&)
 
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w) - Subscribe today! ✅
 
-* [Get to know the new Microsoft Lists Forms experience](https://www.youtube.com/watch?v=aCFp-L6aD-M) by [Sahil Baid](https://linkedin.com/in/baidsahil) (Microsoft)
-* [Introduction to new chart cards for the Viva Connections with SPFx 1.19](https://www.youtube.com/watch?v=0TYuhe5B4iU) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-* [Is your app calling APIs with minimal permissions](https://www.youtube.com/watch?v=fFr3tFBp1Z8) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft)
-* [Latest on the Microsoft Dev Proxy - April 2024](https://www.youtube.com/watch?v=R8J6qWqkTV0) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft)
-* [Direct File Download API support for SharePoint files through Microsoft Graph](https://www.youtube.com/watch?v=L3R6NX3wEiw) by [Sanjukta Sen](https://linkedin.com/in/sensanjukta) (Microsoft)
+* [How I moved from Windows to Docker to DevDrive: SPFx dev environment options](https://www.youtube.com/watch?v=6sMQKjyMXg0) by [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-You business Solutions)
+* [How to style your copilot to enhance user experience](https://www.youtube.com/watch?v=i4tqbkX9Jgo) by  [Kristine Kolodziejski](https://www.linkedin.com/in/kristine-kolodziejski)
+* [Extending User Properties in Microsoft Copilot Studio](https://www.youtube.com/watch?v=vj6v0xnhyOo&) by [Matt Jimison](https://www.linkedin.com/in/matthewjimison/) (Takeda)
+* [CLI for Microsoft 365 - Advanced usage](https://www.youtube.com/watch?v=LkPImuS42Vg) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachy Energy) and [Arjun Menon](https://linkedin.com/in/arjunumenon)
+* [JSON: a Low-Code Introduction for No-Coders](https://www.youtube.com/watch?v=3Fh8w4P8wzE) by [Cat Schneider](https://www.linkedin.com/in/yerawizardcat) (Hitachi Solutions)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Leverage FlowEvent data monitoring effectively | Getting started with Power Shorts](https://www.youtube.com/watch?v=cy_WW1aXQQQ)
-* [Storage use for FlowRun records | Power Platform Shorts](https://www.youtube.com/watch?v=wZEluFRwezM)
-
+* [Build and distribute a progressive web app | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Pzs8zTXy8kI)
+* [Set up Bootstrap version 5 with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=rQe34jyVROQ)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Introducing custom extensions for Copilot for Microsoft 365](https://www.youtube.com/watch?v=ILPOhVz9OdI) with [Tomomi Imura](https://www.linkedin.com/in/tomomi/) (Microsoft)
+* no new videos this week
 
 ---
 
@@ -78,16 +99,14 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Dev Proxy v0.19 with simulating LLM APIs and new Azure API Center integrations](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-19-with-simulating-llm-apis-and-new-azure-api-center-integrations/) by  [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
-* [Fluid Framework 2 is now production ready](https://devblogs.microsoft.com/microsoft365dev/fluid-framework-2-is-now-production-ready/) by [Kashif Qureshi](https://www.linkedin.com/in/kashq/) (Microsoft)
-
+* no new blog posts this week
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* no new blog posts this week
+* [Preparing for Model-Driven Apps Dark Mode Icons - Improved](https://pnp.github.io/blog/post/preparing-for-dark-mode-model-driven-app-icons-improved/) by [Alex McLachlan](https://www.linkedin.com/in/alexjlmclachlan/) (Ceox Services)
 
 
 ---
@@ -96,9 +115,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform weekly call – 25th of June, 2024](https://www.youtube.com/watch?v=nIbHyF9yCjg)
-* [Power Platform Code First aka Pro Developer Office Hours – June 2024](https://www.youtube.com/watch?v=sxTWkMNcTy8)
-* [Microsoft 365 & Power Platform community call - 20th of June 2024](https://www.youtube.com/watch?v=zmsW1DhQcD8)
+* [Microsoft 365 & Power Platform community call - 4th of July 2024](https://www.youtube.com/watch?v=39kj3fTQDU0)
+
 
 ---
 
