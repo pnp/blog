@@ -3,7 +3,7 @@ title: Secure SPFx Solutions in a Post Isolated Web Part Retirement
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Learn how to secure SPFx solutions after Microsoft retires domain-isolated web parts and explore options for hardening your SPFx applications.
-date: 2024-07-05T16:17:11-04:00
+date: 2024-07-10T16:17:11-04:00
 
 # Author. Your own name
 author: "Andrew Connell"
