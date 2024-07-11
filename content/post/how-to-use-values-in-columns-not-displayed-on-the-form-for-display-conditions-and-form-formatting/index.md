@@ -3,7 +3,7 @@
 title: "Microsoft Lists: How to use values in columns not displayed on the form for display conditions and form formatting"
 
 # this is the publishing date of your article, usually this should match "now"
-date: 2024-07-07T10:00:00-00:00
+date: 2024-07-10T10:00:00-00:00
 
 # This is your name
 author: "Tetsuya Kawahara"
