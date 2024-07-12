@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 15th of July 2024 week
-date: 2024-07-11T09:19:53.180Z
+date: 2024-07-12T09:19:53.180Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
