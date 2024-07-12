@@ -62,9 +62,9 @@ When your Microsoft Entra ID-secured endpoint receives the request from your SPF
 
 You should only check the contents of the requested access token once you’ve validated it from Microsoft Entra ID, as I demonstrate in my article **[Validating Microsoft Entra ID generated OAuth tokens](https://www.voitanos.io/blog/validating-entra-id-generated-oauth-tokens)**.
 
-{{< alert type="important" heading="Student of my Mastering the SPFx course?" >}}
+<!-- {{< alert type="important" heading="Student of my Mastering the SPFx course?" >}} -->
 If you’re a student of my **[Mastering the SharePoint Framework](https://www.voitanos.io/course-master-sharepoint-framework)** course, I show how to do this within the following lesson in the Fundamentals bundle: [Leveraging External APIs in SPFx Solutions > Calling Existing AzureAD Secured APIs with AadHttpClient](https://courses.voitanos.io/products/mastering-the-sharepoint-framework-fundamentals/categories/1125706/posts/3735426).
-{{< /alert >}}
+ <!-- {{< /alert >}} -->
 
 This pattern can also be used to secure calls to Microsoft Graph by using a Microsoft Entra ID-secured endpoint as a middle-man, or proxy, to call Microsoft Graph.
 
