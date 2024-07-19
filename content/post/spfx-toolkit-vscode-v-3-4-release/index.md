@@ -24,23 +24,23 @@ Just check out the features list 👇 it's a looot 🤯.
 
 ![features](images/features.png)
 
-Sounds cool 😎? Let's see some new enchancements we added in this minor release
+Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
-## Learn SharePoint Framework Solutions
+## Learn SharePoint Framework
 
-One of SharePoint Framework Toolkit main aims is to help you get started and learn SPFx. It is very important to make it as easy as possible for devs that are just starting their journey with SharePoint Framework Development. For that reason the extension has a walkthrough which basically is a step by step guide that will introduce you to SharePoint Framework in general and to this toolkit capabilities. In this release we spent some time to improve this experience providing even more valuable learning information.
+One of SharePoint Framework Toolkit main aims is to help you get started and learn SPFx. It is very important to make it as easy as possible for devs who are just starting their journey with SharePoint Framework Development. For that reason, the extension has a walkthrough which basically is a step-by-step guide that will introduce you to SharePoint Framework in general and to this toolkit capabilities. In this release, we spent some time improving this experience providing even more valuable learning information.
 
 ![walkthrough](images/walkthrough.png)
 
 ## Improved Sample Gallery
 
-SharePoint Framework Toolkit Sample Gallery allows you to quickly find a solution for your problem. Why would you start from scratch if you may use one of 400+ samples as you starting point all ready to kick off your work. In this release we added some fixes and improvements to this functionality, allong with really great enhacements that allow you to see selected filters as tags and modify them with ease.
+SharePoint Framework Toolkit Sample Gallery allows you to find a solution for your problem quickly. Why would you start from scratch if you may use one of 400+ samples as your starting point all ready to kick off your work? In this release, we added some fixes and improvements to this functionality, along with really great enhancements that allow you to see selected filters as tags and modify them with ease.
 
 ![filters](images/filters.png)
 
 ## 👏 You ROCK 🤩
 
-This release would not have been possible without the help of some really awesome folks that stepped in and joined our journey in creating the best in class SharePoint Framework tooling in the world. We would like to express our huge gratitude and shout out to:
+This release would not have been possible without the help of some really awesome folks who stepped in and joined our journey in creating the best in class SharePoint Framework tooling in the world. We would like to express our huge gratitude and shout out to:
 
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Luccas Castro](https://github.com/DevPio)
