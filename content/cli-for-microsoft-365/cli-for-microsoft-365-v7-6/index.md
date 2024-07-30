@@ -12,19 +12,20 @@ tags:
   - Outlook
   - Purview
   - SharePoint
-  - SharePoint Framework
-type: popular
+  - SharePoint Framework (SPFx)
+type: regular
+lastmod: 2024-04-24T06:20:16.141Z
 ---
 
 Introducing the latest release of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### New Purview threat assessment commands
 
-The release includes additional management features for Purview. We added two new commands that will allow you to list and create threat assessments. Let's see it in action. 
+The release includes additional management features for Purview. We added two new commands that will allow you to list and create threat assessments. Let's see it in action.
 
 To list all threat assessments, simply run:
 
@@ -58,7 +59,7 @@ For more information check the following resources:
 
 Till now CLI for Microsoft 365 allowed you to generate a CI/CD workflow for your SharePoint Framework project using the [m365 spfx project github workflow add](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-github-workflow-add/) command. In this release, we extended this capability and added the support for Azure DevOps Pipelines. It's important to understand that the command will not create the Azure DevOps pipeline. You will need to manually create it in Azure DevOps. The command will only create the workflow file which you can then push to your repo and create a new YAML pipeline based on it. The command needs to be run in the context of your SharePoint Framework project. The created .yml file will be present in the `.azuredevops/pipelines` directory in your project.
 
-To add an Azure DevOps Pipeline for an SPFx project triggered on push to `main`, simply run: 
+To add an Azure DevOps Pipeline for an SPFx project triggered on push to `main`, simply run:
 
 ```sh
 m365 spfx project azuredevops pipeline add
@@ -128,7 +129,7 @@ Also for more information check out the docs of the updated commands:
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 44 opened PRs with new awesome features that will be soon added to CLI for Microsoft 365, and 57 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 44 opened PRs with new awesome features that will be soon added to CLI for Microsoft 365, and 57 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 

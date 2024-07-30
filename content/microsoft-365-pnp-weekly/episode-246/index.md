@@ -32,8 +32,6 @@ In this episode of the weekly discussion revolving around the latest news and to
 
 ## This week
 
-Your hosts forgot this section from this week - we'll try next time again.
-
 - **Simon** – Viva Connections interview with Vesa, preparing for M365 conference in the US, preparing for launching new products, new sprint planning
 - **Waldek** – new release of Dev Proxy with exciting features, stay tuned for the release on Thu, Apr 25
 - **Vesa** – preparing for launching Brand Central, preparing for the M365 conference
@@ -44,7 +42,7 @@ Your hosts forgot this section from this week - we'll try next time again.
 
 [01:49](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=109s) – Interview
 
-[49:55](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=2995s) – Interview
+[49:55](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=2995s) – Middle chat with Waldek and Vesa
 
 [54:39](https://www.youtube.com/watch?v=X9fGkwQEcG8&t=3279s) – Articles
 
@@ -88,7 +86,7 @@ These videos and podcasts are published each week and are intended to be roughly
 
 ## Videos
 
-* [he new Microsoft Planner: Meet the Makers and learn what’s coming next](https://www.youtube.com/watch?v=dcCLWfeENo4) - [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu/) (Microsoft), [Howard Crow](https://www.linkedin.com/in/howard-crow-52046a8/) (Microsoft) and [Roberto Bojorquez](https://www.linkedin.com/in/roberto-bojorquez-676065125/) (Microsoft)
+* [Meet the new Microsoft Planner: Meet the Makers and learn what’s coming next](https://www.youtube.com/watch?v=dcCLWfeENo4) - [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu/) (Microsoft), [Howard Crow](https://www.linkedin.com/in/howard-crow-52046a8/) (Microsoft) and [Roberto Bojorquez](https://www.linkedin.com/in/roberto-bojorquez-676065125/) (Microsoft)
 * [Power Automate Questions and Answers](https://www.youtube.com/watch?v=ngMokCLA4Io) - [Shane Young](https://www.linkedin.com/in/cincyshane/) (PowerApps911)
 * [Page Layouts: Building great home pages](https://www.youtube.com/watch?v=x7oHXf6rxVM) - [Julie Turner](https://www.linkedin.com/in/juliemturner/) (Sympraxis Consulting), [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis Consulting), [Patrick Cash-Peterson](https://www.linkedin.com/in/pcashpeterson/) (Sympraxis Consulting), [Marc Anderson](https://www.linkedin.com/in/marcanderson/) (Sympraxis Consulting) & [Todd Klindt](https://www.linkedin.com/in/toddklindt/) (Sympraxis Consulting)
 * [SharePoint Brand Center and Custom fonts | Ep 329](https://www.youtube.com/watch?v=XcEKaGnOgz0) - [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) (Rapid Circle) & [Daniel Glenn](https://www.linkedin.com/in/danielglenn/) (CollabFront)

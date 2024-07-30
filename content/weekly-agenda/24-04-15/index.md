@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary16.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=QcI2quaKaJo
 draft: false
@@ -23,7 +23,7 @@ This is the agenda for the upcoming week:
 
 ---
 
-### Microsoft 365 & Power Platform weekly call - 16th of April
+### Viva Connections & SharePoint Framework Community Call - 16th of April
 
 * Tuesday, 16th of April 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!

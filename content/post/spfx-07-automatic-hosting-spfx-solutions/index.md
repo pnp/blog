@@ -9,8 +9,7 @@ images:
   - images/07-automatic-hosting-spfx-code-m365.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false
@@ -49,19 +48,19 @@ As SPFx components are then being used in Microsoft 365, the JavaScript files an
 
 ## Frequent questions around automatic hosting of SPFx solutions
 
-**Will automatic-hosting work for all different hosts where SPFx solutions can be used?** 
+**Will automatic-hosting work for all different hosts where SPFx solutions can be used?**
 
 Yes – This setting works across the different Microsoft 365 services which you can extend using SPFx solution.
 
-**Can someone accidentally delete files from the ClientSideAssets library?** 
+**Can someone accidentally delete files from the ClientSideAssets library?**
 
 Yes, but… you’d have to be site collection administrator in the app catalog site to be able to perform this. This is only then a possibility for the administrators of the tenant. Normal end users can only read the files from this folder structure when components are accessed.
 
-**Does the Office 365 CDN configuration impact on this behavior?** 
+**Does the Office 365 CDN configuration impact on this behavior?**
 
 No. Not directly. Microsoft 365 detects automatically if the Office 365 CDN is enabled and servers the SPFx solution files automatically either directly from the library or using the Office 365 CDN with more optimized experience. We do recommend using the Office 365 CDN in general as it improves the performance of the Microsoft 365 experiences.
 
-**Seems that Guest users cannot read the content from the ClientSideAssets library – is this correct?** 
+**Seems that Guest users cannot read the content from the ClientSideAssets library – is this correct?**
 
 Yes. Gues users will not have by default read permission to this library. If you have however enabled the Office 365 CDN, code is automatically served from the CDN URLs which are available for the Guest users. You can potentially also update the permissions on this library as an administrator.
 
@@ -72,7 +71,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 
