@@ -75,7 +75,7 @@ Currently, within Office.js, there isn’t a direct method to determine whether 
 
 **Does Microsoft have any plans to add compose mode support for Outlook Mobile, and on-send event support (not Smart Alerts because the APIs are too limiting) to show a custom dialog and modify the item's subject, body and internet headers? These features have been requested for years but ISVs are still waiting. Outlook on Windows and Mac for M365 are around requirement set 1.13 but Outlook Mobile is still just a subset of 1.5 - a huge disparity.**
 
-Thank you for your request here. Currently we don't have such support for Outlook Mobile. We will keep you informed when we have updates on this.​
+Thank you for your request here. Currently we don't have such support for Outlook Mobile. We'll keep you informed when we have an update.​
 
 **Is it possible to communicate from document context to task pane with use of function file / execute the function from manifest for task pane?**
 
