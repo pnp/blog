@@ -53,7 +53,7 @@ Nested App Auth: A Simpler SSO Solution for WXP Add-ins
 
 **Is there any way to check no of user installed the office.js PowerPoint admin-managed add-in which is deployed using Integrated apps deployment? If we don't have option in Office 365 admin center, can you recommend some way to check this in machine level (mac) through script?**
 
-We do not have any dashboards to track which users are acquiring the apps for themselves. However, admin can run following cmdlet on all user mailbox to get list of add-in deployed for the user. This will help admins get list of which apps are deployed and to which users. [Get-App (ExchangePowerShell) | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/exchange/get-app?view=exchange-ps) 
+We don't have any dashboards to track which users are acquiring the apps for themselves. However, admins can run the following cmdlet on all user mailbox to get list of add-ins deployed for the user. This will help admins get list of which apps are deployed and to which users. For more info, see [Get-App (ExchangePowerShell)](https://learn.microsoft.com/powershell/module/exchange/get-app?view=exchange-ps) 
 
 ## Call to action
 
