@@ -57,7 +57,7 @@ Add-in authentication and access to Exchange APIs
 
 Obfuscation and putting code on the server side (like Azure functions) are the fundamental ways to keep your code private. Since Office Add-ins are basically web applications; they are subject to the same code protection strategies as any web application.
 
-**Is it a good, relevant, smart idea to deploy an Office Add-in as an Aspire application using Blazor? (https://learn.microsoft.com/en-us/dotnet/aspire/)**
+**Is it a good, relevant, smart idea to deploy an Office Add-in as an Aspire application using Blazor? (https://learn.microsoft.com/dotnet/aspire/)**
 
 We don’t have any specific guidance around using .NET Aspire with Blazor or Office Add-ins. Office Add-ins are basically web applications, so if a framework is designed to work with web applications, in general it should work for Office Add-ins. ​
 
