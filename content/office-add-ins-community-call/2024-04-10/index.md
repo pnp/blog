@@ -87,7 +87,7 @@ We might need more information to understand which part of the functionality you
 
 **Hi Team, We are trying to review and compile the list of Office Add-ins from Office 365 Admin center. The goal is to review the add-ins that are being reported and then have those packaged up in Intune for better management (from an Enterprise POV). We have combo of 64 and 86 Office architecture. Any inputs on best practice methods available out there to Manage Office addins will be greatly appreciated. Thank you.**
 
-Thanks for your question. To better help, our team would like to understand more details of your scenario. Would you please go  [Issues · OfficeDev/office-js (github.com)](https://github.com/officedev/office-js/issues) to submit your question there so that the team can engage with you? 
+Thanks for your question. To better help, our team would like to understand more details of your scenario. Please go to the [OfficeDev/office-js issues repo on GitHub](https://github.com/officedev/office-js/issues) to submit your question so that the team can engage with you.
 
 **I have pushed add-in for my organization through Azure portal, How should I show the message / page if user don't have access to add-in? currently it show yellow page that add-in not loaded successfully. When I try with other office store add-in it show me the link for redirection when it is not installed**
 
