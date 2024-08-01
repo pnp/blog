@@ -65,7 +65,7 @@ We don’t have any specific guidance around using .NET Aspire with Blazor or Of
 
 To learn about the several methods used to deploy your Office Add-in for distribution to users, see [Deploy and publish Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/publish/publish).
 
-**I would like to ask questions about word addin, we are developing an addin for word, excel and powerpoint online and desktop versions, we have taskpan addin working fine but we wanted to activate our addin on events such as save if it is on new outlook desktop version.**
+**I would like to ask questions about Word add-ins, we are developing an add-in for word, excel and PowerPoint online and desktop versions, we have taskpane add-in working fine but we wanted to activate our add-in on events such as save if it is on new Outlook desktop version.**
 
 Thank you very much for your request here. We currently don't have such event for Word document save operations. We'll keep you informed when we have updates on this. Please also submit a request and describe your use case on the [Microsoft 365 Developer Platform Ideas Forum]( https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform).
 
