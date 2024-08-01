@@ -53,7 +53,7 @@ You can use Graph api to get access to Excel application data in your Word add-i
 
 For Office add-in testing, we recommend you use the [Office-Addin-Mock](https://www.npmjs.com/package/office-addin-mock) library with JavaScript unit testing framework. For more examples, see [Unit testing in Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/testing/unit-testing).
 
-**Not related to compliance or certification but my question relates to Copilot for M365 and the new Add in platform: Will the new Add in platform allow customisations to Copilot or are the two completely different things. If so, how can we work with Copilot in our Add-ins.**
+**Not related to compliance or certification but my question relates to Copilot for M365 and the new add-in platform: Will the new add-in platform allow customizations to Copilot or are the two completely different things. If so, how can we work with Copilot in our add-ins?**
 
 We are investigating scenarios for how Copilot and Office Add-ins could work together, but have no public plans to share at this time.  If there are scenarios or functionality you'd like to suggest, please let us know through the [feedback channel](https://aka.ms/m365dev-suggestions).
 
