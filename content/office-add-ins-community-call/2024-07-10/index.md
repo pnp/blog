@@ -55,7 +55,7 @@ For Office add-in testing, we recommend you use the [Office-Addin-Mock](https:/
 
 **Not related to compliance or certification but my question relates to Copilot for M365 and the new add-in platform: Will the new add-in platform allow customizations to Copilot or are the two completely different things. If so, how can we work with Copilot in our add-ins?**
 
-We are investigating scenarios for how Copilot and Office Add-ins could work together, but have no public plans to share at this time.  If there are scenarios or functionality you'd like to suggest, please let us know through the [feedback channel](https://aka.ms/m365dev-suggestions).
+We are investigating scenarios for how Copilot and Office Add-ins could work together but have no public plans to share at this time.  If there are scenarios or functionality you'd like to suggest, please let us know through the [Microsoft 365 Developer Platform Ideas forum](https://aka.ms/m365dev-suggestions).
 
 ## Call to action
 
