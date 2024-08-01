@@ -40,7 +40,7 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 Outlook Add-ins Updates
 * [Office Add-ins with the unified app manifest for Microsoft 365](https://learn.microsoft.com/office/dev/add-ins/develop/unified-manifest-overview)
 * [Build an Outlook add-in with the unified manifest](https://learn.microsoft.com/office/dev/add-ins/quickstarts/outlook-quickstart-json-manifest)
-* [Create Office Add-in projects using Teams Toolkit](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/teams-toolkit-overview)
+* [Create Office Add-in projects using Teams Toolkit](https://learn.microsoft.com/office/dev/add-ins/develop/teams-toolkit-overview)
 * [Convert xml to json manifest](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/convert-xml-to-json-manifest)
 
 Dev tools update for WXP add-ins
