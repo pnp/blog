@@ -63,7 +63,7 @@ We don’t have any specific guidance around using .NET Aspire with Blazor or Of
 
 **Deployment of Add-Ins to external users**
 
-You can use one of several methods to deploy your Office Add-in for distribution to users. [Deploy and publish Office Add-ins - Office Add-ins | Microsoft Learn​](https://learn.microsoft.com/en-us/office/dev/add-ins/publish/publish)
+To learn about the several methods used to deploy your Office Add-in for distribution to users, see [Deploy and publish Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/publish/publish).
 
 **I would like to ask questions about word addin, we are developing an addin for word, excel and powerpoint online and desktop versions, we have taskpan addin working fine but we wanted to activate our addin on events such as save if it is on new outlook desktop version.**
 
