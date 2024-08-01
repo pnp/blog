@@ -83,7 +83,7 @@ We might need more information to understand which part of the functionality you
 
 * [Office Add-ins platform overview](https://learn.microsoft.com/office/dev/add-ins/overview/office-add-ins)
 * [Create custom functions in Excel](https://learn.microsoft.com/office/dev/add-ins/excel/custom-functions-overview)
-* [Tutorial: Share data and events between Excel custom functions and the task pane - Office Add-ins | Microsoft Learn](https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/share-data-and-events-between-custom-functions-and-the-task-pane-tutorial)
+* [Tutorial: Share data and events between Excel custom functions and the task pane](https://learn.microsoft.com/office/dev/add-ins/tutorials/share-data-and-events-between-custom-functions-and-the-task-pane-tutorial)
 
 **Hi Team, We are trying to review and compile the list of Office addins from Office 365 Admin center. The goal is to review the addins that are being reported and then have those packaged up in Intune for better management (from an Enterprise POV). We have combo of 64 and 86 Office architecture. Any inputs on best practice methods available out there to Manage Office addins will be greatly appreciated. Thank you.**
 
