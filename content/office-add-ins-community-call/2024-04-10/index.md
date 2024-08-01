@@ -67,7 +67,7 @@ To learn about the several methods used to deploy your Office Add-in for distrib
 
 **I would like to ask questions about word addin, we are developing an addin for word, excel and powerpoint online and desktop versions, we have taskpan addin working fine but we wanted to activate our addin on events such as save if it is on new outlook desktop version.**
 
-Thank you very much for your request here. We currently don't have such event for Word document save operations. We will keep you informed when we have updates on this. Please also submit a request and describe your use case through this link: [Microsoft 365 Developer Platform - Microsoft Community Hub]( https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform).
+Thank you very much for your request here. We currently don't have such event for Word document save operations. We'll keep you informed when we have updates on this. Please also submit a request and describe your use case on the [Microsoft 365 Developer Platform Ideas Forum]( https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform).
 
 **Our Outlook add-in is using event-based activation (OnNewMessageCompose, OnMessageSend). Those events are not critical, therefore we use an unrestricted listing in AppSource. But we'd like to show an information inside the taskpane, if the add-in has been installed directly from AppSource by an user. So it's clear that event-based features of our add-ins won't work. Is there a way in Officejs to detect whether event-based activation is available or the add-in has been installed directly from AppSource by an user?**
 
