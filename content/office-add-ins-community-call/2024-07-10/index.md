@@ -47,7 +47,7 @@ An overview of the Microsoft 365 App Compliance Program
 **I had a question responded to in the June 2024 call and I was asked to clarify my scenario. Old question: Is there a way to allow two separate instances of office applications to communicate via Office.js? New question: If I have two Office.js task panes; one running in an instance of Word and another running in an instance of Excel on the same machine, is there a way I can obtain a reference to the running Excel application from the Word task pane (or vice versa) to emulate a temporary communication layer between the two running applications?
 To clarify, this would be a cross-application scenario. It is not necessary (but ideal) for the two task panes to communicate, but the ability to, for example, get the selected data in Excel from a user's actions in the Word task pane would be invaluable.**
 
-You can use Graph api to get access to Excel application data in your Word add-in: [Excel workbooks and charts API overview - Microsoft Graph | Microsoft Learn](https://learn.microsoft.com/en-us/graph/excel-concept-overview). However, this doesn’t work if you want to get access to Word data from Excel, so you may consider using a server to communicate between. 
+To learn how to use Graph API to get access to Excel application data in your Word add-in, see [Excel workbooks and charts API overview](https://learn.microsoft.com/graph/excel-concept-overview). However, this doesn’t work if you want to get access to Word data from Excel, so you may consider using a server to communicate between. 
 
 **Is there a way to use Microsoft Playwright (https://playwright.dev/) to test desktop add-ins?**
 
