@@ -40,7 +40,7 @@ An overview of the Microsoft 365 App Compliance Program
 * [Learn more at the M365 App Compliance docs pages](https://learn.microsoft.com/en-us/microsoft-365-app-certification)
 * [Begin the Microsoft 365 App](https://partner.microsoft.com/)
 * [Compliance Program on Partner Center](https://partner.microsoft.com/)
-* [View the getting started guide for Office, Teams, and SharePoint apps](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/userguide)
+* [View the getting started guide for Office, Teams, and SharePoint apps](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)
 
 ## Q&A (Question & Answers)
 
