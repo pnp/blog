@@ -55,7 +55,7 @@ Add-in authentication and access to Exchange APIs
 
 **I missed my question regarding source code protection in the call March 13th. I have submitted the question for two meetings now without any answer. I would love to hear your views on how to best protect the source code for an Office add-in (keeping it safe from someone copying it and selling it for their own). I know about code obfuscation, and I know some code can be put on the server side, but I would love to hear some best practice on this topic from the experts.**
 
-Obfuscation and putting code on the server side (like Azure functions) are pretty much the fundamental ways to keep your code private. Since Office Add-ins are basically web applications, they are subject to the same code protection strategies as any web application.
+Obfuscation and putting code on the server side (like Azure functions) are the fundamental ways to keep your code private. Since Office Add-ins are basically web applications; they are subject to the same code protection strategies as any web application.
 
 **Is it a good, relevant, smart idea to deploy an Office Add-in as an Aspire application using Blazor? (https://learn.microsoft.com/en-us/dotnet/aspire/)**
 
