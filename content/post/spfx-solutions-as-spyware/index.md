@@ -74,16 +74,19 @@ The value of such data on the dark web reflects its utility for cybercriminals, 
 
 To effectively mitigate the risks associated with installing potentially malicious SPFx solutions, organizations should consider a multi-layered approach that combines best practices for sourcing applications, monitoring, and logging.
  
-**Source Solutions from Trusted Sources**
+### Source Solutions from Trusted Sources
 **Official AppSource Marketplace**: The safest approach is to install solutions exclusively from the official Microsoft AppSource marketplace. These solutions undergo a vetting process, reducing the risk of malicious behavior. However, it is crucial to acknowledge that even vetted solutions should be subject to internal review and monitoring.
  
 **Enhanced Monitoring and Logging**
+
 **Dependency Logging to Application Insights**: Administrators should enable detailed logging to track dependencies and interactions with external APIs. This can be achieved by deploying a SharePoint solution, such as an application customizer, across the entire tenant. By applying this customizer tenant-wide, all traffic across SharePoint pages will be consistently logged, ensuring comprehensive coverage and visibility into external communications.
 To manage the volume of logged data, known and trusted URLs may be whitelisted. This helps focus attention on unfamiliar or suspicious network calls.
 Logs capture specific SharePoint pages triggering external calls. This granularity aids in identifying and evaluating potentially malicious solutions.
  
-**Educate and Train**
+### Educate and Train
+
 **Security Awareness**: If site level catalogs are enabled in the tenant, educate the site owners about the risks associated with installing and using third-party solutions. Encourage vigilance and a healthy skepticism toward unfamiliar apps or components.
+
 **Audit**: it is possible to extract information about all the sites with site-level app catalogs. This includes reading the manifests of the solutions deployed on these sites and identifying the API permissions they request. By analyzing this data, administrators can determine which API permissions are no longer necessary, thereby improving the overall security posture of the organization by reducing unnecessary access rights.
 
 
