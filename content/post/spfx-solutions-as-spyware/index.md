@@ -7,7 +7,7 @@ githubname: kkazala
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/spfxspyware.png
 # don't change
 tags: ["Entra ID", "Microsoft Entra ID", "SharePoint Framework (SPFx)", "SPFx"]
 # don't change
