@@ -12,7 +12,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/h4p8rbZOIms
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - July 10, 2024
@@ -37,25 +37,25 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 ## Resources related to this blog's content
 An overview of the Microsoft 365 App Compliance Program
 * [Watch the App Compliance Program Video to learn more](https://youtu.be/Aff_35f10B8)
-* [Learn more at the M365 App Compliance docs pages](https://learn.microsoft.com/microsoft-365-app-certification)
+* [Learn more at the M365 App Compliance docs pages](https://learn.microsoft.com/en-us/microsoft-365-app-certification)
 * [Begin the Microsoft 365 App](https://partner.microsoft.com/)
 * [Compliance Program on Partner Center](https://partner.microsoft.com/)
-* [View the getting started guide for Office, Teams, and SharePoint apps](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide)
+* [View the getting started guide for Office, Teams, and SharePoint apps](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/userguide)
 
 ## Q&A (Question & Answers)
 
 **I had a question responded to in the June 2024 call and I was asked to clarify my scenario. Old question: Is there a way to allow two separate instances of office applications to communicate via Office.js? New question: If I have two Office.js task panes; one running in an instance of Word and another running in an instance of Excel on the same machine, is there a way I can obtain a reference to the running Excel application from the Word task pane (or vice versa) to emulate a temporary communication layer between the two running applications?
 To clarify, this would be a cross-application scenario. It is not necessary (but ideal) for the two task panes to communicate, but the ability to, for example, get the selected data in Excel from a user's actions in the Word task pane would be invaluable.**
 
-To learn how to use Graph API to get access to Excel application data in your Word add-in, see [Excel workbooks and charts API overview](https://learn.microsoft.com/graph/excel-concept-overview). However, this doesn’t work if you want to get access to Word data from Excel, so you may consider using a server to communicate between. 
+You can use Graph api to get access to Excel application data in your Word add-in: [Excel workbooks and charts API overview - Microsoft Graph | Microsoft Learn](https://learn.microsoft.com/en-us/graph/excel-concept-overview). However, this doesn’t work if you want to get access to Word data from Excel, so you may consider using a server to communicate between. 
 
 **Is there a way to use Microsoft Playwright (https://playwright.dev/) to test desktop add-ins?**
 
-For Office add-in testing, we recommend you use the [Office-Addin-Mock](https://www.npmjs.com/package/office-addin-mock) library with JavaScript unit testing framework. For more examples, see [Unit testing in Office Add-ins](https://learn.microsoft.com/office/dev/add-ins/testing/unit-testing).
+For Office add-in testing, we recommend you use the [Office-Addin-Mock](https://www.npmjs.com/package/office-addin-mock) library with JavaScript unit testing framework. You can find more examples here: [Unit testing in Office Add-ins - Office Add-ins | Microsoft Learn](https://learn.microsoft.com/en-us/office/dev/add-ins/testing/unit-testing).
 
-**Not related to compliance or certification but my question relates to Copilot for M365 and the new add-in platform: Will the new add-in platform allow customizations to Copilot or are the two completely different things. If so, how can we work with Copilot in our add-ins?**
+**Not related to compliance or certification but my question relates to Copilot for M365 and the new Add in platform: Will the new Add in platform allow customisations to Copilot or are the two completely different things. If so, how can we work with Copilot in our Add-ins.**
 
-We are investigating scenarios for how Copilot and Office Add-ins could work together but have no public plans to share at this time.  If there are scenarios or functionality you'd like to suggest, please let us know through the [Microsoft 365 Developer Platform Ideas forum](https://aka.ms/m365dev-suggestions).
+We are investigating scenarios for how Copilot and Office Add-ins could work together, but have no public plans to share at this time.  If there are scenarios or functionality you'd like to suggest, please let us know through the [feedback channel](https://aka.ms/m365dev-suggestions).
 
 ## Call to action
 
