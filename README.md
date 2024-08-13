@@ -1,4 +1,4 @@
-# Microsoft 365 and Power Platform Community Blog 
+# Microsoft 365 and Power Platform Community Blog
 
 The [Microsoft 365 Community](https://aka.ms/m365pnp) is the virtual home for everyone who wants to extend Microsoft 365 beyond the standard. We want to share knowledge, learn from each other and achieve more together.
 
