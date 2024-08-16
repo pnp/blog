@@ -47,8 +47,8 @@ Malicious actors, including hackers or state actors, may exploit the access capa
 
 However, these seemingly benign components can be designed with malicious intent. **In the background**, such SPFx solutions could **exfiltrate data and transmit it to external API** controlled by the malicious actor.
 
-**Another concerning attack vector** involves the **theft of a user's authentication token**. This method is both simple to execute and highly dangerous, as it can grant attackers ongoing access to the victim's data without further interaction from the user.
-In SharePoint Framework, **acquiring an access and refresh token** can be as simple as **executing a few lines of code**.
+**Another concerning attack vector** involves the **theft of user's access and refresh tokens**. This method is both simple to execute and highly dangerous, as it can grant attackers ongoing access to the victim's data without further interaction from the user.
+In SharePoint Framework, **acquiring access/refresh tokens** can be as simple as **executing a few lines of code**.
 The token represents the user's credentials and permissions within the system, allowing to craft API requests using only permissions that have been granted to the service principal.
 
 Once the token is obtained, the **solution can quietly transmit it to an external endpoint** controlled by the attacker. This can be done without the user's knowledge or consent, as the operation can occur in the background during the brief period the user interacts with the solution.
