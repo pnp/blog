@@ -17,8 +17,10 @@ type: "regular"
 ## SharePoint solutions as a spyware - series
 
 1. [SharePoint solutions as a spyware](./../spfx-solutions-as-spyware)
-1. Trust but verify - this article
+1. **Trust but verify** - this article
 1. Microsoft Cybersecurity Reference Architecture (MCRA) - coming soon
+
+> This article originally appeared on https://dev.to/ site, [Trust but verify](https://dev.to/kkazala/trust-but-verify-2nck)
 
 ## Full trust solutions in Zero Trust Architecture
 
@@ -43,9 +45,10 @@ Conduct regular reviews of installed extensions, the permissions they request, a
 To simplify the review process, you may use the [Export-SPFxApiPermissions.ps1](https://pnp.github.io/script-samples/scripts/get-spfx-apipermissions/README.html) script, which generates Excel file with two reports:
 
 -   summary of all SPFx extensions installed in SPO sites, including site url, solution name and all API permissions declared in the manifest.
+    ![report API Permissions](./images/APIPermissions.png)
 -   summary of API permissions assigned to the "SharePoint Online Client Extensibility Web Application Principal", including SPFx solutions that requested them.
-
-It also displays a warning if any API permissions are assigned using Application mode, which is unsupported.
+    ![report API permissions Used](./images/APIpermissionsUsed.png)
+    It also displays a warning if any API permissions are assigned using Application mode, which is unsupported.
 
 > When using the script, keep in mind that a site-level app catalog, from a security perspective, functions like a regular list within a SharePoint Online site. This means that Global or SharePoint administrators do NOT have automatic access. Running the script as an administrator without first granting at least read access to the site would result in INCOMPLETE data. If the current user does not have access rights to a site hosting site-level app catalog, this script grants them Admin rights for the duration of script execution. The permissions are removed as soon as API Permissions are exported.
 
@@ -59,7 +62,11 @@ One thing you can do to detect data exfiltration is monitoring and tracking API 
 
 Results can be reviewed using the Application Map in Application Insights or by executing KUSTO query against the Application Insights logs, offering powerful tools for analyzing and understanding API usage patterns.
 
+![application map](./images/applicationMap.png)
+
 For a more proactive approach, you may set up an alert automatically triggers when a new external API call is detected. This mechanism allows you to stay informed whenever an unfamiliar API request occurs. If the alert conditions are met, an email notification will be sent to designated administrators or security personnel.
+
+![alert rule](./images/alerttule.png)
 
 This proactive approach ensures that potential threats or unauthorized activities are quickly identified, allowing for prompt investigation and response before any damage can occur.
 
