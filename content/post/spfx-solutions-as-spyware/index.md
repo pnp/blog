@@ -149,4 +149,4 @@ It is possible to review solutions deployed to sites with site-level app catalog
 
 By analyzing this data, administrators can determine which API permissions are no longer necessary, thereby improving the overall security posture of the organization by reducing unnecessary access rights.
 
-[Update 2024.08.18: "Roles and Responsibilities" section added, "Mitigation strategies" updatred with more information. ]
+[Update 2024.08.18: "Roles and Responsibilities" section added, "Mitigation strategies" updated with more information. ]
