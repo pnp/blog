@@ -26,7 +26,7 @@ This feature allows pipelines to access Microsoft Entra protected resources (suc
 
 The Service Principal must first be **authorized** to access the necessary resources. It can be done using the usual methods, such as the Azure Portal, Microsoft CLI, PowerShell, or PnP PowerShell.
 
-Click the **"Manage Service Principal"** link on the Service Connection page to navigate to the **App Registration** page in Azure. Here, you can find all the necessary details to grant the Service Principal access to APIs.
+To navigate to the **App Registration** page in Azure, click the **"Manage Service Principal"** link on the Service Connection page. Here, you can find all the necessary details to grant the Service Principal access to APIs.
 
 ![Manage Service Principal](./images/manageServicePrincipal.png)
 
@@ -39,13 +39,13 @@ In this case, you will also need to grant `FullControl` to the AppCatalog site, 
 To access the **properties of the Service Principal** use the **"Managed application in local directory"** link on the Application Registration page.
 ![Service Principal Link](./images/ServicePrincipalLink.png)
 
-Once you obtained the client id and display name, use the `Grant-PnPAzureADAppSitePermission` script or other method of your choice to grant the service principal necessary permissions:
+Once you obtained the client id and display name, use the `Grant-PnPAzureADAppSitePermission` script, or other method of your choice, to grant the service principal necessary permissions:
 
 ```powershell
 Grant-PnPAzureADAppSitePermission -AppId $clientId -DisplayName $clientDisplayName -Permissions FullControl
 ```
 
-Make sure you always grant the minimum required permissions. For accessing existing resources within a SharePoint site (e.g. publish change log), consider using the new `*.SelectedOperations.*` scopes, if possible.
+Make sure you always grant the minimum required permissions. For accessing existing resources within a SharePoint site (e.g. publish a change log), consider using new `*.SelectedOperations.*` scopes, if possible.
 
 ![Selected Operations API permissions](./images/apiPermissions.png)
 
@@ -53,16 +53,17 @@ See [Overview of Selected permissions in OneDrive and SharePoint](https://learn.
 
 ## Deploying SPFx solutions to tenant-level app catalog
 
-Now that your pipeline is using Service Connection with Managed Identity Federation, you are ready to update your deployment scripts and stop using secrets or certificates.
+Now that your pipeline is using Service Connection with Managed Identity Federation, you are ready to update your deployment scripts and to (finally!) stop using secrets and certificates.
 
 You will need to make a few small changes in your script:
 
--   change your tasks to use AzurePowerShell instead of PowerShell/bash
+-   change your tasks to use AzurePowerShell instead of PowerShell / bash
 -   obtain Access Token and use it when establishing connections
 
 > [!IMPORTANT]
 > When using `Connect-PnPOnline -AccessToken`, PnP PowerShell will not acquire tokens dynamically and if the token expires (typically after 1 hour) cmdlets will fail to work using this method.
 
+### deploy-spfx.yaml
 ```yaml
 variables:
     - name: tenantName
