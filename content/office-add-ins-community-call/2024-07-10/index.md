@@ -1,7 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – July 10, 2024"
-summary: "Topics include: An overview of the Microsoft 365 App Compliance Program by Leana Gerrard
-, Senior Product Manager at Microsoft and Sreekanth Thirthala Venkata, Principal Product Manager at Microsoft. Call hosted by Mingjia Liu, Product Manager at Microsoft. Recorded on July 10, 2024."
+summary: "Topics include: An overview of the Microsoft 365 App Compliance Program by Leana Gerrard, Senior Product Manager at Microsoft and Sreekanth Thirthala Venkata, Principal Product Manager at Microsoft. Call hosted by Mingjia Liu, Product Manager at Microsoft. Recorded on July 10, 2024."
 date: 2024-07-10T07:00:00-05:00
 author: "Mingjia Liu"
 githubname: MingjiaLiu1995
