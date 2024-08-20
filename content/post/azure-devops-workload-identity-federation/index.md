@@ -7,12 +7,14 @@ githubname: kkazala
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-    - images/spfxappinsights.png
+    - images/cover.png
 # don't change
 tags: ["Entra ID", "Azure AD", "Microsoft Entra ID", "SharePoint Framework (SPFx)", "SPFx", "PnP PowerShell"]
 # don't change
 type: "regular"
 ---
+
+> This article is based on the [Azure DevOps Pipeline with Workload Identity Federation Series](https://dev.to/kkazala/series/26443)' Articles
 
 In October 2023, Azure DevOps introduced a new option for creating Service Connections: [Workload Identity federation](https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation).
 
