@@ -7,7 +7,7 @@ categories:
   - PnP PowerShell
   - CLI for Microsoft 365
 images:
-  - images/pnp-management-shell-blog-post-news.png
+  - images/pnp-management-shell-blog-post-news-v2.png
 tags:
   - Microsoft Entra ID
   - PnP PowerShell
