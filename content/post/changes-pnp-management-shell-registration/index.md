@@ -22,15 +22,15 @@ videos:
 draft: false
 ---
 
- We are **introducing changes on how the PnP PowerShell and CLI for Microsoft 365 can be used to connect to Microsoft 365**, which might have an impact for your scripts and automation. Previously you were able to use a multi-tenant app registration called PnP Management Shell to grant the needed permissions for the scripts. This **multi-tenant app registration will be however deleted on September 9, 2024** which might impact your existing scripts.
+ We are **introducing changes on how the PnP PowerShell and CLI for Microsoft 365 can be used to connect to Microsoft 365**, which might have an impact on your scripts and automation. Previously you were able to use a multi-tenant app registration called PnP Management Shell to grant the needed permissions for the scripts. This **multi-tenant app registration will be, however, deleted on September 9, 2024** which might impact your existing scripts.
 
-This change is provided to help customers to **improve their security posture by encouraging the use of  single tenant app on just the scopes and permissions which are needed**. Both PnP PowerShell and CLI for Microsoft 365 support registering a tenant specific app for the needed permissions and there's no changes on the required user permissions. Similarly as previously with the multi-tenant app registration, single tenant registration requires that you are tenant administrator and have the needed permissions in the Azure side.
+This change is provided to help customers to **improve their security posture by encouraging the use of single tenant app registrations with on just the scopes and permissions which are needed**. Both PnP PowerShell and CLI for Microsoft 365 support registering a tenant specific app for the permissions needed and there's no changes on the required user permissions. Similarly, as previously with the multi-tenant app registration, single tenant registration requires that you are tenant administrator and have the needed permissions in the Azure side.
 
 {{< notice important>}}
-Any existing script which is dependent on the multi-tenant authentication option will be impacted on this change starting from Septebmer 9, 2024. Please confirm your authentication model from your script(s).
+Any existing script which is dependent on the multi-tenant authentication option will be impacted on this change starting from September 9, 2024. Please confirm your authentication model from your script(s).
 {{< /notice >}}
 
-Please see the below documentation references on the details on how to perform single tenant app registration.
+Please see the documentation below on references of the details on how to perform single tenant app registration.
 
 In the following video [Erwin van Hunen](https://www.linkedin.com/in/erwinvanhunen/) (MondayCoffee), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) are talking about the impact of the change.
 
@@ -45,7 +45,7 @@ Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to
 * **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/connecting.html#connect-by-using-your-own-entra-id-application)
 * **CLI for Microsoft 365** - [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/)
 
-If you have any questions, please use the specific issue lists for the questions
+If you have any questions, please use the specific issue list(s) for the questions:
 
 * [PnP PowerShell GitHub issue list](https://github.com/pnp/powershell/issues)
 * [CLI for Microsoft 365 issue list](https://github.com/pnp/cli-microsoft365/issues)
@@ -54,10 +54,10 @@ If you have any questions, please use the specific issue lists for the questions
 ## Frequently asked questions
 
 **Why is this happening?**
-We are following up on the updated focus for the customer security across the ecosystem and want to drive the usage of PnP PowerShell and CLI for Microsoft 365 towards more scoped permissions. Multi-tenant registration option was great to speed up the onboarding, but it resulted often too many scopes to get granted and even though they are delegated scopes (user permissions matter) - less is always better.
+We are following up on the updated focus for customer security across the ecosystem and want to drive the usage of PnP PowerShell and CLI for Microsoft 365 towards more scoped permissions. Multi-tenant registration option was great to speed up the onboarding, but it resulted often too many scopes to get granted and even though they are delegated scopes (user permissions matter) - less is always better.
 
 **Does this change impact existing implementations?**
-This depends. Change will impact authentication flow on EVERY scripts which has been using the multi-tenant app registration pattern. Please double check the authentication model you are using and update accordingly. Otherwise there will not be any changes required for the scripts.
+This depends. Change will impact authentication flow on every script which has been using the multi-tenant app registration pattern. Please double check the authentication model you are using and update accordingly. Otherwise, there will not be any changes required for the scripts.
 
 **Will existing scripts work after the authentication is changed with single tenant app registration?**
 Yes. You'll need to potentially update the authentication/connections section, but otherwise all the cmdlets and commands are working similarly with the multi-tenant and single tenant app registrations.
