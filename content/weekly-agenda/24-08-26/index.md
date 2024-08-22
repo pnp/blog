@@ -49,24 +49,22 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 
 * [Managing Microsoft 365 Message Center Triage With Planner](https://www.youtube.com/watch?v=cPmWrDcBohk) by [Michael Blumenthal](https://linkedin.com/in/michaelbblumenthal) (NORC at the University of Chicago)
 * [The Intrazone - A show about the Microsoft 365 intelligent intranet [promo]](https://www.youtube.com/watch?v=py84tIr0PSY) by [Mark Kashman](https://linkedin.com/in/mark-kashman) (Microsoft) and [Chris McNulty](https://linkedin.com/in/cmcnulty) (Microsoft) 
-* [Changes in PnP Management Shell registration in Microsoft 365](https://www.youtube.com/watch?v=VNgc4k_gCT0) by [Erwin van Hunen](https://linkedin.com/inerwinvanhunen) (MondayCoffee), [Waldek Mastykarz](https://linkedin.com/inwaldekmastykarz) (Microsoft), and [Vesa Juvonen](https://linkedin.com/invesajuvonen) (Microsoft) 
-* 
-* 
-* [Improving efficiency of workflow using Canvas Pages in Dynamics 365](https://www.youtube.com/watch?v=Hd1T53iU0VE) by [Nils Goldenstein](https://www.linkedin.com/in/nils-goldenstein/) (Prodware)
-* [Reusing SharePoint CSS classes in SPFx and Column Formatting](https://www.youtube.com/watch?v=v-7JzZLkrBs) by [Denis Molodtsov](https://www.linkedin.com/in/molodtsovd/) (TD)
-* [Introducing new OneDrive, Quick Link and Playlist cards for Viva Connections](https://www.youtube.com/watch?v=1rt3BMBWAcA) by [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-* [Introduction on building API plugins for Copilot](https://www.youtube.com/watch?v=pvf9hczZLeY) by [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft)
-* [Introduction to latest features and capabilities in Viva Connections](https://www.youtube.com/watch?v=x751SkliQdA) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-* [Advance considerations for custom Microsoft Graph Connectors](https://www.youtube.com/watch?v=54ibZXoHlN4) by [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) (Microsoft)
+* [Changes in PnP Management Shell registration in Microsoft 365](https://www.youtube.com/watch?v=VNgc4k_gCT0) by [Erwin van Hunen](https://linkedin.com/in/erwinvanhunen) (MondayCoffee), [Waldek Mastykarz](https://linkedin.com/in/waldekmastykarz) (Microsoft), and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft) 
+* [Sharing data between SPFx web parts](https://www.youtube.com/watch?v=wjvT8kAOquc) by  [Guido Zambarda](https://linkedin.com/in/guidozam) (PiaSys)
+* [Data on the Move - Migrating to OneDrive | Sync Up - Episode 10](https://www.youtube.com/watch?v=JZnqhJdQPbM) by [Stephen Rice](https://linkedin.com/in/srice08), [Arvind Mishra](https://linkedin.com/in/arvindmishra1), [Vishal Lodha](https://linkedin.com/in/vishallodha), [Yogesh Ratnaparkhi](https://linkedin.com/in/yogeshratna)
+* [Introduction to new data visualization components for Viva Connections](https://www.youtube.com/watch?v=zBLEEF6cC7I&t=37s) by [Bhargavi Annadevara](https://linkedin.com/in/bhargavi-annadevara) (Microsoft), [Sri Harsha Chilukuri](https://linkedin.com/in/sharshach) (Microsoft), and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft)
+* [Introduction to HTML Quick Views with SPFx in Viva Connections cards](https://www.youtube.com/watch?v=kL6Nsx-K8Oo) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) 
+* [Adding Copilot to your custom SharePoint Embedded app](https://www.youtube.com/watch?v=30i7q09EtQo) by [Marc Windle](https://linkedin.com/in/marc-windle-908b3055) (Microsoft)
+* [Handling action-based data retrieval & selection with a Teams and M365 Messaging Extension](https://www.youtube.com/watch?v=yAjS5UKd5v4) by [Markus Möller](https://linkedin.com/in/markus-moeller-25b72821) (Avanade)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Join Microsoft Conversational AI Vice President Omar Aftab at PPCC24!](https://www.youtube.com/watch?v=Zie1_msI3yo)
-* [Pacific Gas & Electric saves millions each year by automating business processes with Power Platform](https://www.youtube.com/watch?v=9a_IJJiY3SY)
+* [Epiq automates employee onboarding with Power Platform and saves over $500,000 a year](https://www.youtube.com/watch?v=qUB6dFd6-JI)
+
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* No new videos here
+* [Bring your AI app to Microsoft Teams with Azure OpenAI Studio's new 'Deploy to a Teams App' feature](https://www.youtube.com/watch?v=xAXlFGSH1II)
 
 ---
 
@@ -74,16 +72,16 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Microsoft 365 Certification control spotlight: Malware protection](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-malware-protection/) by Leana Gerrard (Microsoft)
-* [Teams Toolkit for Visual Studio Code update – August 2024](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-august-2024/) by Junjie Li (Microsoft)
-* [Updates on deprecating legacy Exchange Online tokens for Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/updates-on-deprecating-legacy-exchange-online-tokens-for-outlook-add-ins/) by David Chesnut (Microsoft) & Paul Inverso (Microsoft)
+* [Public preview of SharePoint Framework 1.20 – First release of upcoming features](https://devblogs.microsoft.com/microsoft365dev/public-preview-of-sharepoint-framework-1-20-first-release-of-upcoming-features/) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft)
+
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* No new blog posts
+* [Build Power Apps for Scanning Devices](https://pnp.github.io/blog/post/build-power-apps-for-scanning-devices/) by [Sohil Bhalla](https://www.linkedin.com/in/sohil-bhalla-46121434/) (Codeless Technology)
+* [Changes in PnP Management Shell registration in Microsoft 365](https://pnp.github.io/blog/post/changes-pnp-management-shell-registration/) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft)
 
 ---
 
@@ -92,9 +90,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft Power Platform community call – August 2024](https://www.youtube.com/watch?v=TS4t8f8J-Sk)
-* 
-* [Microsoft 365 & Power Platform community call - 15th of August 2024](https://www.youtube.com/watch?v=txBnyvnpc4s)
-* [Office add-ins community call - August 2024](https://www.youtube.com/watch?v=12mHuf7qAkg)
+
 
 ---
 
@@ -159,6 +155,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Exchange Summit](https://www.communitydays.org/event/2025-02-18/exchange-summit-2025) - February 18, 2024 - Wuerzburg, Germany
 * [M365 DC Community Days 2025](https://www.communitydays.org/event/2025-02-21/m365-dc-community-days-2025) - February 21-22, 2025 - Reston, Virginia, United States
 * [Microsoft Fabric Community Conference](https://www.communitydays.org/event/2025-03-31/microsoft-fabric-community-conference) - March 31 - April 3, 2024 - Las Vegas, Nevada, United States
+* [Experts Live Germany 2025](https://www.communitydays.org/event/2025-04-11/experts-live-germany-2025) - April 11, 2025 - Leipzig, Germany
 
 We hope to see you around!
 
