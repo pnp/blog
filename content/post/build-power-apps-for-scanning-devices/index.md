@@ -1,6 +1,6 @@
 ---
 title: "Build Power Apps for Scanning Devices"
-date: 2024-08-13T16:32:38.770Z
+date: 2024-08-21T16:32:38.770Z
 author: Sohil Bhalla
 githubname: sohilbhalla
 categories:
@@ -9,10 +9,6 @@ images:
   - images/Zebra-scanner-poowerapps.jpg
 tags:
   - Power Apps
-  - Scanners
-  - Zebra Scanners
-  - QR Codes
-  - BarCodes
 type: regular
 ---
 
