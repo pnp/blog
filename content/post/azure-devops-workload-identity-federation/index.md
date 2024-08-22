@@ -1,6 +1,6 @@
 ---
 title: Deploy SPFx app using pipeline's Workload Identity federation
-date: 2024-08-19T09:00:26.767Z
+date: 2024-08-22T08:00:26.767Z
 author: Kinga Kazala
 githubname: kkazala
 # don't change
