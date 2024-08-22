@@ -19,6 +19,8 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
+> Our weekly Microsoft 365 & Power Platform call with Microsoft presenters has been on a summer break in July and August and will continue every Tuesday again starting September 3rd, 2024. Yo9u can download the recurring invite [here](https://aka.ms/community/calls), please join us, everyone is welcome! 
+
 This is the agenda for the upcoming week:
 
 
@@ -45,6 +47,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Managing Microsoft 365 Message Center Triage With Planner](https://www.youtube.com/watch?v=cPmWrDcBohk) by [Michael Blumenthal](https://linkedin.com/in/michaelbblumenthal) (NORC at the University of Chicago)
+* [The Intrazone - A show about the Microsoft 365 intelligent intranet [promo]](https://www.youtube.com/watch?v=py84tIr0PSY) by [Mark Kashman](https://linkedin.com/in/mark-kashman) (Microsoft) and [Chris McNulty](https://linkedin.com/in/cmcnulty) (Microsoft) 
+* [Changes in PnP Management Shell registration in Microsoft 365](https://www.youtube.com/watch?v=VNgc4k_gCT0) by [Erwin van Hunen](https://linkedin.com/inerwinvanhunen) (MondayCoffee), [Waldek Mastykarz](https://linkedin.com/inwaldekmastykarz) (Microsoft), and [Vesa Juvonen](https://linkedin.com/invesajuvonen) (Microsoft) 
+* 
+* 
 * [Improving efficiency of workflow using Canvas Pages in Dynamics 365](https://www.youtube.com/watch?v=Hd1T53iU0VE) by [Nils Goldenstein](https://www.linkedin.com/in/nils-goldenstein/) (Prodware)
 * [Reusing SharePoint CSS classes in SPFx and Column Formatting](https://www.youtube.com/watch?v=v-7JzZLkrBs) by [Denis Molodtsov](https://www.linkedin.com/in/molodtsovd/) (TD)
 * [Introducing new OneDrive, Quick Link and Playlist cards for Viva Connections](https://www.youtube.com/watch?v=1rt3BMBWAcA) by [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
@@ -84,6 +91,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft Power Platform community call – August 2024](https://www.youtube.com/watch?v=TS4t8f8J-Sk)
+* 
 * [Microsoft 365 & Power Platform community call - 15th of August 2024](https://www.youtube.com/watch?v=txBnyvnpc4s)
 * [Office add-ins community call - August 2024](https://www.youtube.com/watch?v=12mHuf7qAkg)
 
