@@ -121,8 +121,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Summit NA Roadshow - New York](https://www.communitydays.org/event/2024-08-14/summit-na-roadshow-new-york) - August 14 -22, 2024 = New York, New York, United States
-* [Low Code No Code Microsoft Power Platform Conference 2024](https://www.communitydays.org/event/2024-08-22/low-code-no-code-microsoft-power-platform-conference-2024) - August 22-24, 2024 - Virtual
 * [Dynamics User Group Ohio Regional Meetup](https://www.communitydays.org/event/2024-08-27/dynamics-user-group-ohio-regional-meetup-2024), August 27-28, 2024 - Dublin, Ohio, Unites States
 * [Dynamics User Group Texas regional meetup](https://www.communitydays.org/event/2024-08-29/dynamics-user-group-texas-regional-meetup-2024), August 29, 2024 - Houston, Texas, United States
 * [CollabDays Hamburg](https://www.communitydays.org/event/2024-08-31/collabdays-hamburg-2024) - August 31, 2024 - Hamburg, Germany
