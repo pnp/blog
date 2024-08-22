@@ -60,7 +60,8 @@ New timeline for legacy Exchange token deprecation
 * For issues, find us on [Github](https://github.com/OfficeDev/office-js/issues) and put “NAA” in your issue title
 
 VSC extension for Office add-in update
-* [How to use]
+* [Install the Office Add-ins Development Kit](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger)
+* [Learn more about the Office Add-ins Development Kit](https://learn.microsoft.com/office/dev/add-ins/develop/development-kit-overview?tabs=vscode)
 
 
 ## Q&A (Question & Answers)
