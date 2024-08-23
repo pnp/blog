@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 26th of August 2024 week
-date: 2024-08-22T08:36:40.312Z
+date: 2024-08-23T02:36:40.312Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -8,9 +8,9 @@ categories:
 images:
   - images/weeklysummary35.png
 tags: []
-type: regular
+type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -19,7 +19,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
-> Our weekly Microsoft 365 & Power Platform call with Microsoft presenters has been on a summer break in July and August and will continue every Tuesday again starting September 3rd, 2024. Yo9u can download the recurring invite [here](https://aka.ms/community/calls), please join us, everyone is welcome! 
+> Our weekly Microsoft 365 & Power Platform call with Microsoft presenters has been on a summer break in July and August and will continue every Tuesday again starting September 3rd, 2024. You can download the recurring invite [here](https://aka.ms/community/calls), please join us, everyone is welcome! 
 
 This is the agenda for the upcoming week:
 
@@ -36,7 +36,6 @@ Demos this time
 * [Nanddeep Nachan](https://www.linkedin.com/in/nanddeepnachan/) - Streamlining Internal Marketplaces using Microsoft Copilot and a Teams Message Extension for Classified Listings
 * [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) - List Formatting Tips & Tricks - latest features
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -47,6 +46,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Introduction to Dataflows - The underrated tool in Power Platform](https://www.youtube.com/watch?v=7xWfcN38MFs) by [Mohamed Abdelsattar](https://www.linkedin.com/in/mohamedsattar/) (Avanade)
 * [Managing Microsoft 365 Message Center Triage With Planner](https://www.youtube.com/watch?v=cPmWrDcBohk) by [Michael Blumenthal](https://linkedin.com/in/michaelbblumenthal) (NORC at the University of Chicago)
 * [The Intrazone - A show about the Microsoft 365 intelligent intranet [promo]](https://www.youtube.com/watch?v=py84tIr0PSY) by [Mark Kashman](https://linkedin.com/in/mark-kashman) (Microsoft) and [Chris McNulty](https://linkedin.com/in/cmcnulty) (Microsoft) 
 * [Changes in PnP Management Shell registration in Microsoft 365](https://www.youtube.com/watch?v=VNgc4k_gCT0) by [Erwin van Hunen](https://linkedin.com/in/erwinvanhunen) (MondayCoffee), [Waldek Mastykarz](https://linkedin.com/in/waldekmastykarz) (Microsoft), and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft) 
@@ -89,6 +89,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 22nd of August 2024](https://www.youtube.com/watch?v=D1SXlptSICg)
 * [Microsoft Power Platform community call – August 2024](https://www.youtube.com/watch?v=TS4t8f8J-Sk)
 
 
