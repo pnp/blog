@@ -6,7 +6,7 @@ githubname: kkazala
 categories: ["Community post"]
 images:
 - images/thumbnail4.png
-tags: []
+tags: ["Power Platform", "Power Apps", "Power Automate", "Dataverse"]
 type: "regular"
 ---
 
@@ -219,5 +219,4 @@ You can  use custom APIs without any synchronous logic that exist to only to  no
 
   Custom  process actions can also be cataloged as business events. This is for  backward compatibility, and custom API is the recommended approach for  exposing events.
 
-Custom  events can represent events that occur in external systems. See [External  Events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events#external-events) for additional considerations
-
+Custom  events can represent events that occur in external systems. See [External  Events](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/business-events#external-events) for additional considerations.
