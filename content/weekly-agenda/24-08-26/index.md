@@ -33,7 +33,7 @@ This is the agenda for the upcoming week:
 Demos this time
 
 * [Benny Ifeanyi Iheagwara](https://www.linkedin.com/in/ifeanyi-iheagwara/) (ARM HoldCo) - Exploring generative AI in Power Automate using AI builder
-* [Nanddeep Nachan](https://www.linkedin.com/in/nanddeepnachan/) - Streamlining Internal Marketplaces using Microsoft Copilot and a Teams Message Extension for Classified Listings
+* [Smita Nachan](https://www.linkedin.com/in/smitanachan/) & [Nanddeep Nachan](https://www.linkedin.com/in/nanddeepnachan/) - Streamlining Internal Marketplaces using Microsoft Copilot and a Teams Message Extension for Classified Listings
 * [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) - List Formatting Tips & Tricks - latest features
 
 Also: 📷 Picture Time with community in Together Mode!
