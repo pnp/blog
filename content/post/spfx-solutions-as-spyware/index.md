@@ -16,7 +16,7 @@ type: "regular"
 
 ## SharePoint solutions as a spyware - series
 
-1. **SharePoint solutions as a spyware** - this article
+1. **SharePoint solutions as a spyware** - this article (updated 26.08.2024)
 1. [Trust but verify](./../spfx-solutions-as-spyware-part2)
 1. Microsoft Cybersecurity Reference Architecture (MCRA) - coming soon
 
