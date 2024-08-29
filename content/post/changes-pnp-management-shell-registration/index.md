@@ -50,6 +50,10 @@ If you have any questions, please use the specific issue list(s) for the questio
 * [PnP PowerShell GitHub issue list](https://github.com/pnp/powershell/issues)
 * [CLI for Microsoft 365 issue list](https://github.com/pnp/cli-microsoft365/issues)
 
+Here are also guidance videos on how to get started with the PnP PowerShell and CLI for Microsoft 365 in single tenant registration
+
+* [Getting started with PnP PowerShell - Installation and app registration](https://www.youtube.com/watch?v=ecRZrHOucz4)
+* Getting started with CLI for Microsoft 365 - Coming soon
 
 ## Frequently asked questions
 
