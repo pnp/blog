@@ -4,7 +4,7 @@ title: Troubleshoot TTK issues with Node, Azure Functions, & macOS
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Learn how to fix incompatible Node.js version issues with the Azure Functions Core Tools in the Teams Toolkit (TTK) for VS Code when using NVM on macOS.
 
-date: 2024-08-27T15:42:31-04:00
+date: 2024-08-29T09:42:31Z
 
 # Author. Your own name
 author: "Andrew Connell"
