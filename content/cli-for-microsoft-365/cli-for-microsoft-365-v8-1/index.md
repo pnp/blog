@@ -1,0 +1,220 @@
+---
+title: CLI for Microsoft 365 v8.1
+date: 2024-08-31T02:00:00.000Z
+author: Adam Wójcik
+githubname: Adam-it
+categories:
+  - CLI for Microsoft 365
+images:
+  - images/banner-cli-m365.png
+tags:
+  - CLI for Microsoft 365
+  - Entra ID
+  - Teams
+  - SharePoint
+  - SharePoint Embedded
+type: popular
+---
+
+We have just published a new minor version of CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces several new commands that will enhance the quality of your Microsoft 365 experience.
+
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
+ 
+## What's new
+
+### New command to remove Entra enterprise applications
+
+We already have commands that allow you to query and even add a new Entra enterprise application and now we extended this area with a brand new command that will allow you to do a clean up by removing the not wanted enterprise application and it is extra convinent to use.
+
+To delete an enterprise application by display name simply run:
+
+```sh
+m365 entra enterpriseapp remove --displayName "Contoso app"
+```
+
+You may also to the same either by specifing application ID:
+
+```sh
+m365 entra enterpriseapp remove --id b2307a39-e878-458b-bc90-03bc578531d6
+```
+
+Or object ID: 
+
+```sh
+m365 entra enterpriseapp remove --objectId b2307a39-e878-458b-bc90-03bc578531dd
+```
+
+For more information check the following resources:
+- [m365 entra enterpriseapp remove](https://pnp.github.io/cli-microsoft365/cmd/entra/enterpriseapp/enterpriseapp-remove)
+
+### New command to modify an Entra group
+
+In this release we introduced a new way that will allow you to modify the: name, description, visibility, group owners and even members and a lot more of an Entra group all wrapped in an easy to use single command.
+
+To update the display name of a group specified by the display name, simply run:
+
+```sh
+m365 entra group set --displayName Devs --newDisplayName Developers
+```
+
+To set the owners of a group to the specified people run:
+
+```sh
+m365 entra group set --id 57fd6b33-54eb-42b0-9ea0-8a9ac04eab7d --ownerUserNames "john.doe@contoso.com,adele.vance@contoso.com"
+```
+
+For more information check the following resources:
+- [m365 entra group set](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-set/)
+
+### Extended SharePoint Embedded capabilities
+
+This time we also introduced a new command to the SPE (SharePoint Embedded) area which will allow you to list all Container Types.
+
+You may do that by running:
+
+```sh
+m365 spe containertype list
+```
+
+For more information check the following resources:
+- [m365 spe containertype list](https://pnp.github.io/cli-microsoft365/cmd/spe/containertype/containertype-list/)
+
+### More entra multitenant commands
+
+We continue to invest in the entra multitenant commands by extending this area with three new commands that will allow you to creates and remove multitenant organization or update its properties.
+
+To create a new multitenant organization with display name only, run the following:
+
+```sh
+m365 entra multitenant add --displayName 'Contoso organization'
+```
+
+To remove the multitenant organization, simply do:
+
+```sh
+m365 entra multitenant remove
+```
+
+And to update multitenant organization display name and description, simply run:
+
+```sh
+m365 entra multitenant set --displayName 'Fabrikam organization' --description 'Multitenant organization between Fabrikam and Contoso'
+```
+
+For more information check the following resources:
+- [m365 entra multitenant add](https://pnp.github.io/cli-microsoft365/cmd/entra/multitenant/multitenant-add/)
+- [m365 entra multitenant remove](https://pnp.github.io/cli-microsoft365/cmd/entra/multitenant/multitenant-remove/)
+- [m365 entra multitenant set](https://pnp.github.io/cli-microsoft365/cmd/entra/multitenant/multitenant-set/)
+
+### Restore a deleted message from a channel in a Teams with ease
+
+Teams commands was always an important part of CLI for Microsoft 365 and in this release we added a brand new command that will allow you to restores a deleted message from a channel.
+
+You may do that either by specifing everything by IDs:
+
+```sh
+m365 teams message restore --teamId 5f5d7b71-1161-44d8-bcc1-3da710eb4171 --channelId 19:4a95f7d8db4c4e7fae857bcebe0623e6@thread.tacv2 --id 1540747442203
+```
+
+Or use team and channel display names for readability:
+
+```sh
+m365 teams message restore --teamName Marketing --channelName Branding --id 1540747442203
+```
+
+For more information check the following resources:
+- [m365 teams message restore](https://pnp.github.io/cli-microsoft365/cmd/teams/message/message-restore/)
+
+### Query folder sharing link
+
+This release also introduced two new commands that will allow you to get the folder sharing links and its details.
+
+To list all sharing links of a folder by url, run:
+
+```sh
+m365 spo folder sharinglink list --webUrl https://contoso.sharepoint.com/sites/demo --folderUrl "/sites/demo/shared documents/folder"
+```
+
+And to get a specific sharing link of a folder by url, run:
+
+```sh
+m365 spo folder sharinglink get --webUrl https://contoso.sharepoint.com/sites/demo --id 45fa6aed-362f-48b1-b04e-6da85a526506 --folderUrl "/sites/demo/shared documents/folder"
+```
+
+For more information check the following resources:
+- [m365 spo folder sharinglink list](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-sharinglink-list/)
+- [m365 spo folder sharinglink get](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-sharinglink-get/)
+
+## What's changed
+
+Besides all these new commands, we've also made some changes to some existing commands. A few bugs have been fixed and the codebase has been polished. Changes include an enhancement to the way we may [activate the specified Microsoft 365 tenant connection](#Enhacemenets-to-connection-use-command).
+
+### Enhacemenets to connection use command
+
+One of CLI for Microsoft 365 biggest advantages is to be able to connect to multiple accounts (tenants) and just switch connections when needed instead of having have to log in and out everytime. In this release we enhanced the `connection use` command in a way that it will present you a prompt with a list of all your connections so it is super easy to just pick the correct one and perform the switch. 
+
+// TODO: add image
+
+- [m365 connection use](https://pnp.github.io/cli-microsoft365/cmd/connection/connection-use/)
+
+## Upcoming changes
+
+Curious about what lies ahead? We are excited to share some of our ongoing projects and initiatives.
+
+Right now, there are over 40 opened PRs with new awesome features that will soon be added to CLI for Microsoft 365, and [93 issues that are up for grabs](https://github.com/pnp/cli-microsoft365/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). We're working hard to bring you even more exciting features and improvements in the next release. 
+
+But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new/choose) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
+
+Sharing is Caring!
+
+## Contributors
+
+We want to extend our heartfelt appreciation to the incredible individuals who have made this release possible. Without their valuable contributions and dedication, CLI for Microsoft 365 wouldn't be where it is today. Let's give a round of applause to the following contributors (in alphabetical order):
+
+// TODO: recheck and update the list
+- [Adam Wójcik](https://github.com/Adam-it)
+- [Arjun Menon](https://github.com/arjunumenon)
+- [Jasey Waegebaert](https://github.com/Jwaegebaert)
+- [lovyjain](https://github.com/lovyjain)
+- [Martin Loitzl](https://github.com/mloitzl)
+- [Martin Machacek](https://github.com/MartinM85)
+- [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
+- [Michał Kornet](https://github.com/mkm17)
+- [Milan Holemans](https://github.com/milanholemans)
+- [Saurabh Tripathi](https://github.com/Saurabh7019)
+- [Waldek Mastykarz](https://github.com/waldekmastykarz)
+
+### High fives
+
+We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
+
+// TODO: recheck and update the list
+- [Angel L. Mateo](https://github.com/amateo)
+- [bubbletroubles](https://github.com/bubbletroubles)
+- [dojcsakj](https://github.com/dojcsakj)
+- [Ikramullah Quraishi](https://github.com/IkramullahQuraishi)
+- [Mikey](https://github.com/BrainSlugs83)
+- [Scott Berry](https://github.com/scberr)
+- [ToeKneeFan](https://github.com/ToeKneeFan)
+
+## Get started today!
+
+Experience the power of the CLI for Microsoft 365 by getting the latest release from npm:
+
+```bash
+npm i -g @pnp/cli-microsoft365
+```
+
+Alternatively, you can access the latest release from Docker:
+
+```bash
+docker run --rm -it m365pnp/cli-microsoft365:latest
+```
+
+## Need more information?
+
+For additional guidance on getting started or to explore detailed information about commands, architecture, or the project itself, visit [aka.ms/cli-m365](https://aka.ms/cli-m365).
+
+## Stay connected!
+
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
