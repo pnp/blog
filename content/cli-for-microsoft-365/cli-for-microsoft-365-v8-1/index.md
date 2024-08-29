@@ -22,7 +22,7 @@ We have just published a new minor version of CLI for Microsoft 365. [CLI for Mi
  
 ## What's new
 
-### New command to remove Entra enterprise applications
+### New command to remove Entra enterprise application
 
 We already have commands that allow you to query and even add a new Entra enterprise application. Now, we have extended this area with a brand new command that will allow you to clean up by removing the unneeded enterprise application. It is extra convenient to use.
 
@@ -95,7 +95,7 @@ To remove the multitenant organization, simply do:
 m365 entra multitenant remove
 ```
 
-And to update the multitenant organization display name and description, simply run:
+To update the multitenant organization display name and description, simply run:
 
 ```sh
 m365 entra multitenant set --displayName 'Fabrikam organization' --description 'Multitenant organization between Fabrikam and Contoso'
@@ -125,6 +125,25 @@ m365 teams message restore --teamName Marketing --channelName Branding --id 1540
 For more information check the following resources:
 - [m365 teams message restore](https://pnp.github.io/cli-microsoft365/cmd/teams/message/message-restore/)
 
+### Create a new OneNote notebook
+
+Everybody need some place for notes and OneNote is one of the best tools for that. In this release we give you a brand new command that will allow you to automate creating OneNote notebooks either for a single user or for a group.
+
+To create a Microsoft OneNote notebook for the currently logged in user run:
+
+```sh
+m365 onenote notebook add --name "Private Notebook"
+```
+
+Or to create a Microsoft OneNote notebook in a group specified by displayName run:
+
+```sh
+m365 onenote notebook add --name "Private Notebook" --groupName "MyGroup"
+```
+
+For more information check the following resources:
+- [m365 onenote notebook add](https://pnp.github.io/cli-microsoft365/cmd/onenote/notebook/notebook-add/)
+
 ### Query folder sharing link
 
 This release also introduced two new commands that will allow you to get the folder sharing links and their details.
@@ -151,9 +170,9 @@ Besides all these new commands, we've also made some changes to some existing co
 
 ### Enhancements to connection use command
 
-One of the CLI for Microsoft 365 biggest advantages is to be able to connect to multiple accounts (tenants) and just switch connections when needed instead of having to log in and out every time. In this release, we enhanced the `connection use` command in a way that it will present you a prompt with a list of all your connections so it is super easy to just pick the correct one and perform the switch. 
+One of the biggest advantages of the CLI for Microsoft 365 is that it is able to connect to multiple accounts (tenants) and switch connections when needed instead of having to log in and out every time. In this release, we enhanced the `connection use` command in a way that it will present you a prompt with a list of all your connections so it is super easy to just pick the correct one and perform the switch. 
 
-// TODO: add image
+![connection-use](./images/connection-use.png)
 
 - [m365 connection use](https://pnp.github.io/cli-microsoft365/cmd/connection/connection-use/)
 
@@ -171,16 +190,16 @@ Sharing is Caring!
 
 We want to extend our heartfelt appreciation to the incredible individuals who have made this release possible. Without their valuable contributions and dedication, CLI for Microsoft 365 wouldn't be where it is today. Let's give a round of applause to the following contributors (in alphabetical order):
 
-// TODO: recheck and update the list
 - [Adam Wójcik](https://github.com/Adam-it)
 - [Arjun Menon](https://github.com/arjunumenon)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
-- [lovyjain](https://github.com/lovyjain)
-- [Martin Loitzl](https://github.com/mloitzl)
+- [Martin Lingstuyl](https://github.com/martinlingstuyl)
 - [Martin Machacek](https://github.com/MartinM85)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
-- [Michał Kornet](https://github.com/mkm17)
 - [Milan Holemans](https://github.com/milanholemans)
+- [Nanddeep Nachan](https://github.com/nanddeepn)
+- [Nico De Cleyre](https://github.com/nicodecleyre)
+- [Reshmee Auckloo](https://github.com/reshmee011)
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
@@ -188,14 +207,16 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 
 We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
 
-// TODO: recheck and update the list
-- [Angel L. Mateo](https://github.com/amateo)
-- [bubbletroubles](https://github.com/bubbletroubles)
-- [dojcsakj](https://github.com/dojcsakj)
-- [Ikramullah Quraishi](https://github.com/IkramullahQuraishi)
-- [Mikey](https://github.com/BrainSlugs83)
-- [Scott Berry](https://github.com/scberr)
-- [ToeKneeFan](https://github.com/ToeKneeFan)
+- [Albert-Jan Schot](https://github.com/appieschot)
+- [Gustavo Velez](https://github.com/gavdgavd)
+- [hsantens](https://github.com/hsantens)
+- [Janne Holm](https://github.com/jhholm)
+- [louderthanloud123](https://github.com/louderthanloud123)
+- [Michał Kornet](https://github.com/mkm17)
+- [MOMED2023](https://github.com/MOMED2023)
+- [NGseb](https://github.com/NGseb)
+- [Priya Ananthasankar](https://github.com/priyaananthasankar)
+- [tor-axbit](https://github.com/tor-axbit)
 
 ## Get started today!
 
