@@ -57,10 +57,10 @@ To simplify the review process, you may use the [Export-SPFxApiPermissions.ps1](
 
 Instead of manually review and delete unused permissions, you may decide to execute the cleanup process automatically, on a schedule.
 
-Use the [Cleanup-APIPermissions.ps1](https://gist.github.com/kkazala/399c03e78a8b40f9fecdccead265160c) script as a source for your Azure Runbook to regularly clean up API permissions assigned to the SharePoint service principal.
+Use the [Remove unused API Permissions assigned to "SharePoint Online Client Extensibility Web Application Principal"](https://pnp.github.io/script-samples/spo-delete-unused-spfx-apipermissions/README.html?tabs=graphps) script sample as a source for your Azure Runbook to regularly clean up API permissions assigned to the SharePoint service principal.
 Use the `-Interactive` flag to run the script locally as a signed in user, or with `-WhatIf` flag to see what would happen without actually making changes.
 
-Remember to assign permissions to the Managed Identity used by our automation. You may use the [Grant-APIPermissions_ManagedIdentity.ps1](https://gist.github.com/kkazala/e293910545bbf02017a81a847aee9ddb) script that is configured to grant minimum required permissions to Microsoft Graph and selected SharePoint sites.
+Remember to assign permissions to the Managed Identity used by our automation. You may use the [Grant Managed Identity permissions to audit and cleanup "SharePoint Online Client Extensibility Web Application Principal" API permissions](https://pnp.github.io/script-samples/aad-grant-serviceprincipal-api-permissions/README.html?tabs=pnpps) script that is configured to grant minimum required permissions to Microsoft Graph and selected SharePoint sites.
 
 > Enabling the site-level app catalog does require SharePoint Administrator permissions. This presents a good opportunity to engage with site owners on security practices and to obtain their agreement for regular audits of the SPFx apps they install.
 
