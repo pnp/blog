@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 2nd of September 2024 week
-date: 2024-08-29T11:00:30.449Z
+date: 2024-08-30T02:00:30.449Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -33,9 +33,8 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Anshul Jethwani](https://www.linkedin.com/in/ajethwani/) (Microsoft) - Zero-to-One in AI - Pro-Code extensibility example solutions to build for scale (PART 1)
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)  - Introduction to new Viva Connections data visualization components
-* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft)  - Getting started with SharePoint Embedded using the updated VSCode extension Bot for collecting feedback from users
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - Getting started with SharePoint Embedded using the updated VSCode extension Bot for collecting feedback from users
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) - Introduction to new Viva Connections data visualization components
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -51,7 +50,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* [Nello D'Andrea ](https://www.linkedin.com/search/results/all/?keywords=WISS%20Z%C3%BCrich&sid=pBt)(Die Mobiliar)  & [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara/) (Die Mobiliar) – Building real world Intranet with SPFx - Multilingual document cards
+* [Nello D'Andrea ](https://www.linkedin.com/search/results/all/?keywords=WISS%20Z%C3%BCrich&sid=pBt)(Die Mobiliar) & [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara/) (Die Mobiliar) – Building real world Intranet with SPFx - Multilingual document cards
 * [Marcin Wojciechowski](https://www.linkedin.com/in/marcin-wojciechowski-17168276/) (Valo Solutions) - Accelerating App Development: Introduction to Vite + SPFx Stack
 
 
@@ -65,7 +64,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Introduction to SharePoint Pages API in Microsoft Graph - General Availability](https://www.youtube.com/watch?v=sw0wWDIrg5Y) by  [DC Padur](https://linkedin.com/in/dcpadur) (Microsoft) and [Shreya Gangan](https://linkedin.com/in/shreyagangan)
+* [Introduction to Fusion development, low code solution for fast-tracking a solution](https://www.youtube.com/watch?v=40O4jM5-MWc) by [Richard Wierenga](https://www.linkedin.com/in/richard-wierenga/) (Bliss Digital)
+* [Viva Engage Digital Safety Moderation Webinar](https://www.youtube.com/watch?v=29hjvffaN68)
+* [Introduction to SharePoint Pages API in Microsoft Graph - General Availability](https://www.youtube.com/watch?v=sw0wWDIrg5Y) by [DC Padur](https://linkedin.com/in/dcpadur) (Microsoft) and [Shreya Gangan](https://linkedin.com/in/shreyagangan)
 * [Community Spotlight: Maria Espino from The Last Phophecy Gaming](https://www.youtube.com/watch?v=mzbWEs-W5LA) by [Maria Espino](https://linkedin.com/in/mariaespino) (The Last Prophecy Gaming)
 * [Microsoft Teams Emergency Operations Center v3 now available!](https://www.youtube.com/watch?v=-Cob08eY4fE) by [Josh Leporati](https://linkedin.com/in/josh-l-3b1916146) and [Tiffany Lee](https://linkedin.com/in/tiffanyyunlee)(Microsoft)
 * [Building declarative Copilots for Microsoft 365](https://www.youtube.com/watch?v=CYLoo6AKmV4) by [Bob German](https://www.linkedin.com/in/bgerman/)
@@ -99,8 +100,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Microsoft 365 Certification control spotlight: Application control](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-application-control/) by [Tony Balkan](https://www.linkedin.com/in/tony-balkan/)
 
 
-
-
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
@@ -113,9 +112,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 29th of August 2024](https://www.youtube.com/watch?v=T8EBOtmpuNQ)
 * [Viva Connections and SharePoint Framework community call 22nd of August 2024](https://www.youtube.com/watch?v=D1SXlptSICg)
 * [Microsoft Power Platform community call – August 2024](https://www.youtube.com/watch?v=TS4t8f8J-Sk)
-
 
 ---
 
