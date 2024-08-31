@@ -22,7 +22,7 @@ We have just published a new major version of CLI for Microsoft 365 v9. [CLI for
  
 ## The new major version of CLI for Microsoft 365 – v9
 
-This major release is a reaction to an annoucement that the PnP Management Shell multi-tenant app will get removed on September 9. Previously you were able to use a this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Till now it was event used as the default login method. As mentioned at the beginning this multi-tenant app registration will be however deleted on September 9, 2024 which might have an impact your existing scripts. Check the following [recording for more details](https://www.youtube.com/watch?v=VNgc4k_gCT0) on this annoucement. Although using the PnP Management Shell was very convinient it wasn't the best approach that should be picked especially when running automated scripts on yout tenant. This option will now go away to help customers to improve their security posture by encouraging the use of single tenant app and just the scopes and permissions which are needed. CLI for Microsoft 365 already supports login over your own Entra app registration and we already have [guidance that will guide you through the process](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity). In this release we introduced some features that might prove very helpful in adapting to this change.
+This major release is a reaction to an announcement that the PnP Management Shell multi-tenant app will be removed on September 9. Previously you were able to use this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Till now it was even used as the default login method. As mentioned at the beginning this multi-tenant app registration will be however deleted on September 9, 2024 which might have an impact on your existing scripts. Check the following [recording for more details](https://www.youtube.com/watch?v=VNgc4k_gCT0) on this announcement. Although using the PnP Management Shell was very convenient it wasn't the best approach that should be picked especially when running automated scripts on your tenant. This option will now go away to help customers to improve their security posture by encouraging the use of single-tenant app and just the scopes and permissions that are needed. CLI for Microsoft 365 already supports login over your own Entra app registration and we already have [guidance that will guide you through the process](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity). In this release, we introduced some features that might prove very helpful in adapting to this change.
 
 The most important change that had to be done was the way CLI for Microsoft 365 will perfomr default login. When running `m365 login` CLI will first check if you defined the `appId` which is now required to your own single tenant Entra app registration. 
 
@@ -38,9 +38,9 @@ Or you may also define it as a CLI for Microsoft 365 config using the following 
 m365 cli config set --key 'clientId' --value '31359c7f-bd7e-475c-86db-fdb8c937548e'
 ```
 
-You may also define it as an environemnt variable `CLIMICROSOFT365_ENTRAAPPID` and you may find more details regarding this option in our [guide](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity#create-environment-variables). 
+You may also define it as an environment variable `CLIMICROSOFT365_ENTRAAPPID` and you may find more details regarding this option in our [guide](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity#create-environment-variables). 
 
-This means that you will now need to set up your own Entra app registration before performing the initial login. You may do that in several ways. Either by doing it manually and we also included detail [step by step documentation for that](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity#register-microsoft-entra-application-in-your-tenant) or you may use our new `setup` expiriance which will make this process effortless. 
+This means that you will now need to set up your own Entra app registration before performing the initial login. You may do that in several ways. Either by doing it manually and we also included detailed [step by step documentation for that](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity#register-microsoft-entra-application-in-your-tenant) or you may use our new `setup` experience which will make this process effortless. 
 By the way, this tip you may also find when running the `m365 login` command without specifing the `appId`. 
 
 ![m365-login-tip](./images/m365-login-tip.png)
@@ -58,9 +58,9 @@ CLI will now ask you an additional question:
 - CLI for Microsoft 365 requires a Microsoft Entra app. Do you want to create a new app registration or use an existing one?
 
 You can choose between using an existing Entra app or creating a new one. If you choose to create a new app, the CLI will ask you to choose between a minimal and a full set of permissions. 
-Minimal set of permissions will create a new Entra app registration with only `User.Read` scope. This is a perfect starting point to have a ready to use app that then you may manually modify to add only the needed scopes for your script. 
-Full set of permission, on the other hand, will create an Entra app registration with all the scopes currently required to run all commands CLI for Microsoft 365 has. This is very convinient and is the easiest thing to pick to get unblocked with all CLI functionalities.
-Whats important to now is that the `setup` command signs in as Azure CLI to your tenant to creates a new app registration, and stores its information in the CLI configuration so that then you don't need to specify them yourself in the `login` command. Check out how easy and convinient it is in this short demo:
+A minimal set of permissions will create a new Entra app registration with only `User.Read` scope. This is a perfect starting point to have a ready to use app that then you may manually modify to add only the needed scopes for your script. 
+Full set of permissions, on the other hand, will create an Entra app registration with all the scopes currently required to run all commands CLI for Microsoft 365 has. This is very convenient and is the easiest thing to pick to get unblocked with all CLI functionalities.
+Whats important to now is that the `setup` command signs in as Azure CLI to your tenant to create a new app registration, and stores its information in the CLI configuration so that then you don't need to specify them yourself in the `login` command. Check out how easy and convenient it is in this short demo:
 
 ![setup](./images/setup.gif)
 
