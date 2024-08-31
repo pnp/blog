@@ -66,7 +66,7 @@ Whats important to now is that the `setup` command signs in as Azure CLI to your
 
 > To help you upgrade to v9, we prepared a summary of the breaking change and the recommended actions. For more information see the [v9 Upgrade Guidance](https://pnp.github.io/cli-microsoft365/v9-upgrade-guidance/) in our docs.
 
-Following is an overview of the most noteworthy changes in v8.
+Following is an overview of the most noteworthy changes in v9.
 
 > For the complete list of what's new and changed, see the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes/#v900).
 
