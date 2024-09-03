@@ -2,7 +2,7 @@
 title: The story of pnp.github.io redesign - how we did it
 
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
-summary: Collaborating and crafting sustainable web design, I helped redesign php.github.io with a focus on Atomic Design principles and modular HTML/CSS.
+summary: Collaborating and crafting sustainable web design, I helped redesign pnp.github.io with a focus on Atomic Design principles and modular HTML/CSS.
 
 date: 2024-09-03T09:42:31Z
 
@@ -33,7 +33,7 @@ canonicalURL: https://n8d.at/the-story-of-php-github-io-redesign-how-we-did-it
 
 I always loved to give the community, something back that gave me so much over the years. I created strong friendships bounds with many people. Growing up with the web and particularly Microsoft 365, I would have never imagined when I was just a curious hacker who wanted to know how the web works back in 1996.
 
-Fast forward all those years, I had the opportunity to join forces with the great [Hugo Bernier](https://tahoeninja.blog/) to redesign [php.github.io](https://php.github.io).
+Fast forward all those years, I had the opportunity to join forces with the great [Hugo Bernier](https://tahoeninja.blog/) to redesign [pnp.github.io](https://pnp.github.io).
 
 !["The new pnp.github.io landing page"](./images/the-new-pnp-github.png)
 
