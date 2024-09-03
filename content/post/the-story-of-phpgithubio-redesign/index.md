@@ -21,12 +21,11 @@ images:
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 # Community posts should always use "Community post" as the categories
 tags:
-  - Azure
-  - Azure Functions
-  - Microsoft Teams
-  - Teams Toolkit
-  - VS Code
-categories: ["Microsoft Teams development"]
+  - Web Design
+  - Web Development
+  - Collaboration
+  
+categories: ["Community"]
 canonicalURL: https://n8d.at/the-story-of-php-github-io-redesign-how-we-did-it
 ---
 
