@@ -26,10 +26,10 @@ tags:
   - Collaboration
   
 categories: ["Community"]
-canonicalURL: https://n8d.at/the-story-of-php-github-io-redesign-how-we-did-it
+canonicalURL: https://n8d.at/the-story-of-pnp-github-io-redesign-how-we-did-it
 ---
 
-> This article originally appeared on Stefan Bauer's blog, **[The story of pnp.github.io redesign - how we did it](https://n8d.at/the-story-of-php-github-io-redesign-how-we-did-it?utm_source=PnP&utm_medium=website&utm_campaign=blog)**.
+> This article originally appeared on Stefan Bauer's blog, **[The story of pnp.github.io redesign - how we did it](https://n8d.at/the-story-of-pnp-github-io-redesign-how-we-did-it?utm_source=PnP&utm_medium=website&utm_campaign=blog)**.
 
 I always loved to give the community, something back that gave me so much over the years. I created strong friendships bounds with many people. Growing up with the web and particularly Microsoft 365, I would have never imagined when I was just a curious hacker who wanted to know how the web works back in 1996.
 
