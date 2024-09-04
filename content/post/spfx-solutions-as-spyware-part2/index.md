@@ -20,7 +20,7 @@ type: "regular"
 1. **Trust but verify** - this article
 1. Microsoft Cybersecurity Reference Architecture (MCRA) - coming soon
 
-> This article originally appeared on https://dev.to/ site, [Trust but verify](https://dev.to/kkazala/trust-but-verify-2nck)
+> This article originally appeared on https://dev.to/ site: [Trust but verify](https://dev.to/kkazala/trust-but-verify-2nck)
 
 ## Full trust solutions in Zero Trust Architecture
 
