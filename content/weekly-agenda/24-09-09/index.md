@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 9th of September 2024 week
-date: 2024-09-06T09:50:28.509Z
+date: 2024-09-06T02:50:28.509Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -52,7 +52,7 @@ Demos this time
 
 * [Agnius Bartninkas](https://www.linkedin.com/in/agnius-bartninkas/) (Definra) - Making your desktop flows efficient, robust and standardized via PADFramework
 * [Deepak Shrivastava](https://www.linkedin.com/in/deepak-shrivastava/) (Ernst & Young) - Auto-Save Outlook email and Attachments to SharePoint using Power Automate
-* [Luise Freese](https://www.linkedin.com/in/luisefreese/)- How to do ALM in Power Platform with Azure DevOps 
+* [Luise Freese](https://www.linkedin.com/in/luisefreese/)- How to do ALM in Power Platform with Azure DevOps?
 
 
 Also: 📷 Picture Time with community in Together Mode!
