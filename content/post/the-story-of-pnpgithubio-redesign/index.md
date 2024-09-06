@@ -15,7 +15,7 @@ githubname: "stfbauer"
 # Featured image
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
-- ./images/the-new-pnp-github.png
+- images/the-new-pnp-github.png
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
