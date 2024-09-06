@@ -4,7 +4,7 @@ title: The story of pnp.github.io redesign - how we did it
 # Add a summary to convince readers to read your article (recommended). It will display on the homepage.
 summary: Collaborating and crafting sustainable web design, I helped redesign pnp.github.io with a focus on Atomic Design principles and modular HTML/CSS.
 
-date: 2024-09-03T09:42:31Z
+date: 2024-09-06T09:42:31Z
 
 # Author. Your own name
 author: "Stefan Bauer"
@@ -25,7 +25,7 @@ tags:
   - Web Development
   - Collaboration
   
-categories: ["Community"]
+categories: ["Community post"]
 canonicalURL: https://n8d.at/the-story-of-pnp-github-io-redesign-how-we-did-it
 ---
 
