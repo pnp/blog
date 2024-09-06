@@ -13,7 +13,7 @@ tags:
   - Microsoft Teams
   - Microsoft Viva
   - Microsoft Entra
-type: popular
+type: regular
 lastmod: 2024-07-30T16:47:38.558Z
 ---
 
