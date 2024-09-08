@@ -28,15 +28,15 @@ Sounds cool 😎? Let's see some new enhancements we added in this major release
 
 ## Changes in sign-in to Microsoft 365 Tenant
 
-In order for SPFx Toolkit to be able to perform actions on your tenant, like deploying your SPFx project, or granting the web API permissions, it needs some kind off Entra Application Registration that defines what scopes and permissions SPFx Toolkit will have to manipulate your tenant. Till now this VS Code extension, similarly like other PnP products, used the 'PnP Management Shell' multi-tenant app registration which was maintained and distributed from the PnP tenant. This was really convinient and fast way to get you up and running but unfortonatly this method will not be availalbe anymore after 9 of Semptber. You may read more details about this change in this [blog post](https://pnp.github.io/blog/post/changes-pnp-management-shell-registration/). 
+In order for SPFx Toolkit to be able to perform actions on your tenant, like deploying your SPFx project, or granting the web API permissions, it needs some Entra Application Registration that defines what scopes and permissions SPFx Toolkit will have to manipulate your tenant. Till now this VS Code extension, similarly to other PnP products, used the 'PnP Management Shell' multi-tenant app registration which was maintained and distributed from the PnP tenant. This was really convenient and fast way to get you up and running but unfortunately, this method will not be available anymore after 9 September. You may read more details about this change in this [blog post](https://pnp.github.io/blog/post/changes-pnp-management-shell-registration/). 
 
-Just to be clear, although it is a bit problematic this change is done for the best to encourage customers to improve their security posture by using their own single tenant app registrations with just the scopes and permissions which are needed. 
+Just to be clear, although it is a bit problematic this change is done for the best. To encourage customers to improve their security posture by using their own single-tenant app registrations with just the scopes and permissions that are needed. 
 
-In this release we tried to make this transfer as easy as possible not only updating the default sign-in experience but also by providing you additional features that will allow you to setup your own Application Registration for SPFx Toolkit in matter of seconds 🤯. Let's go over the changes.
+In this release, we tried to make this transfer as easy as possible not only by updating the default sign-in experience but also by providing you additional features that will allow you to setup your own Application Registration for SPFx Toolkit in a matter of seconds 🤯. Let's go over the changes.
 
-If you are already signed in to your tenant using the previous methos, after you upgrade SPFx Toolkit which usually it is done automatically by VS Code, then you will see a warning message explaining you the change and encouraging you to reauthenticate to your tenant ASAP.
+If you are already signed in to your tenant using the previous method, after you upgrade SPFx Toolkit which usually it is done automatically by VS Code, then you will see a warning message explaining you the change and encouraging you to reauthenticate to your tenant ASAP.
 
-After you click on the 'Sign in to Microsoft 365' button you will now see an additional prompt to either proceed with the rest of the authentication using your own existing Application Registration if you have one, or open up and additional page that will guide you over the process to create one
+After you click on the 'Sign in to Microsoft 365' button you will now see an additional prompt to either proceed with the rest of the authentication using your own existing Application Registration if you have one, or open up an additional page that will guide you over the process to create one
 
 ![sign in options](images/sign-in-options.png)
 
@@ -44,39 +44,39 @@ Most probably if you will be doing this for the very first time then you won't h
 
 ![sign in entra app reg form](images/sign-in-entra-app-reg-form.png)
 
-It is possible to do that either manually, and SPFx Toolkit will give you detailed step-by-step guidance to do that, or automatically, which is the default and recommended method. By selecting the automatic method SPFx Toolkit will use CLI for Microsoft 365 under the hood to sign in using Azure CLI Entra Application Registration to create a SPFx Toolkit Entra Application Registration with all of the needed permissions for you. After it completes this process it then retrieves the client Id and tenant Id of this new App Registration and performs regular sign using the newly created app. This may sound complex and magical 🪄 and belive me it is not. Actually from your point of view it's as easy as signing in twice. First to your Azure Tenant where the new Application Registration will be created and then to your Microsoft 365 tenant. Just check it out in action 👇
+It is possible to do that either manually, and SPFx Toolkit will give you detailed step-by-step guidance to do that, or automatically, which is the default and recommended method. By selecting the automatic method SPFx Toolkit will use CLI for Microsoft 365 under the hood to sign in using Azure CLI Entra Application Registration to create an SPFx Toolkit Entra Application Registration with all of the needed permissions for you. After it completes this process it then retrieves the client ID and tenant ID of this new App Registration and performs regular sign using the newly created app. This may sound complex and magical 🪄 and believe me it is not. Actually from your point of view, it's as easy as signing in twice. First to your Azure Tenant where the new Application Registration will be created and then to your Microsoft 365 tenant. Just check it out in action 👇
 
 ![sign in](images/sign-in.gif)
 
-Of course it is still possible to just login using an exsiting Entra Application Registrration you already have on your tenant or you created one manually. In this case SPFx Toolkit will not prefil the Client and Tenant Id and you will need to fill them out on your own when performing the sign in. Let's see this flow in action 👇
+Of course, it is still possible to just login using an existing Entra Application Registration you already have on your tenant or you created one manually. In this case, SPFx Toolkit will not prefil the Client and Tenant ID and you will need to fill them out on your own when performing the sign-in. Let's see this flow in action 👇
 
 ![sign in over existing app](images/sign-in-existing-app.gif)
 
-Also please do remember we usually will need to do that one time as SPFx Toolkit keeps you authenticted so the next time you open up VS Code you will be already signed in to your Microsoft 365 tenant.
+Also please do remember we usually will need to do that one time as SPFx Toolkit keeps you authenticated so the next time you open up VS Code you will be already signed in to your Microsoft 365 tenant.
 
 For more details on this change please check out the [SPFx Toolkit wiki](https://github.com/pnp/vscode-viva/wiki/5.3-Login-to-your-tenant-&-retrieve-environment-details).
 
 ## New SPFx Toolkit settings
 
-SPFx Toolkit already provides a lot of features which may be overwhelming at start. Also some of those may just not be relevant to your work so in order to allow you to customize this product to your specific needs we extended the extensions with two new settings which allow you to show/hide the tenant health incidents list and tenat-wide extenstion list.
+SPFx Toolkit already provides a lot of features which may be overwhelming at the start. Also, some of those may just not be relevant to your work so in order to allow you to customize this product to your specific needs we extended the extensions with two new settings which allow you to show/hide the tenant health incidents list and tenant-wide extension list.
 
 ![settings](images/settings.png)
 
 ## Filter samples by SPFx extension type
 
-SPFx Toolkit Sample Gallery provides 400+ projects that you may use as your own project. With a single click you may download a selected sample along with providing a new name to make a brand new solution that may be a huge kick start for your work. In this release we added an additional filter option to make it super easy to find the sample you are looking for. Till now you could filter by name, description, author, SPFx version and component type. Now we enchanced this functionality allowing you to filter by extension type. This filter option shows up only if you selected the 'Extension' component type in the previous filter.
+SPFx Toolkit Sample Gallery provides 400+ projects that you may use as your own project. With a single click, you may download a selected sample along with providing a new name to make a brand-new solution. This may be a huge kickstart for your work. In this release, we added an additional filter option to make it super easy to find the sample you are looking for. Till now you could filter by name, description, author, SPFx version, and component type. Now we enhanced this functionality allowing you to filter by extension type. This filter option shows up only if you selected the 'Extension' component type in the previous filter.
 
 ![extension filters](images/extension-filters.png)
 
 ## More guidance 
 
-SPFx Toolkit not only about developing and managing your SPFx solutions but also it's about learing and helping you get started with SharePoint Framework in general. That is why this extension comes along with a dedicated step-by-step walkthrough that introduces you to SharePoint Framework from the very beginging, by providing you guidance on what SPFx is, how to setup a new tenant and your local workspace for SPFx development and how you may leverage SPFx Toolkit to boost your work to the next level. In this release we improved the initial steps of this walkthrough by providing more information and guidance that introduces you to SharePoint Framework and what dependencies you need to start SPFx development.
+SPFx Toolkit is not only about developing and managing your SPFx solutions but also it's about learning and helping you get started with SharePoint Framework in general. That is why this extension comes along with a dedicated step-by-step walkthrough that introduces you to SharePoint Framework from the very beginning, by providing you guidance on what SPFx is, how to set up a new tenant and your local workspace for SPFx development, and how you may leverage SPFx Toolkit to boost your work to the next level. In this release, we improved the initial steps of this walkthrough by providing more information and guidance that introduces you to the SharePoint Framework and what dependencies you need to start SPFx development.
 
 ![more guidance](images/more-guidance.png)
 
 ## 👏 You ROCK 🤩
 
-This release would not have been possible without the help of some really awesome folks who stepped in and joined our journey in creating the best in class SharePoint Framework tooling in the world. We would like to express our huge gratitude and shout out to:
+This release would not have been possible without the help of some really awesome folks who stepped in and joined our journey in creating the best-in-class SharePoint Framework tooling in the world. We would like to express our huge gratitude and shout out to:
 
 - [Guido Zambarda](https://github.com/GuidoZam)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
