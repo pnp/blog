@@ -51,7 +51,7 @@ If you have any questions, please use the specific issue list(s) for the questio
 
 Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to use tenant specific app registration.
 
-* **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/connecting.html#connect-by-using-your-own-entra-id-application)
+* **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/registerapplication)
 * **CLI for Microsoft 365** - [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/)
 
 Here are also guidance videos on how to get started with the PnP PowerShell and CLI for Microsoft 365 in single tenant registration
