@@ -16,7 +16,7 @@ tags:
   - Microsoft Teams
   - Microsoft Viva
   - Microsoft Entra
-type: regular
+type: popular
 videos:
   - https://www.youtube.com/watch?v=VNgc4k_gCT0
 draft: false
@@ -47,16 +47,18 @@ If you have any questions, please use the specific issue list(s) for the questio
 * [PnP PowerShell GitHub issue list](https://github.com/pnp/powershell/issues)
 * [CLI for Microsoft 365 issue list](https://github.com/pnp/cli-microsoft365/issues)
 
+PnP PowerShell team has provided following additional note with specific details on the required updates - https://github.com/pnp/powershell/issues/4250.
+
 ## Documentation
 
-Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to use tenant specific app registration.
+Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to use tenant specific app registration:
 
 * **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/registerapplication)
 * **CLI for Microsoft 365** - [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/)
 
-Here are also guidance videos on how to get started with the PnP PowerShell and CLI for Microsoft 365 in single tenant registration
+Here are also guidance video on how to get started with the PnP PowerShell in a single tenant registration:
 
-* [Getting started with PnP PowerShell - Installation and app registration](https://www.youtube.com/watch?v=ecRZrHOucz4)
+{{< youtube VNgc4k_gCT0 >}}
 
 ## Frequently asked questions
 
