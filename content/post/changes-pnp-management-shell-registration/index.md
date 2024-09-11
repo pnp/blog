@@ -34,6 +34,7 @@ Please see the documentation below on references of the details on how to perfor
 
 In the following video [Erwin van Hunen](https://www.linkedin.com/in/erwinvanhunen/) (MondayCoffee), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) are talking about the impact of the change.
 
+
 {{< youtube VNgc4k_gCT0 >}}
 
 We are further looking into providing additional quick videos and guidance on setting up the single-tenant app registrations as defined in the documentation for both PnP PowerShell and CLI for Microsoft 365.
@@ -58,7 +59,7 @@ Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to
 
 Here are also guidance video on how to get started with the PnP PowerShell in a single tenant registration:
 
-{{< youtube VNgc4k_gCT0 >}}
+* [Getting started with PnP PowerShell - Installation and app registration](https://www.youtube.com/watch?v=ecRZrHOucz4)
 
 ## Frequently asked questions
 
