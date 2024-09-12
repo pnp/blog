@@ -16,7 +16,7 @@ tags:
   - Microsoft Teams
   - Microsoft Viva
   - Microsoft Entra
-type: regular
+type: popular
 videos:
   - https://www.youtube.com/watch?v=VNgc4k_gCT0
 draft: false
@@ -34,26 +34,32 @@ Please see the documentation below on references of the details on how to perfor
 
 In the following video [Erwin van Hunen](https://www.linkedin.com/in/erwinvanhunen/) (MondayCoffee), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) are talking about the impact of the change.
 
+
 {{< youtube VNgc4k_gCT0 >}}
 
 We are further looking into providing additional quick videos and guidance on setting up the single-tenant app registrations as defined in the documentation for both PnP PowerShell and CLI for Microsoft 365.
 
-## Documentation
+## Support
 
-Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to use tenant specific app registration.
-
-* **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/connecting.html#connect-by-using-your-own-entra-id-application)
-* **CLI for Microsoft 365** - [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/)
+PnP PowerShell and CLI for Microsoft 365 are community provided open-source tools which does not have direct support from Microsoft. Please see https://aka.ms/pnpsupport as the supportability guidance on these community provided tools.
 
 If you have any questions, please use the specific issue list(s) for the questions:
 
 * [PnP PowerShell GitHub issue list](https://github.com/pnp/powershell/issues)
 * [CLI for Microsoft 365 issue list](https://github.com/pnp/cli-microsoft365/issues)
 
-Here are also guidance videos on how to get started with the PnP PowerShell and CLI for Microsoft 365 in single tenant registration
+PnP PowerShell team has provided following additional note with specific details on the required updates - https://github.com/pnp/powershell/issues/4250.
+
+## Documentation
+
+Here's the specific guidance for the PnP PowerShell and CLI for Microsoft 365 to use tenant specific app registration:
+
+* **PnP PowerShell** - [Connect using your own Entra ID Application](https://pnp.github.io/powershell/articles/registerapplication)
+* **CLI for Microsoft 365** - [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/)
+
+Here are also guidance video on how to get started with the PnP PowerShell in a single tenant registration:
 
 * [Getting started with PnP PowerShell - Installation and app registration](https://www.youtube.com/watch?v=ecRZrHOucz4)
-* Getting started with CLI for Microsoft 365 - Coming soon
 
 ## Frequently asked questions
 
