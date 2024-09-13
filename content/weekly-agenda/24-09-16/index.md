@@ -19,11 +19,7 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
-> Our weekly Microsoft 365 & Power Platform call with Microsoft presenters has been on a summer break in July and August and continued every Tuesday again starting September 3rd, 2024. You can download the recurring invite [here](https://aka.ms/community/calls), please join us, everyone is welcome! 
-
 This is the agenda for the upcoming week:
-
-
 
 ### Microsoft 365 & Power Platform weekly call - 17th of September
 
