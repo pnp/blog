@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -85,12 +85,12 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [End-of-life for Exchange user identity tokens – what does that mean for you?](https://www.youtube.com/watch?v=2e02XlVMk5s) by [David Chesnut](https://www.linkedin.com/in/davidpchesnut/) (Microsoft)
+* [Introduction to the new SharePoint start experience](https://www.youtube.com/watch?v=slBxuwjVk2Q) by [Belle Podeanu](https://www.linkedin.com/in/bellesirapha/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Preview on creating Copilot extensibility using SPFx and Adaptive Cards](https://www.youtube.com/watch?v=9D48QCwVGxM) by [Liana Marulanda](https://linkedin.com/in/lianamarulanda) (Microsoft) and [Luca Bandinelli](https://linkedin.com/in/luca-bandinelli-37b209) (Microsoft)
 * [UX in the Model-Driven Apps - the good, the bad and the ugly](https://www.youtube.com/watch?v=YT38UjtLmcg) by [Anna Black](https://linkedin.com/in/anna-black-ppcookbook) (Hitachi Solutions Europe)
 * [Introducing Click2Call for Teams in Azure Communication Services](https://www.youtube.com/watch?v=gNcOEv_HmAM) by [Milan Kaur](https://linkedin.com/in/milankaurintech) (Microsoft)
 * [Using npm workspace for making management of complex SPFx solutions easy](https://www.youtube.com/watch?v=mg17Hcb-vMg) by [Stefan Bauer ](https://linkedin.com/in/stfbauer) (N8D)
-
-
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -111,6 +111,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [Microsoft 365 Certification control spotlight: Network security controls](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-network-security-controls/) by [Tony Balkan](https://www.linkedin.com/in/tony-balkan/) (Microsoft)
+* [Announcing SharePoint Framework 1.20 release candidate](https://devblogs.microsoft.com/microsoft365dev/announcing-sharepoint-framework-1-20-release-candidate/) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Optimizing large payloads in Fluid Framework](https://devblogs.microsoft.com/microsoft365dev/optimizing-large-payloads-in-fluid-framework/) by Rajat Chamria (Microsoft) and Kian Thompson [(Microsoft) ](https://www.linkedin.com/in/sukhmanilamba/overlay/photo/)
 * [Increase your Microsoft Teams app’s visibility and adoption with asynchronous link unfurling](https://devblogs.microsoft.com/microsoft365dev/how-asynchronous-link-unfurling-increases-your-microsoft-teams-apps-visibility-and-adoption/) by [Sukhmani Lamba](https://www.linkedin.com/in/sukhmanilamba/) (Microsoft)
 * [Announcing the Office Add-ins Development Kit for Visual Studio Code (public preview)](https://devblogs.microsoft.com/microsoft365dev/announcing-the-office-add-ins-development-kit-for-visual-studio-code-public-preview/) by 
@@ -130,6 +132,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 12th of September 2024](https://www.youtube.com/watch?v=u60dj6TyjQU)
 * [Microsoft 365 & Power Platform weekly call – 10th of September, 2024](https://www.youtube.com/watch?v=QO4IqTtHJ3M)
 
 
