@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 23rd of September 2024 week
-date: 2024-09-12T06:55:08.907Z
+date: 2024-09-20T02:55:08.907Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -50,9 +50,7 @@ Demos this time
 
 * [Nathalie Leenders](https://www.linkedin.com/in/nathalie-leenders-den-nijs-8853871b/) (Wortell) - How to call a Power Automate Cloud flow from a Power Pages Dataverse Form
 * [Bülent Altinsoy](https://www.linkedin.com/in/buelent-altinsoy/) (Avanade) - How to use Dataverse as a knowledge source in Copilot Studio
-* [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle) - Build an AI powered talent fit check tool using GPT Prompts integrating with 
-Power Apps
-
+* [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle) - Build an AI powered talent fit check tool using GPT Prompts integrating with Power Apps
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -65,6 +63,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Extending CoE Starter Kit to automate Managed Environments creation for Power Platform](https://www.youtube.com/watch?v=1UhrX43nw7k) by [Devendra Velegandla](https://www.linkedin.com/in/devendravelegandla/) (Rio Tinto) 
+* [Microsoft Teams AI Library + Azure AI Search - better together](https://www.youtube.com/watch?v=HzUD-EEm2wQ) by [Simon Doy](https://www.linkedin.com/in/simondoy/) (iThink 365)
+* [OneDrive Customer Office Hours | September 2024](https://www.youtube.com/watch?v=MJ20OxBynEE) by [Liz Scoble](https://www.linkedin.com/in/elizabethscoble/) (Microsoft), [Irfan Shahdad](https://www.linkedin.com/in/irfanshahdad/) (Microsoft) & [Rob Nunez](https://www.linkedin.com/in/robertnunez-/) (Microsoft)
 * [Getting started with CLI for Microsoft 365 - Installation, setup & login](https://www.youtube.com/watch?v=XFG8gVGvXpA) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
 * [Getting started with the SharePoint Framework Toolkit](https://www.youtube.com/watch?v=nuCF_pTtIfI) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
 * [SharePoint Framework Toolkit Showcase - Boost your SPFx development](https://www.youtube.com/watch?v=f5HOeeSKwaU) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
@@ -75,6 +76,7 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+* [Configure question behavior | Getting Started With Power Shorts](https://www.youtube.com/watch?v=cRAXiXhxNEY)
 * [Add actions to Copilot using connectors](https://www.youtube.com/watch?v=FasyKQMsFmI)
 * [Configure voice capabilities | Power Platform Shorts](https://www.youtube.com/watch?v=wHblgqEUL1A)
 * [The City of Everett serves its community with municipal innovation by adopting Power Platform](https://www.youtube.com/watch?v=YWgD1HIa_S0)
@@ -108,10 +110,10 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 19th of September 2024](https://www.youtube.com/watch?v=bBSezQICcgE)
+* [Microsoft Power Platform community call – September 2024](https://www.youtube.com/watch?v=LXRne3bTXiY)
 * [Microsoft 365 & Power Platform weekly call – 17th of September, 2024](https://www.youtube.com/watch?v=U87ma0CDLgs)
 * [Office add-ins community call - September 2024](https://www.youtube.com/watch?v=cJK9rvCTeAY)
-
-
 
 ---
 
