@@ -46,7 +46,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* Mattias Bürgi (Die Mobiliar) & Hutzli Fabian (Die Mobiliar) – Building real world Intranet with SPFx - Provision SharePoint resources, build / deploy SPFx using dev containers 
+* [Mattias Bürgi](https://www.linkedin.com/in/mattiasbuergi/) (Die Mobiliar) & [Hutzli Fabian](https://www.linkedin.com/in/fabian-hutzli/) (Die Mobiliar) – Building real world Intranet with SPFx - Provision SharePoint resources, build / deploy SPFx using dev containers 
 * [Henry Amm](https://www.linkedin.com/in/henryamm/) (adenin) - Introduction Copilot in M365 Center of Excellence (CoE)
 * [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/) (Avanade) - Display documents by content type using new pie chart option in ACE for Viva Connections
 
