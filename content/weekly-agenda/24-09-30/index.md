@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 30th of September 2024 week
-date: 2024-09-26T09:33:03.394Z
+date: 2024-09-27T02:33:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -46,7 +46,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Demos this time
 
-* Mattias Bürgi (Die Mobiliar) – Building real world Intranet with SPFx - Provision SharePoint resources, build / deploy SPFx using dev containers 
+* Mattias Bürgi (Die Mobiliar) & Hutzli Fabian (Die Mobiliar) – Building real world Intranet with SPFx - Provision SharePoint resources, build / deploy SPFx using dev containers 
 * [Henry Amm](https://www.linkedin.com/in/henryamm/) (adenin) - Introduction Copilot in M365 Center of Excellence (CoE)
 * [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/) (Avanade) - Display documents by content type using new pie chart option in ACE for Viva Connections
 
@@ -60,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Build and deploy the EASIEST and yet MOST IMPACTFUL plugin for Copilot for Microsoft 365!](https://www.youtube.com/watch?v=KaCLN9lny30) by [Tom Morgan](https://www.linkedin.com/in/tmorganuk/) (CloudInteract)
 * [Introducing granular SharePoint Application Permissions](https://www.youtube.com/watch?v=vzM2aUUhrzc) by [Patrick Rodgers](https://www.linkedin.com/in/patrick-rodgers-b6a05610/) (Microsoft)
 * [Maturity Model for Microsoft 365 - September 2024](https://www.youtube.com/watch?v=9DQlq-J2BGM)
 * [Microsoft Loop 101 and AMA](https://www.youtube.com/watch?v=9O_15gkiQaE)
@@ -106,6 +107,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 26th of September 2024](https://www.youtube.com/watch?v=DKjKAdQLuUY)
 * [Microsoft 365 & Power Platform weekly call – 24th of September, 2024](https://www.youtube.com/watch?v=LxMO0kxGBJo)
 * [Copilot and M365 for SMB Community Call | September 2024](https://www.youtube.com/watch?v=TFX1H9vkN4w)
 
