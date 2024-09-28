@@ -28,7 +28,7 @@ Sounds cool 😎? Let's see some new enhancements we added in this major release
 
 ## Added support for SharePoint Framework 1.20.0
 
-Since [SPFx 1.20.0](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.20) is officialy GA we updated the Upgrade and Validate actions to support it as well. Now it is possible to generate upgrade guidance to from any version to 1.20.0. It is also possible to validate the correctness of your SharePoint Framework solution in this version as well.
+Since [SPFx 1.20.0](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.20) is officially GA we updated the Upgrade and Validate actions to support it as well. Now it is possible to generate upgrade guidance from any version to 1.20.0. It is also possible to validate the correctness of your SharePoint Framework solution in this version as well.
 
 Keeping up to date is the key to success and this VS Code extension will try to make this transition as easy as possible.
 
@@ -36,13 +36,13 @@ Keeping up to date is the key to success and this VS Code extension will try to 
 
 ## More guidance
 
-Learning SharePoint Framework is one of key priorities of SPFx Toolkit. In this release we added a couple of enhancements that will be extremly helpful for folks new to SPFx. The first one are tooltips added to the scaffolding form that explain every possible selection. It will provide short guidance regarding any SPFx project type, extension or ACE type and framework type. We also added a dedicated walkthrough step that will explain Gulp tasks, what they are and how they should be used.
+Learning SharePoint Framework is one of the key priorities of SPFx Toolkit. In this release, we added a couple of enhancements that will be extremely helpful for folks new to SPFx. The first tooltips added to the scaffolding form explain every possible selection. It will provide short guidance regarding any SPFx project type, extension or ACE type, and framework type. We also added a dedicated walkthrough step that will explain Gulp tasks, what they are, and how they should be used.
 
 ![guidance-scaffolding](images/guidance-scaffolding.png)
 
 ## Gulp Tasks
 
-In this release we extended the Gulp Task view with additional tasks which are related to SharePoint Framework solutions. This is extremly helpful for folks new to SPFx which are not familair with the toolchain. 
+In this release, we extended the Gulp Task view with additional tasks which are related to SharePoint Framework solutions. This is extremly helpful for folks new to SPFx who are not familiar with the toolchain. 
 
 ![gulp-tasks](images/gulp-tasks.png)
 
