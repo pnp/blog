@@ -16,7 +16,7 @@ tags:
   - Microsoft Teams
   - Microsoft Viva
   - Microsoft Entra
-type: popular
+type: regular
 videos:
   - https://www.youtube.com/watch?v=VNgc4k_gCT0
 draft: false

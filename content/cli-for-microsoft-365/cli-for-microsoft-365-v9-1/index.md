@@ -31,6 +31,11 @@ We have just published a new minor version of CLI for Microsoft 365. [CLI for Mi
 
 We’ve introduced the `file move` command, allowing you to move files to a new location using the Microsoft Graph API. This is a powerful addition for those who frequently reorganize content within their SharePoint environments.
 
+### Limitations
+
+- When moving files within the same document library or drive, the command uses the Move DriveItem API, which preserves the file's version history.
+- When moving files between different document libraries or drives, the command performs a copy-and-delete operation. In this scenario, the version history will not be retained.
+
 Here’s how you can move a file:
 
 ```sh
@@ -156,6 +161,14 @@ For more information, visit [viva engage community list](https://pnp.github.io/c
 This release isn't just about new commands. We’ve also refined existing ones. Notable changes include bug fixes, enhanced functionality for SharePoint commands, and expanded support for SPFx v1.20.0-rc.1. We’ve also improved documentation to help you get the most out of these tools.
 
 If you are eager to go over all of the details and improvements added to this release, do not hesitate to check out the [release notes](https://pnp.github.io/cli-microsoft365/about/release-notes#v910) to learn more.
+
+### SharePoint Framework commands
+
+We have extended the SharePoint Framework commands so that it supports the latest version of the SharePoint Framework which is `v1.20.0`. For more information on the commands, refer to the documentation:
+
+- [m365 spfx project upgrade](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade)
+- [m365 spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor)
+- [m365 spfx project doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-doctor)
 
 ## Upcoming Changes
 
