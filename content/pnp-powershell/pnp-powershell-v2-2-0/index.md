@@ -15,7 +15,7 @@ tags:
   - PnP PowerShell
   - Microsoft Teams
   - SharePoint
-type: popular
+type: regular
 ---
 
 ## PnP PowerShell
