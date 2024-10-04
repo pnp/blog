@@ -110,7 +110,9 @@ Srinidy Ravichandran (Microsoft)
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* no new blog posts this week
+* [Populate SharePoint List multiple choice column with Microsoft 365 Group names](https://pnp.github.io/blog/post/how-to-populate-sharepoint-list-multiple-choice-column-with_m365-groups.md/) by [Luise Freese](https://www.linkedin.com/in/luisefreese/)
+* [CLI for Microsoft 365 v9.1](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v9-1/) by [Jasey Waegebart](https://www.linkedin.com/in/jwaegebaert/) (Xylos)
+* [SharePoint Framework Toolkit v4.1.0 minor release](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-4-1-release/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)
 
 ---
 
@@ -151,7 +153,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Microsoft 365 Ottawa](https://www.communitydays.org/event/2024-10-04/microsoft-365-ottawa), October 4, 2024  - Ottawa, Canada
+
 * [AI Community Conference - Redmond 2024](https://www.communitydays.org/event/2024-10-09/ai-community-conference-redmond-2024), October 9, 2024 - Redmond, Washington, United States
 * [AI Community Conference Vancouver](https://www.communitydays.org/event/2024-10-11/ai-community-conference-vancouver-2024) - October 11, 2024, Vancouver, Canada
 * [Community Summit North America 2024](https://www.communitydays.org/event/2024-10-13/community-summit-north-america-2024) - October 13-17, 2024 - San Antonio, Texas, United States
