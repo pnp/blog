@@ -6,7 +6,7 @@ githubname: LuiseFreese
 categories:
   - Community post
 images:
-  - images/lego-list.jpg
+  - images/lego-list.png
 tags:
   - SharePoint
   - Power Automate
