@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 7th of October 2024 week
-date: 2024-09-26T09:33:03.394Z
+date: 2024-10-04T02:33:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -32,13 +32,11 @@ Demos this time
 * [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) - Getting started with the declarative agents in Microsoft 365 Copilot
 * [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/)  (Microsoft) – Latest features with SharePoint Embedded
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
-
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 10th of October
 
@@ -51,7 +49,6 @@ Demos this time
 * [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services) - How to make fully Responsive Power Apps
 * [Daniel Kåven](https://www.linkedin.com/in/dkaaven/) (Biztek AS) - Building a Kahoot! style checklist with Power Apps
 * [Troy Taylor](https://www.linkedin.com/in/troystaylor/) (Hitachi Solutions) - Supercharge Power Platform Connectors Using Custom Code
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
