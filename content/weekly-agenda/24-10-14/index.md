@@ -50,7 +50,7 @@ Typically demos here are from the community by the community. You are welcome to
 Demos: 
 
 * [Douglas Romão](https://www.linkedin.com/in/douglas-romao/) (Fellowmind) - Use AI to document your Power Platform solutions 
-* [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a/) (Persistent Systems) - Fallback mechanism for UI automation in Power Apps
+* [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a/) (Persistent Systems) - Fallback mechanism for UI automation in Power Automate Desktop
 
 Also: 📷 Picture Time with community in Together Mode!
 
