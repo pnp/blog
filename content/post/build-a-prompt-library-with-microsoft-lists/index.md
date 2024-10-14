@@ -5,7 +5,12 @@ author: "Pat McGown"
 githubname: PMcGown
 categories: ["Community post"]
 images:
-- images/myImage.png
+- images/prompt-library-cards.png
+- images/create-prompt-library-list.png
+- images/create-gallery-view.png
+- images/format-view.png
+- images/crowdsource-prompts.png
+- images/list-as-template.png
 tags:
 - Microsoft Lists
 - SharePoint
