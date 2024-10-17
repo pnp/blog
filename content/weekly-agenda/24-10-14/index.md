@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 30th of September 2024 week
-date: 2024-09-26T09:33:03.394Z
+title: Weekly Agenda - 14th of October 2024 week
+date: 2024-10-11T01:15:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary40.png
+  - images/weeklysummary42.png
 tags: []
-type: regular
+type: trending
 videos: null
 draft: false
 ---
@@ -21,16 +21,16 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform weekly call - 1st of October
+### Microsoft 365 & Power Platform weekly call - 15th of October
 
-* Tuesday, 1st of October 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 15th of October 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Anshul Jethwani](https://www.linkedin.com/in/ajethwani/) (Microsoft) & Sathya Raveendran (Microsoft) -  AI Zero-to-One: Building Teams AI powered meeting helper for generating automatic action items using Azure Open AI
-* [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft)  &  [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) - Latest updates and future roadmap for Viva Connections extensibility
+* T S Manoj Kumar (Microsoft) - AI Zero-to-One: Build your own RAG-based semantic search by using an API to run prompts
+* [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft) – Securing API plugins for Microsoft 365 Copilot with Entra Id
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -38,17 +38,37 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework bi-weekly community Call - 3rd of October
 
-* Thursday, 3rd of October 2024, 7:00 AM PT / 2:00 PM GMT
+### Power Platform monthly Community Call - 16th of October
+
+Typically demos here are from the community by the community. You are welcome to demo here 👋
+
+* Wednesday, 16th of October, 8:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+
+Demos: 
+
+* [Douglas Romão](https://www.linkedin.com/in/douglas-romao/) (Fellowmind) - Use AI to document your Power Platform solutions 
+* [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a/) (Persistent Systems) - Fallback mechanism for UI automation in Power Automate Desktop
+
+Also: 📷 Picture Time with community in Together Mode!
+
+**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
+---
+
+### Viva Connections & SharePoint Framework bi-weekly community Call - 17th of October
+
+* Thursday, 17th of October 2024, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-* Mattias Bürgi (Die Mobiliar) – Building real world Intranet with SPFx - Provision SharePoint resources, build / deploy SPFx using dev containers 
-* [Henry Amm](https://www.linkedin.com/in/henryamm/) (adenin) - Introduction Copilot in M365 Center of Excellence (CoE)
-* [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas-17418187/) (Avanade) - Display documents by content type using new pie chart option in ACE for Viva Connections
+* [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (Die Mobiliar) & [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara/) (Die Mobiliar) – Building real world Intranet with SPFx - Real time news
+* [Mattias Bürgi](https://www.linkedin.com/in/mattiasbuergi/) (Die Mobiliar) & [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (Die Mobiliar) - Deploying Azure dependencies for SPFx solution – case Real Time News
+* [Anoop Tatti](https://www.linkedin.com/in/anooptatti/) (Advania) - Viva Connections card using React in QuickView to show FAQs as accordion
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -60,30 +80,25 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Introducing granular SharePoint Application Permissions](https://www.youtube.com/watch?v=vzM2aUUhrzc) by [Patrick Rodgers](https://www.linkedin.com/in/patrick-rodgers-b6a05610/) (Microsoft)
-* [Maturity Model for Microsoft 365 - September 2024](https://www.youtube.com/watch?v=9DQlq-J2BGM)
-* [Microsoft Loop 101 and AMA](https://www.youtube.com/watch?v=9O_15gkiQaE)
-* [Introduction to SharePoint brand center](https://www.youtube.com/watch?v=OraHKnY4sSs) by [Cathy Dew](https://www.linkedin.com/in/cathyowendew) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) 
-* [Live from the Microsoft AI Tour: Mexico City](https://www.youtube.com/watch?v=5pEOgFW8XDs) by [Akosua Boadi-Agyemang](https://www.linkedin.com/in/akosuaba)  (Microsoft) and [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu)  (Microsoft)
-* [Building custom poll solution web part with SPFx using React](https://www.youtube.com/watch?v=BoiNdY97AV0) by [Harsh Bhavsar](https://www.linkedin.com/in/harsh-bhavsar-28157658)​ (Infosys)
-* ["In focus: Designing for Copilot" | Sync Up - Episode 13](https://www.youtube.com/watch?v=7U2e1_cbpzg) by [Stephen Rice](https://www.linkedin.com/in/srice08) (Microsoft), [Arvind Mishra](https://www.linkedin.com/in/arvindmishra1) (Microsoft) and [Ben Truelove](https://www.linkedin.com/in/ben-truelove)  
-* [Building Copilot Feedback Bot for collecting feedback from users](https://www.youtube.com/watch?v=QvE_FiV1380) by [Sam Betts](https://www.linkedin.com/in/sambettscv) 
-* [Behind the scenes at the Microsoft AI Tour: Mexico City](https://www.youtube.com/watch?v=-Zz3lxj5l04) by [Akosua Boadi-Agyemang](https://www.linkedin.com/in/akosuaba) (Microsoft)
-* [September 2024 Community events preview](https://www.youtube.com/watch?v=kkqNS30TRoA)
-* [Improving your app security with Dev Proxy](https://www.youtube.com/watch?v=m_WrPOpNe-M) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder) (Microsoft) 
-
+* [How to improve dev process with hot-reloading your SPFx customizations](https://www.youtube.com/watch?v=6KgrSvdj89E) by [Stefan Bauer](https://www.linkedin.com/in/stfbauer/) (N8D)
+* [Managing & tracking Power Platform capacity usage over time](https://www.youtube.com/watch?v=gBwsfjnLEkM) by [EY Kalman](https://www.linkedin.com/in/thecrmninja/) (ps Hummingbird)
+* [Microsoft OneDrive's latest AI innovations at work and home](https://www.youtube.com/watch?v=CebSU7XtBlw) by [Jeff Teper](https://www.linkedin.com/in/jeffteper/) (Microsoft) and other OneDrive leaders
+* [Conversation with Pooja Rajpal and Karuana Gatimu | Community Days Events Spotlight](https://www.youtube.com/watch?v=l_pL_dHA-LE) by [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu/) (Microsoft) & [Pooja Rajpal](https://www.linkedin.com/in/pooja-r-48066418/) (Kintetsu World Express)
+* [Meet the New York City organizers | Community Days Events Spotlight](https://www.youtube.com/watch?v=vzTsGEPWxWc)
+* [Collecting Custom Feedback on Copilot Studio's Generative Answers](https://www.youtube.com/watch?v=M7_G0LiJ-h4) by [Matt Jimison](https://www.linkedin.com/in/matthewjimison/) (Takeda)
+* [Using PnP Dashboard control in SPFx solutions](https://www.youtube.com/watch?v=Rqk2pRap0CI) by [Guido Zambarda](https://www.linkedin.com/in/guidozam) (Pialorsi Sistemi)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Create an instant low-code plug-in with Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2Bj57PiUr0E)
-* [User authentication for plugin actions](https://www.youtube.com/watch?v=atwrXTgJvCk)
-* [Create an automated low-code plug-in with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=hwqVochKJJA)
-* [Standard Bank of South Africa expands use of Power Platform to enterprise applications](https://www.youtube.com/watch?v=CdxKDaNjLgE)
-
+* [Create a cloud flow to view Dataverse long term retained data | Getting Started With Power Shorts](https://www.youtube.com/watch?v=4f1Ebu2vbWE)
+* [Create desktop flows using the AI Recorder | Power Platform Shorts](https://www.youtube.com/watch?v=rkbzxIy05X4)
+* [Extend topics using Cloud Flows](https://www.youtube.com/watch?v=xhy1EGtQJlU) by [Gomolemo Mohapi](https://www.linkedin.com/in/gomomohapi/) (Microsoft)
+* [Signetic help to transform your pharmacy with Power Platform](https://www.youtube.com/watch?v=QN04oh9DZ3E)
+* [Lerøy Seafood Group uses Power Platform to improve reporting and reduce costs by millions of dollars](https://www.youtube.com/watch?v=fCtoA1TNfdo)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* no new videos this week
+no new videos
 
 ---
 
@@ -91,14 +106,14 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Microsoft 365 Certification control spotlight: Secure software development and deployment](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-secure-software-development-and-deployment/) by Krishna Mawani (Microsoft)
+* [Microsoft 365 Certification control spotlight: Security event logging, reviewing, and alerting](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-event-logging-reviewing-and-alerting/) by [Krishna Mawani ](https://www.linkedin.com/in/krishnamawani/) (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* no new blog posts this week
+no new blog posts
 
 ---
 
@@ -106,8 +121,9 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform weekly call – 24th of September, 2024](https://www.youtube.com/watch?v=LxMO0kxGBJo)
-* [Copilot and M365 for SMB Community Call | September 2024](https://www.youtube.com/watch?v=TFX1H9vkN4w)
+* [Microsoft 365 & Power Platform community call - 10th of October 2024](https://www.youtube.com/watch?v=DKjKAdQLuUY)
+* [Microsoft 365 & Power Platform weekly call – 8th of October, 2024](https://www.youtube.com/watch?v=QySJPWVPVBs)
+* [Viva Connections and SharePoint Framework community call 3rd of October 2024](https://www.youtube.com/watch?v=0P8DGtpB8vI)
 
 ---
 
@@ -137,9 +153,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Microsoft 365 Ottawa](https://www.communitydays.org/event/2024-10-04/microsoft-365-ottawa), October 4, 2024  - Ottawa, Canada
-* [AI Community Conference - Redmond 2024](https://www.communitydays.org/event/2024-10-09/ai-community-conference-redmond-2024), October 9, 2024 - Redmond, Washington, United States
-* [AI Community Conference Vancouver](https://www.communitydays.org/event/2024-10-11/ai-community-conference-vancouver-2024) - October 11, 2024, Vancouver, Canada
 * [Community Summit North America 2024](https://www.communitydays.org/event/2024-10-13/community-summit-north-america-2024) - October 13-17, 2024 - San Antonio, Texas, United States
 * [CollabDays Cape Town](https://www.communitydays.org/event/2024-10-14/collabdays-cape-town) - October 14, 2024 - Cape Town, South Africa
 * [CollabDays Johannesburg](https://www.communitydays.org/event/2024-10-16/collabdays-johannesburg) -  October 16, 2024 - Johannesburg, South Africa
