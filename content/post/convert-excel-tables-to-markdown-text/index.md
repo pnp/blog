@@ -229,7 +229,7 @@ Once the script is saved, run it. After execution, the content of the table in t
 ## Additional Notes
 
 - The formatting applied to the cells (bold, italic, underline) will also be reflected in the markdown text output. However, other decorations like font color or background color will not be reflected.
-- The alignment of text (left, center, right) won’t be preserved in the markdown. You may need to adjust the alignment manually after generating the markdown. For tips on formatting markdown tables, check out [this guide]((https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)).
+- The alignment of text (left, center, right) won’t be preserved in the markdown. You may need to adjust the alignment manually after generating the markdown. For tips on formatting markdown tables, check out [this guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#formatting-content-within-your-table).
 - Hyperlinks within the table will be preserved in markdown format.
 - Hidden cells in Excel will not be included in the markdown output.
 
