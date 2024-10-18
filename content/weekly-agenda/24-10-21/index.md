@@ -96,7 +96,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-no new blog posts
+* [Building my first SharePoint Web Part with SPFx Toolkit](https://pnp.github.io/blog/post/my-first-spfx-web-part.md/) by [Luise Freese](https://linkedin.com/in/luisefreese)
+* [Build a prompt library with Microsoft Lists](https://pnp.github.io/blog/post/build-a-prompt-library-with-microsoft-lists/) by [Patrick McGown](https://www.linkedin.com/in/pmcgown/) (Cloudwell)
 
 ---
 
