@@ -28,59 +28,59 @@ Sounds cool 😎? Let's see some new enhancements we added in this major release
 
 ## Fine-tuned SPFx GitHub Copilot chat participant
 
-In the era of LLMs it's not something strange to use Copilot as you AI coding buddy. The problem with Copilot is that it just cannot be specialist in everything right? That is why we developed and SPFx Toolkit chat participant which you may use together with standard Copilot in the same chat experiance. Using SPFx toolkit as you Copilot when coding SharePoint Framework solutions gives you a head start because it is already grounded and tailored towards SPFx development. That means less context passing and shorter and quicker and more accurate prompts. 
+In the era of LLMs it's not something strange to use Copilot as your AI coding buddy. The problem with Copilot is that it just cannot be a specialist in everything right? That is why we developed an SPFx Toolkit chat participant which you may use together with standard Copilot in the same chat experience. Using SPFx toolkit as your Copilot when coding SharePoint Framework solutions gives you a head start because it is already grounded and tailored towards SPFx development. That means less context passing and shorter quicker and more accurate prompts. 
 
 ![Chat example](images/chat-example5.png)
 
-But it's not only about grounding. SPFx Toolkit Copilot chat participant gives you unique commands which are preconfigured towards a specific scenario:
+But it's not only about grounding. SPFx Toolkit Copilot chat participant gives you unique commands that are preconfigured towards a specific scenario:
 
 - /setup - that is dedicated to providing information on how to setup your local workspace for SharePoint Framework development
 - /new - that may be used to get guidance on how to create a new solution or find and reuse an existing sample from the PnP SPFx sample gallery
 - /code - that is fine-tuned to provide help in coding your SharePoint Framework project and provides additional boosters like validating the correctness of your SPFx project, scaffolding a CI/CD workflow, or renaming your project, and many more.
 
-And if you just thought that was all it also gives you actions which show up directly in chat 😍.
+And if you just thought that was all it also gives you actions that show up directly in chat 😍.
 
-In this release we refactores and shifted the `/setup` and the `/new` commands and we also updated the default LLM model that is used under the hood to `gpt-4o`.
+In this release, we refactored and shifted the `/setup` and the `/new` commands and we also updated the default LLM model that is used under the hood to `gpt-4o`.
 
-The repolished `/setup` command now gives you a totally new experiance allowing you to start your journey with SharePoint Framework development. It will give you very accurate answers how to get started with SPFx development and how to prep your local workspace to be ready to go 🚀
+The repolished `/setup` command now gives you a totally new experience allowing you to start your journey with SharePoint Framework development. It will give you very accurate answers on how to get started with SPFx development and how to prep your local workspace to be ready to go 🚀
 
 Check out the below examples:
 
 ![Chat example](images/chat-example2.png)
 
-When asked about validating if your local workspace is ready to start coding, so basically asking if you have everything properly installed, you will get an action which will run the SPFx Toolkit validata action that scans your local workspace and checks if you have all required dependecies properly set and if not it will install them for you 😮.
+When asked about validating if your local workspace is ready to start coding, so basically asking if you have everything properly installed, you will get an action that will run the SPFx Toolkit validate action that scans your local workspace and checks if you have all required dependencies properly set and if not it will install them for you 😮.
 
 ![Chat example](images/chat-example3.png)
 
-The refactored `/new` command gives you a totally new way to create a new project. You may start without any knowladge explaining to SPFx Copilot what would you like to customize and it will find and suggest the best project type for your case. It will ask additional questions to get all the needed details for the SPFx generator command and when it will have everything that is needed it will present this command directly in the chat giving you an action that will execute this command, therefore create a new project and it will reopen VS Code in this newly scaffolded solution and run `npm install`
+The refactored `/new` command gives you a totally new way to create a new project. You may start without any knowledge explaining to SPFx Copilot what you would like to customize and it will find and suggest the best project type for your case. It will ask additional questions to get all the needed details for the SPFx generator command and when it has everything that is needed it will present this command directly in the chat giving you an action that will execute this command, therefore creating a new project and it will reopen VS Code in this newly scaffolded solution and run `npm install`
 
 ![Chat example](images/chat-example1.png)
 
 ![Chat example](images/chat-in-action-new.gif)
 
-You may also be very accurate what you want and SPFx will understand your needs and will setup the correct SPFx generator command for your prompt. BTW you may also ask it about a sample for your case and SPFx Copilot chat participant will give you an action to open up the sample gallery 🤯
+You may also be very accurate in what you want and SPFx will understand your needs and will setup the correct SPFx generator command for your prompt. BTW you may also ask it about a sample for your case and SPFx Copilot chat participant will give you an action to open up the sample gallery 🤯
 
 ![Chat example](images/chat-example4.png)
 
-This is just a start and we are already looking ahead how we may upgrade the `/code` chat command to give better coding suggestions for your prompts and also we are exploring additional features that (we hope) will bring you a totally new way to get more information about your tenant 🤩.
+This is just a start and we are already looking ahead to how we may upgrade the `/code` chat command to give better coding suggestions for your prompts and also we are exploring additional features that (we hope) will bring you a totally new way to get more information about your tenant 🤩.
 
 ## More management capabilities 
 
-Staing in flow of your work is extremly important and context switching is just an waste of time. That is why in this release we extended the management capabiltieis of this extension. Now after successfull signing in to your tenant you will not only see all app catalogs you have on your tenant but also all solutions deployed to every app catalog providing you quick links to redirect to them. But wait there is more! We also give you actions for each SPFx app to `deploy`, `retract`, `enable`, `disable` and even `remove` a soltion directly from VS Code 🤯
+Staying in the flow of your work is extremely important and context-switching is just a waste of time. That is why in this release we extended the management capabilities of this extension. Now after successfully signing into your tenant, you will not only see all app catalogs you have on your tenant but also all solutions deployed to every app catalog providing you quick links to redirect to them. But wait there is more! We also give you actions for each SPFx app to `deploy`, `retract`, `enable`, `disable` and even `remove` a solution directly from VS Code 🤯
 
 ![SPFx solutions](images/app-catalog-list.png)
 
-We are already looking forward and brainstorming on additional actions and features in this area which will extend and give you new ways to manage your SPFx solutions on your Microsoft 365 tenant without leaving VS Code and without redirecting to each app catalog 😍.
+We are already looking forward to brainstorming on additional actions and features in this area which will extend and give you new ways to manage your SPFx solutions on your Microsoft 365 tenant without leaving VS Code and without redirecting to each app catalog 😍.
 
 ## Scaffold your SPFx project along with NVM or NVS config files
 
-Let's be honest the default SPFx generator is not enough. After your create a new project you spend additional time to install additional dependecies to your solution not to mention additional configuration which may waste a lot of time especcially if you are doing it for the very first time. That is why SPFx Toolkit Scaffolding for has the additional dependecies section where you may quickly select the optional packages and settings you want to be added to your newly scaffolded project.
+Let's be honest the default SPFx generator is not enough. After you create a new project you spend additional time installing additional dependencies to your solution not to mention additional configuration which may waste a lot of time especially if you are doing it for the very first time. That is why SPFx Toolkit Scaffolding has an additional dependencies section where you may quickly select the optional packages and settings you want to be added to your newly scaffolded project.
 
-In this release we added a new option which will alow you to create a Node version manager configuration file for your project. 
+In this release, we added a new option which will alow you to create a Node version manager configuration file for your project. 
 
 ![NVM config file option](images/scaffolding-additional-step-node-version.png)
 
-SPFx Toolkit supports NVM and NVS so we given you new settings which allow you to define which Node version configuration file you want to be created. It may be either `.nvmrc` for nvm and nvs but also for nvs it is possible to create `.node-version` config file. You may define that using the new extension setting.
+SPFx Toolkit supports NVM and NVS so we have given you new settings that allow you to define which Node version configuration file you want to be created. It may be either `.nvmrc` for nvm and nvs but also for nvs it is possible to create `.node-version` config file. You may define that using the new extension setting.
 
 ![NVM extension setting](images/settings-node-version-manager-file.png)
 
@@ -90,11 +90,11 @@ And you may even set it to be created always by default.
 
 ## Cards on the table 🃏 - how does it work
 
-It is no secret that SPFx toolkit in some functionalities uses the power of [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/). In fact we totally understand the fact that for some the terminal may be enough support for developing SPFx solution and additional UI or chat layer is not required. That is why in this release we corrected all of our CLI action logs to present the full command along with all the options passed directly in the output view for this extension
+It is no secret that SPFx toolkit in some functionalities uses the power of [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/). In fact we totally understand the fact that for some the terminal may be enough support for developing SPFx solutions and additional UI or chat layer is not required. That is why in this release we corrected all of our CLI action logs to present the full command along with all the options passed directly in the output view for this extension
 
 ![CLI action logs](images/cli-action-logs.png)
 
-So if the terminal is your thing it is now extremly easy to transfer between SPFx Toolkit and CLI for Microsoft 365 to get similar results when needed.
+So if the terminal is your thing it is now extremely easy to transfer between SPFx Toolkit and CLI for Microsoft 365 to get similar results when needed.
 
 ## 👏 You ROCK 🤩
 
