@@ -10,7 +10,7 @@ tags: []
 type: "regular"
 ---
 
-The **PnP Powershell** module has become very popular and for many of us it's the tool we work with on a daily basis. Now with **version 2.12.0**, it has become necessary to [use your own Entra ID Application Registration](content/post/changes-pnp-management-shell-registration/index.md) to sign in to the tenant. This means that we now also have to enter the *-ClientID* parameter when logging in with **Connect-PnPOnline**. In my daily work, however, I have to switch back and forth between different environments. Entering the GUID everytime I logon is therefore cumbersome in the long run.
+The **PnP Powershell** module has become very popular and for many of us it's the tool we work with on a daily basis. Now with **version 2.12.0**, it has become necessary to [use your own Entra ID Application Registration](content/post/changes-pnp-management-shell-registration/index.md) to sign in to the tenant. This means that we now also must enter the *-ClientID* as a parameter when logging in with **Connect-PnPOnline**. In my daily work, however, I have to switch back and forth between different environments. Entering the GUID everytime I logon is therefore cumbersome in the long run.
 
 ## I'd rather be lazy
 
@@ -21,18 +21,18 @@ Working with computers should make our lives easier, not harder. That's why I wa
 - **Simple** menu navigation
 - **Expandable** in the future for example to include automatic login
 
-During my research I came up with three different approaches, all of which I have published in [my Github repository](https://github.com/samurai-ka/PnP-Powershell-Selector). They are available for everyone to use as examples in their own Powershell environments. Everyone is free to choose the variant that best suits their needs.
+During my research I came up with three different approaches, all of which I have published in [my Github repository](https://github.com/samurai-ka/PnP-Powershell-Selector). They are available for everyone as a starting point for their own Powershell environments. Choose the variant that best suits your needs.
 
 ### The basic principle
 
-Although we now have to specify the client ID of the application registration when logging in with PnP Powershell, fortunately there is also the possibility to define the environment variable **ENTRAID_APP_ID** with the GUID of the client ID to which we want to log in by default. So if you write the GUID in to ENTRAID_APP_ID, you can omit the *-ClientID* parameter from Connect-PnPOnline.
+Although we now have to specify the client ID of the application registration when logging in with PnP Powershell, fortunately there is also the possibility to define the environment variable **ENTRAID_APP_ID** with the GUID of the client ID to which we want to log in by default. So if you write the GUID in to ENTRAID_APP_ID, you can omit the *-ClientID* parameter for Connect-PnPOnline.
 
 ```powershell
 $env:ENTRAID_APP_ID="1337B33F-1337-B33F-1337-B33F1337B33F"
 Connect-PnPOnline -Url "https:<tenant>-admin.sharepoint.com" -Interactive
 ```
 
-My first two targets, Easy to understand and Available in Powershell at all times, are realized by simply adding a small helper script to my Powershell profile. This script adds a new function **Select-PnPEnvironment** that creates a small menu in which I can choose between the different client IDs.
+My first two goals, Easy to understand and Available in Powershell at all times, are realized by simply adding a small helper script to my Powershell profile. This script adds a new function **Select-PnPEnvironment** that creates a small menu in which I can choose between the different client IDs.
 
 ```powershell
 function Select-PnPEnvironment {
@@ -103,19 +103,19 @@ function Select-PnPEnvironment {
 $env:ENTRAID_APP_ID = $entraidAppIds.Development
 ```
 
-A for-loop creates the menu entry for each entry in the hashtable and the selection made is used to find the entry in the list. This way it's no longer necessary to amend the Select-PnPEnvironment function; now it is enough to simply add or remove entries from the $entraidAppIds hashtable.
+A for-loop creates the menu entry for each entry in the hashtable and the selection is used to index the element in the list. This way it's no longer necessary to amend the Select-PnPEnvironment function; now it is enough to simply add or remove entries from the $entraidAppIds hashtable.
 
 ![Menu sample 1](images/menu-sample-1.png)
 
 The script can be added anywhere in the Powershell profile. Simply copy and paste the examples and then customize the hashtable with your GUIDs. You may want to place the hashtable higher up in your profile if you want to add or delete client IDs in the future to have faster access to the content.
 
-This menu is simple but it has its short comming. It is not very expandable for the future. This is because I read a single digit with Read-Host. So if I enter more than 10 client IDs in the hashtable, I won't be able to select them.
+This menu is simple but it has its short comming. It is not very expandable for the future. This is because I read a single digit with Read-Host. So if I enter more than 10 client IDs in the hashtable, I wouldn't be able to select them.
 
 ### Would you like a bit less?
 
 Another method is to use the Out-GridView Cmdlet as a menu. The Cmdlet is actually meant to display data in a structured way, but if you use the *-PassThru* parameter, you can select a row and use it like a menu.
 
-Let's change the function.
+Let's change the Select-PnPEnvironment function.
 
 ```powershell
 function Select-PnPEnvironment {
@@ -133,11 +133,11 @@ This script is even simpler by design. The hashtable with the client IDs is simp
 
 Errors are not intercepted in this script. If you select more than one row in the Out-GridView display, you can do this. There is no error, but the result may be different from what you would expect. The collection returned in *$selection* is sorted by the names of the hashtable. The first entry in the list is then used to assign the environment variable.
 
-Unfortunately, this approach also has a disadvantage for Linux and MacOS users. The reason for this is that Out-GridView is only available for Windows.
+Unfortunately, this approach also has a disadvantage for Linux and MacOS users as that Out-GridView is only available for Windows.
 
 ### Do you like candy?
 
-One functionality that I desperately miss in Powershell is the ability to create complex text based UIs. CSharp developers can use [Terminal.GUI](https://github.com/gui-cs/Terminal.Gui). Unfortunately I could not find a port, but I found a project on Github called [psCandy](https://github.com/Yves848/psCandy) that offers a compelling selector menu. What I particularly like about psCandy is that the module is 100% implemented in Powershell.
+One functionality that I desperately miss in Powershell is the ability to create complex text based UIs. CSharp developers can use [Terminal.GUI](https://github.com/gui-cs/Terminal.Gui). Unfortunately I could not find a port, but I found a project on Github called [psCandy](https://github.com/Yves848/psCandy) that offers a compelling selector menu. What I particularly like about psCandy is that the module is 100% implemented in Powershell. If you know of any other module, please leave me a link.
 
 Adding the module is simply done with
 
@@ -180,17 +180,17 @@ function Select-PnPEnvironment {
 $env:ENTRAID_APP_ID = $entraidAppIds[0].value
 ```
 
-The **Get-PnPEnvironment** function is very similar to the last example. The list for the selection is created and some parameters are defined, such as the title or how many entries should be displayed at the same time. *$list.SetLimit($true)* is used to specify that only a single element can be selected at a time.
+The **Select-PnPEnvironment** function is very similar to the last example. The list for the selection is created and some parameters are defined, such as the *title* or how many entries should be displayed at the same time. *$list.SetLimit($true)* is used to specify that only a single element can be selected at a time.
 
 ![Menu sample 1](images/menu-sample-3.png)
 
-The menu with psCandy currently offers me everything I want and even more like using filters on the list. It is completely written in Powershell and is loaded with my Powershell profile at startup. It is easy to understand and psCandy offers me even more possibilities to extend the functionality in the future.
+The psCandy menu currently offers me everything I want and even more like using filters on the list. It is completely written in Powershell and is loaded with my Powershell profile at startup. It is easy to understand and psCandy offers me even more possibilities to extend the functionality in the future.
 
 ## Conclusion
 
 These are just three examples of how to create a menu in the Powershell profile to easily switch between different client IDs. You may not exactly find the right solution for you, but I hope this is a starting point for your own menu.
 
-You can use these examples in your Powershell profile. Two new functions are then available when Powershell is started.
+You can use one these examples by simply adding the script to your Powershell profile. Two new functions are then available when Powershell is started.
 
 - **Get-PnPEnvironment**
   Convert the Client ID into a more readable output.
