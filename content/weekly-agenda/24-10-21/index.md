@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 21st of October 2024 week
-date: 2024-10-11T01:15:03.394Z
+date: 2024-10-18T01:15:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -50,7 +50,6 @@ Demos this time
 * [Joseph Fadero](https://www.linkedin.com/in/joseph-fadero/) (Citizen Developer HQ) - Empower Education: Create Interactive Learning Bots with Copilot Studio
 * [Tomasz Poszytek](https://www.linkedin.com/in/tomaszposzytek/) (Konsultanci Digital Workplace) - Integration with Graph and SharePoint API using application permissions in Logic Apps
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -61,6 +60,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [How to build an office disinfect tracker with Power Apps and SharePoint](https://www.youtube.com/watch?v=IySJwEmq5Eo) by [Syed Md Maruf Hasan](https://www.linkedin.com/in/syed-hasan-maruf/) (Asia Pacific University)
+* [Discover M365 & Power Platform Community Samples with the Finder Bot](https://www.youtube.com/watch?v=J5IH-wN-cbk) by [Siddharth Vaghasia](https://www.linkedin.com/in/siddharthvaghasia/) and [Siddharth Vaghasia](https://www.linkedin.com/in/kunj-sangani/)
 * [Building real time user monitoring with documents in SharePoint using Azure App Insights and SPFx](https://www.youtube.com/watch?v=G_TN0X8-mt4) by [Ejaz Hussain](https://www.linkedin.com/in/hussaine) (Advania)  
 * [SharePoint Premium - Autofill (GPT4-Turbo Powered) Columns](https://www.youtube.com/watch?v=uqeZ0WKm3O8) [Leon Armston](https://www.linkedin.com/in/leonarmston)​ (​Intelogy) 
 * [How to automate record creation with data extraction and AI summarization using Power Platform](https://www.youtube.com/watch?v=32snccUKGik) by [Ana Inés Urrutia de Souza](https://www.linkedin.com/in/anainesurruti) (KPMG)​ and [Denisa Mihai](https://www.linkedin.com/in/denisamihai) (KPMG)
@@ -97,6 +98,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Building my first SharePoint Web Part with SPFx Toolkit](https://pnp.github.io/blog/post/my-first-spfx-web-part.md/) by [Luise Freese](https://linkedin.com/in/luisefreese)
+* [Office Scripts: Convert Excel Tables to Markdown Text](https://pnp.github.io/blog/post/convert-excel-tables-to-markdown-text/) by [Tetsuya Kawahara](https://www.linkedin.com/in/tetsuya-kawahara-730498180/)
 * [Build a prompt library with Microsoft Lists](https://pnp.github.io/blog/post/build-a-prompt-library-with-microsoft-lists/) by [Patrick McGown](https://www.linkedin.com/in/pmcgown/) (Cloudwell)
 
 ---
@@ -105,6 +107,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 17th of October 2024](https://www.youtube.com/watch?v=qAXAC86PaSQ)
+* [Office add-ins community call - October 2024](https://www.youtube.com/watch?v=7oDPawF58rg)
 * [Microsoft Power Platform community call – October 2024](https://www.youtube.com/watch?v=EF6RmxPiVGs)
 * [Microsoft 365 & Power Platform weekly call – 15th of October, 2024](https://www.youtube.com/watch?v=PX1Ku9sIi7Y)
 
