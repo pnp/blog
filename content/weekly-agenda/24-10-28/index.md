@@ -1,5 +1,5 @@
 ---
-title: Weekly Agenda - 28tht of October 2024 week
+title: Weekly Agenda - 28th of October 2024 week
 date: 2024-10-25T01:15:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
