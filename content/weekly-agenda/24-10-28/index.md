@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 28tht of October 2024 week
-date: 2024-10-24T01:15:03.394Z
+date: 2024-10-25T01:15:03.394Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -18,6 +18,12 @@ We want to give you a better overview on what's happening each week. This is a s
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
+
+{{< notice tip>}}
+It's that time of the year again - Schedules are adjusted with the Daylight Savings updates as we move towards winter in Northern hemisphere. As Europe and US move their time in different weeks, next week's meetings might be impacted for you. If you have downloaded the recurrent invites from https://aka.ms/community/calls, those are automatically adjusted in your calendar.
+
+This year Daylight Savings ends in Europe on 27th of October and in US on 3rd of November. This means that the schedule can look strange for one week. If Daylight Savings are not used within your country, meetings schedule will be adjusted again for the winter period in the Northern hemisphere.
+{{< /notice >}}
 
 This is the agenda for the upcoming week:
 
@@ -33,13 +39,11 @@ Demos this time
 * [Anshul Jethwani](https://www.linkedin.com/in/ajethwani/) (Microsoft) & Sathya Raveendran (Microsoft) - AI Zero-to-One: Building an AI-fied Company Communicator Author app experience using Azure Open AI
 * [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft) – Hands-on lab: Building Declarative agents with API Plugins
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
-
 
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 31st of October
 
@@ -52,11 +56,9 @@ Demos this time
 * [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (Die Mobiliar) & [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara/) (Die Mobiliar) –  Building real world Intranet with SPFx - In page navigation
 * [Guido Zambarda](https://www.linkedin.com/in/guidozam/) (PiaSys) - How to get started using the Application Customizer
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
 
 ---
 
@@ -64,13 +66,12 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Powering up your Power Pages with Power Automate](https://www.youtube.com/watch?v=gqsAm_n13d8) by [Nick Doelman](https://www.linkedin.com/in/nickdoelman/)
 * [Enhance Your SharePoint Search Journey with SPFx and Custom Copilot](https://www.youtube.com/watch?v=YwHL6Q44PgE) by [Mohammed Amer](https://linkedin.com/in/mohammad3mer) (Atea Global Services)
 * [Leveraging Messaging Extensions to build Copilot Plugin with SharePoint List Content](https://www.youtube.com/watch?v=oPWwZ1FAmqo) by [Ejaz Hussain](https://linkedin.com/in/hussaine) (Advania)
 * [Manage multiple identities CLI for Microsoft 365](https://www.youtube.com/watch?v=vmtFRnNckGM) by [Martin Lingstuyl](https://linkedin.com/in/martinlingstuyl) (I4-YOU Business Solutions B.V.) and [Adam Wójcik](https://linkedin.com/in/adam-w%c3%b3jcik-9b7777a6) (Hitachi Energy) 
 * [Setting up community tooling to create SharePoint List Formatting magic](https://www.youtube.com/watch?v=ZE3mu348iS0) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
 * [Introduction to Advance API features in Viva Connections Card Designer](https://www.youtube.com/watch?v=HlfuiIMZTXc)
-
-
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
@@ -86,8 +87,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
-
-no new videos
 
 * [Join us at Microsoft 365 Copilot: Developer Camp on November 7th!](https://www.youtube.com/watch?v=l4bCs34T6qM)
 
@@ -112,11 +111,10 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 24th of October 2024](https://www.youtube.com/watch?v=3jEBJ9gND-o)
 * [Microsoft 365 & Power Platform weekly call – 22nd of October, 2024](https://www.youtube.com/watch?v=-wbmcljmDHI)
 * [OneDrive Customer Office Hours | October 2024](https://www.youtube.com/watch?v=_uTkTrWcZfE)
 * [Maturity Model for Microsoft 365 - October 2024](https://www.youtube.com/watch?v=Lq2Et15tc4s)
-
-
 
 ---
 
@@ -145,8 +143,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [European Collaboration Summit 2025](https://collabsummit.eu/) - May 26-28, 2025, Düsseldorf, Germany
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
-
 
 * [Low Code No Code Microsoft Power Platform Conference](https://www.communitydays.org/event/2024-11-09/low-code-no-code-microsoft-power-platform-conference-2024) - November 9-10, 2024 - Virtual
 * [aiim Forum Europe](https://www.communitydays.org/event/2024-11-11/aiim-forum-europe) - November 11-12, 2024 - Manchester, United Kingdom
