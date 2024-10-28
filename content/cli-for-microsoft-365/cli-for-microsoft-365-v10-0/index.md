@@ -131,17 +131,19 @@ For more information check the following resources:
 
 Besides all these new commands, we've also made some changes to some existing commands. A few bugs have been fixed and the codebase has been polished. Lets have a closer look at some of the updates that stand out the most
 
-### Extended login command with `--ensure` option
+### Extended `login` command with `--ensure` option
 
 We updated our `login` command adding a new option that ensures that the user is signed in. if the user isn't signed in, it initiates the login flow. This option will allow you to update and simplify your scripts as now you will no longer need to run the `m365 status` command first to ensure that you are logged in and if not run the `login` command which is typically the first thing you we do in almost every script. Now you may do all that by simply running `m365 login --ensure`.
 
 - [m365 login](https://pnp.github.io/cli-microsoft365/cmd/login/)
 
-//------------------------------------------
-// TODO: write up updates about the following
-// https://github.com/pnp/cli-microsoft365/issues/6367
-// https://github.com/pnp/cli-microsoft365/issues/6270
-// https://github.com/pnp/cli-microsoft365/issues/6322
+### Enchanced the `spo list remove` command with `--recycle` option
+
+We improved the [spo list remove](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-remove) with a new `--recycle` option that when used it will send the list to the recycle bin instead of permanently deleting it.
+
+### Renamed the default CLI for Microsoft 365 app registration created during `m365 setup`
+
+Not so long ago we updated the default behavior of the login command which now requires you to provide an app registration which will allow CLI for Microsoft 365 to sign in to your tenant. You may read more details about this change in [previous major release blog post](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v9-0/#the-new-major-version-of-cli-for-microsoft-365--v9). Along with this change we update the `m365 setup` command so that it now also allows you to create the required app registration on your tenant along with all required settings and selected set of permissions. In this release we updated the default name of this app to 'CLI for M365', previously it was 'CLI for Microsoft 365'. Unfortonatly it turned out that the word 'Microsoft' in your app registration name blocks you from updating the app to become multitenant. That is why in order to avoid this uneccesary problem we updated the name.
 
 ## Upcoming changes
 
@@ -157,37 +159,24 @@ Sharing is Caring!
 
 We want to extend our heartfelt appreciation to the incredible individuals who have made this release possible. Without their valuable contributions and dedication, CLI for Microsoft 365 wouldn't be where it is today. Let's give a round of applause to the following contributors (in alphabetical order):
 
-//------------------------------------------
-// TODO: Update this list
 - [Adam Wójcik](https://github.com/Adam-it)
-- [Arjun Menon](https://github.com/arjunumenon)
+- [Can Arslan](https://github.com/mc2rcanarslan)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
 - [Martin Lingstuyl](https://github.com/martinlingstuyl)
-- [Martin Machacek](https://github.com/MartinM85)
 - [Mathijs Verbeeck](https://github.com/MathijsVerbeeck)
+- [Michał Kornet](https://github.com/mkm17)
 - [Milan Holemans](https://github.com/milanholemans)
 - [Nanddeep Nachan](https://github.com/nanddeepn)
 - [Nico De Cleyre](https://github.com/nicodecleyre)
-- [Reshmee Auckloo](https://github.com/reshmee011)
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
+- [Shantha Kumar T](https://github.com/ktskumar)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 ### High fives
 
 We would like to give a big shoutout and high fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
 
-//------------------------------------------
-// TODO: Update this list
-- [Albert-Jan Schot](https://github.com/appieschot)
-- [Gustavo Velez](https://github.com/gavdgavd)
-- [hsantens](https://github.com/hsantens)
-- [Janne Holm](https://github.com/jhholm)
-- [louderthanloud123](https://github.com/louderthanloud123)
-- [Michał Kornet](https://github.com/mkm17)
-- [MOMED2023](https://github.com/MOMED2023)
-- [NGseb](https://github.com/NGseb)
-- [Priya Ananthasankar](https://github.com/priyaananthasankar)
-- [tor-axbit](https://github.com/tor-axbit)
+- [David Wales](https://github.com/daviewales)
 
 ## Get started today!
 
@@ -209,6 +198,4 @@ For additional guidance on getting started or to explore detailed information ab
 
 ## Stay connected!
 
-//------------------------------------------
-// TODO: Add link to LinkedIn PnP profile page
-We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [X](https://x.com/climicrosoft365), or [LinkedIn](https://www.linkedin.com/company/m365pnp). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
