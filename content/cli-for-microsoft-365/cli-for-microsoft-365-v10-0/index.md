@@ -1,5 +1,5 @@
 ---
-title: CLI for Microsoft 365 v9
+title: CLI for Microsoft 365 v10
 date: 2024-10-31T01:00:00.000Z
 author: Adam Wójcik
 githubname: Adam-it
@@ -29,7 +29,7 @@ A good example of necessary changes that were done in order to align with Micros
 - [removal of the `AAD` alias](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands), which means from now on we will be using only the `Entra` word when referring to Entra ID
 - We also [removed aliases to good old Yammer and therefore leaving only Viva Engage](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands) to align all our commands with the current state of Microsoft 365
 
-We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to manage large folders between site collections. As now we use different API we also need to adapt our command options to what is supported in the new endpoints. You may read more details about this change here: 
+We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to manage large folders between site collections. As now we use different APIs we also need to adapt our command options to what is supported in the new endpoints. You may read more details about this change here: 
 
 - [Updated command spo folder move and spo folder copy](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-folder-move-and-spo-folder-copy)
 
@@ -52,7 +52,7 @@ This is just the tip of the iceberg of the necessary and longly awaited updates 
 
 ### New SharePoint Premium commands
 
-This major release also introduce a brand new [spp model list](https://pnp.github.io/cli-microsoft365/cmd/spp/model/model-list/) command which will allow you to retrieve the list of unstructured document processing models.
+This major release also introduces a brand new [spp model list](https://pnp.github.io/cli-microsoft365/cmd/spp/model/model-list/) command which will allow you to retrieve the list of unstructured document processing models.
 
 The usage is as always very simple and in order to retrieve a list of SharePoint Premium unstructured document processing models on the content center site, simply run:
 
@@ -73,7 +73,7 @@ To list all admins from a community specified by display name run:
 m365 viva engage community user list --communityDisplayName "All company" --role Admin
 ```
 
-or you may get the list of members by specifying the group ID by running:
+Or you may get the list of members by specifying the group ID by running:
 
 ```sh
 m365 viva engage community user list --entraGroupId b6c35b51-ebca-445c-885a-63a67d24cb53 --role Member
@@ -129,7 +129,7 @@ For more information check the following resources:
 
 ## What's changed
 
-Besides all these new commands, we've also made some changes to some existing commands. A few bugs have been fixed and the codebase has been polished. Let's have a closer look at some of the updates that stand out the most
+Besides all these new commands, we've also made some changes to some existing commands. A few bugs have been fixed and the codebase has been polished. Let's have a closer look at some of the updates that stand out the most.
 
 ### Extended `login` command with `--ensure` option
 
@@ -143,7 +143,7 @@ We improved the [spo list remove](https://pnp.github.io/cli-microsoft365/cmd/spo
 
 ### Renamed the default CLI for Microsoft 365 app registration created during `m365 setup`
 
-Not so long ago we updated the default behavior of the login command which now requires you to provide an app registration which will allow CLI for Microsoft 365 to sign in to your tenant. You may read more details about this change in [previous major release blog post](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v9-0/#the-new-major-version-of-cli-for-microsoft-365--v9). Along with this change we update the `m365 setup` command so that it now also allows you to create the required app registration on your tenant along with all required settings and selected set of permissions. In this release we updated the default name of this app to 'CLI for M365', previously it was 'CLI for Microsoft 365'. Unfortunately, it turned out that the word 'Microsoft' in your app registration name blocks it from becoming multitenant. That is why in order to avoid this unnecessary problem we updated the name.
+Not so long ago we updated the default behavior of the login command which now requires you to provide an app registration which will allow CLI for Microsoft 365 to sign in to your tenant. You may read more details about this change in [previous major release blog post](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v9-0/#the-new-major-version-of-cli-for-microsoft-365--v9). Along with this change we updated the `m365 setup` command so that it now also allows you to create the required app registration on your tenant along with all required settings and selected set of permissions. In this release we updated the default name of this app to 'CLI for M365', previously it was 'CLI for Microsoft 365'. Unfortunately, it turned out that the word 'Microsoft' in your app registration name blocks it from becoming multitenant. That is why in order to avoid this unnecessary problem we updated the name.
 
 ## Upcoming changes
 
