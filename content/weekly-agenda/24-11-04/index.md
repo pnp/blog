@@ -1,16 +1,16 @@
 ---
-title: Weekly Agenda - 28th of October 2024 week
-date: 2024-10-25T01:15:03.394Z
+title: Weekly Agenda - 4th of November week
+date: 2024-10-31T17:54:14.434Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary44.png
+  - images/weeklysummary45.png
 tags: []
 type: trending
 videos: null
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -27,17 +27,17 @@ This year Daylight Savings ends in Europe on 27th of October and in US on 3rd of
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform weekly call - 29th of October
+### Microsoft 365 & Power Platform weekly call - 5th of November
 
-* Tuesday, 29th of October 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 5th of November 2024, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time
 
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) - Building SharePoint Embedded Center of Excellence solution with Power Platformsearch by using an API to run prompts
-* [Anshul Jethwani](https://www.linkedin.com/in/ajethwani/) (Microsoft) & Sathya Raveendran (Microsoft) - AI Zero-to-One: Building an AI-fied Company Communicator Author app experience using Azure Open AI
-* [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft) – Hands-on lab: Building Declarative agents with API Plugins
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - SharePoint Embedded – November update
+* [Ayca Bas](https://www.linkedin.com/in/aycabas/) (Microsoft) - Hands-on lab: Building Custom Engine copilots with Teams AI Library and Azure AI Studio
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -45,16 +45,18 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework bi-weekly community Call - 31st of October
+### Microsoft 365 & Power Platform bi-weekly community Call - 7th of November
 
-* Thursday, 31st of October 2024, 7:00 AM PT / 2:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
+* Thursday, 7th of November, 7:00 AM PT / 2:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time
 
-* [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (Die Mobiliar) & [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara/) (Die Mobiliar) –  Building real world Intranet with SPFx - In page navigation
-* [Guido Zambarda](https://www.linkedin.com/in/guidozam/) (PiaSys) - How to get started using the Application Customizer
+* [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/) (Smartersoft) – Create a "graph" client for your own API
+* [Suparna Banerjee](https://www.linkedin.com/in/suparna-banerjee-68780623/) (Microsoft) - Automated Testing with Power Platform Pipelines
+* [Sean Astrakhan](https://www.linkedin.com/in/sean-astrakhan/) (Untethered) -  How to build an auto-email responder using Power Automate and Azure AI Studio
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -66,35 +68,37 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Powering up your Power Pages with Power Automate](https://www.youtube.com/watch?v=gqsAm_n13d8) by [Nick Doelman](https://www.linkedin.com/in/nickdoelman/)
-* [Enhance Your SharePoint Search Journey with SPFx and Custom Copilot](https://www.youtube.com/watch?v=YwHL6Q44PgE) by [Mohammed Amer](https://linkedin.com/in/mohammad3mer) (Atea Global Services)
-* [Leveraging Messaging Extensions to build Copilot Plugin with SharePoint List Content](https://www.youtube.com/watch?v=oPWwZ1FAmqo) by [Ejaz Hussain](https://linkedin.com/in/hussaine) (Advania)
-* [Manage multiple identities CLI for Microsoft 365](https://www.youtube.com/watch?v=vmtFRnNckGM) by [Martin Lingstuyl](https://linkedin.com/in/martinlingstuyl) (I4-YOU Business Solutions B.V.) and [Adam Wójcik](https://linkedin.com/in/adam-w%c3%b3jcik-9b7777a6) (Hitachi Energy) 
-* [Setting up community tooling to create SharePoint List Formatting magic](https://www.youtube.com/watch?v=ZE3mu348iS0) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
-* [Introduction to Advance API features in Viva Connections Card Designer](https://www.youtube.com/watch?v=HlfuiIMZTXc)
+* [SharePoint roadmap pitstop October 2024](https://www.youtube.com/watch?v=wvGt23lnjgs)
+* [Streamlining Internal Marketplaces using Copilot and Teams Message Extension for Classified Listings](https://www.youtube.com/watch?v=HnYvMU6P1vc) by [Smita Nachan](https://linkedin.com/in/smitanachan) and [Nanddeep Nachan](https://linkedin.com/in/nanddeepnachan) 
+* [Building SPFx powered Teams solution with Azure AI Speech](https://www.youtube.com/watch?v=p03ss3nSmkM) by [Chris Kent](https://linkedin.com/in/thechriskent)(Takeda)
+* [Power Platform Copilot - Prompt like a Pro](https://www.youtube.com/watch?v=O15OmKiDPY0) by [April Dunnam](https://linkedin.com/in/aprildunnam)(Microsoft)
+* [Introducing the new chat and channels experience in Microsoft Teams](https://www.youtube.com/watch?v=xgJbO8HmYWo)
+* [Meet the Makers | Designing the new Microsoft Teams chat and channels experience](https://www.youtube.com/watch?v=TiTZDjj_qzM) by [Russell Dicker](https://linkedin.com/in/rdicker)  (Microsoft), [Aparna Barve](https://linkedin.com/in/aparnabarve)  (Microsoft), [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) (Microsoft)
+* [Click, Send, Delivered: How to Send Emails Directly from Power Apps](https://www.youtube.com/watch?v=KBxkjK3u-mc) byb  [Craig White](https://linkedin.com/in/craig-white) (ANS Group)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Change screen size and orientation of canvas apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=dsow8q4LzA8)
-* [2024 Power Platform Community Conference Recap](https://www.youtube.com/watch?v=MdYdPSFtfMk)
-* [PPCC24 Keynote Panel - Day Three](https://www.youtube.com/watch?v=j_TLQFUKNRg)
-* [PPCC24 Keynote with Microsoft Fabric and Power BI Vice President of Product - Kim Manis](https://www.youtube.com/watch?v=RPYbaarti7U)
-* [PPCC24 Keynote with Microsoft Business and Industry Copilots CVP - Charles Lamanna](https://www.youtube.com/watch?v=R7tNtLxQaSY)
-* [PPCC24 Keynote with Microsoft 365 Collaborative Apps and Platforms President - Jeff Teper](https://www.youtube.com/watch?v=AeOVJ5jRBZo)
-* [Configuring rich responses](https://www.youtube.com/watch?v=so2TLye0cUo)
-* [Embed a model-driven app in Microsoft Teams | Power Platform Shorts](https://www.youtube.com/watch?v=vRzJAN5P4X8)
-* [Nsure.com reduces manual processing time by 60% using generative AI and Power Automate](https://www.youtube.com/watch?v=I0ykNx4XLE8)
+* [Add OAuth authentication for HTTP request triggers | Getting Started With Power Shorts](https://www.youtube.com/watch?v=USzJtkkHSD0)
+* [Convert a time zone with Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=ssq7h8kFhJs)
+* [Edit your copilot with code editor](https://www.youtube.com/watch?v=y_2L884NuQc)
+* [Cineplex saves 30,000 hours a year with Power Platform and generative AI](https://www.youtube.com/watch?v=aQJ-SwBeyL8)
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Join us at Microsoft 365 Copilot: Developer Camp on November 7th!](https://www.youtube.com/watch?v=l4bCs34T6qM)
+* no new videos this week
 
 
 ## New Microsoft 365 Developer Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
+* [What’s new for Microsoft 365 Copilot developer tooling](https://devblogs.microsoft.com/microsoft365dev/whats-new-for-microsoft-365-copilot-developer-tooling/) by [Jeremy Thake](https://www.linkedin.com/in/jeremythake/) (Microsoft)
+* [Microsoft 365 Certification control spotlight: Business continuity and disaster recovery planning](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-business-continuity-and-disaster-recovery-planning/) by Krishna Mawani (Microsoft)
+* [Retirement of the SharePoint SendEmail API](https://devblogs.microsoft.com/microsoft365dev/retirement-of-the-sharepoint-sendemail-api/)
+* [Microsoft 365 Certification control spotlight: Security incident response](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-security-incident-response/) by Tony Balkan (Microsoft)
+* [Join the Microsoft 365 Copilot: Developer Camp](https://devblogs.microsoft.com/microsoft365dev/join-the-microsoft-365-copilot-developer-camp/) by [Ayca Bas](https://www.linkedin.com/in/aycabas/) (Microsoft)
+* [Specify runtime requirements in app manifest: Your key to success across Microsoft 365](https://devblogs.microsoft.com/microsoft365dev/specify-runtime-requirements-in-app-manifest-your-key-to-success-across-microsoft-365/) by Adam Li (Microsoft)
 * [Microsoft 365 control spotlight: Information security risk management](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-control-spotlight-information-security-risk-management/) by Leana Gerrard (Microsoft)
 
 
@@ -102,7 +106,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* [SharePoint Framework Toolkit v4.2.0 minor release](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-4-2-release/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)(Hitachi Energy)
+* [CLI for Microsoft 365 v10](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v10-0/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)(Hitachi Energy)
 
 
 ---
@@ -111,13 +115,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform community call - 24th of October 2024](https://www.youtube.com/watch?v=3jEBJ9gND-o)
-* [Microsoft 365 & Power Platform weekly call – 22nd of October, 2024](https://www.youtube.com/watch?v=-wbmcljmDHI)
-* [OneDrive Customer Office Hours | October 2024](https://www.youtube.com/watch?v=_uTkTrWcZfE)
-* [Maturity Model for Microsoft 365 - October 2024](https://www.youtube.com/watch?v=Lq2Et15tc4s)
-
-
-
+* [Microsoft 365 & Power Platform weekly call – 29th of October, 2024](https://www.youtube.com/watch?v=Hy6YbEFsUUc)
 
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
