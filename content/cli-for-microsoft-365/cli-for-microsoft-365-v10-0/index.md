@@ -17,7 +17,7 @@ tags:
 type: popular
 ---
 
-We have just published a new major version of CLI for Microsoft 365 v10. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This major release introduces several new commands that will enhance the quality of your Microsoft 365 experience as well as a breaking change in the default login experience.
+We have just published a new major version of CLI for Microsoft 365 v10. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This major release introduces several new commands that will enhance the quality of your Microsoft 365 experience as well as numerous breaking changes.
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
  
@@ -54,7 +54,7 @@ This is just the tip of the iceberg of the necessary and longly awaited updates 
 
 This major release also introduces a brand new [spp model list](https://pnp.github.io/cli-microsoft365/cmd/spp/model/model-list/) command which will allow you to retrieve the list of unstructured document processing models.
 
-The usage is as always very simple and in order to retrieve a list of SharePoint Premium unstructured document processing models on the content center site, simply run:
+The usage is as always very easy and in order to retrieve a list of SharePoint Premium unstructured document processing models on the content center site, just run:
 
 ```sh
 m365 spp model list --siteUrl https://contoso.sharepoint.com/sites/ContentCenter
