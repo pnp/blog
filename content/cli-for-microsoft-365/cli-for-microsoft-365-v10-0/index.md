@@ -29,18 +29,18 @@ A good example of necessary changes that were done in order to align with Micros
 - [removal of the `AAD` alias](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands), which means from now on we will be using only the `Entra` word when referring to Entra ID
 - We also [removed aliases to good old Yammer and therefore leaving only Viva Engage](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands) to align all our commands with the current state of Microsoft 365
 
-We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to manage large folders between site collections. As now we use different APIs we also need to adapt our command options to what is supported in the new endpoints. You may read more details about this change here: 
+We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to copy/move larger folders between site collections. As we now use different APIs we also need to adapt our command options to what is supported in the new endpoints. You may read more details about this change here: 
 
 - [Updated command spo folder move and spo folder copy](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-folder-move-and-spo-folder-copy)
 
-Similar improvements we introduced to [spo file copy](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-copy/) and [spo file move](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-move/) commands. We also updated those commands to new endpoints to ensure the command's functionality and reliability. You may find more details about those changes here: 
+Similar improvements are introduced to [spo file copy](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-copy/) and [spo file move](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-move/) commands. We also updated those commands to new endpoints to ensure the command's functionality and reliability. You may find more details about those changes here: 
 
 - [Updated command spo file copy](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-file-copy)
 - [Updated command spo file move](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-file-move)
 
 Other breaking changes were introduced to align some of our commands with our conventions so that we are consistent and follow similar approaches in all places. For example we: 
 - added `--force` option to [spo site appcatalog remove](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-appcatalog-remove)
-- or we updated the purpose of option `displayName` for [entra m365group set command](https://pnp.github.io/cli-microsoft365/cmd/entra/m365group/m365group-set) 
+- updated the purpose of option `displayName` for [entra m365group set command](https://pnp.github.io/cli-microsoft365/cmd/entra/m365group/m365group-set) 
 
 This is just the tip of the iceberg of the necessary and longly awaited updates we introduced to CLI for Microsoft 365 that will greatly improve its usage and align it with Microsoft 365!
 
