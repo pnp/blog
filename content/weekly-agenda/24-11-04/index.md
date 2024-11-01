@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 4th of November week
-date: 2024-10-31T17:54:14.434Z
+date: 2024-11-01T02:54:14.434Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -19,17 +19,11 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
-{{< notice tip>}}
-It's that time of the year again - Schedules are adjusted with the Daylight Savings updates as we move towards winter in Northern hemisphere. As Europe and US move their time in different weeks, next week's meetings might be impacted for you. If you have downloaded the recurrent invites from https://aka.ms/community/calls, those are automatically adjusted in your calendar.
-
-This year Daylight Savings ends in Europe on 27th of October and in US on 3rd of November. This means that the schedule can look strange for one week. If Daylight Savings are not used within your country, meetings schedule will be adjusted again for the winter period in the Northern hemisphere.
-{{< /notice >}}
-
 This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform weekly call - 5th of November
 
-* Tuesday, 5th of November 2024, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 5th of November 2024, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
@@ -47,7 +41,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 7th of November
 
-* Thursday, 7th of November, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 7th of November, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
@@ -68,6 +62,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [How to use C# to build custom connectors easily with the help of GitHub Copilot](https://www.youtube.com/watch?v=fmYh8j9A-fg) by [Paul Murana](https://www.linkedin.com/in/pmurana/) (Accendo Solutions)
+* [OneDrive: Secure sync deployment | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=Lg60ySmT6Uw) by [Kayla Ngan](https://www.linkedin.com/in/kaylangan/) (Microsoft) & [Carter Green](https://www.linkedin.com/in/cartergreen/) (Microsoft)
 * [SharePoint roadmap pitstop October 2024](https://www.youtube.com/watch?v=wvGt23lnjgs)
 * [Streamlining Internal Marketplaces using Copilot and Teams Message Extension for Classified Listings](https://www.youtube.com/watch?v=HnYvMU6P1vc) by [Smita Nachan](https://linkedin.com/in/smitanachan) and [Nanddeep Nachan](https://linkedin.com/in/nanddeepnachan) 
 * [Building SPFx powered Teams solution with Azure AI Speech](https://www.youtube.com/watch?v=p03ss3nSmkM) by [Chris Kent](https://linkedin.com/in/thechriskent)(Takeda)
@@ -86,7 +82,7 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* no new videos this week
+* [Learn how to build Copilot agents at Microsoft 365 Copilot: Developer Camp](https://www.youtube.com/watch?v=jm6GAl3pYOs) by [Dona Sarkar](https://www.linkedin.com/in/donasarkar/) (Microsoft)
 
 
 ## New Microsoft 365 Developer Blog posts
@@ -115,6 +111,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 31st of October 2024](https://www.youtube.com/watch?v=QhYtd-AHI_U)
 * [Microsoft 365 & Power Platform weekly call – 29th of October, 2024](https://www.youtube.com/watch?v=Hy6YbEFsUUc)
 
 
