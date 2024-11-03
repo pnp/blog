@@ -136,11 +136,11 @@ public get template(): ISPFxAdaptiveCard {
 8. Add a render() method
     
     Since you're now using **React** for rendering, add the `render()` method to your class. This method will throw an error for now, indicating the method is not yet implemented.
-    
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728222864140/9db40234-6d3c-4a4b-9e29-2dabadbe8792.png align="center")
+![impelement inherited abstract class](images/card-view.png)
 
-After impelemeting inferited abstrct class
+
+After impelemeting inherited abstrct class
 
 ```typescript
 import { BaseWebQuickView} from '@microsoft/sp-adaptive-card-extension-base';
