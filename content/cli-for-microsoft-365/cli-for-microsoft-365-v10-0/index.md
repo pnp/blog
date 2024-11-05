@@ -26,17 +26,14 @@ We have just published a new major version of CLI for Microsoft 365 v10. [CLI fo
 We know, another major release! But this one is not an ASAP reaction to a breaking change we needed to adapt to. This one is is the longly awaited and planned release that will introduce a lot of helpful improvements to our product. The [list of breaking changes](https://pnp.github.io/cli-microsoft365/about/release-notes#%EF%B8%8F-breaking-changes) is quite long but it introduces a lot of helpful and necessary improvements to CLI for Microsoft 365 and also aligns it with the the latest changes and naming updates of Microsoft 365 products and apps. 
 
 A good example of necessary changes that were done in order to align with Microsoft 365 were 
-- [removal of the `AAD` alias](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands), which means from now on we will be using only the `Entra` word when referring to Entra ID
-- We also [removed aliases to good old Yammer and therefore leaving only Viva Engage](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses-to-aad-commands) to align all our commands with the current state of Microsoft 365
+- [removal of the `AAD` alias](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#removed-aad-options-and-aliasses), which means from now on we will be using only the `Entra` word when referring to Entra ID
+- We also [removed aliases to good old Yammer and therefore leaving only Viva Engage](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#aligned-command-names) to align all our commands with the current state of Microsoft 365
 
-We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to copy/move larger folders between site collections. As we now use different APIs we also need to adapt our command options to what is supported in the new endpoints. You may read more details about this change here: 
+We also introduced breaking changes that will greatly improve some functionalities of our product. For example, we updated the API endpoints that were used in [spo folder move](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-move/) and [spo folder copy](https://pnp.github.io/cli-microsoft365/cmd/spo/folder/folder-copy/) commands so that now it will be possible to copy/move larger folders between site collections. As we now use different APIs we also need to adapt our command options to what is supported in the new endpoints.
 
-- [Updated command spo folder move and spo folder copy](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-folder-move-and-spo-folder-copy)
+Similar improvements are introduced to [spo file copy](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-copy/) and [spo file move](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-move/) commands. We also updated those commands to new endpoints to ensure the command's functionality and reliability. 
 
-Similar improvements are introduced to [spo file copy](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-copy/) and [spo file move](https://pnp.github.io/cli-microsoft365/cmd/spo/file/file-move/) commands. We also updated those commands to new endpoints to ensure the command's functionality and reliability. You may find more details about those changes here: 
-
-- [Updated command spo file copy](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-file-copy)
-- [Updated command spo file move](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-command-spo-file-move)
+You may find more details about those changes reading the [Updated commands for file and folder operations](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance#updated-commands-for-file-and-folder-operations)
 
 Other breaking changes were introduced to align some of our commands with our conventions so that we are consistent and follow similar approaches in all places. For example we: 
 - added `--force` option to [spo site appcatalog remove](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-appcatalog-remove)
