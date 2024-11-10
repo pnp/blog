@@ -39,7 +39,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework bi-weekly community Call - 31st of October
+### Viva Connections & SharePoint Framework bi-weekly community Call - 14th of November
 
 * Thursday, 31st of October 2024, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
