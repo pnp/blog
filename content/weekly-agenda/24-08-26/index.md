@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary35.png
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
