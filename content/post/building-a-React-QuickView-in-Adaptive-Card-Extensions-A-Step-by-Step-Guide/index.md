@@ -1,13 +1,17 @@
 ---
-title: "Step-by-Step Guide to Building a React based QuickView in Adaptive Card Extensions"
-date: 2024-11-2T08:40:00-04:00
-author: "Ahmad Jad Alhak"
+title: Step-by-Step Guide to Building a React based QuickView in Adaptive Card Extensions
+date: 2024-11-08T07:11:27.156Z
+author: Ahmad Jad Alhak
 githubname: ahmad-jad-alhak
-categories: ["Community post"]
+categories:
+  - Community post
 images:
-- images/blog-banner.png
-tags: ["SPFx", "Adaptive Card Extension", "Viva Connections"]
-type: "regular"
+  - images/blog-banner.png
+tags:
+  - SPFx
+  - Adaptive Card Extension
+  - Viva Connections
+type: regular
 ---
 
 ## Introduction
