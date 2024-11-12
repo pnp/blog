@@ -1,7 +1,7 @@
 ---
 title: How to use PnPjs and custom React Hooks in SPFx
 date: 2024-11-02T10:42:36.264Z
-author: MLuise Freese
+author: Luise Freese
 githubname: luisefreese
 categories:
   - Community post
