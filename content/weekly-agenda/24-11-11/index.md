@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 11th of November week
-date: 2024-11-01T02:54:14.434Z
+date: 2024-11-08T02:54:14.434Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,8 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -34,14 +33,13 @@ Demos this time
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) -  Integrating Power Cards and Power Apps to the Viva Connections employee experiences
 
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
 
-### Viva Connections & SharePoint Framework bi-weekly community Call - 31st of October
+### Viva Connections & SharePoint Framework bi-weekly community Call - 14th of November
 
 * Thursday, 31st of October 2024, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
@@ -52,7 +50,6 @@ Demos this time
 * [Luise Freese](https://www.linkedin.com/in/luisefreese/) - How to create a Web Part that populates Lists with SVGs
 * [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania) - Automated Employee Onboarding with SPFx & Microsoft Graph
 * [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-You Business Solutions) - Extending Microsoft 365 with custom retention controls 
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
