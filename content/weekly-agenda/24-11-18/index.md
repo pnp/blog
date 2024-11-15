@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 18th of November week
-date: 2024-11-15T08:28:34.485Z
+date: 2024-11-15T02:28:34.485Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
