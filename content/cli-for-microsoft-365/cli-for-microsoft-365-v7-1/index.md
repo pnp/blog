@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - Azure AD
   - SharePoint
-type: popular
+type: regular
 ---
 
 Introducing the latest release of CLI for Microsoft 365
