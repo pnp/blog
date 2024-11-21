@@ -80,12 +80,12 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Accelerating App Development: Introduction to Vite + SPFx Stack](https://www.youtube.com/watch?v=De8ev2rs_F4) by [Marcin Wojciechowski](https://linkedin.com/marcin-wojciechowski-17168276)​ 
+* [Accelerating App Development: Introduction to Vite + SPFx Stack](https://www.youtube.com/watch?v=De8ev2rs_F4) by [Marcin Wojciechowski](https://www.linkedin.com/in/marcin-wojciechowski-17168276)​ 
 * [How to do ALM in Power Platform with Azure DevOps](https://www.youtube.com/watch?v=Lp4DSla91-I)
-* [Introduction to Web Quick View capability in Viva Connections extensions with SPFx](https://www.youtube.com/watch?v=fai1N9Hfyxk) by [Vesa Juvonen](https://linkedin.com/vesajuvonen) (Microsoft)
-* [Getting started with SharePoint Embedded using the updated VS Code extension](https://www.youtube.com/watch?v=nt2xDuCepXs) by [Marc Windle](https://linkedin.com/marc-windle-908b3055) (Microsoft)
+* [Introduction to Web Quick View capability in Viva Connections extensions with SPFx](https://www.youtube.com/watch?v=fai1N9Hfyxk) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)
+* [Getting started with SharePoint Embedded using the updated VS Code extension](https://www.youtube.com/watch?v=nt2xDuCepXs) by [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055) (Microsoft)
 * [Auto-Save Outlook email and Attachments to SharePoint using Power Automate](https://www.youtube.com/watch?v=7lSbninzhBc&)
-* [Exploring generative AI in Power Automate using AI builder](https://www.youtube.com/watch?v=5QUBipkKG1M) by [Benny Ifeanyi Iheagwara](https://linkedin.com/ifeanyi-iheagwara) (ARM HoldCo)  (Asset & Resource Management Holding Company)
+* [Exploring generative AI in Power Automate using AI builder](https://www.youtube.com/watch?v=5QUBipkKG1M) by [Benny Ifeanyi Iheagwara](https://www.linkedin.com/in/inifeanyi-iheagwara) (ARM HoldCo)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -101,7 +101,6 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 
 * [How to send an email using Azure Communication Services JavaScript Quickstart](https://www.youtube.com/watch?v=hLc31-JZRu8)
 * [Jira 1-click Microsoft Graph connector deployment walkthrough](https://www.youtube.com/watch?v=SzNui9dK4oU)
-
 
 
 ## New Microsoft 365 Developer Blog posts
