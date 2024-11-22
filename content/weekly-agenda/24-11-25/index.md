@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 25th of November week
-date: 2024-11-21T11:21:18.298Z
+date: 2024-11-22T11:21:18.298Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
