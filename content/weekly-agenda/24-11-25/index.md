@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -28,7 +28,7 @@ This is the agenda for the upcoming week:
 
 Demos this time
 
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys) - Implementing Single sign-on (SSO) with Viva Connections bot powered ACEs create with .NET
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) - Implementing Single sign-on (SSO) with Viva Connections bot powered ACEs create with .NET
 * [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft) - Introduction to Microsoft Teams Toolkit for VS Code
 * [Eric Scherlinger](https://www.linkedin.com/in/ericsche/) (Microsoft) -  Building a Writing Coach declarative Agent for Microsoft 365 Copilot
 
@@ -61,11 +61,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Making your desktop flows efficient, robust and standardized via PADFramework](https://www.youtube.com/watch?v=l_aIjIP-xAs) by [Agnius Bartninkas](https://www.linkedin.com/in/agnius-bartninkas/) (Definra)
 * [Building an expert finder with SSO in Copilot as a Teams AI-based message extension](https://www.youtube.com/watch?v=IcFyHzEKQEQ) by [Sathya Raveendran](https://www.linkedin.com/in/sathyanarayananriimb) (Microsoft) 
 * [Building real world Intranet with SPFx - Multilingual document cards](https://www.youtube.com/watch?v=SJAcevZs0Nw) by [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea) (Die Mobiliar) and [Nicole Beck Dekkara](https://www.linkedin.com/in/nicole-beck-dekkara) (Die Mobiliar) 
 * [Building reusable AI Prompts in Copilot Studio to increase productivity](https://www.youtube.com/watch?v=4UdtdtIxL0s) by [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz) 
 * [Introduction to new Viva Connections data visualization components with SPFx](https://www.youtube.com/watch?v=TblNrorcWEg) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) 
-
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -99,6 +99,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 21st of November 2024](https://www.youtube.com/watch?v=Kbh6EVQ_bKA)
 * [Microsoft Power Platform community call – November 2024](https://www.youtube.com/watch?v=iwIfsFIjMoQ)
 * [Microsoft 365 & Power Platform weekly call – Ignite 2024 keynote recap - 19th of November, 2024](https://www.youtube.com/watch?v=siQ8Z5cc80c)
 * [Office add-ins community call - November 2024](https://www.youtube.com/watch?v=hJ8fY2IxJKU)
@@ -126,7 +127,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [European Collaboration Summit 2025](https://collabsummit.eu/) - May 26-28, 2025, Düsseldorf, Germany
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [Dynug Autumn Conference](https://www.communitydays.org/event/2024-11-26/dynug-autumn-conference) - November 26-27, 2024 - Oslo, Norway
 * [CollabDays Hungary](https://www.communitydays.org/event/2024-11-28/collabdays-hungary-2024) - November 28, 2024 - Budapest, Hungary
