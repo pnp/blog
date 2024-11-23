@@ -16,7 +16,7 @@ tags:
   - Microsoft Teams
   - SharePoint
   - Microsoft Graph
-type: regular
+type: trending
 ---
 
 ## PnP PowerShell
