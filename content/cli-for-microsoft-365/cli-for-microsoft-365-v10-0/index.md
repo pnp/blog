@@ -14,7 +14,7 @@ tags:
   - Viva Engage
   - SharePoint
   - SharePoint Premium
-type: popular
+type: regular
 ---
 
 We have just published a new major version of CLI for Microsoft 365 v10. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This major release introduces several new commands that will enhance the quality of your Microsoft 365 experience as well as numerous breaking changes.
