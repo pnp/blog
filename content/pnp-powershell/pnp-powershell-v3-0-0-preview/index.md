@@ -60,6 +60,10 @@ Since we are going for a major version bump, we decided to take that as on oppor
 - **The `-WebLogin` authentication mode has been removed**. It was insecure and used cookies for authentication. It only worked for SharePoint. Other M365 services like Microsoft Graph, Teams etc. wouldn't even work with cookie based auth. We recommend using `-Interactive` or `-DeviceLogin` as a replacement for this. 
 - **We have also enabled rate limiting for all cmdlets which are being executed under application permissions.**
 - For more information on how rate limiting works, you can read the blog [here](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/)
+- If you are using `ClientId + Client Secret` parameters to authenticate, we highly encourage you migrate away from this.    
+    - `ClientId + Secret` is based on Azure ACS has now been [marked for retirement.](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-azure-acs)
+    - We recommend usage of Entra Id app with `ClientId + Certificate` or `Managed Identity` or any other Entra Id based modes for authentication.
+    - There are no changes related to this in v3.
 
 ### Entra ID changes
 
