@@ -1,6 +1,6 @@
 ---
-title: PnP PowerShell v3 is coming soon
-summary: PnP PowerShell is a cross-platform PowerShell Module providing over 650 cmdlets that work  with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate.
+title: PnP PowerShell v3 is coming soon with some changes
+summary: PnP PowerShell is a cross-platform PowerShell Module providing 785 (and increasing) cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate.
 date: 2024-11-25T13:22:34.170Z
 author: Gautam Sheth
 githubname: gautamdsheth
@@ -47,16 +47,17 @@ Since we are going for a major version bump, we decided to take that as on oppor
 
 - There's some behavioral changes that we have introduced in `Connect-PnPOnline` cmdlet.
 - **`-Interactive` is now the default behavior of `Connect-PnPOnline`**. 
-    - What this means is that when you execute this code, it will now open the browser for authentication
+    - What this means is that when you execute this code, it will now open the default browser for authentication
     ```powershell
     Connect-PnPOnline "<site-url>" -ClientId <Entra ID client ID>
     ```
-    - You don't need to explicitly specify `-Interactive` parameter.
-    - It replaces `-Credentials` which was the default. We decided to do it based on user feedback as well as keeping security, compliance, MFA etc policies in mind. 
-    - `-Credentials` parameter is supported and it will keep working as is if specified.
+    - There's no need to explicitly specify `-Interactive` parameter.
+    - It replaces `-Credentials` which was the default.
+    - We decided to do it based on user feedback as well as keeping security, compliance, MFA etc policies in mind. 
+    - `-Credentials` parameter will need to be explicitly specified if you want to use this mode of authentication.
 - If `-DeviceLogin` parameter is specified, it will now open the default browser for authentication.
-- We decided to get rid of the popup implementation because it was built on legacy dependencies such as IE engine. It didn't support modern Entra ID policies such as phishing proof browser, authentication strength etc. We also received feedback that it would sometimes freeze or would be hidden the console.
-- The `-LaunchBrowser` parameter has also been removed because it will now always default to opening browsers.
+- We decided to get rid of the popup implementation because it was built on legacy dependencies such as IE engine. It didn't support modern Entra ID policies such as phishing proof browser, authentication strength etc. We also received feedback that it would sometimes freeze or would be hidden behind the console.
+- The `-LaunchBrowser` parameter has also been removed because it will now always default to opening browsers, so it is not needed anymore.
 - **The `-WebLogin` authentication mode has been removed**. It was insecure and used cookies for authentication. It only worked for SharePoint. Other M365 services like Microsoft Graph, Teams etc. wouldn't even work with cookie based auth. We recommend using `-Interactive` or `-DeviceLogin` as a replacement for this. 
 - **We have also enabled rate limiting for all cmdlets which are being executed under application permissions.**
 - For more information on how rate limiting works, you can read the blog [here](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/)
@@ -71,7 +72,7 @@ Since we are going for a major version bump, we decided to take that as on oppor
 
 ### Other things to note
 
-- **This also contains the security updates to MSAL, System.Text.Json, System.Text.Encodings.Web and other vulnerable nuget packages.**
+- **This also contains major security updates to MSAL, System.Text.Json, System.Text.Encodings.Web and other vulnerable nuget packages.**
 - We are seeing quite a few speed upticks, lower memory consumption and performance improvements as result of the baseline changes underlying framework.
 - Besides these changes, there are quite a few other changes as well. 
 - You can find the in-progress migration document [here](https://github.com/pnp/powershell/blob/dev/MIGRATE-2.0-to-3.0.md)
