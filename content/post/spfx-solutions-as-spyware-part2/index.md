@@ -1,6 +1,6 @@
 ---
 title: "Trust but verify"
-date: 2024-08-05T17:40:00-04:00
+date: 2024-11-26T17:40:00-04:00
 author: "Kinga Kazala"
 githubname: kkazala
 # don't change
