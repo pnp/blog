@@ -59,10 +59,6 @@ New timeline for legacy Exchange token deprecation
 * [NAA Word Excel PowerPoint sample](https://aka.ms/NAAsampleOffice)
 * For issues, find us on [Github](https://github.com/OfficeDev/office-js/issues) and put “NAA” in your issue title
 
-VSC extension for Office add-in update
-* [How to use]
-
-
 ## Q&A (Question & Answers)
 
 **We are implementing NAA into our add-in that is reliant on graph calls, with NAA allowing for client-side graph calls what is the best way for fallback auth? Will we still have to have middle-tier server graph calls to work with a fallback? We‘re hoping this isn’t the case.**
@@ -94,7 +90,7 @@ Authentication and authorization goes to eSTS service with login.microsoftonline
     * [@microsoft365dev](https://twitter.com/microsoft365dev)
     * [@m365pnp](https://twitter.com/m365pnp)
 * Register for the [Microsoft 365 Developer Program](https://aka.ms/m365/devprogram) and get a free E5 developer tenant with instant availability and other assets.
-* Join the [next community call](https://aka.ms/officeaddinscommunitycall) on July 12th at 7:00 AM Pacific Time.
+* Join the [next community call](https://aka.ms/officeaddinscommunitycall) on September 11th at 7:00 AM Pacific Time.
 
 ## General Resources
 
