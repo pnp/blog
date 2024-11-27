@@ -58,6 +58,7 @@ Since we are going for a major version bump, we decided to take that as on oppor
 - If `-DeviceLogin` parameter is specified, it will now open the default browser for authentication.
 - We decided to get rid of the popup implementation because it was built on legacy dependencies such as IE engine. It didn't support modern Entra ID policies such as phishing proof browser, authentication strength etc. We also received feedback that it would sometimes freeze or would be hidden behind the console.
 - The `-LaunchBrowser` parameter has also been removed because it will now always default to opening browsers, so it is not needed anymore.
+- The `-SPOManagementShell` parameter has been removed. It reduces the risk of your scripts breaking in case Microsoft changes the underlying Entra ID app used. You should use your own Entra ID app instead.
 - **The `-WebLogin` authentication mode has been removed**. It was insecure and used cookies for authentication. It only worked for SharePoint. Other M365 services like Microsoft Graph, Teams etc. wouldn't even work with cookie based auth. We recommend using `-Interactive` or `-DeviceLogin` as a replacement for this. 
 - **We have also enabled rate limiting for all cmdlets which are being executed under application permissions.**
 - For more information on how rate limiting works, you can read the blog [here](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/)
