@@ -20,11 +20,11 @@ draft: false
 
 The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager, Microsoft.
 
-* **PowerPoint Preview APIs and Ribbon 1.1 API Updates** [Ester Bergen](https://www.linkedin.com/in/esterbergen/), Senior Product Manager at Microsoft.
-* **Word API Update** [Yun Wang](https://www.linkedin.com/in/airwangyun/), Principal Product Manager at Microsoft and [Steve Jin](https://www.linkedin.com/in/steve-jin-61b08011), Senior Product Manager at Microsoft.
+* **PowerPoint Preview APIs and Ribbon 1.1 API updates** [Ester Bergen](https://www.linkedin.com/in/esterbergen/), Senior Product Manager at Microsoft.
+* **Word API updates** [Yun Wang](https://www.linkedin.com/in/airwangyun/), Principal Product Manager at Microsoft and [Steve Jin](https://www.linkedin.com/in/steve-jin-61b08011), Senior Product Manager at Microsoft.
 * **A new NAA sample for Outlook event-based add-ins** [David Chesnut](https://www.linkedin.com/in/davidpchesnut), Senior Technical Writer at Microsoft.
-* **Visual Studio Code extension for Office Add-ins Public Preview** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager2 at Microsoft.
-* **WXP Add-ins with the Unified manifest for Microsoft 365 Public Preview** [Luyi Han](https://www.linkedin.com/in/luyihan/), Senior Product Manager at Microsoft.
+* **Visual Studio Code extension for Office Add-ins public preview** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager2 at Microsoft.
+* **WXP Add-ins with the Unified manifest for Microsoft 365 public preview** [Luyi Han](https://www.linkedin.com/in/luyihan/), Senior Product Manager at Microsoft.
 
 * **Q&A.** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager, Microsoft.
 
@@ -33,8 +33,8 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 ## View video segments
 
 * Introduction [00:00](https://youtu.be/cJK9rvCTeAY?t=0)
-* PowerPoint Preview APIs and Ribbon 1.1 API Updates [01:27](https://youtu.be/cJK9rvCTeAY?t=87)
-* Word API Update [04:56](https://youtu.be/cJK9rvCTeAY?t=296)
+* PowerPoint preview APIs and Ribbon 1.1 API updates [01:27](https://youtu.be/cJK9rvCTeAY?t=87)
+* Word API updates [04:56](https://youtu.be/cJK9rvCTeAY?t=296)
 * A new NAA sample for Outlook event-based add-ins [12:20](https://youtu.be/cJK9rvCTeAY?t=740)
 * Visual Studio Code extension for Office Add-ins Public Preview [25:05](https://youtu.be/cJK9rvCTeAY?t=1505)
 * WXP Add-ins with the Unified manifest for Microsoft 365 Public Preview [27:02](https://youtu.be/cJK9rvCTeAY?t=1622)
