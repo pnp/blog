@@ -37,7 +37,7 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 * Word API updates [04:56](https://youtu.be/cJK9rvCTeAY?t=296)
 * A new NAA sample for Outlook event-based add-ins [12:20](https://youtu.be/cJK9rvCTeAY?t=740)
 * Visual Studio Code extension for Office Add-ins public preview [25:05](https://youtu.be/cJK9rvCTeAY?t=1505)
-* WXP Add-ins with the Unified manifest for Microsoft 365 Public Preview [27:02](https://youtu.be/cJK9rvCTeAY?t=1622)
+* WXP Add-ins with the Unified manifest for Microsoft 365 public preview [27:02](https://youtu.be/cJK9rvCTeAY?t=1622)
 * Q&A [33:16](https://youtu.be/cJK9rvCTeAY?t=1996)
 * Resources [39:10](https://youtu.be/cJK9rvCTeAY?t=2350)
 
