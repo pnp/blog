@@ -50,7 +50,7 @@ PowerPoint preview APIs and Ribbon 1.1 API updates
 
 WXP Add-ins with the Unified manifest for Microsoft 365 Public Preview
 * [Install the Office Add-ins Development Kit](https://marketplace.visualstudio.com/items?itemName=msoffice.microsoft-office-add-in-debugger)
-* [M365 blog annoucement](https://devblogs.microsoft.com/microsoft365dev/announcing-the-office-add-ins-development-kit-for-visual-studio-code-public-preview/)
+* [M365 blog announcement](https://devblogs.microsoft.com/microsoft365dev/announcing-the-office-add-ins-development-kit-for-visual-studio-code-public-preview/)
 * [Create Office Add-in projects using Office Add-ins Development Kit for Visual Studio Code (preview)](https://learn.microsoft.com/office/dev/add-ins/develop/development-kit-overview?tabs=vscode)
 
 ## Q&A (Question & Answers)
@@ -65,7 +65,7 @@ We don’t have any plans to allow web add-ins to be accessible via a context me
 
 **I'm going to submit my Excel add-in on Partner Center Microsoft 365 and Copilot. I've created a related Partner Center SaaS transactable offer under the Commerical Marketplace. The SaaS offer setup has a section that asks do you have published Teams apps, Office Add-ins etc. and if you select the Yes radio button, it asks you to fill in your AppSource link. [This page](https://learn.microsoft.com/partner-center/marketplace-offers/plan-saas-offer) says: "For linked products, search on AppSource will return with one result that includes both SaaS and all linked add-ins. Customer can navigate between the product detail pages of the SaaS offer and linked add-ins. IT admins can review and deploy both the SaaS and linked add-ins within the same process through an integrated and connected experience within the Microsoft 365 admin center." So my understanding is that as soon as I publish my Excel add-in and its up on AppSource, I just copy that link and put it in my SaaS offer setup and publish it. Then there will be a single AppSource offer for my add-in that will be transactable. Is my understanding correct?**
 
-AFor submission process, please check the related document [here](https://learn.microsoft.com/partner-center/marketplace-offers/plan-saas-offer), where it shows you how to plan a SaaS offer for the Microsoft commercial marketplace. If you have additional questions about Publish Center, you can post them in our [Microsoft Partner Community​](https://techcommunity.microsoft.com/category/PartnerCommunity).
+For submission process, see [Plan a SaaS offer for the commercial marketplace](https://learn.microsoft.com/partner-center/marketplace-offers/plan-saas-offer). If you have additional questions about Publish Center, you can post them in our [Microsoft Partner Community​](https://techcommunity.microsoft.com/category/PartnerCommunity).
 
 **I've implemented the Microsoft SaaS Accelerator my SaaS transactable offer (which I will link to my Excel Partner Center Add-In offer). This creates a webhook, landing page and admin portal for my SaaS offer, which I have been testing. The admin portal shows me the Purchaser Email and Marketplace Subscription ID. I've been working on getting SSO working for my add-in (just starting to test it) which I think is referred to as Authentication. I think I will still need to figure out how to get Authorization working, so only those folks who have purchased the transactable app on AppSource can use it. Can you provide some guidance on how to implement this?**
 
