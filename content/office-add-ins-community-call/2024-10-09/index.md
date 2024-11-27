@@ -18,9 +18,9 @@ draft: false
 
 ## This month's agenda and presenters
 
-The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager2, Microsoft.
+The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager 2 at Microsoft.
 
-* **Install JS add-ins together with main app/COM add-ins on Win32** [Skylar Pan](https://www.linkedin.com/in/skylar-pan/), Senior Product Manager at Microsoft.
+* **Install JS add-ins together with main app/COM add-ins on Win32** [Skylar Pan](https://www.linkedin.com/in/skylar-pan/), Senior Program Manager at Microsoft.
 
 {{< youtube 7oDPawF58rg >}}
 
@@ -68,7 +68,7 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 * See the full blog post for this call in the [Microsoft 365 platform community blog](https://aka.ms/m365pnp/blog)
 * [X (formerly Twitter)](https://twitter.com/microsoft365dev)
 * [Microsoft 365 Unified Sample gallery](https://aka.ms/community/samples)
-* [Microsoft 365 Platform Community in YouTube](https://aka.ms/community/videos)
+* [Microsoft 365 Platform Community on YouTube](https://aka.ms/community/videos)
 * [Microsoft 365 Platform Community](https://aka.ms/community/home)
 * [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 * [Submit questions for next community call](https://aka.ms/officeaddinsform)

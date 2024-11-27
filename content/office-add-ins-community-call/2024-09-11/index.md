@@ -69,17 +69,17 @@ For submission process, see [Plan a SaaS offer for the commercial marketplace](h
 
 **I've implemented the Microsoft SaaS Accelerator my SaaS transactable offer (which I will link to my Excel Partner Center Add-In offer). This creates a webhook, landing page and admin portal for my SaaS offer, which I have been testing. The admin portal shows me the Purchaser Email and Marketplace Subscription ID. I've been working on getting SSO working for my add-in (just starting to test it) which I think is referred to as Authentication. I think I will still need to figure out how to get Authorization working, so only those folks who have purchased the transactable app on AppSource can use it. Can you provide some guidance on how to implement this?**
 
-Single Sign-On (SSO) Authentication: Since you're already working on SSO, you're setting up a way to authenticate users based on their existing Microsoft identity. This part of the setup confirms the identity of the users. The official documentation on implementing SSO for Office Add-ins can be found [here](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins?tabs=jsonmanifest).​
+Single Sign-On (SSO) Authentication: Since you're already working on SSO, you're setting up a way to authenticate users based on their existing Microsoft identity. This part of the setup confirms the identity of the users. For the official documentation, see [Enable single sign-on (SSO) in an Office Add-in](https://learn.microsoft.com/office/dev/add-ins/develop/sso-in-office-add-ins?tabs=jsonmanifest).​
 
-Authorization via SaaS Fulfillment APIs: For authorization, you'll need to check if the user has an active subscription for your SaaS offer after they are authenticated. This involves using the Microsoft SaaS Fulfillment APIs, which allow you to verify subscription status. Here’s the documentation on [SaaS Fulfillment API](https://learn.microsoft.com/partner-center/marketplace-offers/partner-center-portal/pc-saas-fulfillment-life-cycle).​
+Authorization via SaaS Fulfillment APIs: For authorization, you'll need to check if the user has an active subscription for your SaaS offer after they are authenticated. This involves using the Microsoft SaaS Fulfillment APIs, which allow you to verify subscription status. For more information, see [SaaS Fulfillment API](https://learn.microsoft.com/partner-center/marketplace-offers/partner-center-portal/pc-saas-fulfillment-life-cycle).​
 
 **When I submit my Excel add-in to the Partner Center it says "Provide any critical testing instructions, including test accounts, license keys and test credentials. Failure to do so results in an automatic rejection ." Once I get Authorization working for my transactable app, is there some sort of a way to provide a back-door so that I can give that info to the Partner Center Certification team?**
 
-You can set up a test account and add the necessary information to your critical test instructions. Please check [here](https://learn.microsoft.com/partner-center/marketplace-offers/add-in-submission-guide). 
+You can set up a test account and add the necessary information to your critical test instructions. For more information, see the [Store step-by-step submission guide](https://learn.microsoft.com/partner-center/marketplace-offers/add-in-submission-guide). 
 
 **I have uploaded all of my Excel Add-in dist folder files to my Azure subscription Storage account Blob Container $web folder, which my Manifest points to. Is this the appropriate place to put these files? Should it only contain a subset of the dist folder files? This location does work, but I'm not sure how to secure this location so that someone can't find this location and take all these files.**
 
-Yes, uploading your Excel Add-in distribution files to your Azure subscription's Storage account Blob Container in the $web folder is an appropriate and common practice. However, there's no way to prevent from other people getting as the locations of these manifests are public, so they can be accessed by others.
+Yes, uploading your Excel Add-in distribution files to your Azure subscription's Storage account Blob Container in the $web folder is an appropriate and common practice. However, there's no way to prevent from other people getting access as the locations of these manifests are public.
 
 ## Call to action
 
