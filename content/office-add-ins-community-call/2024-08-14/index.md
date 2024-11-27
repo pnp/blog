@@ -20,7 +20,7 @@ draft: false
 
 The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager, Microsoft.
 
-* **Install add-ins with Deeplink.** [Skylar Pan](https://www.linkedin.com/in/skylar-pan-4566617b/), Product Manager2, Microsoft.
+* **Install add-ins with Deeplink.** [Skylar Pan](https://www.linkedin.com/in/skylar-pan-4566617b/), Senior Program Manager at Microsoft.
 * **Equivalent web add-in install on switching to New Outlook for Windows.** [Akshayta Pulugurtha](https://in.linkedin.com/in/akshayta-rao-pulugurtha-07a387a7), Senior Product Manager at Microsoft.
 * **Custom function update.** [Adrian Wu](https://www.linkedin.com/in/adrian-wu-53462582/), Senior Product Manager at Microsoft.
 * **New timeline for legacy Exchange token deprecation.** [David Chesnut](https://www.linkedin.com/in/davidpchesnut), Senior Technical Writer at Microsoft.
