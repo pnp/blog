@@ -18,13 +18,13 @@ draft: false
 
 ## This month's agenda and presenters
 
-The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager, Microsoft.
+The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager at Microsoft.
 
 * **Install add-ins with Deeplink.** [Skylar Pan](https://www.linkedin.com/in/skylar-pan-4566617b/), Senior Program Manager at Microsoft.
 * **Equivalent web add-in install on switching to New Outlook for Windows.** [Akshayta Pulugurtha](https://in.linkedin.com/in/akshayta-rao-pulugurtha-07a387a7), Senior Product Manager at Microsoft.
 * **Custom function update.** [Adrian Wu](https://www.linkedin.com/in/adrian-wu-53462582/), Senior Product Manager at Microsoft.
 * **New timeline for legacy Exchange token deprecation.** [David Chesnut](https://www.linkedin.com/in/davidpchesnut), Senior Technical Writer at Microsoft.
-* **Visual Studio Code extension for Office add-in update.** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager at Microsoft.
+* **Visual Studio Code extension for Office Add-in update.** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager at Microsoft.
 
 * **Q&A.** [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a69a24a/), Product Manager, Microsoft.
 
@@ -61,7 +61,7 @@ New timeline for legacy Exchange token deprecation
 
 ## Q&A (Question & Answers)
 
-**We are implementing NAA into our add-in that is reliant on graph calls, with NAA allowing for client-side graph calls what is the best way for fallback auth? Will we still have to have middle-tier server graph calls to work with a fallback? We‘re hoping this isn’t the case.**
+**We are implementing NAA into our add-in that is reliant on Microsoft Graph calls, with NAA allowing for client-side Graph calls what is the best way for fallback auth? Will we still have to have middle-tier server Graph calls to work with a fallback? We‘re hoping this isn’t the case.**
 
 NAA is designed for an SPA Office web add-in, so there is no need for a middle-tier server. MSAL-browser.js (3.15 and later) has a built-in fallback mechanism. If NAA is not detected in the Office host (such as Outlook) MSAL automatically falls back to sign in the user without using NAA. This means SSO will not happen, but the user can still be signed in. We'll be adding more detail about this to the NAA code samples soon. 
 
@@ -73,9 +73,9 @@ The Office version requirements for using NAA:
 * Office on iOS/Android: The latest version available through the app stores.
 * Office on the Web: No specific version requirement; it is supported as long as the web client is up to date.
 
-**If you send too many graph requests, you get sent a 429 response and a header that contains the time you should retry sending the request. If you attempt to make a request during this period, the call is still counted against throttling limits and the retry after gets extended. Though only used in rare situations, consistent calls while throttled will cause the app to get banned from accessing the tenant. However, for SharePoint, all the SharePoint driveItem throttling limits are defined per app per tenant, meaning if calls get throttled they are throttled for all users in a given tenant. The old suggested approach is to use a back off method, where the app sends no requests, until the header retry time, for all users. This was a lot easier when graph requests were made from a server and all graph request traffic was centralised. But having naa, all the graph calls are now in separate instances of the app, there is no way to coordinate a back-off method? Just wondering if the new NAA flow can acount for this? Or if this is even a problem at all?**
+**If you send too many Graph requests, you get sent a 429 response and a header that contains the time you should retry sending the request. If you attempt to make a request during this period, the call is still counted against throttling limits and the retry after gets extended. Though only used in rare situations, consistent calls while throttled will cause the app to get banned from accessing the tenant. However, for SharePoint, all the SharePoint driveItem throttling limits are defined per app per tenant, meaning if calls get throttled they are throttled for all users in a given tenant. The old suggested approach is to use a back off method, where the app sends no requests, until the header retry time, for all users. This was a lot easier when graph requests were made from a server and all graph request traffic was centralized. But having NAA, all the Graph calls are now in separate instances of the app, there is no way to coordinate a back-off method? Just wondering if the new NAA flow can account for this? Or if this is even a problem at all?**
 
-Authentication and authorization goes to eSTS service with login.microsoftonline.com  URL. This isn't a Graph API so it won't count towards Graph throttling limits which are different for different APIs see [Microsoft Graph service-specific throttling limits](https://learn.microsoft.com/graph/throttling-limits).
+Authentication and authorization goes to eSTS service with a login.microsoftonline.com URL. This isn't a Graph API, so it won't count towards Graph throttling limits which are different for different APIs see [Microsoft Graph service-specific throttling limits](https://learn.microsoft.com/graph/throttling-limits).
 
 ## Call to action
 
