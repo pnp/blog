@@ -42,7 +42,8 @@ The call was hosted by [Mingjia Liu](https://www.linkedin.com/in/mingjia-liu-90a
 * Resources [39:10](https://youtu.be/cJK9rvCTeAY?t=2350)
 
 ## Resources related to this blog's content
-PowerPoint Preview APIs and Ribbon 1.1 API Updates
+
+PowerPoint preview APIs and Ribbon 1.1 API updates
 * [PowerPoint JavaScript preview APIs](https://learn.microsoft.com/javascript/api/requirement-sets/powerpoint/powerpoint-preview-apis?view=common-js-preview)
 * [Ribbon API requirement sets](https://learn.microsoft.com/javascript/api/requirement-sets/common/ribbon-api-requirement-sets?view=common-js-preview#ribbon-api-11)
 * [Enable and Disable Add-in Commands](https://learn.microsoft.com/office/dev/add-ins/design/disable-add-in-commands)
