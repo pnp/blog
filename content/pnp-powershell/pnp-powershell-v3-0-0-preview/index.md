@@ -66,6 +66,7 @@ Since we are going for a major version bump, we decided to take that as on oppor
     - `ClientId + Secret` is based on Azure ACS has now been [marked for retirement.](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-azure-acs)
     - We recommend usage of Entra Id app with `ClientId + Certificate` or `Managed Identity` or any other Entra Id based modes for authentication.
     - There are no changes related to this in v3.
+- We have also introduced **-PersistLogin** parameter for `-Interactive`, `-DeviceLogin`, `-OSLogin` and `-Credentials` parameter sets. If this is specified, we will persist the login of the user and store the tokens in an encrypted file in the file system. This is supported cross-platform and works insanely fast. The first time, you will be asked for login via the Auth flow, but from then on, it uses the token cache mechanism to login. Would love to hear your feedback on this.
 
 ### Entra ID changes
 
