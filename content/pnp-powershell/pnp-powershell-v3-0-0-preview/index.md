@@ -1,7 +1,7 @@
 ---
-title: PnP PowerShell v3 is coming soon with some changes
-summary: PnP PowerShell is a cross-platform PowerShell Module providing 785 (and increasing) cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate.
-date: 2024-11-25T13:22:34.170Z
+title: Upcoming changes to PnP PowerShell for v3
+summary: PnP PowerShell is a cross-platform PowerShell Module providing 739 (and increasing) cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate.
+date: 2024-11-29T13:22:34.170Z
 author: Gautam Sheth
 githubname: gautamdsheth
 categories:
@@ -37,7 +37,7 @@ Since we are going for a major version bump, we decided to take that as on oppor
 
 ### Requirements
 
-- It requires `PowerShell 7.4.4` or later versions of it.
+- It requires `PowerShell 7.4.4` or later versions of it. You can get it from [here](https://github.com/PowerShell/PowerShell/releases/tag/v7.4.6).
 - Any version of PowerShell prior to that will not be supported.
 - It will work on all major OS like Windows, Linux and Mac, i.e wherever PowerShell 7.4 is supported.
 - Azure functions will need to be upgraded to 7.4
@@ -60,7 +60,7 @@ Since we are going for a major version bump, we decided to take that as on oppor
 - The `-LaunchBrowser` parameter has also been removed because it will now always default to opening browsers, so it is not needed anymore.
 - The `-SPOManagementShell` parameter has been removed. It reduces the risk of your scripts breaking in case Microsoft changes the underlying Entra ID app used. You should use your own Entra ID app instead.
 - **The `-WebLogin` authentication mode has been removed**. It was insecure and used cookies for authentication. It only worked for SharePoint. Other M365 services like Microsoft Graph, Teams etc. wouldn't even work with cookie based auth. We recommend using `-Interactive` or `-DeviceLogin` as a replacement for this. 
-- **We have also enabled rate limiting for all cmdlets which are being executed under application permissions.**
+- We have also enabled rate limiting for all cmdlets which are being executed under application permissions.
 - For more information on how rate limiting works, you can read the blog [here](https://devblogs.microsoft.com/microsoft365dev/prevent-throttling-in-your-application-by-using-ratelimit-headers-in-sharepoint-online/)
 - If you are using `ClientId + Client Secret` parameters to authenticate, we highly encourage you migrate away from this.    
     - `ClientId + Secret` is based on Azure ACS has now been [marked for retirement.](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-azure-acs)
