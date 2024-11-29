@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 2nd of December week
-date: 2024-11-22T11:21:18.298Z
+date: 2024-11-29T02:21:18.298Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -30,7 +30,6 @@ Demos this time
 
 * [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - SharePoint Embedded - Monthly booking - December
 * [Jose Barreto](https://www.linkedin.com/in/josebarreto/)  (Microsoft) & [Uday Kumar Pasumarthy](https://www.linkedin.com/in/udaykp/)  (Microsoft) -  Know Thyself - Analytics and insights for SharePoint tenants using the Microsoft Graph Data Connect
-
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -58,8 +57,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-
-* [Hire Copilot for your Sales Team!](https://www.youtube.com/watch?v=LeNtNRJ69RY) by Mary Myers (WorldMax ) https://www.linkedin.com/in/mary-myers-631a0a103
+* [https://www.linkedin.com/in/mary-myers-631a0a103](https://www.youtube.com/watch?v=wmrKM_Wliu0) by [Marcin Wojciechowski](https://www.linkedin.com/in/marcin-wojciechowski-17168276/) (Avenga Poland) 
+* [Hire Copilot for your Sales Team!](https://www.youtube.com/watch?v=LeNtNRJ69RY) by [Mary Myers](https://www.linkedin.com/in/mary-myers-631a0a103) (WorldMax) 
 * [Building real world Intranet with SPFx - Personalized apps per user](https://www.youtube.com/watch?v=FF-58I1qPvc) by  [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea)   and v​ 
 * [Manage Entra App registrations – CLI for Microsoft 365](https://www.youtube.com/watch?v=a1I0OvbmP_8) by [Arjun Menon](https://www.linkedin.com/in/arjunumenon/) (Microsoft MVP (M365 Development) | Maintainer - CLI for Microsoft 365 | PnP Team Member | Solution Architect) , [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz) (Microsoft 365 Developer Advocate at Microsoft | Maintainer - CLI for Microsoft 365 | PnP team member)  and [Adam Wójcik](https://www.linkedin.com/in/adam-w%c3%b3jcik-9b7777a6) (Microsoft MVP (M365 Development) | Maintainer - CLI for Microsoft 365 | PnP Team Member | Dev) 
 * [Introduction to rewrite with Copilot in SharePoint](https://www.youtube.com/watch?v=t2uhmnQ1Jzo) by [Tina Chen](https://www.linkedin.com/in/tina-chen-microsoft) (Microsoft) and 
@@ -89,8 +88,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 * [Teams Toolkit for Visual Studio Code update – November 2024](https://devblogs.microsoft.com/microsoft365dev/teams-toolkit-for-visual-studio-code-update-november-2024/) by [Junjie Li](https://www.linkedin.com/in/junjieli0909/) (Microsoft)
 
 
-
-
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
@@ -104,8 +101,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 28th of November 2024](https://www.youtube.com/watch?v=5i1teCAAmXk)
 * [Microsoft 365 & Power Platform weekly call – 26th of November, 2024](https://www.youtube.com/watch?v=xtRS_KOkRjA)
-
 
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
