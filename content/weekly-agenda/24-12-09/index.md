@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 9th of December week
-date: 2024-11-22T11:21:18.298Z
+date: 2024-12-06T02:21:18.298Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -31,8 +31,6 @@ Demos this time
 * [John Miller](https://www.linkedin.com/in/therealjohn/) - Introduction to Microsoft Teams Toolkit for Visual Studio IDE
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys) - Creating custom copilot with Copilot Studio based on your files in SharePoint
 * [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/)  (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)  - Making Viva Connections cards available in the Microsoft 365 Copilot
-
-
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -97,7 +95,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 * [Power of the Community - Refresh Rangers SPFx Samples Edition](https://pnp.github.io/blog/post/refresh-rangers-spfx-samples-eddition-sum-up/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
- 
+* [CLI for Microsoft 365 v10.1](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v10-1/) by [Milan Holemans](https://www.linkedin.com/in/milanholemans/) (Xylos)
 
 ---
 
