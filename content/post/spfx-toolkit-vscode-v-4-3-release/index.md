@@ -18,7 +18,7 @@ type: "regular"
 
 ## 🗒️ Quick intro
 
-[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app and also comes along with a dedicated @spfx Copilot Chat participant which is your AI assistant grounded for SharePoint Framework development and now even has a new `/manage` chat command that will allow you to retrieve data from you SharePoint Online tenant using natural language.
+[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app and also comes along with a dedicated @spfx Copilot Chat participant who is your AI assistant grounded for SharePoint Framework development and now even has a new `/manage` chat command that will allow you to retrieve data from you SharePoint Online tenant using natural language.
 
 Just check out the features list 👇 it's a looot 🤯.
 
@@ -26,27 +26,31 @@ Just check out the features list 👇 it's a looot 🤯.
 
 Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
-## Even more manage capabilities in the SPFx apps list view
+## Even more management capabilities in the SPFx apps list view
 
-One of SPFx Toolkit main features is allowing you to retrieve information about your tenant and manage your app and app catalogs. In this minor release we improved this area as well!
-We added a brand new `Upgrade` action that will allow you to upgrade the selected SPFx app to the latest version on the Site. When this action will be selected on an app from the tenant level app catalog, SPFx Toolkit will prompt you to provide the relative Site url in which you want to upgrade the app.
+One of SPFx Toolkit's main features is that it allows you to retrieve information about your tenant and manage your apps and app catalogs. In this minor release, we improved this area as well!
+
+We added a brand new `Upgrade` action that will allow you to upgrade the selected SPFx app to the latest version on the Site. When this action is selected on an app from the tenant-level app catalog, SPFx Toolkit will prompt you to provide the relative Site URL in which you want to upgrade the app.
+
 We also updated the remove action which will now prompt you for confirmation before removing the app from the app catalog.
 
 ![apps manage features](images/app-catalog-list.png)
 
 We don't plan to stop here. We are already exploring even more manage capabilities which will allow you to get even more control over your apps and app catalogs on your tenant!
 
-## `/manage` your SharePoint Online tenant using GitHub Copilot Chat within VS COde
+## `/manage` your SharePoint Online tenant using GitHub Copilot Chat within VS Code
 
-In this release we extended the SPFx Toolkit GitHub Copilot Chat Participant with a brand new `/manage` command which will allow you to retrieve information from you SharePoint Online tenant using natural language 🤯. This Command will only work if you are signed in to your tenant. Under the hood it uses CLI for Microsoft 365 commands that provides 100+ commands that will allow you to either `list` or `get` different resources or information from SharePoint Online. SPFx Toolkit now understands those commands and knows how to use them. You may ask different questions about your SPO data and SPFx Toolkit will find the best CLI for Microsoft 365 command for your case, it will prefil the required options based on your tenant or will ask for missing information and will under the hood execute the command and then it will present and explain the responce of the command all in human understandable way
+In this release, we extended the SPFx Toolkit GitHub Copilot Chat Participant with a brand new `/manage` command which will allow you to retrieve information from your SharePoint Online tenant using natural language 🤯. 
+
+This Command will only work if you are signed in to your tenant. Under the hood, it uses CLI for Microsoft 365 commands that provide 100+ commands that will allow you to either `list` or `get` different resources or information from SharePoint Online. SPFx Toolkit now understands those commands and knows how to use them. You may ask different questions about your SPO data and SPFx Toolkit will find the best CLI for Microsoft 365 command for your case, it will prefill the required options based on your tenant or will ask for missing information and will under the hood execute the command and then it will present and explain the response of the command all in a human understandable way
 
 ![spfx-chat1](images/spfx-chat1.png)
 
-With this kind of capability you may quickly check or retrieve information from your SharePoint Online tenant that might be helpful for your current development like:
+With this kind of capability, you may quickly check or retrieve information from your SharePoint Online tenant that might be helpful for your current development like:
 
 - check if some list or specific list item exists
-- look up permissions set on a site or a file or something else
-- check columns added to a specific content type and generate a interface based on the response using the `/code` chat command
+- lookup permissions set on a site or a file or something else
+- check columns added to a specific content type and generate an interface based on the response using the `/code` chat command
 - and many more...
 
 ![spfx-chat2](images/spfx-chat2.png)
@@ -55,31 +59,31 @@ Check it out in action 👇
 
 ![chat in action](images/chat-in-action-menage.gif)
 
-This are only starting. In near future we are already thinking how to extend this chat command to support also retrieving information from Teams and OneDrive and soon also allow you to perform create/update/remove operation types.
+We are only starting. In the near future, we are already thinking about how to extend this chat command to support also retrieving information from Teams and OneDrive and soon also allow you to perform create/update/remove operation types.
 
 ## Code tour for Upgrade and Validate actions
 
-Till now SPFx Toolkit allowd you to create upgrade or validation report for your SPFx project which created an `.md` report file with all the necessary steps you needed to perform to either upgrade your solution to the latest version of SPFx or make it valid. In this release we enchanced this functionality allowing you to not only generate a report file but also a code tour that will show you the steps directly in code in line that needs to be updated.
+Till now SPFx Toolkit allowed you to create an upgrade or validation report for your SPFx project which created a `.md` report file with all the necessary steps you needed to perform to either upgrade your solution to the latest version of SPFx or make it valid. In this release, we enhanced this functionality allowing you to not only generate a report file but also a code tour that will show you the steps directly in code in line that needs to be updated.
 
 ![code tour for upgrade action](images/upgrade-project-code-tour.png)
 
-SPFx Toolkit comes along with Code Tour extension so you VS Code instance will already have everything you need to keep you up and running with this new enchancement.
+SPFx Toolkit comes along with Code Tour extension so your VS Code instance will already have everything you need to keep you up and running with this new enhancement.
 
-We also added two new settings to SPFx Toolkit that will allow you to set if you either want to create a report file or code tour guidance or both when perorming the upgrade and validate action.
+We also added two new settings to SPFx Toolkit that will allow you to set if you either want to create a report file or code tour guidance or both when performing the upgrade and validating action.
 
 ## Added SPFx Fast Serve optional dependency to the scaffolding form
 
-SPFx Toolkit provides you with different ways to create a new project. For example you may create one based on an existing sample, or use the `/new` GitHub Copilot Chat command to describe your case and SPFx Toolkit will pick and create the best project type for your scenario. You also have the scaffolding form which is UI layer for the SPFx yeomman generator and will provide you with a readable and guidaded way of creating a new project.
+SPFx Toolkit provides you with different ways to create a new project. For example, you may create one based on an existing sample, or use the `/new` GitHub Copilot Chat command to describe your case and SPFx Toolkit will pick and create the best project type for your scenario. You also have the scaffolding form which is the UI layer for the SPFx yeoman generator and will provide you with a readable and guided way of creating a new project.
 
-Besides regular scaffolding you may also pick additional dependecies that may be already installed and precofigured in your project, like SPFx reusable controls or PnPjs. In this release we added the possibility to install and configure [SPFx Fast Serve](https://github.com/s-KaiNet/spfx-fast-serve) to your newly scaffolded project. This step will not install the global package for you but will add the fast serve helpers and perform the required changes on your project to get you up and running.
+Besides regular scaffolding, you may also pick additional dependecies that may be already installed and precofigured in your project, like SPFx reusable controls or PnPjs. In this release, we added the possibility to install and configure [SPFx Fast Serve](https://github.com/s-KaiNet/spfx-fast-serve) to your newly scaffolded project. This step will not install the global package for you but will add the fast-serve helpers and perform the required changes on your project to get you up and running.
 
 ![SPFx fast serve optional dependecies](images/spfx-fast-serve.png)
 
 We are thinking of even more improvements in this area as well, like giving you the possiblity to create your own custom additional steps that will be tailored for your specific scenarios.
 
-## Improved sign in experience
+## Improved sign-in experience
 
-In this minor release we also improved the sign in process. We don't use the device code flow anymore and we also added caching for the Client ID and Tenant ID so that if you will need to resign-in those fields will be auto pouplated with values that were used in the last successful sign-in.
+In this minor release, we also improved the sign-in process. We don't use the device code flow anymore and we also added caching for the Client ID and Tenant ID so that if you need to resign-in those fields will be auto-pouplated with values that were used in the last successful sign-in.
 
 ## 👏 You ROCK 🤩
 
