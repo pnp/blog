@@ -48,7 +48,7 @@ Demos this time:
 
 * [Eliane Burgers](https://www.linkedin.com/in/elianne-b-48946864/) (Blis Digital) - Personal views for Power Apps
 * [Keith Atherton](https://www.linkedin.com/in/keith-atherton/) (ANS Group) - Full Power! Top 10 Power App Optimisation Tips
-* [Shane Young](https://www.linkedin.com/in/cincyshane/) (PowerApps911) - Building an Autonomous Copilot Agent to deal with our Email
+* [Daniel LeMay](https://www.linkedin.com/in/thelowcodist/) (PowerApps911) - Recreating LINEST from Excel with Power Apps User Defined Functions
 
 Also: 📷 Picture Time with community in Together Mode!
 
