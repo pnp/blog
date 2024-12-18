@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Framework Toolkit 2024 wrap up"
-date: 2024-12-11T01:00:00.000Z
+date: 2024-12-18T01:00:00.000Z
 # post thumb
 images:
   - images/main.png //TODO update the main image
