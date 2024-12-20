@@ -6,7 +6,7 @@ githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary51.png
+  - images/weeklysummary52.png
 tags: []
 type: trending
 videos: null
