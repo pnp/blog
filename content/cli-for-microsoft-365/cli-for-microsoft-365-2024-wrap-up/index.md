@@ -17,9 +17,9 @@ type: regular
 
 You know what they say, the more the merrier! This year we released three major versions of CLI for Microsoft 365. Each release brought new features, improvements, but also were made to adapt CLI for Microsoft 365 to some breaking changes in the Microsoft 365 ecosystem. We are committed to keeping the CLI up-to-date with the latest changes in Microsoft 365 and providing you with the best possible experience.
 
-The first major release done this year - v8 - was a response to deprication of an API that CLI for Microsoft 365 used in Power Automate commands. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v8-upgrade-guidance/).
+The first major release done this year - v8 - was a response to deprecation of an API that CLI for Microsoft 365 used in Power Automate commands. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v8-upgrade-guidance/).
 
-The second major release - v9 - ws a reaction to an announcement that the PnP Management Shell multi-tenant app will be removed on September 9. Previously you were able to use this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Till now it was even used as the default login method. Although using the PnP Management Shell was very convenient it wasn’t the best approach that should be picked especially when running automated scripts on your tenant. In order to improve our customers security posture the login method was updated to encurage the use of single-tenant app and just the scopes and permissions that are needed. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v9-upgrade-guidance).
+The second major release - v9 - was a reaction to an announcement that the PnP Management Shell multi-tenant app will be removed on September 9. Previously you were able to use this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Till now it was even used as the default login method. Although using the PnP Management Shell was very convenient it wasn’t the best approach that should be picked especially when running automated scripts on your tenant. In order to improve our customers security posture the login method was updated to encourage the use of single-tenant app and just the scopes and permissions that are needed. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v9-upgrade-guidance).
 
 You may also check out the [Getting started with CLI for Microsoft 365 recording](https://www.youtube.com/watch?v=XFG8gVGvXpA).
 {{< youtube XFG8gVGvXpA >}}
@@ -50,7 +50,7 @@ This year was very busy for us. To give you a better idea of how much work we ha
 
 - 322 PRs merged
 - 340 issues closed
-- 71 new commmands added
+- 71 new commands added
 - 3 major releases
 - 10 minor releases
 - 91 beta releases
@@ -79,7 +79,7 @@ Let's give a round of applause to the following contributors (in alphabetical or
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
 - [Shantha Kumar T](https://github.com/ktskumar)
 - [Smita Nachan](https://github.com/SmitaNachan)
-- [Vedant Lakshminarayanan]((https://github.com/Vedu1996))
+- [Vedant Lakshminarayanan](https://github.com/Vedu1996)
 - [Waldek Mastykarz](https://github.com/waldekmastykarz)
 
 ## 100th release!
@@ -92,7 +92,7 @@ To celebrate this milestone, we’ve prepared a special place in which we starte
 
 ## Stay Connected!
 
-We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), [Bluesky](https://bsky.app/profile/climicrosoft365.bsky.social), or [X](https://x.com/climicrosoft365). Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/cli-microsoft365/issues), [Discord](https://aka.ms/cli-m365/discord), or [Bluesky](https://bsky.app/profile/climicrosoft365.bsky.social)]. Don't hesitate to connect with us. Your input plays a vital role in shaping the future of CLI for Microsoft 365.
 
 ## Resources
 
