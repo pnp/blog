@@ -1,19 +1,20 @@
 ---
 title: Weekly Agenda - 23rd of December week
-date: 2024-12-12T11:23:14.318Z
+date: 2024-12-20T02:23:14.318Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary51.png
+  - images/weeklysummary52.png
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
+
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
@@ -26,7 +27,7 @@ This is the agenda for the upcoming week:
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
-* no call this time due to holiday season
+* **no call this time due to holiday season 🎄🤶**
 * next Microsoft 365 & Power Platform weekly call on January 7th, 2025
 
 
@@ -53,6 +54,7 @@ This is the agenda for the upcoming week:
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
 
+* [Enhancing Power Platform Connectors with Custom Code](https://www.youtube.com/watch?v=tv2XnlfCxws) by [Troy Taylor](https://www.linkedin.com/in/troystaylor/) (Hitachi Solutions)
 * [Building a Real-World Intranet with SPFx – Provisioning and Dev Containers](https://www.youtube.com/watch?v=kzvyvVAKcRg) by [Mattias Bürgi](https://www.linkedin.com/in/mattiasbuergi/) (Die Mobiliar) and [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (Die Mobiliar) 
 * [Creating Fully Responsive Power Apps](https://www.youtube.com/watch?v=3EQ2N9R3dEA) by [Shiv Sharma](https://www.youtube.com/watch?v=3EQ2N9R3dEA) (Ameriprise Financial Services)
 * [Guide to employee effectiveness with Synozur](https://www.youtube.com/watch?v=e5qyb6yI4uI) by  [Michelle Caldwell](https://linkedin.com/in/michellecaldwell) (Synozur Alliance), [Mark Kashman](https://linkedin.com/in/mkashman)  (Microsoft) and [Chris McNulty ](https://linkedin.com/in/cmcnulty) (Microsoft)
@@ -60,7 +62,6 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Displaying Documents by Content Type with New ACE Pie Chart Option](https://www.youtube.com/watch?v=xK4PGoMb16g) by [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas) (Avanade)
 * [Building a Serverless AI Chat with RAG Using LangChain.js, TypeScript, and Azure](https://www.youtube.com/watch?v=hSRShV-TuuI) by [Yohan Lasorsa](https://linkedin.com/in/yohanlasorsa) (Microsoft)
 * [Introduction to SharePoint agents](https://www.youtube.com/watch?v=pYvK76SVEv4) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft)
-
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
