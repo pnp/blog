@@ -17,15 +17,15 @@ type: regular
 
 You know what they say, "the more the merrier"! This year we released three major versions of CLI for Microsoft 365. Each release brought new features, and improvements, but was also made to adapt CLI for Microsoft 365 to some breaking changes in the Microsoft 365 ecosystem. We are committed to keeping the CLI up-to-date with the latest changes in Microsoft 365 and providing you with the best possible experience.
 
-The first major release this year, v8, was in response to the deprecation of an API that CLI for Microsoft 365 used in Power Automate commands. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v8-upgrade-guidance/).
+The first major release this year, v8, was in response to the deprecation of an API that CLI for Microsoft 365 used in Power Automate commands. To find out more go over the [upgrade guidance](https://pnp.github.io/cli-microsoft365/v8-upgrade-guidance/).
 
-The second major release - v9 - was a reaction to an announcement that the PnP Management Shell multi-tenant app will be removed on September 9. Previously you were able to use this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Until now it was even used as the default login method. Although using the PnP Management Shell was very convenient it wasn’t the best approach that should be picked especially when running automated scripts on your tenant. In order to improve our customers' security posture the login method was updated to encourage the use of single-tenant apps and just the scopes and permissions that are needed. To find out more go over the [release notes](https://pnp.github.io/cli-microsoft365/v9-upgrade-guidance).
+The second major release - v9 - was a reaction to an announcement that the PnP Management Shell multi-tenant app will be removed on September 9. Previously you were able to use this app to grant the needed permissions for your scripts or standard usage of CLI for Microsoft 365. Until now it was even used as the default login method. Although using the PnP Management Shell was very convenient it wasn’t the best approach that should be picked especially when running automated scripts on your tenant. In order to improve our customers' security posture the login method was updated to encourage the use of single-tenant apps and just the scopes and permissions that are needed. To find out more go over the [upgrade guidance](https://pnp.github.io/cli-microsoft365/v9-upgrade-guidance).
 
 You may also check out the [Getting started with CLI for Microsoft 365 recording](https://www.youtube.com/watch?v=XFG8gVGvXpA).
 {{< youtube XFG8gVGvXpA >}}
 
 The third major release - v10 - was our regular planned major release in which we introduced breaking changes. This time we introduced 34 breaking changes that improved the overall experience of using CLI for Microsoft 365 and aligned it with latest naming in Microsoft 365 like renaming `AAD` to `Microsoft Entra ID`, and also we finally switched from Yammer to Viva Engage.
-If you are interested in the full list of changes and improvements, you can check out the [release notes](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance).
+If you are interested in the full list of changes and improvements, you can check out the [upgrade guidance](https://pnp.github.io/cli-microsoft365/v10-upgrade-guidance).
 
 ## Support for using multiple accounts
 
