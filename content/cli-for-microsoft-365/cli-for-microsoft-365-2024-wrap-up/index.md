@@ -55,6 +55,8 @@ This year was very busy for us. To give you a better idea of the extent of our w
 - 10 minor releases
 - 91 beta releases
 
+This year we were thrilled to notice a significant interest increase in our product reaching even +81K downloads in June. If you are interested in more stats regarding CLI for Microsoft 365 we share them in our [repo Discussions](https://github.com/pnp/cli-microsoft365/discussions/categories/stats?discussions_q=is%3Aopen+category%3AStats+sort%3Adate_created)
+
 All this would not have been possible without the help of our amazing community. We would like to thank all the contributors who helped us to make this year so successful. We are looking forward to working with you in the upcoming year.
 Let's give a round of applause to the following contributors (in alphabetical order):
 
