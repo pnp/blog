@@ -24,7 +24,7 @@ We have just published a new minor version of CLI for Microsoft 365. [CLI for Mi
 
 ### SharePoint Embedded
 
-In this release, we've added a yet another command in SharePoint Embedded area that allows you to ge the details of a specific Container. 
+In this release, we've added yet another command in SharePoint Embedded area that allows you to get the details of a specific Container. 
 
 To get a container of a specific type run:
 
@@ -32,27 +32,27 @@ To get a container of a specific type run:
 m365 spe container get --id "b!ISJs1WRro0y0EWgkUYcktDa0mE8zSlFEqFzqRn70Zwp1CEtDEBZgQICPkRbil_5Z"
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 
 - [m365 spe container get](https://pnp.github.io/cli-microsoft365/cmd/spe/container/container-get/)
 
 ### SharePoint Premium
 
-This time we added a new command that will help you to retrieve information about a document understanding model.
+This time we added a new command that will help you retrieve information about a document understanding model.
 
-In order to get information about a SharePoint Premium document understanding model, using model Title, simply use:
+In order to get information about a SharePoint Premium document understanding model by title, simply use:
 
 ```sh
 m365 spp model get --siteUrl "https://contoso.sharepoint.com/sites/ContentCenter" --title "climicrosoft365Model"
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 
 - [m365 spp model get](https://pnp.github.io/cli-microsoft365/cmd/spp/model/model-get/)
 
 ### SharePoint
 
-In this release we added a new command to one of our biggest areas - SharePoint. The new command allows you to list all home sites.
+In this release we added a new command to one of our biggest areas: SharePoint. The new command allows you to list all home sites.
 
 In order to do that simply run:
 
@@ -60,13 +60,13 @@ In order to do that simply run:
 m365 spo tenant homesite list
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 
 - [m365 spo tenant homesite list](https://pnp.github.io/cli-microsoft365/cmd/spo/tenant/tenant-homesite-list/)
 
-### Microsoft Entra ID role definition
+### Microsoft Entra ID
 
-In this release we added three new commands that increase management capabilities of Microsoft Entra ID role definitions. You can now list, get and remove role definitions.
+In this release we added three new commands that increase the management capabilities of Microsoft Entra ID role definitions. You can now list, get and remove role definitions.
 
 To retrieve all Microsoft Entra ID role definitions, run:
 
@@ -74,7 +74,7 @@ To retrieve all Microsoft Entra ID role definitions, run:
 m365 entra roledefinition list
 ```
 
-To get limited info about a role specified by the display name
+To get limited info about a role specified by the display name:
 
 ```sh
 m365 entra roledefinition get --displayName 'Custom SharePoint Role' --properties 'description,isEnabled'
@@ -86,7 +86,7 @@ And to remove a role definition specified by name and prompt for confirmation yo
 m365 entra roledefinition remove --displayName 'Custom Role'
 ```
 
-For more information check the following resources:
+For more information, check the following resources:
 
 - [m365 entra roledefinition get](https://pnp.github.io/cli-microsoft365/cmd/entra/roledefinition/roledefinition-get/)
 - [m365 entra roledefinition list](https://pnp.github.io/cli-microsoft365/cmd/entra/roledefinition/roledefinition-list/)
@@ -96,7 +96,7 @@ For more information check the following resources:
 
 In this release we added a new command that allows you to retrieve information about pronouns settings for an organization.
 
-To retrieves information about pronouns settings for an organization, use:
+To retrieve information about pronouns settings for your organization, use:
 
 ```sh
 m365 tenant people pronouns get
@@ -108,7 +108,7 @@ For more information check the following resources:
 
 ## What's changed
 
-This release includes numerous refinements and bug fixes to improve the overall CLI experience. As an example we updated the `spo user ensure` and `spo page section add` commands with additional options that will increase their functionality and usability.
+This release includes numerous refinements and bug fixes to improve the overall CLI experience. As an example, we updated the `spo user ensure` and `spo page section add` commands with additional options that will increase their functionality and usability.
 
 ## Testimonials
 
@@ -138,7 +138,7 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 
 ### High fives
 
-We would like to give a big shout-out and high-fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to provide us with their insights:
+We would like to give a big shout-out and high-fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to share their insights:
 
 - [Daniel Laskewitz](https://github.com/Laskewitz)
 - [piniontech777](https://github.com/piniontech777)
