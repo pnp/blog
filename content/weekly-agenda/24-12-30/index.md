@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 30th of December week
-date: 2024-12-26T13:51:45.869Z
+date: 2024-12-27T02:51:45.869Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,11 +10,10 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
-
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
@@ -53,7 +52,7 @@ This is the agenda for the upcoming week:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-
+* [Fallback Mechanism for UI Automation in Power Automate for Desktop](https://www.youtube.com/watch?v=Kue4KpVsNuE) by [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a/) (Persistent Systems)
 * [Build Your Own RAG-Based Semantic Search with AI and API Prompts](https://www.youtube.com/watch?v=-DIgFMnyQEs) by T S Manoj Kumar (Microsoft)
 
 
@@ -79,7 +78,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* no new posts this week
+* [CLI for Microsoft 365 2024 wrap up](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-2024-wrap-up/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
 
 ---
 
@@ -87,8 +86,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* no recorded calls this week - we'll be back 7th of January
-
+* [Viva Connections and SharePoint Framework community call 26th of December 2024](https://www.youtube.com/watch?v=Upj8uIvKoKA)
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
@@ -109,13 +107,15 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
 * [Microsoft 365 Community Conference](https://m365conf.com/#!/) - May 6-8, 2025 - Las Vegas, Nevada, USA
+* [Microsoft Build](https://build.microsoft.com/) - May - USA
 * [European Collaboration Summit 2025](https://collabsummit.eu/) - May 26-28, 2025 - Düsseldorf, Germany
 * [TechCon 365 - Seattle](https://www.techcon365.com/Seattle/) - June 23-27, 2025 - Seattle, Washington, USA
 * [TechCon 365 - Atlanta](https://techcon365.com/Atlanta/) - August 11-15, 2025 - Atlanta, Georgia, USA
+* [Power Platform Community Conference](https://powerplatformconf.com/) - October 28-30, 2025 - Las Vegas, Nevada, USA
+* [Microsoft Ignite](https://ignite.microsoft.com/) - November 18-20, 2025 - San Francisco, California, USA
 * [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [Collabcon 2024](https://www.communitydays.org/event/2024-12-12/collabcon-2024), December 12-13, 2024 - Orlando, Florida, United States
 * [Pune DevCon 2024 ](https://www.communitydays.org/event/2024-12-14/pune-devcon-2024), December 14, 2024 - Pune, India
