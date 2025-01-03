@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of January week
-date: 2024-12-27T02:51:45.869Z
+date: 2025-01-03T02:51:45.869Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,7 +10,7 @@ images:
 tags: []
 type: trending
 videos: null
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
@@ -29,7 +29,7 @@ This is the agenda for the upcoming week:
 Demos: 
 
 * [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft) - Deploying to Azure with Microsoft Teams Toolkit 
-* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - SharePoint Embedded - Monthly booking - January
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) - Latest features and updates around SharePoint Embedded
 
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -45,8 +45,8 @@ Demos:
 
 Demos:
 
-* [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/overlay/photo/) (Die Mobiliar) - Refresh Rangers: Upgrading SPFx on the React Security Grid Web Part
-* [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas/) (Avanade) – Refresh Rangers: The Advanced Comments Box Web Part
+* [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/overlay/photo/) (Die Mobiliar) - Building permission review solution for a SharePoint site with SPFx - Udpated to SPFx 1.20
+* [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas/) (Avanade) – Building advance comments feature for SharePoint with SPFx - Updated to SPFx v1.20
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -56,10 +56,10 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Create Interactive Learning Bots with Copilot Studio](https://www.youtube.com/watch?v=dHvvKcUc6bo) by [Joseph Fadero](https://www.linkedin.com/in/joseph-fadero/) (JADA Squad)
 * [SharePoint Roadmap Pitstop December 2024](https://www.youtube.com/watch?v=GSZx46FpJLE) by [Mark Kashman](https://linkedin.com/in/mark-kashman) (Microsoft)
 * [Deploying Azure Dependencies for SPFx Solutions](https://www.youtube.com/watch?v=WuOy127UL1g) by [Mattias Bürgi](https://www.linkedin.com/in/mattiasbuergi) (Die Mobiliar) and [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli) (Die Mobiliar)
 * [Tips and Tricks for Power Apps Galleries](https://www.youtube.com/watch?v=hkknEP-FHCI) by [Shane Young](https://www.linkedin.com/in/cincyshane) (PowerApps911)
-
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
