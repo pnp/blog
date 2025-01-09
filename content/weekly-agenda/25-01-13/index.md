@@ -1,16 +1,16 @@
 ---
-title: Weekly Agenda - 6th of January week
-date: 2025-01-03T02:51:45.869Z
+title: Weekly Agenda - 13th of January week
+date: 2025-01-09T12:17:56.034Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary01.png
+  - images/weeklysummary02.png
 tags: []
 type: trending
 videos: null
-draft: false
+draft: true
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
