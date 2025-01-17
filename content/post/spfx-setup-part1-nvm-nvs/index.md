@@ -18,9 +18,9 @@ type: "regular"
 
 ## Intro
 
-When starting your journey with SharePoint Framework (SPFx) development, you always start with a basic set up your development environment. In this post series, I would like to introduce you to different ways to get ready for SPFx development. Over the next few posts, I will try to briefly explain how to:
+When starting your journey with SharePoint Framework (SPFx) development, you always start with a basic setup of your development environment. In this post series, I would like to introduce you to different ways to get ready for SPFx development. Over the next few posts, I will try to briefly explain how to:
 
-- local setup using Node Version Manager (NVM) or Node Version Switcher (NVS) (which is this post)
+- perform local setup using Node Version Manager (NVM) or Node Version Switcher (NVS) (which is this post)
 - boost local setup using WSL
 - use Docker for SPFx development
 - code in the cloud using GitHub Codespaces
@@ -116,7 +116,7 @@ And finally, to list all nNode.js versions installed on your machine you may use
 nvs ls
 ```
 
-Also, there is a nice little command that will run an interactive menu that will allow you to select the version of Node.js you want to use of if you want to add a new one. To run this command you may use the following:
+Also, there is a nice little command that will run an interactive menu that will allow you to select the version of Node.js you want to use, or if you want to add a new one. To run this mode you may use the following:
 
 ```sh
 nvs menu
@@ -128,16 +128,12 @@ What is worth mentioning is that when you switch to some Node version it is not 
 
 ![nvs multiple node versions](images/nvs-multiple-node-versions.png)
 
-Last but not least, NVS `.nvmrc` files are also on Windows. That means you may add a `.nvmrc` file in the root of your project and specify the version of Node.js you want to use in that project. After that when running `nvs auto` command in the same location where `.nvmrc` file is located, NVS will automatically switch to the version of Node.js specified in that file.
+Last but not least, `.nvmrc` files are also supported on Windows. That means you may add a `.nvmrc` file in the root of your project and specify the version of Node.js you want to use in that project. After that when running `nvs auto` command in the same location where `.nvmrc` file is located, NVS will automatically switch to the version of Node.js specified in that file.
 It also supports `.node-version` files, which similar to `.nvmrc` files specify the version of Node.js you want to use in that project.
-
-## Summary
-
-If you are starting your journey with SPFx development using a local workspace, instead of VMs, dockers or CodeSpaces will be good enough for sure. But the first thing you will want to improve is the ability to run multiple versions of Node.js on your machine and switch between them. Both NVM and NVS will do the job for you. The choice between them is up to you. If you have admin permissions on your machine and you are looking for a simple and easy-to-use solution you may go with NVM. If you don't have admin permissions on your machine and you are looking for a solution that will allow you to switch between different versions of Node.js without the need for admin permissions you may go with NVS. The possibility to run multiple versions of Node.js at the same time which is provided by NVS may be a big advantage as well.
 
 ## SPFx Toolkit for Visual Studio Code
 
-If you know me then you probably noticed VS Code extensions are my thing and before I wrap up this blog post there is one last thing worth mentioning. If you are using Visual Studio Code for your SPFx development you may want to install the [SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) extension. This extension will help you get started with SPFx development helping you at every stage of the development process. Among many features, it also has some that are specific to using node version managers. For example when you scaffold a new project using the create project form, in the additional steps part you may select to create a Node Version manager config file for your project with the current version of Node.js you are using.
+If you know me then you probably noticed that VS Code extensions are my thing and before I wrap up this blog post there is one last thing worth mentioning. If you are using Visual Studio Code for your SPFx development you may want to install the [SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) extension. This extension will help you get started with SPFx development helping you at every stage of the development process. Among many features, it also has some that are specific to using node version managers. For example when you scaffold a new project using the create project form, in the additional steps part you may select to create a Node Version manager config file for your project with the current version of Node.js you are using.
 
 ![spfx toolkit create project form](images/spfx-toolkit-create-project.png)
 
@@ -146,6 +142,10 @@ In the extension settings, you may specify if this will be a `.nvmrc` file or `.
 ![spfx toolkit settings](images/spfx-toolkit-settings.png)
 
 Also in the extension settings, you may specify which is your preferred Node Version Manager - NVM or NVS. Based on this setting the extension will execute the correct command to use the version of Node.js specified in the config file.
+
+## Summary
+
+If you are starting your journey with SPFx development using a local workspace, instead of VMs, dockers or CodeSpaces will be good enough for sure. But the first thing you will want to improve is the ability to run multiple versions of Node.js on your machine and switch between them. Both NVM and NVS will do the job for you. The choice between them is up to you. If you have admin permissions on your machine and you are looking for a simple and easy-to-use solution you may go with NVM. If you don't have admin permissions on your machine and you are looking for a solution that will allow you to switch between different versions of Node.js without the need for admin permissions you may go with NVS. The possibility to run multiple versions of Node.js at the same time which is provided by NVS may be a big advantage as well.
 
 ## Resources
 
