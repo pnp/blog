@@ -3,7 +3,7 @@ title: "Setup SharePoint Framework development environment Part 1 - Use Node Ver
 date: 2025-01-30T01:00:00.000Z
 # post thumb
 images:
-  - images/main.png //TODO update the image
+  - images/main.png
 #author
 author: "Adam Wójcik"
 githubname: Adam-it
