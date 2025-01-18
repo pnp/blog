@@ -61,7 +61,7 @@ The host of this call is [David Warner II](https://twitter.com/DavidWarnerII) (M
 
 ## Together Mode
 
-![together-221201.png](images/together-221201.png)
+![Community Recognition](images/together-221201.png)
 
 Everybody’s looking great today. Love your smiles and waves. Thank you for joining this call and for being part of this community.
 
