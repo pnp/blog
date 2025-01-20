@@ -76,7 +76,7 @@ This will result in an output similar to the one below:
 
 ![nvm list](images/nvm-list.png)
 
-The above are the basic commands you will need to manage multiple versions of Node.js on your machine. Thanks to that you may easily install and switch between different versions of Node.js and that way manage multiple SPFx projects with different versions of SPFx, also in each Node.js version you may have different global dependencies installed. 
+The above are the basic commands you will need to manage multiple versions of Node.js on your machine. Thanks to that you may easily install and switch between different versions of Node.js and that way manage multiple SPFx projects with different versions of SPFx. Each Node.js version you install using nvm will have its own global dependencies. This means that you may have different versions of global dependencies (global tools) for different versions of Node.js. This means that if you have some tool which is and global npm packge you will most probably need to install it for each version of Node.js you are using.
 
 Last thing that is worth mentioning is the possibility to set the default version of Node which should be used for a project. You can do that by creating a `.nvmrc` file in the root of your project and adding the version of Node.js you want to use in that project. After that when running `nvm use` command in the same location where `.nvmrc` file is located nvm will automatically switch to the version of Node.js specified in that file. This feature unfortunately is not available on nvm-windows.
 
