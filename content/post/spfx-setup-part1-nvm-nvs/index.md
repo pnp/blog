@@ -28,11 +28,11 @@ When starting your journey with SharePoint Framework (SPFx) development, you alw
 ## Why do I need any node version manager?
 
 Well if you just follow the guidance from [Microsoft Docs](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment) you will end up with a single version of Node.js installed on your machine. This is not necessarily a bad thing, especially if you just want to try out SPFx and create a few web parts. The problem starts when you need to manage multiple projects with different versions of SPFx. This may be for numerous reasons. For example, you may still have solutions that target SharePoint 2019 which support projects created with version 1.4.1 of SPFx. Or you may just have some older projects that have little sense to upgrade to the latest version of SPFx. Or you are planning to try out one of the samples from the [PnP SPFx Samples gallery](https://pnp.github.io/sp-dev-fx-webparts/) which are not always up to date with the latest version of SPFx.
-In such case you will need to manage multiple versions of Node.js on your machine as if we check the [SPFx development environment compatibility table](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/compatibility#spfx-development-environment-compatibility) different versions of SharePoint Framework require different versions of Node.js. For example, SPFx 1.4.1 which is the version that should be used for solutions that target SharePoint On-Prem, requires v6 or v8 of Node.js. On the other hand, the latest version of SPFx which as of today is 1.20.0 requires Node.js v18. So to develop two projects on the same machine you will either need to uninstall and install the correct version of Node.js along with global dependencies every time or you may use a node version manager which allows you to install multiple versions of Node.js and switch between them with a single command.
+In such cases you will need to manage multiple versions of Node.js on your machine because if we check the [SPFx development environment compatibility table](https://learn.microsoft.com/sharepoint/dev/spfx/compatibility#spfx-development-environment-compatibility) different versions of SharePoint Framework require different versions of Node.js. For example, SPFx 1.4.1 which is the version that should be used for solutions that target SharePoint On-Prem, requires v6 or v8 of Node.js. On the other hand, the latest version of SPFx which as of today is 1.20.0 requires Node.js v18. So to develop two projects on the same machine you will either need to uninstall and install the correct version of Node.js along with global dependencies every time or you may use a node version manager which allows you to install multiple versions of Node.js and switch between them with a single command.
 
 ## Node Version Manager (NVM)
 
-From a couple of years of my work, I noticed that NVM is one of the most popular Node Version Managers widely used both on Mac OS and Windows. The setup and usage are very simple and straightforward. You may download the Windows installer directly from GitHub repo releases - [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases). Before installing nvm it's important to uninstall any version of Node.js you already have installed locally. After installing nvm the first thing you will want to do is to install the version(s) of Node.js you need. Let's see how to go about it.
+The last couple of years I've noticed that NVM is one of the most popular Node Version Managers. It's widely used both on Mac OS and Windows. The setup and usage are very simple and straightforward. You may download the Windows installer directly from GitHub repo releases - [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases). Before installing nvm it's important to uninstall any version of Node.js you already have installed locally. After installing nvm the first thing you will want to do is to install the version(s) of Node.js you need. Let's see how to go about it.
 
 To check the list of available versions of Node.js you may use the following command:
 
@@ -50,7 +50,7 @@ To install the version of Node.js you need you may use the following command:
 nvm install <version>
 ```
 
-Using the above you may install multiple versions of Node.js on your machine. To switch between them you may use the following command:
+Using the above you can install multiple versions of Node.js on your machine. To switch between them you can use the following command:
 
 ```sh
 nvm use <version>
@@ -58,27 +58,27 @@ nvm use <version>
 
 ![nvm use](images/nvm-use.png)
 
-What's important to note is that nvm needs admin permissions to switch to a different version of Node. In most cases, this will not be a problem but for some of you who work in a corporate environment where you don't have admin permissions on your machine, this may be a blocker.
+What's important to note is that nvm needs admin permissions to switch to a different version of Node. In most cases, this will not be a problem. But for some of you who work in a corporate environment where you don't have admin permissions on your machine, this may be a blocker.
 
-To check the version of Node.js you are currently using you may use the following command:
+To check the version of Node.js you are currently using you can use the following command:
 
 ```sh
 nvm current
 ```
 
-To check the list of installed versions of Node.js you may use the following command:
+To check the list of installed versions of Node.js you can use the following command:
 
 ```sh
 nvm list
 ```
 
-This will be an output similar to the one below:
+This will result in an output similar to the one below:
 
 ![nvm list](images/nvm-list.png)
 
 The above are the basic commands you will need to manage multiple versions of Node.js on your machine. Thanks to that you may easily install and switch between different versions of Node.js and that way manage multiple SPFx projects with different versions of SPFx, also in each Node.js version you may have different global dependencies installed. 
 
-Last thing that I guess is worth mentioning is the possibility to set the default version of Node which should be used for a project. You may do that by creating a `.nvmrc` file in the root of your project and adding the version of Node.js you want to use in that project. After that when running `nvm use` command in the same location where `.nvmrc` file is located nvm will automatically switch to the version of Node.js specified in that file. This feature unfortunately is not available on nvm-windows.
+Last thing that is worth mentioning is the possibility to set the default version of Node which should be used for a project. You can do that by creating a `.nvmrc` file in the root of your project and adding the version of Node.js you want to use in that project. After that when running `nvm use` command in the same location where `.nvmrc` file is located nvm will automatically switch to the version of Node.js specified in that file. This feature unfortunately is not available on nvm-windows.
 
 ## Node Version Switcher (NVS)
 
@@ -88,7 +88,7 @@ Although NVM is good enough in some cases you may want to use an alternative opt
 winget install jasongin.nvs
 ```
 
-Similar to NVM you may check the list of available versions of Node.js using the following command:
+Similar to NVM you can check the list of available versions of Node.js using the following command:
 
 ```sh
 nvs ls-remote
@@ -110,7 +110,7 @@ Using the above you may install multiple versions of Node.js on your machine. To
 nvs use [version] 
 ```
 
-And finally, to list all nNode.js versions installed on your machine you may use the following command:
+And finally, to list all Node.js versions installed on your machine you can use the following command:
 
 ```sh
 nvs ls
