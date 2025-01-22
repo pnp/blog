@@ -665,26 +665,17 @@ In **SPFx** projects using **PnP.js**, deciding between `useState` and `useReduc
 
 Both methods are valid. Pick the one that **best fits** your web part’s complexity and the user experience you want to deliver.
 
-For more samples lchekc the link below
-
-[Extracting State Logic into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer)
 
 ### **Helpful Resources and Getting Started Guides**
 
 * [Extracting State Logic into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer): earn how to refactor complex state management in React by consolidating state update logic into a `reducer` function.
     
 * [React useReducer Documentation:](https://react.dev/reference/react/useReducer) Official React Documentation provides an in-depth explanation of the `useReducer` hook, including examples and best practices.
-    
-* [**SPFx 1.20 Release Notes**](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.20-release-notes): A detailed overview of all the new features and fixes in SPFx 1.20.
-    
+        
 * [**Getting Started with SPFx**](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment): Step-by-step guide to set up your development environment for SharePoint Framework.
     
 * [**Using React with SPFx**](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-react): A guide that explains how to build SPFx web parts using React.
-    
-* [**Fluent UI for SPFx**](https://developer.microsoft.com/en-us/fluentui#/get-started/web): Learn how to use Fluent UI (formerly Office UI Fabric) to create modern and accessible web experiences in SPFx.
-    
-* [**SASS in SPFx**](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part-using-sass): Learn how to apply SASS for custom styling in SPFx projects.
-    
+            
 * [**SPFx GitHub Repository**](https://github.com/SharePoint/sp-dev-docs): The official GitHub repo for SPFx documentation and code samples.
     
 * [**SPFx Community Samples**](https://github.com/pnp/sp-dev-fx-webparts): Explore a wide range of community-contributed SPFx samples for inspiration.
