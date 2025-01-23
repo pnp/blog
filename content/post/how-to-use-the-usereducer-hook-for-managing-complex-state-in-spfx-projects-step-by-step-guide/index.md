@@ -419,13 +419,13 @@ This guide will walk you through the process of implementing a `useReducer`\-bas
 
 #### Folder Structure
 
-Create Create the following folders and files: Organize your project to maintain clean separation of concerns:
+Create  the following folders and files: Organize your project to maintain clean separation of concerns:
 
 ```bash
 ReactUseReducerHookBasic/
 ├── src/
 │   ├── webparts/
-│   │   └── ç/
+│   │   └── ReactUseReducerHookBasic/
 │   │       ├── components/                 # UI Components
 │   │       │   ├── ReactUseReducerHookBasic.tsx  # Main React Component
 │   │       │   └── ReactUseReducerHookBasic.module.scss  # Component Styles
