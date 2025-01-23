@@ -1,9 +1,4 @@
 ---
-title: "How to Use the useReducer Hook for Managing Complex State in SPFx Projects: Step-by-Step Guide"
-datePublished: Thu Jan 16 2025 15:00:13 GMT+0000 (Coordinated Universal Time)
-cuid: cm5zgjbwk000709l7h9bzc1pj
-slug: managing-complex-state-in-spfx-projects-using-the-usereducer-hook-a-step-by-step-guide
-tags: reactjs, sharepoint, spfx, sharepoint-online, usereducer-hook, sharepointframework
 
 title: "How to Use the useReducer Hook for Managing Complex State in SPFx Projects: Step-by-Step Guide"
 date: 2025-01-22T21:40:00-04:00
