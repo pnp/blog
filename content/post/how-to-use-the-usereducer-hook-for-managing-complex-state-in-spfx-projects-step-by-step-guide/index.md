@@ -8,7 +8,7 @@ githubname: ahmad-jad-alhak
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/Thumbnail.png
+- images/Thumbnail.jpg
 # don't change
 tags: [SPFx, SharePoint, React, useReducer, hooks, State Management]
 # don't change
