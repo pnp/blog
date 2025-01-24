@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 27th of January week
-date: 2025-01-17T02:36:57.061Z
+date: 2025-01-24T02:36:57.061Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -9,11 +9,13 @@ images:
   - images/weeklysummary04.png
 tags: []
 type: trending
-videos: null
-draft: true
+videos:
+  - https://www.youtube.com/watch?v=JrUMwnsRSaU
+draft: false
 ---
 
-We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀 
+We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
+
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
@@ -22,7 +24,7 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform weekly call - 28th of January
 
-* Tuesday, 28thof January 2025, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 28th of January 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
@@ -30,14 +32,28 @@ Demos:
 
 * [Carter Gilliam](https://www.linkedin.com/in/r-carter-gilliam/) (Microsoft)  - Latest features with Teams AI Library - January 2025
 * [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft) – Introduction to CI/CD with Microsoft Teams App CLI
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) - Getting started with SharePoint agents
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) - Build your first Declarative agent for Microsoft 365 Copilot
 
-=======
+---
 
+### SharePoint: From Concept to Creation to Impact + Live AMA - 29th of January
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 16h of January
+At this event, we want to shine a light on the **latest SharePoint capabilities** and share glimpses of what some of our customers are doing with it. Get clarity on what's available, tips and tricks, and the boundaries you can now push with the latest. If you use SharePoint to create sites, publish news, manage workflows, collaborate with peers – or are simply curious about how agents can transform your intranet – this event is for you! 
 
-* Thursday, 16h of January, 7:00 AM PT / 3:00 PM GMT
+Skill up your SharePoint IQ with the latest on: 
+- **Simpler authoring & more compelling content** – Lower barriers to create professional-looking content and ensure you can harness the best of what the web has to offer for your intranet 
+- **Greater engagement & reach** – Scale your message to meet people where they work. 
+- **Powerful workflow, automations and agents** – Build automated subject matter experts and save your team time while managing and automating content workflows. 
+
+We will also have dedicated time during the event for **live Q&A** where you will get to interact with multiple product makers – bring your *questions and feedback*. 
+
+{{< youtube JrUMwnsRSaU >}}
+
+---
+
+### Microsoft 365 & Power Platform bi-weekly community Call - 30th of January
+
+* Thursday, 30th of January, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
@@ -58,6 +74,8 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Jeff Teper highlights what to expect at the SharePoint January 29, 2025, event](https://www.youtube.com/watch?v=JrUMwnsRSaU)
+* [Create a "graph" client for your own API for your custom solutions in Microsoft 365](https://www.youtube.com/watch?v=rtwFC4wCDYE) by [Stephan van Rooij](https://www.linkedin.com/in/stephanvanrooij/)
 * [Introduction to Microsoft Teams Toolkit](https://www.youtube.com/watch?v=WycZhUVa0zU) by [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft) – Introduction to CI/CD with Microsoft Teams App CLI
 * [How to build an auto-email responder using Power Automate and Azure AI Studio](https://www.youtube.com/watch?v=sKbZAQtnxwc) by [Sean Astrakhan](https://www.linkedin.com/in/sean-astrakhan)
 * [Building Declarative Agents with API Plugins for Microsoft 365 Copilot](https://www.youtube.com/watch?v=rE0Un7ZzJeU) by [Bob German](https://www.linkedin.com/in/bgerman) (Microsoft)
@@ -95,6 +113,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 23rd of January 2025](https://www.youtube.com/watch?v=uuslnPwu6qM)
 * [Maturity Model for Microsoft 365 - January 2025](https://www.youtube.com/watch?v=sE-u4Q94ZOw)
 * [Microsoft 365 & Power Platform weekly call – 21st of January, 2025](https://www.youtube.com/watch?v=ZVKMBuWb4D8)
 
