@@ -6,7 +6,7 @@ githubname: reshmee011
 categories: ["Community post"]
 images:
 - images/Workflow_FederatedCredentials.png
-tags: ["Azure Dev Ops","Power Platform","Workload Identity Federation","Security", "CI/CD", "ALM"]
+tags: ["Azure Dev Ops","Power Platform","Workload Identity Federation","Security", "CI/CD", "ALM", "Microsoft Entra ID"]
 type: "regular"
 ---
 
