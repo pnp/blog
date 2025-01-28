@@ -14,6 +14,14 @@ type: "regular"
 
 Client secrets have traditionally been the go-to method for deploying Power Platform solutions from Azure DevOps, utilizing app registrations from the Azure platform. However, my personal experience has shown that this approach can be problematic, especially when you are not an application admin. It often involves wasting time figuring out why deployments have failed due to expired or missing client secrets. Even when reaching out to someone with application admin rights, they might generate a new client secret but forget to update the service connections for each service connection within Azure Dev Ops or the application admin does not have access requiring to reach out to someone else who have access, causing further disruptions.
 
+Moving to "Federated Credentials" from client secrets/certificates has the following benefits
+
+1. Less administrative burden to update expired secrets/certificates
+2. Less risk of credential leaks
+3. No disruption to the flow of work which may result from expired secrets/certificates
+4. Saves time
+5. Happy Devs, Administrators and end users with a smoother process
+
 You might relate to the frustration of repeatedly generating and updating client secrets to maintain the deployment process. Fortunately, there is an alternative: "Workload Identity Federation" for Power Platform service connections. Although still in Preview as of January 2025, this method offers a more secure and robust way to manage Power Platform pipelines. It alleviates the burden on both application administrators and Azure DevOps administrators by eliminating the need to constantly update client secrets.
 
 Federated identity credentials offer a more secure deployment option than using client secrets or certificates to connect to Azure or Microsoft Graph. For more details, view the [Overview of federated identity credentials in Microsoft Entra ID](https://learn.microsoft.com/en-us/graph/api/resources/federatedidentitycredentials-overview?view=graph-rest-1.0&?wt.mc_id=MVP_308367). They do not expire like secrets or certificates and can't be leaked or stolen.
