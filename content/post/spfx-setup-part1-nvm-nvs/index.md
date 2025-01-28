@@ -1,6 +1,6 @@
 ---
 title: "Setup SharePoint Framework development environment Part 1 - Use Node Version Manager (NVM) or Node Version Switcher (NVS)"
-date: 2025-01-30T01:00:00.000Z
+date: 2025-01-28T01:00:00.000Z
 # post thumb
 images:
   - images/main.png
