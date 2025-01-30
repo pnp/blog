@@ -75,7 +75,7 @@ For more information, check the following resources:
 
 ### Microsoft Entra ID
 
-In this release we added four new commands for working with Microsoft Entra ID roles. You can now add and update custom role definitions. For working with custom role definitions you'll need to know what resources actions are available. Retrieving these resource actions, also called role permissions, can be done by using the new command for listing role permissions. And lastly we've added a new command to be able to deactivate role assignments in Priviliged Identity Management (PIM).
+In this release, we added four new commands for working with Microsoft Entra ID roles. You can now add and update custom role definitions. For working with custom role definitions you'll need to know what resources actions are available. Retrieving these resource actions, also called role permissions, can be done by using the new command for listing role permissions. And lastly, we've added a new command to be able to deactivate role assignments in Privileged Identity Management (PIM).
 
 To get a list of role permissions or resource actions in the Microsoft directory, run:
 
