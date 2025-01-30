@@ -40,7 +40,7 @@ For more information, check the following resources:
 
 ### SharePoint
 
-In this release we've added four new command to manage default column values for a specific document library or for a folder within that library. This is a feature of SharePoint that's been around for quite a while, and our contributors found time (and reason) to finally add it to the CLI!
+In this release, we've added four new commands to manage default column values for a specific document library or a folder within that library. This is a feature of SharePoint that's been around for quite a while, and our contributors found time (and reason) to finally add it to the CLI!
 
 To update the default value of a field in a library, run:
 
