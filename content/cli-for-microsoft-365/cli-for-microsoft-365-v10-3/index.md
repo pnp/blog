@@ -117,6 +117,7 @@ To update date, time format and time zone of the signed-in user, run:
 ```sh
 m365 outlook mailbox settings set --dateFormat 'dd.MM.yyyy' --timeFormat 'H:mm' --timeZone 'Central Europe Standard Time' --language 'en-US'
 ```
+
 For more information, check the following resources:
 
 - [m365 outlook mailbox settings set](https://pnp.github.io/cli-microsoft365/cmd/outlook/mailbox/mailbox-settings-set)
