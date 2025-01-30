@@ -1,6 +1,6 @@
 ---
 title: CLI for Microsoft 365 v10.3
-date: 2025-01-31T20:00:00.000Z
+date: 2025-01-31T01:00:00.000Z
 author: Martin Lingstuyl
 githubname: martinlingstuyl
 categories:
