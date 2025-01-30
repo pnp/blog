@@ -124,7 +124,7 @@ For more information, check the following resources:
 
 ### Exchange
 
-In this release we've added a command that allows you to grant granular Exchange permissions to applications that need to access data in Exchange Online. 
+In this release, we've added a command that allows you to grant granular Exchange permissions to applications that need to access data in Exchange Online. 
 
 The following command will add 'Application Contacts.ReadWrite' permissions to the Marketing group for the ContactsSyncApp:
 
