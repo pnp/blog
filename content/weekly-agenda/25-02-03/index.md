@@ -101,6 +101,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
+* [Secure Power Platform Deployments with Azure DevOps Workload Identity Federation](https://pnp.github.io/blog/post/azuredevops-powerplatform-workloadidentityfederation) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade)
 * [Setup SharePoint Framework development environment Part 1 - Use Node Version Manager (NVM) or Node Version Switcher (NVS)](https://pnp.github.io/blog/post/spfx-setup-part1-nvm-nvs/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
 
 ---
