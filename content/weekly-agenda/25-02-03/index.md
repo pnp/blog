@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 3rd of February week
-date: 2025-01-24T02:36:57.061Z
+date: 2025-01-31T02:36:57.061Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -9,9 +9,8 @@ images:
   - images/weeklysummary05.png
 tags: []
 type: trending
-videos:
-  - https://www.youtube.com/watch?v=JrUMwnsRSaU
-draft: true
+videos: null
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -49,7 +48,6 @@ Demos:
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-
 ---
 
 ## New videos 
@@ -64,10 +62,10 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Demo: Automate work with SharePoint content processes](https://www.youtube.com/watch?v=T1iBoCG0ShQ) by  [Cory Newton-Smith](https://www.linkedin.com/in/coryns) (Microsoft) and [Nate Tennant](https://www.linkedin.com/in/nathantennant) (Microsoft)
 * [Demo: Track content and information with lists and libraries](https://www.youtube.com/watch?v=bCib5N67PuI) by [Miceile Barrett](https://www.linkedin.com/in/miceile-barrett) (Microsoft)
 * [Demo: Design engaging SharePoint sites and pages](https://www.youtube.com/watch?v=o2oHMlnYgBM) by [Melissa Torres](https://www.linkedin.com/in/melissa-torres-177b0814) (Microsoft)
-*  [Demo: Create a SharePoint agent for your site](https://www.youtube.com/watch?v=eKpvBdiEEFI) by [CJ Tan](https://www.linkedin.com/in/c-j-tan) 
-*  [The beauty and power of SharePoint in the AI era](https://www.youtube.com/watch?v=m95VT76_oz0)
-*  [Integrating Power Cards and Power Apps to the Viva Connections employee experiences](https://www.youtube.com/watch?v=xs2Q4aW7UWc) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) and [Supreet Singh](https://www.linkedin.com/in/supreet-singh-956aa7164) (Microsoft)
-*  [Building Custom Engine copilots with Teams AI Library and Azure AI Studio](https://www.youtube.com/watch?v=2YXpi108sBg) by [Ayça Baş](https://www.linkedin.com/in/aycabas) (Microsoft)
+* [Demo: Create a SharePoint agent for your site](https://www.youtube.com/watch?v=eKpvBdiEEFI) by [CJ Tan](https://www.linkedin.com/in/c-j-tan) 
+* [The beauty and power of SharePoint in the AI era](https://www.youtube.com/watch?v=m95VT76_oz0)
+* [Integrating Power Cards and Power Apps to the Viva Connections employee experiences](https://www.youtube.com/watch?v=xs2Q4aW7UWc) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) and [Supreet Singh](https://www.linkedin.com/in/supreet-singh-956aa7164) (Microsoft)
+* [Building Custom Engine copilots with Teams AI Library and Azure AI Studio](https://www.youtube.com/watch?v=2YXpi108sBg) by [Ayça Baş](https://www.linkedin.com/in/aycabas) (Microsoft)
 * [Join us for Powerful Devs Conference and Hack Together!](https://www.youtube.com/watch?v=BcmoScjRSrM)
 * [Automated Testing with Power Platform Pipelines](https://www.youtube.com/watch?v=xrQcJkN1yho) by [Suparna Banerjee](https://www.linkedin.com/in/suparna-banerjee-68780623) (Microsoft)
 
@@ -112,8 +110,6 @@ Here are the last week's community call recordings. You can download recurrent i
 
 * [Microsoft 365 & Power Platform community call - 30th of January 2025](https://www.youtube.com/watch?v=rxtQ84dE5ow)
 * [Microsoft 365 & Power Platform weekly call – 28th of January, 2025](https://www.youtube.com/watch?v=hbNGkAqit78)
-
-
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
