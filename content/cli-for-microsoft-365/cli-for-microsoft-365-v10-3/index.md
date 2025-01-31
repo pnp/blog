@@ -22,7 +22,7 @@ type: popular
 
 ## What's New
 
-The year got of to a good start with a wopping 14 new commands in this release!
+The year got off to a good start with a whopping 14 new commands in this release!
 
 ### SharePoint Embedded
 
@@ -40,7 +40,7 @@ For more information, check the following resources:
 
 ### SharePoint
 
-In this release, we've added four new commands to manage default column values for a specific document library or a folder within that library. This is a feature of SharePoint that's been around for quite a while, and our contributors found time (and reason) to finally add it to the CLI!
+In this release, we've added four new commands to manage default column values for a specific document library or a folder within that library. This feature of SharePoint has been around for quite a while, and our contributors finally found time (and reason) to add it to the CLI!
 
 To update the default value of a field in a library, run:
 
@@ -75,7 +75,7 @@ For more information, check the following resources:
 
 ### Microsoft Entra ID
 
-In this release, we added four new commands for working with Microsoft Entra ID roles. You can now add and update custom role definitions. For working with custom role definitions you'll need to know what resources actions are available. Retrieving these resource actions, also called role permissions, can be done by using the new command for listing role permissions. And lastly, we've added a new command to be able to deactivate role assignments in Privileged Identity Management (PIM).
+In this release, we added four new commands for working with Microsoft Entra ID roles. You can now add and update custom role definitions. For working with custom role definitions you'll need to know what resources actions are available. Retrieving these resource actions, also called role permissions, can be done by using the new command to list role permissions. And lastly, we've added a new command to be able to deactivate role assignments in Privileged Identity Management (PIM).
 
 To get a list of role permissions or resource actions in the Microsoft directory, run:
 
@@ -83,7 +83,7 @@ To get a list of role permissions or resource actions in the Microsoft directory
 m365 entra rolepermission list --resourceNamespace microsoft.directory
 ```
 
-To create a custom Microsoft Entra ID role definitions, run:
+To create a custom Microsoft Entra ID role definition, run:
 
 ```sh
 m365 entra roledefinition add --displayName 'Application Remover' --description 'Allows to remove any Entra ID application' --allowedResourceActions 'microsoft.directory/applications/delete'
@@ -95,7 +95,7 @@ To update an existing role definition:
 m365 entra roledefinition set --id fadbc488-151d-4431-9143-6abbffae759f --newDisplayName 'Application Remover' --description 'Allows to remove any Entra ID application' --allowedResourceActions 'microsoft.directory/applications/delete'
 ```
 
-To deactivate a PIM roleassignment for the current user, run:
+To deactivate a PIM role assignment for the current user, run:
 
 ```sh
 m365 entra pim role assignment remove --roleDefinitionName 'SharePoint Administrator'
@@ -110,9 +110,9 @@ For more information, check the following resources:
 
 ### Outlook
 
-We've also added a new command to update outlook mailbox settings.
+We've also added a new command to update Outlook mailbox settings.
 
-To update date, time format and time zone of the signed-in user, run:
+To update the date, time format and time zone of the signed-in user, run:
 
 ```sh
 m365 outlook mailbox settings set --dateFormat 'dd.MM.yyyy' --timeFormat 'H:mm' --timeZone 'Central Europe Standard Time' --language 'en-US'
