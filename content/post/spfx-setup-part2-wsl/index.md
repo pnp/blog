@@ -190,7 +190,7 @@ Of course, when you just use the `code .` command from the  terminal in WSL, VS 
 
 ## SPFx Toolkit for Visual Studio Code
 
-When you are working on SPFx projects in VS Code, you may use the SharePoint Framework Toolkit extension. This extension will help you at every stage of [SharePoint Framework development](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learning to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assistant dedicated to SharePoint Framework development. 
+When you are working on SPFx projects in VS Code, you may use the [SharePoint Framework Toolkit extension](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). This extension will help you at every stage of SharePoint Framework development. Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learning to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assistant dedicated for SharePoint Framework development. 
 
 ![SPFx Toolkit VS Code](images/spfx-toolkit-wsl2.png)
 
