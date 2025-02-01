@@ -1,5 +1,5 @@
 ---
-title: "Setup SharePoint Framework development environment Part 2 - Use WSL to boost your setup and development"
+title: "Setup SharePoint Framework development Environment Part 2 - Use WSL to boost your setup and development"
 date: 2025-02-28T01:00:00.000Z
 # post thumb
 images:
@@ -18,7 +18,7 @@ type: "regular"
 
 ## Intro
 
-When starting your journey with SharePoint Framework (SPFx) development, you always start with a basic setup of your development environment. In this post series, I would like to introduce you to different ways to get ready for SPFx development. Over the next few posts, I will try to briefly explain how to:
+When starting your journey with SharePoint Framework (SPFx) development, you always start with a basic setup of your development environment. In this post series, I would like to introduce you to different ways to prepare for SPFx development. Over the next few posts, I will try to briefly explain how to:
 
 - [perform local setup using Node Version Manager (NVM) or Node Version Switcher (NVS)](https://pnp.github.io/blog/post/spfx-setup-part1-nvm-nvs/) 
 - boost local setup using WSL (which is this post)
@@ -27,14 +27,14 @@ When starting your journey with SharePoint Framework (SPFx) development, you alw
 
 ## What is WSL?
 
-What if I told you that you can run a Linux on Windows without the need to setup any virtual machine using virtualbox or VMWare or separate booting or anything like that? That's right! Windows Subsystem for Linux (WSL) allows you to install and run Linux (such as Ubuntu, Kali, Debian or other) and use Linux applications, utilities, and Bash command-line tools directly on Windows. Yep just like that!
+What if I told you that you can run a Linux on Windows without the need to setup any virtual machine using Virtualbox or VMWare or separate booting or anything like that? That's right! Windows Subsystem for Linux (WSL) allows you to install and run Linux (such as Ubuntu, Kali, Debian, or others) and use Linux applications, utilities, and Bash command-line tools directly on Windows. Yep just like that!
 
 ## Why use WSL for your SPFx workspace setup and development?
 
-This is a good question. Why would you use WSL for your SPFx workspace setup and development? Well I may name a few reasons:
+This is a good question. Why would you use WSL for your SPFx workspace setup and development? Well, I may name a few reasons:
 
 - performance is a big one. WSL2 uses a full Linux kernel, which means it can handle system calls more efficiently. This results in better performance for applications like Node.js that rely heavily on system calls. WSL2 also offers faster file system performance, BUT only if the project files are stored within the Linux file system rather than the Windows file system. This reduces the overhead associated with file I/O operations. 
-- export/import your WSL environment. After you setup your dev environment, install all global dependencies and tooling, you can easily export your WSL environment as backup and import it when needed. This is very useful when you need to switch between machines or when you need to share your environment with others or simply you would like to start from scratch. 
+- export/import your WSL environment. After you set up your dev environment and install all global dependencies and tooling, you can easily export your WSL environment as a backup and import it when needed. This is very useful when you need to switch between machines when you need to share your environment with others or simply if you would like to start from scratch. 
 
 To perform a backup/export you may run:
 
@@ -50,7 +50,7 @@ wsl --import <Distro name> <Directory where you want to store the imported image
 
 ## How to set up WSL for SPFx development?
 
-Let's start with basic installtion of WSL. You may install WSL2 on Windows 10 (build higher than 18362, for lower build number it is possible to install WSL 1 but the setup steps is a lot more complex) and Windows 11. The installation process is very simple and straightforward. Simply run:
+Let's start with the basic installation of WSL. You may install WSL2 on Windows 10 (build higher than 18362, for a lower build number it is possible to install WSL 1 but the setup steps are a lot more complex). If you are using Windows 11 then you are pretty much ready to go! The installation process is very simple and straightforward. Simply run:
 
 ```sh
 wsl --install
@@ -60,11 +60,11 @@ After that simply restart your terminal and you are ready to go. Run `wsl --help
 
 ![wsl help](images/wsl-help.png)
 
-Next step is to install a Linux distribution. You may install Ubuntu, Debian, Kali or any other distribution available. What is really cool is that you may install a distribution you prefer on the Microsoft Store and then get it with a single click.
+The next step is to install a Linux distribution. You may install Ubuntu, Debian, Kali, or any other distribution available. What is cool is that you may install a distribution you prefer on the Microsoft Store and then get it with a single click.
 
 ![Ubuntu on Microsoft Store](images/MS-store.png)
 
-Of course you may install it using the command line as well. For example to install Ubuntu you may run:
+Of course, you may install it using the command line as well. For example, to install Ubuntu you may run:
 
 ```sh
 wsl --install Ubuntu
@@ -96,13 +96,13 @@ You may also set the default distribution to start when you run `wsl` command. A
 
 ![wsl ubuntu](images/wsl-ubuntu.png)
 
-Now let's do some basic setup for SharePoint Framework development. Before we start installing Node.js and other dependencies, let's first create a new user for our Ubuntu machine ans use it for our development. It's always a good practice to aviod using the root user for development purposes when running Linux. To create a new user, for example 'adam', you may run:
+Now let's do some basic setup for SharePoint Framework development. Before we start installing Node.js and other dependencies, let's first create a new user for our Ubuntu machine and use it for our development. It's always a good practice to avoid using the root user for development purposes when running Linux. To create a new user, for example, 'adam', you may run:
 
 ```sh
 useradd --create-home --shell /usr/bin/bash --user-group --groups  adm,dialout,cdrom,floppy,sudo,audio,dip,video,plugdev,netdev --password $(read -sp Password: pw ; echo $pw | openssl passwd -1 -stdin) adam
 ```
 
-Of course you need to run the above when running Ubuntu on WSL as root user. After that simply logout by running `exit` and then connect again as the user you just created.
+Of course, you need to run the above when running Ubuntu on WSL as the root user. After that simply log out by running `exit` and then connect again as the user you just created.
 
 BTW when you logout using the `exit` command, the Ubuntu will be still running in the background for some time. You may check that by running:
 
@@ -118,19 +118,19 @@ if you want to stop all running distributions you may run:
 wsl --shutdown
 ```
 
-Ok but now let's get back to setting up our Ubuntu environment for SPFx development. First let's login again as the user we created:
+Ok but now let's get back to setting up our Ubuntu environment for SPFx development. First, let's log in again as the user we created:
 
 ```sh
 wsl --distribution Ubuntu --user adam
 ```
 
-Now we of course need to install Node.js and you may do it directly or you may use NVM or NVS for that. I will of course use a Node Version Manager (in this case NVM) to install Node.js, and if your are curious why please read the [previous part of this series](https://pnp.github.io/blog/post/spfx-setup-part1-nvm-nvs/). To install NVM you may run:
+Now we of course need to install Node.js and you may do it directly or you may use NVM or NVS for that. I will of course use a Node Version Manager (in this case NVM) to install Node.js, and if you are curious why please read the [previous part of this series](https://pnp.github.io/blog/post/spfx-setup-part1-nvm-nvs/). To install NVM you may run:
 
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 ```
 
-After that we may install Node.js using NVM. For the currently latest version of SPFx which is 1.20 we need Node v18 so lets run:
+After that, we may install Node.js using NVM. For the currently latest version of SPFx which is 1.20 we need Node v18 so let's run:
 
 ```sh
 nvm install 18.20.3
@@ -148,7 +148,7 @@ Now we need to install the global dependencies for SPFx development, meaning Yeo
 npm install gulp-cli yo @microsoft/generator-sharepoint --global
 ```
 
-And that's it! You are ready to start your SPFx development using WSL2. Remember that you may export your WSL environment at any time and import it when needed using the commands I mentioned at the beginning of this post. That way you may backup your setup, and share it with others or simply start from scratch when needed.
+And that's it! You are ready to start your SPFx development using WSL2. Remember that you may export your WSL environment at any time and import it when needed using the commands I mentioned at the beginning of this post. That way you may back up your setup, and share it with others or simply start from scratch when needed.
 
 ## Let's compare the performance between WSL and Windows local setup on a sample solution
 
@@ -160,17 +160,17 @@ And let's see how long will take the scaffolding together with npm install.
 
 ![comparing npm install](images/comparing-npm-install.png)
 
-Now lets see the results. On the left side we have Ubuntu running on WSL2 and on the right side we have Windows. As you can see the npm install is a bit better on WSL2 than on Windows.
+Now let's see the results. On the left side, we have Ubuntu running on WSL2 and on the right side, we have Windows. As you can see the npm install is a bit better on WSL2 than on Windows.
 Now let's go a bit further and let's run the `gulp bundle` command on both setups and see how long it will take to bundle the solution for the very first time.
 
 ![comparing gulp bundle](images/comparing-gulp-bundle.png)
 
-Now the result is significantly better on WSL2 than on Windows. I would say it is uncomparable as in case of Ubuntu on WSL2 we are working in seconds and in case of Windows we are working in minutes. When we would run the `gulp bundle` command again, the result would be similar on both setups.
-And now let's run the `gulp package-solution` command on both setups and see how long it will take to package the solution.
+Now the result is significantly better on WSL2 than on Windows. I would say it is incomparable as in the case of Ubuntu on WSL2 we are working in seconds and in the case of Windows we are working in minutes. When we would run the `gulp bundle` command again, the result would be similar on both setups.
+Now let's run the `gulp package-solution` command on both setups and see how long it will take to package the solution.
 
 ![comparing gulp package](images/comparing-gulp-package.png)
 
-In this case the result is quite similar but still slightly better on WSL2 than on Windows.
+In this case, the result is quite similar but still slightly better on WSL2 than on Windows.
 
 ## VS Code support
 
@@ -186,11 +186,11 @@ Also after you connect, VS Code has and remote indicator that is presenting you 
 
 ![remote development indicator](images/remote-explorer-indicator.png)
 
-Of course when you just use the `code .` command from terminal in WSL, VS Code will open the project in WSL as well.
+Of course, when you just use the `code .` command from the  terminal in WSL, VS Code will open the project in WSL as well.
 
 ## SPFx Toolkit for Visual Studio Code
 
-When you are working on SPFx projects in VS Code, you may use the SharePoint Framework Toolkit extension. This extension will help you at every stage of [SharePoint Framework development](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learnig to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assitiant dedicated for SharePoint Framework development. 
+When you are working on SPFx projects in VS Code, you may use the SharePoint Framework Toolkit extension. This extension will help you at every stage of [SharePoint Framework development](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learning to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assistant dedicated to SharePoint Framework development. 
 
 ![SPFx Toolkit VS Code](images/spfx-toolkit-wsl2.png)
 
@@ -200,7 +200,7 @@ The coolest part is that it works with WSL as well without any additional setup.
 
 ## Summary
 
-Every setup has its pros and cons. When it comes to WSL, the performance is a big pro. The performance is better than on Windows, especially when it comes to file system operations. The export/import feature is also a big benefit. You may easily backup your setup, share it with others, or simply start from scratch when needed. In the end it is up to you which setup you will choose. I hope this post will help you to make a decision and start your journey with SPFx development using WSL2 and Ubuntu on Windows to combine the best from both worlds. 
+Every setup has its pros and cons. When it comes to WSL, the performance is a big pro. The performance is better than on Windows, especially when it comes to file system operations. The export/import feature is also a big benefit. You may easily back up your setup, share it with others, or simply start from scratch when needed. In the end, it is up to you which setup you will choose. I hope this post will help you to make a decision and start your journey with SPFx development using WSL2 and Ubuntu on Windows to combine the best of both worlds. 
 
 ## Resources
 
