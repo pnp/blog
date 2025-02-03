@@ -43,7 +43,7 @@ Demos:
 Demos:
 
 * [Peter Paul Kirschner](https://www.linkedin.com/in/petkir/) (ACP Cubido) – Building a kanban board Web Part with SPFx - Updated for SPFx 1.20
-* [Nishkalank Bezawada](https://www.linkedin.com/in/nishkalankbezawada/)  (Bravero) – Optimizing the Upgrade of Print List Item Command View Set Extension to SPFx 1.20
+* [Nishkalank Bezawada](https://www.linkedin.com/in/nishkalankbezawada/) (Bravero) – Integrating Copilot Agent to SPFx web part with SSO
 * [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) - Building a Document AI Assistant with OpenAI Assistant API
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
