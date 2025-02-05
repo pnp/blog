@@ -28,43 +28,43 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 ## More management capabilities - install and uninstall SPFx packages directly from VS Code
 
-In the last couple of releases we've been improving the management capabilities of the SPFx Toolkit and in this release we added the ability to install and uninstall SPFx packages directly from VS Code. This will allow you to manage your SPFx packages directly in the flow of your development process. With this capability now you can builde, package, deploy and now even install your app to a specific site all from VS Code.
+In the last couple of releases, we've been improving the management capabilities of the SPFx Toolkit and in this release, we added the ability to install and uninstall SPFx apps to any site directly from VS Code. This will allow you to manage your SPFx packages directly in the flow of your development process. With this capability now you can bundle, package, deploy, and now even install your app to a specific site all from VS Code.
 
 ![install](images/install.png)
 
-To read more about SPFx Toolkit manage capabilities check out our [wiki page about it](https://github.com/pnp/vscode-viva/wiki/5.3-Login-to-your-tenant-&-retrieve-environment-details#environment-details-and-manage-capabilities).
+To read more about SPFx Toolkit management capabilities check out our [wiki page about it](https://github.com/pnp/vscode-viva/wiki/5.3-Login-to-your-tenant-&-retrieve-environment-details#environment-details-and-manage-capabilities).
 
-## Update new, edit, view form to your SPFx form customizer using the new SPFx Toolkit Action
+## Update new, edit, and view form to your SPFx form customizer using the new SPFx Toolkit Action
 
-SPFx Toolkit actions are awesome boosters that will allow you to solve common developer or developer related scenarios that you might have in seconds. So this part of the extension allows you to generate upgrade or validation reports of your project, generate a CI/CD pipeline for your project, rename your project, and now even set the form customizer of any form and any list on your tenant. Simply select the action, provide the site URL, list title, content type title and then the GUIDs for each type of form you would like to modify and SPFx Toolkit will do the rest.
+SPFx Toolkit actions are awesome boosters that will allow you to solve common developer or developer-related scenarios that you might have in seconds. To name a few, actions allow you to generate upgrade or validation reports of your project, generate a CI/CD pipeline for your project, rename your project, and now even set the form customizer of any form and any list on your tenant. Simply select the action, provide the site URL, list title, content type title, and then the GUIDs for each type of form you would like to modify and SPFx Toolkit will do the rest.
 
 ![form-customizer](images/form-customizer.png)
 
-To read more about, checkout our [wiki](https://github.com/pnp/vscode-viva/wiki/5.5-Actions#set-form-customizer).
+To read more about it, check out our [wiki](https://github.com/pnp/vscode-viva/wiki/5.5-Actions#set-form-customizer).
 
 ## Simplified gulp bundle and package-solution usage
 
-In this release we rethinked and refactored the gulp task section to make it smaller and more functional. In order to do that we unified the bundle local and production task to a single item and we did the same with package-solution tasks. Now those tasks will show an additional prompt to select the environment you want to bundle or package your solution for.
+In this release, we rethinked and refactored the gulp task section to make it smaller and more functional. In order to do that, we unified the bundle of local and production tasks into a single item and we did the same with package-solution tasks. Now those tasks will show an additional prompt to select the environment you want to bundle or package your solution for.
 
 ![gulp-tasks](images/gulp-tasks.png)
 
 ## Refactored SPFx scaffolding form to filter additional dependencies based on the selected project type
 
-Improving current functionalities was a bit part of this release and among a few things we improved we also refactored the SPFx scaffolding form to filter additional dependencies based on the selected project type or extension type. This will help you pick the right dependencies or additional setup that is valid for the project type you selected. Till now all additional dependencies were shown for all project types which was a bit confusing, and could lead to making bad choices like installing PnP Reusable Property Pane Controls for an SPFx Command Set project, which makes no sense.
+Improving current functionalities was a big part of this release and among a few things we improved we also refactored the SPFx scaffolding form to filter additional dependencies based on the selected project type or extension type. This will help you pick the right dependencies or additional setup that is valid for the project type you selected. Till now all additional dependencies were shown for all project types which was a bit confusing and could lead to making bad choices like installing PnP Reusable Property Pane Controls for an SPFx Command Set project, which makes no sense.
 
 ![scaffolding-form](images/scaffolding-form.png)
 
-Besides that we added a new additional dependency which is available only for Application Customizers and allows you to install React and ReactDom. This was done in order to address the feed we noticed that a lot of the times the application customizers project was created to present some kind of additional UI in a popup or modal.
+Besides that, we added a new additional dependency which is available only for Application Customizers and allows you to install React and ReactDom. This was done in order to address the feed we noticed that a lot of the time the application customizers project was created to present some kind of additional UI in a popup or modal.
 
 ![application-customizer-react](images/application-customizer-react.png)
 
 ## Improvements done to SPFx Toolkit GitHub Copilot Chat participant
 
-SPFx Toolkit comes along with a dedicated @spfx Copilot Chat participant who is your AI assistant grounded for SharePoint Framework development. In this we added minor tweeks that allows better error handling with providing you a better response what might have gone wrong. We also added a new option in welcome view so that it will be easier for you to start a conversation with the SPFx Toolkit GitHub Copilot Chat participant from the very beginning.
+SPFx Toolkit comes along with a dedicated @spfx Copilot Chat participant who is your AI assistant grounded for SharePoint Framework development. In this, we added minor tweaks that allow better error handling by providing you with a better response to what might have gone wrong. We also added a new option in the welcome view so that it will be easier for you to start a conversation with the SPFx Toolkit GitHub Copilot Chat participant from the very beginning.
 
 ![ai](images/ai.png)
 
-Visit our wiki to learn more about the [SPFx Toolkit GitHub Copilot Chat participant](https://github.com/pnp/vscode-viva/wiki/8.-SPFx-Toolkit-GitHub-Chat-Participant) and it's capabilities.
+Visit our wiki to learn more about the [SPFx Toolkit GitHub Copilot Chat participant](https://github.com/pnp/vscode-viva/wiki/8.-SPFx-Toolkit-GitHub-Chat-Participant) and its capabilities.
 
 ## 👏 You ROCK 🤩
 
@@ -81,7 +81,7 @@ We don't plan to stop, we are already thinking of more awesome features we plan 
 
 ## 👍 Power of the community
 
-This extension would not have been possible if it weren’t for the awesome work done by the [Microsoft 365 & Power Platform Community](https://pnp.github.io/). Each sample gallery: SPFx web parts & extensions, and ACE samples & scenarios are all populated with the contributions done by the community. Many of the functionalities of the extension like upgrading, validating, and deploying your SPFx project, would not have been possible if it wasn’t for the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) tool. I would like to sincerely thank all of our awesome contributors! Creating this extension would not have been possible if it weren’t for the enormous work done by the community. You all rock 🤩.
+This extension would not have been possible if it hadn’t been for the awesome work done by the [Microsoft 365 & Power Platform Community](https://pnp.github.io/). Each sample gallery: SPFx web parts & extensions, and ACE samples & scenarios are all populated with the contributions done by the community. Many of the functionalities of the extension like upgrading, validating, and deploying your SPFx project, would not have been possible if it wasn’t for the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) tool. I would like to thank all of our awesome contributors sincerely! Creating this extension would not have been possible if it weren’t for the enormous work done by the community. You all rock 🤩.
 
 ![PnP community](images/parker-pnp.png)
 
