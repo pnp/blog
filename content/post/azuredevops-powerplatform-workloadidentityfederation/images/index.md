@@ -1,6 +1,6 @@
 ---
 title: "Secure Power Platform Deployments with Azure DevOps Workload Identity Federation"
-date: 2025-01-31T08:40:00-04:00
+date: 2025-01-31T01:00:00.000Z
 author: "Reshmee Auckloo"
 githubname: reshmee011
 categories: ["Community post"]
