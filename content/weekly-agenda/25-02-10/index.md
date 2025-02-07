@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 10th of February week
-date: 2025-02-06T11:20:50.832Z
+date: 2025-02-07T09:20:50.832Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -9,8 +9,9 @@ images:
   - images/weeklysummary06.png
 tags: []
 type: trending
-videos: null
-draft: true
+videos:
+  - https://www.youtube.com/watch?v=CA0G8SWshz8
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -57,6 +58,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [How to create and download PDF's Directly from Power Apps](https://www.youtube.com/watch?v=DUUtNwSK7Pg) by [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services, LLC)
 * [Introduction to Editorial Card web part for SharePoint](https://www.youtube.com/watch?v=pLibilYmdJM) by [Tina Chen ](https://www.linkedin.com/in/tina-chen-microsoft) (Microsoft) and 
 [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) 
 * [Extending Microsoft 365 with custom retention controls](https://www.youtube.com/watch?v=fFusSXR_7bs) by [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl) 
@@ -74,8 +76,6 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Building a Naming Refactoring tool for Power Apps](https://www.youtube.com/watch?v=f9zyRlMlVF4) by [Jean Paul Dosher](https://www.linkedin.com/in/jean-paul-dosher) 
 * [NOW ON DEMAND | SharePoint AMA (Ask Microsoft Anything | Jan 29, 2025)](https://www.youtube.com/watch?v=2WAIir3FnLA)
 
-
-
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Test a trigger | Power Platform Shorts](https://www.youtube.com/watch?v=epKWWNOMpW8)
@@ -83,8 +83,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 * [Power Apps Pulse January 2025](https://www.youtube.com/watch?v=91Wh13Xx9hQ)  
 * [Merck Innovates with Power Platform and Microsoft Copilot to Transform Operations](https://www.youtube.com/watch?v=GJZfZ_BGyn0)
 
-
-  
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -111,6 +109,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 6th of February 2025](https://www.youtube.com/watch?v=BAqTxITjuV0)
 * [Microsoft 365 & Power Platform weekly call – 4th of February, 2025](https://www.youtube.com/watch?v=VoPvNXn07KU)
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
@@ -126,6 +125,27 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 ![Community Recognition](../images/community-recognition-2025.png)
 
 ---
+
+## SharePoint Hackathon - March 3-17 2025
+
+We are excited to invite you to a hackathon dedicated to crafting exceptional employee experiences using AI and the latest SharePoint features! 💡
+
+Everyone is welcome to this hackathon - develoers, designers, end users and more... please see more at https://aka.ms/sharepoint/hackathon and register today!
+
+All attendees which submitted their UX design, agent story or SPFx powered experience will get a Credly badge.
+
+![SharePoint Hackathon](../images/sharepoint-hackathon-promo.png)
+
+---
+
+## Microsoft 365 Conference at Orlando in May 2025
+
+We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May 2025. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
+
+{{< youtube CA0G8SWshz8 >}}
+
+---
+
 
 ## Upcoming events
 
