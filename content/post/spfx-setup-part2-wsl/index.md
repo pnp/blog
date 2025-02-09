@@ -27,11 +27,11 @@ When starting your journey with SharePoint Framework (SPFx) development, you alw
 
 ## What is WSL?
 
-What if I told you that you can run a Linux on Windows without the need to setup any virtual machine using Virtualbox or VMWare or separate booting or anything like that? That's right! Windows Subsystem for Linux (WSL) allows you to install and run Linux (such as Ubuntu, Kali, Debian, or others) and use Linux applications, utilities, and Bash command-line tools directly on Windows. Yep just like that!
+What if I told you that you can run Linux on Windows without the need to setup any virtual machine using Virtualbox or VMWare or separate booting or anything like that? That's right! Windows Subsystem for Linux (WSL) allows you to install and run a Linux Distribution (such as Ubuntu, Kali, Debian, or others) and use Linux applications, utilities, and Bash command-line tools directly on Windows. Yep just like that!
 
 ## Why use WSL for your SPFx workspace setup and development?
 
-This is a good question. Why would you use WSL for your SPFx workspace setup and development? Well, I may name a few reasons:
+But why would you use WSL for your SPFx workspace setup and development? Well, I may name a few reasons:
 
 - performance is a big one. WSL2 uses a full Linux kernel, which means it can handle system calls more efficiently. This results in better performance for applications like Node.js that rely heavily on system calls. WSL2 also offers faster file system performance, BUT only if the project files are stored within the Linux file system rather than the Windows file system. This reduces the overhead associated with file I/O operations. 
 - export/import your WSL environment. After you set up your dev environment and install all global dependencies and tooling, you can easily export your WSL environment as a backup and import it when needed. This is very useful when you need to switch between machines when you need to share your environment with others or simply if you would like to start from scratch. 
@@ -182,7 +182,7 @@ By installing the Remote Development extension pack you may easily browse your W
 
 ![remote development view](images/remote-explorer-view.png)
 
-Also after you connect, VS Code has and remote indicator that is presenting you are connected to WSL which all brings a quite smooth experience.
+Also after you connect, VS Code has a remote indicator that is presenting you as being connected to WSL which all brings a quite smooth experience.
 
 ![remote development indicator](images/remote-explorer-indicator.png)
 
@@ -190,7 +190,7 @@ Of course, when you just use the `code .` command from the  terminal in WSL, VS 
 
 ## SPFx Toolkit for Visual Studio Code
 
-When you are working on SPFx projects in VS Code, you may use the [SharePoint Framework Toolkit extension](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). This extension will help you at every stage of SharePoint Framework development. Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learning to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assistant dedicated for SharePoint Framework development. 
+When you are working on SPFx projects in VS Code, you may use the [SharePoint Framework Toolkit extension](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit). This extension will help you at every stage of SharePoint Framework development. Doesn't matter if you are just starting your journey with SPFx or you are an experienced developer, this extension will help you from learning to boosting code, managing your solutions, and even deploying them to SharePoint. And now it comes along with an AI assistant dedicated to SharePoint Framework development. 
 
 ![SPFx Toolkit VS Code](images/spfx-toolkit-wsl2.png)
 
