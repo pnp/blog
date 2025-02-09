@@ -36,18 +36,6 @@ But why would you use WSL for your SPFx workspace setup and development? Well, I
 - performance is a big one. WSL2 uses a full Linux kernel, which means it can handle system calls more efficiently. This results in better performance for applications like Node.js that rely heavily on system calls. WSL2 also offers faster file system performance, BUT only if the project files are stored within the Linux file system rather than the Windows file system. This reduces the overhead associated with file I/O operations. 
 - export/import your WSL environment. After you set up your dev environment and install all global dependencies and tooling, you can easily export your WSL environment as a backup and import it when needed. This is very useful when you need to switch between machines when you need to share your environment with others or simply if you would like to start from scratch. 
 
-To perform a backup/export you may run:
-
-```sh
-wsl --export <Distro name> <File name.tar>
-```
-
-And then to import it you may run:
-
-```sh
-wsl --import <Distro name> <Directory where you want to store the imported image> <Exported file name.tar>
-```
-
 ## How to set up WSL for SPFx development?
 
 Let's start with the basic installation of WSL. You may install WSL2 on Windows 10 (build higher than 18362, for a lower build number it is possible to install WSL 1 but the setup steps are a lot more complex). If you are using Windows 11 then you are pretty much ready to go! The installation process is very simple and straightforward. Simply run:
@@ -148,7 +136,19 @@ Now we need to install the global dependencies for SPFx development, meaning Yeo
 npm install gulp-cli yo @microsoft/generator-sharepoint --global
 ```
 
-And that's it! You are ready to start your SPFx development using WSL2. Remember that you may export your WSL environment at any time and import it when needed using the commands I mentioned at the beginning of this post. That way you may back up your setup, and share it with others or simply start from scratch when needed.
+And that's it! You are ready to start your SPFx development using WSL2. Remember that you may export your WSL environment at any time and import it when needed. That way you may back up your setup, and share it with others or simply start from scratch when needed.
+
+To perform a backup/export you may run:
+
+```sh
+wsl --export <Distro name> <File name.tar>
+```
+
+And then to import it you may run:
+
+```sh
+wsl --import <Distro name> <Directory where you want to store the imported image> <Exported file name.tar>
+```
 
 ## Let's compare the performance between WSL and Windows local setup on a sample solution
 
