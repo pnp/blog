@@ -197,7 +197,7 @@ NPM Workspaces allow multiple SPFx projects to be managed within a **single repo
     
 * **Improved team collaboration** – Developers work on a single, unified codebase instead of multiple repositories.
     
-![NPM Workspace Big Picture](images/workspace-big-picture.png)
+![NPM Workspace Big Picture](images/workspace-big-picture.jpg)
 
 ### Folder Structure with NPM Workspaces
 
@@ -366,7 +366,7 @@ spfx-library-component/ 🔹 Shared Library Component
 | Automatic updates across projects | Manual—update reference in each project and redeploy |  |
 | Best for | Managing multiple SPFx projects that share utilities, APIs, configs | Centralized versioning of reusable UI components |
 
-![NPM Workspace Big Picture](imagesnpm-workspace-vs-library-component.png)
+![NPM Workspaces vs Library Component](images/npm-workspace-vs-library-component.png)
 
 ### Summary: When to Use npm Workspaces
 
