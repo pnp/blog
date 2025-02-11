@@ -36,7 +36,7 @@ Npm workspaces offer a modern solution for managing multiple SPFx projects withi
     
 * Updates are **instantly available** to all SPFx solutions when rebuilt.
     
-![NPM Workspace Overview](images/NPM-Workspace.png)
+![NPM Workspace Overview](images/spfx-workspace-monorepo.jpg)
 
 The `package.json` file at the **root of the monorepo** defines all workspaces, ensuring that SPFx projects and shared modules are properly managed.
 
