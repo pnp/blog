@@ -26,9 +26,12 @@ Introduced in npm 7, **workspaces** are a feature designed for managing multiple
 
 Npm workspaces offer a modern solution for managing multiple SPFx projects within a single repository, known as a monorepo. This approach addresses several challenges associated with managing multiple SPFx solutions, such as dependency management, version control, and build efficiency. By centralizing dependencies and organizing projects under a unified structure, npm workspaces streamline the development process, reduce redundancy, and simplify the build and deployment processes. This makes them an appealing choice for modern SharePoint development, enhancing workflow efficiency and maintainability.
 
+[Getting Started with NPM workspaces](https://ruanmartinelli.com/blog/npm-7-workspaces-1/)
+
+
 ### **How It Works**
 
-* All SPFx projects are placed inside a **unified monorepo** (`packages/` folder).
+* All SPFx projects are placed inside a **unified monorepo**.
     
 * Dependencies are **installed once** at the root level (`node_modules/`), ensuring consistency.
     
