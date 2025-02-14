@@ -46,7 +46,7 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos this time:
 
-* [Pratima Dongre](https://www.linkedin.com/in/pratima-gaikwad/) - Inventory management in Power Apps
+* [Pratima Gaikwad](https://www.linkedin.com/in/pratima-gaikwad/) - Inventory management in Power Apps
 * [Terho Antila](https://www.linkedin.com/in/terhoantila/) - Copilot Studio - Take Your Agents to the Next Level
 * [Mohammed Abdelsattar](https://www.linkedin.com/in/mohamedsattar/) (Avanade) - Power Platform Offline Capabilities - The Art of working offline with Power Apps
 
