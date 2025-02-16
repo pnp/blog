@@ -3,7 +3,7 @@ title: "Start your SharePoint Framework journey with SPFx Toolkit"
 date: 2025-02-16T01:00:00.000Z
 # post thumb
 images:
-  - images/main.png // TODO: Update the image
+  - images/main.png
 #author
 author: "Adam Wójcik"
 githubname: Adam-it
