@@ -1,6 +1,6 @@
 ---
 title: "Setup SharePoint Framework development Environment Part 2 - Use WSL to boost your setup and development"
-date: 2025-02-28T01:00:00.000Z
+date: 2025-02-17T01:00:00.000Z
 # post thumb
 images:
   - images/main.png
