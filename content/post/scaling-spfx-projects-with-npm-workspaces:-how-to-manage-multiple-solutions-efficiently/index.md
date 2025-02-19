@@ -322,7 +322,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 
 # **Exploring Other Alternatives: SPFx Library Components**
 
-**A common alternative to the npm library is SPFx Library Components.** They provide a structured and version-controlled method to share reusable code across multiple SPFx solutions. Instead of duplicating components or utilities, teams can maintain a **centralized library** that various SPFx web parts and extensions can reference. It's important to note that there are some limitations when using library components compared to npm workspaces. For example, you cannot update the solution version when a new version of SPFx is released using the library component, which you can do with npm workspaces. Ultimately, it depends on the use case.
+**A common alternative to the npm workspace is SPFx Library Component.** They provide a structured and version-controlled method to share reusable code across multiple SPFx solutions. Instead of duplicating components or utilities, teams can maintain a **centralized library** that various SPFx web parts and extensions can reference. It's important to note that there are some limitations when using library components compared to npm workspaces. For example, you cannot update the solution version when a new version of SPFx is released using the library component, which you can do with npm workspaces. Ultimately, it depends on the use case.
 
 #### **How It Works:**
 
@@ -399,7 +399,7 @@ spfx-library-component/ 🔹 Shared Library Component
 
 # **Further Reading & Implementation Guide**
 
-This blog was inspired by a blog from one of the PnP community members, whose insights on SPFx development and NPM Workspaces are invaluable. His detailed blog and video walkthrough provide additional guidance on setting up and managing a monorepo for SPFx.
+This blog was inspired by a blog from one of the PnP community members. His detailed blog and video walkthrough provide additional guidance on setting up and managing a monorepo for SPFx.
 
 If you're looking for a **step-by-step implementation guide**, check out these resources to get hands-on experience setting up **SPFx projects with NPM Workspaces**.
 
