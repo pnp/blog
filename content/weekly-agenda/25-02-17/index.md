@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 17th of February week
-date: 2025-02-12T11:49:34.990Z
+date: 2025-02-14T02:49:34.990Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -11,7 +11,7 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
-draft: true
+draft: false
 ---
 
 We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -46,7 +46,7 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos this time:
 
-* Pratima Dongre - Inventory management in Power Apps
+* [Pratima Gaikwad](https://www.linkedin.com/in/pratima-gaikwad/) - Inventory management in Power Apps
 * [Terho Antila](https://www.linkedin.com/in/terhoantila/) - Copilot Studio - Take Your Agents to the Next Level
 * [Mohammed Abdelsattar](https://www.linkedin.com/in/mohamedsattar/) (Avanade) - Power Platform Offline Capabilities - The Art of working offline with Power Apps
 
@@ -59,19 +59,17 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ### Viva Connections & SharePoint Framework bi-weekly community Call - 20th of February
 
-* Thursday, 20th of February 2025, 7:00 AM PT / 2:00 PM GMT
+* Thursday, 20th of February 2025, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos:
 
-* [Nishkalank Bezawada](https://www.linkedin.com/in/nishkalankbezawada/) (Bravero) – Building Microsoft Clarity for modern SharePoint extension to latest SPFx v1.20.0
+* [Nishkalank Bezawada](https://www.linkedin.com/in/nishkalankbezawada/) (Bravero) – Building Microsoft Clarity for modern SharePoint extension - SPFx v1.20.0
 * [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas/) (Avanade) – Extend PnP Modern Search solution to add a like button on search results
 * [Franck Cornu ](https://www.linkedin.com/in/franckcornu/)(PWC Canada) – Leverage PnP Modern Search components and Microsoft Search in your Docusaurus documentation
 
-
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
 
 ---
 
@@ -79,11 +77,17 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Teams Shared Voicemail for Basic Call Flows](https://www.youtube.com/watch?v=XpX-jNKiBVw) by [Martin Heusser](https://www.linkedin.com/in/martin-heusser117/) (Houlihan Lokey)
+* [Copilot Scenario Framework: Using the Modern Collaboration Architecture (MOCA)](https://www.youtube.com/watch?v=On4BKs1-J_I) by [Rishi Nicolai](https://www.linkedin.com/in/rishinicolai/) (Microsoft)
+* [Combat digital distractions using AI & Microsoft Copilot](https://www.youtube.com/watch?v=In-DqsyvOYY) by [Rishi Nicolai](https://www.linkedin.com/in/rishinicolai/) (Microsoft)
+* [Introducing flexible layouts in SharePoint](https://www.youtube.com/watch?v=iOO45zHQBQ8) by [Katelyn Helm](https://www.linkedin.com/in/katelynhelms/) (Microsoft) and  [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)  
+* [How to build Microsoft Graph Custom Connector for Microsoft365 Roadmap content](https://www.youtube.com/watch?v=sffc86Thsr0) by [Mohammed Ame](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services)
+* [Karuana Gatimu counts down to Microsoft 365 Community Conference 2025](https://www.youtube.com/watch?v=MGwK47ekYAo) by [Karuana Gatimu](https://www.linkedin.com/in/karuanagatimu/) (Microsoft)
 * [How to create a Web Part that populates Lists with SVGs](https://www.youtube.com/watch?v=YxMM0F5xkzE) by [Luise Freese](https://www.linkedin.com/in/luisefreese/)
 * [Viva Engage Monday Masterclass: Week 2 - Community Management Overview](https://www.youtube.com/watch?v=9m4_yp1KSe8) by [Allison Michels](https://www.linkedin.com/in/michelsallison)  (Microsoft), [Adrienne Trudeau](https://www.linkedin.com/in/adriennetrudeau)  (Microsoft), [Anna Pope](https://www.linkedin.com/in/anna-pope) (Microsoft), and [Irewole Akande](https://www.linkedin.com/in/irewoleakande) (Microsoft)  
-* [Introduction to SharePoint Pages Authoring Accessibility Assistant](https://www.youtube.com/watch?v=4-yuhvrFe-Q) by [Tina Chen](https://www.linkedin.com/in/tina-chen-microsoft) (Microsoft)  and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)  
+* [Introduction to SharePoint Pages Authoring Accessibility Assistant](https://www.youtube.com/watch?v=4-yuhvrFe-Q) by [Tina Chen](https://www.linkedin.com/in/tina-chen-microsoft) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)  
 * [Building a Writing Coach declarative Agent for Microsoft 365 Copilot](https://www.youtube.com/watch?v=ODP1WQTVlHk) by [Eric Scherlinger](https://www.linkedin.com/in/ericsche) (Microsoft)     
-* [Updates on Jsonify - Convert your HTML to List Formatting JSON](https://www.youtube.com/watch?v=iE4WpK-1JgI) by [Chris Kent ](https://www.linkedin.com/in/thechriskent) (Takeda)
+* [Updates on Jsonify - Convert your HTML to List Formatting JSON](https://www.youtube.com/watch?v=iE4WpK-1JgI) by [Chris Kent](https://www.linkedin.com/in/thechriskent) (Takeda)
 * [What's new and next for Viva Engage - Feb 2025](https://www.youtube.com/watch?v=bKx0aAhMH4g)
 
 
@@ -116,6 +120,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 13th of February 2025](https://www.youtube.com/watch?v=amy5r5KtEi0)
 * [Microsoft 365 & Power Platform weekly call – 11th of February, 2025](https://www.youtube.com/watch?v=R4x2MDZUmKA)
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
