@@ -292,7 +292,7 @@ How the Positive Domino Effect Works
 
 Imagine you update a **PnP JS API function** in `shared-library/services/SharePointService.ts` to optimize performance.
 
-1. **Traditional SPFx Approach** (Without NPM Workspaces or library component):
+1. Traditional SPFx Approach (Without NPM Workspaces or library component):
     
 
 * Each SPFx project has **its own version** of `SharePointService.ts`.
@@ -302,7 +302,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 * Some projects may **still use outdated, less efficient versions**.
     
 
-2. **NPM Workspaces Approach**:
+2. NPM Workspaces Approach:
     
 
 * The optimized function in `shared-library` is **immediately available** to all SPFx projects.
