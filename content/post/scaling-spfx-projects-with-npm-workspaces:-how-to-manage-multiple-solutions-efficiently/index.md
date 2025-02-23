@@ -392,7 +392,7 @@ spfx-library-component/ 🔹 Shared Library Component
     * You want more control over when updates are pulled into individual projects, avoiding immediate changes across all projects.
         
     
-    ### **Conclusion**
+    ### Conclusion
     
     For SPFx developers, npm workspaces provide a powerful solution by enabling centralized dependency management, facilitating easier code reuse, and enhancing scalability. As more SPFx solutions adopt npm workspaces, the efficiency gains increase, reducing maintenance efforts while ensuring all projects remain synchronized with the latest updates.
     
