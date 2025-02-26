@@ -13,7 +13,7 @@ tags:
   - SharePoint
   - SharePoint Embedded
   - SharePoint Premium
-type: popular
+type: regular
 ---
 
 🎺 Shout it from the rooftops! We've just published the first minor version in 2025 of the CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces 14 (!!) new commands that will enhance the quality of your Microsoft 365 experience.
