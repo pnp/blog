@@ -86,7 +86,7 @@ This release also brings several enhancements and bug fixes to elevate the overa
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 70 issues that are actively being developed and a 103 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
+Right now, there are over 70 issues that are actively being developed and 103 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 ## Contributors
 
