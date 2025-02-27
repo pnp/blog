@@ -48,7 +48,7 @@ For more information, check the following resources:
 
 In the previous release, we added a command to update Outlook mailbox settings. In this release, we're adding the command to retrieve these settings for a mailbox.
 
-To get mailbox settings of the signed-in user, run:
+To get the mailbox settings of the signed-in user, run:
 
 ```sh
 m365 outlook mailbox settings get
