@@ -11,12 +11,11 @@ tags:
   - CLI for Microsoft 365
   - Entra ID
   - SharePoint
-  - SharePoint Embedded
-  - SharePoint Premium
+  - Outlook
 type: popular
 ---
 
-🎺 It's that time of the month again! We've just published a new minor version of the CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces new commands that will enhance the quality of your Microsoft 365 experience.
+It's that time of the month again! We've just published a new minor version of the CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces new commands that will enhance the quality of your Microsoft 365 experience.
 
 > Explore the [release notes](https://aka.ms/cli-m365/notes) for a neat overview of all the exciting features and improvements. 
 
@@ -80,7 +79,15 @@ For more information check the following resources:
 
 ## What's changed
 
-This release also brings several enhancements and bug fixes to elevate the overall CLI experience. For instance, we've added a sample about getting a report of possibly unused Microsoft 365 groups. We've also aligned some option names and did a lot of other housekeeping.
+This release also brings several enhancements and bug fixes to elevate the overall CLI experience. For instance we've aligned some option names and did a lot of other housekeeping.
+
+### New sample script - Finding obsolete Microsoft 365 groups with PowerShell
+
+We've also added a sample about getting a report of possibly unused Microsoft 365 groups. The sample script uses the CLI for Microsoft 365 to gather insights about SharePoint file activity within the SharePoint site connected to the Microsoft 365 group. It also checks the age of email conversations in the group mailbox. And lastly it checks the amount of people (group owners, members and guests) in the group. The script generates a report based on these statistics that can help us understand what groups are possibly obsolete.
+
+For more information check the following resource:
+
+[Finding obsolete Microsoft 365 groups with PowerShell](https://pnp.github.io/cli-microsoft365/sample-scripts/entra/find-obsolete-m365-groups/)
 
 ## Upcoming Changes
 
