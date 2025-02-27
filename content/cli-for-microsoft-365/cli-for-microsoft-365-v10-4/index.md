@@ -46,7 +46,7 @@ For more information, check the following resources:
 
 ### Outlook
 
-In the previous release we've added a command to be update Outlook mailbox settings. In this release we're adding the command to retrieve these settings for a mailbox.
+In the previous release, we added a command to update Outlook mailbox settings. In this release, we're adding the command to retrieve these settings for a mailbox.
 
 To get mailbox settings of the signed-in user, run:
 
