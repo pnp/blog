@@ -54,7 +54,7 @@ To get the mailbox settings of the signed-in user, run:
 m365 outlook mailbox settings get
 ```
 
-To get mailbox settings of a given user, run:
+To get the mailbox settings of a given user, run:
 
 ```sh
 m365 outlook mailbox settings get --userName john.doe@contoso.onmicrosoft.com
