@@ -25,7 +25,7 @@ type: popular
 ### Microsoft Entra ID
 
 In this release, we added two new commands for working with Microsoft Entra ID. You can now revoke sign-in sessions for a given user. Something that may be necessary when certain security events take place where resetting a user's password may not be enough. 
-We've also added an additional command for working with custom role definitions. When creating custom role definitions you'll need to know what resources actions are available. These resource actions, also called role permissions, are categorised in namespaces. We've added a command to be able to list these namespaces, making it easier to find the correct resource actions.
+We've also added an additional command for working with custom role definitions. When creating custom role definitions you'll need to know what resources actions are available. These resource actions, also called role permissions, are categorized in namespaces. We've added a command to list these namespaces, making it easier to find the correct resource actions.
 
 To get a list of resource namespaces, run:
 
