@@ -80,7 +80,7 @@ For more information check the following resources:
 
 ## What's changed
 
-This release also brings several enhancements and bug fixes to elevate the overall CLI experience. For instance, we've added a sample about getting a report of possibly unused Microsoft 365 groups. We've also aligned some option names and did a lot of other house keeping.
+This release also brings several enhancements and bug fixes to elevate the overall CLI experience. For instance, we've added a sample about getting a report of possibly unused Microsoft 365 groups. We've also aligned some option names and did a lot of other housekeeping.
 
 ## Upcoming Changes
 
