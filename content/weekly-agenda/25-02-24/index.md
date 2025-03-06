@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 24th of February week
-date: 2025-02-21T02:49:34.990Z
+date: 2025-02-14T02:49:34.990Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,12 +10,11 @@ images:
 tags: []
 type: regular
 videos:
-  - https://www.youtube.com/watch?v=Gfi3PkdfLiw
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
 ---
 
-This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
+We want to give you a better overview on what's happening each week. This is a summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
@@ -50,9 +49,11 @@ Demos this time:
 * Rob Attrell – Creating a Custom Card-based Form with SharePoint List Formatting 
 * [Yves Habersaat](https://www.linkedin.com/in/yhabersaat/) (Sword Group) – Building a Service Desk declarative agent connected to a REST API and a SharePoint datasource
 
+
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+
 
 ---
 
@@ -60,8 +61,6 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [List formatting - List embedded integrated with Power Apps](https://www.youtube.com/watch?v=s40X1dGu390) by [André Lage](https://www.linkedin.com/in/antoniolage/) (Datalynx AG)
-* [Join us for SharePoint hackathon - March 3-17, 2025](https://www.youtube.com/watch?v=Gfi3PkdfLiw) by [Emily Mancini](https://www.linkedin.com/in/eemancini/), [Julie Turner](https://www.linkedin.com/in/juliemturner/), [Luise Freese](https://www.linkedin.com/in/luisefreese/), [Susan Hanley](https://www.linkedin.com/in/susanhanley/), [Andrew Connell](ell), [David Warner](https://www.linkedin.com/in/davidwarnerii/), [Eric Overfield](https://www.linkedin.com/in/ericoverfield/), [Marc Anderson](https://www.linkedin.com/in/marcanderson/) & [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
 * [Implementing Single sign-on (SSO) with Viva Connections bot powered ACEs create with .NET](https://www.youtube.com/watch?v=bGLTU_IgaRQ) by [Paolo Pialorsi](https://linkedin.com/in/paolopialorsi) (Microsoft)
 * [Vegas Awaits! Heather Cook invites you to the epic Microsoft 365 Community Conference (May 6-8)](https://www.youtube.com/watch?v=LtPq-1YAZjY)
 * [Using new PnPjs Fluent Queries - Simplify your API access](https://www.youtube.com/watch?v=SM_IXqRqO-I) by [Dan Toft](https://linkedin.com/in/dan-toft) (Evobis)  
@@ -107,7 +106,6 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Viva Connections and SharePoint Framework community call 20th of February 2025](https://www.youtube.com/watch?v=e3f-j8uWGSw)
 * [Microsoft 365 & Power Platform weekly call – 18th of February, 2025](https://www.youtube.com/watch?v=zXqOAv9fF9U)
 * [Office add-ins community call - February 2025](https://www.youtube.com/watch?v=zrt87SY5ldQ)
 
@@ -130,15 +128,15 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 We are excited to invite you to a hackathon dedicated to crafting exceptional employee experiences using AI and the latest SharePoint features! 💡
 
-Everyone is welcome to this hackathon - developers, designers, end users and more... please see more at https://aka.ms/sharepoint/hackathon and register today!
+Everyone is welcome to this hackathon - develoers, designers, end users and more... please see more at https://aka.ms/sharepoint/hackathon and register today!
 
 All attendees which submitted their UX design, agent story or SPFx powered experience will get a Credly badge.
 
-{{< youtube Gfi3PkdfLiw >}}
+![SharePoint Hackathon](../images/sharepoint-hackathon-promo.png)
 
 ---
 
-## Microsoft 365 Conference at Las Vegas in May 2025
+## Microsoft 365 Conference at Orlando in May 2025
 
 We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May 2025. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
 
