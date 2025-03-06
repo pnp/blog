@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary07.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
@@ -141,7 +141,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 We are excited to invite you to a hackathon dedicated to crafting exceptional employee experiences using AI and the latest SharePoint features! 💡
 
-Everyone is welcome to this hackathon - develoers, designers, end users and more... please see more at https://aka.ms/sharepoint/hackathon and register today!
+Everyone is welcome to this hackathon - developers, designers, end users and more... please see more at https://aka.ms/sharepoint/hackathon and register today!
 
 All attendees which submitted their UX design, agent story or SPFx powered experience will get a Credly badge.
 
@@ -149,7 +149,7 @@ All attendees which submitted their UX design, agent story or SPFx powered exper
 
 ---
 
-## Microsoft 365 Conference at Orlando in May 2025
+## Microsoft 365 Conference at Las Vegas in May 2025
 
 We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May 2025. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
 
