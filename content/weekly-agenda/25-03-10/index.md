@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 10th of March week
-date: 2025-03-06T09:40:40.214Z
+date: 2025-03-07T02:40:40.214Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -12,7 +12,7 @@ type: trending
 videos:
   - https://www.youtube.com/watch?v=Gfi3PkdfLiw
   - https://www.youtube.com/watch?v=CA0G8SWshz8
-draft: true
+draft: false
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -60,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Recreating LINEST from Excel with Power Apps User Defined Functions](https://www.youtube.com/watch?v=kqB02OsM-dk) by [Daniel LeMay](https://www.linkedin.com/in/thelowcodist/) (PowerApps911)
 * [Introduction to the Power Platform Connectors and Copilot Extensibility](https://www.youtube.com/watch?v=0APf-P3BQ5A) by [Shefaali Patankar](https://www.linkedin.com/in/shefaalinp) (Microsoft) and [Sabin Nair](https://www.linkedin.com/in/sabinn) (Microsoft) 
 * [A SharePoint invitation - Join Adam Harmetz and team for the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=L2aHh5qi0SQ) by [Adam Harmetz](https://www.linkedin.com/in/adam-harmetz) (Microsoft) 
 * [Introduction to PnP Reusable React Controls](https://www.youtube.com/watch?v=qN-tEku-75A) by [Michaël Maillot](https://www.linkedin.com/in/micha%c3%abl-maillot-92b650334) (Onepoint) 
@@ -103,9 +104,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 6th of March 2025](https://www.youtube.com/watch?v=qM71_Fq6jMc)
 * [Microsoft 365 & Power Platform weekly call – 4th of March, 2025](https://www.youtube.com/watch?v=7Tfk6ebKuN8)
-
-
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
@@ -157,7 +157,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Experts Live Denmark 2025](https://conference.expertslive.dk/#/?lang=en), March 5, 2025 - Copenhagen, Denmark
 * [Azure AI Connect - Global AI Bootcamp](https://www.communitydays.org/event/2025-03-10/azure-ai-connect-global-ai-bootcamp), March 10 - 14, 2025, Virtual
 * [Dynamics User Group Northeast Regional](https://www.communitydays.org/event/2025-03-12/dynamics-user-group-northeast-regional), March 12, 2025 - Malvern, Pennsylvania, United States
 * [aMP Yaounde](https://www.communitydays.org/event/2025-03-13/amp-yaounde), March 13, 2025 - Yaoundé, Cameroon
