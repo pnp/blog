@@ -4,14 +4,10 @@ title: "Scaling SPFx Projects with NPM Workspaces: How to Manage Multiple Soluti
 date: 2025-02-11T21:40:00-04:00
 author: "Ahmad Jad Alhak"
 githubname: ahmad-jad-alhak
-# don't change
 categories: ["Community post"]
-# link to the thumbnail image for the post
 images:
 - images/Thumbnail.png
-# don't change
 tags: ["SPFx", "NPM Workspaces", "Library Component", "PnP"]
-# don't change
 type: "regular"
 
 ---
