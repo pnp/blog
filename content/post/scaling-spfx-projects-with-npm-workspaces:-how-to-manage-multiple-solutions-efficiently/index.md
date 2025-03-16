@@ -20,7 +20,7 @@ As SharePoint Framework (SPFx) solutions become more complex, managing multiple 
 
 In this post, we’ll look at how NPM workspaces can enhance your SPFx development workflow and explain why workspaces are becoming a more appealing choice for modern SharePoint development.
 
-### What Are npm Workspaces?
+## What Are npm Workspaces?
 
 Introduced in npm 7, **workspaces** are a feature designed for managing multiple projects within a single repository, commonly called a **monorepo**. Workspaces allow projects within the monorepo to share dependencies, making version management easier, reducing redundancy, and simplifying the build and deployment processes.
 
@@ -29,7 +29,7 @@ Npm workspaces offer a modern solution for managing multiple SPFx projects withi
 [Getting Started with NPM workspaces](https://ruanmartinelli.com/blog/npm-7-workspaces-1/)
 
 
-### How It Works
+## How It Works
 
 * All SPFx projects are placed inside a **unified monorepo**.
     
@@ -184,7 +184,7 @@ spfx-projects/             🔹 Folder containing multiple independent SPFx solu
 
 If `formatDate.ts` needs an update, **every project must be modified separately**—a maintenance nightmare.
 
-### How NPM Workspaces Solve These Issues
+## How NPM Workspaces Solve These Issues
 
 NPM Workspaces allow multiple SPFx projects to be managed within a **single repository (monorepo)**, where dependencies are centrally installed and maintained.
 
@@ -273,7 +273,7 @@ To summarize, here are some issues that npm workspaces address:
 | Performance & Maintenance | Higher maintenance effort due to redundant dependencies | Lower maintenance as dependencies are installed once for all projects |
 | Collaboration | Teams work on isolated projects, often duplicating work | Teams collaborate on a unified codebase, reducing duplication |
 
-# The Domino Effect in NPM Workspaces: How Scaling Benefits Grow with More SPFx Projects
+## The Domino Effect in NPM Workspaces: How Scaling Benefits Grow with More SPFx Projects
 
 One of the biggest advantages of using **NPM Workspaces** for SPFx development is the **Domino Effect**—where a single change in shared code can **automatically propagate across multiple projects**, improving efficiency at scale.
 
@@ -288,11 +288,11 @@ How the Positive Domino Effect Works
 * **Easier Security & Performance Updates** → A single change in `shared-services` can enhance security across **every consuming SPFx solution**.
     
 
-### Example: How a Small Change Has a Big Impact
+**Example: How a Small Change Has a Big Impact**
 
 Imagine you update a **PnP JS API function** in `shared-library/services/SharePointService.ts` to optimize performance.
 
-1. Traditional SPFx Approach (Without NPM Workspaces or library component):
+**1. Traditional SPFx Approach (Without NPM Workspaces or library component):**
     
 
 * Each SPFx project has **its own version** of `SharePointService.ts`.
@@ -302,7 +302,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 * Some projects may **still use outdated, less efficient versions**.
     
 
-2. NPM Workspaces Approach:
+**2. NPM Workspaces Approach:**
     
 
 * The optimized function in `shared-library` is **immediately available** to all SPFx projects.
@@ -312,7 +312,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 * Every solution benefits from **performance improvements without extra effort**.
     
 
-### Scaling the Domino Effect: More Projects = Greater Efficiency Gains
+ **Scaling the Domino Effect: More Projects = Greater Efficiency Gains**
 
 | **Number of SPFx Projects** | **Traditional Approach (Without Workspaces)** | **NPM Workspaces Approach** |
 | --- | --- | --- |
@@ -320,7 +320,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 | **5-10 Projects** | Code duplication increases, version mismatches appear | Changes scale across all projects, reducing maintenance |
 | **10+ Projects** | Updating shared logic becomes time-consuming and error-prone | Every fix, feature, or enhancement is applied effortlessly |
 
-# Exploring Other Alternatives: SPFx Library Components
+## Exploring Other Alternatives: SPFx Library Components
 
 **A common alternative to the npm workspace is SPFx Library Component.** They provide a structured and version-controlled method to share reusable code across multiple SPFx solutions. Instead of duplicating components or utilities, teams can maintain a **centralized library** that various SPFx web parts and extensions can reference. It's important to note that there are some limitations when using library components compared to npm workspaces. For example, you cannot update the solution version when a new version of SPFx is released using the library component, which you can do with npm workspaces. Ultimately, it depends on the use case.
 
@@ -371,7 +371,7 @@ spfx-library-component/ 🔹 Shared Library Component
 
 ![NPM Workspaces vs Library Component](images/npm-workspace-vs-library-component.png)
 
-### Summary: When to Use npm Workspaces
+## Summary: When to Use npm Workspaces
 
 * **Use npm Workspaces** when:
     
@@ -385,19 +385,19 @@ spfx-library-component/ 🔹 Shared Library Component
         
 * **Use SPFx Libraries** when:
     
-    * You need to create a highly reusable, standalone library that may be used across multiple projects or repositories.
+    * You need to create a reusable, standalone library that may be used across multiple projects or repositories.
         
     * Your organization prefers managing separate repositories for each project or has complex deployment requirements.
         
     * You want more control over when updates are pulled into individual projects, avoiding immediate changes across all projects.
         
     
-    ### Conclusion
+    ## Conclusion
     
     For SPFx developers, npm workspaces provide a powerful solution by enabling centralized dependency management, facilitating easier code reuse, and enhancing scalability. As more SPFx solutions adopt npm workspaces, the efficiency gains increase, reducing maintenance efforts while ensuring all projects remain synchronized with the latest updates.
     
 
-# Further Reading & Implementation Guide
+## Further Reading & Implementation Guide
 
 This blog was inspired by a blog from one of the PnP community members. His detailed blog and video walkthrough provide additional guidance on setting up and managing a monorepo for SPFx.
 
