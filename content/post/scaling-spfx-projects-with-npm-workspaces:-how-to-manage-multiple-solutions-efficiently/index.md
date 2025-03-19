@@ -320,7 +320,7 @@ Imagine you update a **PnP JS API function** in `shared-library/services/SharePo
 
 **A common alternative to the npm workspace is SPFx Library Component.** They provide a structured and version-controlled method to share reusable code across multiple SPFx solutions. Instead of duplicating components or utilities, teams can maintain a **centralized library** that various SPFx web parts and extensions can reference. It's important to note that there are some limitations when using library components compared to npm workspaces. For example, you cannot update the solution version when a new version of SPFx is released using the library component, which you can do with npm workspaces. Ultimately, it depends on the use case.
 
-#### How It Works:
+### How It Works:
 
 * A **separate SPFx Library Component** is created and packaged as a `.sppkg` file.
     
