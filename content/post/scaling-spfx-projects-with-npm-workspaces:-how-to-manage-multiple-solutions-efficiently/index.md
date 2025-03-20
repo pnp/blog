@@ -1,7 +1,7 @@
 ---
 
 title: "Scaling SPFx Projects with NPM Workspaces: How to Manage Multiple Solutions Efficiently"
-date: 2025-02-11T21:40:00-04:00
+date: 2025-03-19T21:40:00-04:00
 author: "Ahmad Jad Alhak"
 githubname: ahmad-jad-alhak
 categories: ["Community post"]
