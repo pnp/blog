@@ -38,7 +38,7 @@ Demos:
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 27th of March
 
-* Thursday, 27th of March, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 27th of March, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
