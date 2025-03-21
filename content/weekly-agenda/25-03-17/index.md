@@ -78,6 +78,7 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+
 * [Export Large Data Sets of rows to Excel with Power Automate](https://www.youtube.com/watch?v=8iuutHvbStg) by [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services)
 * [Join Jason Moore and the OneDrive and Lists teams in Vegas at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=GAoGRcGta2U) by [Jason Moore](https://www.linkedin.com/in/jas-mo/) (Microsoft)
 * [Microsoft & Josh Bersin webinar: The employee experience platform evolves in the era of AI](https://www.youtube.com/watch?v=58PRigpjzOw) by [Lucy Hitz](https://www.linkedin.com/in/lucy-hitz-505baa39/) (Microsoft), [Josh Bersin](https://www.linkedin.com/in/bersin/) (The Josh Bersin Company), [Kathi Enderes](https://www.linkedin.com/in/kathienderes/) (The Josh Bersin Company) & [Prerna Ajmera](https://www.linkedin.com/in/prerna-ajmera-363780b/) (Microsoft)
@@ -101,6 +102,7 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Transforming Employee Experiences w/ Stunning Dashboards in Viva Connections | SharePoint Hackathon](https://www.youtube.com/watch?v=xI-V-BG5OCs) with [Catherine Chuaga](https://www.linkedin.com/in/wanjiru-chuaga) (Microsoft), [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft), [Tejas Mehta](https://www.linkedin.com/in/tejas-mehta-4b1454/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX | SharePoint Hackathon](https://www.youtube.com/watch?v=3U-pKN0-ikc) with [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft), [John Nguyen](https://www.linkedin.com/in/msjonguy/) (Microsoft), [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 
+
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Enhance data accuracy with choice columns | Power Platform Shorts](https://www.youtube.com/watch?v=vuzyrwEmBew)
@@ -120,6 +122,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 * [Changes on SharePoint Framework (SPFx) permission grants in Microsoft Entra ID](https://devblogs.microsoft.com/microsoft365dev/changes-on-sharepoint-framework-spfx-permission-grants-in-microsoft-entra-id/)
 * [Microsoft 365 Certification control spotlight: Data in transit](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-in-transit/)
+
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
@@ -191,6 +194,10 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
+
+* [Azure AI Connect - Global AI Bootcamp](https://www.communitydays.org/event/2025-03-10/azure-ai-connect-global-ai-bootcamp), March 10 - 14, 2025, Virtual
+* [Dynamics User Group Northeast Regional](https://www.communitydays.org/event/2025-03-12/dynamics-user-group-northeast-regional), March 12, 2025 - Malvern, Pennsylvania, United States
+* [aMP Yaounde](https://www.communitydays.org/event/2025-03-13/amp-yaounde), March 13, 2025 - Yaoundé, Cameroon
 * [AI Agent & Copilot Summit](https://www.communitydays.org/event/2025-03-17/ai-agent-and-copilot-summit-na), March 17-20, 2025 - San Diego, California, United States
 * [Digital Workplace Conference New Zealand](https://www.communitydays.org/event/2025-03-18/digital-workplace-conference-new-zealand), March 17 - 19, 2025 - Auckland, New Zealand
 * [North America MCT Summit](https://www.communitydays.org/event/2025-03-21/2025-north-america-mct-summit), March 21-24, 2025 - Redmond, Washington, United States

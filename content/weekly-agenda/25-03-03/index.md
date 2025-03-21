@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary09.png
 tags: []
-type: regular
+type: trending
 videos:
   - https://www.youtube.com/watch?v=Gfi3PkdfLiw
   - https://www.youtube.com/watch?v=CA0G8SWshz8
