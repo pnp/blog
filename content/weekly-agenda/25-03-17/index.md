@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 17th of March week
-date: 2025-03-13T11:47:28.039Z
+date: 2025-03-14T02:47:28.039Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -33,7 +33,6 @@ Demos:
 
 * [Ayça Baş](https://www.linkedin.com/in/aycabas/) (Microsoft) – Create your first Custom Engine Agent with Microsoft Teams Toolkit
 * [April Dunnam ](https://www.linkedin.com/in/aprildunnam/) (Microsoft) – Getting started on creating autonomous agent with Copilot Studio
-* [Rama Krishnamoorthy](https://www.linkedin.com/in/ramasridhar/) (Microsoft) – Getting started on creating autonomous agent with Copilot Studio
 
 ---
 
@@ -79,6 +78,11 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+
+* [Export Large Data Sets of rows to Excel with Power Automate](https://www.youtube.com/watch?v=8iuutHvbStg) by [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services)
+* [Join Jason Moore and the OneDrive and Lists teams in Vegas at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=GAoGRcGta2U) by [Jason Moore](https://www.linkedin.com/in/jas-mo/) (Microsoft)
+* [Microsoft & Josh Bersin webinar: The employee experience platform evolves in the era of AI](https://www.youtube.com/watch?v=58PRigpjzOw) by [Lucy Hitz](https://www.linkedin.com/in/lucy-hitz-505baa39/) (Microsoft), [Josh Bersin](https://www.linkedin.com/in/bersin/) (The Josh Bersin Company), [Kathi Enderes](https://www.linkedin.com/in/kathienderes/) (The Josh Bersin Company) & [Prerna Ajmera](https://www.linkedin.com/in/prerna-ajmera-363780b/) (Microsoft)
+* [OneDrive Customer Office Hours | March 2025](https://www.youtube.com/watch?v=uEpfudZ2xag) by [Arwa Tyebkhan](https://www.linkedin.com/in/arwa-tyebkhan/) (Microsoft), [Stephen Rice](https://www.linkedin.com/in/srice08/) (Microsoft) and [Trent Green](https://www.linkedin.com/in/trent-green/) (Microsoft)
 * [Deep M365Con learning with Laura and Rez](https://www.youtube.com/watch?v=2Femia5ytRo) by  [Laura Rogers](https://www.linkedin.com/in/iw-mento) (IW Mentor) and [Noorez Khamis](https://www.linkedin.com/in/noorez) (Creospark) and [Mark Kashman](https://www.linkedin.com/in/mark-kashman) (Microsoft)
 * [Introduction to Microsoft Teams App CLI](https://www.youtube.com/watch?v=f-eptVZMyLk) by [John Miller](https://www.linkedin.com/in/therealjohn)  (Microsoft)
 * [Baking up a Holiday Recipe Sharing Power App](https://www.youtube.com/watch?v=xQDDVoJAXsw) by [Stephanie Marshall](https://www.linkedin.com/in/stephanie-marshall-95b1b82b) (Quisitive)
@@ -90,6 +94,13 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Creating personal views for Power Apps](https://www.youtube.com/watch?v=VdeduM0kUWI) by [Eliane Burgers](https://www.linkedin.com/in/elianne-b-48946864) (BLIS Digital)  
 * [Partner Spotlight: Shure at Microsoft Ignite with Karuana Gatimu](https://www.youtube.com/watch?v=JN6DhtwaHTQ)
 
+[SharePoint Hackathon](https://aka.ms/sharepoint/hackathon) live stream recordings:
+
+* [Kickoff to Innovation: SharePoint Hackathon Launch](https://www.youtube.com/watch?v=XtpB1bEH5oo) with [CJ Tan](https://www.linkedin.com/in/c-j-tan/) (Microsoft), [Ed Averett](https://www.linkedin.com/in/edaverett/) (Microsoft), [Kripal Kavi](https://www.linkedin.com/in/kripalkavi/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Building Beautiful SharePoint Portals: Latest Features in Action | SharePoint Hackathon](https://www.youtube.com/watch?v=0Lf66EUEieE) with [Melissa Torres](https://www.linkedin.com/in/melissa-torres-177b0814/) (Microsoft), [Katelyn Helms](https://www.linkedin.com/in/katelynhelms/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) 
+* [Unlocking Efficiency: SharePoint Agents in Action | SharePoint Hackathon](https://www.youtube.com/watch?v=bQ4wsx-6mms) with [Eric Gradel](https://www.linkedin.com/in/ericgradel/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Transforming Employee Experiences w/ Stunning Dashboards in Viva Connections | SharePoint Hackathon](https://www.youtube.com/watch?v=xI-V-BG5OCs) with [Catherine Chuaga](https://www.linkedin.com/in/wanjiru-chuaga) (Microsoft), [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft), [Tejas Mehta](https://www.linkedin.com/in/tejas-mehta-4b1454/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX | SharePoint Hackathon](https://www.youtube.com/watch?v=3U-pKN0-ikc) with [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft), [John Nguyen](https://www.linkedin.com/in/msjonguy/) (Microsoft), [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -110,7 +121,8 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
 * [Changes on SharePoint Framework (SPFx) permission grants in Microsoft Entra ID](https://devblogs.microsoft.com/microsoft365dev/changes-on-sharepoint-framework-spfx-permission-grants-in-microsoft-entra-id/)
-* 
+* [Microsoft 365 Certification control spotlight: Data in transit](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-in-transit/)
+
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
@@ -127,6 +139,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 13th of March 2025](https://www.youtube.com/watch?v=g7nc3QBdC9s)
+* [Office add-ins community call - February 2025](https://www.youtube.com/watch?v=vrvfNAG3MdU)
 * [Microsoft 365 & Power Platform weekly call – 11th of March, 2025](https://www.youtube.com/watch?v=AWvv0edqllI)
 
 
@@ -179,6 +193,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
+
 
 * [Azure AI Connect - Global AI Bootcamp](https://www.communitydays.org/event/2025-03-10/azure-ai-connect-global-ai-bootcamp), March 10 - 14, 2025, Virtual
 * [Dynamics User Group Northeast Regional](https://www.communitydays.org/event/2025-03-12/dynamics-user-group-northeast-regional), March 12, 2025 - Malvern, Pennsylvania, United States
