@@ -51,7 +51,7 @@ For more information, check the following resources:
 
 ### SharePoint
 
-This release, we're also adding two new commands for SharePoint. It's now possible to add new home sites, making it easier to create new Viva Connections experiences, each on a standalone home site. Or how about removing sections on a sharepoint page. It's now possible in our effort to make it easier to design SharePoint sites using scripting, for example in a migration scenario.
+In this release, we're also adding two new commands for SharePoint. It's now possible to add new home sites, making it easier to create new Viva Connections experiences, each on a standalone home site. Or how about removing sections on a SharePoint page. It's now possible in our effort to make it easier to design SharePoint sites using scripting, for example, in a migration scenario.
 
 To add a new home site, run:
 
