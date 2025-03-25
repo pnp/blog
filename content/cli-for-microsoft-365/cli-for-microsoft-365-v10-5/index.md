@@ -93,7 +93,7 @@ For more information, check the following resources:
 
 ## What's changed
 
-This release also brings some other great changes. Aside from several enhancements and bug fixes to elevate the overall CLI experience, there's a couple of things we'd like to highlight.
+This release also brings some other great changes. Aside from several enhancements and bug fixes to elevate the overall CLI experience, there are a couple of things we'd like to highlight.
 
 ### New sample script - Check what users assigned to a specific role are allowed to do in a tenant
 
