@@ -123,7 +123,7 @@ For more information check the following resource:
 
 ### Using Federated Identity in GitHub actions
 
-Deploying apps in GitHub workflows is getting easier! Drop all your certificates and implement Federated Credentials! Federated identity is quite recent addition to Entra ID, which means you can establish a trust relationship between a third-party service like GitHub and Entra ID. It means that you can start using credentialless authentication for the CLI for Microsoft 365! You'll be able to configuring an Entra application to allow GitHub Actions to sign in. Deploying an SPFx app using GitHub Actions becomes easier like this. You won't have to keep certificate expiration dates in mind and you don't need to be afraid that your certificate is compromised... No credentials, better security!
+Deploying apps in GitHub workflows is getting easier! Drop all your certificates and implement Federated Credentials! Federated identity is a quite recent addition to Entra ID, which means you can establish a trust relationship between a third-party service like GitHub and Entra ID. It means that you can start using credentialless authentication for the CLI for Microsoft 365! You'll be able to configure an Entra application to allow GitHub Actions to sign in. Deploying an SPFx app using GitHub Actions becomes easier like this. You won't have to keep certificate expiration dates in mind and you don't need to be afraid that your certificate is compromised... No credentials, better security!
 
 Federated Identity for GitHub actions has currently been added to the `m365 login` command. Signing into the CLI using federated identity within a GitHub workflow can therefore be done as follows:
 
