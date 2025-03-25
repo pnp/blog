@@ -78,14 +78,14 @@ If you click on the **App Catalog Details** view, you will be able to see a bunc
 
 This not only lists the apps in the catalog, but you can also able to perform different operations.
 
-> 📝 As of now, tenant-wide extensions don’t have management options available, but they might be introduced in future releasesw
+> 📝 As of now, tenant-wide extensions don’t have management options available, but they might be introduced in future releases.
 
 Lets look into each of the manage options available to app catalogs:
 
 1. **Deploy & Retract:**
    The Deploy and Retract commands are used for managing app availability. Deploy makes the app available for installation, whereas Retract reverts the deployed app to a disabled state, preventing users from installing it on sites.
 
-   <video src="images/App_Deploy_Retract.mp4" controls="controls"></video>
+   <video src="images/App_Deploy_Retract.mp4" controls="controls" style="width: 100%;"></video>
 
 2. **Remove:**
    The remove action helps you to completely removes the app from app catalog site.
@@ -95,21 +95,21 @@ Lets look into each of the manage options available to app catalogs:
 3. **Enable & Disable:**
    The Enable action makes the app available to your site, allowing users to add the app from the SharePoint Store, whereas Disable removes the app from the SharePoint Store, preventing users from adding it to the site.
 
-   <video src="images/App_Enable_Disable.mp4" controls="controls"></video>
+   <video src="images/App_Enable_Disable.mp4" controls="controls" style="width: 100%;"></video>
 
 4. **Install & Uninstall:**
    Once the app is deployed to the app catalog, you might want to use it on one or more sites.
 
    Using the Install action, you can install the app by simply passing the site URL, whereas the Uninstall action removes the app from your site in case you no longer need it.
 
-   <video src="images/App_Install_Uninstall.mp4" controls="controls"></video>
+   <video src="images/App_Install_Uninstall.mp4" controls="controls" style="width: 100%;"></video>
 
 5. Upgrade:
    The Upgrade action is used to upgrade the app in the selected site collection when you have already pushed an update to the existing package in the app catalog.
 
    When you deploy an updated version of the existing package, the app in the site collection does not upgrade automatically; so this action performs the upgrade for you.
 
-   <video src="images/App_Upgrade.mp4" controls="controls">
+   <video src="images/App_Upgrade.mp4" controls="controls" style="width: 100%;">
    </video>
 
 Now we have seen the different management capabilities of SharePoint Framework Toolkit available in the views. But we are not yet seen the **'/manage'** participant in GitHub Copilot Chat, right? lets jump into it.
@@ -137,7 +137,7 @@ This command is in beta and is fine-tuned to provide help in coding your SharePo
 **Example in action:**
 Let’s ask Copilot for help in providing a code snippet to retrieve items from a list.
 
-<video src="images/Extension_Code_Command.mp4" controls="controls">
+<video src="images/Extension_Code_Command.mp4" controls="controls" style="width: 100%;">
 </video>
 
 2. **`/manage`command**:
@@ -147,7 +147,7 @@ This command is in beta and will allow you to ask for and retrieve any kind of d
 **Example in action:**
 Let’s ask Copilot to check whether there is any files available in the document library without opening a browser or navigating to the document library in SharePoint.
 
-<video src="images/Extension_Manage_Command.mp4" controls="controls">
+<video src="images/Extension_Manage_Command.mp4" controls="controls" style="width: 100%;">
 </video>
 
 3. **`/new` command:**
@@ -157,14 +157,14 @@ If you’re new to SPFx and unsure where to start or what extensibilities are av
 **Example in action:**
 Let’s ask Copilot to create a new project by finding out if there’s a way to customize a SharePoint list using SPFx extensibility.
 
-<video src="images/Extension_Command_New.mp4" controls="controls">
+<video src="images/Extension_Command_New.mp4" controls="controls" style="width: 100%;">
 </video>
 
 4. **`/setup` command:**
 
 Dedicated to providing information on how to set up your local workspace for SharePoint Framework development.
 
-<video src="images/Extension_Setup_Command.mp4" controls="controls">
+<video src="images/Extension_Setup_Command.mp4" controls="controls" style="width: 100%;">
 </video>
 
 ## ✅ Conclusion
