@@ -23,7 +23,7 @@ It's that time of the month again! We've just published a new minor version of t
 
 ### Microsoft Graph
 
-In this release, we added three new commands to manage directory extensions for Entra ID through the Microsoft Graph. Directory extensions are a way to add additional properties to Entra ID resources: users, groups, administrative units, applications, devices or organizations. They're a flexible way to enrich your company data with information that's relevant to you. Using the below new commands you can define new directory extensions, remove these definitions, and retrieve them.
+In this release, we added three new commands to manage directory extensions for Entra ID through the Microsoft Graph. Directory extensions are a way to add additional properties to Entra ID resources: users, groups, administrative units, applications, devices, or organizations. They're a flexible way to enrich your company data with information that's relevant to you. Using the below new commands you can define new directory extensions, remove these definitions, and retrieve them.
 
 To define a new directory extension for saving GitHub information for Entra users, run:
 
