@@ -172,6 +172,19 @@ Now let's run the `gulp package-solution` command on both setups and see how lon
 
 In this case, the result is quite similar but still slightly better on WSL2 than on Windows.
 
+## Serve SPFx solution on WSL
+
+As in any SPFx development the most used commands will be the `gulp bundle`, `gulp package-solution`, and `gulp serve`. Also, as for any first time setup you will need install the developer certificate into your Windows Certificate Manager and thats where it's a bit tricky when you are using WSL. Luckly for us [Don Kirkham already wrote a great blog post](https://donkirkham.com/blog/spfx-wsl/) on how to do that. 
+On Windows machines running `gulp trust-dev-cert` will do everything for you but this approach will not work in WSL because the command runs on Linux but when you are debugging your solution you will be using the web browser which runs in Windows. So you need to install the developer certificate that was generated for WSL manually into the Windows Certificate Manager. If you wont do that your SPFx solution will always show a notification to run `gulp serve` as SharePoint will be asking for your solution manifest file which should be present `localhost:4321` but if you don't install a valid certificate the browser will block the request.
+So lets go over the process to setup your developer certificate for SPFx solution running on WSL. First run the `gulp trust-dev-cert` command in your SPFx solution directory. This will generate a developer certificate for you. Now we need to convert the certificate to the correct filetype for Windows and place the certificate in the root folder of our project with the following command:
+
+```sh
+openssl x509 -inform PEM -in ~/.rushstack/rushstack-serve.pem -outform DER -out ./spfx-dev-cert.cer
+```
+
+Now you should see the `spfx-dev-cert.cer` file in the root folder of your project. Right click and select `download` and save the file to any location on your Windows machine. After that install it by importing the Certificate to the Current User store. It's very important to pick the Trusted Root Certificate Authorities store when importing the certificate, otherwise it will not work. 
+After that you should be able to run `gulp serve` and debug your SPFx solution running on WSL in your web browser.
+
 ## VS Code support
 
 VS Code has some pretty nice integrations when it comes to WSL. 
@@ -206,5 +219,6 @@ Every setup has its pros and cons. When it comes to WSL, the performance is a bi
 
 - [Overview of the SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [WSL documentation](https://learn.microsoft.com/en-us/windows/wsl/about)
+- [Developing SPFx solutions using WSL](https://donkirkham.com/blog/spfx-wsl/)
 - [SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
 - [Join the Microsoft 365 Developer Program]( https://developer.microsoft.com/en-us/microsoft-365/dev-program)
