@@ -49,7 +49,7 @@ Demos:
 
 * [Ahmad Jad AlHak](https://www.linkedin.com/in/ahmad-jad-al-hak/) (Campana & Schott ) – Using useReducer Hook for Managing Complex State in SPFx projects
 * [Sandeep P S](https://www.linkedin.com/in/sandeepps1299/)(EY) – Build an enterprise employee directory with SPFx
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) (Hitachi Energy) – SPFx Toolkit - boost your SPFx development with AI capabilities
+* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) – SPFx Toolkit - boost your SPFx development with AI capabilities
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
