@@ -34,7 +34,7 @@ m365 graph directoryextension add --name gitHubWorkAccountName --appName Contoso
 To retrieve a specific directory extension, run:
 
 ```sh
-m365 directoryextension get --name extension_105be60b603845fea385e58772d9d630_GitHubWorkAccount --appName ContosoApp
+m365 graph directoryextension get --name extension_105be60b603845fea385e58772d9d630_GitHubWorkAccount --appName ContosoApp
 ```
 
 To remove the directory extension, run:
