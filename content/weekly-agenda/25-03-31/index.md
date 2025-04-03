@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 31st of March week
-date: 2025-03-27T11:22:20.325Z
+date: 2025-03-28T02:22:20.325Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -10,9 +10,8 @@ images:
 tags: []
 type: trending
 videos:
-  - https://www.youtube.com/watch?v=Gfi3PkdfLiw
   - https://www.youtube.com/watch?v=CA0G8SWshz8
-draft: true
+draft: false
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -31,10 +30,9 @@ This is the agenda for the upcoming week:
 
 Demos: 
 
-* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) – SharePoint Embedded - Monthly booking – April
-* [Bob German](https://www.linkedin.com/in/bgerman/)(Microsoft) – Create a Declarative Agent with an API Plugin
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) & [Yogesh Ratnaparkhi](https://www.linkedin.com/in/yogeshratna/) (Microsoft) – Adding SharePoint Embedded copilot to your app
+* [Bob German](https://www.linkedin.com/in/bgerman/) (Microsoft) – Create a Declarative Agent with an API Plugin
 * [Nate Tennant](https://www.linkedin.com/in/nathantennant/) (Microsoft) & [Alexander Spitsyn](https://www.linkedin.com/in/2zzyq/)  (Microsoft) –  Latest in SharePoint automation - using lightweight approvals & quick steps
-
 
 ---
 
@@ -46,10 +44,9 @@ Demos:
 
 Demos:
 
-
-* [Ahmad Jad AlHak](https://www.linkedin.com/in/ahmad-jad-al-hak/) (Campana & Schott ) – Using useReducer Hook for Managing Complex State in SPFx projects
+* [Ahmad Jad AlHak](https://www.linkedin.com/in/ahmad-jad-al-hak/) (Campana & Schott) – Using useReducer Hook for Managing Complex State in SPFx projects
 * [Sandeep P S](https://www.linkedin.com/in/sandeepps1299/)(EY) – Build an enterprise employee directory with SPFx
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) (Hitachi Energy) – SPFx Toolkit - boost your SPFx development with AI capabilities
+* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) – SPFx Toolkit - boost your SPFx development with AI capabilities
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -59,7 +56,9 @@ Demos:
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-
+* [How to Create a Modern People Picker in Power Apps](https://www.youtube.com/watch?v=FWxNDYwU2S4) by [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services, LLC)
+* [Communication and Collaboration in the era of AI | Microsoft keynote, Enterprise Connect 2025](https://www.youtube.com/watch?v=9qMU4_gqnpU) by [Ilya Bukshteyn](https://www.linkedin.com/in/ilyabu/) (Microsoft), [Kerry Perez Heffernan](https://www.linkedin.com/in/kerry-perez-heffernan-1b64452/) (Microsoft) & [Snorre Kjesbu](https://www.linkedin.com/in/snorrekjesbu/) (Cisco)
+* [Join Miranda in Vegas | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=nJicLxh1QJc) by [Miranda Jones](https://www.linkedin.com/in/miranda-n-jones/) (Microsoft)
 * [Building advance page commenting feature with SPFx](https://www.youtube.com/watch?v=_QBTpaH6Mt4) by [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas) (Avanade)    
 * [MVP of MVPs: Laurie Pottmeyer invites you Vegas! | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=p0gTBZEPUfA) by [Laurie Pottmeyer](https://www.linkedin.com/in/lauriepottmeyer) (Microsoft)
 * [Create your first Declarative Agent for Microsoft 365 Copilot](https://www.youtube.com/watch?v=VDhRFMH3Qbs) by [Bob German](https://www.linkedin.com/in/bgerman) (Microsoft)    
@@ -75,6 +74,7 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Unlocking Efficiency: SharePoint Agents in Action | SharePoint Hackathon](https://www.youtube.com/watch?v=bQ4wsx-6mms) with [Eric Gradel](https://www.linkedin.com/in/ericgradel/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Transforming Employee Experiences w/ Stunning Dashboards in Viva Connections | SharePoint Hackathon](https://www.youtube.com/watch?v=xI-V-BG5OCs) with [Catherine Chuaga](https://www.linkedin.com/in/wanjiru-chuaga) (Microsoft), [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft), [Tejas Mehta](https://www.linkedin.com/in/tejas-mehta-4b1454/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX | SharePoint Hackathon](https://www.youtube.com/watch?v=3U-pKN0-ikc) with [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft), [John Nguyen](https://www.linkedin.com/in/msjonguy/) (Microsoft), [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Celebrating Creativity: SharePoint Hackathon Awards Ceremony | SharePoint Hackathon](https://www.youtube.com/watch?v=lnO8gsIO2Zk) with [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
@@ -115,6 +115,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 27th of March 2025](https://www.youtube.com/watch?v=sHjTvac5o5A)
 * [Microsoft 365 & Power Platform weekly call – 25th of March, 2025](https://www.youtube.com/watch?v=EwOWlPiaF18)
 
 
@@ -129,18 +130,6 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
 ![Community Recognition](../images/community-recognition-2025.png)
-
-## SharePoint Hackathon - March 3-17 2025
-
-We were overwhelmed with the number of submissions as part of the hackathon and have been excited to go through them. **Thank you** for being part of this 👏🧡
-
-We still have the [Award Ceremony coming up on 26th of March at 9 AM PT](https://www.youtube.com/watch?v=lnO8gsIO2Zk) - you don't want to miss this 🥇🥈🥉
-
-See discussions and more details from https://aka.ms/sharepoint/hackathon ℹ️
-
-
-{{< youtube Gfi3PkdfLiw >}}
-
 
 
 ## Microsoft 365 Conference at Las Vegas in May 2025
