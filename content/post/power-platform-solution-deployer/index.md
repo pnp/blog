@@ -51,7 +51,9 @@ From a CoE perspective, it is key to have access to global tools which can work 
 
 So... What's in the box? 🎁😁🎁 This article will present the solution from a functional point of view. I share more technical information about how to set it up on my GitHub repository below.
 
-[Download the Solution from GitHub]()
+
+[Download the Solution from GitHub](https://github.com/ValentinMaz/Power-Platform-Samples/tree/main/Solution%20Deployer)
+
 
 I got the occasion to demo this solution in a former Power Platform community call, you can find the recording below:
 
