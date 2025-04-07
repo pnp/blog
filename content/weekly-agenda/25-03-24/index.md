@@ -1,6 +1,7 @@
 ---
 title: Weekly Agenda - 24th of March week
-date: 2025-03-21T02:39:08.051Z
+date: 2025-03-21T07:39:08.051Z
+
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -8,10 +9,11 @@ categories:
 images:
   - images/weeklysummary12.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=Gfi3PkdfLiw
   - https://www.youtube.com/watch?v=CA0G8SWshz8
+
 draft: false
 ---
 
@@ -38,7 +40,8 @@ Demos:
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 27th of March
 
-* Thursday, 27th of March, 8:00 AM PT / 3:00 PM GMT
+
+* Thursday, 27th of March, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
@@ -57,6 +60,7 @@ Also: 📷 Picture Time with community in Together Mode!
 ## New videos 
 
 Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
+
 
 * [Deploying to Azure with Microsoft Teams Toolkit](https://www.youtube.com/watch?v=9ADA9nKdKb0) by [John Miller](https://www.linkedin.com/in/therealjohn/) (Microsoft)
 * [Join Vesa in Vegas | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=U5miQDzi6TA) by  [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
@@ -139,7 +143,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ![Community Recognition](../images/community-recognition-2025.png)
 
-
 ## SharePoint Hackathon - March 3-17 2025
 
 We were overwhelmed with the number of submissions as part of the hackathon and have been excited to go through them. **Thank you** for being part of this 👏🧡
@@ -150,6 +153,8 @@ See discussions and more details from https://aka.ms/sharepoint/hackathon ℹ️
 
 
 {{< youtube Gfi3PkdfLiw >}}
+
+
 
 ## Microsoft 365 Conference at Las Vegas in May 2025
 
