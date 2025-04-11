@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 7th of April week
-date: 2025-04-03T10:37:24.566Z
+date: 2025-04-03T02:37:24.566Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -11,11 +11,11 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
-draft: true
+
+draft: false
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
@@ -78,12 +78,10 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 * [Using SharePoint Framework (SPFx) to elevate SharePoint portal UX | SharePoint Hackathon](https://www.youtube.com/watch?v=3U-pKN0-ikc) with [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft), [John Nguyen](https://www.linkedin.com/in/msjonguy/) (Microsoft), [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) (Microsoft), [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Celebrating Creativity: SharePoint Hackathon Awards Ceremony | SharePoint Hackathon](https://www.youtube.com/watch?v=lnO8gsIO2Zk) with [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 
-
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Enable rich text editor | Power Platform Shorts](https://www.youtube.com/watch?v=d3cU_T7y59Q)
 * [Kickstart Your Microsoft Copilot Studio](https://www.youtube.com/watch?v=v1viJ2j_NO4)
-
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today!
@@ -91,7 +89,6 @@ Update of the newly published videos in [Microsoft 365 Developer YouTube channel
 * [Securing your declarative agent plugin: Entra ID single sign-on (Part 2)](https://www.youtube.com/watch?v=AhLgNEk73bQ)
 * [Microsoft Graph APIs and LangChain agents with UI](https://www.youtube.com/watch?v=RadCzyK8PEo)
 * [Microsoft 365 Certification control spotlight: Data retention, back-up, and disposal](https://www.youtube.com/watch?v=Hcg1tXiw9nI)
-
 
 
 ## New Microsoft 365 Developer Blog posts
@@ -116,6 +113,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call - 3rd of April 2025](https://www.youtube.com/watch?v=JxmmqVDrhGM)
 * [Understanding AI Impact on Your Business w/ Copilot Analytics | Viva Community Call March 2025](https://www.youtube.com/watch?v=_GH5jWRjvuY)
 * [Microsoft 365 & Power Platform weekly call – 1st of April, 2025](https://www.youtube.com/watch?v=ycplY6kyXX0)
 
