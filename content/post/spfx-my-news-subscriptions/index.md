@@ -19,15 +19,10 @@ type: "regular"
 ---
 
 
-
-# About us
-
-At JellyBean Consultancy, we're passionate about streamlining business processes and delivering custom solutions within the Microsoft 365 ecosystem. Based in Sittard, the Netherlands, our team consists of three skilled consultants with strong programming backgrounds. We specialize in automating workflows, enhancing productivity, and building beautiful, tailored SharePoint Intranets using SPFx webparts.
-
 One of the standout solutions in our portfolio is My News Subscriptions — a powerful, search-based intranet tool designed to provide users with a personalized view of corporate news within a SharePoint intranet environment.
 
 
-# What is 'My News Subscriptions'?
+## What is 'My News Subscriptions'?
 
 The My News Subscriptions solution enhances employee engagement by allowing users to curate their own news feed based on topics they care about. Leveraging the power of SharePoint Search and the excellent PnP Modern Search V4 Results webpart (shout out to all contributors!), this solution brings dynamic, personalized news content front and center.
 
@@ -36,7 +31,7 @@ It works by utilizing managed metadata as tags on news pages within a SharePoint
 ![My News Subscription in action!](images/JBC_MyNewsSubscriptions_Recording800.gif "My News Subscription in action!")
 
 
-# Key Technical Components
+## Key Technical Components
 
 - A dedicated SPFx webpart that enables users to manage their news tag subscriptions, connected to the same Managed Metadata set as the news items and storing preferences (subscribed news tags) in their OneDrive AppData folder
 - PnP Modern Search V4 Results webpart with a custom Handlebars template for rendering news item results
@@ -45,7 +40,7 @@ It works by utilizing managed metadata as tags on news pages within a SharePoint
 - Custom Handlebars template that displays these tags in the frontend (after configuring the news tags column as a Managed Property in the SharePoint Search Schema)
 
 
-# Prerequisites of the solution
+## Prerequisites of the solution
 
 - Install the PnP Modern Search V4 webparts to your site
 - Define a Managed Metadata termset to be used as categories (news tags), add this set to the SitePages library of your site and add it to the Search Schema.
@@ -53,14 +48,14 @@ It works by utilizing managed metadata as tags on news pages within a SharePoint
 
 What we now add to the mix are our custom webpart and query customizer.
 
-## SPFx webpart 'My News Subscriptions'
+### SPFx webpart 'My News Subscriptions'
 
 At the center of our solution is the custom webpart which renders as a button on a SharePoint page and when clicked opens a panel showing a number of predefined news categories (tags) based on a Managed Metadata set. The user can select or deselect these categories (mandatory categories cannot be unselected - this is controlled by site editors through the webpart settings) and save them. The webpart then leverages the AppData folder in the user's OneDrive and saves the current selection of categories in a json file there. If the file doesn't exist yet, it will of course be created. 
 
 
 ![My News Subscription Button and Panel](images/JBC_MyNewsSubscriptions_ButtonAndPanel.png "My News Subscription Button and Panel")
 
-## PnP Modern Search V4 Results webpart + SPFx custom query modifier: a golden combo
+### PnP Modern Search V4 Results webpart + SPFx custom query modifier: a golden combo
 
 The PnP Modern Search V4 Results webpart replaces your traditional out-of-the-box SharePoint news webpart. This gives us the maximum amount of control concerning the look and feel of the news items, as well as the possibility to extend its capabilities by using a SPFx custom query modifier. The details on implementing a custom query modifier are available on the PnP Modern Search site (https://microsoft-search.github.io/pnp-modern-search) so we will not delve into that here, but we will explain the internal workings of the query modifier and how to configure it correctly.
 
@@ -89,5 +84,3 @@ Because this part might not be immediately obvious, we will include the configur
 You have now configured your custom query modifier to be used in the Search Results webpart!
 
 What we did on top of that was ensure that our News Subscriptions webpart could also be added as a dynamic query source to the Search Results webpart, so that changing our selected news tags in the news subscription panel immediately triggers a new search, so you don't have to wait for the panel to close to see the changes in your newsfeed.
-
-Feel free to contact us through info@jellybeanconsultancy.nl if you have any questions or are interested in a demo or a quote.
