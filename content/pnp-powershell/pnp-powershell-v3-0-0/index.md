@@ -1,5 +1,5 @@
 ---
-title: PnP PowerShell for v3 released!
+title: PnP PowerShell v3 released!
 summary: PnP PowerShell is a cross-platform PowerShell Module providing 815 (and counting) cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner and Power Automate.
 date: 2025-03-27T09:53:00.000Z
 author: Erwin van Hunen
