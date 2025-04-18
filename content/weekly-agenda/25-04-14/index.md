@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 14th of April week
-date: 2025-04-11T07:42:13.448Z
+date: 2025-04-11T02:42:13.448Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -11,7 +11,8 @@ tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
-draft: true
+draft: false
+
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -62,7 +63,6 @@ Also: 📷 Picture Time with community in Together Mode!
 * If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos:
-
 
 * [Anoop Tatti](https://www.linkedin.com/in/anooptatti/) (Advania UK) – Building a Stock Price Chart ACE
 * [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) – Creating a HR AI Assistant with RAG Implementation and SFPx 
@@ -183,7 +183,9 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
+* [Modern Endpoint Management Summit](https://www.communitydays.org/event/2025-04-23/modern-endpoint-management-summit-2025-emea-edition), April 23, 2025 - Saint-Denis, France
+* [M365 Philly 2025](https://www.communitydays.org/event/2025-04-26/m365-philly-2025), April 26, 2025 - Malvern, Philadelphia, United States
+* [Dynaway CONNECT](https://www.communitydays.org/event/2025-04-28/dynaway-connect-2025), May 3, 2025 - Greenville, South Carolina, United States
 * [M365 Community Days - Saint Louis](https://www.communitydays.org/event/2025-05-02/m365-community-days-saint-louis), May 2-3, 2025 - Saint Louis, Missouri, United States
 * [Microsoft 365 Community Conference](https://www.communitydays.org/event/2025-05-04/microsoft-365-community-conference), May 4 - 10, 2025 - Las Vegas, Nevada, United States
 * [DynamicsCon](https://www.communitydays.org/event/2025-05-13/dynamicscon-2025), May 16, 2025 - Chicago, Illinois, United States
