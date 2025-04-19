@@ -1,18 +1,17 @@
 ---
-title: Weekly Agenda - 14th of April week
-date: 2025-04-11T02:42:13.448Z
+title: Weekly Agenda - 21st of April week
+date: 2025-04-18T15:19:15.554Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary15.png
+  - images/weeklysummary16.png
 tags: []
 type: trending
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
-
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -23,32 +22,33 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 This is the agenda for the upcoming week:
 
 
-### Microsoft 365 & Power Platform weekly call - 15th of April
+### Microsoft 365 & Power Platform weekly call - 22nd of April
 
-* Tuesday, 15th of April 2025, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 22nd of April 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos: 
 
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Extending Microsoft 365 Copilot with Microsoft Copilot Studio
-* [Ramakrishnan Raman](https://www.linkedin.com/in/ramakrishnan-raman-49312724/) (Microsoft)– Overview of PowerCAT Tools
+* [Bob German](https://www.linkedin.com/in/bgerman/) - Enhance your Declarative Agent for Microsoft 365 Copilot with Adaptive Cards
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Using and Contributing to Power Platform Snippets
+* [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1/) (Microsoft) & [Mohan Suri](https://www.linkedin.com/in/mohansuri/) (Microsoft) - Extending dashboards and cards across SharePoint
 
 ---
 
-### Power Platform monthly Community Call - 16th of April
+### Microsoft 365 & Power Platform bi-weekly community Call - 24th of April
 
-Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-* Wednesday, 16th of April, 8:00 AM PT / 4:00 PM GMT
-* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
-* If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
+* Thursday, 24th of April, 7:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
+* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Furkan Karacan](https://www.linkedin.com/in/furkan-karacan/) (Adesso Turkey) - Expanding Model-driven apps to ease Power Apps admins workload
-* [Samir Daoudi](https://www.linkedin.com/in/samir-daoudi-92b19330/) (Logisam) - Revolutionizing IT Services: FixIT365 Meets Copilot and Power Platform
-* [Bülent Altinsoy](https://www.linkedin.com/in/buelent-altinsoy/) (Avanade) - How to make Copilot Studio talk to you via phone
+* [David Lorenzo López](https://www.linkedin.com/in/davidlorenzolopez/) (Prodware) – Creating Hotel Reservation Assistant Agent with Copilot Studio
+* [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade) – No more secrets! Optimize your Power Platform deployment using federated Credentials
+* [Liz Ward](https://www.linkedin.com/in/lizzward/) (SoftwareOne) – Creating SharePoint Agent as The Galactic Archivist
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -56,40 +56,27 @@ Also: 📷 Picture Time with community in Together Mode!
 
 ---
 
-### Viva Connections & SharePoint Framework bi-weekly community Call - 17th of April
-
-* Thursday, 17th of April 2025, 7:00 AM PT / 3:00 PM GMT
-* Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
-
-Demos:
-
-* [Anoop Tatti](https://www.linkedin.com/in/anooptatti/) (Advania UK) – Building a Stock Price Chart ACE
-* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) – Creating a HR AI Assistant with RAG Implementation and SFPx 
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) – SPFx Toolkit - boost your SPFx development with AI capabilities 
-
-
-**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
----
 
 ## New videos 
 
-Update of the newly published videos in our YouTube channel [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
+Update of the newly published videos in our YouTube channel 
 
-* [How to create an intelligent invoice extraction flow with AI Builder](https://www.youtube.com/watch?v=WZs4IP7EbrE) by [Syed Md Maruf Hasan](https://www.linkedin.com/in/syed-hasan-maruf)
-* [Join Ilya and Teams product makers in Vegas! | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=J3aO4HRj7t0) by [Ilya Bukshteyn](https://www.linkedin.com/in/ilyabu) (Microsoft)
-* [Build Healthcare agent service and deploy a Copilot agent by using Microsoft Copilot Studio](https://www.youtube.com/watch?v=uQdHnhILXbU) by [Seena Khan](https://www.linkedin.com/in/seena-khan-ab1b29123) 
-* [Introduction to new Viva Connections folder card](https://www.youtube.com/watch?v=d_nxeBQl4aQ) by [Pooja Gulati](https://www.linkedin.com/in/pooja-gulati-0ba25b1) (Microsoft), [Shivani Sahu](shttps://www.linkedin.com/in/hivani-sahu-516b44187) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)
-* [Working with Topics and Actions in Microsoft Copilot Studio](https://www.youtube.com/watch?v=ZVHkBiH6RxQ) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) 
-* [Find the Fun at the Community Lounge | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=D3ALn7TGtBY) by [Mark Kashman](https://www.linkedin.com/in/mark-kashman) (Microsoft)
-* [April Dunnam brings the Power (Platform) to Vegas! | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=wrL1NVj-d3Y) by [April Dunnam](https://www.linkedin.com/in/aprildunnam) (Microsoft)
-* [Getting started with SharePoint agents](https://www.youtube.com/watch?v=71m5JjJNOhw) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)
-* [Developing an RSS Reader Web Part with SPFx](https://www.youtube.com/watch?v=C0g3polNhsg) by [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea) (Die Mobiliar)
-*  [First Fridays - AI for Communicators - Comms Conversations - Prompting for Comms](https://www.youtube.com/watch?v=AjT8s0a1nJA) by [Allison Michels](https://www.linkedin.com/in/michelsallison) and [Laurel Dzneladze ](https://www.linkedin.com/in/laureldzn)
-* [How to repair flow errors with Copilot's assistance in Power Automate Desktop](https://www.youtube.com/watch?v=y7rAfUuE004) by [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a) 
-* [Dona Sarkar brings all the AI to Vegas! Microsoft 365 Community Conference](https://www.youtube.com/watch?v=5UVXH-zZtMI) by [Dona Sarkar](https://www.linkedin.com/in/donasarkar) (Microsoft) 
-* [SharePoint roadmap pitstop March 2025](https://www.youtube.com/watch?v=nZRyQuScmBI) by [Mark Kashman](https://www.linkedin.com/in/mkashman)  (Microsoft)
+[Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Optimizing the upgrade of the Print List Item Command View Set Extension to the Latest SPFx Version](https://www.youtube.com/watch?v=bDEZrVnItLI) by  [Nishkalank Bezawada](https://www.linkedin.com/in/nishkalankbezawada) (Xenit AB)
+* [MVP, Marijn Somers, is ready to share and learn in Vegas at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=op6TCNCwLUE) by [Marijn Somers](https://www.linkedin.com/in/marijnsomers) 
+* [Introduction to card personalization for end users in Viva Connections](https://www.youtube.com/watch?v=bWKDBhLAySk) by [Nancy Handa](https://www.linkedin.com/in/nancy-handa-3b7b8b35) (Microsoft)  and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)  
+* [Create your first app with Teams AI Library](https://www.youtube.com/watch?v=ZEsEjxJbIKo) by [Carter Gilliam](https://www.linkedin.com/in/r-carter-gilliam) (Microsoft) 
+* [Vegas has what's next for your SharePoint portal | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=a-vrKhjHOBU)
+* [SharePoint Hackathon 2025 winner - SharePoint Portal - 2toLead](https://www.youtube.com/watch?v=ye8qQ05Uljc) by [Richard Plantt](https://www.linkedin.com/in/plantt) (2toLead), [Mallika Limbu](https://www.linkedin.com/in/mallikalimbu) (2toLead) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft) 
+* [Create a Declarative Agent with an API Plugin for Microsoft 365 Copilot](https://www.youtube.com/watch?v=XO2aG3YPbPc) by [Bob German](https://www.linkedin.com/in/bgerman) (Microsoft)
+* [All about the Employee Self Service agent in Microsoft 365](https://www.youtube.com/watch?v=L7c6pW3OHBA) by  [Lucy Hitz](https://www.linkedin.com/in/lucy-hitz-505baa39) (Microsoft) , [Craig Foster](https://www.linkedin.com/in/craigfostercf) (Microsoft), [Silvina Olkies](https://www.linkedin.com/in/silvina-olkies) (Microsoft)  and [Maryam Khabazan](https://www.linkedin.com/in/maryamkhabazan) (Microsoft) 
+* [Microsoft Webinar event: How to prepare for Employee Self-Service agent implementation](https://www.youtube.com/watch?v=jWwLtbRXAWQ) by [Lucy Hitz](https://www.linkedin.com/in/lucy-hitz-505baa39) (Microsoft) , [Jatone Wilson](https://www.linkedin.com/in/jatonewilson) (Microsoft),  [Swati Gulati](https://www.linkedin.com/in/swgulati)  (Microsoft) and [Chung Heong Gooi](https://www.linkedin.com/in/chung-heong-gooi-a4ba2b41) (Microsoft)
+* [Sue brings the IA of AI in comfortable shoes | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=4TOUabdapUs) by [Sue Hanley](https://www.linkedin.com/in/susanhanley)
+* [Introduction to new preview mode in SharePoint pages and news](https://www.youtube.com/watch?v=PqDiamq1fII) by [Katelyn Helm](https://www.linkedin.com/in/katelynhelms) (Microsoft) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)
+* [Build your first Declarative agent for Microsoft 365 Copilot](https://www.youtube.com/watch?v=EXPkbkGnGPc) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen) (Microsoft)
+* [Viva Engage Monday Masterclass: Week 6 - Data and Analytics Deep Dive](https://www.youtube.com/watch?v=lJGtKB7VoLA) by [Soumik Maji](https://www.linkedin.com/in/soumikmaji) (Microsoft), [Teny Shapiro](https://www.linkedin.com/in/tenys) (Microsoft) and  [Giovy Webb ](https://www.linkedin.com/in/giovy-webb) (Microsoft)
+* [Introduction to CI/CD with Microsoft Teams App CLI](https://www.youtube.com/watch?v=LzuTOyCXYi0) by [John Miller](https://www.linkedin.com/in/therealjohn) (Microsoft) 
 
 
 [SharePoint Hackathon](https://aka.ms/sharepoint/hackathon) live stream recordings:
@@ -104,28 +91,25 @@ Update of the newly published videos in our YouTube channel [Microsoft Community
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 
-* [Power Platform Community AMA: Microsoft Copilot Studio | April 2025](https://www.youtube.com/watch?v=-8y-4nDefDc)
-* [Create and Publish Agents in Copilot Chat using Copilot Studio](https://www.youtube.com/watch?v=Y2KUi_wuKC0)
-* [Extend your agent with Model Context Protocol | Power Platform Shorts](https://www.youtube.com/watch?v=MaMUWK-wMQk)
-* [Agents with enterprise Knowledge from Snowflake](https://www.youtube.com/watch?v=2dqXUtPTGL0)
-* [Power Apps Pulse March 2025](https://www.youtube.com/watch?v=TRmtgIRwInY)
-* [Notes configuration for basic forms | Power Platform Shorts](https://www.youtube.com/watch?v=p0iywxkvNwo)
+* [Enable maker welcome content | Power Platform Shorts](https://www.youtube.com/watch?v=AcUsL4bZrho)
+* [Environment routing | Power Platform Shorts](https://www.youtube.com/watch?v=pvb9_mkiSYI)
+* [From manual to automated: Grupo Bimbo embraces Microsoft Power Platform](https://www.youtube.com/watch?v=118HvUBDDqc)
+* [ABN AMRO Bank migrates to Microsoft Copilot Studio](https://www.youtube.com/watch?v=BszqCjg9f6U)
+* [Unlocking the Power of Transactions in Power Fx Functions](https://www.youtube.com/watch?v=m6GbQDZ4pas)
+* [Use prompts to make your agent perform specific tasks | Power Platform Shorts](https://www.youtube.com/watch?v=oUeEkZNrcxo)
 
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today!
 
-* [Microsoft 365 Certification control spotlight: Privacy](https://www.youtube.com/watch?v=sCijQVT7Qe0)
-* [Securing your declarative agent plugin: OAuth 2.0 with Teams Toolkit provisioning (Part 3)](https://www.youtube.com/watch?v=E7ej85ptEaA)
+* [Microsoft 365 Certification control spotlight: General Data Protection Regulation (GDPR)](https://www.youtube.com/watch?v=mKhIxGZkSF0)
 
 
 ## New Microsoft 365 Developer Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
-* [Microsoft 365 Certification control spotlight: Privacy](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-privacy/) by Leana Gerrard (Microsoft)
-* [Introducing the agent debugging experience in Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/introducing-the-agent-debugging-experience-in-microsoft-365-copilot/) by Carol Mbasinge Kigoonya (Microsoft)
-* [Removal of deprecated DISCO & WSDL aspx pages from SharePoint Online](https://devblogs.microsoft.com/microsoft365dev/removal-of-deprecated-disco-wsdl-aspx-pages-from-sharepoint-online/)
-* [Microsoft 365 Certification control spotlight: Data access management](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-data-access-management/) by Tony Balkan (Microsoft)
+* [Microsoft 365 Certification control spotlight: General Data Protection Regulation (GDPR)](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-certification-control-spotlight-general-data-protection-regulation-gdpr/) by Krishna Mawani (Microsoft)
+* [Resolving Microsoft Graph PowerShell 2.26+ compatibility issues with Azure Runbooks](https://devblogs.microsoft.com/microsoft365dev/resolving-microsoft-graph-powershell-2-26-compatibility-issues-with-azure-runbooks/) by Barry Gervin (Microsoft)
 
 
 
@@ -134,7 +118,8 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
 
-* no new posts this week
+* [SharePoint Framework Toolkit v4.5.0 minor release](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-4-5-release/) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy)
+
 
 ---
 
@@ -142,9 +127,10 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform community call - 10th of April 2025](https://www.youtube.com/watch?v=Ib6HbgQ07uA)
-* [Microsoft 365 & Power Platform weekly call – 8th of April, 2025](https://www.youtube.com/watch?v=E87XXc4Nhyk)
-* [Microsoft 365 Champion community call | March 2025](https://www.youtube.com/watch?v=F7rdpKtsbSg)
+* [Viva Connections and SharePoint Framework community call 17th of April 2025](https://www.youtube.com/watch?v=3Jx0W9cOdXg)
+* [Microsoft Power Platform community call – April 2025](https://www.youtube.com/watch?v=G76n5lv_pBo)
+* [Maturity Model for Microsoft 365 - April 2025](https://www.youtube.com/watch?v=b36ZFdLdnw8)
+* [Microsoft 365 & Power Platform weekly call – 15th of April, 2025](https://www.youtube.com/watch?v=2DKp6qRyKmk)
 
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
