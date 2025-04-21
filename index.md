@@ -63,7 +63,7 @@ The instructions I gave the agent helped guide how it responds, too. I wrote the
 
 ### Lessons Learned
 
-This whole build really drove home the value of consistent metadata. The agent is only as good as the content you feed it. But with just a bit of structure—especially around naming and tags—the experience gets dramatically better. And no surprise: folder mess makes things harder for everyone.
+This build really drove home the value of consistent metadata. The agent is only as good as the content you feed it. But with just a bit of structure—especially around naming and tags—the experience gets dramatically better. And no surprise: folder mess makes things harder for everyone.
 
 ### The Fun Stuff
 
