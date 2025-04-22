@@ -2,7 +2,7 @@
 # this is the title
 title: "Introducing the 'My News Subscriptions' Solution by JellyBean Consultancy"
 # this is the publishing date of your article, usually this should match "now"
-date: 2025-04-07T12:00:00
+date: 2025-04-21T12:00:00
 # This is your name
 author: "Roel Adams"
 # This is your GitHub name
