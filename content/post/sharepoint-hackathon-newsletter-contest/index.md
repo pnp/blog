@@ -2,7 +2,7 @@
 # this is the title
 title: "SharePoint 2025 Hackathon: Newsletter contest"
 # this is the publishing date of your article, usually this should match "now"
-date: 2025-04-07T08:40:00-04:00
+date: 2025-04-22T08:40:00-04:00
 # This is your name
 author: "Aimery Thomas"
 # This is your GitHub name
