@@ -18,11 +18,12 @@ type: "regular"
 
 ## 🗒️ SharePoint Framework Toolkit - Rapid progress!
 
-// TODO
-
-Just check out the features list 👇 it's a looot 🤯.
+Since its initial release SPFx Toolkit had expanded its capabilities significantly. What started as a simple extension to support creating ACEs to customize Viva Connections Dashboard kicked off to a Toolkit that supports every stage of SPFx development. From the very beggining when you are just learning and creating your solution to developing, delivering with CI/CD pipelines and managing your solutions. Now SPFx Toolkit has also entered the AI era allowing providing your more capabilities that allow you to manage your SharePoint Online Tenant directly from withing GitHub Copilot Agent experience. From the past two years this product almost trippled in features and capabilities.
+Just check out the features list 👇
 
 ![features](images/features.png)
+
+Now we are excited to announce that two new maintainers have joined the team: **Nico De Cleyre** and **Saurabh Tripathi**. With their expertise and dedication, we are confident that the toolkit will continue to evolve and provide even more value to developers in the Microsoft 365 ecosystem.
 
 ## Nico De Cleyre in his own words
 
@@ -45,7 +46,10 @@ Outside of work, I am a stay-at-home, spend-time-with-family kind of guy. Also, 
 
 ## Achieve more together
 
-// TODO
+We are excited to have Nico and Saurabh on board as maintainers of the SharePoint Framework Toolkit. Their expertise and passion for the Microsoft 365 ecosystem will undoubtedly help us continue to improve and expand the toolkit, making it an even more valuable resource for developers.
+We are also grateful to all the contributors who have supported the toolkit so far. Your contributions have been invaluable in shaping the toolkit into what it is today. We look forward to continuing this journey together and achieving even more in the future.
+The SharePoint Framework Toolkit is a community-driven project, and we encourage everyone to get involved. Whether you're a developer, designer, or just someone who loves Microsoft 365, there are many ways you can contribute to the toolkit. From reporting bugs and suggesting new features to writing documentation and creating tutorials, your input is always welcome.
+We believe that by working together, we can create a toolkit that truly meets the needs of the community and helps developers be more productive in their work.
 
 ![PnP Parker](images/parker-pnp.png)
 
