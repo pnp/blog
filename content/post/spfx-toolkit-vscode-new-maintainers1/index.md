@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Framework Toolkit - Nico De Cleyre and Saurabh Tripathi join maintainers team"
-date: 2025-04-24T01:00:00.000Z
+date: 2025-04-23T01:00:00.000Z
 # post thumb
 images:
   - images/main.png
