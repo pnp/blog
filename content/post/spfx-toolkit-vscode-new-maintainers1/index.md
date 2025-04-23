@@ -18,7 +18,7 @@ type: "regular"
 
 ## 🗒️ SharePoint Framework Toolkit - Rapid progress!
 
-Since its initial release SPFx Toolkit had expanded its capabilities significantly. What started as a simple extension to support creating ACEs to customize Viva Connections Dashboard kicked off to a Toolkit that supports every stage of SPFx development. From the very beggining when you are just learning and creating your solution to developing, delivering with CI/CD pipelines and managing your solutions. Now SPFx Toolkit has also entered the AI era allowing providing your more capabilities that allow you to manage your SharePoint Online Tenant directly from withing GitHub Copilot Agent experience. From the past two years this product almost trippled in features and capabilities.
+Since its initial release, SPFx Toolkit has expanded its capabilities significantly. What started as a simple extension to support creating ACEs to customize the Viva Connections Dashboard kicked off to a Toolkit that supports every stage of SPFx development. From the very beginning when you are just learning and creating your solution, to developing, delivering with CI/CD pipelines, and managing your solutions. Now SPFx Toolkit has also entered the AI era, providing you with more capabilities to manage your SharePoint Online Tenant directly from within GitHub Copilot Agent experience. Over the past two years, this product has almost tripled in features and capabilities.
 Just check out the features list 👇
 
 ![features](images/features.png)
@@ -35,6 +35,13 @@ Outside of work I am a proud married father of 2 daughters and cherish every mom
 
 ![Nico De Cleyre](images/Nico-De-Cleyre.jpg)
 
+You may find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/nicodecleyre)
+- [GitHub](https://github.com/nicodecleyre)
+- [Bluesky](https://bsky.app/profile/nicodecleyre.bsky.social)
+- [Blog](https://www.nicodecleyre.com) 
+
 ## Saurabh Tripathi in his own words
 
 I am a M365 Developer and currently working as a Solutions Architect at AFRY. I have done all kinds of work with SharePoint but have always been a Developer at heart since the beginning. A lot of my work has been on SharePoint on-prem, and I used to proudly say, "It is purely for storage, but you would never know if it's SharePoint just by looking at it." 
@@ -43,6 +50,11 @@ With M365, I had been quietly taking inspiration from the PnP community in my da
 Outside of work, I am a stay-at-home, spend-time-with-family kind of guy. Also, I love a good workout and can't go long without one.
 
 ![Saurabh Tripathi](images/Saurabh-Tripathi.jpg)
+
+You may find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/saurabh-k-tripathi/)
+- [GitHub](https://github.com/saurabh7019)
 
 ## Achieve more together
 
