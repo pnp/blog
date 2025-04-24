@@ -61,9 +61,9 @@ My vision for Web Part Genie extends beyond just a tool; it's about democratizin
 
 At [adenin](www.adenin.com), we're already using a version of SharePoint Genie to make better SharePoint web parts using our extensive library of app integrations. (See previews of real LLM-generated web parts on our website, for example for [Outlook](https://www.adenin.com/apps/outlook/), [Slack](https://www.adenin.com/apps/slack/) or [LinkedIn](https://www.adenin.com/apps/linkedin/).
 
-This year we're working to bring a version of this to real SharePoint users with a feature we internally call "Refine with Genie". Basically a customer would start with any of the templates from our App Directory (see the paragraph just above) but can suggest any number of changes to it and the LLM will turn them into a custom-coded artifact that's unique to their needs.
+This year we're working to bring a version of this to real SharePoint users with a feature we internally call "Refine with Genie". Basically a customer would start with any of the templates from our App Directory (see the paragraph just above) but can suggest any number of changes to it and the LLM will turn them into a custom-coded artifact that's unique to their needs – without writing any code.
 
-
+![](/images/2025-04-24_11-24-24.png)
  
 ## Try It Out
 
