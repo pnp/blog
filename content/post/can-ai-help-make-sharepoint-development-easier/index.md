@@ -22,7 +22,7 @@ Hi 👋 I'm Henry from adenin (find me on [LinkedIn](https://www.linkedin.com/in
 
 Like many SharePoint developers and consultants, I've often faced the challenge of turning creative ideas into functional web parts or pages, especially when time or coding expertise are limited. This led me to explore how AI could bridge that gap, resulting in my SharePoint Hackathon submission: 🥢🥢🥢🥁💃 ... Introducing **Web Part Genie** 🧞
 
-## The challenge: Getting ideas to a quick mockup
+## The idea: Getting ideas to a quick mockup
 
 In many organizations, team members have innovative concepts for enhancing their SharePoint environments. However, bringing these ideas to life typically requires development resources, which aren't always readily available. This bottleneck **can stifle innovation** and delay improvements.
 
@@ -67,7 +67,7 @@ This year we're working to bring a version of this to **real SharePoint users** 
 
 > **Do you think "Genie" is a good name, or what should we call it? Let me know in the comments...**
  
-## Try It Out
+## Want to try it yourself?
 
 The Web Part Genie web part is **available to use**, simply by downloading it from my [Github repository](https://github.com/HenryAmm/WebPartGenie). I invite you to explore it, experiment with your own prompts, and see how it can **streamline your SharePoint customizations**.
 
