@@ -1,12 +1,12 @@
 ---
 # this is the title
-title: "this is the title of your blog post"
+title: "Can AI help make SharePoint development easier?"
 # this is the publishing date of your article, usually this should match "now"
-date: 2022-04-25T08:40:00-04:00
+date: 2025-04-24T08:40:00-04:00
 # This is your name
-author: "your Name"
+author: "Henry from adenin"
 # This is your GitHub name
-githubname: yourGitHubUserName
+githubname: HenryAmm
 # Don't change
 categories: ["Community post"]
 # Link to the thumbnail image for the post
@@ -17,3 +17,60 @@ tags: []
 # don't change
 type: "regular"
 ---
+
+Like many SharePoint developers and consultants, I've often faced the challenge of turning creative ideas into functional web parts or pages, especially when time or coding expertise are limited. This led me to explore how AI could bridge that gap, resulting in my SharePoint Hackathon submission: 🥢🥢🥢🥁💃 ... Introducing **Web Part Genie** 🧞
+
+> View the original submission [here](https://github.com/SharePoint/sharepoint-hackathon/issues/19)
+
+## The challenge: Getting ideas to a quick mockup
+
+In many organizations, team members have innovative concepts for enhancing their SharePoint environments. However, bringing these ideas to life typically requires development resources, which aren't always readily available. This bottleneck can stifle innovation and delay improvements.
+
+Imagine if SharePoint came with a LLM interface that users simply describe to whatever functionality or layout they desire. Using natural language, this type of Copilot (or is it more a "Cobuilder"?) then interprets these prompts and generates the corresponding web parts or full pages.
+
+With the **Web Part Genie** web part you could type for example:
+
+> "Create a stock ticker for my company's homepage."
+
+...which results in a functional stock ticker web part ready to be added to your SharePoint page.
+
+![](https://private-user-images.githubusercontent.com/10764138/422892363-2c58e11a-c5db-4efa-9d28-917b9d856ccc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0ODg3MDcsIm5iZiI6MTc0NTQ4ODQwNywicGF0aCI6Ii8xMDc2NDEzOC80MjI4OTIzNjMtMmM1OGUxMWEtYzVkYi00ZWZhLTlkMjgtOTE3YjlkODU2Y2NjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA5NTMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4YThiMGFiOTljNDI2NjFkN2M3NDg2OGNlNzc2ODFjM2ZiYzI2YTY2ZDA5MmY2ZDU0MTI1Y2UxNzJlNzgyZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kVDNL5H5w7PQp6RgQ_Jr6hu2jwphJ6FsQjSW1Lg5a6w)
+
+I've made [some more examples](https://github.com/SharePoint/sharepoint-hackathon/issues/19) of what Web Part Genie can do based on user prompts, including:
+
+- **Weather Widgets**: Displaying current weather conditions and forecasts.
+- **Team Holiday Calendars**: Showing team members' upcoming vacations and allowing users to request time off.
+- **Gym Class Booking Systems**: Enabling employees to view and book available fitness classes.
+- **IT Support Portals**: Offering troubleshooting steps and facilitating support ticket submissions.
+- **Project Management Dashboards**: Visualizing project progress, upcoming deadlines, and team activities.
+- **HR Welcome Pages**: Providing new employees with essential resources, news, and an employee directory.
+
+## Under the hood
+
+Building Web Part Genie involved integrating several key technologies:
+
+- **SPFx (SharePoint Framework)**: For building the custom web part.
+- **AI Integration**: Utilizing the Claude 3.7 model for interpreting natural language prompts.
+- **Tailwind CSS**: For responsive and modern designs.
+- **ShadCN UI Components**: Ensuring consistent and accessible UI elements.
+- **Recharts**: Creating dynamic and interactive charts within generated web parts.
+
+## Looking ahead: Democratizing SharePoint customization
+
+My vision for Web Part Genie extends beyond just a tool; it's about democratizing the process of SharePoint customization. By lowering the barriers to entry, we can foster a more inclusive environment where ideas can be rapidly prototyped, tested, and implemented, regardless of one's technical background.
+
+At [adenin](www.adenin.com), we're already using a version of SharePoint Genie to make better SharePoint web parts using our extensive library of app integrations. (See previews of real LLM-generated web parts on our website, for example for [Outlook](https://www.adenin.com/apps/outlook/), [Slack](https://www.adenin.com/apps/slack/) or [LinkedIn](https://www.adenin.com/apps/linkedin/).
+
+This year we're working to bring a version of this to real SharePoint users with a feature we internally call "Refine with Genie". Basically a customer would start with any of the templates from our App Directory (see the paragraph just above) but can suggest any number of changes to it and the LLM will turn them into a custom-coded artifact that's unique to their needs.
+
+
+ 
+## Try It Out
+
+Web Part Genie is available in the [SharePoint Hackathon GitHub repository](https://github.com/SharePoint/sharepoint-hackathon/issues/19). I invite you to explore it, experiment with your own prompts, and see how it can streamline your SharePoint customization efforts.
+
+If you have ideas, feedback, or just want to share your experiences using Web Part Genie, feel free to reach out. Let's continue to innovate and make SharePoint a more dynamic and user-friendly platform for everyone.
+
+---
+
+*Note: This post is inspired by my submission to the SharePoint Hackathon 2025. For more details and to view other innovative projects, visit the [official GitHub repository](https://github.com/SharePoint/sharepoint-hackathon).*
