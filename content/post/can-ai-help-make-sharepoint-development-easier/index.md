@@ -24,9 +24,9 @@ Like many SharePoint developers and consultants, I've often faced the challenge 
 
 ## The challenge: Getting ideas to a quick mockup
 
-In many organizations, team members have innovative concepts for enhancing their SharePoint environments. However, bringing these ideas to life typically requires development resources, which aren't always readily available. This bottleneck can stifle innovation and delay improvements.
+In many organizations, team members have innovative concepts for enhancing their SharePoint environments. However, bringing these ideas to life typically requires development resources, which aren't always readily available. This bottleneck **can stifle innovation** and delay improvements.
 
-Imagine if SharePoint came with a LLM interface that users simply describe to whatever functionality or layout they desire. Using natural language, this type of Copilot (or is it more a "Cobuilder"?) then interprets these prompts and generates the corresponding web parts or full pages.
+Imagine if SharePoint came with a LLM interface that users **simply describe** to whatever functionality or layout they desire. Using natural language, this type of Copilot (or is it more a "Cobuilder"?) then interprets these prompts and generates the corresponding web parts or full pages.
 
 With the **Web Part Genie** web part you could type for example:
 
@@ -36,7 +36,7 @@ With the **Web Part Genie** web part you could type for example:
 
 ![](https://private-user-images.githubusercontent.com/10764138/422892363-2c58e11a-c5db-4efa-9d28-917b9d856ccc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0ODg3MDcsIm5iZiI6MTc0NTQ4ODQwNywicGF0aCI6Ii8xMDc2NDEzOC80MjI4OTIzNjMtMmM1OGUxMWEtYzVkYi00ZWZhLTlkMjgtOTE3YjlkODU2Y2NjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDA5NTMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4YThiMGFiOTljNDI2NjFkN2M3NDg2OGNlNzc2ODFjM2ZiYzI2YTY2ZDA5MmY2ZDU0MTI1Y2UxNzJlNzgyZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kVDNL5H5w7PQp6RgQ_Jr6hu2jwphJ6FsQjSW1Lg5a6w)
 
-Here are [some more examples]([https://github.com/SharePoint/sharepoint-hackathon/issues/19](https://github.com/SharePoint/sharepoint-hackathon/issues/19#:~:text=of%20an%20intranet-,Screenshots,-%22Make%20me%20a)) of what Web Part Genie can do based on user prompts, including:
+Here are [some more examples](https://github.com/SharePoint/sharepoint-hackathon/issues/19#:~:text=of%20an%20intranet-,Screenshots,-%22Make%20me%20a) of what Web Part Genie can do based on user prompts, including:
 
 - **Weather Widgets**: Displaying current weather conditions and forecasts.
 - **Team Holiday Calendars**: Showing team members' upcoming vacations and allowing users to request time off.
@@ -57,18 +57,18 @@ Building Web Part Genie involved integrating several key technologies:
 
 ## Looking ahead: Democratizing SharePoint customization
 
-My vision for Web Part Genie extends beyond just a tool; it's about pushing SharePoint customizations to the next level. Eliminating the need to code, now everybody can rapidly prototype and test new SharePoint experiences.
+My vision for Web Part Genie extends beyond just a tool; it's about pushing SharePoint customizations to the **next level**. Eliminating the need to code, now everybody can **rapidly prototype and test** new SharePoint experiences.
 
-At [adenin](www.adenin.com), we're already using a version of SharePoint Genie to make better SharePoint web parts for our extensive library of app integrations. (See previews of real LLM-generated web parts on our website, for example for [Outlook](https://www.adenin.com/apps/outlook/), [Slack](https://www.adenin.com/apps/slack/) or [LinkedIn](https://www.adenin.com/apps/linkedin/).
+At [adenin](www.adenin.com), we're **already using** a version of SharePoint Genie to make better SharePoint web parts for our extensive library of app integrations. (See previews of real LLM-generated web parts on our website, for example for [Outlook](https://www.adenin.com/apps/outlook/), [Slack](https://www.adenin.com/apps/slack/) or [LinkedIn](https://www.adenin.com/apps/linkedin/).
 
-This year we're working to bring a version of this to real SharePoint users with a feature we internally call "Refine with Genie". Basically a customer would start with any of the templates from our App Directory (see the paragraph just above) but can suggest any number of further changes to it, and the LLM will turn them into a custom-coded artifact that's unique to their needs – without writing any code.
+This year we're working to bring a version of this to **real SharePoint users** with a feature we internally call "Refine with Genie". Basically a customer would start with any of the templates from our App Directory (see the paragraph just above) but can **suggest any number of further changes** to it, and the LLM will turn them into a **custom-coded artifact** that's unique to their needs – without writing any code.
 
 ![](https://github.com/HenryAmm/pnp-blog-article-submission/blob/can-ai-help-make-sharepoint-development-easier/content/post/can-ai-help-make-sharepoint-development-easier/images/2025-04-24_11-24-24.png?raw=true)
 
-> Do you think "Genie" is a good name, or what should we call it? Let me know in the comments...
+> **Do you think "Genie" is a good name, or what should we call it? Let me know in the comments...**
  
 ## Try It Out
 
-The Web Part Genie web part is available to use, simply by downloading it from my [Github repository](https://github.com/HenryAmm/WebPartGenie). I invite you to explore it, experiment with your own prompts, and see how it can streamline your SharePoint customization efforts.
+The Web Part Genie web part is **available to use**, simply by downloading it from my [Github repository](https://github.com/HenryAmm/WebPartGenie). I invite you to explore it, experiment with your own prompts, and see how it can **streamline your SharePoint customizations**.
 
-If you have ideas, feedback, or just want to share your experiences using Web Part Genie, feel free to reach out. Let's continue to innovate and make SharePoint a more dynamic and user-friendly platform for everyone. Thank you to Luise for inviting me to post my story.
+If you have ideas, feedback, or just want to share your experiences using Web Part Genie, feel free to reach out. Let's continue to **innovate and make SharePoint a more dynamic and user-friendly platform for everyone**. Thank you to Luise for inviting me to post my story.
