@@ -12,7 +12,7 @@ tags:
   - Viva Engage
   - SharePoint
   - Microsoft Graph
-type: popular
+type: regular
 ---
 
 It's that time of the month again! We've just published a new minor version of the CLI for Microsoft 365. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces new commands that will enhance the quality of your Microsoft 365 experience.
