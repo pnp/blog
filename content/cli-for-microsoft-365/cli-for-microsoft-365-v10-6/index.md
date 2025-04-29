@@ -53,6 +53,7 @@ For more information, check the following resources:
 
 - [graph openextension add](https://pnp.github.io/cli-microsoft365/cmd/graph/openextension/openextension-add/)
 - [graph openextension get](https://pnp.github.io/cli-microsoft365/cmd/graph/openextension/openextension-get/)
+- [graph openextension list](https://pnp.github.io/cli-microsoft365/cmd/graph/openextension/openextension-list/)
 - [graph openextension remove](https://pnp.github.io/cli-microsoft365/cmd/graph/openextension/openextension-remove/)
 
 
