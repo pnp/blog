@@ -72,7 +72,7 @@ For more information check the following resources:
 
 ## What's changed
 
-This release also brings some other great changes. Aside from a lot of improvements in the codebase and bug fixes to elevate the overall CLI experience, there's a couple of things we'd like to highlight.
+This release also brings some other great changes. Aside from many improvements in the codebase and bug fixes to elevate the overall CLI experience, there are a couple of things we'd like to highlight.
 
 ### SharePoint Framework commands
 
