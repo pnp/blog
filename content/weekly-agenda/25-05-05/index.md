@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 5th of May week
-date: 2025-05-05T10:40:42.227Z
+date: 2025-05-01T02:40:42.227Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -24,13 +24,15 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform weekly call - 6th of May
 
+This call will be broadcasted live from the [Microsoft 365 Community Conference](https://m365conf.com/) at Las Vegas! 🚀
+
 * Tuesday, 6th of May 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos: 
 
-* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) –  SharePoint Embedded - Monthly booking – May
+* [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) (Microsoft) – Latest features on SharePoint Embedded
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Consuming Power Platform custom connectors in Microsoft Copilot Studio
 * [Samuel Betts](https://www.linkedin.com/in/sambettscv/) (Microsoft) – Copilot Value Analytics - Understanding Copilot for Microsoft 365 value and opportunities
 
@@ -38,6 +40,7 @@ Demos:
 
 ### Microsoft 365 & Power Platform bi-weekly community Call - 8th of May
 
+This call will be broadcasted live from the [Microsoft 365 Community Conference](https://m365conf.com/) at Las Vegas! 🚀
 
 * Thursday, 8th of May, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
@@ -135,7 +138,7 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ## Microsoft 365 Conference at Las Vegas in May 2025
 
-We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Las Vegas in May 2025. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
+We would also love to see you in the [Microsoft 365 Community Conference](https://m365conf.com/) at Las Vegas in May 2025. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
 
 {{< youtube CA0G8SWshz8 >}}
 
