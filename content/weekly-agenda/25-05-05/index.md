@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 5th of May week
-date: 2025-04-24T10:40:42.227Z
+date: 2025-05-05T10:40:42.227Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
