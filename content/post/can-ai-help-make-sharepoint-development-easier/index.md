@@ -11,7 +11,7 @@ githubname: HenryAmm
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/2025-03-14_17-26-41.png
 # don't change
 tags: []
 # don't change
