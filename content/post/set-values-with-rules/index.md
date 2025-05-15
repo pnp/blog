@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Lists: Set Values with Rules"
+title: "SharePoint and Microsoft Lists: Set Values with Rules"
 date: 2025-05-14T00:00:00-00:00
 author: "Tetsuya Kawahara"
 githubname: tecchan1107
@@ -14,7 +14,7 @@ tags: []
 type: "regular"
 ---
 
-When it comes to the [rules feature](https://support.microsoft.com/office/create-a-rule-to-automate-a-list-or-library-151ea008-7fa6-409b-b0bd-b04a3b3cacd5) in Microsoft Lists, I initially thought it was primarily for notifications only. However, during the session "Simplifying Business Processes with SharePoint Automation" at the [Microsoft 365 Community Conference](https://m365conf.com/), I learned that the rules feature can **automatically set values** based on specific conditions.
+When it comes to the [rules feature](https://support.microsoft.com/office/create-a-rule-to-automate-a-list-or-library-151ea008-7fa6-409b-b0bd-b04a3b3cacd5) in SharePoint lists and document libraries, I initially thought it was primarily for notifications only. However, during the session "Simplifying Business Processes with SharePoint Automation" at the [Microsoft 365 Community Conference](https://m365conf.com/), I learned that the rules feature can **automatically set values** based on specific conditions.
 
 ![Steps to create a rule](./images/create-rule.png)
 
