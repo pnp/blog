@@ -7,7 +7,7 @@ githubname: UnsuckM365
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/M365Con-thumbnail.jpg
+- images/M365Conf-2025.jpg
 # don't change
 tags: ["Community","Conferences","Microsoft 365"]
 # don't change
