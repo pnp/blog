@@ -42,4 +42,4 @@ Some conferences can be pricey, and I understand that it’s not always easy to 
 
 I hope to see you on the road and look forward to the many memories and connections that are still to be made. And if you haven’t yet made the leap, it’s not just an option—you owe it to yourself to attend the next one.
 
-As for me, I will continue engaging with this amazing community and I am already looking forward to the next one, being the [European Collaboration Summit](https://www.collabsummit.eu) in less than two weeks. Also another [Power Platform Conference](https://powerplatformconf.com).
+As for me, I will continue engaging with this amazing community and I am already looking forward to the next one, being the [European Collaboration Summit](https://www.collabsummit.eu) in less than two weeks. Also another [Power Platform Conference](https://powerplatformconf.com) this fall, and the already announced [Microsoft 365 Conference](https://m365conf.com/) in 2026. So bring it on!!!
