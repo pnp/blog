@@ -1,5 +1,5 @@
 ---
-title: "The Microsoft 365 Conference and how you (still) owe it to yourself going to the next one"
+title: "The Microsoft 365 Community Conference and how you (still) owe it to yourself going to the next one"
 date: 2025-05-14T08:40:00-04:00
 author: "Diego Silva"
 githubname: UnsuckM365
