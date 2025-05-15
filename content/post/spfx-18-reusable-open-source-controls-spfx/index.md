@@ -9,8 +9,7 @@ images:
   - images/18-using-reusable-spfx-controls-solutions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:
@@ -33,7 +32,7 @@ This blog post is part of a month long SPFx series for January 2023. Each busine
 
 ## Increase your productivity with community provided controls for SPFx solutions
 
-To increase the productivity of developers who are building SPFx solutions, Microsoft engineering closely partners with the open-source community to provide reusable controls for SPFx solutions. 
+To increase the productivity of developers who are building SPFx solutions, Microsoft engineering closely partners with the open-source community to provide reusable controls for SPFx solutions.
 
 These controls are provided to make the custom solutions more aligned with the 1st party experiences and to even adopt some 1st party controls to be available for the partners and customers. A great example being the Web Part title control, which is direct adoption of the same control which Microsoft uses in out of the box engineering work.
 
@@ -60,13 +59,13 @@ Here’s a great intro from [Alex Terentiv](https://twitter.com/alexaterentiev) 
 
 {{< youtube 1vYEFJGtPQc >}}
 
-Here’s another great video from [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues. 
+Here’s another great video from [Joel Rodrigues](https://twitter.com/JoelFMRodrigues) (Storm Technology) | @JoelFMRodrigues.
 
 {{< youtube 4zGVtHgqxcY >}}
 
 ## Frequently asked questions on the reusable SPFx controls
 
-**Are these controls provided by Microsoft engineering?** 
+**Are these controls provided by Microsoft engineering?**
 
 No. These are community provided and Microsoft employees are part of this community, but they are not Microsoft owned or Microsoft supported set of controls.
 
@@ -81,7 +80,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other Microsoft 365 platform community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other Microsoft 365 platform community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

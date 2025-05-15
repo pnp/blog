@@ -9,8 +9,7 @@ images:
   - images/03-getting-started-spfx-extensions.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:

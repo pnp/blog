@@ -9,8 +9,7 @@ images:
   - images/16-building-partner-offerings-viva-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:
@@ -38,8 +37,8 @@ There are few specific things to notice as you design your experience for Micros
 
 Considerations and steps to implement your offering:
 
-* You will need to register your API in Azure AD as multi-tenant hosted API, so that the other tenants (customers) can use it 
-* You'll build the API and ACE independently in your environment 
+* You will need to register your API in Azure AD as multi-tenant hosted API, so that the other tenants (customers) can use it
+* You'll build the API and ACE independently in your environment
 * As customer deploys the SPFx solution - you can request them to grant access to the custom API as part of the administrative deployment - this has been supported with SPFx v1.15.2
 * Customer ACE is deployed to their tenant and it's calling your centrally hosted API with automatic single sign on with Azure AD
 
@@ -63,9 +62,9 @@ Documentation and references on building partner offering for Microsoft Viva
 
 ## Frequent questions
 
-**Do I have to use the Azure to host my API for the Microsoft Viva?** 
+**Do I have to use the Azure to host my API for the Microsoft Viva?**
 
-Technically no, but the authentication with the Azure AD and your custom API is the easiest. This will give you the most secure channel as your simply rely on the automatic single-sign in the Microsoft 365 side and then use the user context to call the Azure AD secured APIs. 
+Technically no, but the authentication with the Azure AD and your custom API is the easiest. This will give you the most secure channel as your simply rely on the automatic single-sign in the Microsoft 365 side and then use the user context to call the Azure AD secured APIs.
 
 **Can I use any other authentication system than Azure AD?**
 
@@ -78,7 +77,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users.
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

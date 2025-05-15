@@ -102,7 +102,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
-![together-221201.png](images/community-recognization-program.png)
+![Community Recognition](../images/community-recognition-2025.png)
 
 ---
 

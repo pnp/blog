@@ -4,7 +4,7 @@ date: 2023-09-14T09:00:00-00:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
 categories: ["Community post"]
-tags: ["SharePoint Framework (SPFx)", "SPFx", "SharePoint"]
+tags: ["SharePoint Framework (SPFx)", "SharePoint"]
 type: "regular"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 247 - Simon Hudson"
 summary: "Owner, Director & MVP - Simon Hudson joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
-date: 2024-04-23T02:00:01-00:00
+date: 2024-04-30T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
 categories: ["PnP Weekly"]

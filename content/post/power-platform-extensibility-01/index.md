@@ -5,8 +5,8 @@ author: "Kinga Kazala"
 githubname: kkazala
 categories: ["Community post"]
 images:
-- images/thumbnail1.png
-tags: []
+    - images/thumbnail1.png
+tags: ["Power Platform", "Power Apps", "Power Automate", "Dataverse"]
 type: "regular"
 ---
 

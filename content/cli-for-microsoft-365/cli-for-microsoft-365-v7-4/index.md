@@ -9,7 +9,7 @@ images:
   - images/banner-cli-m365.png
 tags:
   - CLI for Microsoft 365
-  - Entra ID
+  - Microsoft Entra ID
   - Copilot
 type: regular
 ---
@@ -18,13 +18,13 @@ Introducing the latest release of CLI for Microsoft 365
 
 [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release introduces a few new commands as well as a ton of awesome improvements.
 
-> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey. 
- 
+> Explore the [release notes](https://aka.ms/cli-m365/notes) to discover an array of exciting features and improvements that will revolutionize your Microsoft 365 journey.
+
 ## What's new
 
 ### External content
 
-The release of Microsoft Copilot for Microsoft 365 brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph connectors. 
+The release of Microsoft Copilot for Microsoft 365 brings new challenges and possibilities in surfacing your data to your users. As an aid in this field, Graph connectors can be a significant asset to get line of business data into Microsoft 365 and allow Copilot to work with it. The CLI for Microsoft 365 has a growing group of commands that allow you to work with Graph connectors.
 
 This release brings a new command to add a URL to the item resolver for an existing connection. This allows you to add a URL pattern to an existing connection that will be used to resolve URLs to items in your external content.
 
@@ -34,7 +34,7 @@ Adds a URL to the item resolver to an existing connection.
 m365 external connection urltoitemresolver add --externalConnectionId "samplesolutiongallery" --baseUrls "https://adoption.microsoft.com" --urlPattern "/sample-solution-gallery/sample/(?<sampleId>[^/]+)" --itemId "{sampleId}" --priority 1
 ```
 
-For more information check the following resources:   
+For more information check the following resources:
 - [m365 external connection urltoitemresolver add](https://pnp.github.io/cli-microsoft365/cmd/external/connection/connection-urltoitemresolver-add/)
 
 ### Microsoft Entra ID
@@ -72,7 +72,7 @@ If you are eager to go over all of the details and improvements added in this re
 
 Curious about what lies ahead? We're excited to share some of our ongoing projects and initiatives.
 
-Right now, there are over 86 issues that are actively being developed and 71 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release. 
+Right now, there are over 86 issues that are actively being developed and 71 issues that are up for grabs. We're working hard to bring you even more exciting features and improvements in the next release.
 
 But we don't stop there. We value your input and ideas. If you have any suggestions for new commands, don't hesitate to share them with us. Create a [new issue](https://github.com/pnp/cli-microsoft365/issues/new?assignees=&labels=&template=new-command.yml&title=New+command%3A+%3Cshort+description%3E) on our GitHub Issues list or join our vibrant [community Discord server](https://aka.ms/cli-m365/discord) to engage in discussions.
 

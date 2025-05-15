@@ -9,7 +9,7 @@ categories: ["Microsoft 365 platform call"]
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
 - images/thumbnail.png
-tags: ["Office Add-ins", "Extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions", "Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 # Videos lists the video on the page for social media
 # TIP: Search and replace INSERT-VIDEO-CODE-HERE with the youtube code to update this page quickly
 videos:
@@ -151,4 +151,3 @@ You can download recurrent invite from [https://aka.ms/m365-dev-sig](https://ak
 _“Sharing is caring”_
 
 _Microsoft 365 Community (PnP) team, Microsoft - {{ dateFormat "2" .Date }}{{ if in (slice 1 21 31) (dateFormat "2" .Date)}}st{{ else if in (slice 2 22) (dateFormat "2" .Date)}}nd{{ else if in (slice 3 23) (dateFormat "2" .Date)}}rd{{ else }}th{{ end }} of {{ dateFormat "January 2006" .Date }}_
-

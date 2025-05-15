@@ -9,8 +9,7 @@ images:
   - images/15-building-shared-map-teams-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva  
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 videos:
@@ -52,7 +51,7 @@ Tabs in Microsoft Teams have settings which an be edited by clicking the drop-do
 
 ### Storing points of interest
 
-Since this tab is used in a Teams channel, it's possible to take advantage of the Team's underlying SharePoint site for storing map data. A SharePoint list fits the bill nicely. 
+Since this tab is used in a Teams channel, it's possible to take advantage of the Team's underlying SharePoint site for storing map data. A SharePoint list fits the bill nicely.
 
 The Microsoft Graph makes it easy to access the SharePoint list. The code begins by obtaining a Graph client from SPFx.
 
@@ -75,7 +74,7 @@ The project includes a client-side service for accessing the Graph in [GraphServ
 One of the nice things about SharePoint is you don't have to write code to update a List; the user interface to do that is built into SharePoint. So, rather than reinventing that wheel, the solution displays the list in a Teams _Dialog_ (formerly called a _Task Module_).
 
 ![Editing the map points](./images/edit-pushpins.png)
- 
+
 To do this, [the code](https://github.com/OfficeDev/M365Bootcamp-TeamsEmergencyResponse/blob/main/Solution/MapViewer/src/webparts/mapViewer/components/MessagePanel.tsx) uses the Microsoft Teams JavaScript API to open the dialog and pass in the URL of the SharePoint list view.
 
 ```typescript
@@ -103,7 +102,7 @@ Here are some initial references to get started with the SPFx in your developmen
 -	SPFx documentation – https://aka.ms/spfx
 -	Issues and feedback around SPFx - https://aka.ms/spfx/issues
 -	Microsoft 365 Platform Community – https://aka.ms/m365/community
--	Public SPFx and other community calls – https://aka.ms/m365/calls 
+-	Public SPFx and other community calls – https://aka.ms/m365/calls
     - These calls are for everyone to take advantage to stay up to date on the art of possible within Microsoft 365 and to provide guidance for beginners and more advance users
 -	SPFx samples in the Microsoft 365 Unified Sample gallery – https://aka.ms/m365/samples
 

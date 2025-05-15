@@ -9,7 +9,7 @@ images:
   - images/mar-23-promo.png
 tags:
   - Office Add-ins
-  - Extensions
+  - SPFx Extensions
   - Microsoft 365
   - Microsoft Graph
   - Microsoft Teams

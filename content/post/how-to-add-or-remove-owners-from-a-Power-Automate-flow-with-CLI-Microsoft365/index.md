@@ -9,7 +9,7 @@ images:
   - images/lego-delorian.png
 tags:
   - Power Automate
-  - CLI Microsoft 365
+  - CLI for Microsoft 365
 type: regular
 ---
 

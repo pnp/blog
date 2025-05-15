@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary19.png
 tags: []
-type: trending
+type: regular
 videos:
 draft: false
 ---
@@ -129,7 +129,7 @@ If you are looking to learn how to use the Microsoft 365 & Power Platform Commun
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
-![together-221201.png](images/community-recognization-program.png)
+![Community Recognition](../images/community-recognition-2025.png)
 
 ---
 
@@ -165,7 +165,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [CollabDays Hamburg](https://www.communitydays.org/event/2024-08-31/collabdays-hamburg-2024) - August 31, 2024 - Hamburg, Germany
 * [ams Tunis](https://www.communitydays.org/event/2024-09-12/ams-tunis), September 12, 2024 - Al Marsa, Tunisia
 * [Baltic Summit](https://www.communitydays.org/event/2024-09-13/baltic-summit-2024) - September 13-14, 2024 - Gdynia, Poland
-* [C9ollabdays Zagreb](https://www.communitydays.org/event/2024-09-14/collabdays-2024-zagreb) - September 14, Zagreb, Croatia
+* [Collabdays Zagreb](https://www.communitydays.org/event/2024-09-14/collabdays-2024-zagreb) - September 14, Zagreb, Croatia
 * [Experts Live Europe 2024](https://www.communitydays.org/event/2024-09-23/experts-live-europe-2024), September 23-25, 2024 - Budapest, Hungary
 * [AMS Leipzig 2024](https://www.communitydays.org/event/2024-09-27/ams-leipzig-2024), September 27, Leipzig, Germany
 * [M365 SUMMIT - Microsoft Cloud Engineering](https://www.communitydays.org/event/2024-09-27/m365-summit-microsoft-cloud-engineering) - September 27-28, 2024 - Manchester, UK

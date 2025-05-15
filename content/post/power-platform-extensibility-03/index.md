@@ -6,7 +6,7 @@ githubname: kkazala
 categories: ["Community post"]
 images:
 - images/thumbnail3.png
-tags: []
+tags: ["Power Platform", "Power Apps", "Power Automate", "Dataverse"]
 type: "regular"
 ---
 

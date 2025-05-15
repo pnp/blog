@@ -13,7 +13,7 @@ categories: ["Community post"]
 images:
 - images/Teams-ChatGPT-integration.jpg
 # don't change
-tags: ["Power Automate","ChatGPT","Custom Connector", "Microsoft365","OpenAI","MSTeams"]
+tags: ["Power Automate","ChatGPT","Custom Connector", "Microsoft 365","OpenAI","Microsoft Teams"]
 # don't change
 type: "regular"
 ---
@@ -142,4 +142,3 @@ Let’ say a team of people are working towards a report and their senior have a
 ![](images/chatgptteamsdemo.gif)
 
 ![](images/demo.png)
-

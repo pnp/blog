@@ -9,8 +9,7 @@ images:
   - images/01-introduction-what-is-spfx-promo.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false
@@ -68,7 +67,7 @@ You can of course also integrate SPFx solutions with code running in Microsoft A
 
 Given the worldwide success of the SPFx with customers and partners, Microsoft  decided to start investing in its usage outside of SharePoint Online. Starting from 2018, you have been able to use the SPFx solutions directly in the Microsoft Teams. In 2021 we announced the [Microsoft Viva Connections extensibility](https://learn.microsoft.com/sharepoint/dev/spfx/viva/overview-viva-connections) to be based on the SPFx and in 2022, we announced the support on building Outlook and Microsoft 365 app (Office) extensibility with SPFx – with all the previously mentioned benefits.
 
-![together-221201.png](images/spfx-experiences-m365.png)
+![Community Recognition](images/spfx-experiences-m365.png)
 
 ## Frequent questions around SPFx
 
