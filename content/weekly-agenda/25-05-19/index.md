@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 19th of May week
-date: 2025-05-15T08:37:25.029Z
+date: 2025-05-16T02:37:25.029Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -75,11 +75,9 @@ Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-
 * [Michael Greth](https://www.linkedin.com/in/mgreth/) – How SharePoint Agents help extract AI knowledge
 * [Karen Dredske ](https://www.linkedin.com/in/karendredske/)(NRI North America) – Building employee support with SharePoint Agents in Teams and SharePoint
 * [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) – List Formatting Tips and Tricks
-
 
 ---
 
@@ -166,6 +164,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 15th of May 2025](https://www.youtube.com/watch?v=JpkVxuOF1cc)
 * [Microsoft 365 & Power Platform weekly call – 13th of June, 2025](https://www.youtube.com/watch?v=2Zj35_OgVm0)
 
 
