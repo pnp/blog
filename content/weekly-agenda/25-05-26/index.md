@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 26th of May week
-date: 2025-05-22T11:04:36.437Z
+date: 2025-05-23T02:04:36.437Z
 author: Vesa Juvonen
 githubname: vesajuvonen
 categories:
@@ -123,9 +123,6 @@ Update of the newly published videos in [Power Platform YouTube channel](https:/
 * [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Setup Your Agent | EP09](https://www.youtube.com/watch?v=qwQU6TakeRk)
 * [IT FAQ and Services Agent: Intro | Building a Conversational Agent step-by-step | EP08](https://www.youtube.com/watch?v=oWTAXVUIrsA)
 
-
-
-
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today!
 
 * [Smarter meetings: AI-powered transcription and summaries with Azure Communication Services](https://www.youtube.com/watch?v=5o4LcIiVLb4)
@@ -152,6 +149,7 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 22nd of May 2025](https://www.youtube.com/watch?v=vc-4y4tV7LI)
 * [Microsoft Power Platform community call – May 2025](https://www.youtube.com/watch?v=xO1um1pdOMU)
 * [Maturity Model for Microsoft 365 - May 2025](https://www.youtube.com/watch?v=Q0CaGHVmwR4)
 * [Microsoft 365 & Power Platform weekly call – 20th of June, 2025](https://www.youtube.com/watch?v=JLw6arzuV1A)
