@@ -56,7 +56,7 @@ m365 entra organization list
 ```
 
 For more information check the following resources:
-- [m365 entra group member remove](https://pnp.github.io/cli-microsoft365/cmd/entra/organization/organization-list/)
+- [m365 entra organization list](https://pnp.github.io/cli-microsoft365/cmd/entra/organization/organization-list/)
 
 ### SharePoint Embedded
 
@@ -119,6 +119,10 @@ This release also brings some other great changes. Aside from many improvements 
 ### Support for SharePoint Framework v1.21.1
 
 Support for SPFx 1.21.1 has been added, ensuring compatibility with the latest version of the SharePoint Framework. This update allows you to take full advantage of the new features and improvements in SPFx 1.21.1, enhancing your development experience and enabling you to build more efficient and modern SharePoint solutions.
+
+### Federated Identity Login for Azure DevOps
+
+A new feature has been added to support federated identity login when running in Azure DevOps, allowing you to deploy apps without the need for certificates in your CI/CD pipeline. This provides a more streamlined and secure authentication process, enabling easier integration and automation of your Microsoft 365 workflows directly within Azure DevOps. Whether you're using a service connection or not, you can now authenticate with federated identity, simplifying the overall deployment process and enhancing security across your workflows.
 
 ### Refactorings & improvements
 
