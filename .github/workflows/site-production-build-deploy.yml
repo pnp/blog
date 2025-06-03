@@ -91,7 +91,7 @@ jobs:
       # save built site artifacts for deployment to GitHub pages
       ######################################################################
       - name: 💾  Save site generated artifacts for deployment
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         if: (github.ref == 'refs/heads/main') && github.repository == 'pnp/blog'
         with:
           path: ./public
@@ -114,4 +114,4 @@ jobs:
       ######################################################################
       - name: 🚀  Deploy build to site
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4

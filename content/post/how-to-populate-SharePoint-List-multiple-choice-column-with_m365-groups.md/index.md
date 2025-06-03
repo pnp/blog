@@ -11,7 +11,7 @@ tags:
   - SharePoint
   - Power Automate
 type: regular
-description: In this article you will learn how to populate a SharePoint List multiple choice colum with M365 Group names
+description: In this article you will learn how to populate a SharePoint List multiple choice column with M365 Group names
 ---
 
 Recently, a customer asked me if I could automagically 🦄 populate Microsoft 365 Group Names to a multiple choice column in a SharePoint list. Of course I told them that one can create an ootb Person field and allow group selection, but that was not quite what they wanted. So I built a simple Power Automate flow that would populate the choice column and applied some nice list formatting to it.
