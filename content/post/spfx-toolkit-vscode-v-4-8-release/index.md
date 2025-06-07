@@ -66,7 +66,6 @@ Heads up: this change will also be reflected in the updated wiki guidance.
 
 To read more about it, check out our [wiki](https://github.com/pnp/vscode-viva/wiki/8.-SPFx-Toolkit-GitHub-Chat-Participant#info).
 
-
 ## Adds Gulp Operations to VS Code Extension Commands
 
 You can now run all major gulp tasks directly from the command palette. This includes:
