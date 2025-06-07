@@ -51,7 +51,7 @@ A bug that prevented setting a form customizer on the root site has been fixed. 
 
 We’ve shortened the command category prefix from “SharePoint Framework Toolkit” to “SPFx Toolkit” across all actions. Cleaner, faster to scan, and easier to use.
 
-## Default action for SPFx App is now “Install”
+## Default action for SPFx App is now "Install"
 
 The default action when working with SPFx apps is now set to install, because that’s what most of us are doing most of the time.
 
@@ -89,11 +89,11 @@ We’ve aligned the icons for gulp tasks across the tree view and command palett
 
 All references to the Teams Toolkit have been updated to reflect the new name: Microsoft 365 Agents Toolkit. This includes code, docs, and UI elements.
 
-## Updated Wiki Link
+## Updated wiki link
 
 The wiki link has been updated to point to [the new documentation site](https://pnp.github.io/vscode-viva/). Make sure to update your bookmarks!
 
-## Dependency Updates
+## Dependency updates
 
 We’ve updated most extension dependencies to their latest stable versions. Along the way, we:
 - Updated the vsce package used in our workflows
@@ -104,7 +104,7 @@ We’ve updated most extension dependencies to their latest stable versions. Alo
 - Added a qna link in package.json to direct users to our GitHub Discussions
 - Did some minor code cleanup
 
-## Add Tenant App Catalog & Add/Remove Site App Catalog
+## Add tenant app catalog & add/remove site app catalog
 You can now:
 - Add a tenant app catalog (if one doesn’t exist)
 - Add or remove a site app catalog
@@ -113,7 +113,7 @@ All from within the toolkit, no need to jump into the admin center.
 
 ![appcatalog](images/appcatalog.png)
 
-## Smarter App Install Handling
+## Smarter app install handling
 
 We’ve improved how SPFx Toolkit handles app installations, especially when things don’t go as planned. If you try to install an app that’s already installed, the toolkit now detects it and suggests the next best step:
 - Upgrade if it’s the same app but a newer version
