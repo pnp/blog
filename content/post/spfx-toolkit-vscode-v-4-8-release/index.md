@@ -18,7 +18,7 @@ type: "regular"
 
 ## 🗒️ Quick intro
 
-[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app and also comes along with a dedicated @spfx Copilot Chat participant who is your AI assistant grounded for SharePoint Framework development.
+[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app and also comes along with AI capabilities which will allow you to manage your SharePoint Online tenant straight from GitHub Copilot chat extension.
 
 Just check out the features list 👇 it's a looot 🤯.
 
@@ -26,16 +26,14 @@ Just check out the features list 👇 it's a looot 🤯.
 
 Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
-##  Adds LLM tools for GitHub Copilot agent mode
+##  Language model tools for GitHub Copilot agent mode
 
-This is the first prototype of LLM Tools integrated into the SPFx Toolkit. The goal? To explore how GitHub Copilot in agent mode can help you create, manage, and edit SharePoint content like sites, lists, and items directly from VS Code.
-This is just the beginning: we’re limited to 70–80 tools for now, so we’re focusing purely on SharePoint scenarios. Expect more refinement and expansion in future updates.
+This is the first prototype of language model tools integrated into the SPFx Toolkit. The goal? To explore how GitHub Copilot in agent mode can help you create, manage, and edit SharePoint content like sites, lists, and items directly from VS Code.
+We’re starting with these core SharePoint scenarios, and plan to expand and refine the available tools in future updates.
 
 ![llm](images/llm.png)
-
-## Hides app management context menu actions from command palette
-
-To reduce noise and improve clarity, app management actions that are only relevant in context menus have been hidden from the command palette. 
+![createsite](images/createsite.png)
+![githubactionsprogress](images/githubactionsprogress.png)
 
 ## Support for installing the correct Node.js version
 
@@ -43,17 +41,11 @@ No more guessing which Node.js version you need. The toolkit now provides direct
 
 ![nodejs](images/nodejs.png)
 
-## Fixes setting form customizer list form on root site
-
-A bug that prevented setting a form customizer on the root site has been fixed. This included improved URL validation to ensure smoother setup.
-
-## Shortened command category names ✂️
-
-We’ve shortened the command category prefix from “SharePoint Framework Toolkit” to “SPFx Toolkit” across all actions. Cleaner, faster to scan, and easier to use.
-
 ## Default action for SPFx App is now "Install"
 
-The default action when working with SPFx apps is now set to install, because that’s what most of us are doing most of the time.
+What's the first thing you would do with a SPFx app present in the app catalog? Let me guess: install. Right?
+
+That is exactly why we reordered actions present in each SPFx app instance, making the `install` action as default visible after you hover the SPFx app item on the list. The rest of the actions like: deploy, upgrade, enable, disable, etc. are present under `...`.
 
 ![install](images/install.png)
 
@@ -64,7 +56,7 @@ Heads up: this change will also be reflected in the updated wiki guidance.
 
 ![info](images/info.png)
 
-To read more about it, check out our [wiki](https://github.com/pnp/vscode-viva/wiki/8.-SPFx-Toolkit-GitHub-Chat-Participant#info).
+To read more about it, check out our [wiki](https://pnp.github.io/vscode-viva/guides/ai-capabilities/#info).
 
 ## Adds Gulp Operations to VS Code Extension Commands
 
@@ -79,39 +71,27 @@ You can now run all major gulp tasks directly from the command palette. This inc
 
 No more jumping to the terminal, just run what you need, when you need it.
 
+![gulpactions](images/gulpactions.png)
+
+## Add tenant app catalog & add/remove site app catalog
+
+Managing app catalogs is a crucial part of SharePoint development, and with this release, the SPFx Toolkit makes it easier than ever. Previously, setting up a tenant app catalog or managing site app catalogs required navigating through the SharePoint admin center, which could be time-consuming and sometimes confusing, especially if you’re working across multiple tenants or sites.
+
+Now, you can perform these actions directly from within Visual Studio Code using the toolkit:
+
+- **Add a tenant app catalog:** If your tenant doesn’t already have an app catalog, you can create one with just a few clicks where the toolkit will guide you through the process.
+- **Add a site app catalog:** Need to scope app deployment to a specific site collection? You can now add a site app catalog to any eligible site directly from the toolkit. This is especially useful for scenarios where you want to test or deploy solutions without affecting the entire tenant.
+- **Remove a site app catalog:** If you no longer need a site app catalog, you can remove it just as easily. The toolkit ensures that the removal process is safe and provides confirmation prompts to prevent accidental deletions.
+
+All these actions are available from the command palette and the toolkit’s UI, so you never have to leave your development environment. This streamlines your workflow, reduces context switching, and helps you stay focused on building great solutions.
+
+![appcatalog](images/appcatalog.png)
+
 ## Align gulp task icons
 
 We’ve aligned the icons for gulp tasks across the tree view and command palette for a more consistent visual experience.
 
 ![gulptaskicons](images/gulptaskicons.png)
-
-## Teams Toolkit → M365 Agents Toolkit
-
-All references to the Teams Toolkit have been updated to reflect the new name: Microsoft 365 Agents Toolkit. This includes code, docs, and UI elements.
-
-## Updated wiki link
-
-The wiki link has been updated to point to [the new documentation site](https://pnp.github.io/vscode-viva/). Make sure to update your bookmarks!
-
-## Dependency updates
-
-We’ve updated most extension dependencies to their latest stable versions. Along the way, we:
-- Updated the vsce package used in our workflows
-- Cleaned up unused packages
-- Switched type packages to use exact versions
-- Upgraded tailwindcss and adjusted styles
-- Bumped typescript to v5
-- Added a qna link in package.json to direct users to our GitHub Discussions
-- Did some minor code cleanup
-
-## Add tenant app catalog & add/remove site app catalog
-You can now:
-- Add a tenant app catalog (if one doesn’t exist)
-- Add or remove a site app catalog
-
-All from within the toolkit, no need to jump into the admin center.
-
-![appcatalog](images/appcatalog.png)
 
 ## Smarter app install handling
 
@@ -120,6 +100,16 @@ We’ve improved how SPFx Toolkit handles app installations, especially when thi
 - Remove if it’s a different app with the same version number
 
 This update also introduces progress notifications for SPFx actions, so you’ll always know what’s happening behind the scenes.
+
+## Housekeeping
+
+Alongside our major improvements, we’ve made a few smaller refinements to keep everything running smoothly:
+- Teams Toolkit → Microsoft 365 Agents Toolkit: All references have been updated, including code, documentation, and UI elements.
+- Updated wiki link: The documentation wiki now points [to the new site]((https://pnp.github.io/vscode-viva/)). Don’t forget to update your bookmarks!
+- Dependency updates: Most extension dependencies have been upgraded to their latest stable versions, including cleaned-up packages, precise version management, and an updated TypeScript v5.
+- Bug fix for form customizer on root site: An issue preventing form customizer setup on the root site has been resolved, along with improved URL validation.
+- Shortened command category names: The prefix “SharePoint Framework Toolkit” has been replaced with the more concise “SPFx Toolkit” for a cleaner and faster experience.
+- Improved app management UI: Context menu actions that are only relevant there have been hidden from the command palette to reduce clutter.
 
 ## 👏 You ROCK 🤩
 
