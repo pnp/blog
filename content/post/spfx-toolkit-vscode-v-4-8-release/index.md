@@ -28,12 +28,23 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 ##  Language model tools for GitHub Copilot agent mode
 
-This is the first prototype of language model tools integrated into the SPFx Toolkit. The goal? To explore how GitHub Copilot in agent mode can help you create, manage, and edit SharePoint content like sites, lists, and items directly from VS Code.
-We’re starting with these core SharePoint scenarios, and plan to expand and refine the available tools in future updates.
+Every SPFx solution, sooner or later, will need some SharePoint resources like a site, page, list, content types, items etc.
+
+Imagine being able to create them without stepping out of VS Code 🤯!
+
+That is exactly why we took the first steps to make this happen with the help of GitHub Agent mode. SPFx Toolkit now comes along with language model tools that you may use directly from within GitHub Copilot chat extension in agent mode.
 
 ![llm](images/llm.png)
+
+Based on your prompt, GitHub Copilot will figure out the best tool that it may use to fulfill your prompt.
+
 ![createsite](images/createsite.png)
+
+You may even chain multiple operations within a single prompt, as the agent mode is capable of executing multiple tasks that are required by your prompt.
+
 ![githubactionsprogress](images/githubactionsprogress.png)
+
+We are only getting started, but we already see a bright future and many possibilities to reshape how developers will be able to scaffold or prep their solutions. Sky is the limit 🚀!
 
 ## Support for installing the correct Node.js version
 
@@ -81,7 +92,7 @@ Now, you can perform these actions directly from within Visual Studio Code using
 
 - **Add a tenant app catalog:** If your tenant doesn’t already have an app catalog, you can create one with just a few clicks where the toolkit will guide you through the process.
 - **Add a site app catalog:** Need to scope app deployment to a specific site collection? You can now add a site app catalog to any eligible site directly from the toolkit. This is especially useful for scenarios where you want to test or deploy solutions without affecting the entire tenant.
-- **Remove a site app catalog:** If you no longer need a site app catalog, you can remove it just as easily. The toolkit ensures that the removal process is safe and provides confirmation prompts to prevent accidental deletions.
+- **Remove a site app catalog:** If you no longer need a site app catalog, you can disable it just as easily. Note that this does not actually delete the app catalog, but instead disables it, making all apps from that app catalog unavailable for installation on the related site. The toolkit ensures that the process is safe and provides confirmation prompts to prevent accidental actions.
 
 All these actions are available from the command palette and the toolkit’s UI, so you never have to leave your development environment. This streamlines your workflow, reduces context switching, and helps you stay focused on building great solutions.
 
