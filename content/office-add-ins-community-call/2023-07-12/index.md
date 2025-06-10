@@ -1,6 +1,6 @@
 ---
 title: "Office Add-ins developer platform community call – July 12, 2023"
-summary: "Topics include: Recap announcements made by the Add-ins org at Microsoft Build 2023 presented by Juan Balmori Labra, Principal Product Manager at Microsoft. Call hosted by Preethika Kiruveedula, Product Manager at Microsoft. Recorded on July 12, 2023."
+summary: "Topics include: Top 5 AppSource Validation Errors March - May 2023 presented by Elizabeth Samuel, Senior Technical Writer at Microsoft. Call hosted by Preethika Kiruveedula, Product Manager at Microsoft. Recorded on July 12, 2023."
 date: 2023-07-12T08:01:00-05:00
 author: "Preethika Kiruveedula"
 githubname: preethikakiru
@@ -10,7 +10,7 @@ images:
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
-- https://youtu.be/ACLYugQ6xgA
+- https://youtu.be/JGlF8yfrTlY
 draft: false
 ---
 
@@ -29,7 +29,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 ## View video segments
 
 * Introduction [00:00](https://www.youtube.com/watch?v=JGlF8yfrTlY)
-* The New Outlook and Outlook Add-ins – overview [00:45](https://youtu.be/JGlF8yfrTlY?t=45)
+* Top 5 AppSource Validation Errors March - May 2023 [00:45](https://youtu.be/JGlF8yfrTlY?t=45)
 * Q&A [09:08](https://youtu.be/JGlF8yfrTlY?t=547)
 * Closing [15:06](https://youtu.be/JGlF8yfrTlY?t=908)
 
@@ -56,7 +56,7 @@ The call was hosted by [Preethika Kiruveedula](www.linkedin.com/in/preethika-kir
 
 Office 365 provides APIs which can be Application specific or Common across multiple applications. Please find more details here: [https://learn.microsoft.com/office/dev/add-ins/reference/javascript-api-for-office](https://learn.microsoft.com/office/dev/add-ins/reference/javascript-api-for-office) Any API which is built for existing Outlook clients would be available for new Outlook as well and there is no additional work needed.
 
-**What is the status of pinning admin deployed add-ins to Outlook web as discussed in the Office Add-ins community call – March 2021.We need deployed add-ins to be immediately visible to users, not hidden requiring digging to find.**
+**What is the status of pinning admin deployed add-ins to Outlook web as discussed in the Office Add-ins community call – March 2021. We need deployed add-ins to be immediately visible to users, not hidden requiring digging to find.**
 
 We currently do not support pinning of admin deployed add-ins to Outlook Web but we acknowledge the request. We would get back with timelines on this one soon.
 

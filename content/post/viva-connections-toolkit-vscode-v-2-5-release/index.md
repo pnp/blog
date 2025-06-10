@@ -12,7 +12,7 @@ description: "Viva Connections Toolkit (SPFx Toolkit) is a Visual Studio Code ex
 summary: "Viva Connections Toolkit (SPFx Toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook and Microsoft365.com."
 # Taxonomies
 categories: ["Community post"]
-tags: ["VS Code", "SPFx", "SharePoint Framework", "Adaptive Card", "Viva", "Viva Connections"]
+tags: ["VS Code", "SharePoint Framework (SPFx)", "Adaptive Cards", "Viva Connections"]
 type: "regular"
 ---
 
@@ -42,11 +42,11 @@ Sounds cool 😎? Let’s have a deeper dive and check a couple of updates in a 
 
 CI/CD workflow action allows you to quickly generate a YAML workflow file for GitHub (Azure DevOps support is on the way) which then may be merged to your repository and used to bundle, package, and deploy your SPFx app on every push (or manually if set to do so).
 
-In this release, we did a total rebuild of the CI/CD workflow action. Previously the process of creating the workflow was based on answering questions presented by VS Code. 
+In this release, we did a total rebuild of the CI/CD workflow action. Previously the process of creating the workflow was based on answering questions presented by VS Code.
 
 ![CICD old approach](images/CICD-old-approach.png)
 
-This approach was confusing as it was not clear how many steps there were and what information would need to be provided to create a workflow. 
+This approach was confusing as it was not clear how many steps there were and what information would need to be provided to create a workflow.
 
 We took this feature back to the whiteboard and reimagined this experience from scratch 🤩. Now the dev will see a clean form divided into 3 steps. Thanks to this it is easy to get a glance at all the possible options and required information needed for the workflow. At start the form is prefilled with default data based on our SPFx solution so it is even possible not to change any of the fields... yee, just click generate and that's enough to get a basic working YAML flow generated 🤯.
 
@@ -54,7 +54,7 @@ We took this feature back to the whiteboard and reimagined this experience from 
 
 In the first step, we are required to provide some general info about the flow like the name of our pipeline or the name of the branch that will trigger the flow when we push new changes to it. Again all of those fields are already prefilled with defaults so we may just adjust what is needed.
 
-In the second step, we need to decide how our workflow will authenticate to our tenant. We may pick between `user` and `application` login methods. The Second one is the default and preferable approach that should be used in production environments. The `user` login method is good for a dev environment and will not work with accounts that have MFA (multifactor authentication). 
+In the second step, we need to decide how our workflow will authenticate to our tenant. We may pick between `user` and `application` login methods. The Second one is the default and preferable approach that should be used in production environments. The `user` login method is good for a dev environment and will not work with accounts that have MFA (multifactor authentication).
 Additionally, when we select the `application` login method we are given an option to generate a new certificate and create an Entra ID app registration with the required permissions. Previously this needed to be done manually by the dev and the guidance was present only in the extension wiki. Now not only do you get the guidance in the scaffolding form but you may even automate this step so you have less stuff to worry about 🚀.
 
 In the last (third) step we need to decide if the .sppkg package will be deployed to a tenant or site-level app catalog. When the site-level app catalog is picked we are presented with an additional field to pick (yes pick not write) the URL of one of the site-level app catalogs we have on our tenant. This is really cool as Viva Connections Toolkit is aware of your tenant all app catalogs so you don't need to worry about getting, copying, and pasting the correct URL.
@@ -84,7 +84,7 @@ The new sample gallery allows you to browse all 400+ 🤯 samples from a single 
 
 At the top of the gallery, you have additional filter fields which you may use to quickly find what you are looking for. Previously it was only possible to search by sample title. Now you may search by title, author, description, SPFx version, and component type. Additionally, you may set the view to show only scenarios. The scenario is a sample that has Code Tour guidance for the solution with step-by-step information on how to use the project.
 
-If the card view produces too much 'noise' you may change the view to list to get the minimum information on the screen. 
+If the card view produces too much 'noise' you may change the view to list to get the minimum information on the screen.
 
 ![list](images/list.png)
 

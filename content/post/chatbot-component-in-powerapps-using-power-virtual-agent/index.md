@@ -6,12 +6,12 @@ githubname: anandragav
 categories: ["Community post"]
 images:
 - images/image1.png
-tags: ["PowerApps", "Power Virtual agents"]
+tags: ["Power Apps", "Copilot Studio"]
 type: "regular"
 ---
 
 
-The chatbot component in powerapps using power virtual agents is a powerful tool that allows developers and citizen developers to integrate chat functionality into their Power Apps. This component enables users to engage in real-time conversations with virtual agents, providing a seamless and interactive experience.
+The chatbot component in powerapps using Copilot Studio is a powerful tool that allows developers and citizen developers to integrate chat functionality into their Power Apps. This component enables users to engage in real-time conversations with virtual agents, providing a seamless and interactive experience.
 
 With this chatbot component, users can easily communicate with the virtual agents, ask questions, and receive automated responses. It enhances the overall user experience by providing personalized and relevant information based on the user's queries.
 
@@ -19,13 +19,13 @@ With this chatbot component, users can easily communicate with the virtual agent
  
 ## Overview of steps
 
-To create a Power App using the chatbot component using power virtual agent, follow these steps:
+To create a Power App using the chatbot component using Copilot studio, follow these steps:
 
 1. Open Power Apps and create a new canvas app.
 2. Choose a layout and design for your app.
 3. Add the chatbot component to your app by selecting it from the available components.
-4. Configure the chat component by connecting it to your Power Virtual Agent instance.
-5. Create and build the chatbot in the Power Virtual agent authoring interface (see illustrations below)
+4. Configure the chat component by connecting it to your Copilot studio instance.
+5. Create and build the chatbot in the Copilot studio authoring interface (see illustrations below)
 6. Customize the chatbot component settings in PowerApps, such as appearance, and behavior.
 7. Build other app functionalities around the chat component, such as data retrieval or form submission.
 8. Test your app to ensure that the chat functionality is working correctly.
@@ -70,6 +70,3 @@ Finish the PowerApp and share with your users.
 By following these steps, you can create a Power App with integrated chat functionality, providing a seamless and interactive experience for your app users.
 
 By leveraging the chat-component-powerapps-using-power-virtual-agent, organizations can automate customer support, provide self-service options, and streamline various processes. This not only improves customer satisfaction but also increases efficiency by reducing manual interactions and response times.
-
-
-

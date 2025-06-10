@@ -1,6 +1,6 @@
 ---
 title: "Microsoft 365 PnP Weekly - Episode 235 - Nico De Cleyre"
-summary: "Microsoft 365 developer, Managing Partner in Belgium, Microsoft MVP - Nico De Cleyre joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on her career path and community involvement."
+summary: "Microsoft 365 developer, Managing Partner in Belgium, Microsoft MVP - Nico De Cleyre joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement."
 date: 2024-02-06T02:00:01-00:00
 author: "Vesa Juvonen"
 githubname: VesaJuvonen
@@ -91,7 +91,7 @@ These videos and podcasts are published each week and are intended to be roughly
 ## Videos
 
 * [Auto Tag Membership & Hide your channels | Ep 320](https://www.youtube.com/watch?v=V3mi5sUc5kM) - [Daniel Glenn](https://www.linkedin.com/in/danielglenn/) & [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) (Modern Workplace Change)
-* [Episode #277 - Examples of using Microsoft Copilot for Microsoft 365 in Microsoft Outlook](https://www.youtube.com/watch?v=bYk04wycwiE) - [Paolo Pialorsi](https://www.linkedin.com/in/
+* [Episode #277 - Examples of using Microsoft Copilot for Microsoft 365 in Microsoft Outlook](https://www.youtube.com/watch?v=bYk04wycwiE) - [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
 * [5 Fancy Functions in Power Apps](https://www.youtube.com/watch?v=tRIVjDASxMY) - [Shane Young](https://www.linkedin.com/in/cincyshane/) (PowerApps911)
 * [Master Your Time with the Modern Weekly Timesheet Power Apps Template](https://www.youtube.com/watch?v=7cQYLkPLjdc) - [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft)
 

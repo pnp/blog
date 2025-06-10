@@ -4,13 +4,13 @@ date: 2023-11-08T09:00:00-00:00
 author: "Chandani Prajapati"
 githubname: chandaniprajapati
 categories: ["Community post"]
-tags: ["PowerApps", "Power Platform", "PCF Components", "Custom Controls", "React", "PowerApps Component Framework"]
+tags: ["Power Apps", "Power Platform", "PCF Components", "Custom Controls", "React", "PowerApps Component Framework"]
 type: "regular"
 ---
 
 ## Introduction
 
-PCF or PowerApps Component Framework, is a way for developers to create their own special features or elements that can be added to Microsoft PowerApps. 
+PCF or PowerApps Component Framework, is a way for developers to create their own special features or elements that can be added to Microsoft PowerApps.
 
 PowerApps is a platform for building custom business applications. PCF lets developers build these extra features using web technologies, like HTML and JavaScript. These features can be things like unique buttons or data displays. PCF components can be used in different PowerApps applications, making it easier to add custom functions and make your apps even more powerful. It's like adding new tools to your app-building toolbox.
 
@@ -96,7 +96,7 @@ Here are the key files and configurations involved in a React PCF component:
 - Now, you can add the component to your application.
 
 ## Add component to canvas app
-   
+
 - Open Power Apps Studio.
 - Start by either making a new canvas app or editing an existing one where you want to use the code component.
 - In the left panel, click on "Add" (+) and then choose "Get more components."

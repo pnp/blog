@@ -7,7 +7,7 @@ githubname: rabwill
 categories: ["Community post"]
 images:
 - images/TTK-doodle.png
-tags: ["Microsoft365", "Azure AD", "Microsoft Graph", "Microsoft Teams",  "SharePoint Framework (SPFx)" ]
+tags: ["Microsoft 365", "Azure AD", "Microsoft Graph", "Microsoft Teams",  "SharePoint Framework (SPFx)" ]
 videos:
 - https://www.youtube.com/watch?v=vzmpJKMBOKk
 draft: false

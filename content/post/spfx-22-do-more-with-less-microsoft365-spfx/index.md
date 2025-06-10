@@ -9,8 +9,7 @@ images:
   - images/22-do-more-with-less-in-microsoft-365-spfx.png
 tags:
   - Microsoft Teams
-  - Microsoft Viva
-  - SharePoint
+  - Viva Connections
   - SharePoint Framework (SPFx)
 type: regular
 draft: false

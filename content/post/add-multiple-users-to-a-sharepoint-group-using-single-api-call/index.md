@@ -10,7 +10,7 @@ categories:
 images:
   - images/thumbnail.jpg
 tags:
-  - SharePoint
+  - SharePoint Framework (SPFx)
 type: regular
 lastmod: 2022-12-27T11:19:15.961Z
 preview: /content/post/add-multiple-users-to-a-sharepoint-group-using-single-api-call/images/thumbnail.jpg

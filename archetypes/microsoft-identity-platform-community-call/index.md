@@ -8,7 +8,7 @@ categories: ["Microsoft Identity platform community call"]
 # To use, add an image named `thumbnail.jpg/png` to your page's images folder. Make sure to replace the placeholder image
 images:
 - images/thumbnail.png
-tags: ["Office Add-ins", "Extensions","Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
+tags: ["Office Add-ins", "SPFx Extensions" ,"Microsoft 365", "Microsoft Graph","Microsoft Teams","SharePoint","SharePoint Framework (SPFx)"]
 # Videos lists the video on the page for social media
 videos:
 - https://www.youtube.com/watch?v=INSERT-VIDEO-CODE-HERE
@@ -35,7 +35,7 @@ This month’s in-depth topic: INSERT TEXT HERE.  Recorded DATE. Q&A in chat a
 -   Documentation - [TITLE](LINK) 
 -   Documentation - [TITLE](LINK) 
 -   Documentation - [TITLE](LINK) 
- 
+
 ## Stay connected
 
 -   Twitter [https://twitter.com/microsoft365dev](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdvcDJHcGdzM2VIUkwzU3lOYkJaVFEzM0Q2QXxBQ3Jtc0ttM1NyaTQ2RjFSOFh3a0l4c1pralBRQVI1bDNSQ2RaVm9OdzJrRkdtV1Z1SW5VdmdwamNNLTBEaFdaSmZMc0lQNzdRZ2dDYV9WZVF1ZVIwc2dPQTZBRUZ3b3hoWUVJdDJoQWZUcWdCR2JKdmwtUU43RQ&q=https%3A%2F%2Ftwitter.com%2Fmicrosoft365dev)​ and **@azuread**
@@ -45,4 +45,3 @@ This month’s in-depth topic: INSERT TEXT HERE.  Recorded DATE. Q&A in chat a
 
 
 {{< attachments >}}
-
