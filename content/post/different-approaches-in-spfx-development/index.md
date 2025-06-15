@@ -13,7 +13,7 @@ tags:
     SharePoint Framework (SPFx),
     SPFx,
     VS Code,
-    M365 CLI,
+    CLI for Microsoft 365,
     Yeoman Generator,
   ]
 type: "regular"
@@ -37,15 +37,15 @@ Each approach, whether it's through the command line, the SPFx Toolkit in VS Cod
 
 Let’s explore in action how each of the tooling options facilitates setting up the local environment for SPFx development.
 
-### 1. Microsoft 365 CLI
+### 1. CLI for Microsoft 365
 
-With Microsoft 365 CLI, you can manage your Microsoft 365 tenant and SharePoint Framework projects on any platform. No matter if you are on Windows, macOS or Linux, using Bash, Cmder or PowerShell, using the CLI for Microsoft 365 you can configure Microsoft 365, manage SharePoint Framework projects and build automation scripts.
+With CLI for Microsoft 365, you can manage your Microsoft 365 tenant and SharePoint Framework projects on any platform. No matter if you are on Windows, macOS or Linux, using Bash, Cmder or PowerShell, using the CLI for Microsoft 365 you can configure Microsoft 365, manage SharePoint Framework projects and build automation scripts.
 
-Before working with M365 CLI, make sure you have installed it using the following npm script:
+Before working with CLI for Microsoft 365, make sure you have installed it using the following npm script:
 
 `npm i -g @pnp/cli-microsoft365`
 
-After installing it, you need to set it up to start using it. Follow the [M365 CLI documentation](https://pnp.github.io/cli-microsoft365/#getting-started) and complete the setup. Just like what we performed with the other approaches above, M365 CLI offers a command that verifies whether your local environment meets the requirements to work with SharePoint Framework.
+After installing it, you need to set it up to start using it. Follow the [CLI for Microsoft 365 documentation](https://pnp.github.io/cli-microsoft365/#getting-started) and complete the setup. Just like what we performed with the other approaches above, CLI for Microsoft 365 offers a command that verifies whether your local environment meets the requirements to work with SharePoint Framework.
 
 Open Command Prompt and start typing:
 
@@ -71,12 +71,12 @@ Once it is installed, you will be able to see the SPFx Toolkit icon in the side 
 
 Lets focus on following actions:
 
-- Check Dependencies: Validates the local setup and checks whether all the required dependencies for working with SPFx are available.
+- Validate local setup: Validates the local setup and checks whether all the required dependencies for working with SPFx are available.
   If Node.js is not installed, this action will display a message indicating that you need to install the Node.js version required by the latest SPFx specifications. The message also includes links to the supported LTS version of Node.js, and if you prefer using NVM or NVS, relevant links are provided in the dialog as well.
 
 ![image comes here](images/SPFx-Toolkit_4.png)
 
-- Install Dependencies: If the validation using "Check Dependencies" shows ‘Failed validating local setup’, then use this action. It runs an npm installation script to install all the necessary npm modules for SPFx development.
+- Install Dependencies: If the validation using "Validate local setup" shows ‘Failed validating local setup’, then use this action. It runs an npm installation script to install all the necessary npm modules for SPFx development.
 
 ![image with npm success message](images/SPFx-Toolkit_3.png)
 ![image with npm success message](images/SPFx-Toolkit_5.png)
@@ -160,24 +160,24 @@ And in case you don’t want to create a new project, you can select the **"Ope
 
 ## Manage SPFx Solutions in SharePoint Online
 
-As we’ve seen how different toolings help developers in setting up the local environment and scaffolding SPFx projects, now let’s explore how these toolings assist in managing SPFx solutions in SharePoint Online. Let’s begin with M365 CLI, and later we’ll dive into the capabilities of the SPFx Toolkit.
+As we’ve seen how different toolings help developers in setting up the local environment and scaffolding SPFx projects, now let’s explore how these toolings assist in managing SPFx solutions in SharePoint Online. Let’s begin with CLI for Microsoft 365, and later we’ll dive into the capabilities of the SPFx Toolkit.
 
-### M365 CLI
+### CLI for Microsoft 365
 
-For managing SPFx solutions in the App Catalog, M365 CLI offers a wide variety of commands, not only for SPFx apps but also for many other Microsoft 365 operations. Let’s look at a few key commands in detail:
+For managing SPFx solutions in the App Catalog, CLI for Microsoft 365 offers a wide variety of commands, not only for SPFx apps but also for many other Microsoft 365 operations. Let’s look at a few key commands in detail:
 
 - spo app add – Allows developers to upload SPFx apps to the tenant-wide App Catalog or site collection level.
-- spo app deploy – After uploading an app to the catalog, this command is used to deploy it. You’ll need to specify the app’s ID or name, along with the App Catalog URL and scope.
-- spo app get – Useful for retrieving metadata of uploaded apps, such as AAD permissions, CDN locations, and more.
+- spo app deploy – After uploading an app to the app catalog, this command is used to deploy it. You’ll need to specify the app’s ID or name, along with the App Catalog URL and scope.
+- spo app get – Useful for retrieving metadata of uploaded apps, such as Entra permissions, CDN locations, and more.
 - spo app install – Enables developers to install SPFx apps into specified SharePoint sites.
 
-🔗 Check out the full [M365 CLI documentation](https://pnp.github.io/cli-microsoft365/cmd/docs) for more commands
+🔗 Check out the full [CLI for Microsoft 365 documentation](https://pnp.github.io/cli-microsoft365/cmd/docs) for more commands
 
-As we’ve seen, M365 CLI is a powerful tool for managing SPFx apps. But its capabilities go far beyond that, it includes a wide range of commands for managing your entire Microsoft 365 environment.
+As we’ve seen, CLI for Microsoft 365 is a powerful tool for managing SPFx apps. But its capabilities go far beyond that, it includes a wide range of commands for managing your entire Microsoft 365 environment.
 
 ### SPFx Toolkit Manage Capabilities
 
-We’ve seen that SPFx Toolkit is a complete package, offering all essential features in one place. Now, let’s explore its potential for managing SPFx apps using the "Manage App Catalog Details" feature and the SPFx Chat Participant with the `/manage` command.
+We’ve seen that SPFx Toolkit is a complete package, offering all essential features in one place. Now, let’s explore its potential for managing SPFx apps using the "Manage App Catalog Details" feature and the SPFx Chat Participant with the `/info` command.
 
 #### 1. App Catalog Details View:
 
@@ -198,7 +198,7 @@ If you select the **App Catalog Details** view, you will be able to see a bunc
 
 When it comes to managing individual apps, SPFx Toolkit provides more flexibility to the developers; you don't need to switch between apps, all operations can be done right from your favorite code editor.
 
-Just as we saw what M365 CLI offers for managing apps, similarly, SPFx Toolkit offers a similar set of options but in your code editor itself.
+Just as we saw what CLI for Microsoft 365 offers for managing apps, similarly, SPFx Toolkit offers a similar set of options but in your code editor itself.
 
 1. Deploy & Retract: The Deploy and Retract commands are used for managing app availability. Deploy makes the app available for installation, whereas Retract reverts the deployed app to a disabled state, preventing users from installing it on sites.
 2. Remove: The remove action helps you to completely removes the app from app catalog site.
