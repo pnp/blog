@@ -1,5 +1,6 @@
 ---
 title: Weekly Agenda - 16th of June week
+
 date: 2025-06-13T02:29:32.430Z
 author: Vesa Juvonen
 githubname: vesajuvonen
@@ -65,7 +66,8 @@ This call will be broadcasted live from the [Microsoft 365 Community Conference]
 
 Demos this time:
 
-* [Nanddeep Nachan](https://www.linkedin.com/in/nanddeepnachan/) (FineTune Solutions) and [Smita Nachan](https://www.linkedin.com/in/smitanachan/) – Building efficient SharePoint Management with SharePoint Agents
+
+* [Nanddeep Nachan](https://www.linkedin.com/in/nanddeepnachan/) (FineTune Solutions) and [Smita Nachan](https://www.linkedin.com/in/smitanachan/) – Building efficient SharePoint Managementwith SharePoint Agents
 * [João Ferreira](https://www.linkedin.com/in/joao12ferreira/) (Appspace) – How to build a modern, personal and intelligent intranet using SharePoint flexible layouts, Microsoft Lists and Viva Connections
 * [Ezekiel Ibegbunam](https://www.linkedin.com/in/ezekiel-ibegbunam/) (KPMG) – Building a SharePoint Agent for financial reporting
 
@@ -80,6 +82,7 @@ Also: 📷 Picture Time with community in Together Mode!
 Update of the newly published videos in our YouTube channel 
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
+
 
 * [Introduction to AI powered SharePoint FAQ web part](https://www.youtube.com/watch?v=en35WoGXfMg) by [Tina Chen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Getting ready for community call demo - Instructions and guidance](https://www.youtube.com/watch?v=y9VWX_l5YD0&pp=0gcJCd4JAYcqIYzv) by [Luise Freese](https://www.linkedin.com/in/luisefreese/), [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
