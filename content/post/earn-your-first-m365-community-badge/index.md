@@ -20,7 +20,7 @@ type: "regular"
 
 From time to time, I need to upload things to GitHub—whether it's because I need to for work or because I created a piece of content that I want to share with others (so they can improve it and take it to levels that I can't on my own). The only issue is that I am just terrible at it.
 
-![There it is. The community holy grail of M365. All at your fingertips.](https://unsuckm365.wordpress.com/wp-content/uploads/2025/06/pnp-github.png?w=1024)  
+![There it is. The community holy grail of M365. All at your fingertips.](images/pnp-github-badge.png)  
 *There it is. The community holy grail of M365. All at your fingertips.*
 
 ### So.... do you also suck at GitHub as much as I do?
@@ -43,7 +43,7 @@ By attending this session, you’re not just sitting through another tutorial—
 - By the end? You’ll have actually published your first contribution to GitHub  
 - **And if you like badges**, you will also leave the session with a shiny new Community Contributor badge on [Credly](https://www.credly.com/badges/a58802eb-39b1-4a6f-9c57-37febeb9eb77/public_url). Don’t believe me? [Here’s the link to mine](https://www.credly.com/badges/a58802eb-39b1-4a6f-9c57-37febeb9eb77/public_url). Go ahead, click it. It sparkles.
 
-[![Community Contributor badge](https://unsuckm365.wordpress.com/wp-content/uploads/2025/06/community-contributor-2025-blog.png?w=723)](https://www.credly.com/badges/a58802eb-39b1-4a6f-9c57-37febeb9eb77/public_url)
+[![Community Contributor badge](images/community-contributor-2025-blog.png)](https://www.credly.com/badges/a58802eb-39b1-4a6f-9c57-37febeb9eb77/public_url)
 
 And can we take another moment to appreciate how *ridiculously* handsome the hosts are? It’s honestly distracting. In a good way.
 
