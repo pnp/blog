@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 23rd of June week
-date: 2025-06-18T08:46:10.127Z
+title: Weekly Agenda - 30th of June week
+date: 2025-06-27T13:11:03.552Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary25.png
+  - images/weeklysummary26.png
 tags: []
 type: trending
 videos:
@@ -21,33 +21,31 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform weekly call - 24th of June
+### Microsoft 365 & Power Platform weekly call - 1st of July - COMMUNITY TAKEOVER DURING SUMMER ☀️
 
-* Tuesday, 24th of June 2025, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 1st of July 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos: 
 
-* [Katerina Chernevskaya](https://www.linkedin.com/in/katerinachernevskaya/) (Awara IT) – Term Buddy - your AI-powered terminology assistant (PowerfulDevs Hackathon Winner 🏆)
-* [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) – Observability for AI Agents, Powered by OpenTelemetry and CAPs
-* [Matthew Barbour](https://www.linkedin.com/in/matt-barbour-02702b1/) – Microsoft 365 Copilot Retrieval API & Microsoft 365 Agents SDK
-
+* [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade) and [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity) – Mental Health First Aider – SharePoint Agent embedded in SharePoint Page
+* [Shrushti Shah](https://www.linkedin.com/in/shrushti-shah-bba565162/) (Rapid Circle) – Revolutionizing Claims Adjustments with Real-Time Insights: A Game-Changer for the Insurance Industry
 
 ---
 
-### Microsoft 365 & Power Platform bi-weekly community Call - 26th of June
+### Microsoft 365 & Power Platform bi-weekly community Call - 3rd of July
 
 
-* Thursday, 26th of June, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 3rd of July, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) (Hitachi Energy) –  How to create interactive demos in SharePoint using SPFx
-* [Katrina Frolkina](https://www.linkedin.com/in/katrinafrolkina/) (Plumsail) – Building an advanced ticket management features with SPFx
-* [Henry Amm](https://www.linkedin.com/in/henryamm/) (adenin) – Building hyper-personalized SharePoint experiences with AI
+* [Matthew Jimison](https://www.linkedin.com/in/matthewjimison/) (Takeda) – Triggernometry: Advanced Copilot Studio Topic Triggers
+* [Yuti Gandhi](https://www.linkedin.com/in/yutigandhi/) (Finz) – Building a Booking.com clone in SharePoint portals
+* [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-You Business Solutions) – Highlighting Federated Identity: Deploying Microsoft 365 artifacts from Azure DevOps and GitHub without certificates or secrets
 
 
 Also: 📷 Picture Time with community in Together Mode!
@@ -62,37 +60,53 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Introduction to SPFx Toolkit management capabilities](https://www.youtube.com/watch?v=NyH7ATaEKRI&pp=0gcJCb4JAYcqIYzv)
-* [Microsoft 365 & Power Platform weekly call – 17th of June, 2025](https://www.youtube.com/watch?v=n11c16yKLeM)
-* [Getting started on creating autonomous agent with Copilot Studio](https://www.youtube.com/watch?v=Sv8SOUBg2-E) by [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft)
-* [OneDrive: The Next Era | Microsoft 365 Community Conference 2025](https://www.youtube.com/watch?v=jk33Y6ZdBWA)
-* [How to build a PTO Assistant with Copilot Studio](https://www.youtube.com/watch?v=ZoSXtuD_PKc&pp=0gcJCb4JAYcqIYzv) by [Salah Saleh](https://www.linkedin.com/in/salah/)
-* [New access controls in SharePoint Embedded](https://www.youtube.com/watch?v=uyEWJLXA-Zs) by [Marc Windle](https://www.linkedin.com/in/marc/) (Microsoft) and [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft)
-* [The future of work: How AI will transform Small and Medium Businesses | M365 Community Conference](https://www.youtube.com/watch?v=QzFastLrJBA)
-* [Introduction to AI powered SharePoint FAQ web part](https://www.youtube.com/watch?v=en35WoGXfMg)
+* [Understanding Microsoft 365 Copilot Extensibility](https://www.youtube.com/watch?v=uzzazDawRfA)
+* [Enhance Your Canvas Apps with Custom URLs](https://www.youtube.com/watch?v=PGnWLrhdmqY) by [Samuel Owens](https://www.linkedin.com/in/shammyowens/)
+* [Building a List Metrics SPFx Web Part](https://www.youtube.com/watch?v=xQNt9VKOzlo) by [Tanel Vähk](https://www.linkedin.com/in/tvahk/) (Deptive)
+* [Inside SharePoint Embedded: AI-Ready Apps, Copilot Integration & Developer Flexibility](https://www.youtube.com/watch?v=-Dhnmfe1tPo)
+* [Introduction to new SharePoint page template gallery](https://www.youtube.com/watch?v=P9odlEjY0Mo)
+* [Building a Smart Feedback Agent with Copilot Studio](https://www.youtube.com/watch?v=7xG8By2vqsA) by [Seena Kahn](https://www.linkedin.com/in/seena/) (Spektra Systems)
+* [Knowledge Management in Microsoft 365: A Conversation with Sue Hanley & Laura Rogers](https://www.youtube.com/watch?v=Lz6_kWebdyQ)
+* [How to add your Copilot Studio agent to a Model-Driven App's Side Pane](https://www.youtube.com/watch?v=Mb-aYZ22waY) by [Angeliki Patsiavou​](https://www.linkedin.com/in/angeliki-patsiavou/)
+* [OneDrive Office Hours | June 2025](https://www.youtube.com/watch?v=owQAfw1KZv0)
+* [Sara Haas & April Dunnam | Microsoft Community News Desk](https://www.youtube.com/watch?v=7K913AWpB4E)
+* [Building a List Formatting samples Web Part](https://www.youtube.com/watch?v=0P2X2aVw6jI) by [Luise Freese](https://www.linkedin.com/in/luisefreese/) (M365Princess)
+* [Driving successful adoption and delivering value for frontline workers](https://www.youtube.com/watch?v=t1n8u8RoUk4)
+* [Repairing flow errors with Copilot’s assistance in Power Automate Desktop for Unattended scenarios](https://www.youtube.com/watch?v=KV92MJYA8mY) by [Manish Solanki](https://www.linkedin.com/in/manish/)
+* [Enabling AI powered collaboration with the new Microsoft 365 Copilot app | M365 Community Conference](https://www.youtube.com/watch?v=UY0pxioR52Q)
+* [Fetching Images from SharePoint and Dynamic Signatures from Power Apps Using Power Automate](https://www.youtube.com/watch?v=S5poZ8dbx1U) by [Nilüfer Doğan​](https://www.linkedin.com/in/nil%c3%bcfer-do%c4%9fan/)
+* [What's next with External Networks in Viva Engage Webinar](https://www.youtube.com/watch?v=NhPu-u_vz4Y)
+* [Deploying Microsoft Frontline solutions: Best practices and strategies](https://www.youtube.com/watch?v=rN9GPC75zoE)
 
 Update of the newly published videos in [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Generate technology proposal | Power Platform Shorts](https://www.youtube.com/watch?v=J7pLBXeKmsY)
-* [Plan agents and copresence | Power Platform Shorts](https://www.youtube.com/watch?v=-lnmoaDukk8)
+* [Enable computer use | Power Platform Shorts](https://www.youtube.com/watch?v=AtdMN9Avg8U)
+* [Microsoft MVP Parvez Ghumra gets ready for PPCC25!](https://www.youtube.com/watch?v=3-_U2hJ4I3o)
+* [Copilot Studio Licensing - Power CAT AI Webinars](https://www.youtube.com/watch?v=cUEGt3qWy_o)
+* [Savings in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=WICnTCCU3TU)
+* [Microsoft MVP Ana Ines Urrutia prepares for PPCC25!](https://www.youtube.com/watch?v=re7Stplvrjs)
 
 Update of the newly published videos in [Microsoft 365 Developer YouTube channel](https://www.youtube.com/@Microsoft365Developer) - Subscribe today!
 
-* no new videos tis week
+* [Build a smart support chat with Azure Communication Services and OpenAI](https://www.youtube.com/watch?v=mU5mEFMN_JI)
+* [Copilot Developer Camp is Now Available in Japanese](https://www.youtube.com/watch?v=FccY3IREyw0)
 
 ## New Microsoft 365 Developer Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 Developer blog](https://devblogs.microsoft.com/microsoft365dev/). Here are the updates from last week.
 
 
-* no new posts this week
+* [Dev Proxy v0.29 with refactored architecture, MCP server, and exposed LM prompts](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-29-with-refactored-architecture-mcp-server-and-exposed-lm-prompts/) by [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft) and [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) 
+* [Deprecation of MS-APP-ACTS-AS header in Shifts Management Microsoft Graph APIs](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-ms-app-acts-as-header-in-shifts-management-microsoft-graph-apis/) by Mike Lee (Microsoft)
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
 All the latest updates on the Microsoft 365 platform are shared from the [Microsoft 365 and Power Platform Community Blog](https://pnp.github.io/blog/). Here are the updates from last week.
 
-* no new posts this week
+* [A Deep Dive Into SPFx Development Approaches: CLI, SPFx Toolkit, and GitHub Chat Participant](https://pnp.github.io/blog/post/different-approaches-in-spfx-development/) by [Sandeep PS ](https://www.linkedin.com/in/sandeepps1299/) (EY)
+* [Earn your first Microsoft 365 community badge (even if GitHub scares you)](https://pnp.github.io/blog/post/earn-your-first-m365-community-badge/) by [Diego Domingos da Silva](https://www.linkedin.com/in/diegodasilva/) (Samaritian Health Services)
+
 
 ---
 
@@ -100,6 +114,14 @@ All the latest updates on the Microsoft 365 platform are shared from the [Micros
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Viva Connections and SharePoint Framework community call 26th of June 2025](https://www.youtube.com/watch?v=HDW1WNaewEE)
+* [Microsoft 365 Champion Community Call | June 2025](https://www.youtube.com/watch?v=CO8xKLbq_Dc)
+* [Microsoft 365 & Power Platform weekly call – 24th of June, 2025](https://www.youtube.com/watch?v=2F9kNaJWkKY&pp=0gcJCcMJAYcqIYzv)
+* [Office add-ins community call - June 2025](https://www.youtube.com/watch?v=rhGcaRQ1CFY)
+* [Microsoft 365 & Power Platform community call - 19th of June 2025](https://www.youtube.com/watch?v=BDa1se9WL9k)
+* [MGCI Community Call | June 2025](https://www.youtube.com/watch?v=dBLjB98SJL4&pp=0gcJCcMJAYcqIYzv)
+* [Maturity Model for Microsoft 365 - June 2025](https://www.youtube.com/watch?v=1nNP1CzgnAE)
+* [Microsoft Power Platform community call – June 2025](https://www.youtube.com/watch?v=sDWF_uE43pc)
 * [Viva Connections and SharePoint Framework community call 12th of June 2025](https://www.youtube.com/watch?v=_R8HySsgc70)
 
 
@@ -122,7 +144,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
 
-* [TechCon 365 - Seattle](https://www.techcon365.com/Seattle/) - June 23-27, 2025 - Seattle, Washington, USA
 * [TechCon 365 - Atlanta](https://techcon365.com/Atlanta/) - August 11-15, 2025 - Atlanta, Georgia, USA
 * [Power Platform Community Conference](https://powerplatformconf.com/) - October 28-30, 2025 - Las Vegas, Nevada, USA
 * [Microsoft Ignite](https://ignite.microsoft.com/) - November 18-20, 2025 - San Francisco, California, USA
@@ -130,13 +151,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [DATACON](https://www.communitydays.org/event/2025-06-23/datacon), June 23, 2025 – Seattle, WA, United States
-* [TechCon 365 and PWRCON Seattle 2025](https://www.communitydays.org/event/2025-06-23/techcon-365-and-pwrcon-seattle-2025), June 23, 2025 – Seattle, WA, United States
-* [AgentCon Manchester](https://www.communitydays.org/event/2025-06-27/agentcon-manchester), June 27, 2025 – Manchester, United Kingdom
-* [Pre-Conference 2025 SQL Saturday San Diego](https://www.communitydays.org/event/2025-06-27/pre-conference-2025-sql-saturday-san-diego), June 27, 2025 – San Diego, CA, United States
-* [CollabDays Hamburg 2025](https://www.communitydays.org/event/2025-06-28/collabdays-hamburg-2025), June 28, 2025 – Hamburg, Germany
-* [Cloud Fest Africa](https://www.communitydays.org/event/2025-06-28/cloud-fest-africa), June 28, 2025 – Ilupeju, Lagos, Nigeria
-* [SQL Saturday San Diego 2025](https://www.communitydays.org/event/2025-06-28/sql-saturday-san-diego-2025), June 28, 2025 – San Diego, CA, United States
+
 * [AI Community Conference - AICO DC](https://www.communitydays.org/event/2025-07-10/ai-community-conference-aico-dc), July 10, 2025 – Reston, VA, United States
 * [DynamicsCon Regional - West Africa](https://www.communitydays.org/event/2025-07-19/dynamicscon-regional-west-africa), July 19, 2025 – Accra, Ghana, Ghana
 * [M365 Community Days NYC](https://www.communitydays.org/event/2025-07-25/m365-community-days-nyc), July 25, 2025 – New York, NY, United States
