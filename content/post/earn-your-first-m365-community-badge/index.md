@@ -7,23 +7,20 @@ githubname: UnsuckM365
 categories: ["Community post"]
 # link to the thumbnail image for the post
 images:
-- images/M365Con-letters.jpg
+- images/community-contributor-2025-blog.jpg
 # don't change
 tags: ["Community","Sharing is Caring","GitHub"]
 # don't change
 type: "regular"
+CanonicalUrl: https://unsuckm365.com/2025/06/23/earn-your-first-microsoft-365-community-badge-even-if-github-scares-you/
 ---
-
-[Original Post](https://unsuckm365.com/2025/06/23/earn-your-first-microsoft-365-community-badge-even-if-github-scares-you/)
-
-# Earn your first Microsoft 365 community badge (even if GitHub scares you)
 
 From time to time, I need to upload things to GitHub—whether it's because I need to for work or because I created a piece of content that I want to share with others (so they can improve it and take it to levels that I can't on my own). The only issue is that I am just terrible at it.
 
 ![There it is. The community holy grail of M365. All at your fingertips.](images/pnp-github-badge.png)  
 *There it is. The community holy grail of M365. All at your fingertips.*
 
-### So.... do you also suck at GitHub as much as I do?
+## So.... do you also suck at GitHub as much as I do?
 
 I use GitHub so infrequently that every time I need it, I have to scramble through my old notes to remind myself how it all works. If you are often finding yourself lost in the myriad of terms — *fork*, *pull*, *branch* — and often wonder if this is all a foreign language or if you are straight up being pranked, then I have the right solution for you.
 
@@ -33,7 +30,7 @@ This session is part of the [**Sharing is Caring**](https://aka.ms/sharing-is-ca
 
 As highlighted *several times* by the super handsome hosts [David Warner](https://warner.digital/) and [Hugo Bernier](https://tahoeninja.blog/), this session is a **safe space**. You don’t get recorded, and no one will make fun of you for not knowing (or not remembering) how to fork a repository, *even after being taught how to do it over 10 times like I have*. Let's be honest, we've all been there.
 
-### Did I mention Credly badges?
+## Did I mention Credly badges?
 
 By attending this session, you’re not just sitting through another tutorial—you’re actively unlocking the knowledge, tools, and support you need to go from “totally lost” to “GitHub contributor.” Here's what you’ll walk away with (and yes, it’s worth it):
 
@@ -49,7 +46,7 @@ And can we take another moment to appreciate how *ridiculously* handsome the hos
 
 This isn’t just for developers. You don’t need to be some kind of GitHub ninja or even know what `npm install` does. If you’ve created something that helped you or your organization in Microsoft 365 or Power Platform, chances are it could help someone else too. And now you’ll know how to share it.
 
-### Ready to explore (or contribute to) community samples?
+## Ready to explore (or contribute to) community samples?
 
 Once you get the hang of it—which, let’s be honest, means you’ll be at least 10 times better at this than me—you can dive into the full gallery of Microsoft 365 & Power Platform community samples. From SPFx solutions to Flow templates, it’s all there waiting for you:
 
