@@ -1,6 +1,6 @@
 ---
 title: "A Deep Dive Into SPFx Development Approaches: CLI, SPFx Toolkit, and GitHub Chat Participant"
-date: 2025-06-11T11:01:00Z
+date: 2025-06-27T11:01:00Z
 author: "Sandeep P S"
 githubname: Sandeep-FED
 # Don't change
