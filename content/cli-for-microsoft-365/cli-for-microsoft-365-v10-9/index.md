@@ -40,7 +40,7 @@ This release also brings some other great changes. Aside from many improvements 
 
 ### Node.js Support Update
 
-We've removed support for Node.js 18 as part of our ongoing effort to maintain compatibility with the latest and most secure versions of Node.js. This change ensures that CLI for Microsoft 365 continues to leverage the latest features and security improvements available in newer Node.js versions.
+We've removed support for Node.js 18, which has reached its end of life, as part of our ongoing effort to maintain compatibility with the latest and most secure versions of Node.js. This change ensures that CLI for Microsoft 365 continues to leverage the latest features and security improvements available in newer Node.js versions.
 
 ### Docker Improvements
 
