@@ -1,6 +1,6 @@
 ---
 title: "Earn your first Microsoft 365 community badge (even if GitHub scares you)"
-date: 2025-06-23T21:30:00-04:00
+date: 2025-06-26T21:30:00-04:00
 author: "Diego Silva"
 githubname: UnsuckM365
 # don't change
