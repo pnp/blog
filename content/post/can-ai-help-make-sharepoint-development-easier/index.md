@@ -34,7 +34,9 @@ With the **Web Part Genie** web part you could type for example:
 
 ...which results in a functional stock ticker web part ready to be added to your SharePoint page.
 
+
 ![A stock ticker web part for a SharePoint intranet created by AI](https://github.com/HenryAmm/pnp-blog-article-submission/blob/can-ai-help-make-sharepoint-development-easier/content/post/can-ai-help-make-sharepoint-development-easier/images/image.png?raw=true)
+
 
 Here are [some more examples](https://github.com/SharePoint/sharepoint-hackathon/issues/19#:~:text=of%20an%20intranet-,Screenshots,-%22Make%20me%20a) of what Web Part Genie can do based on user prompts, including:
 
