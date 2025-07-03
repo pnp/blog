@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 7th of July week
-date: 2025-06-27T13:11:03.552Z
+date: 2025-07-03T14:09:23.050Z
 author: Luise Freese
 githubname: LuiseFreese
 categories:
