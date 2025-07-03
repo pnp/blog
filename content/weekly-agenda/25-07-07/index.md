@@ -29,7 +29,7 @@ This is the agenda for the upcoming week:
 
 Demos: 
 
-* [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/) (Microsoft) – Using TypeSpec to create Declarative Agents for Microsoft 365 Copilot
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Using TypeSpec to create Declarative Agents for Microsoft 365 Copilot
 * [Julie Koesmarno](https://www.linkedin.com/in/juliekoesmarno/) (Microsoft) – Introduction to Dataverse MCP
 * [Nicki Usiondek](https://www.linkedin.com/in/nusiondek/) (Fragomen) – SharePoint Hackathon: DexSolving Homepage
 
