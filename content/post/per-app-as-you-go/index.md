@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Per-App-as-You-Go"
 date: 2025-07-14T08:00:00+02:00
 author: "Jakub Bajla"
 githubname: JakubBJL
 categories: ["Community post"]
-tags: [Power Platform, Power Apps, Power Automate, Microsoft 365, Azure AD, Governance, ALM]
+tags: [Power Platform, Power Apps, Power Automate, Microsoft 365, Microsoft Entra ID, Governance, ALM]
 type: "regular"
 ---
 
