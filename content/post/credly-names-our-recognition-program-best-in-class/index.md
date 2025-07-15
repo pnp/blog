@@ -4,7 +4,7 @@ date: 2025-07-14T08:40:00-04:00
 author: "David Warner"
 githubname: PopWarner
 # don't change
-categories: ["Community post"]
+categories: ["Recognition Program"]
 # link to the thumbnail image for the post
 images:
 - images/bestinclass-recognitionprogram.png
