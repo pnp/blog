@@ -1,4 +1,23 @@
+# macOS system files
 .DS_Store
-.vscode/settings.json
-*public/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Hugo/static blog build artifacts
+public/
 resources/_gen/**
+
+# Windows thumbnails
+Thumbs.db
