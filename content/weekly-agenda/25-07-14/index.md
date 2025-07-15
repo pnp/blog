@@ -68,8 +68,8 @@ Also: 📷 Picture Time with community in Together Mode!
 Demos this time:
 
 * [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) – Building SharePoint Agents Finder as declarative agent
-* [Arne Meersmann](https://www.linkedin.com/in/arnemeersman/) (delaware) – Extending PnP Modern Search
-* [Franck Cornu](https://www.linkedin.com/in/franckcornu/) (PwC) – Onboard_D, your personalized AI employee onboarding coach
+* [Arne Meersmann](https://www.linkedin.com/in/arnemeersman/) (delaware) & [Pieter Vandendriessche](https://www.linkedin.com/in/pieter-vandendriessche/) (delaware) – Extending PnP Modern Search
+* [Franck Cornu](https://www.linkedin.com/in/franckcornu/) & [Golnoosh Ameri](https://www.linkedin.com/in/golnoosh-ameri/) (PwC) – Onboard_D, your personalized AI employee onboarding coach
 
 
 Also: 📷 Picture Time with community in Together Mode!
