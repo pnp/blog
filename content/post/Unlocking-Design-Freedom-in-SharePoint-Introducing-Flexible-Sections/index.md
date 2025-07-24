@@ -11,17 +11,11 @@ githubname: GouravBagora
 categories: ["Community post"]
 # Link to the thumbnail image for the post
 images:
-- images/myImage.png
+- images/Thumbnail.png
 # don't change
 tags: []
 # don't change
 type: "regular"
----
-
-# Unlocking Design Freedom in SharePoint: Introducing Flexible Sections
-
-*By Gourav Bagora, Power Platform & SharePoint Developer at EY*
-
 ---
 
 ## Introduction
@@ -39,14 +33,13 @@ Before diving into Flexible Sections, it’s important to understand how SharePo
 ###  Classic Pages
 Classic SharePoint pages were functional but rigid. They relied on fixed templates and master pages, offering limited customization and a less intuitive editing experience.
 
-(images/Classic site page Image.png)
-(images/Classic Edit page Image.png)
+![Classic site page](images/ClassicsitepageImage.png)  ![Classic edit site page](images/ClassicEditpageImage.png)
+
 
 ###  Modern Pages
 Modern pages brought a much-needed refresh. With responsive design, modern web parts, and a better editing interface, they significantly improved usability. However, layout flexibility remained somewhat constrained due to the 1–3 column structure.
 
-(images/Modern site page.png)
-(images/Modern Edit page.png)
+![Modern edit site page](images/ModernEditpage.png)
 
 ---
 
@@ -56,7 +49,7 @@ Modern pages brought a much-needed refresh. With responsive design, modern web p
 
 Whether you're building a sleek landing page, a news post, or a dashboard, Flexible Sections empower you to craft experiences that are both functional and visually engaging — without compromising usability or structure.
 
-(images/Modern Edit page sections.png)
+![Modern site page](images/ModernEditpagesections.png)
 
 ---
 
@@ -68,37 +61,37 @@ Here’s what makes Flexible Sections a powerful addition to your SharePoint too
 - Web parts can be positioned anywhere on a 2D grid.
 - Visual cues like drop hints and alignment guides assist with precise placement.
 
-(images/Freeform Grid Placement image.png)
+![Freedom Grid](images/FreeformGrid.png)
 
 ### Dynamic Resizing
 - Drag handles allow granular resizing of web parts.
 - Card-based and non-card web parts support flexible width options.
 - Snap-to-grid ensures clean, consistent layouts.
 
-(images/Dynamic Resizing.png)
+![Dynamic Resizing](images/DynamicResizing.png)
 
 ### Layered Design
 - Web parts can overlap to create collage-style layouts.
 - Arrangement controls manage front/back order, similar to PowerPoint layers.
 
-(images/Layered design with overlapping content.png)
+![Layered design](images/Layereddesign.png)
 
 ### Grouping Web Parts
 - Group multiple web parts into a single unit for easier movement and resizing.
 - Grouping persists across sessions and adapts well to mobile views.
 
-(images/Grouping webparts.png)
+![Grouping webparts](images/Groupingwebparts.png)
 
 ### Multi-Select & Batch Actions
 - Use CTRL+click or marquee-select to rearrange or group multiple web parts quickly.
 
-(images/Multiselect and batch actions.png)
+![Multiselect webparts](images/Multiselect.png)
 
 ### Section Templates
 - Pre-built templates combine flexible and classic sections.
 - Include sample content like banners and quick links to speed up design.
 
-| (images/Section templates 1.png) | (images/Section templates 2.png) |
+![Section templates](images/Sectiontemplates1.png)  ![Section templates](images/Sectiontemplates2.png)
 
 ---
 
