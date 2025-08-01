@@ -87,6 +87,9 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
+* [Unlocking Design Freedom in SharePoint: Introducing Flexible Sections](https://pnp.github.io/blog/post/unlocking-design-freedom-in-sharepoint-introducing-flexible-sections/) by [Gourav Bagora](https://www.linkedin.com/in/developer-gourav-bagora/)
+* [Traceability between Workshops and User Stories](https://pnp.github.io/blog/post/traceability-between-workshops-and-user-stories/) by [Alex McLachlan](https://www.linkedin.com/in/alexjlmclachlan/) (Ceox)
+* [Managed DEV Environment Bottleneck: License to Build](https://pnp.github.io/blog/post/managed-dev-environment-license-to-build/) by [Jakub Baijla](https://www.linkedin.com/in/jakubbajla/)
 * [CLI for Microsoft 365 v10.10](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v10-10/) by [Milan Holemans](https://github.com/milanholemans/)
 
 ## Last community call recordings published last week
