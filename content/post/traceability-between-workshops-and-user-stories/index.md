@@ -1,6 +1,6 @@
 ---
 title: "Traceability between Workshops and User Stories"
-date: 2025-07-28T08:00:00-00:00
+date: 2025-07-31T08:00:00-00:00
 author: "Alex McLachlan"
 githubname: alex-mcla
 # don't change
