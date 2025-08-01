@@ -2,7 +2,7 @@
 # this is the title
 title: "Unlocking Design Freedom in SharePoint: Introducing Flexible Sections"
 # this is the publishing date of your article, usually this should match "now"
-date: 2025-07-24T09:49:36
+date: 2025-08-01T09:49:36
 # This is your name
 author: "Gourav Bagora"
 # This is your GitHub name
