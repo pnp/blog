@@ -1,6 +1,6 @@
 ---
 title: "Managed DEV Environment Bottleneck: License to Build"
-date: 2025-07-23T08:00:00+02:00
+date: 2025-07-30T08:00:00+02:00
 author: "Jakub Bajla"
 githubname: JakubBJL
 categories: ["Community post"]
