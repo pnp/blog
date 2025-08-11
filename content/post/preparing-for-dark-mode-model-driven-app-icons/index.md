@@ -14,6 +14,10 @@ tags: [Power Apps]
 type: "regular"
 ---
 
+## UPDATE
+
+Although the content below is still valid, there's a better, and easier way of doing it: [Preparing for Model-Driven Apps Dark Mode Icons - Improved](https://pnp.github.io/blog/post/preparing-for-dark-mode-model-driven-app-icons-improved/).
+
 ## Dark Mode
 
 Dark mode has become increasingly popular in software applications, providing a sleek and eye-friendly alternative to the traditional light theme. While it’s not officially available for model-driven apps, you can experiment with it by adding a simple URL flag. In this post, we’ll delve into the impact of dark mode on icons in model-driven apps.

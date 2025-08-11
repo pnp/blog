@@ -25,6 +25,19 @@ Link workshop transcripts to User Stories by:
 
 ---
 
+## Contents
+
+- [TL;DR](#tldr)
+- [Contents](#contents)
+- [Introduction](#introduction)
+- [Step 1: Record and Annotate in Stream](#step-1-record-and-annotate-in-stream)
+- [Step 2: Add New User Stories in DevOps](#step-2-add-new-user-stories-in-devops)
+- [Step 3: Create DevOps Wiki Page](#step-3-create-devops-wiki-page)
+- [Tracing from the User Story to the Recording](#tracing-from-the-user-story-to-the-recording)
+- [Postscript](#postscript)
+
+---
+
 ## Introduction
 
 This post provides guidance on how to achieve effective traceability between workshop recordings and the corresponding Azure DevOps User Stories. This approach enables users to reference the exact part of a workshop where a user story was discussed, facilitating clarification if needed at a later time.
@@ -90,3 +103,23 @@ This then allows you to trace back from the User Story, via the Wiki page, to th
 ![User story, showing link to the Wiki page](images/user-story-link.png)
 
 NOTE: if you have Copilot available in Teams or Stream, the reviewed and edited version of the summary can be used as well.
+
+---
+
+## Postscript
+
+Following the initial posting of this, I had the following conversation on LinkedIn with Microsoft MVP [Hamish Shield](https://www.linkedin.com/in/hamishsheild/):
+
+Hamish:
+
+    Alex McLachlan nice one. I don’t do this as it seems like a lot of work! But I can see how it would be super helpful. I often refer back to workshop recordings. One thing I have been thinking about is how might an AI agent do something like this for us…
+
+Alex:
+
+    Hamish Sheild that's a very valid point / comment about agents. There are three level to consider here.
+
+    Firstly, your comment about it being a lot of work is very true, but I find I get 2-3 times more value from listening to the workshop recording than just going on memory / notes / Miro board. This enables the resulting user stories to be more complete and more accurate, reducing bugs and re-work. To some extent whether this is appropriate on a project depends on the availability of the SMEs (but have you ever worked on a project where they are as available as you'd like?)
+
+    Secondly, you could use Copilot's summary, together with a prompt along the lines of "extract the requirements from this workshop and express them in the form AS A ... giving links to the start of where they are mentioned". This could be added as wiki content and (after careful review) add them to DevOps.
+
+    Lastly, it would be possible to write an agent to do the second option and add the user stories to DevOps for review there. Personally, I wouldn't currently go for this option at the moment given the level of hallucination in gen AI and the lack of it's ability to have a memory model of what the system is needing to do and context of the rest of the backlog.
