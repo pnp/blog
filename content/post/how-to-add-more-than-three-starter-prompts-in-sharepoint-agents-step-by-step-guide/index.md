@@ -32,7 +32,6 @@ Starter prompts are the clickable suggestions that appear the moment someone ope
 * Reduce “blank screen” hesitation by showing people where to start.
     
 
-When you only get three, every slot becomes precious. But with some **creative thinking**, you can dramatically expand your “prompt playbook.”
 
 ### **The Current Limitation**
 
@@ -45,7 +44,7 @@ it also means:
 * New users might miss out on valuable features hidden behind the scenes.
     
 
-### **The Workaround: Step-by-Step**
+### The Workaround: Step-by-Step
 
 Here’s how to go beyond three prompts while keeping the UI clean and functional.
 
@@ -121,7 +120,7 @@ Once updated, refresh your site. Your Copilot panel will now display **all the p
 
 ![picture of agent configuration view with extended starter prompts](images/blog-image-05.png)
 
-### **A Few Caveats**
+### A Few Caveats
 
 * This is not an official feature — future Microsoft updates could change it.
     
@@ -154,4 +153,4 @@ Once updated, refresh your site. Your Copilot panel will now display **all the p
 
 ---
 
-Final Thoughts If your Copilot handles more than a handful of use cases, this quick JSON tweak can massively improve its usefulness. With more prompts, you guide your users better, reduce typing, and speed up common workflows — all while keeping things organized.
+Final Thoughts If your Copilot handles more than a handful of use cases, this quick change in the .agent file can massively improve its usefulness. With more prompts, you guide your users better, reduce typing, and speed up common workflows — all while keeping things organized.
