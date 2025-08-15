@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Framework Toolkit v4.9.0 minor release"
-date: 2025-08-12T01:00:00.000Z
+date: 2025-08-15T01:00:00.000Z
 # post thumb
 images:
   - images/main.png
