@@ -30,7 +30,7 @@ Link workshop transcripts to User Stories by:
 - [TL;DR](#tldr)
 - [Contents](#contents)
 - [Introduction](#introduction)
-- [Step 1: Record and Annotate in Stream](#step-1-record-and-annotate-in-stream)
+- [Step 1: Record the Workshop, then Annotate in Stream](#step-1-record-the-workshop-then-annotate-in-stream)
 - [Step 2: Add New User Stories in DevOps](#step-2-add-new-user-stories-in-devops)
 - [Step 3: Create DevOps Wiki Page](#step-3-create-devops-wiki-page)
 - [Tracing from the User Story to the Recording](#tracing-from-the-user-story-to-the-recording)
@@ -46,11 +46,11 @@ This post assumes Teams is used for workshops and Azure DevOps for backlog manag
 
 ---
 
-## Step 1: Record and Annotate in Stream
+## Step 1: Record the Workshop, then Annotate in Stream
 
 Record the workshop (preferably with transcription turned on, even better with access to Copilot).
 
-Once the recording has been saved, move from Teams to Stream.
+Once the recording has been saved, move from Teams to Stream using the 'Watch in browser' button.
 
 ![Open recording in Stream](images/open-in-stream.png)
 
