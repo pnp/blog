@@ -43,7 +43,7 @@ Demos this time:
 
 * [Matthew Burrell]() (Inspire Cloud Technologies)​ - SharePoint Hackathon: Viva Connections Dashboard: Your 365 Portal
 * [Heidi Jordan]() (Avanade) - From Content to Conversations: SharePoint Agents in Action
-* [Reshmee Auckloo]() (Avanade) & [Lee Ford​]() (Symity) - SharePoint Hackathon: Mental Health First Aider - SharePoint Agent embedded in SharePoint Page
+* [Reshmee Auckloo]() (Avanade) & [Lee Ford​]() (Symity) - Declarative Agent using M365 Agents Toolkit - Volunteering App
 
 
 Also: 📷 Picture Time with community in Together Mode!
