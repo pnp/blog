@@ -8,9 +8,7 @@ categories:
 images:
   - images/weeklysummary23.png
 tags: []
-
 type: regular
-
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
