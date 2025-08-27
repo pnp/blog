@@ -235,7 +235,7 @@ What makes this fun is that experimentation doesn’t have to ignore the serious
 
 The recipe here is simple: extract, learn, model, codify, automate — then iterate. Keep what works, retire what doesn’t, and feed the good pieces back into your standard toolchain (pipelines, managed solutions, dashboards). The rest of the Microsoft ecosystem — Azure DevOps, CLI tooling, AI copilots — is more than ready to meet you halfway.
 
-So keep experimenting. Build your own accelerators. Stress‑test ideas before the product ships them. The boundaries of what’s possible on the platform keep expanding, and the only real limit is how curious (and disciplined) we’re willing to be.
+So keep experimenting. Build your own accelerators. Stress-test ideas before the product ships them. The boundaries of what’s possible on the platform keep expanding, and the only real limit is how curious (and disciplined) we’re willing to be.
 
 ---
 
