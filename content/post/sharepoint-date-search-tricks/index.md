@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Search: Date Queries Search Out of the box Tricks"
-date: 2025-08-04T01:00:00.000Z
+date: 2025-08-27T01:00:00.000Z
 tags: ["SharePoint", "Search", "KQL", "Date Queries", "SharePoint Online", "Search Tips"]
 author: "Reshmee Auckloo"
 githubname: reshmee011
@@ -243,3 +243,4 @@ Have you discovered other date search tricks in SharePoint? Share your experienc
 ![Keyword Query Language (KQL) syntax reference](https://learn.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference?wt.mc_id=MVP_308367)
 
 ![How can I get my out of the box search to return result.only for the last 3 years](https://sharepoint.stackexchange.com/questions/238837/how-can-i-get-my-out-of-the-box-search-to-return-result-only-for-the-last-3-year)
+
