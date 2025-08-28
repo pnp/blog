@@ -24,7 +24,7 @@ The CLI for Microsoft 365 is back with a fresh minor release! We’ve just launc
 
 ### SharePoint Embedded
 
-We are continously building and improving SharePoint Embedded management commands in CLI for Microsoft 365. This time we managed to add a new command which will allow you to restore a deleted container.
+We are continuously building and improving SharePoint Embedded management commands in CLI for Microsoft 365. This time, we managed to add a new command that will allow you to restore a deleted container.
 
 You may restore a container by ID:
 
@@ -32,7 +32,7 @@ You may restore a container by ID:
 m365 spe container recyclebinitem restore --id "b!ISJs1WRro0y0EWgkUYcktDa0mE8zSlFEqFzqRn70Zwp1CEtDEBZgQICPkRbil_5Z"
 ```
 
-Or using something that is more 'human' friendly using its name and container type name.
+Or using something more 'human' friendly, using its name and container type name.
 
 ```sh
 m365 spe container recyclebinitem restore --containerTypeName "My container type name" --name "Invoices"
@@ -46,7 +46,7 @@ For more information, check the following resource:
 
 This release also brings two new commands to Viva Engage area. Now you may list all Viva Engage roles as well as list all users assigned to a specific role.
 
-To list all Viva Engage roles, simply run:
+To list all Viva Engage roles, run:
 
 ```sh
 m365 viva engage role list
@@ -70,10 +70,10 @@ This release brings a fresh new command allowing you to list all Teams calls wit
 To get all call records from the past 30 days, simply run:
 
 ```sh
-m365 teams callrecord list
+m365 teams call record list
 ```
 
-Or to get get all call records where a specific user participated, run:
+Or to get all call records where a specific user participated, run:
 
 ```sh
 m365 teams callrecord list --userName "john.doe@contoso.com"
@@ -91,7 +91,7 @@ For more information, check the following resource:
 
 ### CLI
 
-In this release we also added a new command allowing you to create a new app registration to use for the CLI for Microsoft 365. This may become super handy if you want to quickly create different app registrations that may be used by CLI for Microsoft 365 to connect to you Microsoft 365 tenant. The command allows you to decide if you want to create an app reg with `minimal` set of scopes or `all` scopes allowing to use every CLI for Microsoft 365 command. It is also possible to pass your own list of scopes which will be applied to the newly created app reg.
+In this release, we also added a new command allowing you to create a new app registration to use for the CLI for Microsoft 365. This may become super handy if you want to quickly create different app registrations that may be used by CLI for Microsoft 365 to connect to your Microsoft 365 tenant. The command allows you to decide if you want to create an app reg with a `minimal` set of scopes or `all` scopes, allowing you to use every CLI for Microsoft 365 command. It is also possible to pass your own list of scopes, which will be applied to the newly created app reg.
 
 To create a new app registration to use for CLI for Microsoft 365, run:
 
@@ -105,7 +105,7 @@ In order to create a new app registration with all permission scopes and a custo
 m365 cli app add --name "Contoso CLI app" --scopes all
 ```
 
-Lastly if you want to create a new app registration with self-defined scopes, just execute:
+Lastly, if you want to create a new app registration with self-defined scopes, just execute:
 
 ```sh
 m365 cli app add --scopes "https://graph.microsoft.com/User.Read,https://graph.microsoft.com/Group.Read.All"
@@ -121,9 +121,9 @@ This release also brings some other great changes. Aside from many improvements 
 
 ### Add subgroups using entra group member add command
 
-In this release it's also worth mentioning we updated the [entra group member add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-member-add/) allowing you know to add subgroups as members of a Entra group. 
+In this release, it's also worth mentioning that we updated the [entra group member add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-member-add/), allowing you to add subgroups as members of an Entra group. 
 
-For example you may now add multiple subgroups specified by name as members to a group specified by ID, by running:
+For example, you may now add multiple subgroups specified by name as members to a group specified by ID, by running:
 
 ```sh
 m365 entra group member add --groupId a03c0c35-ef9a-419b-8cab-f89e0a8d2d2a --subgroupNames "Developers,Human Resources" --role Member
@@ -131,7 +131,7 @@ m365 entra group member add --groupId a03c0c35-ef9a-419b-8cab-f89e0a8d2d2a --sub
 
 ### New guidance - Automate your CI/CD workflow using CLI for Microsoft 365 in Azure DevOps Pipelines
 
-In this release we also improved our docs by adding new guidance showing how you may use CLI for Microsoft 365 in Azure DevOps Pipelines. Interested? Check out the [guide](https://pnp.github.io/cli-microsoft365/user-guide/azuredevops-pipeline) for more details.
+In this release, we also improved our docs by adding new guidance showing how you may use CLI for Microsoft 365 in Azure DevOps Pipelines. Interested? Check out the [guide](https://pnp.github.io/cli-microsoft365/user-guide/azuredevops-pipeline) for more details.
 
 ### Minimal-permissions documentation
 
