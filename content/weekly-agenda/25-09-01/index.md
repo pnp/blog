@@ -87,7 +87,9 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* no new posts this week
+* [SharePoint Search: Date Queries Search Out of the box Tricks](https://pnp.github.io/blog/post/sharepoint-date-search-tricks/) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade)
+* [Homemade Plan Designer: Pragmatic Blueprinting for Power Platform](https://pnp.github.io/blog/post/homemade-plan-designer/) by Jakub Bajla
+* [How to add more than three starter prompts in sharepoint agents step-by-step guide](https://pnp.github.io/blog/post/how-to-add-more-than-three-starter-prompts-in-sharepoint-agents-step-by-step-guide/) by [Ahmad Jad Alhak](https://www.linkedin.com/in/ahmad-jad-al-hak/) (Campana & Schott)
 
 ## Last community call recordings published last week
 
