@@ -1,6 +1,6 @@
 ---
 title: "how to add more than three starter prompts in sharepoint agents step-by-step guide"
-date: 2025-08-14T15:52:00+00:00
+date: 2025-08-25T15:52:00+00:00
 author: "Ahmad Jad Alhak"
 githubname: ahmad-jad-alhak
 # don't change
