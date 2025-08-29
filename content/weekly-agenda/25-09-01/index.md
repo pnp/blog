@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 1st of September week
-date: 2025-08-28T08:58:47.179Z
+date: 2025-08-29T02:58:47.179Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -30,6 +30,7 @@ This is the agenda for the upcoming week:
 Demos: 
 * [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/) (Microsoft) – Trey Research: sample Declarative Agent with TypeSpec
 * [Ayça Baş](https://www.linkedin.com/in/aycabas/) (Microsoft )– Bring your Custom Engine Agent to Microsoft 365 Copilot Chat
+* [Giorgio Ughini](https://www.linkedin.com/in/giorgio-ughini/) (Microsoft) - Using SPFx to surface Copilot Studio agents in SharePoint
 
 ---
 
@@ -40,7 +41,6 @@ Demos:
 * If you can't make it this time, you see the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos:
-
 * [Peter Paul Kirschner](https://www.linkedin.com/in/petkir/) (ACP Cupido) – SPFX solution sample MoveDocumentsToBlobStore - Get Rid of the '_Final_Draft_v2' Documents!
 * [Praveen Kumar R](https://www.linkedin.com/in/praveen-kumar-r-789463190/) (Quadrasystems.net) and [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (EY) – SharePoint Hackathon: Building future-ready Intranets using SPFx
 
@@ -53,24 +53,26 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel 
 
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Build your first declarative agent with TypeSpec for Microsoft 365 Agents](https://www.youtube.com/watch?v=a-QC4vH-e-4) by [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) 
+* [Custom SharePoint Portal Design - Hackathon Winner 🏆](https://www.youtube.com/watch?v=R_LJRnvBEow) by [Mallika Limbu](https://www.linkedin.com/in/mallikalimbu/) (2toLead) & [Richard Plantt](https://www.linkedin.com/in/plantt/) (2toLead)
 * [Using file approval status with List Formatting experience](https://www.youtube.com/watch?v=wJvrbbjJH6E) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
 * [Empowering Frontline Workers with AI - Frontline Fridays](https://www.youtube.com/watch?v=W05AgHwsGtA)
 * [Creating Benefits Agent for your company using SharePoint Agents](https://www.youtube.com/watch?v=54Y9marWSuI) by [Karen Dredske](https://www.linkedin.com/in/karendredske/) (NRI North America) and [Bailey Hansen](https://www.linkedin.com/in/bailey-hansen-6782a855/) (NRI North America)
 * [Doc Libs: What's new & what's next? | OneDrive Office Hours | August 2025](https://www.youtube.com/watch?v=qNSElXitpOg)
 * [Rich-text editor with Fluent UI based on RoosterJS](https://www.youtube.com/watch?v=54NIMAN_OKo) by [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK)
 * [Turbocharging your employee home experience through customization - Frontline Fridays](https://www.youtube.com/watch?v=jZGRVoUO0do&pp=0gcJCbIJAYcqIYzv)
-* [Extending Model-Driven Apps with Custom Pages](https://www.youtube.com/watch?v=TGZbsQduLcY) by [Cathrine Bruvold​ (Point Taken AS)​](https://www.linkedin.com/in/cathrine-bruvold-b91b92113/)
+* [Extending Model-Driven Apps with Custom Pages](https://www.youtube.com/watch?v=TGZbsQduLcY) by [Cathrine Bruvold​​](https://www.linkedin.com/in/cathrine-bruvold-b91b92113/)  (Point Taken AS)
 * [Introduction to new SharePoint page template gallery](https://www.youtube.com/watch?v=4_s9f30qgmw)
 * [Power Apps Snippets Tips and Tricks](https://www.youtube.com/watch?v=sOBOjytzx8k) by [David Warner​](https://www.linkedin.com/in/davidwarnerii/) (Quisitive)
-* [Streamline processes in Insurance Company with SharePoint Agents - SharePoint Hackathon Winner 🏆](https://www.youtube.com/watch?v=MoLSRBdH3Vg) by [Sudipta Kumar Basu (Capgemini) –   / sudipta](https://www.linkedin.com/in/k/)
+* [Streamline processes in Insurance Company with SharePoint Agents - SharePoint Hackathon Winner 🏆](https://www.youtube.com/watch?v=MoLSRBdH3Vg) by [Sudipta Kumar Basu](https://www.linkedin.com/in/sudipta-k-8787a027/) (Capgemini)
 * [Celebrating 100 Years of Shure: Audio Innovation meets Microsoft Teams Rooms](https://www.youtube.com/watch?v=T_RN4xPCF8E)
-
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
+* [Power Pages 2025 release wave 2 highlights](https://www.youtube.com/watch?v=8kvBFHM54Eg)
+* [Demystifying Copilot Studio | S04 EP01](https://www.youtube.com/watch?v=EQir6bBWXCE) by [Lydia Williams](https://www.linkedin.com/in/lydiajanewilliams/) (Microsoft), [Kendra Springer](https://www.linkedin.com/in/kendraspringer/) (Microsoft) & [Angeliki Patsiavou](https://www.linkedin.com/in/angeliki-patsiavou/) (Microsoft)
 * [Enterprise Grade Agent Design in Copilot Studio - Part 2 of Generative Orchestration](https://www.youtube.com/watch?v=PQaX1VaRoA0)
 * [Understanding Agents webinar coming soon! 09-03-2025](https://www.youtube.com/watch?v=knEwBD3MvPU)
 * [Demystifying Copilot Studio coming soon!](https://www.youtube.com/watch?v=Mpw1YfOBEKE)
@@ -95,8 +97,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call – 28th of August, 2025](https://www.youtube.com/watch?v=25dQInnfXOk)
 * [Microsoft 365 & Power Platform weekly call – 26th of August, 2025](https://www.youtube.com/watch?v=a8vzJLwqSvI)
-
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
 
