@@ -32,7 +32,7 @@ You may restore a container by ID:
 m365 spe container recyclebinitem restore --id "b!ISJs1WRro0y0EWgkUYcktDa0mE8zSlFEqFzqRn70Zwp1CEtDEBZgQICPkRbil_5Z"
 ```
 
-Or using something more 'human' friendly, using its name and container type name.
+Or using something more 'human'-friendly, using its name and container type name.
 
 ```sh
 m365 spe container recyclebinitem restore --containerTypeName "My container type name" --name "Invoices"
@@ -44,7 +44,7 @@ For more information, check the following resource:
 
 ### Viva Engage
 
-This release also brings two new commands to Viva Engage area. Now you may list all Viva Engage roles as well as list all users assigned to a specific role.
+This release also brings two new commands to the Viva Engage area. Now you may list all Viva Engage roles as well as list all users assigned to a specific role.
 
 To list all Viva Engage roles, run:
 
@@ -58,14 +58,14 @@ And to get all users assigned to a Viva Engage role specified by name, run the f
 m365 viva engage role member list --roleName 'Verified Admin'
 ```
 
-For more information, check the following resource:
+For more information, check the following resources:
 
 - [viva engage role member list](https://pnp.github.io/cli-microsoft365/cmd/viva/engage/engage-role-list/)
 - [viva engage role list](https://pnp.github.io/cli-microsoft365/cmd/viva/engage/engage-role-list/)
 
-### Microsoft Teams    
+### Microsoft Teams
 
-This release brings a fresh new command allowing you to list all Teams calls within your tenant. Retrieving call records was never easier.
+This release brings a fresh new command allowing you to list all Teams calls within your tenant. Retrieving call records has never been easier.
 
 To get all call records from the past 30 days, simply run:
 
@@ -82,7 +82,7 @@ m365 teams callrecord list --userName "john.doe@contoso.com"
 It is also possible to get all call records within a specific timeframe.
 
 ```sh
-m365 teams callrecord list --startDateTime "2025-05-1T00:00:00Z" --endDateTime "2025-05-14T00:00:00Z"
+m365 teams callrecord list --startDateTime "2025-05-01T00:00:00Z" --endDateTime "2025-05-14T00:00:00Z"
 ```
 
 For more information, check the following resource:
@@ -119,11 +119,15 @@ For more information, check the following resource:
 
 This release also brings some other great changes. Aside from many improvements in the codebase and bug fixes to elevate the overall CLI experience, there are several important updates we'd like to highlight.
 
-### Add subgroups using entra group member add command
+### Added support for SPFx v1.22.0-beta.1 
 
-In this release, it's also worth mentioning that we updated the [entra group member add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-member-add/), allowing you to add subgroups as members of an Entra group. 
+To help you keep up to date with the latest improvements in SharePoint Framework, we added support for the first beta version of SPFx v1.22.0 to all our SPFx commands. Now you create upgrade guidance for your SPFx project to align with what was changed in the latest version of SharePoint Framework, as well as validate the dependencies of your project. Last but not least, you may validate your local environment setup to make sure you have everything ready for the latest SPFx beta.
 
-For example, you may now add multiple subgroups specified by name as members to a group specified by ID, by running:
+### Nesting Entra ID groups
+
+In this release, it's also worth mentioning that we updated the [entra group member add](https://pnp.github.io/cli-microsoft365/cmd/entra/group/group-member-add/), allowing you to add subgroups as members of an Entra group.
+
+For example, you may now add multiple subgroups specified by name as members of a group specified by ID, by running:
 
 ```sh
 m365 entra group member add --groupId a03c0c35-ef9a-419b-8cab-f89e0a8d2d2a --subgroupNames "Developers,Human Resources" --role Member
