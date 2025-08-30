@@ -70,7 +70,7 @@ This release brings a fresh new command allowing you to list all Teams calls wit
 To get all call records from the past 30 days, simply run:
 
 ```sh
-m365 teams call record list
+m365 teams callrecord list
 ```
 
 Or to get all call records where a specific user participated, run:
