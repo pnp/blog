@@ -22,13 +22,16 @@ Plan Designer (currently evolving; some capabilities may still be in preview) is
 - **Fast Prototyping:** The output is a structured planning artifact you can translate rapidly into a working prototype.
 
 ### Where It Stops Today (and Why That Matters)
+
 Plan Designer is brilliant for greenfield scenarios, but today it’s less opinionated about deep-diffing existing environments, enforcing custom naming standards, or wiring into bespoke ALM pipelines. If you want your blueprint to truly understand what’s already in your environment or enforce stricter governance, you extend, or build, a complementary layer.
 
 ---
 
 ## Why Build My Own? The "Homemade" Premise
 
+
 Ever since Plan Designer came out, I presented it countless times, tracked reviews from fellow MVPs, watched features roll out at speed. But there was a different direction I wanted to explore, and the nudge came when I learned that Power Platform CLI now supports connecting to MCP Server. That’s when the experiment began - wiring MCP into my VS Code (Thanks, Appie! Link to blog below, in resources), where GitHub Copilot Pro was already my daily buddy.
+
 
 ### What is MCP Server & Why Does It Matter?
 
@@ -41,6 +44,7 @@ Functional walkthrough:
 - Drive assisted prompts: “Reuse existing table?” “Extend existing automation?” “Align to existing pattern?”
 
 For more: official docs, community deep dives, and GitHub repos (links below).
+
 
 Curiosity took over. What if I could assemble my own plan designer, one that:
 
@@ -225,9 +229,11 @@ KPIs (Track Empirically):
 
 In short, this experiment pulled everything together: we started by inspecting the environment and cataloging what already existed, then layered in every requirement we could gather - no matter the format. From there, we applied structure: mapped artifacts to domains, enforced naming and governance rules, and turned it all into a clean, hierarchical backlog. Finally, the entire plan flowed into Azure DevOps as traceable work items, ready for iteration and delivery. The result is a design and execution blueprint that respects what’s in place, aligns with what’s needed, and stays true to the standards we set.
 
+
 ---
 
 ## Final Thoughts
+
 
 This homemade pipeline isn’t trying to beat the official Plan Designer - let’s be honest, Plan Designer is slick, approachable, and on a rocket of a roadmap. This is something else: a sandbox for makers, architects, and curious engineers who like taking things apart, wiring them back together, and seeing how far the platform can stretch. On a canvas as wide as Power Platform, playing around isn’t a distraction ... it’s how new patterns, reusable accelerators, and better habits get discovered.
 
