@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of September week
-date: 2025-08-29T02:58:47.179Z
+date: 2025-09-04T02:58:47.179Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -59,8 +59,8 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
-* [Introduction to Microsoft 365 Agent SDK](https://www.youtube.com/watch?v=BgCK6E8Qt-4)
+* [How to build an intranet with SharePoint, SPFx, Agents, and Viva Connections](https://www.youtube.com/watch?v=oWT6DtP5ZY4) by [Rahul Navale​]( https://www.linkedin.com/in/rahul-navale-67491273/) (C3IT)​ & [Aditi Manjrekar​](https://www.linkedin.com/in/aditi-manjrekar-9346ba104/) (C3IT)
+* [Introduction to Microsoft 365 Agent SDK](https://www.youtube.com/watch?v=BgCK6E8Qt-4) by [Sarah Critchley](https://www.linkedin.com/in/sarahcritchley/) (Microsoft)
 * [How to create Natural Language document search in SharePoint with AI and SPFx](https://www.youtube.com/watch?v=jhmI8bceObE) by [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK)
 * [The Intranet of Tomorrow  Beautiful, Flexible, and AI Ready | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=2g8GiG4H1qs)
 * [From Papers to Practice - How SharePoint Agents Help Extract AI Knowledge](https://www.youtube.com/watch?v=xb8MQitxWqo) by [Michael Greth​](https://www.linkedin.com/in/mgreth/)
@@ -97,6 +97,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [SharePoint Framework - 4th of September, 2025](https://www.youtube.com/@MicrosoftCommunityLearning)
 * [Microsoft 365 & Power Platform weekly call – 2nd of September, 2025](https://www.youtube.com/watch?v=E6Cp0t_37qI)
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
