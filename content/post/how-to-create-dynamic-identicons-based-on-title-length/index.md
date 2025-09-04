@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Lists: How to Create Dynamic Identicons Based on Title Length"
-date: 2025-08-28T00:00:00-00:00
+date: 2025-09-04T00:00:00-00:00
 author: "Sai Siva Ram Bandaru"
 githubname: saiiiiiii
 categories: ["Community post"]
