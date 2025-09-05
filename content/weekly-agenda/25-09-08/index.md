@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of September week
-date: 2025-09-04T02:58:47.179Z
+date: 2025-09-05T02:58:47.179Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -42,11 +42,9 @@ Demos this time:
 
 Demos this time:
 
-
 * [Robert Lamaster](https://www.linkedin.com/in/robertlamaster/) (Kyndryl) – Custom Fonts in Power Apps
 * [Luise Freese](https://www.linkedin.com/in/luisefreese/) – Mermaid to Dataverse Provisioning
 * [David Warner](https://www.linkedin.com/in/davidwarnerii/) –  (Quisitive) - Power Apps YAML Snippet Tips – With() It – With() it Good!!!
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -97,7 +95,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [SharePoint Framework - 4th of September, 2025](https://www.youtube.com/@MicrosoftCommunityLearning)
+* [SharePoint Framework - 4th of September, 2025](https://www.youtube.com/watch?v=Tv-vgqreTtc)
 * [Microsoft 365 & Power Platform weekly call – 2nd of September, 2025](https://www.youtube.com/watch?v=E6Cp0t_37qI)
 
 If you are looking to learn how to use the Microsoft 365 & Power Platform Community resources or contribute back to the community and not sure where to start, we are here for you! Please join the [Sharing Is Caring program](https://pnp.github.io/sharing-is-caring/).
