@@ -82,12 +82,12 @@ Update of the newly published videos in our YouTube channel
 
 * [Conversation Prompts | EP02 | Power Up Minute](https://www.youtube.com/watch?v=Kbt3wZCD090)
 * [Demystifying Copilot Studio | S04 EP02](https://www.youtube.com/watch?v=tSRr-7TyV14)
-* [Copilot Studio Orchestration for High Value Agents - the Chef Analogy](https://www.youtube.com/watch?v=ADD_LINK_HERE)
-* [Demystifying Copilot Studio Episode 3 coming soon!](https://www.youtube.com/watch?v=ADD_LINK_HERE)
-* [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=ADD_LINK_HERE)
-* [August 2025 Power Apps Pulse](https://www.youtube.com/watch?v=ADD_LINK_HERE)
-* [Help your agent with focus | EP01 | Power Up Minute](https://www.youtube.com/watch?v=ADD_LINK_HERE)
-* [Copilot Studio Kit in Action - Validate, Monitor and Optimize Your Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=ADD_LINK_HERE)
+* [Copilot Studio Orchestration for High Value Agents - the Chef Analogy](https://www.youtube.com/watch?v=-NjKJWcF3Hs&pp=0gcJCcYJAYcqIYzv)
+* [Demystifying Copilot Studio Episode 3 coming soon!](https://www.youtube.com/watch?v=VGmXv3svb4I)
+* [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=al48plM4mYI)
+* [August 2025 Power Apps Pulse](https://www.youtube.com/watch?v=C_tPIs0JsK0&pp=0gcJCcYJAYcqIYzvE)
+* [Help your agent with focus | EP01 | Power Up Minute](https://www.youtube.com/watch?v=vp8mLLKSZoA)
+* [Copilot Studio Kit in Action - Validate, Monitor and Optimize Your Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=3ja7jGLT9ko)
 
 
 * no new videos this week
