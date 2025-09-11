@@ -129,6 +129,12 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
+* [Power Platform Community Conference](https://powerplatformconf.com/) - October 28-30, 2025 - Las Vegas, Nevada, USA
+* [Microsoft Ignite](https://ignite.microsoft.com/) - November 18-20, 2025 - San Francisco, California, USA
+* [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
+
+Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
+
 * [Experts Live UK](https://www.communitydays.org/event/2025-09-16/experts-live-uk), September 16, 2025 – London, United Kingdom
 * [DynamicsCon Regional - Texas](https://www.communitydays.org/event/2025-09-17/dynamicscon-regional-texas), September 17, 2025 – Grapevine, TX, United States
 * [M365 Twin Cities](https://www.communitydays.org/event/2025-09-19/m365-twin-cities), September 19, 2025 – Brooklyn Park, MN, United States
