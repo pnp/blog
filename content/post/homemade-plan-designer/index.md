@@ -22,27 +22,31 @@ Plan Designer (currently evolving; some capabilities may still be in preview) is
 - **Fast Prototyping:** The output is a structured planning artifact you can translate rapidly into a working prototype.
 
 ### Where It Stops Today (and Why That Matters)
-Plan Designer is brilliant for greenfield scenarios, but today it’s less opinionated about deep-diffing existing environments, enforcing custom naming standards, or wiring into bespoke ALM pipelines. If you want your blueprint to truly understand what’s already in your environment or enforce stricter governance, you extend—or build—a complementary layer.
+
+Plan Designer is brilliant for greenfield scenarios, but today it’s less opinionated about deep-diffing existing environments, enforcing custom naming standards, or wiring into bespoke ALM pipelines. If you want your blueprint to truly understand what’s already in your environment or enforce stricter governance, you extend, or build, a complementary layer.
 
 ---
 
 ## Why Build My Own? The "Homemade" Premise
 
-Ever since Plan Designer came out, I presented it countless times, tracked reviews from fellow MVPs, watched features roll out at speed. But there was a different direction I wanted to explore, and the nudge came when I learned that Power Platform CLI now supports connecting to MCP Server. That’s when the experiment began — wiring MCP into my VS Code (Thanks, Appie! Link to blog below, in resources), where GitHub Copilot Pro was already my daily buddy.
+
+Ever since Plan Designer came out, I presented it countless times, tracked reviews from fellow MVPs, watched features roll out at speed. But there was a different direction I wanted to explore, and the nudge came when I learned that Power Platform CLI now supports connecting to MCP Server. That’s when the experiment began - wiring MCP into my VS Code (Thanks, Appie! Link to blog below, in resources), where GitHub Copilot Pro was already my daily buddy.
+
 
 ### What is MCP Server & Why Does It Matter?
 
 An MCP Server (preview) provides context-aware access to environment metadata—solutions, tables, relationships and selected records—subject to permissions. MCP‑aware clients (where integrations exist) can query and analyze that metadata to accelerate discovery and reuse.
 
 Functional walkthrough:
-- Stand up or connect to an MCP Server endpoint (preview feature—verify availability).
+- Stand up or connect to an MCP Server endpoint (preview feature - verify availability).
 - Authenticate your client.
 - Enumerate metadata (solutions, tables, relationships) and surface existing candidates for reuse.
 - Drive assisted prompts: “Reuse existing table?” “Extend existing automation?” “Align to existing pattern?”
 
 For more: official docs, community deep dives, and GitHub repos (links below).
 
-Curiosity took over. What if I could assemble my own plan designer—one that:
+
+Curiosity took over. What if I could assemble my own plan designer, one that:
 
 - **Is Environment-Aware:** Surfaces existing tables, flows, apps, and prompts for reuse.
 - **Handles Varied Documentation:** Word docs, PDFs, legacy specs—because real requirements are messy.
@@ -174,7 +178,7 @@ Idempotency: WIQL guard by REF tag; consistent tagging enables safe re-runs with
 **Security & Governance Notes (Added):**
 - Treat exports as potentially sensitive; keep in secured source control.
 - Do not place secrets or personal data into AI prompts.
-- Store Azure DevOps PAT in a secure secret store or environment variable—never inline.
+- Store Azure DevOps PAT in a secure secret store or environment variable - never inline.
 - Managed Environments, DLP policies, and solution layering remain authoritative governance controls.
 
 **Scope Clarification:** This pipeline accelerates *planning and analysis*, not production deployment. Official deployment should use Pipelines for Power Platform, ALM Accelerator, or equivalent.
@@ -223,17 +227,19 @@ KPIs (Track Empirically):
 
 ## Summary
 
-In short, this experiment pulled everything together: we started by inspecting the environment and cataloging what already existed, then layered in every requirement we could gather — no matter the format. From there, we applied structure: mapped artifacts to domains, enforced naming and governance rules, and turned it all into a clean, hierarchical backlog. Finally, the entire plan flowed into Azure DevOps as traceable work items, ready for iteration and delivery. The result is a design and execution blueprint that respects what’s in place, aligns with what’s needed, and stays true to the standards we set.
+In short, this experiment pulled everything together: we started by inspecting the environment and cataloging what already existed, then layered in every requirement we could gather - no matter the format. From there, we applied structure: mapped artifacts to domains, enforced naming and governance rules, and turned it all into a clean, hierarchical backlog. Finally, the entire plan flowed into Azure DevOps as traceable work items, ready for iteration and delivery. The result is a design and execution blueprint that respects what’s in place, aligns with what’s needed, and stays true to the standards we set.
+
 
 ---
 
 ## Final Thoughts
 
-This homemade pipeline isn’t trying to beat the official Plan Designer — let’s be honest, Plan Designer is slick, approachable, and on a rocket of a roadmap. This is something else: a sandbox for makers, architects, and curious engineers who like taking things apart, wiring them back together, and seeing how far the platform can stretch. On a canvas as wide as Power Platform, playing around isn’t a distraction — it’s how new patterns, reusable accelerators, and better habits get discovered.
+
+This homemade pipeline isn’t trying to beat the official Plan Designer - let’s be honest, Plan Designer is slick, approachable, and on a rocket of a roadmap. This is something else: a sandbox for makers, architects, and curious engineers who like taking things apart, wiring them back together, and seeing how far the platform can stretch. On a canvas as wide as Power Platform, playing around isn’t a distraction ... it’s how new patterns, reusable accelerators, and better habits get discovered.
 
 What makes this fun is that experimentation doesn’t have to ignore the serious stuff. You can play with AI-assisted classification, custom extraction, and idempotent backlog generation while still respecting ALM discipline, Managed Environments, solution layering, DLP policies, and secure handling of exports and tokens. Governance and innovation aren’t opposing forces; when you line them up, they actually speed each other along.
 
-The recipe here is simple: extract, learn, model, codify, automate — then iterate. Keep what works, retire what doesn’t, and feed the good pieces back into your standard toolchain (pipelines, managed solutions, dashboards). The rest of the Microsoft ecosystem — Azure DevOps, CLI tooling, AI copilots — is more than ready to meet you halfway.
+The recipe here is simple: extract, learn, model, codify, automate, then iterate. Keep what works, retire what doesn’t, and feed the good pieces back into your standard toolchain (pipelines, managed solutions, dashboards). The rest of the Microsoft ecosystem - Azure DevOps, CLI tooling, AI copilots - is more than ready to meet you halfway.
 
 So keep experimenting. Build your own accelerators. Stress-test ideas before the product ships them. The boundaries of what’s possible on the platform keep expanding, and the only real limit is how curious (and disciplined) we’re willing to be.
 
