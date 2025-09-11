@@ -89,6 +89,7 @@ Update of the newly published videos in our YouTube channel
 * [Help your agent with focus | EP01 | Power Up Minute](https://www.youtube.com/watch?v=vp8mLLKSZoA)
 * [Copilot Studio Kit in Action - Validate, Monitor and Optimize Your Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=3ja7jGLT9ko)
 
+[Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * no new videos this week
 
