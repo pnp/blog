@@ -6,7 +6,7 @@ githubname: saiiiiiii
 categories: ["Community post"]
 images:
 - images/sharepoint-word-cloud-column-formatting.png
-tags: ["Microsoft Lists", "SharePoint", "Column Formatting", "Word Cloud"]
+tags: ["Microsoft Lists", "SharePoint"]
 type: "regular"
 draft: false
 ---
