@@ -11,8 +11,6 @@ type: "regular"
 draft: false
 ---
 
-# Microsoft Lists: How to Create Dynamic Word Clouds Using Column Formatting
-
 ## Introduction
 
 Data visualization is crucial for making information more digestible and engaging. While Microsoft Lists excels at organizing structured data, sometimes you need creative visual representations to help users quickly grasp patterns and insights. In this post, we'll explore how to create dynamic word clouds within SharePoint lists using column formatting JSON, transforming multiple text columns into visually appealing, size-varied word displays.
@@ -347,4 +345,6 @@ Whether you're managing survey responses, organizing content metadata, tracking 
 - [PnP Community - List Formatting Samples](https://github.com/pnp/List-Formatting)
 - [Microsoft Lists Column Formatting Examples](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#examples)
 
+
 Try implementing this word cloud solution in your Microsoft Lists and experiment with different color schemes, sizing algorithms, and highlighting patterns to create visualizations that perfectly match your organization's needs and branding!
+
