@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Lists: How to Create Dynamic Word Clouds Using Column Formatting"
-date: 2025-09-14T00:00:00-00:00
+date: 2025-09-17T00:00:00-00:00
 author: "Sai Siva Ram Bandaru"
 githubname: saiiiiiii
 categories: ["Community post"]
@@ -10,8 +10,6 @@ tags: ["Microsoft Lists", "SharePoint"]
 type: "regular"
 draft: false
 ---
-
-# Microsoft Lists: How to Create Dynamic Word Clouds Using Column Formatting
 
 ## Introduction
 
@@ -347,4 +345,6 @@ Whether you're managing survey responses, organizing content metadata, tracking 
 - [PnP Community - List Formatting Samples](https://github.com/pnp/List-Formatting)
 - [Microsoft Lists Column Formatting Examples](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting#examples)
 
+
 Try implementing this word cloud solution in your Microsoft Lists and experiment with different color schemes, sizing algorithms, and highlighting patterns to create visualizations that perfectly match your organization's needs and branding!
+
