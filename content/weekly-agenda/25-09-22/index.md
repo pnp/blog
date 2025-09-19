@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 15th of September week
-date: 2025-09-12T02:43:36.019Z
+title: Weekly Agenda - 22nd of September week
+date: 2025-09-19T02:43:36.019Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary37.png
+  - images/weeklysummary38.png
 tags: []
 type: trending
 videos:
@@ -21,17 +21,16 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform product updates - 16th of September
+### Microsoft 365 & Power Platform product updates - 23rd of September
 
-* Tuesday, 16th of September 2025, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 23rd of September 2025, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Introduction to Copilot Studio Agent Academy
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) – MCP Server for the Community Sample Gallery
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) – Intranet reimagined with AI - Copilot powered SharePoint
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) – Patterns for handling user’s settings in SharePoint Framework
+* [Sarah Critchley](https://www.linkedin.com/in/sarahcritchley/) (Microsoft) & [Matthew Barbour](https://www.linkedin.com/in/matt-barbour-02702b1/) (Microsoft) – On-behalf-of Flows with Microsoft 365 Agents SDK
 
 ---
 
@@ -62,15 +61,14 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [How to manage Power Platform environment settings centrally](https://www.youtube.com/watch?v=70mSRpjmmos) by [Valentin Mazhar](https://linkedin.com/in/valentin-mazhar) (Zurich Insurance) –   
-* [Multi-Agent patterns with the Microsoft 365 Agents SDK](https://www.youtube.com/watch?v=PWVnqJHDz4M) by [Matthew Barbour](https://linkedin.com/in/matt-barbour-02702b1) (Microsoft) –   
+* [How to manage Power Platform environment settings centrally](https://www.youtube.com/watch?v=70mSRpjmmos) by [Valentin Mazhar](https://linkedin.com/in/valentin-mazhar) (Zurich Insurance)
+* [Multi-Agent patterns with the Microsoft 365 Agents SDK](https://www.youtube.com/watch?v=PWVnqJHDz4M) by [Matthew Barbour](https://linkedin.com/in/matt-barbour-02702b1) (Microsoft)
 * [Deploying Microsoft 365 artifacts from Azure DevOps and GitHub without certificates or secrets](https://www.youtube.com/watch?v=cTRBE83gnoA) by [Martin Lingstuyl](https://linkedin.com/in/martinlingstuyl) (I4-You Business Solutions)
 * [Maturity Model for Microsoft 365 - September 2025](https://www.youtube.com/watch?v=-mReMv9HgTg)
 * [Building efficient SharePoint Management with SharePoint Agents](https://www.youtube.com/watch?v=RQZ2NZTxDlU) by [Nanddeep Nachan](https://linkedin.com/in/nanddeepnachan) (FineTune Solutions) and [Smita Nachan](https://linkedin.com/in/smitanachan)
 * [Azure AI search in Copilot Studio](https://www.youtube.com/watch?v=w1TDTd6OEUg) by [Rohit Sai Chetla](https://linkedin.com/in/rohitchetla) (Microsoft)
 * [Introduction to Copilot People Connector](https://www.youtube.com/watch?v=nhGe5EORQug) by [Wictor Wilen](https://linkedin.com/in/wictorwilen) (Microsoft)
 * [Building AI powered experiences with SPFx - Hackathon winner 🏅](https://www.youtube.com/watch?v=AqBFyLjS34s) by [Fabio Franzini](https://linkedin.com/in/fabiofranzini) (Apvee)
-Building AI powered experiences with SPFx - Hackathon winner 🏅
 * [Creating Intelligent Cardiac Triage & Scheduling Platform using Power Platform](https://www.youtube.com/watch?v=pFflrxY27Fo) by [Abey Abraham](https://linkedin.com/in/abey-abraham-80691710b) (EY) and [Ganesh Anandan](https://linkedin.com/in/ganeshglitz) (EY)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
