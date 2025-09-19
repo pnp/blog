@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 15th of September week
-date: 2025-09-11T08:43:36.019Z
+date: 2025-09-12T02:43:36.019Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -23,15 +23,15 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform product updates - 16th of September
 
-* Tuesday, 16th of September 2025, 8:00 AM PT  
+* Tuesday, 16th of September 2025, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) – Intranet reimagined with AI - Copilot powered SharePoint
-* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Agent Academy - Recruit - Part 1
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Introduction to Copilot Studio Agent Academy
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) – MCP Server for the Community Sample Gallery
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) – Intranet reimagined with AI - Copilot powered SharePoint
 
 ---
 
@@ -39,7 +39,7 @@ Demos this time:
 
 Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-* Wednesday, 17th of September, 8:00 AM PT / 4:00 PM GMT
+* Wednesday, 17th of September, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
 
@@ -52,10 +52,9 @@ Demos this time
 
 ### SharePoint Framework bi-weekly community Call - 18th of September
 
-* Thursday, 18th of September 2025, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 18th of September 2025, 7:00 AM PT / 2:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-spfx-call) or [join the call](https://aka.ms/spdev-spfx-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
-
 
 Demos this time
 
@@ -68,9 +67,10 @@ Demos this time
 
 Update of the newly published videos in our YouTube channel 
 
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Connecting together multiple SPFx Web Parts](https://www.youtube.com/watch?v=nXgxoeHOyC8) by [Manoj Verma](https://www.linkedin.com/in/mmanojvverma/) (OMVY Systems)
+* [Get started with the Microsoft 365 Agent SDK & Toolkit](https://www.youtube.com/watch?v=CY8_Mm3lfk4) by [Matt Barbour](https://www.linkedin.com/in/matt-barbour-02702b1/) (Microsoft) 
 * [How to create gamified experiences in SharePoint portals](https://www.youtube.com/watch?v=0xh4N-DUaOw) by [Dan Carroll​ (Ergo)​](https://www.linkedin.com/in/daniel-carroll-6488aa39/)
 * [MGCI General Session | April 2025](https://www.youtube.com/watch?v=SqThfPn2f-8)
 * [How to build a construction process automation with SharePoint Agents](https://www.youtube.com/watch?v=7Rq478Cj_bY) by [Kurt Rolland](https://www.linkedin.com/in/krolland/) (Covenant Technology Partners), [Knut Relbe-Moe (Lightning Tools)​](https://www.linkedin.com/in/knutrelbemoe/) and [Martin Roevekamp (q.beyond AG)​](https://www.linkedin.com/in/martin-roevekamp/)
@@ -111,6 +111,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 11th of September 2025](https://www.youtube.com/watch?v=FiQtoSxwdr4)
 * [Microsoft 365 & Power Platform weekly call – 9th of September, 2025](https://www.youtube.com/watch?v=iZCiGNQTWKI)
 * [SharePoint Framework community call 4th of September 2025](https://www.youtube.com/watch?v=Tv-vgqreTtc)
 * [Introducing 1080P video and dual pin support in Azure Communication Services Web Calling SDK](https://www.youtube.com/watch?v=PFR8taIkIJk)
