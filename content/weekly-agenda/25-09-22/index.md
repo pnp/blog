@@ -46,11 +46,9 @@ Demos this time:
 * [Vipul Jain](https://www.linkedin.com/in/vipul0309/) (Bosch Global Software Technologies) – Building a Seamless Power Platform Experience: Integrating SPFx, Hilly Billy Webpart, and SharePoint List Form Customization
 * [Sandeep Kumar Mishra](https://www.linkedin.com/in/sandeepstw/) (Unify Technologies) – Simplify Governance and Compliance Using Power Automate
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
 
 ---
 
