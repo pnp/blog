@@ -57,6 +57,7 @@ Also: 📷 Picture Time with community in Together Mode!
 ## New videos 
 
 Update of the newly published videos in our YouTube channel 
+
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
 * [Comparing SPFx Tooling: Terminal vs SPFx Toolkit VS Code vs AI GitHub Chat Participant](https://www.youtube.com/watch?v=POMqMwgj6v0) by [Adam Wójcik (Hitachi Energy)​](https://www.linkedin.com/in/adam/)
@@ -77,7 +78,6 @@ Update of the newly published videos in our YouTube channel
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
 * no new videos this week
-
 
 
 ## New Microsoft 365 Developer Blog posts
