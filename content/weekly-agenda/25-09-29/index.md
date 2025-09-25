@@ -58,36 +58,26 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel 
 
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [How to manage Power Platform environment settings centrally](https://www.youtube.com/watch?v=70mSRpjmmos) by [Valentin Mazhar](https://linkedin.com/in/valentin-mazhar) (Zurich Insurance)
-* [Multi-Agent patterns with the Microsoft 365 Agents SDK](https://www.youtube.com/watch?v=PWVnqJHDz4M) by [Matthew Barbour](https://linkedin.com/in/matt-barbour-02702b1) (Microsoft)
-* [Deploying Microsoft 365 artifacts from Azure DevOps and GitHub without certificates or secrets](https://www.youtube.com/watch?v=cTRBE83gnoA) by [Martin Lingstuyl](https://linkedin.com/in/martinlingstuyl) (I4-You Business Solutions)
-* [Maturity Model for Microsoft 365 - September 2025](https://www.youtube.com/watch?v=-mReMv9HgTg)
-* [Building efficient SharePoint Management with SharePoint Agents](https://www.youtube.com/watch?v=RQZ2NZTxDlU) by [Nanddeep Nachan](https://linkedin.com/in/nanddeepnachan) (FineTune Solutions) and [Smita Nachan](https://linkedin.com/in/smitanachan)
-* [Azure AI search in Copilot Studio](https://www.youtube.com/watch?v=w1TDTd6OEUg) by [Rohit Sai Chetla](https://linkedin.com/in/rohitchetla) (Microsoft)
-* [Introduction to Copilot People Connector](https://www.youtube.com/watch?v=nhGe5EORQug) by [Wictor Wilen](https://linkedin.com/in/wictorwilen) (Microsoft)
-* [Building AI powered experiences with SPFx - Hackathon winner 🏅](https://www.youtube.com/watch?v=AqBFyLjS34s) by [Fabio Franzini](https://linkedin.com/in/fabiofranzini) (Apvee)
-* [Creating Intelligent Cardiac Triage & Scheduling Platform using Power Platform](https://www.youtube.com/watch?v=pFflrxY27Fo) by [Abey Abraham](https://linkedin.com/in/abey-abraham-80691710b) (EY) and [Ganesh Anandan](https://linkedin.com/in/ganeshglitz) (EY)
+* [Comparing SPFx Tooling: Terminal vs SPFx Toolkit VS Code vs AI GitHub Chat Participant](https://www.youtube.com/watch?v=POMqMwgj6v0) by [Adam Wójcik (Hitachi Energy)​](https://www.linkedin.com/in/adam/)
+* [Triggernometry: Advanced Copilot Studio Topic Triggers](https://www.youtube.com/watch?v=To7M8xRmA7w) by [Matthew Jimison](https://linkedin.com/in/matthewjimison) (Takeda)
+* [Building hyper-personalized SharePoint experiences with AI - with vibe coding](https://www.youtube.com/watch?v=DPohXuELKuc) by [Henry Amm](https://linkedin.com/in/henryamm) (adenin)
+* [Term Buddy - your AI-powered terminology assistant - PowerFull Devs Hackathon Winner 🏅](https://www.youtube.com/watch?v=pa14FT6PkRU) by [Katerina Chernevskaya](https://linkedin.com/in/katerinachernevskaya) (Awara IT)
+* [Introduction to Knowledge Agent - Site improvement features](https://www.youtube.com/watch?v=2VDJv2Y6f6g) by [Judith Yaaqoubi](https://linkedin.com/in/udithyaaqoubi) (Microsoft) and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft) |   / 
+* [Building an intelligent intranet using SharePoint flexible layouts, Lists and SPFx](https://www.youtube.com/watch?v=PlU0CTZkXNo) by [João Ferreira](https://linkedin.com/in/joao12ferreira) (Appspace) 
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [How to "bring your own model" from Azure AI Foundry to a Microsoft Copilot Studio agent](https://www.youtube.com/watch?v=TSzJ47gG6yU)
-* [Extend Copilot Studio Agents with Azure AI services](https://www.youtube.com/watch?v=cuwJZONyrWQ)
-* [Charts in M365 Copilot | EP03 | Power Up Minute](https://www.youtube.com/watch?v=DBdIdZMnQ-U)
-* [Understanding Microsoft Agents session 4 coming soon!](https://www.youtube.com/watch?v=ThuueSQ23-0)
-* [2025 Release Wave 2 Recap Highlights](https://www.youtube.com/watch?v=r7Qgp_F_Fok)
-* [Demystifying Copilot Studio | SE04 EP04](https://www.youtube.com/watch?v=a5X2sMHjAco)
-* [Python Code in Copilot Studio (using Code Interpreter)](https://www.youtube.com/watch?v=dTenCgI-r4Y)
-* [Demystifying Copilot Studio episode 4 coming soon!](https://www.youtube.com/watch?v=JPh73brchmA)
-* [Request information from humans in the loop | Power Platform Shorts](https://www.youtube.com/watch?v=isnAqT0_gVo)
-* [Understanding Microsoft Agents | EP03](https://www.youtube.com/watch?v=aXocJOGR0TE)
+* [Understanding Agents episode 4 on 1st October 2025!](https://www.youtube.com/watch?v=MEXnnThKzdI&pp=0gcJCesJAYcqIYzv)
+* [Demystifying Copilot Studio | SE04 EP05](https://www.youtube.com/watch?v=Up1O_SinxOQ)
+* [Demystifying Copilot Studio episode 5 coming soon!](https://www.youtube.com/watch?v=nKy8eozjeD0)
+* [Add a Copilot Studio bot to Microsoft Teams | Power Platform Shorts](https://www.youtube.com/watch?v=safTybqLFFU)
+* [Nirav Shah gets set for PPCC25!](https://www.youtube.com/watch?v=YZ_w1FY3nbE)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Quick Look: Azure AI Foundry Agent in M365 Copilot](https://www.youtube.com/watch?v=bS183l_KuxQ)
-* [Bring your custom engine agent powered by Mistral AI into M365 Copilot](https://www.youtube.com/watch?v=xKeVxml2qY4)
+* no new videos this week
 
 
 ## New Microsoft 365 Developer Blog posts
