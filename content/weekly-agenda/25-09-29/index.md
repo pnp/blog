@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 29th of September week
-date: 2025-09-25T08:35:26.840Z
+date: 2025-09-26T02:35:26.840Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -29,10 +29,9 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Judith Yaaqoubi](https://www.linkedin.com/in/judithyaaqoubi/) – Introduction to Knowledge Agent - Improve this site
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) – Introduction to SharePoint Agents
+* [Judith Yaaqoubi](https://www.linkedin.com/in/judithyaaqoubi/) – Introduction to Knowledge Agent - Improve this site
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)   – Handling legacy user's settings in SharePoint Framework
-
 
 ---
 
@@ -60,6 +59,9 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Modern technique to store & rotate application password in Power Automate Desktop](https://www.youtube.com/watch?v=Xg50gSB8lrU) by [Manish Solanki](https://www.linkedin.com/in/manish-solanki-1058b7a/) (Persistent Systems)
+* [Microsoft 365 Champion community call | September 2025](https://www.youtube.com/watch?v=BXJwsHqP4k4) by [James Tyer](https://www.linkedin.com/in/jtyer/) (Microsoft), [Tiffany Lee](https://www.linkedin.com/in/tiffanyyunlee/) (Microsoft) & [Jessie Hwang](https://www.linkedin.com/in/jessiehwang/) (Microsoft)
+* [Enhancing Web Experiences with Observability for AI solutions](https://www.youtube.com/watch?v=g6cijU5l5eg) by [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) (Microsoft) 
 * [Comparing SPFx Tooling: Terminal vs SPFx Toolkit VS Code vs AI GitHub Chat Participant](https://www.youtube.com/watch?v=POMqMwgj6v0) by [Adam Wójcik (Hitachi Energy)​](https://www.linkedin.com/in/adam/)
 * [Triggernometry: Advanced Copilot Studio Topic Triggers](https://www.youtube.com/watch?v=To7M8xRmA7w) by [Matthew Jimison](https://linkedin.com/in/matthewjimison) (Takeda)
 * [Building hyper-personalized SharePoint experiences with AI - with vibe coding](https://www.youtube.com/watch?v=DPohXuELKuc) by [Henry Amm](https://linkedin.com/in/henryamm) (adenin)
@@ -77,7 +79,7 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* no new videos this week
+* [AI Post-Call Intelligence: Turn Transcripts into CRM Data](https://www.youtube.com/watch?v=lAd_GmXEEW8)
 
 
 ## New Microsoft 365 Developer Blog posts
@@ -86,6 +88,7 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
+* [Weekly Agenda - 29th of September week](https://pnp.github.io/blog/weekly-agenda/25-09-29/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 * [Weekly Agenda - 22nd of September week](https://pnp.github.io/blog/weekly-agenda/25-09-22/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
@@ -94,10 +97,9 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 25th of September 2025](https://www.youtube.com/watch?v=b5F0xPK3__I)
 * [Microsoft 365 & Power Platform weekly call – 23rd of September, 2025](https://www.youtube.com/watch?v=p57AW_sT_VQ&pp=0gcJCesJAYcqIYzv)
 * [Office add-ins community call - September 2025](https://www.youtube.com/watch?v=fSEV8E6bXis)
-* [AI Post-Call Intelligence: Turn Transcripts into CRM Data](https://www.youtube.com/watch?v=lAd_GmXEEW8)
-
 
 ---
 
@@ -119,8 +121,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [MCT West Africa Summit 2025](https://www.communitydays.org/event/2025-09-25/mct-west-africa-summit-2025), September 25, 2025 – Accra, Greater Accra, Ghana
-* [Microsoft 365 Ottawa 2025](https://www.communitydays.org/event/2025-09-26/microsoft-365-ottawa-2025), September 26, 2025 – Ottawa, ON, Canada
 * [aMP Bengaluru](https://www.communitydays.org/event/2025-09-27/amp-bengaluru), September 27, 2025 – Bengaluru, Karnataka, India
 * [AgentCon Washington DC 2025](https://www.communitydays.org/event/2025-10-01/agentcon-washington-dc-2025), October 1, 2025 – Reston, VA, United States
 * [aMP Luxembourg 2025](https://www.communitydays.org/event/2025-10-02/amp-luxembourg-2025), October 2, 2025 – Luxembourg, Luxembourg
