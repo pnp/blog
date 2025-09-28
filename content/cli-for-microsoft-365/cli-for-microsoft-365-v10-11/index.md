@@ -13,7 +13,7 @@ tags:
   - SharePoint Embedded
   - Microsoft Teams
   - Viva Engage
-type: popular
+type: regular
 ---
 
 The CLI for Microsoft 365 is back with a fresh minor release! We’ve just launched a new version of [CLI for Microsoft 365](https://aka.ms/cli-m365), a versatile cross-platform command-line tool for managing your Microsoft 365 tenant and SharePoint Framework projects.
