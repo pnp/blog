@@ -29,17 +29,19 @@ The [breaking changes](https://pnp.github.io/cli-microsoft365/about/release-note
 
 ### Key improvements in v11.0
 
-**SharePoint Embedded Enhancements**: We've [upgraded SharePoint Embedded container commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-container-type-commands) to use new preview endpoints, providing enhanced capabilities and configuration options.
+**SharePoint Embedded enhancements**: We've [upgraded SharePoint Embedded container commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-container-type-commands) to use new preview endpoints, providing enhanced capabilities and configuration options.
 
-**Multi-Home Site Support**: [SharePoint homesite commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-behavior-for-spo-homesite-commands) now support multiple home sites per tenant, reflecting the current capabilities of SharePoint Online.
+**Multi-Home Site support**: [SharePoint homesite commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-behavior-for-spo-homesite-commands) now support multiple home sites per tenant, reflecting the current capabilities of SharePoint Online.
 
-**Improved Output Consistency**: [Teams report commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#consistent-list-output-for-teams-report-commands) now return consistent array formats, making script automation more predictable and reliable.
+**Improved output consistency**: [Teams report commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#consistent-list-output-for-teams-report-commands) now return consistent array formats, making script automation more predictable and reliable.
 
-**Command Alignment**: We've [updated command and option names](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-commands-for-alignment) to align with current Microsoft 365 terminology and [removed deprecated functionality](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-options-for-clarity).
+**Command alignment**: We've [updated command and option names](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-commands-for-alignment) to align with current Microsoft 365 terminology and [removed deprecated functionality](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-options-for-clarity).
 
-**Enhanced Defaults**:
+**Enhanced defaults**:
 - [List views](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-view-add) now default to paged mode, reflecting common usage patterns
 - [SPFx upgrades](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade) default to PowerShell, matching current development preferences
+
+**Removed commands**: This release also includes the removal of several commands due to deprecated APIs or product end-of-life. While some commands have alternatives (such as `spo mail send` which is replaced by `outlook mail send`), others like Power Platform card commands and Skype for Business reporting commands have been removed entirely as their underlying products have reached end-of-life. For a complete list of removed commands and available alternatives, see our [v11 upgrade guidance](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#removed-commands).
 
 > For detailed migration guidance, see our comprehensive [v11 Upgrade Guidance](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance) documentation.
 
