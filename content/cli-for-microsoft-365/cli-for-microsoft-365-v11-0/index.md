@@ -29,7 +29,7 @@ The [breaking changes](https://pnp.github.io/cli-microsoft365/about/release-note
 
 ### Key improvements in v11.0
 
-**SharePoint Embedded enhancements**: We've [upgraded SharePoint Embedded container commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-container-type-commands) to use new preview endpoints, providing enhanced capabilities and configuration options.
+**SharePoint Embedded enhancements**: We've [upgraded SharePoint Embedded container type commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-container-type-commands) to use new preview endpoints, providing enhanced capabilities and configuration options.
 
 **Multi-Home Site support**: [SharePoint homesite commands](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#updated-behavior-for-spo-homesite-commands) now support multiple home sites per tenant, reflecting the current capabilities of SharePoint Online.
 
@@ -38,8 +38,8 @@ The [breaking changes](https://pnp.github.io/cli-microsoft365/about/release-note
 **Command alignment**: We've [updated command and option names](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-commands-for-alignment) to align with current Microsoft 365 terminology and [removed deprecated functionality](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#renamed-options-for-clarity).
 
 **Enhanced defaults**:
-- [List views](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-view-add) now default to paged mode, reflecting common usage patterns
-- [SPFx upgrades](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade) default to PowerShell, matching current development preferences
+- [List views](https://pnp.github.io/cli-microsoft365/cmd/spo/list/list-view-add) now default to paged mode, reflecting common usage patterns.
+- [SPFx upgrades](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade) default to PowerShell, matching current development preferences.
 
 **Removed commands**: This release also includes the removal of several commands due to deprecated APIs or product end-of-life. While some commands have alternatives (such as `spo mail send` which is replaced by `outlook mail send`), others like Power Platform card commands and Skype for Business reporting commands have been removed entirely as their underlying products have reached end-of-life. For a complete list of removed commands and available alternatives, see our [v11 upgrade guidance](https://pnp.github.io/cli-microsoft365/v11-upgrade-guidance#removed-commands).
 
@@ -51,7 +51,7 @@ The [breaking changes](https://pnp.github.io/cli-microsoft365/about/release-note
 
 We've added a new command to help you manage Outlook mail search folders more effectively. This command allows you to create mail search folders in the user's mailbox, providing better organization for your email management workflows.
 
-To create a mail search folder in the user's mailbox , run:
+To create a mail search folder in the user's mailbox, run:
 
 ```sh
 m365 outlook mail searchfolder add --userId 1caf7dcd-7e83-4c3a-94f7-932a1299c844 --folderName 'CLI m365' --sourceFolderIds 'AQMkADYAAAIBDAAAAA==' --messageFilter "contains(subject, 'CLI for Microsoft 365')"
@@ -114,10 +114,6 @@ We also updated the default behavior of the [spo list view add](https://pnp.gith
 
 We've enhanced the consistency of Teams report commands by updating their output format. Previously, some commands returned an object with a `value` property, but now they return a proper array for consistency. This makes it much more predictable when working with Teams reporting data in your scripts and automation.
 
-### Command migration and validation
-
-We've migrated several Entra ID administrative unit commands to use Zod for better validation and error handling. This includes commands like `entra administrativeunit list`, `entra administrativeunit get`, `entra administrativeunit remove`, and `entra administrativeunit add`. These improvements ensure better data validation and more reliable command execution.
-
 ## Upcoming changes
 
 We continue to work on exciting new features and improvements for future releases.
@@ -132,8 +128,8 @@ We're excited to participate in Hacktoberfest 2025! This is a perfect opportunit
 
 We've prepared a curated list of issues that are perfect for Hacktoberfest contributions:
 
-- **Zod Migration** - Help us migrate commands to use Zod for better validation and error handling
-- **Minimal Permissions Documentation** - Add comprehensive permission requirements to our command documentation
+- **Zod Migration** - Help us migrate commands to use Zod for better validation and error handling.
+- **Minimal Permissions Documentation** - Add comprehensive permission requirements to our command documentation.
 
 These issues are ideal for contributors looking to understand how CLI for Microsoft 365 works internally, learn about modern TypeScript validation patterns, and contribute to documentation that helps thousands of developers worldwide.
 
