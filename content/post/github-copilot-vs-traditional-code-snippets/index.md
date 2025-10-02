@@ -1,16 +1,13 @@
 ---
 title: "GitHub Copilot vs. Traditional Code Snippets: What works best for PnP development?"
-date: 2025-10-01
+date: 2025-10-01T00:35:26.840Z
 author: "Antonio Villarruel"
 githubname: a-villarruel
 categories: ["Community post"]
-tags:
-  - GitHub Copilot
-  - Snippets 
-description: "A comparison between GitHub Copilot and traditional code snippets in Microsoft 365 & PnP development—exploring strengths, limitations, and how to combine them effectively."
+tags: ["GitHub Copilot", "Snippets"] 
+type: "regular"
 ---
 
-# GitHub Copilot vs. Traditional Code Snippets: What works best for PnP development?
 ![coding](./images/code.jpg)
 
 In the Microsoft 365 and PnP developer community, we’ve always relied heavily on **snippets**—whether it’s a handy PnP PowerShell script, a JSON formatting example for lists, or boilerplate for SPFx web parts. Snippets are fast, reliable, and easy to reuse.  
