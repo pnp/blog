@@ -11,7 +11,7 @@ type: "regular"
 draft: false
 ---
 
-# Microsoft Lists: How to Create Modern Interactive Content Cards with Image Headers
+
 
 ## Introduction
 
