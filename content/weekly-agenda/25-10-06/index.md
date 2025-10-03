@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of October week
-date: 2025-10-02T08:45:04.110Z
+date: 2025-10-03T00:15:04.110Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
