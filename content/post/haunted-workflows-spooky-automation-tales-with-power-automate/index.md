@@ -6,7 +6,7 @@ githubname: antoniovillarruel
 categories: ["Community post"]
 tags: ["Power Automate", "Microsoft 365", "Digital Workplace"]
 images:
-- images/halloween.jpg
+- images/halloween.jpeg
 type: "regular"
 ---
 
