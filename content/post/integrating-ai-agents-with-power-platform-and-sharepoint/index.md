@@ -1,6 +1,6 @@
 ---
 title: "Integrating AI Agents with Power Platform and SharePoint"
-date: 2025-11-09
+date: 2025-10-18
 author: "Antonio Villarruel"
 githubname: a-villarruel
 categories: ["Community post"]
@@ -9,13 +9,13 @@ images:
 tags: ["SharePoint", "AI", "Power Platform"]
 type: "regular"
 ---
-# Integrating AI Agents with Power Platform and SharePoint
-![gears](./images/gears.jpg) 
 
-### Introduction 
+## Introduction 
+
 SharePoint is the **content backbone** of Microsoft 365, and Power Platform provides **low-code/no-code automation and app creation**. Adding AI Agents into this mix unlocks a new paradigm: **intelligent, automated, and context-aware business processes**.
 
-### Scenarios in Action  
+## Scenarios in Action  
+
 1. **Compliance Automation**  
    - An AI Agent scans SharePoint libraries.  
    - Detects documents missing retention labels.  
@@ -30,23 +30,28 @@ SharePoint is the **content backbone** of Microsoft 365, and Power Platform prov
    - A **Power App** integrated with SharePoint guides employees in submitting IT requests.  
    - An AI Agent validates entries, ensures compliance with corporate standards, and suggests self-service resources.  
 
-### Benefits  
+## Benefits  
+
 - **Seamless automation**: AI enhances Power Automate flows with intelligence.  
 - **Employee empowerment**: Agents guide users instead of replacing them.  
 - **Business agility**: Processes evolve dynamically as agents learn.  
 
-### Challenges  
+## Challenges  
+
 - Ensuring **data security** when agents interact with multiple systems.  
 - Designing **human-in-the-loop** checkpoints.  
 - Balancing automation with governance.  
 
-### Quote  
+## Quote  
+
 💬 *"Artificial Intelligence is not just about efficiency — it’s about reimagining processes to create new value."* — McKinsey Global Institute  
 
-### Closing Metaphor  
+## Closing Metaphor 
+
 > Think of SharePoint as the stage, Power Platform as the instruments, and AI Agents as the improvisers that bring music to life.
 
-### References  
+## References 
+ 
 - [Microsoft Learn – Power Platform overview](https://learn.microsoft.com/en-us/power-platform/)  
 - [Microsoft Learn – SharePoint Online and Power Automate](https://learn.microsoft.com/en-us/power-automate/connection-sharepoint-online)  
 - [Microsoft Learn – AI Builder](https://learn.microsoft.com/en-us/ai-builder/overview)  
