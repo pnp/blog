@@ -1,6 +1,6 @@
 ---
 title: "AI in Software Development Projects: What Project Managers need to know"
-date: 2025-10-10
+date: 2025-10-10T08:40:00-04:00git add .
 author: "Antonio Villarruel"
 githubname: a-villarruel
 categories: ["Community post"]
