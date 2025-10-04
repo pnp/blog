@@ -1,17 +1,14 @@
 ---
-title: "AI Agents in SharePoint: Beyond Search and Into Collaboration"
-date: 2025-11-22
+title: "AI Agents in SharePoint: Beyond search and into collaboration"
+date: 2025-10-25
 author: "Antonio Villarruel"
 githubname: a-villarruel
 categories: ["Community post"]
 images:
 - images/ai.jpg
-tags: ["SharePoint", "AI"]
+tags: ["AI", "SharePoint"]
 type: "regular"
 ---
-
-# AI Agents in SharePoint: Beyond Search and Into Collaboration
-![ai](./images/ai.jpg)
 
 For years, SharePoint has been the central hub for enterprise content management and collaboration. Traditionally, much of its value was tied to storing, indexing, and searching for information. But with the integration of **AI agents**, SharePoint is stepping into a new era—one where knowledge is not only accessible but **proactively delivered and contextualized**.
 
