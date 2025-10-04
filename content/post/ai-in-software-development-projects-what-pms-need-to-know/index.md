@@ -1,6 +1,6 @@
 ---
 title: "AI in Software Development Projects: What Project Managers need to know"
-date: 2025-10-10T08:40:00-04:00git add .
+date: 2025-10-10
 author: "Antonio Villarruel"
 githubname: a-villarruel
 categories: ["Community post"]
@@ -10,10 +10,8 @@ tags: ["GitHub Copilot", "Project Management", "AI"]
 type: "regular"
 ---
 
-# AI in Software Development Projects: What Project Managers Need to Know in the Microsoft Ecosystem
-![orchestra](./images/orchestra.jpg)
+## Introduction
 
-### Introduction
 AI coding assistants like GitHub Copilot are reshaping the way we build software. In the Microsoft ecosystem — with .NET, C#, Azure, and Microsoft 365 — developers are embracing AI to speed up delivery and reduce repetitive work.
 
 But for **Project Managers (PMs)**, this change brings both opportunities and risks. Faster coding doesn’t automatically mean better projects. Without governance, AI-generated code may introduce security flaws, outdated practices, or compliance issues.
@@ -22,7 +20,7 @@ This post explores how AI impacts software development projects, and what PMs ne
 
 ---
 
-### Opportunities for Project Management
+## Opportunities for Project Management
 
 - **Accelerated delivery**: Developers can use Copilot to scaffold APIs, generate tests, and reduce boilerplate, saving significant time.  
 - **Improved developer experience**: Junior team members can onboard faster by learning from AI-generated suggestions.  
@@ -30,7 +28,7 @@ This post explores how AI impacts software development projects, and what PMs ne
 
 ---
 
-### Risks to Manage
+## Risks to Manage
 
 - **Code quality & technical debt**: AI may suggest outdated .NET APIs or insecure Azure patterns that don’t meet enterprise standards.  
 - **Compliance issues**: AI training data may raise intellectual property questions — PMs must align with legal and corporate guidelines.  
@@ -39,7 +37,7 @@ This post explores how AI impacts software development projects, and what PMs ne
 
 ---
 
-### Best Practices for PMs in Microsoft Ecosystem Projects
+## Best Practices for PMs in Microsoft Ecosystem Projects
 
 1. **Establish review processes**  
    - Require human peer reviews of all AI-generated code.  
@@ -61,7 +59,7 @@ This post explores how AI impacts software development projects, and what PMs ne
 
 ---
 
-### Case Example
+## Case Example
 A Microsoft 365 integration project uses SPFx and .NET APIs. Developers rely on Copilot to quickly generate SharePoint web parts and Graph API queries.  
 
 The PM ensures:  
@@ -73,7 +71,7 @@ Result: AI accelerates delivery, but quality and governance stay intact.
 
 ---
 
-### Conclusion
+## Conclusion
 AI coding assistants are powerful accelerators — but they don’t replace human expertise or project discipline. For software PMs, the challenge is not to block AI but to **guide its use responsibly**.  
 
 The winning formula is simple: **AI + developers + project governance = successful projects**.  
@@ -82,7 +80,7 @@ The winning formula is simple: **AI + developers + project governance = successf
 
 ---
 
-### References & Further Reading
+## References & Further Reading
 
 - **Microsoft**  
   - [.NET Coding Conventions](https://learn.microsoft.com/dotnet/csharp/fundamentals/coding-style/coding-conventions)  
