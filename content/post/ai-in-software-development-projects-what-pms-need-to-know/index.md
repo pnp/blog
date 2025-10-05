@@ -78,17 +78,12 @@ The winning formula is simple: **AI + developers + project governance = successf
 
 ---
 
-## References & Further Reading
+## References
 
-- **Microsoft**  
-  - [.NET Coding Conventions](https://learn.microsoft.com/dotnet/csharp/fundamentals/coding-style/coding-conventions)  
-  - [.NET Secure Coding Practices](https://learn.microsoft.com/dotnet/standard/security/)  
-  - [Azure Security Best Practices](https://learn.microsoft.com/azure/security/fundamentals/best-practices-and-patterns)  
-
-- **GitHub Copilot**  
-  - [GitHub Copilot Documentation](https://docs.github.com/copilot)  
-  - [Responsible AI with GitHub Copilot](https://github.blog/2023-02-14-github-copilot-responsible-ai-principles/)  
-
-- **Project Management Institute (PMI)**  
-  - [AI and Project Management: Opportunities and Challenges](https://www.pmi.org/learning/library/ai-project-management-12844)  
-  - [PMI Standards and Frameworks](https://www.pmi.org/standards)  
+- [.NET Coding Conventions](https://learn.microsoft.com/dotnet/csharp/fundamentals/coding-style/coding-conventions)  
+- [.NET Secure Coding Practices](https://learn.microsoft.com/dotnet/standard/security/)  
+- [Azure Security Best Practices](https://learn.microsoft.com/azure/security/fundamentals/best-practices-and-patterns)  
+- [GitHub Copilot Documentation](https://docs.github.com/copilot)  
+- [Responsible AI with GitHub Copilot](https://github.blog/2023-02-14-github-copilot-responsible-ai-principles/)  
+- [AI and Project Management: Opportunities and Challenges](https://www.pmi.org/learning/library/ai-project-management-12844)  
+- [PMI Standards and Frameworks](https://www.pmi.org/standards)  
