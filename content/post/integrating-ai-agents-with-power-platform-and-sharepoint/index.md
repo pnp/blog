@@ -10,8 +10,6 @@ tags: ["SharePoint", "AI", "Power Platform"]
 type: "regular"
 ---
 
-## Introduction 
-
 SharePoint is the **content backbone** of Microsoft 365, and Power Platform provides **low-code/no-code automation and app creation**. Adding AI Agents into this mix unlocks a new paradigm: **intelligent, automated, and context-aware business processes**.
 
 ## Scenarios in Action  
