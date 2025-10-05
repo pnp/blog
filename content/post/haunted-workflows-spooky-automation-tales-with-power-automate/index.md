@@ -2,7 +2,7 @@
 title: "Haunted Workflows: Spooky Automation Tales with Power Automate"
 date: 2025-10-31T08:00:00-04:00
 author: "Antonio Villarruel"
-githubname: antoniovillarruel
+githubname: a-villarruel
 categories: ["Community post"]
 tags: ["Power Automate", "Microsoft 365", "Digital Workplace"]
 images:
