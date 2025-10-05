@@ -10,8 +10,6 @@ images:
 type: "regular"
 ---
 
-## Introduction
-
 Halloween is the perfect time to reflect on the “ghosts” that haunt our workflows: delayed approvals, missing data, forgotten tasks, and chaotic notifications.  
 With **Power Automate**, these spectral problems can be tamed — turning haunted processes into **predictable, smooth-running flows**.  
 
@@ -47,7 +45,8 @@ This Halloween, don’t fear the ghosts in your workflow — **exorcise them wit
 
 ---
 
-### 🔗 References  
+## References
+
 - [Power Automate Overview](https://learn.microsoft.com/power-automate/)  
 - [Microsoft 365 Automation Best Practices](https://learn.microsoft.com/microsoft-365/business/automation)  
 - [Harvard Business Review – Managing Digital Workflows](https://hbr.org/)  
