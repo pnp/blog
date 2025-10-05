@@ -55,16 +55,6 @@ Risks include:
 
 ---
 
-## References
-
-- [Microsoft Learn: Introduction to SharePoint in Microsoft 365](https://learn.microsoft.com/sharepoint/introduction)
-- [Microsoft 365 Copilot in SharePoint](https://www.microsoft.com/microsoft-365/copilot/sharepoint)
-- [Stanford HAI – Human-Centered AI](https://hai.stanford.edu/)
-- [MIT Sloan – AI and Collaboration](https://mitsloan.mit.edu/)
-- [Harvard Business Review – Governance of AI in the Enterprise](https://hbr.org/)
-
----
-
 ## Closing Reflection
 
 AI in SharePoint is a **tool to enhance human capabilities, not replace them**.
@@ -78,3 +68,14 @@ If you're new to AI agents, don't be intimidated. Start small, experiment, and g
 With patience, practice, and thoughtful governance, your SharePoint environment can become a **smart, secure, and efficient workspace**, where AI acts as a **trusted guardian, not a rogue adversary**.
 
 **Go ahead, experiment with AI in SharePoint, and… Hasta la vista, baby!**
+
+---
+
+## References
+
+- [Microsoft Learn: Introduction to SharePoint in Microsoft 365](https://learn.microsoft.com/sharepoint/introduction)
+- [Microsoft 365 Copilot in SharePoint](https://www.microsoft.com/microsoft-365/copilot/sharepoint)
+- [Stanford HAI – Human-Centered AI](https://hai.stanford.edu/)
+- [MIT Sloan – AI and Collaboration](https://mitsloan.mit.edu/)
+- [Harvard Business Review – Governance of AI in the Enterprise](https://hbr.org/)
+
