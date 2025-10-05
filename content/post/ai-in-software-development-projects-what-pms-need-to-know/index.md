@@ -10,8 +10,6 @@ tags: ["GitHub Copilot", "Project Management", "AI"]
 type: "regular"
 ---
 
-## Introduction
-
 AI coding assistants like GitHub Copilot are reshaping the way we build software. In the Microsoft ecosystem — with .NET, C#, Azure, and Microsoft 365 — developers are embracing AI to speed up delivery and reduce repetitive work.
 
 But for **Project Managers (PMs)**, this change brings both opportunities and risks. Faster coding doesn’t automatically mean better projects. Without governance, AI-generated code may introduce security flaws, outdated practices, or compliance issues.
