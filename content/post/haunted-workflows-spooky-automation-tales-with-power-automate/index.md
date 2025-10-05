@@ -48,5 +48,7 @@ This Halloween, don’t fear the ghosts in your workflow — **exorcise them wit
 ## References
 
 - [Power Automate Overview](https://learn.microsoft.com/power-automate/)  
-- [Microsoft 365 Automation Best Practices](https://learn.microsoft.com/microsoft-365/business/automation)  
-- [Harvard Business Review – Managing Digital Workflows](https://hbr.org/)  
+- [Microsoft 365 Automation Best Practices](https://learn.microsoft.com/microsoft-365/business/automation)
+- [Automate Approval Reminders with Power Automate and SharePoint](https://sudeepghatak.com/automate-approval-reminders-with-power-automate-and-sharepoint/)  
+- [5 Power Automate Approval Flow Errors: Fix Guide](https://nboldapp.com/5-power-automate-approval-flow-errors-fix-guide/)  
+- [Track Pending Approvals in Power Automate & Send Notifications](https://www.youtube.com/watch?v=RD74hzxWoVg)  
