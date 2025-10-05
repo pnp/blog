@@ -54,7 +54,7 @@ I believe the organizations that succeed won’t be the ones with the smartest a
 
 ---
 
-## References & Further Reading
+## References 
 
 - [Microsoft Learn – SharePoint documentation](https://learn.microsoft.com/sharepoint/)  
 - [Microsoft Learn – AI and Microsoft 365 Copilot](https://learn.microsoft.com/microsoft-365-copilot/)  
