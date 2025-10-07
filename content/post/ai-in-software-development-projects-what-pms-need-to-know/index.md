@@ -1,12 +1,16 @@
 ---
 title: "AI in Software Development Projects: What Project Managers need to know"
-date: 2025-10-10
+date: 2025-10-07
 author: "Antonio Villarruel"
 githubname: a-villarruel
+# don't change
 categories: ["Community post"]
+# link to the thumbnail image for the post
 images:
 - images/orchestra.jpg
+# don't change
 tags: ["GitHub Copilot", "Project Management", "AI"]
+# don't change
 type: "regular"
 ---
 
