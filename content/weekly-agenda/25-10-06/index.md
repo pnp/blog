@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of October week
-date: 2025-10-02T08:45:04.110Z
+date: 2025-10-03T00:15:04.110Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -59,6 +59,8 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Building a SharePoint Agent for financial reporting](https://www.youtube.com/watch?v=O6j3Qb1HQmQ) by [Ezekiel Ibegbunam](https://www.linkedin.com/in/ezekiel-ibegbunam/) (KPMG)
+* [How to create calendar event (ics file) using Power Automate flow](https://www.youtube.com/watch?v=0YxpctLgWak) by [Vipul Jain](https://www.linkedin.com/in/vipul0309/) (Bosch)​
 * [Mental Health First Aider - SharePoint Agent embedded in SharePoint Page](https://www.youtube.com/watch?v=CfTohK0ijoE) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade) and [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity)
 * [Onboard_D, your personalized AI employee onboarding coach](https://www.youtube.com/watch?v=VepFep4U4Q8)
 * [Building custom news experiences with user-selected personalization using SPFx](https://www.youtube.com/watch?v=fnSW3u6HLFA) by [Roel Adams (Eindhoven University of Technology)​](https://www.linkedin.com/in/roel-adams-18b01b85/) and [Ruud Ophelders (Zuyd University of Applied Sciences)​](https://www.linkedin.com/in/ruudophelders/)
