@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Framework Toolkit v4.12.0 minor release"
-date: 2025-08-15T01:00:00.000Z
+date: 2025-10-09T01:00:00.000Z
 # post thumb
 images:
   - images/main.png
@@ -26,28 +26,6 @@ Just check out the features list 👇 it's a looot 🤯.
 
 Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
-## Performance improvements through image compression
-
-Extension size matters, especially when it comes to download times and update speed. We have optimized the entire extension by compressing all images without any noticeable quality loss, reducing the overall package size significantly. This means faster installations, quicker updates, and a more responsive experience for everyone using the SPFx Toolkit.
-
-![compress images](images/compress-images.png)
-
-## Updated Adaptive Card Designer link
-
-The Adaptive Card Designer has moved to its new official Microsoft home! We have updated all references throughout the extension from `https://adaptivecards.io/designer/` to the new URL `https://adaptivecards.microsoft.com/designer`. The old designer site now displays a migration banner, and our update ensures you are always directed to the current, officially supported designer with updated features and better integration with the Microsoft ecosystem.
-
-## Fixed image rendering in sample gallery
-
-Documentation and sample galleries are only useful when you can actually see what's being explained. We have fixed broken image links in the README and sample gallery that were preventing proper rendering across environments like SharePoint. The fix updates relative paths to use `raw.githubusercontent.com`, ensuring that all screenshots, diagrams, and visual guides display correctly whether you are viewing them in VS Code, on GitHub, or in the sample gallery detail view.
-
-![fix readme](images/fix-readme.png)
-
-## App Catalog view no longer shows deleted sites
-
-Clarity in your App Catalog view is essential for effective app management. Previously, deleted or archived sites could still appear in the catalog view, causing confusion when trying to manage your apps. This issue has been resolved by adding a new option to the underlying CLI for Microsoft 365 command that filters out app catalogs from archived or deleted sites. Now the view accurately reflects only your active app catalogs, making it easier to focus on what matters.
-
-![appcatalog no deleted sites](images/appcatalog-no-deleted-sites.png)
-
 ## New app management actions: copy and move
 
 Managing apps across multiple app catalogs just got significantly easier. We have added two powerful new actions that streamline common administrative workflows:
@@ -59,15 +37,39 @@ These actions eliminate the tedious process of manually downloading apps, re-upl
 
 ![copy move actions](images/copy-move-actions.png)
 
-## CLI for Microsoft 365 package cleanup
-
-Every kilobyte counts in extension bundles. We have added a cleanup process for the CLI for Microsoft 365 npm package that removes unnecessary files like documentation, spec.js test files, and js.map source maps from the final VS Code extension bundle. This housekeeping task keeps the extension lean and ensures faster load times without sacrificing any functionality.
-
 ## Enhanced Language Model Tool for SharePoint page creation
 
-The `spo_page_add` Language Model Tool has been significantly updated to follow new standards and support more capabilities when creating SharePoint pages through GitHub Copilot. As part of this improvement, all Language Model Tools have been reorganized into subcatalogs for better structure and maintainability as the collection grows. The tool now includes updated and additional input parameters that were previously missing, making page creation through AI more powerful and reliable. When you ask Copilot to create a SharePoint page, the tool now provides more accurate results with better parameter handling.
+The `spo_page_add` Language Model Tool has been significantly updated to follow new standards and support more capabilities when creating SharePoint pages through GitHub Copilot in VS Code. The tool now includes updated and additional input parameters that were previously missing, making page creation through AI more powerful and reliable. When you ask Copilot to create a SharePoint page, the tool now provides more accurate results with better parameter handling.
 
 ![update llm](images/update-llm.png)
+
+## Performance improvements through image compression
+
+Extension size matters, especially when it comes to download times and update speed. We have optimized the entire extension by compressing all images without any noticeable quality loss, reducing the overall package size significantly. This means faster installations, quicker updates, and a more responsive experience for everyone using the SPFx Toolkit. Since these same images are also used in our documentation, this optimization has reduced the load time and carbon footprint of our docs as well, meaning a win for both performance and the environment!
+
+![compress images](images/compress-images.png)
+
+## Updated Adaptive Card Designer link
+
+The Adaptive Card Designer has moved to its new official Microsoft home! We have updated all references throughout the extension from `https://adaptivecards.io/designer/` to the new URL `https://adaptivecards.microsoft.com/designer`. The old designer site now displays a migration banner, and our update ensures you are always directed to the current, officially supported designer with updated features and better integration with the Microsoft ecosystem.
+
+## Sample gallery improvements
+
+The sample gallery is one of the most beloved features of SPFx Toolkit, providing instant access to hundreds of community-contributed web parts, extensions, and Adaptive Card Extension samples. We have made several improvements to enhance the gallery experience:
+- Images in sample details now display correctly when you click on a sample to view its details in VS Code. We added a small fix that dynamically updates image URLs to the correct paths, ensuring all screenshots and visual examples are visible when browsing through samples.
+- We have also made the gallery more reliable by adding safeguards to address common errors that might occur when processing sample data, ensuring the gallery remains responsive and functional even when encountering unexpected data structures.
+
+![fix readme](images/fix-readme.png)
+
+## App Catalog view no longer shows deleted sites
+
+Clarity in your App Catalog view is essential for effective app management. Previously, deleted or archived sites could still appear in the catalog view, causing confusion when trying to manage your apps. This issue has been resolved by adding a new option to the underlying CLI for Microsoft 365 command that filters out app catalogs from archived or deleted sites. Now the view accurately reflects only your active app catalogs, making it easier to focus on what matters.
+
+![appcatalog no deleted sites](images/appcatalog-no-deleted-sites.png)
+
+## Why version 4.12 and not 4.10?
+
+You might notice that we jumped from version 4.9.8 to 4.12.0 in the VS Code Marketplace. This was not intentional! We encountered issues with the VS Code Marketplace that prevented us from publishing versions 4.10 and 4.11. The marketplace was experiencing problems where extensions were showing up as "no longer available" and publishing new versions was impacted. Rather than skip these version numbers entirely or cause confusion, we decided to move forward with 4.12. You can read more about the marketplace issues in [this GitHub issue](https://github.com/microsoft/vsmarketplace/issues/1454).
 
 ## Improved sample gallery reliability
 
@@ -81,11 +83,17 @@ This release would not have been possible without the help of some really awesom
 
 - [Adam Wójcik](https://github.com/Adam-it)
 - [Luccas Castro](https://github.com/DevPio)
+- [Nico De Cleyre](https://github.com/nicodecleyre)
 - [Saurabh Tripathi](https://github.com/Saurabh7019)
 
 ## 🗺️ Future roadmap
 
-We don't plan to stop, we are already thinking of more awesome features we plan to deliver with v5 release. If you want to check what we are planning, check out our [issues from this milestone](https://github.com/pnp/vscode-viva/milestone/6). Feedback is appreciated 👍.
+We don't plan to stop, we are already thinking of more awesome features we plan to deliver in upcoming releases. Top of our mind currently is:
+
+- Adding support for the upcoming SPFx 1.22
+- Adding support for all SPFx versions, including older versions as well
+
+. If you want to check what we are planning, check out our [issues from this milestone](https://github.com/pnp/vscode-viva/milestone/6). Feedback is appreciated 👍.
 
 ## 👍 Power of the community
 
@@ -102,11 +110,11 @@ Feedback (positive or negative) is also more than welcome.
 
 ## 🔗 Resources
 
+- [SPFx Toolkit Docs](https://pnp.github.io/vscode-viva/)
 - [Download SharePoint Framework Toolkit at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
 - [SPFx Toolkit GitHub repo](https://github.com/pnp/vscode-viva)
 - [Microsoft 365 & Power Platform Community](https://pnp.github.io/#home)
 - [Join the Microsoft 365 & Power Platform Community Discord Server](https://discord.gg/YtYrav2VGW)
-- [SPFx Toolkit Wiki](https://pnp.github.io/vscode-viva/)
 - [Join the Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 - [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 - [Sample Solution Gallery]( https://adoption.microsoft.com/en-us/sample-solution-gallery/)
