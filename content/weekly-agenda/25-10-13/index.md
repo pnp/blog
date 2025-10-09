@@ -80,8 +80,8 @@ Update of the newly published videos in our YouTube channel
 * [Now on demand | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=eTpUeHnWNDw)
 * [PwC streamlines management of over 4.5 billion documents with Copilot and OneDrive](https://www.youtube.com/watch?v=6Az2mQ0hxo4)
 * [Creating interactive demos in SharePoint using SPFx](https://www.youtube.com/watch?v=-F_6FKY3SS0) by [Adam Wójcik](https://www.linkedin.com/in/adam-w/) (Hitachi Energy)
-* [Searching knowledge articles with Copilot Studio](https://www.youtube.com/watch?v=NIjtukZjFlE)
-* [Introduction to extending PnP Modern Search](https://www.youtube.com/watch?v=vxKkPFTtNuE)
+* [Searching knowledge articles with Copilot Studio](https://www.youtube.com/watch?v=NIjtukZjFlE) by [Dian Taylor](https://www.linkedin.com/in/diantaylor) (RSM)
+* [Introduction to extending PnP Modern Search](https://www.youtube.com/watch?v=vxKkPFTtNuE) by [Arne Meersman](https://www.linkedin.com/in/arnemeersma) (delaware BeLux) and [Pieter Vandendriessche](https://www.linkedin.com/in/pieter-vandendriessche) (delaware BeLux) 
 * [Audio overviews in OneDrive | Sync Up](https://www.youtube.com/watch?v=ZiK3V_zaAoE)
 * [Building a Booking.com clone in SharePoint portals](https://www.youtube.com/watch?v=3C_cL5WH6LU&pp=0gcJCfwJAYcqIYzv) by [Yuti Gandhi](https://www.linkedin.com/in/yutigandhi/) (Finz)
 
