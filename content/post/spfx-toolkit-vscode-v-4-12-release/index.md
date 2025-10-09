@@ -71,12 +71,6 @@ Clarity in your App Catalog view is essential for effective app management. Prev
 
 You might notice that we jumped from version 4.9.8 to 4.12.0 in the VS Code Marketplace. This was not intentional! We encountered issues with the VS Code Marketplace that prevented us from publishing versions 4.10 and 4.11. The marketplace was experiencing problems where extensions were showing up as "no longer available" and publishing new versions was impacted. Rather than skip these version numbers entirely or cause confusion, we decided to move forward with 4.12. You can read more about the marketplace issues in [this GitHub issue](https://github.com/microsoft/vsmarketplace/issues/1454).
 
-## Improved sample gallery reliability
-
-The sample gallery is one of the most beloved features of SPFx Toolkit, providing instant access to hundreds of community-contributed web parts, extensions, and Adaptive Card Extension samples. To make this feature even more robust, we have added try-catch safeguards around tags and authors filtering. These protective blocks prevent errors when collections are defined as `null` instead of empty arrays in the JSON data, ensuring the gallery remains responsive and functional even when encountering unexpected data structures or network issues.
-
-![try catch sample gallery](images/try-catch-sample-gallery.png)
-
 ## 👏 You ROCK 🤩
 
 This release would not have been possible without the help of some really awesome folks who stepped in and joined our journey in creating the best-in-class SharePoint Framework tooling in the world. We would like to express our huge gratitude and shout out to:
