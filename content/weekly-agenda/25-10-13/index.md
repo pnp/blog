@@ -83,7 +83,6 @@ Update of the newly published videos in our YouTube channel
 * [Creating interactive demos in SharePoint using SPFx](https://www.youtube.com/watch?v=-F_6FKY3SS0) by [Adam Wójcik](https://www.linkedin.com/in/adam-w/) (Hitachi Energy)
 * [Searching knowledge articles with Copilot Studio](https://www.youtube.com/watch?v=NIjtukZjFlE) by [Dian Taylor](https://www.linkedin.com/in/diantaylor) (RSM)
 * [Introduction to extending PnP Modern Search](https://www.youtube.com/watch?v=vxKkPFTtNuE) by [Arne Meersman](https://www.linkedin.com/in/arnemeersma) (delaware BeLux) and [Pieter Vandendriessche](https://www.linkedin.com/in/pieter-vandendriessche) (delaware BeLux) 
-
 * [Audio overviews in OneDrive | Sync Up](https://www.youtube.com/watch?v=ZiK3V_zaAoE)
 * [Building a Booking.com clone in SharePoint portals](https://www.youtube.com/watch?v=3C_cL5WH6LU&pp=0gcJCfwJAYcqIYzv) by [Yuti Gandhi](https://www.linkedin.com/in/yutigandhi/) (Finz)
 
@@ -138,7 +137,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Experts Live US](https://www.communitydays.org/event/2025-10-10/experts-live-us), October 10, 2025 – New York, United States
 * [CollabDays South Africa](https://www.communitydays.org/event/2025-10-14/collabdays-south-africa), October 14, 2025 – Cape Town, Western Cape, South Africa
 * [Power 365](https://www.communitydays.org/event/2025-10-16/power-365), October 16, 2025 – Lezennes, Hauts-de-France, France
 * [AgentCon & Nigeria M365 Community Day - LAGOS](https://www.communitydays.org/event/2025-10-17/agentcon-and-nigeria-m365-community-day-lagos), October 17, 2025 – Akoka-Yaba, Lagos, Nigeria
