@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 13th of October week
-date: 2025-10-09T11:34:33.611Z
+date: 2025-10-10T02:34:33.611Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -44,9 +44,9 @@ Typically demos here are from the community by the community. You are welcome to
 
 Demos this time
 
-* Pin Location in Canvas App – [Elena Tekin](https://www.linkedin.com/in/elena-tekin/) (Duchêne Industries)
-* Give your copilot agent a body, face and a voice – [Marc André Schröder-Zhou](https://www.linkedin.com/in/dev-schroeder/) (dev-sky.net)
-* How to show Dynamic Adaptive Card using AI PROMPT In Copilot Studio  – [Darshan Magdum](https://www.linkedin.com/in/darshan-magdum-61764b113/) (Nihilent)
+* [Elena Tekin](https://www.linkedin.com/in/elena-tekin/) (Duchêne Industries) - Pin Location in Canvas App
+* [Marc André Schröder-Zhou](https://www.linkedin.com/in/dev-schroeder/) (dev-sky.net) - Give your copilot agent a body, face and a voice
+* [Darshan Magdum](https://www.linkedin.com/in/darshan-magdum-61764b113/) (Nihilent) - How to show Dynamic Adaptive Card using AI PROMPT In Copilot Studio
 
 ---
 
@@ -73,10 +73,11 @@ Also: 📷 Picture Time with community in Together Mode!
 
 Update of the newly published videos in our YouTube channel 
 
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [VystaPoint Digital Workplace: Modern Intranet Built on Power Apps + SharePoint](https://www.youtube.com/watch?v=M3XFoQ97Glo)
+* [DesignKit 3.5 - the new level of Power Apps development](https://www.youtube.com/watch?v=OvCYpE3fGKk) by [Lukas Pavelka](https://www.linkedin.com/in/lukas-lp-pavelka/) (Tietoevry) 
+* [Building SharePoint Agents Finder as declarative agent](https://www.youtube.com/watch?v=UsjGP9uxTfU) by [Mohammed Amer](https://www.youtube.com/watch?v=UsjGP9uxTfU) (Atea Global Services)
+* [VystaPoint Digital Workplace: Modern Intranet Built on Power Apps + SharePoint](https://www.youtube.com/watch?v=M3XFoQ97Glo) by [Emili Sherkanowski](https://www.linkedin.com/in/emilisherk/) (VystaPoint)
 * [Now on demand | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=eTpUeHnWNDw)
 * [PwC streamlines management of over 4.5 billion documents with Copilot and OneDrive](https://www.youtube.com/watch?v=6Az2mQ0hxo4)
 * [Creating interactive demos in SharePoint using SPFx](https://www.youtube.com/watch?v=-F_6FKY3SS0) by [Adam Wójcik](https://www.linkedin.com/in/adam-w/) (Hitachi Energy)
@@ -113,8 +114,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 9th of October 2025](https://www.youtube.com/watch?v=wcfn6ZeDlOs)
 * [Microsoft 365 & Power Platform weekly call – 7th of October, 2025](https://www.youtube.com/watch?v=9HDaz9c87MA)
-
 
 ---
 
@@ -136,7 +137,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Experts Live US](https://www.communitydays.org/event/2025-10-10/experts-live-us), October 10, 2025 – New York, United States
 * [CollabDays South Africa](https://www.communitydays.org/event/2025-10-14/collabdays-south-africa), October 14, 2025 – Cape Town, Western Cape, South Africa
 * [Power 365](https://www.communitydays.org/event/2025-10-16/power-365), October 16, 2025 – Lezennes, Hauts-de-France, France
 * [AgentCon & Nigeria M365 Community Day - LAGOS](https://www.communitydays.org/event/2025-10-17/agentcon-and-nigeria-m365-community-day-lagos), October 17, 2025 – Akoka-Yaba, Lagos, Nigeria
