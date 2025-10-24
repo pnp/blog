@@ -29,7 +29,7 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and David Warner (Quisitive) – Using SharePoint Agents for business scenarios
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Using SharePoint Agents for business scenarios
 * [Sean Squires](https://www.linkedin.com/in/seansquires/)  (Microsoft)  and [Julie Seto](https://www.linkedin.com/in/julieseto/) (Microsoft)  – Introduction to Knowledge Agent - Content management
 
 
@@ -92,9 +92,8 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [New Microsoft 365 & Power Platform Community coordination team members – October 2025](https://pnp.github.io/blog/post/new-community-team-members-october-2025/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
-* [Weekly Agenda - 20th of October week](https://pnp.github.io/blog/weekly-agenda/25-10-20/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
-
+* [New Microsoft 365 & Power Platform Community coordination team members – October 2025](https://pnp.github.io/blog/post/new-community-team-members-october-2025/) by [Vesa Juvonen](https://github.com/VesaJuvonen/) (Microsoft)
+* [Weekly Agenda - 20th of October week](https://pnp.github.io/blog/weekly-agenda/25-10-20/) by [Vesa Juvonen](https://github.com/VesaJuvonen/) (Microsoft)
 
 ---
 
