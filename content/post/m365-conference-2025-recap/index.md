@@ -15,6 +15,7 @@ type: "regular"
 canonicalURL: "https://unsuckm365.com/2025/05/14/the-microsoft-365-conference-and-how-you-still-owe-it-to-yourself-going-to-the-next-one"
 ---
 
+[Original Post](https://unsuckm365.com/2025/05/14/the-microsoft-365-conference-and-how-you-still-owe-it-to-yourself-going-to-the-next-one/)
 
 Three years ago, I wrote about why anyone working in the Microsoft 365 space *should* attend the [Microsoft 365 Conference](https://unsuckm365.com/2022/04/16/the-microsoft-365-conference-and-how-you-owe-it-to-yourself-going-to-the-next-one/) (now the Community Conference). Last week, once again, I was off to Las Vegas, to attend this year's edition of the same event. Little did I know, that earlier message would only grow stronger over time, but this time around, things would feel different.
 
