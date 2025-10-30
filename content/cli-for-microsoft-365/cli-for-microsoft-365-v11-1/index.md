@@ -51,7 +51,7 @@ It is possible to remove an alert by its ID using the following command:
 m365 spo web alert remove --webUrl https://contoso.sharepoint.com/sites/Marketing --id 7cbb4c8d-8e4d-4d2e-9c6f-3f1d8b2e6a0e
 ```
 
-For more information, check the following resource:
+For more information, check the following resources:
 
 - [spo web alert list](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-alert-list)
 - [spo web alert remove](https://pnp.github.io/cli-microsoft365/cmd/spo/web/web-alert-remove/)
