@@ -39,7 +39,7 @@ To list alerts for a SharePoint list by listUrl:
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing --listUrl /sites/Marketing/lists/Tasks
 ```
 
-It is also possible to for a specific user as well. For example, to get alerts for a specific list by title and user by username, execute the following:
+To list alerts for a specific list by title and user by username, execute the following:
 
 ```sh
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing --listTitle "Tasks" --userName jane.doe@contoso.com
