@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 27th of October week
-date: 2025-10-24T02:14:43.184Z
+title: Weekly Agenda - 3rd of November week
+date: 2025-10-30T09:02:21.848Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary43.png
+  - images/weeklysummary44.png
 tags: []
 type: trending
 videos:
@@ -21,31 +21,31 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform product updates - 28th of October
+### Microsoft 365 & Power Platform product updates - 4th of November
 
-* Tuesday, 28th of October 2025, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 4th of November 2025, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) and [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Using SharePoint Agents for business scenarios
-* [Sean Squires](https://www.linkedin.com/in/seansquires/)  (Microsoft)  and [Julie Seto](https://www.linkedin.com/in/julieseto/) (Microsoft)  – Introduction to Knowledge Agent - Content management
-
+* [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis Consulting) – Learning Pathways - Snackable learning tool for your organization
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Agent Academy - Recruit
 
 ---
 
-### Microsoft 365 & Power Platform community demos call - 30th of October
+### Microsoft 365 & Power Platform community demos call - 6th of November
 
-* Thursday, 30th of October, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 6th of November, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/spdev-sig-call) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Joel Lockey](https://www.linkedin.com/in/joel-lockey/) (ANS Group) – Document your Solutions Quickly using VS Code
-* [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) – Level Up Your SPFx Projects with Vitest Unit Testing
-* [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Custom property pane - Building AI integrated SPFx web part
+* [Mitanshu Garg](https://www.linkedin.com/in/mitanshu/) (SLB) – Unlock the Power of Your Data: Custom ML with Azure & Power Platform
+* [Sanjiv Venkatram](https://www.linkedin.com/in/sanjiv-venkatram/) (Prudentia Consulting) – Rapid prototyping with Excel Data Streamer, the Copilot function and Arduino using Microsoft Excel
+* [Gautam Sheth](https://www.linkedin.com/in/gautamdsheth/) (Solutions2Share) – Your AI-Powered People Finder in Microsoft 365
+
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -59,41 +59,36 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Bulk upload items to SharePoint list from Excel with SPFx](https://www.youtube.com/watch?v=QU5VTryy08g) by [Swami Nawale](https://www.linkedin.com/in/swaminawale/) (Beyond Key)
-* [Copilot Samples and Contributions in under 7 minutes!](https://www.youtube.com/watch?v=qb8c2mSMvco) by [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive)
-* [Building a company AI Hub portal with SharePoint - Contoso AI Hub](https://www.youtube.com/watch?v=W03wjWRQfVI) by [Gourav Bagora](https://www.linkedin.com/in/developer-gourav-bagora/) (EY)
-* [Power Platform Meets Terraform](https://www.youtube.com/watch?v=s20DNiE57H4) by [Brian Archer​](https://www.linkedin.com/in/brian-archer-a84360118/) (Scottish Courts and Tribunals Service)
-* [Latest on custom row actions in List Formatting JSON definitions](https://www.youtube.com/watch?v=wS6EquPFlyI) by [Chris Kent](https://www.linkedin.com/in/thechriskent/)  (Takeda)
-* [Supporting Community Days events & local user groups](https://www.youtube.com/watch?v=ITFhB7le0Gc)
-* [OneDrive Customer Office Hours | October 2025](https://www.youtube.com/watch?v=726JhnM6j-4)
-* [OneDrive vs. SharePoint: The files app face-off | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=bA_bBf3xqJs)
-* [Enrich Your Dataverse Data Using AI Prompt Columns](https://www.youtube.com/watch?v=qAWWqDxjyXI) by [Sophia Ma](https://www.linkedin.com/in/ma-sophia/) (Microsoft)
-* [Building Incident Management System (IMS) portal with SharePoint](https://www.youtube.com/watch?v=7Tq3LVwekks) by [Kunj Sangani​](https://www.linkedin.com/in/kunj-sangani/)
-* [Announcing OneDrive custom agents | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=rbJZ8VGnZVY&pp=0gcJCQYKAYcqIYzv)
-* [Building powerful enterprise search apps with SPFx](https://www.youtube.com/watch?v=y0rYfMw9NJY&pp=0gcJCQYKAYcqIYzv) by [Paul Shkurikhin](https://www.linkedin.com/in/sharepointalist/) (Sharepointalist)
-* [OneDrive’s secret weapon: People Card  | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=ApfipR5yAuo)
+* [Creating AI-Powered Employee Helpdesk with SharePoint](https://www.youtube.com/watch?v=chJ5VNX_0IY) by [Waseel Akbari](https://www.linkedin.com/in/waseelakbari/) (California State University)
+* [Integrate Azure AI Foundry agent with M365 Agents SDK](https://www.youtube.com/watch?v=fK7WpmbXIJ4) by [Ayça Baş​](https://www.linkedin.com/in/aycabas/) (Microsoft)
+* [Setting up BambooHR connector for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kpzXm_eKKkg&pp=0gcJCQMKAYcqIYzv)
+* [Building Hover Cards in the List Formatting](https://www.youtube.com/watch?v=o069afBvfNk) by [Chris Kent​](https://www.linkedin.com/in/thechriskent/) (Takeda)
+* [New "Moments" tab in OneDrive | Copilot + OneDrive digital event](https://www.youtube.com/watch?v=k2xlHNHKoVI)
+* [Data discovery and exploration with Dataverse](https://www.youtube.com/watch?v=cgqdzB-D2gY) by [Jason Huang (Microsoft)​](https://www.linkedin.com/in/qhuang1218/) and [Sean Watson](https://www.linkedin.com/in/seanwatson/) (Microsoft)
+* [Manage SharePoint Sites Using AI: SharePoint MCP Server](https://www.youtube.com/watch?v=PLPlGNl8xtA) by [Denis Molodtsov](https://www.linkedin.com/in/molodtsovd/) (CleverPoint Solutions)
+* [MGCI General Session | October 2025](https://www.youtube.com/watch?v=NaB0audk5fc)
+* [Building Adaptive Learning Portal with SharePoint - SharePoint Hackathon](https://www.youtube.com/watch?v=g6dfyoid6wE) by [Vinay Ayinapurapu](https://www.linkedin.com/in/vinay-deep-ayinapurapu-8a301937/) (GM Financial)
 
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Why Create M365 Copilot Agents? | EP08 | Power Up Minute](https://www.youtube.com/watch?v=3bOw7OasaKc)
-* [Build business apps using Plan Designer and Copilot | Power Platform Shorts](https://www.youtube.com/watch?v=Sd0e8_WlmkQ)
-* [Get ready for PPCC25!](https://www.youtube.com/watch?v=AREmCxk9DJQ)
+* [Add inputs to prompts using Power Fx | Power Platform Shorts](https://www.youtube.com/watch?v=HByBKSkjNcU)
+* [Understanding Agents EP05 coming soon!](https://www.youtube.com/watch?v=mtoc8IaBpfk)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Build an AI Agent in 10 Minutes](https://www.youtube.com/watch?v=95uFTSWWYmQ)
+* [Model Context Protocol: Let MCP Handle Your Development Workflows with GitHub and Jira!](https://www.youtube.com/watch?v=91_6PnC9oUU)
 
 
 ## New Microsoft 365 Developer Blog posts
 
-* no new blog posts this week
+* [Migrating from IDCRL authentication to modern authentication in SharePoint](https://devblogs.microsoft.com/microsoft365dev/migrating-from-idcrl-authentication-to-modern-authentication-in-sharepoint/) by SharePoint team
+* [Deprecation of the previewImageUrl property for Insights items that reference file attachments](https://devblogs.microsoft.com/microsoft365dev/deprecation-of-the-previewimageurl-property-for-insights-items-that-reference-file-attachments/) by Microsoft Graph team
 
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [New Microsoft 365 & Power Platform Community coordination team members – October 2025](https://pnp.github.io/blog/post/new-community-team-members-october-2025/) by [Vesa Juvonen](https://github.com/VesaJuvonen/) (Microsoft)
-* [Weekly Agenda - 20th of October week](https://pnp.github.io/blog/weekly-agenda/25-10-20/) by [Vesa Juvonen](https://github.com/VesaJuvonen/) (Microsoft)
+* [Weekly Agenda - 27th of October week](https://pnp.github.io/blog/weekly-agenda/25-10-27/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
 
@@ -101,9 +96,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform community call - 23rd of October 2025](https://www.youtube.com/watch?v=OKjkMaXmNYM)
-* [Microsoft 365 & Power Platform weekly call – 21st of October, 2025](https://www.youtube.com/watch?v=445VaUdvzk8&pp=0gcJCQYKAYcqIYzv)
-* [Office add-ins community call - October 2025](https://www.youtube.com/watch?v=k1Y6m-N3hyI)
+* [Microsoft 365 & Power Platform weekly call – 28th of October, 2025](https://www.youtube.com/watch?v=s-8evnIkTew&pp=0gcJCQMKAYcqIYzv)
 
 ---
 
@@ -119,24 +112,25 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
-* [Power Platform Community Conference](https://powerplatformconf.com/) - October 28-30, 2025 - Las Vegas, Nevada, USA
 * [Microsoft Ignite](https://ignite.microsoft.com/) - November 18-20, 2025 - San Francisco, California, USA
 * [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [aMP KL Conference 2025](https://www.communitydays.org/event/2025-10-28/amp-kl-conference-2025), October 28, 2025 – Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-* [Power Platform Community Conference](https://www.communitydays.org/event/2025-10-28/power-platform-community-conference), October 28, 2025 – Las Vegas, NV, United States
 * [TechCon 365 Dallas](https://www.communitydays.org/event/2025-11-03/techcon-365-dallas), November 3, 2025 – Irving, TX, United States
+* [Fabric Data Days](https://www.communitydays.org/event/2025-11-04/fabric-data-days), November 4, 2025 – Your city, Your country, United States
 * [Vancouver Microsoft 365 Summit](https://www.communitydays.org/event/2025-11-06/vancouver-microsoft-365-summit), November 6, 2025 – Vancouver, BC, Canada
 * [MN M365 15TH BI-ANNUAL FALL WORKSHOP DAY](https://www.communitydays.org/event/2025-11-07/mn-m365-15th-bi-annual-fall-workshop-day), November 7, 2025 – Edina, MN, United States
 * [AI COMMUNITY DAYS - TUNIS](https://www.communitydays.org/event/2025-11-08/ai-community-days-tunis), November 8, 2025 – Tunis, Tunisia
 * [Experts Live Emirates 2025](https://www.communitydays.org/event/2025-11-11/experts-live-emirates-2025), November 11, 2025 – Dubai, United Arab Emirates
 * [Orchard Harvest Conference](https://www.communitydays.org/event/2025-11-11/orchard-harvest-conference), November 11, 2025 – Prague, Czechia
 * [Update Conference Prague 2025](https://www.communitydays.org/event/2025-11-13/update-conference-prague-2025), November 13, 2025 – Prague, Czechia
+* [Microsoft Ignite 2025 NYC Community Summit](https://www.communitydays.org/event/2025-11-17/microsoft-ignite-2025-nyc-community-summit), November 17, 2025 – New York City, NY, United States
 * [M365 Community Days DC - Microsoft Ignite 2025 Watch Party + Unconference](https://www.communitydays.org/event/2025-11-18/m365-community-days-dc-microsoft-ignite-2025-watch-party-plus-unconference), November 18, 2025 – Arlington, Virginia, United States
 * [Dynamics 365 Användarföreningsmöte hösten 2025](https://www.communitydays.org/event/2025-11-19/dynamics-365-anvandarforeningsmote-hosten-2025), November 19, 2025 – Stockholm, Sweden
 * [CloudBuilt](https://www.communitydays.org/event/2025-11-20/cloudbuilt), November 20, 2025 – Antwerpen, Belgium
+* [MS Community Days Monterrey 2025](https://www.communitydays.org/event/2025-11-20/ms-community-days-monterrey-2025), November 20, 2025 – Monterrey, Nuevo León, Mexico
+* [Boston Code Camp](https://www.communitydays.org/event/2025-11-22/boston-code-camp), November 22, 2025 – Burlington, MA, United States
 * [aMP AIX MARSEILLE 2025](https://www.communitydays.org/event/2025-11-25/amp-aix-marseille-2025), November 25, 2025 – Aix-en-Provence, Provence-Alpes-Côte D'Azur, France
 * [DynUG Autumn Conference 2025](https://www.communitydays.org/event/2025-11-25/dynug-autumn-conference-2025), November 25, 2025 – Oslo, Gardermoen, Norway
 * [Shift Enter Summit 2025](https://www.communitydays.org/event/2025-11-26/shift-enter-summit-2025), November 26, 2025 – Budapest, Hungary
@@ -151,7 +145,10 @@ Please take the opportunity to join these great conferences organized by the bes
 * [AI Community Conference - AICO Dubai](https://www.communitydays.org/event/2025-12-10/ai-community-conference-aico-dubai), December 10, 2025 – Dubai, United Arab Emirates
 * [AI Maitri - Dubai 2025](https://www.communitydays.org/event/2025-12-12/ai-maitri-dubai-2025), December 12, 2025 – Dubai, United Arab Emirates
 * [CollabDays Tunisia](https://www.communitydays.org/event/2025-12-18/collabdays-tunisia), December 18, 2025 – Yasmine Hammamet, Hammamet, Tunisia
-* [AI DAYS TUNISIA](https://www.communitydays.org/event/2025-12-19/ai-days-tunisia), December 19, 2025 – Yasmine Hammamet, Hammamet, Tunisia
+* [AI Community Conference - Tunisia](https://www.communitydays.org/event/2025-12-19/ai-community-conference-tunisia), December 19, 2025 – Yasmine Hammamet, Hammamet, Tunisia
+* [AI Community Conference - AICO Singapore](https://www.communitydays.org/event/2026-01-20/ai-community-conference-aico-singapore), January 20, 2026 – Singapore, Singapore
+* [AI Community Conference - AICO Kuala Lumpur](https://www.communitydays.org/event/2026-01-22/ai-community-conference-aico-kuala-lumpur), January 22, 2026 – Kuala Lumpur, Malaysia
+* [CollabDays Bremen](https://www.communitydays.org/event/2026-01-23/collabdays-bremen), January 23, 2026 – Bremen, Germany, Germany
 * [Vibe 2026](https://www.communitydays.org/event/2026-01-28/vibe-2026), January 28, 2026 – South Padre Island, TX, United States
 * [Cloud Tech Tallinn 2026](https://www.communitydays.org/event/2026-01-29/cloud-tech-tallinn-2026), January 29, 2026 – Tallinn, Harju, Estonia
 * [M365 Community Days DC 2026](https://www.communitydays.org/event/2026-01-29/m365-community-days-dc-2026), January 29, 2026 – Arlington, Virginia, United States
@@ -159,6 +156,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Exchange Summit 2026](https://www.communitydays.org/event/2026-02-24/exchange-summit-2026), February 24, 2026 – Würzburg, BY, Germany
 * [Knoxville Microsoft Community Days](https://www.communitydays.org/event/2026-02-26/knoxville-microsoft-community-days), February 26, 2026 – Maryville, TN, United States
 * [Experts Live Germany 2026](https://www.communitydays.org/event/2026-03-03/experts-live-germany-2026), March 3, 2026 – Leipzig, Saxony, Germany
+* [The WIT Network Igniting Excellence Leadership Conference](https://www.communitydays.org/event/2026-03-10/the-wit-network-igniting-excellence-leadership-conference), March 10, 2026 – North San Diego, CA, United States
 * [Microsoft Fabric Community Conference](https://www.communitydays.org/event/2026-03-16/microsoft-fabric-community-conference), March 16, 2026 – Atlanta, GA, United States
 * [DynamicsMinds 2026](https://www.communitydays.org/event/2026-05-25/dynamicsminds-2026), May 25, 2026 – Portorož, Slovenia, Slovenia
 * [CollabDays New England 2026](https://www.communitydays.org/event/2026-10-16/collabdays-new-england-2026), October 16, 2026 – Burlington, MA, United States
