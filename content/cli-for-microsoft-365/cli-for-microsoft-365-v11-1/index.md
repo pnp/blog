@@ -78,7 +78,7 @@ We continue to work on exciting new features and improvements for future release
 
 ### Hacktoberfest 2025
 
-During Hacktoberfest 2025, our community came together to make remarkable contributions to the CLI for Microsoft 365 project. We are incredibly grateful for the outstanding work done by all participants who dedicated their time and expertise to improve the project.
+During Hacktoberfest 2025, our community came together to make remarkable contributions to the CLI for Microsoft 365 project. We are incredibly grateful for the outstanding work done by all participants who dedicated their time and expertise to improving the project.
 
 The community's efforts this Hacktoberfest were particularly impactful in two key areas:
 
