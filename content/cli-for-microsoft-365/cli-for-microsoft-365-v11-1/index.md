@@ -27,7 +27,7 @@ CLI for Microsoft 365 v11.1 continues our commitment to providing powerful, reli
 
 In this release, we added two new commands that allow you to list all SharePoint list alerts and remove an existing alert. Let's go over a few examples of how to use these new commands:
 
-In order to list all SharePoint list alerts, run:
+In order to list all SharePoint list alerts in a specific site, run:
 
 ```sh
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing
