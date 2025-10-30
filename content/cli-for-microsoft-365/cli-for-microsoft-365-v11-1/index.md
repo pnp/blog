@@ -58,7 +58,7 @@ For more information, check the following resources:
 
 ## Additional improvements
 
-Beyond the new commands, we've made several important improvements to existing functionality:
+Beyond the new commands, we've made several important improvements to existing functionality.
 
 ### Refactored command options validation to use ZOD
 
