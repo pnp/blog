@@ -66,7 +66,7 @@ To enhance the maintainability of our codebase, we managed to refactor 16 comman
 
 ### Permissions management
 
-To help users better understand the permissions required to execute specific commands, we have added detailed permission information to the documentation of over 100 commands. This enhancement aims to improve user experience by providing clarity on the necessary minimal permissions that are required for effective command execution.
+To help users better understand the permissions required to execute specific commands, we have added detailed permission information to the documentation of over 100 commands. This enhancement aims to improve the user experience by providing clarity on the necessary minimal permissions that are required for effective command execution.
 
 ## Upcoming changes
 
