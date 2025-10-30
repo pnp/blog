@@ -45,7 +45,7 @@ To list alerts for a specific list by title and user by username, execute the fo
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing --listTitle "Tasks" --userName jane.doe@contoso.com
 ```
 
-It is possible to remove an alert by its ID using the following command:
+To remove an existing alert, execute the following:
 
 ```sh
 m365 spo web alert remove --webUrl https://contoso.sharepoint.com/sites/Marketing --id 7cbb4c8d-8e4d-4d2e-9c6f-3f1d8b2e6a0e
