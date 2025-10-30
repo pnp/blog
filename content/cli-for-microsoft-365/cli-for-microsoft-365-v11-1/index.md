@@ -25,7 +25,7 @@ CLI for Microsoft 365 v11.1 continues our commitment to providing powerful, reli
 
 ### SharePoint list alerts
 
-In this release we added two new commands that allow you to list all SharePoint list alerts and remove an existing alert. Let's go over a few examples of how to use these new commands:
+In this release, we added two new commands that allow you to list all SharePoint list alerts and remove an existing alert. Let's go over a few examples of how to use these new commands:
 
 In order to list all SharePoint list alerts, run:
 
@@ -39,7 +39,7 @@ To list alerts for a SharePoint list by listUrl:
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing --listUrl /sites/Marketing/lists/Tasks
 ```
 
-It is also possible to for a specific user as well. For example to get alerts for a specific list by title and user by username, execute the following:
+It is also possible to for a specific user as well. For example, to get alerts for a specific list by title and user by username, execute the following:
 
 ```sh
 m365 spo web alert list --webUrl https://contoso.sharepoint.com/sites/Marketing --listTitle "Tasks" --userName jane.doe@contoso.com
@@ -62,7 +62,7 @@ Beyond the new commands, we've made several important improvements to existing f
 
 ### Refactored command options validation to use ZOD
 
-To enhance the maintainability of our codebase, we managef to refactored 16 commands validation mechanism to utilize ZOD, a TypeScript-first schema declaration and validation library. This change improves type safety, reduces boilerplate code, and streamlines the validation process across various commands in CLI for Microsoft 365.
+To enhance the maintainability of our codebase, we managed to refactor 16 commands validation mechanisms to utilize ZOD, a TypeScript-first schema declaration and validation library. This change improves type safety, reduces boilerplate code, and streamlines the validation process across various commands in CLI for Microsoft 365.
 
 ### Permissions management
 
