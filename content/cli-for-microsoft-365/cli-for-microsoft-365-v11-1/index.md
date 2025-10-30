@@ -21,7 +21,7 @@ We're thrilled to introduce a new minor release of CLI for Microsoft 365 v11.1, 
 
 CLI for Microsoft 365 v11.1 continues our commitment to providing powerful, reliable automation tools for Microsoft 365. This minor release introduces new commands for managing SharePoint web alerts. Additionally, we're thrilled to share the incredible contributions our community made during Hacktoberfest 2025, significantly improving our codebase by refactoring command options validation to use ZOD and documentation.
 
-## New commands in v11.1
+## New commands
 
 ### SharePoint list alerts
 
