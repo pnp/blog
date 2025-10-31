@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 3rd of November week
-date: 2025-10-30T09:02:21.848Z
+date: 2025-10-31T02:02:21.848Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -29,8 +29,8 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis Consulting) – Learning Pathways - Snackable learning tool for your organization
-* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Agent Academy - Recruit
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) – Master the art of building agents using Microsoft Copilot Studio – join Copilot Studio Agent Academy
+* [Derek Cash-Peterson](https://www.linkedin.com/in/dcashpeterson/) (Sympraxis Consulting) – Learning Pathways - Snackable learning tool for your organization in Microsoft 365
 
 ---
 
@@ -46,7 +46,6 @@ Demos this time:
 * [Sanjiv Venkatram](https://www.linkedin.com/in/sanjiv-venkatram/) (Prudentia Consulting) – Rapid prototyping with Excel Data Streamer, the Copilot function and Arduino using Microsoft Excel
 * [Gautam Sheth](https://www.linkedin.com/in/gautamdsheth/) (Solutions2Share) – Your AI-Powered People Finder in Microsoft 365
 
-
 Also: 📷 Picture Time with community in Together Mode!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -59,6 +58,8 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Enhancing Power Platform Solutions with Pro Code](https://www.youtube.com/watch?v=G5EXJGwdpYU) by [Brian Archer​](https://www.linkedin.com/in/brian-archer-a84360118/) (Scottish Courts and Tribunals)​
+* [Power Apps YAML Snippets Tips and Tricks – Hard Coded Sample Data Creation](https://www.youtube.com/watch?v=oIDGHU27EZY) by [David Warner](https://www.linkedin.com/in/DavidWarnerII/) (Quisitive)​
 * [Creating AI-Powered Employee Helpdesk with SharePoint](https://www.youtube.com/watch?v=chJ5VNX_0IY) by [Waseel Akbari](https://www.linkedin.com/in/waseelakbari/) (California State University)
 * [Integrate Azure AI Foundry agent with M365 Agents SDK](https://www.youtube.com/watch?v=fK7WpmbXIJ4) by [Ayça Baş​](https://www.linkedin.com/in/aycabas/) (Microsoft)
 * [Setting up BambooHR connector for Microsoft 365 Copilot](https://www.youtube.com/watch?v=kpzXm_eKKkg&pp=0gcJCQMKAYcqIYzv)
@@ -96,6 +97,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 30th of October 2025](https://www.youtube.com/watch?v=IL9_80UW400)
+* [Microsoft 365 Champion community call | October 2025](https://www.youtube.com/watch?v=KWy9hD46KOc)
 * [Microsoft 365 & Power Platform weekly call – 28th of October, 2025](https://www.youtube.com/watch?v=s-8evnIkTew&pp=0gcJCQMKAYcqIYzv)
 
 ---
