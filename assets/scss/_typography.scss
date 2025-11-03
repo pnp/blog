@@ -9,7 +9,7 @@ body {
 
 p {
   font-weight: 400;
-  color: $text-color;
+  color: var(--theme-text-subtle);
   font-size: 16px;
   line-height: calc(1ex / 0.32);
   font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
@@ -18,7 +18,7 @@ p {
 }
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
-  color: $text-color-dark;
+  color: var(--theme-text);
   font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
   font-weight: 600;
   line-height: 1.2;
