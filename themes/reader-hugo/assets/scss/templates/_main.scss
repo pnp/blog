@@ -266,17 +266,18 @@
 .card {
   @extend .shadow;
 
-  border-radius: 2px;
+  border-radius: 5px;
   border: none; //-color: rgb(50,49,48);
-  background-color: $white;
+  background-color: var(--theme-body-background-medium);
   transition: 0.2s ease;
 
   &:hover::after {
     content: " ";
     position: absolute;
     inset: 0px;
-    border: 1px solid rgb(200, 198, 196);
+    border: 1px solid var(--theme-border);
     pointer-events: none;
+    border-radius: 5px;
   }
 
   &-body {
@@ -355,7 +356,7 @@
 }
 
 .post-title {
-  color: $text-color-dark;
+  color: var(--theme-text);
   font-weight: 700;
 
   &:hover {
@@ -367,7 +368,7 @@
   margin-bottom: 0;
 
   li {
-    color: $text-color-light;
+    color: $text-color;
     font-size: 14px;
 
     a {
@@ -678,7 +679,7 @@
     border-left: 2px solid $primary-color;
     margin: 40px 0;
     font-weight: bold;
-    background: $light;
+    background: var(--theme-body-background-medium);
 
     p {
       margin-bottom: 0 !important;
@@ -690,6 +691,7 @@
     padding: 9.5px;
     margin: 10px 0px 10px;
     white-space: pre-wrap;
+    color:var(--theme-text-subtle);
   }
 
   code {
@@ -774,13 +776,13 @@
   padding: 15px;
   border-radius: 5px;
   border-top: 6px solid $primary-color;
-  background-color: $white;
+  background-color: var(--theme-body-background-medium);
   @extend .shadow;
 
   &-title {
     text-transform: uppercase;
     margin-bottom: 15px;
-    color: $text-color-dark;
+    color: var(--theme-text-subtle);
     text-align: center;
     font-size: 15px;
     letter-spacing: 0.06em;
@@ -879,7 +881,7 @@
       padding: 7px 0;
 
       a {
-        color: $text-color-dark;
+        color: var(--theme-text-subtle);
 
         &:hover {
           color: $primary-color;
@@ -897,7 +899,7 @@
         border: 1px solid $primary-color;
         border-radius: 30px;
         display: block;
-        color: $text-color;
+        color: var(--theme-text-subtle);
 
         &:hover {
           border-color: $primary-color;
@@ -924,7 +926,7 @@
     a {
       padding: 10px;
       font-size: 20px;
-      color: $text-color-light;
+      color: var(--theme-text-subtle);
 
       &:hover {
         color: $primary-color;
@@ -1008,7 +1010,7 @@
   &-list {
     a {
       display: block;
-      color: $text-color-dark;
+      color: var(--theme-text-subtle);
       padding: 5px;
 
       &:hover {
