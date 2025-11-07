@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 10th of November week
-date: 2025-11-07T16:43:20.764Z
+date: 2025-11-07T07:43:20.764Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -13,8 +13,8 @@ videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
 ---
-
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
+
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
@@ -31,7 +31,6 @@ Demos this time:
 
 * [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) – Unlock SharePoint Embedded integration with Power Platform connectors
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Creating Autonomous Agents in Copilot Studio
-
 
 ---
 
@@ -167,3 +166,5 @@ Please take the opportunity to join these great conferences organized by the bes
 * [DynamicsMinds 2026](https://www.communitydays.org/event/2026-05-25/dynamicsminds-2026), May 25, 2026 – Portorož, Slovenia, Slovenia
 * [CollabDays Hamburg 2026](https://www.communitydays.org/event/2026-06-27/collabdays-hamburg-2026), June 27, 2026 – Hamburg, Germany
 * [CollabDays New England 2026](https://www.communitydays.org/event/2026-10-16/collabdays-new-england-2026), October 16, 2026 – Burlington, MA, United States
+
+>>>>>>> f18f7bedb7c6c95749bc78316ba30c72d2910f52
