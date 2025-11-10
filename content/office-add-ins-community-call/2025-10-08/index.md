@@ -81,6 +81,12 @@ If there is a bug with Office.js APIs or Office Add-ins, please create an issue 
 
 We looked into this and decided we'll work to include them in the next Excel Requirement set (likely 1.21). Thanks for bringing this to our attention!
 
+**I have a couple question related to unified manifest support with a Word add-in. First, is it possible to open a new add-in from Copilot? Second, can we add custom buttons, similar to the existing Insert button, with our own functionality?**
+
+- Yes, it's possible to combine a Copilot agent and an add-in in the same unified manifest package
+- No, it's not possible today to open an add-in from an agent directly. Add-in actions are callable by an agent, but switching to an add-in taskpane isn't supported.
+- The 'insert' button used in an agent is provided as an agent feature outside of the add-in. We're investigating allowing responses from an agent to directly call an add-in action vs having the agent choose to use on based on the user query.
+
 ## Call to action
 
 * Join the [next community call](https://aka.ms/officeaddinscommunitycall) on November 12th at 7:00 AM Pacific Time.
