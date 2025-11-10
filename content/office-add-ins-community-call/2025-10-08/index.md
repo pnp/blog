@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/z-vYEb4N2go
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - October 8, 2025
@@ -76,6 +76,10 @@ We have someone looking into this and we'll share more updates on the GitHub iss
 **What is the best place to ask about updates on issues/feature requests (I have the office bug#)?**
 
 If there is a bug with Office.js APIs or Office Add-ins, please create an issue at [https://github.com/OfficeDev/Office-js](https://github.com/OfficeDev/Office-js).
+
+**events around named items in Excel. The Excel-specific beta version of office.js has support for events around named items in Excel (see https://appsforoffice.microsoft.com/lib/beta/hosted/excel.js) for years, but it has not been added into the office.js build. Is there a specific reason?**
+
+We looked into this and decided we'll work to include them in the next Excel Requirement set (likely 1.21). Thanks for bringing this to our attention!
 
 ## Call to action
 
