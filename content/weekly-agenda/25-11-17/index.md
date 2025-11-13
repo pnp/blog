@@ -105,7 +105,7 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* no new emails this week
+* no new posts this week
 
 
 ## New Microsoft 365 Developer Blog posts
