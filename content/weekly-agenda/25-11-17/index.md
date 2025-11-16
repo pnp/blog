@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 17th of November week
-date: 2025-11-13T13:28:00.920Z
+date: 2025-11-14T02:28:00.920Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
