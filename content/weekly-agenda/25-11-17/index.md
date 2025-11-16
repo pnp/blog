@@ -35,11 +35,11 @@ Demos this time:
 ---
 
 
-### Microsoft Power Platform community call  - 19th of October
+### Microsoft Power Platform community call  - 19th of November
 
 Typically demos here are from the community by the community. You are welcome to demo here 👋
 
-* Wednesday, 19th of October, 8:00 AM PT / 3:00 PM GMT
+* Wednesday, 19th of November, 8:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/PowerPlatformMonthlyCall) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording recording from here: [Microsoft 365 & Power Platform Community - Power Platform calls](https://www.youtube.com/watch?v=qLM6MChvrOk&list=PLR9nK3mnD-OVHNx67Q2Uxe7wodTnjHguz)
 
