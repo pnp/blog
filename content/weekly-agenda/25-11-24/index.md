@@ -44,7 +44,7 @@ Demos this time:
 Demos this time:
 
 * [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI) – Hello Python Kind Regards, Power Automate Flow
-* [Charan (Ran) Reddy](https://www.linkedin.com/in/charan-basireddy/) (UVA School of Data Science) – How to enhance Copilot Studio Context with Local Data through Fabric Data Agents
+* [Chris Kent]([https://www.linkedin.com/in/charan-basireddy/](https://www.linkedin.com/in/thechriskent/)) (Takeda) – List Formatting Tips & Tricks
 * [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Adding UI Theme awareness - Building AI integrated SPFx web part
 
 
