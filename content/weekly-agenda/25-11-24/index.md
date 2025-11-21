@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 24th of November week
-date: 2025-11-20T13:09:27.389Z
+date: 2025-11-21T02:09:27.389Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -44,7 +44,7 @@ Demos this time:
 Demos this time:
 
 * [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI) – Hello Python Kind Regards, Power Automate Flow
-* [Chris Kent]([https://www.linkedin.com/in/charan-basireddy/](https://www.linkedin.com/in/thechriskent/)) (Takeda) – List Formatting Tips & Tricks
+* [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda) – List Formatting Tips & Tricks
 * [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Adding UI Theme awareness - Building AI integrated SPFx web part
 
 
@@ -60,7 +60,9 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-
+* [Power Apps YAML Snippet Tips – With() It – With() it Good!!](https://www.youtube.com/watch?v=FSsCyNhUYqA) by [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive)
+* [Launch a pilot for your frontline workers](https://www.youtube.com/watch?v=KOBM63h_Q70)
+* [Community highlights at Microsoft Ignite 2025](https://www.youtube.com/watch?v=GFEtyUaXB2Y)
 * [Patterns for handling user's settings in SharePoint Framework](https://www.youtube.com/watch?v=ocfVpAvawr0) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft)
 * [Relive the excitement of the Microsoft Ignite 2025 day one keynote!](https://www.youtube.com/watch?v=RXu8iJmqLgk)
 * [Deploy Azure Foundry Agent to Microsoft 365 Copilot](https://www.youtube.com/watch?v=lio4x6x2oqA) by [Sara Critchley](https://www.linkedin.com/in/sarahcritchley/) (Microsoft) and [Matthew Barbour](https://www.linkedin.com/in/matt-barbour-02702b1/) (Microsoft)
@@ -76,7 +78,6 @@ Update of the newly published videos in our YouTube channel
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-
 * [Adecco Group’s Japan subsidiary boosts productivity with Microsoft Copilot and Power Platform](https://www.youtube.com/watch?v=Tiq2AkG_Tss)
 * [Microsoft Power Up Program Champs!](https://www.youtube.com/watch?v=8mDerEZQJjM)
 * [Request info from humans in agent flows | Power Platform Shorts](https://www.youtube.com/watch?v=FxHWZJUvnbo)
@@ -90,10 +91,9 @@ Update of the newly published videos in our YouTube channel
 * [Discover, Manage, Secure agents using Agent 365](https://www.youtube.com/watch?v=SlKNY0Bd7iU)
 * [Make your Agents Enterprise-Ready with the Agent 365 SDK (Part 1)](https://www.youtube.com/watch?v=LOtAElJYlmc)
 
-
 ## New Microsoft 365 Developer Blog posts
 
-* * [Ignite 2025 – What’s new for Office Add-ins](https://devblogs.microsoft.com/microsoft365dev/ignite-2025-whats-new-for-office-add-ins/) by Office Add-ins team
+* [Ignite 2025 – What’s new for Office Add-ins](https://devblogs.microsoft.com/microsoft365dev/ignite-2025-whats-new-for-office-add-ins/) by Office Add-ins team
 * [Microsoft Agent 365 Interoperability for Smart, Secure Productivity](https://devblogs.microsoft.com/microsoft365dev/microsoft-agent-365-interoperability-for-smart-secure-productivity/) by Nirav Shah
 * [Announcing the Microsoft Teams SDK (Formerly the Teams AI Library)](https://devblogs.microsoft.com/microsoft365dev/announcing-the-updated-teams-ai-library-and-mcp-support/) by Sujeet Mehta
 * [From Innovation to Enterprise Trust with Microsoft Agent 365](https://devblogs.microsoft.com/microsoft365dev/from-innovation-to-enterprise-trust-with-microsoft-agent-365/) by Nirav Shah
@@ -108,6 +108,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 20th of November 2025](https://www.youtube.com/watch?v=4uDEYK3HtDI)
 * [Microsoft Power Platform community call – November 2025](https://www.youtube.com/watch?v=w6oC8F8pEng)
 * [Microsoft 365 & Power Platform weekly call – 18th of November, 2025](https://www.youtube.com/watch?v=jUFk-PJXrY4)
 * [Microsoft 365 & Power Platform community call - 13th of November 2025](https://www.youtube.com/watch?v=gf2wctHXDLc)
@@ -126,8 +127,11 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
-
 * [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
+* [Microsoft 365 Conference](https://m365conf.com/) - April 21-23 - Orlando, United States
+* [ECS 2026](https://ecs.events/) - May 5-7, 2026 - Cologne, Germany
+* [European Power Platform Conference 2026](https://www.sharepointeurope.com/european-power-platform-conference/) - June 1-4, 2026 - Copenhagen, Denmark
+* [TechCon - Chicago](https://techcon365.com/Chicago/) - June 15-19, 2026 - Chicago, United States
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
