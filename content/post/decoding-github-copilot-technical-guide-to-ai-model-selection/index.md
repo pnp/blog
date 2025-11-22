@@ -4,9 +4,9 @@ date: 2025-11-22T08:00:00-04:00
 author: "Antonio Villarruel"
 githubname: "a-villarruel"
 categories: ["Community post"]
-tags: ["AI", "GitHub", "GitHub Copilot", "AI Models", "Enterprise Architecture", "Productivity"]
 images:
 - images/yoda.jpeg
+tags: ["AI", "GitHub", "GitHub Copilot", "AI Models", "Enterprise Architecture", "Productivity"]
 type: "regular"
 ---
 
@@ -66,7 +66,7 @@ As Yoda would wisely put it: *“Always in motion is the future.”* Choosing an
 
 By aligning AI model capabilities with technical and governance requirements, enterprises can ensure GitHub Copilot becomes more than a coding assistant: it becomes a **strategic enabler of digital transformation**.  
 
-(./images/quote.jpg)
+![](/images/quote.jpg)
 
 ---
 
