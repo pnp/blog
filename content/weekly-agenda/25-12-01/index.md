@@ -23,7 +23,7 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform product updates - 2nd of December
 
-* Tuesday, 2nd of December 2025, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 2nd of December 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
@@ -45,8 +45,6 @@ Demos this time:
 * [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI) – Building a WeatherNow SPFx Web Part 
 * [Elliot Margot](https://www.linkedin.com/in/elliot-margot-52742a156/) (Witivio) – Mastering Mermaid: Automating the Creation of Process Diagrams with Copilot Studio
 * [Beau Cameron](https://www.linkedin.com/in/beau-cameron/) – Move Over, Copilot: Building Your Own AI in Office
-
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
