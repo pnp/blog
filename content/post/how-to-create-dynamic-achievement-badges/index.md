@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Lists: Create Dynamic Achievement Badge with Column Formatting"
-date: 2025-09-14T00:00:00-00:00
+date: 2025-09-26T00:00:00-00:00
 author: "Sai Siva Ram Bandaru"
 githubname: saiiiiiii
 categories: ["Community post"]
