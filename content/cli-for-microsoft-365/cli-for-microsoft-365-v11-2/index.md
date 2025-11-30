@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SPFx
-type: regular
+type: popular
 ---
 
 CLI for Microsoft 365 v11.2 is a lean release that sharpens SharePoint governance workflows while polishing documentation and permissions guidance. [CLI for Microsoft 365](https://aka.ms/cli-m365) stays the cross-platform tool you rely on to manage your tenant and SharePoint Framework projects, and this drop adds a handy site version policy command plus a set of pragmatic quality fixes.
@@ -38,12 +38,18 @@ m365 spo site versionpolicy get --siteUrl https://contoso.sharepoint.com/sites/M
 
 For additional options and response details, visit the [command documentation](https://pnp.github.io/cli-microsoft365/cmd/spo/site/site-versionpolicy-get/).
 
+### SharePoint list alerts usage script
+
+SharePoint Online list alerts are gradually being retired, so knowing which legacy alerts still exist across your tenant is critical before they stop firing. We added a new script sample that inventories every deprecated alert and reports on usage, giving admins the data they need to plan replacements. Grab it here: [List SPO alerts usage](https://pnp.github.io/cli-microsoft365/sample-scripts/spo/list-tenant-alert-usage/).
+
 ## What's changed
 
 ### Added support for SPFx v1.22.0-rc.0
+
 To help you keep up to date with the latest improvements in SharePoint Framework, we added support for the first release candidate version of SPFx v1.22.0 to all our SPFx commands. Now you create upgrade guidance for your SPFx project to align with what was changed in the latest version of SharePoint Framework, as well as validate the dependencies of your project. Last but not least, you may validate your local environment setup to make sure you have everything ready for the latest SPFx beta.
 
 ### Documentation & validation now Zod-first
+
 The documentation stack continues its transition to Zod schemas, bringing more predictable validation experiences for readers. Alongside the broad doc migration, the `entra multitenant add` command now benefits from the same Zod-backed consistency, making option validation clearer for contributors and automation pipelines alike.
 
 ## Keep the momentum going

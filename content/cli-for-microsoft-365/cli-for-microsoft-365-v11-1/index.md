@@ -10,7 +10,7 @@ images:
 tags:
   - CLI for Microsoft 365
   - SharePoint
-type: popular
+type: regular
 ---
 
 We're thrilled to introduce a new minor release of CLI for Microsoft 365 v11.1, bringing new commands and improvements that enhance your Microsoft 365 workflow. [CLI for Microsoft 365](https://aka.ms/cli-m365) is a cross-platform command-line tool that allows you to manage your Microsoft 365 tenant and SharePoint Framework projects. This minor release builds upon the foundation of v11.0, introducing several new commands and improvements designed to enhance functionality and align with the latest Microsoft 365 innovations.
