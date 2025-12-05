@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 8th of December week
-date: 2025-12-05T12:25:58.193Z
+date: 2025-12-05T02:25:58.193Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -29,9 +29,8 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) – Latest on SharePoint Embedded
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Leveraging Copilot APIs in SPFx
-
+* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) – SharePoint Embedded Wrapped 2025: Updates from Ignite and More
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Leveraging Microsoft 365 Copilot APIs in SPFx solutions
 
 ---
 
@@ -44,7 +43,7 @@ Demos this time:
 Demos this time:
 
 * [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas/) (Avanade) – SP Shortcuts - Quick access to SharePoint setting pages
-* [Elio Struyf](https://www.linkedin.com/in/estruyf/) (Struyf Consulting) – Bringing Intelligence to PnP Search with Microsoft Foundry
+* [Elio Struyf](https://www.linkedin.com/in/estruyf/) (Struyf Consulting) – Bringing Intelligence to Enteprise Search with Microsoft Foundry
 * [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – AI powered layout creation - Building AI integrated SPFx web part
 
 
@@ -89,7 +88,8 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [Weekly Agenda - 24th of November week](https://pnp.github.io/blog/weekly-agenda/25-11-24/) by [Vesa Juvonen](https://linkedin.com/in/VesaJuvonen/)
+* [CLI for Microsoft 365 v11.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-2/) by [Jasey Waegebaert](https://github.com/jwaegebaert/)
+* [Weekly Agenda - 1st of December week](https://pnp.github.io/blog/weekly-agenda/25-12-01/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
 
@@ -97,9 +97,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [CLI for Microsoft 365 v11.2](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-2/) by [Jasey Waegebaert](https://github.com/jwaegebaert/)
-* [Weekly Agenda - 1st of December week](https://pnp.github.io/blog/weekly-agenda/25-12-01/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
-
+* [Microsoft 365 & Power Platform community call - 4th of December 2025](https://www.youtube.com/watch?v=p3SRaSahlfw)
+* [Microsoft 365 & Power Platform weekly call – 2nd of December, 2025](https://www.youtube.com/watch?v=x5yOdRdG66c)
 
 ---
 
