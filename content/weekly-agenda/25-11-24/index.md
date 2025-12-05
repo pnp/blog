@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklysummary47.png
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
@@ -23,7 +23,7 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform product updates - 25th of November
 
-* Tuesday, 25th of November 2025, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 25th of November 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 

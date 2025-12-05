@@ -23,7 +23,7 @@ This is the agenda for the upcoming week:
 
 ### Microsoft 365 & Power Platform product updates - 2nd of December
 
-* Tuesday, 2nd of December 2025, 8:00 AM PT / 3:00 PM GMT
+* Tuesday, 2nd of December 2025, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
@@ -45,8 +45,6 @@ Demos this time:
 * [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI) – Building a WeatherNow SPFx Web Part 
 * [Elliot Margot](https://www.linkedin.com/in/elliot-margot-52742a156/) (Witivio) – Mastering Mermaid: Automating the Creation of Process Diagrams with Copilot Studio
 * [Beau Cameron](https://www.linkedin.com/in/beau-cameron/) – Move Over, Copilot: Building Your Own AI in Office
-
-
 
 Also: 📷 Picture Time with community in Together Mode!
 
@@ -96,11 +94,11 @@ Update of the newly published videos in our YouTube channel
 * [SharePoint Framework (SPFx) roadmap update – November 2025](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-november-2025/) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen) (Microsoft)
 * [SharePoint Site Creation in Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/sharepoint-site-creation-in-microsoft-graph/) by SharePoint team
 * [Ignite 2025: A Developer’s Guide to Building Agents for Microsoft 365](https://devblogs.microsoft.com/microsoft365dev/ignite-2025-a-developers-guide-to-building-agents-for-microsoft-365/) by [Daniel Carrasco](https://www.linkedin.com/in/danielserver/) (Microsoft)
-* [Microsoft 365 Copilot APIs: What’s New and What’s Next](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-whats-new-and-whats-next/) by [Daniel Carrasco](https://www.linkedin.com/in/danielserver/ (Microsoft), [Zakiullah Khan](https://www.linkedin.com/in/simplyzaki/) (Microsoft), [Tolga Kilicli](https://www.linkedin.com/in/tolgaki/) (Microsoft)
+* [Microsoft 365 Copilot APIs: What’s New and What’s Next](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-copilot-apis-whats-new-and-whats-next/) by [Daniel Carrasco](https://www.linkedin.com/in/danielserver/) (Microsoft), [Zakiullah Khan](https://www.linkedin.com/in/simplyzaki/) (Microsoft), [Tolga Kilicli](https://www.linkedin.com/in/tolgaki/) (Microsoft)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [Weekly Agenda - 24th of November week](https://pnp.github.io/blog/weekly-agenda/25-11-24/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
+* [Weekly Agenda - 24th of November week](https://pnp.github.io/blog/weekly-agenda/25-11-24/) by [Vesa Juvonen](https://linkedin.com/in/VesaJuvonen/)
 
 ---
 
