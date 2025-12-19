@@ -19,12 +19,11 @@ Get involved by joining a call! We host a variety of [community calls](https://a
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
-This is the agenda for the upcoming week:
+This is the agenda for the upcoming weeks:
 
 ### Microsoft 365 & Power Platform product updates - 23rd of December
 
 * Cancelled call due to holiday season 🎄 - Next call is on 13th of January
-
 
 ### Microsoft 365 & Power Platform community demos call - 25th of December
 
@@ -41,8 +40,7 @@ During the holiday season, we will transform the calls to be coffee & tea meetin
 
 **Interested on doing a demo in the new year?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
-
-### Microsoft 365 & Power Platform product updates - 30rd of December
+### Microsoft 365 & Power Platform product updates - 30th of December
 
 * Cancelled call due to holiday season 🎄 - Next call is on 13th of January
 
@@ -75,7 +73,7 @@ Update of the newly published videos in our YouTube channel
 * [Intelligent Document Redaction w/ SPFx & Azure AI: PII Protection at Scale](https://www.youtube.com/watch?v=-kxpuF13HVY&pp=0gcJCTwKAYcqIYzv) by [Ramin Ahmadi](https://www.linkedin.com/in/ahmadiramin/) (Advania UK)
 * [Automating decision-making with AI approvals in Microsoft Copilot Studio](https://www.youtube.com/watch?v=ZOPmYaCjJsU) by [Derah Onuorah](https://www.linkedin.com/in/derah-onuorah/) (Microsoft)
 * [Introduction to SharePoint Agents](https://www.youtube.com/watch?v=7wBGavfm83Y) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
-* [Bring insights of your OneDrive files into Microsoft 365 Copilot](https://www.youtube.com/watch?v=259J8Keg6vA) by [object Object]
+* [Bring insights of your OneDrive files into Microsoft 365 Copilot](https://www.youtube.com/watch?v=259J8Keg6vA) by [Mithuna Soundararaj](https://www.linkedin.com/in/mithuna/) (Microsoft), [Akash Ravi](https://www.linkedin.com/in/akash-ravi/) (Microsoft) & [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Pin Location in Canvas App](https://www.youtube.com/watch?v=YJpHk8HAFuY) by [Elena Tekin](https://www.linkedin.com/in/elena-tekin/) (Duchêne Industries)
 * [Give your copilot agent a body, face and a voice (Copilot Agent + Avatar)](https://www.youtube.com/watch?v=8yioDiHR5gc) by [Marc André Schröder](https://www.linkedin.com/in/dev-schroeder/)
 * [How To Create A Task Management App With Power Apps & SharePoint](https://www.youtube.com/watch?v=DeoLIFmYQ_s) by [Syed Md Maruf Hasan](https://www.linkedin.com/in/syed-hasan-maruf/) (LowCodeDev)
@@ -133,8 +131,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
-
 * [AlohAI - Power Platform + AI](https://www.communitydays.org/event/2025-12-30/alohai-power-platform-plus-ai), December 30, 2025 – Honolulu, HI, United States
 * [DynamicsCon Regional: Southeast](https://www.communitydays.org/event/2026-01-14/dynamicscon-regional-southeast), January 14, 2026 – Riverview, FL, United States
 * [AI Community Conference - AICO Singapore](https://www.communitydays.org/event/2026-01-20/ai-community-conference-aico-singapore), January 20, 2026 – Singapore, Singapore
@@ -158,3 +154,5 @@ Please take the opportunity to join these great conferences organized by the bes
 * [CollabDays Hamburg 2026](https://www.communitydays.org/event/2026-06-27/collabdays-hamburg-2026), June 27, 2026 – Hamburg, Germany
 * [European Microsoft Fabric Community Conference 2026](https://www.communitydays.org/event/2026-09-28/european-microsoft-fabric-community-conference-2026), September 28, 2026 – Rubí, Catalonia, Spain
 * [CollabDays New England 2026](https://www.communitydays.org/event/2026-10-16/collabdays-new-england-2026), October 16, 2026 – Burlington, MA, United States
+
+Sharing is caring! You are awesome! 🧡
