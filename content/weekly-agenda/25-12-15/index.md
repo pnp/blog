@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 15th of December week
-date: 2025-12-10T11:11:36.865Z
+date: 2025-12-12T02:11:36.865Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -32,8 +32,6 @@ Demos this time:
 * [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) – Copilot Studio × MCP: From Zero to Shipping a Real Event Agent
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) – Introduction to SharePoint Pages Agent in Microsoft 365 Copilot
 
-
-
 ---
 
 ### Microsoft Power Platform community call  - 17th of December
@@ -49,8 +47,6 @@ Demos this time
 * Supercharge Your Date Logic: The Ultimate Working Day Calculator for Power Automate – [Ian Tweedie](https://www.linkedin.com/in/iantweedie/) (Capgemini)
 * Animated Navigation in PowerBI – [James Mounsey-Moran](https://www.linkedin.com/in/james-mounsey-moran-59488b98/) (Trustmarque)
 * Building a copilot for Dataverse DevOps – [Shashank Bhide](https://www.linkedin.com/in/shashank-bhide-9369b414/) (Kerv Digital)
-
-
 
 ---
 
@@ -78,6 +74,8 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Building Friday Feel-Good Dashboard solution with SPFx](https://www.youtube.com/watch?v=6GN5oPQdyxY) by [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI International) 
+* [ESPC25 Highlights](https://www.youtube.com/watch?v=oA_dkc4LVWk)
 * [Creating AI powered Adaptive Card web part - property pane](https://www.youtube.com/watch?v=yppVBHfQr8c) by [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda)
 * [Customer Spotlight: Copilot Adoption in Viva Engage with Micron](https://www.youtube.com/watch?v=IDCvFBekxv0)
 * [Introduction to request for information in Copilot Studio agent flows](https://www.youtube.com/watch?v=w5azPCUM3ss) by [Derah Onuorah](https://www.linkedin.com/in/derah-onuorah/) (Microsoft)
@@ -114,6 +112,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 11th of December 2025](https://www.youtube.com/watch?v=ezHJCWBzWuI)
+* [Office add-ins community call - December 2025](https://www.youtube.com/watch?v=idHCs3VUjw0)
 * [Microsoft 365 & Power Platform weekly call – 9th of December, 2025](https://www.youtube.com/watch?v=TAGeWQ606is)
 
 ---
