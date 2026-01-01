@@ -5,7 +5,7 @@ author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
 images:
-- images/Thumbnail.png
+- images/thumbnail.png
 tags: ["SharePoint Online", "Microsoft 365 Governance", "Identity & Access Management", "Compliance & Risk Management"]
 type: "regular"
 draft: false
