@@ -157,4 +157,3 @@ When groups become the default, SharePoint becomes:
 
 - [Governing access in Microsoft 365 groups, Teams, and SharePoint](https://learn.microsoft.com/en-us/microsoft-365/solutions/groups-teams-access-governance?view=o365-worldwide)
 
-Try implementing this solution in your Microsoft Lists and experiment with different images, colors, and button text to create a content showcase that perfectly matches your organization's needs and branding!
