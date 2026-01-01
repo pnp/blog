@@ -4,6 +4,8 @@ date: 2025-12-18T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
+images:
+- images/Thumbnail.png
 tags: ["SharePoint Online", "Microsoft 365 Governance", "Identity & Access Management", "Compliance & Risk Management"]
 type: "regular"
 draft: false
