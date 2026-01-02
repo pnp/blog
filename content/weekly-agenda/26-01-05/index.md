@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 5th of January week
-date: 2026-01-01T10:43:43.534Z
+date: 2026-01-02T02:43:43.534Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -21,9 +21,9 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming weeks:
 
-### Microsoft 365 & Power Platform product updates -6th of January
+### Microsoft 365 & Power Platform product updates - 6th of January
 
-* Cancelled call due to holiday season 🎄 - Next call is on 13th of January
+* Cancelled call due to holiday season 🎄 - Next Tuesday call is on 13th of January.
 
 ### Microsoft 365 & Power Platform community demos call - 8th of January
 
@@ -33,29 +33,9 @@ This is the agenda for the upcoming weeks:
 
 Demos this time:
 
-* Q&A and discussions
-* ☕🍵
-
-**Interested on doing a demo in the new year?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
-
-### Microsoft 365 & Power Platform product updates - 30th of December
-
-* Cancelled call due to holiday season 🎄 - Next call is on 13th of January
-
-### Microsoft 365 & Power Platform community demos call - 1st of January
-
-* Thursday, 1st of January, 7:00 AM PT / 3:00 PM GMT
-* Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
-
-No demos this time:
-
-During the holiday season, we will transform the calls to be coffee & tea meetings with the community – without specific demos and agenda
-
-* [Samir Makwana](https://www.linkedin.com/in/makwanasamir/) (Cloudtrify) – From Prompt to Power: Integrating Azure Functions into Copilot Studio
-* [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die Mobiliar) – Making SharePoint Christmas Games
-* [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Indexable content - Building AI integrated SPFx web part
-
+* From Prompt to Power: Integrating Azure Functions into Copilot Studio - [Samir Makwana](https://www.linkedin.com/in/makwanasamir/) (Cloudtrify)
+* Making SharePoint Christmas Games - [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die Mobiliar)
+* Indexable content - Building AI integrated SPFx web part - [Hugo Bernier](https://www.linkedin.com/in/bernierh/)
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -67,7 +47,7 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-
+* [Manage Microsoft 365 using natural language with CLI for Microsoft 365 MCP server](https://www.youtube.com/watch?v=LpUntVr5r5M) by [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)
 * [Document your Power Platform solutions Quickly using VS Code](https://www.youtube.com/watch?v=ivL8pERGs0k) by [Joel Lockey](https://www.linkedin.com/in/joel-lockey/) (ANS Group)
 * [Copying pages across SharePoint sites with SPFx](https://www.youtube.com/watch?v=XWG3NA2oNNM) by [Ahmad Jad AlHak](https://www.linkedin.com/in/ahmad-jad-al-hak/) (Campana & Schott)
 * [Getting started with custom SharePoint Agents](https://www.youtube.com/watch?v=sCOrAWzCNjE&pp=0gcJCU0KAYcqIYzv)
