@@ -18,7 +18,7 @@ type: "regular"
 
 ## 🗒️ Quick intro
 
-[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automate deployment of your app and also comes along with AI capabilities which will allow you to manage your SharePoint Online tenant straight from GitHub Copilot chat extension.
+[SharePoint Framework Toolkit](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit) is a Visual Studio Code extension that aims to boost your productivity in developing and managing [SharePoint Framework solutions](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview?WT.mc_id=m365-15744-cxa) helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code, it even allows you to create a CI/CD pipeline to introduce automated deployment of your app and also comes along with AI capabilities which will allow you to manage your SharePoint Online tenant straight from GitHub Copilot chat extension.
 
 Just check out the features list 👇 it's a looot 🤯.
 
@@ -28,12 +28,12 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 ## SharePoint Framework v1.22 support and integrated Heft Toolchain
 
-One of the main reasons of this release is to introduce support for the latest SharePoint Framework version 1.22, which introduces Heft instead of Gulp as a pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you setup and validate your local environment for SPFx v1.22 development. 
+One of the main reasons for this release is to introduce support for the latest SharePoint Framework version 1.22, which introduces Heft instead of Gulp as a pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you set up and validate your local environment for SPFx v1.22 development. 
 
 ![setup](images/setup.png)
 
 The extension is also capable of creating upgrade guidance from any SPFx version to SPFx v1.22 and v1.22.1, as well as validating your solution's correctness for SPFx v1.22 development.
-The upgrade guidance supports two modes in which you may either generate a markdown report of the steps you need to take to upgrade your solution, or the extenion may generate a code-tour for your project, providing you step-by-step upgrade guidance directly in your code, or both.
+The upgrade guidance supports two modes in which you may either generate a markdown report of the steps you need to take to upgrade your solution, or the extension may generate a code-tour for your project, providing you step-by-step upgrade guidance directly in your code, or both.
 
 ![upgrade](images/Upgrade.png)
 
@@ -103,7 +103,7 @@ We don't plan to stop, we are already thinking of more awesome features we plan 
 - Adding support for all SPFx versions, including older versions as well
 - More AI capabilities to help you manage your SharePoint Online tenant even better
 
-. If you want to check what we are planning, check out our [issues from this milestone](https://github.com/pnp/vscode-viva/milestone/6). Feedback is appreciated 👍.
+If you want to check what we are planning, check out our [issues from this milestone](https://github.com/pnp/vscode-viva/milestone/6). Feedback is appreciated 👍.
 
 ## 👍 Power of the community
 
