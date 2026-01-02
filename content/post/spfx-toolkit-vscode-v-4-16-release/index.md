@@ -8,8 +8,8 @@ images:
 author: "Adam Wójcik"
 githubname: Adam-it
 # description
-description: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
-summary: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions, helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready, allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
+description: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions, helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready, allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
+Summary: "SharePoint Framework Toolkit is a Visual Studio Code extension that aims to boost your productivity in developing and managing SharePoint Framework solutions, helping at every stage of your development flow, from setting up your development workspace to deploying a solution straight to your tenant without the need to leave VS Code. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready, allowing you to create solutions to extend SharePoint, Microsoft Teams, Microsoft Viva Connections, Outlook, and Microsoft365.com."
 # Taxonomies
 categories: ["Community post"]
 tags: ["VS Code", "SharePoint Framework (SPFx)"]
@@ -28,20 +28,20 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 ## SharePoint Framework v1.22 support and integrated Heft Toolchain
 
-One of the main reasons of this release is to introduce support for the latest SharePoint Framework version 1.22 which introduces Heft instead of Gulp as pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you setup and validate your local environment for SPFx v1.22 development. 
+One of the main reasons of this release is to introduce support for the latest SharePoint Framework version 1.22, which introduces Heft instead of Gulp as a pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you setup and validate your local environment for SPFx v1.22 development. 
 
 ![setup](images/setup.png)
 
-It is capable of creating upgrade guidance from any SPFx version to SPFx v1.22 and v1.22.1, as well as validating your solutions correctness for SPFx v1.22 development.
-The upgrade guidance support two modes in which you may either generate a markdown report of the steps you need to take to upgrade your solution, or the extenion may generate a code-tour for your project providing you step by step upgrade guidance directly in your code, or both.
+The extension is also capable of creating upgrade guidance from any SPFx version to SPFx v1.22 and v1.22.1, as well as validating your solution's correctness for SPFx v1.22 development.
+The upgrade guidance supports two modes in which you may either generate a markdown report of the steps you need to take to upgrade your solution, or the extenion may generate a code-tour for your project, providing you step-by-step upgrade guidance directly in your code, or both.
 
 ![upgrade](images/Upgrade.png)
 
-Third option is allows you to use GitHub Copilot in agent mode to perform the upgrade for your and validate if it is working and perform additional fixups if needed.
+Third option allows you to use GitHub Copilot in agent mode, to perform the upgrade for you and validate if it is working, and perform additional fixups if needed.
 
 ![upgrade with AI](images/UpgradeWithAI.png)
 
-As this release of SharePoint Framework primary addresss the refactor of build toolchain, SPFx Toolkit also got updated in order to now show Heft tasks, instead of Gulp, in the SPFx Toolkit Task View, in order to make the transition easier for developers.
+As this release of SharePoint Framework primarily addresses the refactor of the build toolchain, SPFx Toolkit also got updated in order to now show Heft tasks, instead of Gulp, in the SPFx Toolkit Task View, to make the transition easier for developers.
 
 ## Rebuild Task View with Heft and NPM scripts support
 
@@ -49,26 +49,26 @@ With the introduction of Heft as the new build toolchain for SharePoint Framewor
 
 ![task view](images/TaskView.png)
 
-From now on for older SharePoint Framework solutions, so before v1.22, you will see Gulp tasks as before, while for SPFx v1.22+ solutions you will see Heft tasks instead. 
-Additionally, if your solution contains custom NPM scripts defined in the package.json file, those will be also shown in the Task View, regardless of the SPFx version used.
+From now on, for older SharePoint Framework solutions, so version older than v1.22, you will see Gulp tasks as before, while for SPFx v1.22+ solutions, you will see Heft tasks instead. 
+Additionally, if your solution contains custom NPM scripts defined in the package.json file, those will also be shown in the Task View, regardless of the SPFx version used.
 
 ## First steps in supporting all SharePoint Framework versions
 
-With this release, we are taking the first steps in supporting all SharePoint Framework versions in SPFx Toolkit. First things we managed to addrress is setting up and vlidating your local environment for any SPFx version. 
+With this release, we are taking the first steps in supporting all SharePoint Framework versions in SPFx Toolkit. First thing we managed to address is setting up and validating your local environment for any SPFx version. 
 
-After clicking on the 'Install dependencies' action you will now get prompted to select the SPFx version you want to setup your environment for. Based on your selection, the extension will first validate your Node.js version and install all required dependencies for that specific SPFx version.
+After clicking on the 'Install dependencies' action, you will now get prompted to select the SPFx version you want to set up your environment for. Based on your selection, the extension will first validate your Node.js version and install all required dependencies for that specific SPFx version.
 
 ![setup for all versions of SPFx](images/SetupAllVersions.png)
 
-We also updated the way we handle Node.js validation. Previously, if the Node.js version was not valid for the selected SPFx version we, the extension would just stopped with a warning message. From now on, SPFx Toolkit supports NVM and NVS for setting up Node.js version automatically for you.
+We also updated the way we handle Node.js validation. Previously, if the Node.js version was not valid for the selected SPFx version, the extension would just stop with a warning message. From now on, SPFx Toolkit supports NVM and NVS for setting up Node.js versions automatically for you.
 
 ![settings](images/Settings.png)
 
-If you use one of those Node Version Managers you may set this in the SPFx Toolkit settings and then SPFx Toolkit will use the selected Node Version Manager to setup the correct Node.js version for you automatically for the specified SharePoint Framework version.
+If you use one of those Node Version Managers, you may set this in the SPFx Toolkit settings, and then SPFx Toolkit will use the selected Node Version Manager to set up the correct Node.js version for you automatically for the specified SharePoint Framework version.
 
 ![install node](images/InstallNode.png)
 
-Validate local setup action was also updated to support all SPFx versions. After using this action, SPFx Toolkit will first check which version of Yeomand SPFx generator you have and then validate your local setup towards that specific version. If you SPFx Toolkit will not find any generator installed it will setup your environment for the currently latest version of SharePoint Framework.
+Validate local setup action was also updated to support all SPFx versions. After using this action, SPFx Toolkit will first check which version of Yeoman SPFx generator you have and then validate your local setup towards that specific version. If SPFx Toolkit does not find any generator installed, it will set up your environment for the current latest version of SharePoint Framework.
 
 ![validate any version of SPFx](images/ValidateAnyVersion.png)
 
@@ -76,7 +76,7 @@ Validate local setup action was also updated to support all SPFx versions. After
 
 ![Language Model Tools](images/LMTools.png)
 
-SPFx Toolkit is gaining more and more AI capabilities which it exposes as Language Model Tools that may be used in GitHub Copilot chat in agent mode. In this release we added the following tools:
+SPFx Toolkit is gaining more and more AI capabilities, which are exposed as Language Model Tools that may be used in GitHub Copilot chat in agent mode. In this release, we added the following tools:
 
 - App instance list - Lists all SharePoint apps currently installed on the specified site
 - App uninstall - Uninstalls an app from the specified site
@@ -111,7 +111,7 @@ This extension would not have been possible if it hadn’t been for the awesome 
 
 ![PnP community](images/parker-pnp.png)
 
-If you would like to participate, the community welcomes everybody who wants to build and share feedback around Microsoft 365 & Power Platform. Join one of our [community calls](https://pnp.github.io/#community) to get started and be sure to visit 👉 https://aka.ms/community/home.
+If you would like to participate, the community welcomes everybody who wants to build and share feedback around Microsoft 365 & Power Platform. Join one of our [community calls](https://pnp.github.io/#community) to get started, and be sure to visit 👉 https://aka.ms/community/home.
 
 ## 🙋 Wanna help out?
 
