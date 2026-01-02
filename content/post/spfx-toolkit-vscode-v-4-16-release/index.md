@@ -28,7 +28,7 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 ## SharePoint Framework v1.22 support and integrated Heft Toolchain
 
-One of the main reasons for this release is to introduce support for the latest SharePoint Framework version 1.22, which introduces Heft instead of Gulp as a pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you set up and validate your local environment for SPFx v1.22 development. 
+One of the main reasons for this release is to introduce support for the [latest SharePoint Framework version 1.22](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.22), which [introduces Heft instead of Gulp](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/sharepoint-framework-toolchain-rushstack-heft) as a pluggable build system for developing SPFx solutions. This means SPFx Toolkit will now help you set up and validate your local environment for SPFx v1.22 development. 
 
 ![setup](images/setup.png)
 
@@ -123,6 +123,9 @@ Feedback (positive or negative) is also more than welcome.
 - [SPFx Toolkit Docs](https://aka.ms/spfx/toolkit)
 - [Download SharePoint Framework Toolkit at VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=m365pnp.viva-connections-toolkit)
 - [SPFx Toolkit GitHub repo](https://github.com/pnp/vscode-viva)
+- [SharePoint Framework v1.22 release notes](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.22)
+- [SharePoint Framework v1.22.1 release notes](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/release-1.22.1)
+- [SharePoint Framework Toolchain: Heft & Webpack](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/sharepoint-framework-toolchain-rushstack-heft)
 - [Microsoft 365 & Power Platform Community](https://pnp.github.io/#home)
 - [Join the Microsoft 365 & Power Platform Community Discord Server](https://discord.gg/YtYrav2VGW)
 - [Join the Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
