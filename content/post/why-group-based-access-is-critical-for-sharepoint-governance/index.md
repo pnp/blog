@@ -1,6 +1,6 @@
 ---
 title: "Why Group-Based Access Is Critical for SharePoint Governance"
-date: 2025-12-18T00:00:00-00:00
+date: 2026-01-14T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
