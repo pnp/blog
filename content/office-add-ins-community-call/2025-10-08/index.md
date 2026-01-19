@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
 - https://youtu.be/z-vYEb4N2go
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - October 8, 2025
@@ -76,6 +76,16 @@ We have someone looking into this and we'll share more updates on the GitHub iss
 **What is the best place to ask about updates on issues/feature requests (I have the office bug#)?**
 
 If there is a bug with Office.js APIs or Office Add-ins, please create an issue at [https://github.com/OfficeDev/Office-js](https://github.com/OfficeDev/Office-js).
+
+**events around named items in Excel. The Excel-specific beta version of office.js has support for events around named items in Excel (see https://appsforoffice.microsoft.com/lib/beta/hosted/excel.js) for years, but it has not been added into the office.js build. Is there a specific reason?**
+
+We looked into this and decided we'll work to include them in the next Excel Requirement set (likely 1.21). Thanks for bringing this to our attention!
+
+**I have a couple question related to unified manifest support with a Word add-in. First, is it possible to open a new add-in from Copilot? Second, can we add custom buttons, similar to the existing Insert button, with our own functionality?**
+
+- Yes, it's possible to combine a Copilot agent and an add-in in the same unified manifest package
+- No, it's not possible today to open an add-in from an agent directly. Add-in actions are callable by an agent, but switching to an add-in taskpane isn't supported.
+- The 'insert' button used in an agent is provided as an agent feature outside of the add-in. We're investigating allowing responses from an agent to directly call an add-in action vs having the agent choose to use on based on the user query.
 
 ## Call to action
 
