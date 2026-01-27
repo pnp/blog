@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - SharePoint
   - SPFx
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.2 is a lean release that sharpens SharePoint governance workflows while polishing documentation and permissions guidance. [CLI for Microsoft 365](https://aka.ms/cli-m365) stays the cross-platform tool you rely on to manage your tenant and SharePoint Framework projects, and this drop adds a handy site version policy command plus a set of pragmatic quality fixes.
