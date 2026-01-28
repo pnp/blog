@@ -18,7 +18,7 @@ draft: true
 
 ## This month's agenda and presenters
 
-* **Drag and drop messages and
+* **Drag and drop messages and attachments into the task pane​** Isabela Dominguez, Product Manager at Microsoft.
 attachments into the task pane​** Isabela Dominguez, Product Manager at Microsoft.
 
 {{< youtube YDaVnIeWW4o >}}
