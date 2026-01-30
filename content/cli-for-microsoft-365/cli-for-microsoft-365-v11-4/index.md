@@ -14,7 +14,6 @@ tags:
   - SharePoint Embedded
   - SPFx
   - Microsoft Teams
-  - Viva Engage
 type: popular
 ---
 
@@ -103,7 +102,6 @@ We’ve also invested in keeping the CLI aligned with the latest platform and ti
 
 - Added support for **Node.js v24**, so you can upgrade your runtime without losing CLI support.
 - Resolved duplicate names for the connection set command.
-- Fixed workflow caching issues and the docs announcement bar close button.
 
 ## Catching up on v11.3 and v11.3.1
 
@@ -117,8 +115,7 @@ Added support for **SPFx v1.22.0** and **v1.22.1**, and extended `spfx doctor` w
 
 #### Additional changes
 
-- Refreshed parts of the docs contributing guide and removed deprecated `onBrokenMarkdownLinks` configuration, keeping the docs stack up to date.
-- Enforced delegated access tokens for OneNote commands, aligning behavior with modern authentication expectations.
+Enforced delegated access tokens for OneNote commands, aligning behavior with modern authentication expectations.
 
 ### v11.3.1 highlights
 
@@ -126,7 +123,7 @@ The v11.3.1 patch release focused on targeted fixes:
 
 - Fixed the **external item add** command when using custom properties.
 - Corrected short option aliases for **spe container** commands.
-- Extended **spfx project upgrade** to correctly handle range (`~`) versions, improving upgrade guidance for projects that rely on version ranges.
+- Extended **spfx project upgrade** to correctly handle range (`~`) versions, improving upgrade guidance for projects that rely on version ranges. [spfx project upgrade documentation](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/)
 
 ## Keep the momentum going
 
