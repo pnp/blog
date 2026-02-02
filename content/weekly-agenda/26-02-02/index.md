@@ -146,34 +146,39 @@ Please take the opportunity to join these great conferences organized by the bes
 
 * [M365 Miami](https://www.communitydays.org/event/2026-02-06/m365-miami), February 6, 2026 – Miami, Florida, United States
 * [AICD D365UGME Dubai 2026](https://www.communitydays.org/event/2026-02-07/aicd-d365ugme-dubai-2026), February 7, 2026 – Dubai, United Arab Emirates
-* [AgentCon Oslo](https://www.communitydays.org/event/2026-02-10/agentcon-oslo), February 10 - Oslo, Norway
-* [AICD Mahdia](https://www.communitydays.org/event/2026-02-14/aicd-mahdia), February 14 - Rejiche, Tunis
-* [Global pwoer Platform Bootcamp - Polish Edition](https://www.communitydays.org/event/2026-02-20/global-power-platform-bootcamp-polish-edition), February 20 - Virtual
+* [AgentCon Oslo](https://www.communitydays.org/event/2026-02-10/agentcon-oslo), February 10, 2026 – Oslo, Norway
+* [AICD MAHDIA](https://www.communitydays.org/event/2026-02-14/aicd-mahdia), February 14, 2026 – Rejiche, Tunisia, Tunisia
+* [Global Power Platform Bootcamp Polish Edition](https://www.communitydays.org/event/2026-02-20/global-power-platform-bootcamp-polish-edition), February 20, 2026 – 
 * [Exchange Summit 2026](https://www.communitydays.org/event/2026-02-24/exchange-summit-2026), February 24, 2026 – Würzburg, BY, Germany
 * [Knoxville Microsoft Community Days](https://www.communitydays.org/event/2026-02-26/knoxville-microsoft-community-days), February 26, 2026 – Maryville, TN, United States
 * [Experts Live Germany 2026](https://www.communitydays.org/event/2026-03-03/experts-live-germany-2026), March 3, 2026 – Leipzig, Saxony, Germany
-* [Devnexus](https://devnexus.com/), March 4-6, 2026 - Atlanta, GA, United States
 * [The WIT Network Igniting Excellence Leadership Conference](https://www.communitydays.org/event/2026-03-10/the-wit-network-igniting-excellence-leadership-conference), March 10, 2026 – North San Diego, CA, United States
-* [Javaland](https://www.javaland.eu/en/home/), March 10-12, 2026 - Rust, Germany
-* [Devland 2026](https://www.devland.eu/en/), March 12-13, 2026 - Rush Germany
 * [Microsoft Fabric Community Conference](https://www.communitydays.org/event/2026-03-16/microsoft-fabric-community-conference), March 16, 2026 – Atlanta, GA, United States
-* [West Michigan’s M365 Community Day](https://www.communitydays.org/event/2026-03-19/west-michigan-m365-community-day), March 19, 2026 - Grand Rapids, MI, United States
-* [Dynamicscon Regional: Pacific Northwest](https://www.communitydays.org/event/2026-03-20/dynamicscon-regional-pacific-northwest), March 20, 2026 - Vancouver, Canada
-* [AICD Shanghai](https://www.communitydays.org/event/2026-03-21/aicd-shangai), March 21, 2026 - Shanghai, China
-* [AI Maitrini - Dubai 2026](https://www.communitydays.org/event/2026-04-09/ai-maitri-dubai-2026), April 9, Dubai, United Arab Emirates
-* [Codestock](https://www.codestock.org/), April 9-10, 2026 - Knoxville, Tennesee, United States
-* [ZTDays Tunis 2026](https://www.communitydays.org/event/2026-04-11/ztdays-tunis-2026), April 11, 2026 - Tunis, Tunisia
+* [West Michigan M365 Community Day](https://www.communitydays.org/event/2026-03-19/west-michigan-m365-community-day), March 19, 2026 – Grand Rapids, MI, United States
+* [DynamicsCon Regional: Pacific Northwest](https://www.communitydays.org/event/2026-03-20/dynamicscon-regional-pacific-northwest), March 20, 2026 – Vancouver, BC, Canada
+* [AICD SHANGAI](https://www.communitydays.org/event/2026-03-21/aicd-shangai), March 21, 2026 – Shanghai, China
+* [AI Maitri - Dubai 2026](https://www.communitydays.org/event/2026-04-09/ai-maitri-dubai-2026), April 9, 2026 – Dubai, United Arab Emirates
+* [ZTDays Tunis 2026](https://www.communitydays.org/event/2026-04-11/ztdays-tunis-2026), April 11, 2026 – Tunis, Tunisia
 * [ColorCloud 2026](https://www.communitydays.org/event/2026-04-15/colorcloud-2026), April 15, 2026 – Hamburg, Germany
-* [Global Azure Tunisia 2026](https://www.communitydays.org/event/2026-04-18/global-azure-tunisia-2026), April 18, 2026 - Tunis, Tunisia
-* [JCON Europe 2026](https://2026.europe.jcon.one/), April 20-24, 2026 - Cologne, Germany
-* [Modern Endpoint Management Summit 2026](https://www.communitydays.org/event/2026-04-22/modern-endpoint-management-summit-2026-emea-edition), April 22-24, 2026 - Paris, France
-* [Dynamics User Group Sweden](https://www.communitydays.org/event/2026-04-22/dynamics-user-group-sweden-22-april-2026), April 22, 2026 - Stockholm, Sweden
-* [AgentCon London](https://www.communitydays.org/event/2026-04-22/agentcon-london), April 22, 2026 - London, United Kingdom
+* [Global Azure Tunisia 2026](https://www.communitydays.org/event/2026-04-18/global-azure-tunisia-2026), April 18, 2026 – Tunis , Tunis, Tunisia
+* [Modern Endpoint Management Summit 2026 EMEA EDITION](https://www.communitydays.org/event/2026-04-22/modern-endpoint-management-summit-2026-emea-edition), April 22, 2026 – Paris, Île-de-France, France
+* [Dynamics User Group Sweden - 22 april 2026](https://www.communitydays.org/event/2026-04-22/dynamics-user-group-sweden-22-april-2026), April 22, 2026 – Stockholm, Sweden
+* [AgentCon London](https://www.communitydays.org/event/2026-04-22/agentcon-london), April 22, 2026 – London, United Kingdom
+* [European  Collaboration Summit 2026](https://www.communitydays.org/event/2026-05-05/european-collaboration-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
+* [European BizApps Summit 2026](https://www.communitydays.org/event/2026-05-05/european-bizapps-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
+* [European AI and Cloud Summit 2026](https://www.communitydays.org/event/2026-05-05/european-ai-and-cloud-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
+* [CognitionX  - Tunis](https://www.communitydays.org/event/2026-05-08/cognitionx-tunis), May 8, 2026 – Tunis, Tunisia
+* [AICD TUNIS](https://www.communitydays.org/event/2026-05-08/aicd-tunis), May 8, 2026 – Tunis, Tunisia
+* [M365 Community Days DC 2026](https://www.communitydays.org/event/2026-05-14/m365-community-days-dc-2026), May 14, 2026 – Arlington, VA, United States
 * [DynamicsMinds 2026](https://www.communitydays.org/event/2026-05-25/dynamicsminds-2026), May 25, 2026 – Portorož, Slovenia, Slovenia
-* [European Power Platform Conference 2026](https://www.communitydays.org/event/2026-06-01/european-power-platform-conference-2026), June 1, 2026 – Copenhagen, Denmark
+* [Update Conference Krakow 2026](https://www.communitydays.org/event/2026-05-27/update-conference-krakow-2026), May 27, 2026 – Krakow, Lesser Poland, Poland
+* [CollabDays Madrid 2026](https://www.communitydays.org/event/2026-06-04/collabdays-madrid-2026), June 4, 2026 – Pozuelo de Alarcón, Madrid, Spain
 * [CollabDays Netherlands 2026](https://www.communitydays.org/event/2026-06-13/collabdays-netherlands-2026), June 13, 2026 – Vijfheerenlanden, Utrecht, Netherlands
+* [POSETTE: An Event for Postgres 2026](https://www.communitydays.org/event/2026-06-16/posette-an-event-for-postgres-2026), June 16, 2026 – 
 * [CollabDays Hamburg 2026](https://www.communitydays.org/event/2026-06-27/collabdays-hamburg-2026), June 27, 2026 – Hamburg, Germany
-* [European Microsoft Fabric Community Conference 2026](https://www.communitydays.org/event/2026-09-28/european-microsoft-fabric-community-conference-2026), September 28, 2026 – Rubí, Catalonia, Spain
+* [The AI-Native Workplace Summit 2026](https://www.communitydays.org/event/2026-09-16/the-ai-native-workplace-summit-2026), September 16, 2026 – 
+* [CollabDays Portugal 2026 - Porto Edition](https://www.communitydays.org/event/2026-10-16/collabdays-portugal-2026-porto-edition), October 16, 2026 – Porto, Portugal
 * [CollabDays New England 2026](https://www.communitydays.org/event/2026-10-16/collabdays-new-england-2026), October 16, 2026 – Burlington, MA, United States
+
 
 Sharing is caring! You are awesome! 🧡
