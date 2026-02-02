@@ -116,8 +116,8 @@ For senior M365 engineers, using Copilot Chat effectively is about **pattern rec
 
 ## Additional Resources
 
-- [Microsoft 365 Admin Documentation](https://learn.microsoft.com/microsoft-365/admin/admin-overview/admin-center-overview)  
-- [Microsoft 365 Copilot Overview](https://learn.microsoft.com/microsoft-365/copilot/overview)  
+- [Microsoft 365 Admin Documentation](https://learn.microsoft.com/en-gb/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide)
+- [Microsoft 365 Copilot Overview](https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/what-is-copilot)  
 - [Microsoft 365 Security and Compliance Documentation](https://learn.microsoft.com/microsoft-365/security/)  
 - [Microsoft Graph API for Admins](https://learn.microsoft.com/graph/overview)   
 
