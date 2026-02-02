@@ -118,7 +118,16 @@ Here are the last week's community call recordings. You can download recurrent i
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
-![Community Recognition](../images/community-recognition-2025.png)
+![Community Recognition](../images/community-recognition-2026.png)
+
+---
+
+
+## 25th anniversary of SharePoint
+
+You don't want to missout this great community powered celebration! SharePoint is having it's 25th anniversary on 2nd of March and we are hosting an exclusive [online event](https://aka.ms/SPat25) for everyone to join. We will be also running a [SharePoint Hackathon 2026](https://aka.ms/sharepoint/hackathon) between 2nd of March and 16th of March. Join others in the community to create SharePoint powered experiences. Everyone is welcome on this one from end users, designers, developers and more.
+
+![SharePoint 25th anniversary event](../images/sharepoint-25-hackathon-promo.png)
 
 ---
 
