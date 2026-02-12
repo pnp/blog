@@ -1,6 +1,6 @@
 ---
 title: "Building a Hierarchical Quick Links Web Part with SPFx"
-date: 2026-02-06T08:00:00-04:00
+date: 2026-02-12T08:00:00-04:00
 author: "Sai Siva Ram Bandaru"
 githubname: saiiiiiii
 categories: ["Community post"]
