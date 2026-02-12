@@ -87,7 +87,7 @@ Update of the newly published videos in our YouTube channel
 * [First Fridays: Empowering Global Communicators: AI, Alignment, and Learning in the GEEC Community](https://www.youtube.com/watch?v=gx-0-MlYByI)
 * [Mastering Mermaid: Automating the Creation of Process Diagrams with Copilot Studio](https://www.youtube.com/watch?v=8rMsYOORdKc)
 * [Your first look at M365 Community Conference 2026 with Vasu Jakkal!](https://www.youtube.com/watch?v=uRcAYIuA_zs)
-* [Building engaging forms with SharePoint - Plumsail - SharePoint Partner Showcase](https://www.youtube.com/watch?v=AMtafN4fal4) by [object Object]
+* [Building engaging forms with SharePoint - Plumsail - SharePoint Partner Showcase](https://www.youtube.com/watch?v=AMtafN4fal4)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
