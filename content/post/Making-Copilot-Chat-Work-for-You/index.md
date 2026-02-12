@@ -12,7 +12,7 @@ draft: false
 ---
 
 
-# Beyond Questions: How Copilot Chat Actually Helps You Get Work Done
+# Making Copilot Chat Work for You
 
 ## First Impressions
 
