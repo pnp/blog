@@ -75,6 +75,7 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Animated Navigation in Power BI](https://www.youtube.com/watch?v=dA6OmJiFnsA) by [James Mounsey-Moran](https://www.linkedin.com/in/james-mounsey-moran-59488b98/) (Trustmarque)
 * [Office add-ins community call - February 2026](https://www.youtube.com/watch?v=ER0ECLlMye0)
 * [Viva Engage Masterclass Season 2: Week 2 AI Enablement](https://www.youtube.com/watch?v=VWWj0wGEmoE)
 * [Building a WeatherNow SPFx Web Part](https://www.youtube.com/watch?v=9oTY972YmKA) by [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI International)
