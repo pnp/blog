@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 9t of February week
-date: 2026-02-05T08:40:32.024Z
+date: 2026-02-06T02:40:32.024Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -34,7 +34,6 @@ Demos this time:
 * [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) – Add AI capabilities to your SharePoint Embedded app
 * [Mithuna Soundararaj](https://www.linkedin.com/in/mithuna/) & [Akash Ravi](https://www.linkedin.com/in/akash-ravi/) – Getting started with Agents in OneDrive
 
-
 ---
 
 ### Microsoft 365 & Power Platform community demos call - 12th of February
@@ -45,8 +44,8 @@ Demos this time:
 
 Demos this time:
 
-* [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) – Reverse Engineering: Teaching GitHub Copilot to Configure Vitest Unit Testing for your SPFx apps 
-* [Peter Paul Kirschner](https://www.linkedin.com/in/petkir) (ACP Cubido) – React Office Breakout - Vision, Motion, and a Little Chaos
+* [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) – Reverse Engineering with AI: Teaching GitHub Copilot to Configure Vitest Unit Testing for your SPFx apps 
+* [Peter Paul Kirschner](https://www.linkedin.com/in/petkir) (ACP Cubido) – Creating React Office Breakout game with SPFx - Vision, Motion, and a Little Chaos
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -55,7 +54,6 @@ Demos this time:
 ## New videos 
 
 Update of the newly published videos in our YouTube channel 
-
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
@@ -104,6 +102,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 5th of January 2026](https://www.youtube.com/watch?v=agMtaAuAO4M)
 * [Microsoft 365 & Power Platform weekly call – 3rd of February, 2026](https://www.youtube.com/watch?v=GEgiEIqTcw8)
 * [Microsoft 365 & Power Platform community call - 29th of January 2026](https://www.youtube.com/watch?v=G-4mYVX3mK4)
 * [Microsoft 365 Champion Community Call | January 2026](https://www.youtube.com/watch?v=vaYlZtkPDbo)
@@ -140,7 +139,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [AgentCon Oslo](https://www.communitydays.org/event/2026-02-10/agentcon-oslo), February 10, 2026 – Oslo, Norway
 * [AICD MAHDIA](https://www.communitydays.org/event/2026-02-14/aicd-mahdia), February 14, 2026 – Rejiche, Tunisia, Tunisia

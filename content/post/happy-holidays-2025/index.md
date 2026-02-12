@@ -7,7 +7,7 @@ categories: ["Community post"]
 images:
 - images/happy-holidays.png
 tags: ["Community"]
-type: "trending"
+type: regular
 ---
 
 ## Happy holidays and successful year 2026!
