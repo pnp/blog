@@ -36,7 +36,6 @@ Demos this time:
 
 ---
 
-
 ### Microsoft Power Platform community call  - 18th of February
 
 Typically demos here are from the community by the community. You are welcome to demo here 👋
@@ -76,8 +75,10 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Building a WeatherNow SPFx Web Part](https://www.youtube.com/watch?v=9oTY972YmKA)
+* [Animated Navigation in Power BI](https://www.youtube.com/watch?v=dA6OmJiFnsA) by [James Mounsey-Moran](https://www.linkedin.com/in/james-mounsey-moran-59488b98/) (Trustmarque)
+* [Office add-ins community call - February 2026](https://www.youtube.com/watch?v=ER0ECLlMye0)
 * [Viva Engage Masterclass Season 2: Week 2 AI Enablement](https://www.youtube.com/watch?v=VWWj0wGEmoE)
+* [Building a WeatherNow SPFx Web Part](https://www.youtube.com/watch?v=9oTY972YmKA) by [Mike Givens](https://www.linkedin.com/in/airdeveloper/) (CACI International)
 * [Bringing Intelligence to Enterprise Search with Microsoft Foundry and SPFx](https://www.youtube.com/watch?v=PDGEsBTO8hg) by [Elio Struyf](https://www.linkedin.com/in/eliostruyf/) (EngageTime)
 * [Live from Microsoft Studio | SharePoint at 25 with John Mighell & Karuana Gatimu](https://www.youtube.com/watch?v=b_erHfTJUwU)
 * [Introduction to SharePoint Pages Agent in Microsoft 365 Copilot](https://www.youtube.com/watch?v=dyWQHLaE5W8) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
