@@ -199,6 +199,11 @@ mark {
   }
 }
 
+:root .card-meta,
+:root .card .card-meta {
+  color: var(--theme-text-subtle) !important;
+}
+
 // card
 .card-meta {
   li i {
