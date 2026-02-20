@@ -65,7 +65,7 @@ Update of the newly published videos in our YouTube channel
 * [Introduction to Content Security Policy (CSP) in SharePoint Online](https://www.youtube.com/watch?v=OOFQQJTtAkM) by [Bert Jansen](https://www.linkedin.com/in/bertjansen/) (Microsoft) and [Mikael Svenson](https://www.linkedin.com/in/mikaels/) (Microsoft)
 * [Supercharge Your Date Logic: The Ultimate Working Day Calculator for Power Automate](https://www.youtube.com/watch?v=R-uk-ipd_3w)
 * [Maturity Model for Microsoft 365 - February 2026](https://www.youtube.com/watch?v=IdIrx_p0TSs)
-* [Enhancing everyday coordination - Cloudwell - SharePoint Partner Showcase](https://www.youtube.com/watch?v=SrsU61yk7a8) by [object Object]
+* [Enhancing everyday coordination - Cloudwell - SharePoint Partner Showcase](https://www.youtube.com/watch?v=SrsU61yk7a8)
 * [Creating a comments section in Canvas Apps with JSON](https://www.youtube.com/watch?v=WwL9wJ5lx5I)
 * [Automating smart Approval cancellations in Power Automate with Dataverse](https://www.youtube.com/watch?v=-nnJiRpWadg) by [Mike Givens](https://www.linkedin.com/in/mike-givens/) (CACI International)
 * [Building an HR assistant using Copilot studio and Logic Apps MCP server](https://www.youtube.com/watch?v=HZj8T0thGVw&pp=0gcJCaIKAYcqIYzv)
