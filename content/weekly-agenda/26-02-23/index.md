@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 23rd of February week
-date: 2026-02-20T12:56:03.789Z
+date: 2026-02-20T02:56:03.789Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -46,8 +46,7 @@ Demos this time:
 
 * [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die mobiliar) – Testing the Copilot Retrieval and Search APIs with SPFx
 * [Ramin Ahmadi](https://www.linkedin.com/in/ahmadiramin/) (Advania UK) – Azure AI Model Router: When Dynamic Model Selection Actually Makes Sense
-* [Michael Svarrer Grue Nielsen](https://www.linkedin.com/in/ruprect/) (Abakion) – Calling Power Automate from Command Bar
-
+* [Michael Svarrer Grue Nielsen](https://www.linkedin.com/in/ruprect/) (Abakion) – How to call Power Automate from the Ribbon in my Model Driven App
 
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
