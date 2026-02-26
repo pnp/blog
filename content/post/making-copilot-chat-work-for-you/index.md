@@ -5,7 +5,8 @@ author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
 images:
-  - images/co.png
+  - images/co.jpg
+
 tags: ["Microsoft 365", "Copilot"]
 type: "regular"
 draft: false
