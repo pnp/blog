@@ -6,6 +6,7 @@ githubname: ojopiyo
 categories: ["Community post"]
 images:
   - images/co.jpg
+
 tags: ["Microsoft 365", "Copilot"]
 type: "regular"
 draft: false
