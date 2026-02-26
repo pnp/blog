@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 23rd of February week
-date: 2026-02-20T12:56:03.789Z
+date: 2026-02-20T02:56:03.789Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -46,8 +46,7 @@ Demos this time:
 
 * [Nello D'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die mobiliar) – Testing the Copilot Retrieval and Search APIs with SPFx
 * [Ramin Ahmadi](https://www.linkedin.com/in/ahmadiramin/) (Advania UK) – Azure AI Model Router: When Dynamic Model Selection Actually Makes Sense
-* [Michael Svarrer Grue Nielsen](https://www.linkedin.com/in/ruprect/) (Abakion) – Calling Power Automate from Command Bar
-
+* [Michael Svarrer Grue Nielsen](https://www.linkedin.com/in/ruprect/) (Abakion) – How to call Power Automate from the Ribbon in my Model Driven App
 
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -65,7 +64,7 @@ Update of the newly published videos in our YouTube channel
 * [Introduction to Content Security Policy (CSP) in SharePoint Online](https://www.youtube.com/watch?v=OOFQQJTtAkM) by [Bert Jansen](https://www.linkedin.com/in/bertjansen/) (Microsoft) and [Mikael Svenson](https://www.linkedin.com/in/mikaels/) (Microsoft)
 * [Supercharge Your Date Logic: The Ultimate Working Day Calculator for Power Automate](https://www.youtube.com/watch?v=R-uk-ipd_3w)
 * [Maturity Model for Microsoft 365 - February 2026](https://www.youtube.com/watch?v=IdIrx_p0TSs)
-* [Enhancing everyday coordination - Cloudwell - SharePoint Partner Showcase](https://www.youtube.com/watch?v=SrsU61yk7a8) by [object Object]
+* [Enhancing everyday coordination - Cloudwell - SharePoint Partner Showcase](https://www.youtube.com/watch?v=SrsU61yk7a8)
 * [Creating a comments section in Canvas Apps with JSON](https://www.youtube.com/watch?v=WwL9wJ5lx5I)
 * [Automating smart Approval cancellations in Power Automate with Dataverse](https://www.youtube.com/watch?v=-nnJiRpWadg) by [Mike Givens](https://www.linkedin.com/in/mike-givens/) (CACI International)
 * [Building an HR assistant using Copilot studio and Logic Apps MCP server](https://www.youtube.com/watch?v=HZj8T0thGVw&pp=0gcJCaIKAYcqIYzv)
