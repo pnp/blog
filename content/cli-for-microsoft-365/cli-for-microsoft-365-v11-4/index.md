@@ -14,7 +14,7 @@ tags:
   - SharePoint Embedded
   - SPFx
   - Microsoft Teams
-type: popular
+type: regular
 ---
 
 We're kicking off a new year with CLI for Microsoft 365 v11.4, bringing a focused set of improvements that make day-to-day administration just a bit easier. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you can use to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release adds new commands across SharePoint, SharePoint Embedded, and SharePoint Premium platform updates and fixes that have landed.
