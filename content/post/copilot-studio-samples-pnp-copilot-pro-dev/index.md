@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: "Copilot Studio samples are now supported in copilot-pro-dev-samples"
-date: 2026-03-12T08:40:00-04:00
+date: 2026-03-07T08:40:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
 # don't change
@@ -40,12 +40,9 @@ If you’re contributing for the first time, thank you, we hope you found the gu
 
 When creating samples, there is a pattern to follow, to ensure folks can use your sample and integrate into the solution sample gallery. We have expanded the ```templates``` and guidance were updated to make it easier to provide the information maintainers and reviewers need (scenario, setup steps, validation, and any special considerations).
 
-### 3) New samples to show you want a MCS sample looks like
+### 3) New example agent to show you want a MCS sample looks like
 
-Two new samples:
-
--  **`mcs-BlogPostHelper`** - this uses the Solution Export method
--  **`mcs-PositivityAgent`** - this uses the clone method with Visual Studio Code extension
+To help articulate this new sample type, I have created a sample from a Copilot Agent Solution: **`mcs-BlogPostHelper`** - this using the Solution Export method.
 
 These have been added to show you want good structure looks like and to help demonstrate the approach and set a baseline for how these submissions should look.
 
@@ -57,14 +54,9 @@ A new GitHub Action workflow checks PRs to ensure **`.zip` files are not added u
 
 ## How to submit a Copilot Studio sample (step-by-step)
 
-There are two types of method to submit Copilot Studio samples:
+The main type of method to submit Copilot Studio samples: is using the Copilot Studio using Solution Import method.
 
-- Copilot Studio using Solution Import
-- Copilot Studio using Copilot Studio for Visual Studio Code extension
-
-The repo’s `CONTRIBUTING.md` shows how to export the agents with either the Power Platform CLI or Copilot Studio for Visual Studio code marketplace extension - both of these scenarios have been catered for.
-
-Which method do you prefer? and why?
+The repo’s `CONTRIBUTING.md` shows how to export the agents with either the Power Platform CLI or [Power Platform Tools for Visual Studio Code (as this installs the Power Platform CLI as well)](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.powerplatform-vscode) extension - both of these scenarios have been catered for.
 
 ### Step 1: Confirm you can share it
 
@@ -101,7 +93,7 @@ At minimum, your sample folder should include:
 - an `assets/` folder (screenshots)  
 - a **`README.md`** with setup + usage instructions, there is guidance in this file to help you 
 
-Refer to the **`mcs-BlogPostHelper`** or  **`mcs-PositivityAgent`** - to get an idea of how samples are setup.
+Refer to the **`mcs-BlogPostHelper`** - to get an idea of how samples are setup.
 
 ### Step 6: For security reasons, we cannot accept zip files
 
@@ -129,7 +121,7 @@ assets/sample.json
 
 Images
 
-- These are optional and do help with context for the sample, but please describe how to instructions rather than step by step screenshots, to aid accessibility.
+- These are optional and does help with context for the sample, but please descirbe how to instructions rather than step by step screenshots, to aid accessibility.
 
 ---
 
@@ -145,9 +137,15 @@ A few practical recommendations that align well with the repo’s contributor gu
 
 ---
 
+## Why not use agents exported from Visual Studio Code Extension
+
+There is another method to export samples from Power Platform using the Copilot Studio for Visual Studio Code extension. At the moment, this may not include all the components for agents that utilise other Power Platform features along with the agent. We are not closed to the method, as it improves over time it may support the connected parts as well, but for now, to get started we will support just the pac cli extension method.
+
+---
+
 ## Thank you
 
-I'd like to credit [Garry Trinder](https://github.com/garrytrinder) and [Sébastien Levert](https://github.com/sebastienlevert) for their help in reviewing, adding side quests (lol) and suggesting improvements!
+Id like to credit [Garry Trinder](https://github.com/garrytrinder) and [Sébastien Levert](https://github.com/sebastienlevert) for their help in reviewing, adding side quests (lol) and suggesting improvements!
 
 ---
 
