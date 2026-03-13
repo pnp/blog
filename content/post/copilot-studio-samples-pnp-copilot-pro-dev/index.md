@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: "Copilot Studio samples are now supported in copilot-pro-dev-samples"
-date: 2026-03-07T08:40:00-04:00
+date: 2026-03-12T08:40:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
 # don't change
@@ -129,7 +129,7 @@ assets/sample.json
 
 Images
 
-- These are optional and does help with context for the sample, but please descirbe how to instructions rather than step by step screenshots, to aid accessibility.
+- These are optional and do help with context for the sample, but please describe how to instructions rather than step by step screenshots, to aid accessibility.
 
 ---
 
@@ -147,7 +147,7 @@ A few practical recommendations that align well with the repo’s contributor gu
 
 ## Thank you
 
-Id like to credit [Garry Trinder](https://github.com/garrytrinder) and [Sébastien Levert](https://github.com/sebastienlevert) for their help in reviewing, adding side quests (lol) and suggesting improvements!
+I'd like to credit [Garry Trinder](https://github.com/garrytrinder) and [Sébastien Levert](https://github.com/sebastienlevert) for their help in reviewing, adding side quests (lol) and suggesting improvements!
 
 ---
 
