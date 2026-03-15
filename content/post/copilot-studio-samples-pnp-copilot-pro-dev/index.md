@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: "Copilot Studio samples are now supported in copilot-pro-dev-samples"
-date: 2026-03-07T08:40:00-04:00
+date: 2026-03-14T08:40:00-04:00
 author: "Paul Bullock"
 githubname: pkbullock
 # don't change
