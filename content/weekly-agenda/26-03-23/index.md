@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 9th of March week
-date: 2026-03-06T10:57:28.515Z
+title: Weekly Agenda - 23rd of March week
+date: 2026-03-19T17:48:06.955Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda10.png
+  - images/weeklyagenda12.png
 tags: []
-type: regular
+type: trending
 videos:
   - https://www.youtube.com/watch?v=CA0G8SWshz8
 draft: false
@@ -22,32 +22,33 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform product updates - 10th of March
+### Microsoft 365 & Power Platform product updates - 24th of March
 
-* Tuesday, 10th of March 2026, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 24th of March 2026, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) – Configuring your Copilot Chat declarative agent capabilities
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) & [Marc Windle](https://www.linkedin.com/in/marc-windle-908b3055/) – Compliance in SharePoint Embedded - Use what you already own
-* [Fiza Musthafa](https://www.linkedin.com/in/fiza-musthafa-3a5a15236/) – Building AI Agents with Agent 365 SDK: MCP Tooling & Observability
+* [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) – Extending your Copilot Chat declarative agent with actions - API plugins and MCP
+* [Giorgio Ughini](https://www.linkedin.com/in/giorgio-ughini/) & [Eric Scherlinger](https://www.linkedin.com/in/ericsche/)– Copilot Studio Plugin for Claude Code and GitHub Copilot
+  * [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/) – Agents for Microsoft 365 Copilot with advanced MCP Servers
 
 
 ---
 
-### Microsoft 365 & Power Platform community demos call - 12th of March
+### Microsoft 365 & Power Platform community demos call - 26th of March
 
-* Thursday, 12th of March, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 26th of March, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZwGHYk0MSOKQMfPepWf%2F9A%3D%3D) (Ameriprise Financial Services) – Build a Modern Power Apps Gallery with Tabbed Filters for Speaker Management
-* [Darshan Magdum](https://www.linkedin.com/in/darshan-magdum-%C2%AE-61764b113/) (Nihilent) – Compare 2 PDF files - Get Summary using Copilot Studio
-* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) –  Introduction to Copilot Component Collections
+
+* [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (die Mobiliar) – Building a Delivery Platform for the Microsoft Power Platform
+* [Fabio Franzini](https://www.linkedin.com/in/fabiofranzini/) (Apvee) – SPFx Client-Side Provisioning with Composable Actions
+* [Lee Ford](https://www.linkedin.com/in/lee-ford/) (Symity) –  Bringing Agent 365 MCP servers in to Declarative Agents
 
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
@@ -58,40 +59,23 @@ Demos this time:
 
 Update of the newly published videos in our YouTube channel 
 
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Creating a SPFx solution to present Document Library File Types Distribution in a site](https://www.youtube.com/watch?v=L1oH2nx_u2E) by [Harminder Singh](https://www.linkedin.com/in/harminder-sethi/) (Nagarro)
-* [Product suite on top of SharePoint - Intelligent Decisioning - SharePoint Partner Showcase](https://www.youtube.com/watch?v=BMgk8An5BR0)
-* [Announcing Frontline Agent in Microsoft 365 Copilot](https://www.youtube.com/watch?v=Y-sqC_EvRLQ) by [Natalie Pienkowska](https://www.linkedin.com/in/natalie-pienkowska/) (Microsoft)
-* [Data connectivity - Building AI integrated SPFx web part](https://www.youtube.com/watch?v=bsqr23TLcAg) by [Hugo Bernier](https://www.linkedin.com/in/bernierh/)
-* [Blooper reel | SharePoint at 25 digital event](https://www.youtube.com/watch?v=jzKqJswblX0)
-* [Resiliency in the age of AI with Microsoft 365 Backup](https://www.youtube.com/watch?v=3U7YSr7qUzw&pp=0gcJCa4KAYcqIYzv)
-* [Experience the New SharePoint Home Site Experience – Exclusive Hackathon Preview](https://www.youtube.com/watch?v=7BabkWGAr8A)
-* [Accelerate Microsoft 365 Copilot adoption with intelligent and company specific AI automation](https://www.youtube.com/watch?v=4xtaUt3Kep8) by [Sofia Virgos](https://www.linkedin.com/in/sofiavirgos/) (Microsoft) and [Sam Betts](https://www.linkedin.com/in/sambettscv/) (Microsoft)
-* [The new SharePoint experience](https://www.youtube.com/watch?v=tO3A8VKYV80)
-* [How M-Files transforms content management | SharePoint customer story](https://www.youtube.com/watch?v=k7O0OtDpcXQ&pp=0gcJCa4KAYcqIYzv)
-* [Connecting Microsoft Copilot Studio to SharePoint](https://www.youtube.com/watch?v=iCLOavFc750)
-* [Content creation with AI in SharePoint](https://www.youtube.com/watch?v=QaQA3-YZzYc)
-* [A tour of the new SharePoint experience](https://www.youtube.com/watch?v=pvxXnC6VESw)
-* [How Wortell drive AI innovation | SharePoint customer story](https://www.youtube.com/watch?v=B9MNMf_cIic)
-* [Introducing SharePoint Admin Agent: Governing and securing SharePoint in the agentic era](https://www.youtube.com/watch?v=4C4B2ckF3zA)
-* [AI in SharePoint: Build and organize content faster with natural language](https://www.youtube.com/watch?v=2nAgJq471x0&pp=0gcJCa4KAYcqIYzv)
-* [New file sharing experience for Microsoft 365](https://www.youtube.com/watch?v=3RpE0KrQmcA)
+* [Now on Demand | SharePoint at 25](https://www.youtube.com/watch?v=r19KT5Y3KrI)
+* [MCP with declarative agents on Copilot using the M365 Agents Toolkit](https://www.youtube.com/watch?v=SywzJWBZriI&pp=0gcJCcUKAYcqIYzv) by [Fiza Musthafa](https://www.linkedin.com/in/fiza-musthafa-3a5a15236/) (Microsoft)
+* [Maturity Model for Microsoft 365 - March 2026](https://www.youtube.com/watch?v=ZdoUMmEReXY)
+* [Reverse Engineering: Teaching GitHub Copilot to Configure Vitest Unit Testing for your SPFx apps](https://www.youtube.com/watch?v=VjukLIgE860)
+* [Getting started with Agents in OneDrive](https://www.youtube.com/watch?v=F4B9WujBXfQ&pp=0gcJCcUKAYcqIYzv) by [Mithuna Soundararaj](https://www.linkedin.com/in/mithuna/) (Microsoft) and [Akash Ravi](https://www.linkedin.com/in/akash-ravi/) (Microsoft)
+* [Join Jeff Teper at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=OfcuhSDv2ks)
+* [Introduction to Microsoft Teams on personal devices for frontline employees](https://www.youtube.com/watch?v=xbpYvCvmm-I) by [Aaron Glick](https://www.linkedin.com/in/aaronglick/) (Microsoft)
+* [Full bleed rendering - Building AI integrated SPFx web part](https://www.youtube.com/watch?v=1VEBUXh3SYU)
+* [Manage your Custom Actions in SharePoint using Custom Action Manager SPFx solution](https://www.youtube.com/watch?v=0Ev7gqQQXSM)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Stay tuned for more Keeping It Real with Power Platform!](https://www.youtube.com/watch?v=jtxDt11N8z4)
-* [Add event triggers to act autonomously | Mission 4 | Agent Operative](https://www.youtube.com/watch?v=lXdlj4DjR28&pp=0gcJCa4KAYcqIYzv)
-* [Extracting resume contents with multi-modal prompts | Mission 7 | Agent Operative](https://www.youtube.com/watch?v=icP_qH8LFK8)
-* [Understanding agent models and response formatting | Mission 5 | Agent Operative](https://www.youtube.com/watch?v=c5rqNQt2Mmc)
-* [AI safety and content moderation | Mission 6 | Agent Operative](https://www.youtube.com/watch?v=2IjDV_D3Jb0)
-* [Add tools to your agent in Copilot Studio](https://www.youtube.com/watch?v=940EmjVuj2I)
-* [Daniel Christian | EP01 | Ask a Community Pro](https://www.youtube.com/watch?v=Bs_JPbGbNPk)
-* [Building intelligent agents with knowledge sources | EP07 | Understanding Microsoft Agents](https://www.youtube.com/watch?v=_fAn3J3DS_A)
-* [Make your agent multi-agent ready with connected agents | Mission 3 | Agent Operative](https://www.youtube.com/watch?v=X-nyqdk6tcc)
-* [Authoring Agent Instructions | Mission 2 | Agent Operative](https://www.youtube.com/watch?v=h_pgKSKHlIU)
-* [Get started with the Hiring Agent | Mission 1 | Agent Operative](https://www.youtube.com/watch?v=VaEy6ux2sQs)
+* [How to balance AI innovation and risk with Ryan Jones | EP01 | Perspectives](https://www.youtube.com/watch?v=gze8BMeASIk)
+* [Add Copilot Studio Work IQ MCP to your agents | Power Platform Shorts](https://www.youtube.com/watch?v=K-ckSDrNekE)
+* [Using sentiment analysis to escalate to a live agent in Copilot Studio | EP02 | Ask a Community Pro](https://www.youtube.com/watch?v=hC5ZZ93dWmg)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -99,10 +83,21 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 Developer Blog posts
 
-* no new blog posts this week
+* [Build business understanding with Dataverse in Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/build-business-understanding-with-dataverse-in-microsoft-365-copilot/) by [James Oleinik](https://www.linkedin.com/in/james-oleinik/) (Microsoft)
+* [Changes to attachment IDs for inline images in Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/changes-to-attachment-ids-for-inline-images-in-outlook-add-ins/) by Office Extensibility team
+* [Build business understanding with Dataverse in Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/build-business-understanding-with-dataverse-in-microsoft-365-copilot/) by [James Oleinik](https://www.linkedin.com/in/james-oleinik/) (Microsoft)
+* [Prepare your add-in for Outlook ribbon improvements](https://devblogs.microsoft.com/microsoft365dev/prepare-your-addin-for-outlook-ribbon-improvements/) by Office Extensibility team
+* [SharePoint Framework (SPFx) roadmap update – February 2026](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-february-2026/) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Increased control over Office Add-in user experiences](https://devblogs.microsoft.com/microsoft365dev/increased-control-over-office-add-in-user-experiences/) by Office Extensibility team
+* [Handling Legacy User Settings in SharePoint Framework](https://devblogs.microsoft.com/microsoft365dev/handling-legacy-user-settings-in-sharepoint-framework/) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft)
+* [Mastering User Settings in SharePoint Framework](https://devblogs.microsoft.com/microsoft365dev/mastering-user-settings-in-sharepoint-framework/) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft)
+* [Deprecation notice: Teams Live Events meeting creation via Microsoft Graph](https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-teams-live-events-meeting-creation-via-microsoft-graph/) by Microsoft Graph team
+* [Dev Proxy v2.1 with configuration hot reload and stdio proxying](https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v2-1-with-configuration-hot-reload-and-stdio-proxying/) by[Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/) (Microsoft), [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
+* [Weekly Agenda - 16th of March week](https://pnp.github.io/blog/weekly-agenda/26-03-16/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
+* [Weekly Agenda - 9th of March week](https://pnp.github.io/blog/weekly-agenda/26-03-09/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 * [CLI for Microsoft 365 v11.5](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-5/) by [Jasey Waegebaert](https://github.com/jwaegebaert/)
 * [Using MCP Servers in a React Application — A Real-World Example with Microsoft Graph](https://pnp.github.io/blog/post/use-mcp-servers-in-react-application/) by [João Mendes](https://github.com/joaojmendes/)
 * [Weekly Agenda - 2nd of March week](https://pnp.github.io/blog/weekly-agenda/26-03-02/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
@@ -114,10 +109,10 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform community call - 5th of March 2026](https://www.youtube.com/watch?v=65E8HB7B7i4)
-* [Microsoft 365 Champion Community Call | February 2026](https://www.youtube.com/watch?v=1_sIZMpviHQ)
-* [Microsoft 365 & Power Platform weekly call – 3rd of March, 2026](https://www.youtube.com/watch?v=J-HQ1s-HS50)
-* [Microsoft Agents Community Call | 03-04-26](https://www.youtube.com/watch?v=tFCMAvzxHhw)
+* [Microsoft Power Platform community call – March 2026](https://www.youtube.com/watch?v=PEwyWxq_fkU&pp=0gcJCcUKAYcqIYzv)
+* [Microsoft 365 & Power Platform weekly call – 17th of March, 2026](https://www.youtube.com/watch?v=FhekntKz7oM)
+* [Office add-ins community call - March 2026](https://www.youtube.com/watch?v=77Op-no2wsY)
+* [Microsoft 365 & Power Platform community call - 12th of March 2026](https://www.youtube.com/watch?v=iKr1_nNXV8g&pp=0gcJCcUKAYcqIYzv)
 
 
 ---
@@ -190,6 +185,8 @@ Please take the opportunity to join these great conferences organized by the bes
 * [CollabDays Hamburg 2026](https://www.communitydays.org/event/2026-06-27/collabdays-hamburg-2026), June 27, 2026 – Hamburg, Germany
 * [The AI-Native Workplace Summit 2026](https://www.communitydays.org/event/2026-09-16/the-ai-native-workplace-summit-2026), September 16, 2026 – 
 * [Baltic Summit 2026](https://www.communitydays.org/event/2026-09-24/baltic-summit-2026), September 24, 2026 – Gdynia, Pomerania, Poland
+* *[TechBash 2026](https://www.communitydays.org/event/2026-10-13/techbash-2026), October 13, 2026 – Tobyhanna, PA, United States
 * [CollabDays Portugal 2026 - Porto Edition](https://www.communitydays.org/event/2026-10-16/collabdays-portugal-2026-porto-edition), October 16, 2026 – Porto, Portugal
 * [CollabDays New England 2026](https://www.communitydays.org/event/2026-10-16/collabdays-new-england-2026), October 16, 2026 – Burlington, MA, United States
+* [Update Conference Prague 2026](https://www.communitydays.org/event/2026-11-12/update-conference-prague-2026), November 12, 2026 – Prague, Czechia
 * [M365 Community Days Montréal #4-2026 – Sans gouvernance, pas d’IA](https://www.communitydays.org/event/2027-01-27/m365-community-days-montral-4-2026-sans-gouvernance-pas-dia), January 27, 2027 – Montreal, QC, Canada

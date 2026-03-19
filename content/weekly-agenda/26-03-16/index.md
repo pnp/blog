@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 16th of March week
-date: 2026-03-13T06:28:39.177Z
+date: 2026-03-13T02:28:39.177Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -49,8 +49,8 @@ Typically demos here are from the community by the community. You are welcome to
 Demos this time
 
 * [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma%E2%9C%85-b07050162/) (Ameriprise Financial Services) - Design Full App Pages in Minutes with AI‑Powered Generative Pages in Power Apps
-[Darshan Magdum](https://www.linkedin.com/in/darshan-magdum-%C2%AE-61764b113/) (Nihilent) - Adding Filters and Microsoft Teams Width to Adaptive Cards, and Tooltips & Anchor Tags via YAML in Copilot Studio
-[Giridhar Mungamuri](https://www.linkedin.com/in/giridhar-mungamuri/) (EY) - Getting Started with Power Apps Code Apps: Build Your First Real App with the New Pro‑Code Experience
+* [Darshan Magdum](https://www.linkedin.com/in/darshan-magdum-%C2%AE-61764b113/) (Nihilent) - Adding Filters and Microsoft Teams Width to Adaptive Cards, and Tooltips & Anchor Tags via YAML in Copilot Studio
+* [Giridhar Mungamuri](https://www.linkedin.com/in/giridhar-mungamuri/) (EY) - Getting Started with Power Apps Code Apps: Build Your First Real App with the New Pro‑Code Experience
 
 ---
 
