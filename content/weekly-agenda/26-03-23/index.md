@@ -167,7 +167,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [European  Collaboration Summit 2026](https://www.communitydays.org/event/2026-05-05/european-collaboration-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
 * [European BizApps Summit 2026](https://www.communitydays.org/event/2026-05-05/european-bizapps-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
 * [European AI and Cloud Summit 2026](https://www.communitydays.org/event/2026-05-05/european-ai-and-cloud-summit-2026), May 5, 2026 – Cologne, North Rhine-Westphalia, Germany
-* [CognitionX  - Tunis](https://www.communitydays.org/event/2026-05-08/cognitionx-tunis), May 8, 2026 – Tunis, Tunisia
+* [CognitionX  - Tunis](https://www.communitydays.org/event/2026-05-08/cognitionx-tunis), May 8, 2026 – Tunis, Tunisia 
 * [AICD TUNIS](https://www.communitydays.org/event/2026-05-08/aicd-tunis), May 8, 2026 – Tunis, Tunisia
 * [M365 Philly 2026](https://www.communitydays.org/event/2026-05-08/m365-philly-2026), May 8, 2026 – Malvern, PA, United States
 * [M365 Community Days DC 2026](https://www.communitydays.org/event/2026-05-14/m365-community-days-dc-2026), May 14, 2026 – Arlington, VA, United States
