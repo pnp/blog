@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Copilot Studio samples are now supported in copilot-pro-dev-samples"
 date: 2026-03-19T08:40:00-04:00
@@ -14,7 +13,6 @@ tags: []
 # don't change
 type: "regular"
 ---
-```
 
 ## Copilot Studio samples are now supported
 
