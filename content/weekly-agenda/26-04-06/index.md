@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 6th of April week
-date: 2026-04-03T08:00:00.000Z
+date: 2026-04-02T08:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -10,11 +10,10 @@ images:
 tags: []
 type: trending
 videos:
-  - https://www.youtube.com/watch?v=CA0G8SWshz8
+  - https://www.youtube.com/watch?v=OfcuhSDv2ks
 draft: false
 ---
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-
 
 Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
 
@@ -32,8 +31,7 @@ Demos this time:
 
 * [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) – Connecting agents in Copilot Chat - Composing an agent ecosystem
 * [Zach Rosenfield](https://www.linkedin.com/in/zrosenfield/) (Microsoft) – Introduction to custom AI Skills in SharePoint
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft)) – Build and Run Your First Custom Engine Agent with Agent Framework
-
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Connected Declarative Agents for Microsoft 365 Copilot
 
 ---
 
@@ -49,7 +47,6 @@ Demos this time:
 * [Ejaz Hussain](https://www.linkedin.com/in/hussaine) (Advania UK) – How to trigger an authenticated Power Automate flow from a SharePoint document library
 * [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die Mobiliar) – Making SPFx upgrades smooth and easy with Claude Code
 
-
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
@@ -57,7 +54,6 @@ Demos this time:
 ## New videos 
 
 Update of the newly published videos in our YouTube channel 
-
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
@@ -96,7 +92,6 @@ Update of the newly published videos in our YouTube channel
 * [SharePoint Framework Toolkit 2025 wrap up](https://pnp.github.io/blog/post/spfx-toolkit-vscode-2025-wrap-up/) by [Saurabh Tripathi](https://github.com/Saurabh7019/)
 * [Weekly Agenda - 30th of March week](https://pnp.github.io/blog/weekly-agenda/26-03-30/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
-
 ---
 
 ## Last community call recordings published last week
@@ -104,7 +99,6 @@ Update of the newly published videos in our YouTube channel
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft 365 & Power Platform weekly call – 31st of March, 2026](https://www.youtube.com/watch?v=3xTiT5XgorY)
-
 
 ---
 
@@ -116,6 +110,13 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ---
 
+## Microsoft 365 Conference at Orlando in April 2026
+
+We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Orlando in April 2026. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
+
+{{< youtube OfcuhSDv2ks >}}
+
+---
 
 ## Upcoming events
 
@@ -123,8 +124,10 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 * [Microsoft 365 Conference](https://m365conf.com/) - April 21-23 - Orlando, United States
 * [ECS 2026](https://ecs.events/) - May 5-7, 2026 - Cologne, Germany
+* [Microsoft Build 2026](https://build.microsoft.com/en-US/home) - June 2-3, 2026 - San Francisco, United States
 * [TechCon - Chicago](https://techcon365.com/Chicago/) - June 15-19, 2026 - Chicago, United States
 * [European Power Platform Conference 2026](https://www.sharepointeurope.com/european-power-platform-conference/) - June 29 - July 2, 2026 - Copenhagen, Denmark
+* [Microsoft Ignite 2026](https://ignite.microsoft.com) - November 17-20, 2026 - San Francisco, United States
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
