@@ -12,7 +12,7 @@ tags:
   - SharePoint
   - SPFx
   - Microsoft Teams
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.5 is a compact release that introduces new commands for SharePoint brand management and Teams call records alongside targeted improvements and fixes. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this drop continues to expand coverage across the platform.
