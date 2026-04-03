@@ -31,7 +31,7 @@ Demos this time:
 
 * [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) – Connecting agents in Copilot Chat - Composing an agent ecosystem
 * [Zach Rosenfield](https://www.linkedin.com/in/zrosenfield/) (Microsoft) – Introduction to custom AI Skills in SharePoint
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Connected Declarative Agents for Microsoft 365 Copilot
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Connect Declarative Agent to OAuth-Protected MCP Server
 
 ---
 
