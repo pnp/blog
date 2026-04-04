@@ -43,9 +43,9 @@ Demos this time:
 
 Demos this time:
 
-* [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (die Mobiliar) – How to govern Sites.Selected Access
 * [Ejaz Hussain](https://www.linkedin.com/in/hussaine) (Advania UK) – How to trigger an authenticated Power Automate flow from a SharePoint document library
 * [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die Mobiliar) – Making SPFx upgrades smooth and easy with Claude Code
+* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Warner Digital) – Copilot Studio Component Collections – Testing and Scalability Options
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
