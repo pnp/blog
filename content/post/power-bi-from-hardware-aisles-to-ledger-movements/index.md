@@ -1,6 +1,6 @@
 ---
 title: "Power BI: From Hardware Aisles to Ledger Movements"
-date: 2026-03-21T13:40:00-04:00
+date: 2026-04-09T13:40:00-04:00
 author: "Isaya Opiyo"
 githubname: Isayah-19
 # don't change
@@ -13,42 +13,22 @@ tags: []
 # don't change
 type: "regular"
 ---
+When I started as a Data Analyst Intern at my first role, I quickly realized that the business had plenty of data but almost no clarity. Sales were being recorded daily, but no one could confidently answer fundamental questions about which products drove revenue, whether marketing spend was converting into real-world customers, or what the specific delta was in our week-over-week performance. 
 
-When I started as a Data Analyst Intern at my previous role, the goal was simple but daunting: help the business understand its own marketing through the data buried in their system. At the time, they had the raw ingredients, but they didn't have the recipe. My job was to dig in and find out what was actually moving off the shelves.
+I decided to build my first end-to-end Power BI model directly from their POS system, but the first challenge wasn't the visuals—it was the noise. The same product would appear under three different naming conventions, making any aggregate analysis unreliable. Before I could build a single chart, I had to architect a cleaning and standardization process. Once that foundation was solid, I deployed a product performance matrix and an inventory velocity report that moved the company’s Monday morning conversations from "I think" to "we know."
 
-Using Power BI, I was able to pinpoint the "star" products,not just what brought in the most cash, but what moved in the highest volumes. Transitioning those findings into weekly sales reports changed the conversation from "I think this is selling" to "Here is exactly what happened last week."
-
-Today, at my current role, the scale has shifted, but the mission remains the same. I’ve moved from tracking hardware sales to analyzing complex ledger movements, credit control performance, and identifying unpaying accounts. These aren't just numbers on a screen; they are the financial heartbeat of the company.
 
 ## The Power of the Analytical Layer
 
-In my experience, many organizations adopt Microsoft Power BI expecting magic dashboards. But having been in the trenches, I know its real strength is acting as the analytical layer across the entire Microsoft 365 environment.
+As I transitioned to my current role, the stakes and the datasets grew exponentially. I moved from simple sales tables to the financial heartbeat of the company, managing ledger transactions, aging buckets, and credit control performance. Initially, the sheer volume of transactional data acted as a bottleneck; pulling raw tables directly into Power BI led to sluggish performance and DAX measures that were becoming a nightmare to maintain. 
 
-Whether it’s a hardware store or a global services firm, the challenge is the same: raw data rarely answers business questions on its own. Operational databases are designed to record activity, not explain it. A table showing a thousand rows of paint sales or chemical treatments is too granular for a manager to act on.
+This was my "Aha!" moment regarding architecture. I realized that Power BI should not be used as a primary data processor, but rather as an insight engine. I shifted the heavy lifting to the database layer by creating SQL Views that pre-aggregated debt by branch and standardized logic at the source. This trimmed the dataset size before it ever touched the visualization layer, ensuring that reports refreshed in seconds and every department finally worked from a single source of truth.
 
-Power BI is what converts that "noise" into structured insights: trends over time, performance against targets, and the predictive indicators needed for real strategy.
+## Making Data Actionable: The Debt Risk Monitor
 
-## Integrating Insight into the Workflow
+My most impactful work involved turning these complex datasets into an actionable Debt Risk Monitor. The goal wasn’t just to show that money was owed, but to predict where it might never be recovered. I engineered specific metrics like **"Danger Zone"** calculations for debt older than 180 days and dynamic alerting that flagged high-risk accounts for the Credit Control team. 
 
-One thing I’ve learned at my current workplace is that insights are only valuable if they are seen by the right people at the right time. Within the Microsoft ecosystem, I can surface these ledger analyses directly inside Microsoft Teams or embed them in SharePoint.
-
-Instead of a report sitting in someone’s inbox as a static PDF, it becomes a live, collaborative asset. When we’re looking at credit controller performance or aging debt, the team can review the dashboard together in real-time. It transforms reporting from a "look back at what went wrong" to a "what do we fix right now" activity.
-
-## The Foundation: Why Structure Matters
-
-If my time in data has taught me anything, it’s that your dashboard is only as good as your database. I’ve found that structuring key calculations within the database layer (using views) is a lifesaver.
-
-For example, when dealing with unpaying accounts, the raw transaction tables are massive. By creating a database view to consolidate this into meaningful summaries before it even hits Power BI:
-
-- The **database** handles the heavy lifting and ensures the math is consistent.
-
-- **Power BI** focuses on the visibility and the "why" behind the numbers.
-
-## Creating a Single Source of Truth
-
-The biggest headache for any analyst is when different departments have different numbers for the same metric. I’ve seen it happen in hardware and I’ve seen it in corporate finance.
-
-Power BI solves this by acting as the central hub. When we’re all looking at the same dashboard, connected to the same structured data, the "data arguments" stop. Whether we are discussing the best-selling hammer at a hardware store or the risk profile of a ledger at Rentokil, we are all working from the same truth.
+Instead of a static report, we created a navigation tool that told the team exactly where the risk was and who needed to act. Through this journey from hardware shelves to financial ledgers, my philosophy shifted: I learned that Power BI is not where analysis starts, but where it becomes visible. The real work lies in the architecture and the integrity of the metrics. I have moved from building simple reports to building the decision systems that businesses rely on to move forward with total confidence.
 
 ## Final Thoughts
 
