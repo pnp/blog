@@ -92,10 +92,6 @@ Update of the newly published videos in our YouTube channel
 * [SharePoint Framework Toolkit 2025 wrap up](https://pnp.github.io/blog/post/spfx-toolkit-vscode-2025-wrap-up/) by [Saurabh Tripathi](https://github.com/Saurabh7019/)
 * [Weekly Agenda - 30th of March week](https://pnp.github.io/blog/weekly-agenda/26-03-30/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a5a68b1839a585e379e550ac8df65471bca1a1b
 ---
 
 ## Last community call recordings published last week
@@ -104,10 +100,6 @@ Here are the last week's community call recordings. You can download recurrent i
 
 * [Microsoft 365 & Power Platform weekly call – 31st of March, 2026](https://www.youtube.com/watch?v=3xTiT5XgorY)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1a5a68b1839a585e379e550ac8df65471bca1a1b
 ---
 
 ## Recognition
@@ -118,8 +110,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ---
 
-<<<<<<< HEAD
-=======
 ## Microsoft 365 Conference at Orlando in April 2026
 
 We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Orlando in April 2026. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
@@ -127,7 +117,6 @@ We would also love to see you in the [Microsoft 365 Conference](https://m365conf
 {{< youtube OfcuhSDv2ks >}}
 
 ---
->>>>>>> 1a5a68b1839a585e379e550ac8df65471bca1a1b
 
 ## Upcoming events
 
@@ -135,15 +124,10 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 * [Microsoft 365 Conference](https://m365conf.com/) - April 21-23 - Orlando, United States
 * [ECS 2026](https://ecs.events/) - May 5-7, 2026 - Cologne, Germany
-<<<<<<< HEAD
-* [TechCon - Chicago](https://techcon365.com/Chicago/) - June 15-19, 2026 - Chicago, United States
-* [European Power Platform Conference 2026](https://www.sharepointeurope.com/european-power-platform-conference/) - June 29 - July 2, 2026 - Copenhagen, Denmark
-=======
 * [Microsoft Build 2026](https://build.microsoft.com/en-US/home) - June 2-3, 2026 - San Francisco, United States
 * [TechCon - Chicago](https://techcon365.com/Chicago/) - June 15-19, 2026 - Chicago, United States
 * [European Power Platform Conference 2026](https://www.sharepointeurope.com/european-power-platform-conference/) - June 29 - July 2, 2026 - Copenhagen, Denmark
 * [Microsoft Ignite 2026](https://ignite.microsoft.com) - November 17-20, 2026 - San Francisco, United States
->>>>>>> 1a5a68b1839a585e379e550ac8df65471bca1a1b
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
@@ -186,8 +170,4 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Update Conference Prague 2026](https://www.communitydays.org/event/2026-11-12/update-conference-prague-2026), November 12, 2026 – Prague, Czechia
 * [M365 Community Days Montréal #4-2026 – Sans gouvernance, pas d'IA](https://www.communitydays.org/event/2027-01-27/m365-community-days-montral-4-2026-sans-gouvernance-pas-dia), January 27, 2027 – Montreal, QC, Canada
 
-<<<<<<< HEAD
 Sharing is caring! You are awesome! 🧡
-=======
-Sharing is caring! You are awesome! 🧡
->>>>>>> 1a5a68b1839a585e379e550ac8df65471bca1a1b
