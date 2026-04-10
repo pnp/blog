@@ -1,6 +1,6 @@
 ---
 title: "How I Built a No-Code Form Builder for SharePoint with SPFx"
-date: 2026-03-27
+date: 2026-04-10T08:00:00.000Z
 author: "Kevin Wolff"
 githubname: "wkwolff"
 categories: ["Community post"]
