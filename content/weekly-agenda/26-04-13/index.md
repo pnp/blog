@@ -1,12 +1,12 @@
 ---
-title: Weekly Agenda - 6th of April week
-date: 2026-04-02T08:00:00.000Z
+title: Weekly Agenda - 13th of April week
+date: 2026-04-10T08:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda14.png
+  - images/weeklyagenda15.png
 tags: []
 type: trending
 videos:
@@ -21,31 +21,46 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Microsoft 365 & Power Platform product updates - 7th of April
+### Microsoft 365 & Power Platform product updates - 14th of April
 
-* Monday, 7th of April 2026, 8:00 AM PT / 4:00 PM GMT
+* Monday, 14th of April 2026, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/m365-dev-call) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) – Connecting agents in Copilot Chat - Composing an agent ecosystem
-* [Zach Rosenfield](https://www.linkedin.com/in/zrosenfield/) (Microsoft) – Introduction to custom AI Skills in SharePoint
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Connect Declarative Agent to OAuth-Protected MCP Server
+* [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) – Testing and debugging your Copilot Chat declarative agent
+* [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) & [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) – Vibe coding meets SharePoint Embedded
+* [Ayça Baş](https://www.linkedin.com/in/aycabas/) (Microsoft) – Knowledge Bases with Azure AI Search in Custom Engine Agents
+
 
 ---
 
-### Microsoft 365 & Power Platform community call - 9th of April
+### Microsoft Power Platform community call - 15th of April
 
-* Wednesday, 9th of April, 7:00 AM PT / 3:00 PM GMT
-* Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
-* If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
+* Tuesday, 15th of April, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) or [join the call](https://aka.ms/powerplatformcommunitycall-join) we’d love to see you in the call!
+* If you can’t make it this time, you can watch the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Ejaz Hussain](https://www.linkedin.com/in/hussaine) (Advania UK) – How to trigger an authenticated Power Automate flow from a SharePoint document library
-* [Nello d'Andrea](https://www.linkedin.com/in/nello-d-andrea/) (die Mobiliar) – Making SPFx upgrades smooth and easy with Claude Code
-* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Warner Digital) – Copilot Studio Component Collections – Testing and Scalability Options
+* [Rafsan Huseynov](https://www.linkedin.com/in/rafsanhuseynov/) (SHI) – Azure AI Search with Autonomous Copilot Studio Agents
+* [Delia Zuniga](https://www.linkedin.com/in/deliazuniga/) (Huron) – AI for Change Managers: Automating Change Impact Insights with Copilot Studio
+* [Elliot Margot](https://www.linkedin.com/in/elliot-margot-52742a156/) (Witivio) – MCP + Copilot Studio: Let Any Agent Explore Power Platform Solutions via Chat
+
+---
+
+### Microsoft 365 & Power Platform community call - 16th of April
+
+* Wednesday, 16th of April, 7:00 AM PT / 3:00 PM GMT
+* Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we’d love to see you in the call!
+* If you can’t make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
+
+Demos this time:
+
+* [Federico Porceddu](https://www.linkedin.com/in/federico-porceddu/) (Avanade) – Smart Context Sample using Copilot Chat API
+* [Adam Wójcik](https://www.linkedin.com/in/adam-wojcik-9b7777a6/) (Hitachi Energy) – SPFx Toolkit Showcase - Use SPFx Toolkit features in any SharePoint Framework version
+* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) (Advania UK) – How to build a web part that explores Microsoft 365 Copilot APIs through Microsoft Graph with SPFx
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -53,30 +68,26 @@ Demos this time:
 
 ## New videos 
 
-Update of the newly published videos in our YouTube channel 
+
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [SPFx Powered Announcement Banner Extension](https://www.youtube.com/watch?v=39hWm_dQdLg) by [Nicolas Kheirallah](https://www.linkedin.com/in/nicolas-kheirallah/) (Exobe)
-* [Board and executive meeting management - Pervasent - SharePoint Partner Showcase](https://www.youtube.com/watch?v=TdD0KZ8D2xA) by [Nicklas Pernblad](https://www.linkedin.com/in/pernblad) (Pervasent)
-* [Power Automate Actions Browser Extension Updates](https://www.youtube.com/watch?v=vcJyoLQq0VE) by [Michał Kornet](https://www.linkedin.com/in/micha%C5%82-kornet-sharepoint-dev/) (Accelerator 365) 
-* [Join Ryan Cunningham at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=88bJZsYTczM)
-* [Multimodality - Building AI integrated SPFx web part](https://www.youtube.com/watch?v=elIYK81czh8&pp=0gcJCdkKAYcqIYzv) by [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda)
-* [Backup, restore and archive SharePoint data](https://www.youtube.com/watch?v=m99pMG86vss) by [Reetu Kamath](https://www.linkedin.com/in/reetukamath) (Microsoft) 
-* [Migrating data to SharePoint](https://www.youtube.com/watch?v=9X375JIhKQQ&pp=0gcJCdkKAYcqIYzv) by [Troy Starr](https://www.linkedin.com/in/troystarr) (Microsoft) 
-* [SharePoint Framework: Getting started with extending the UX](https://www.youtube.com/watch?v=kNFi4H84Uds) by [Vesa Juvonen](https://github.com/VesaJuvonen/) (Microsoft) 
-* [Building a Low-code AI Powered Email Assistant for Customer Support](https://www.youtube.com/watch?v=PCvuwXpTJ6M) by [Benny Ifeanyi Iheagwara](https://www.linkedin.com/in/ifeanyi-iheagwara/) (Moniepoint) and [Olumayowa (Mayowa) Oyaleke](https://www.linkedin.com/in/olumayowaoyaleke/) (ARM HoldCo)
+* [Extend PnP Modern Search solution with a custom layout to improve pages display](https://www.youtube.com/watch?v=1QWBHku0QGI) by Aimery Thomas (Avanade)​
+* [Using Microsoft 365 Copilot in Power Apps](https://www.youtube.com/watch?v=tu2ORJlo_gg) by [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft)
+* [Adam Harmetz invites you to the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=XMoEVuuX5tc)
+* [Introduction to Agent 365 SDK](https://www.youtube.com/watch?v=dOcIowhliJ4) by [MK Bajwa](https://www.linkedin.com/in/mk-bajwa/) (Microsoft)
+* [Join Ilya Bukshteyn at the Microsoft 365 Community Conference](https://www.youtube.com/watch?v=GDYOR8HJZM4)
+* [How to call Power Automate from the Ribbon in my Model Driven App](https://www.youtube.com/watch?v=ekKZDr1kWxE) by [Michael Nielsen](https://www.linkedin.com/in/ruprect/) (Abakion A/S)
+* [Testing the Copilot Retrieval and Search APIs with SPFx](https://www.youtube.com/watch?v=ggpPD55bt7s&pp=0gcJCdoKAYcqIYzv) by [Nello D'Andrea](https://www.linkedin.com/in/nellodandrea/) (die Mobiliar)
+* [Azure AI Model Router: When Dynamic Model Selection Actually Makes Sense](https://www.youtube.com/watch?v=cWFUSBOQZ0E&pp=0gcJCdoKAYcqIYzv) by [Ramin Ahmadi](https://www.linkedin.com/in/ahmadiramin/) (Advania UK)
+* [First Fridays April - AI for Communicators: What Copilot Adoption Actually Looks Like](https://www.youtube.com/watch?v=Z6ti9DJRPic)
+* [SharePoint Hackathon 2026 recap](https://www.youtube.com/watch?v=mcmuLXPZkYM)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Who’s Using Copilot Studio? | State Farm Accelerates Translation with AI](https://www.youtube.com/watch?v=bZ7hFm7mmQE)
-* [Building Dynamic Agents in Microsoft Copilot Studio using Tools and Instructions](https://www.youtube.com/watch?v=Nje8ReG1tso)
-* [Agent Governance in Microsoft 365 Admin Center](https://www.youtube.com/watch?v=EGeX-ElBpi8)
-* [Real world Agent Case Studies: Tienda Cuadra + Algoritmo IT and Templafy](https://www.youtube.com/watch?v=sLcjMjYmAkg)
-* [From Prompts to Python Code Interpreter in Microsoft Copilot Studio](https://www.youtube.com/watch?v=5NBgKvMfx_o)
-* [Sameer Bhangar | EP01 | The Next Big Bite](https://www.youtube.com/watch?v=qreiKO-Xpac)
-* [The Next Big Bite coming soon!](https://www.youtube.com/watch?v=O0XqkGtKRFg)
-* [Fix duplicate actions and SharePoint item limits in Power Automate | EP03 | Ask a Community Pro](https://www.youtube.com/watch?v=XaMMMyVAl-U)
+* [Microsoft Business Applications Update 2026 coming soon!](https://www.youtube.com/watch?v=RTBggeLf4Pk)
+* [NFP Scales Risk Management with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=H1jLIbLXZCs)
+* [FTRSA and the latest release of copilot studio kit](https://www.youtube.com/watch?v=V7e_sNQHPOY)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -88,9 +99,12 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
+* [How I Built a No-Code Form Builder for SharePoint with SPFx](https://pnp.github.io/blog/post/how-i-built-a-no-code-form-builder-for-sharepoint-with-spfx/) by [Kevin Wolff](https://github.com/wkwolff/)
+* [Power BI: From Hardware Aisles to Ledger Movements](https://pnp.github.io/blog/post/power-bi-from-hardware-aisles-to-ledger-movements/) by [Isaya Opiyo](https://github.com/Isayah-19/)
+* [SharePoint Framework Toolkit v4.18.0 minor release](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-4-18-release/) by [Adam Wójcik](https://github.com/Adam-it/)
+* [Weekly Agenda - 6th of April week](https://pnp.github.io/blog/weekly-agenda/26-04-06/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 * [CLI for Microsoft 365 v11.6](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-6/) by [Adam Wójcik](https://github.com/Adam-it/)
 * [SharePoint Framework Toolkit 2025 wrap up](https://pnp.github.io/blog/post/spfx-toolkit-vscode-2025-wrap-up/) by [Saurabh Tripathi](https://github.com/Saurabh7019/)
-* [Weekly Agenda - 30th of March week](https://pnp.github.io/blog/weekly-agenda/26-03-30/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
 
@@ -98,7 +112,10 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform weekly call – 31st of March, 2026](https://www.youtube.com/watch?v=3xTiT5XgorY)
+* [Microsoft 365 & Power Platform community call - 9th of April 2026](https://www.youtube.com/watch?v=t5OoRa71IhM)
+* [Microsoft 365 & Power Platform weekly call – 7th of April, 2026](https://www.youtube.com/watch?v=_ZMjGFwvz-w)
+* [Microsoft 365 & Power Platform community call - 2nd of April 2026](https://www.youtube.com/watch?v=fWN4VyzwKXs)
+
 
 ---
 
@@ -110,13 +127,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 
 ---
 
-## Microsoft 365 Conference at Orlando in April 2026
-
-We would also love to see you in the [Microsoft 365 Conference](https://m365conf.com/) at Orlando in April 2026. Don't miss out this great community gathering. We'll be there - hopefully you can make it as well.
-
-{{< youtube OfcuhSDv2ks >}}
-
----
 
 ## Upcoming events
 
@@ -124,17 +134,12 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 * [Microsoft 365 Conference](https://m365conf.com/) - April 21-23 - Orlando, United States
 * [ECS 2026](https://ecs.events/) - May 5-7, 2026 - Cologne, Germany
-* [Microsoft Build 2026](https://build.microsoft.com/en-US/home) - June 2-3, 2026 - San Francisco, United States
 * [TechCon - Chicago](https://techcon365.com/Chicago/) - June 15-19, 2026 - Chicago, United States
 * [European Power Platform Conference 2026](https://www.sharepointeurope.com/european-power-platform-conference/) - June 29 - July 2, 2026 - Copenhagen, Denmark
-* [Microsoft Ignite 2026](https://ignite.microsoft.com) - November 17-20, 2026 - San Francisco, United States
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [AI Maitri - Dubai 2026](https://www.communitydays.org/event/2026-04-09/ai-maitri-dubai-2026), April 9, 2026 – Dubai, United Arab Emirates
-* [ZTDays Tunis 2026](https://www.communitydays.org/event/2026-04-11/ztdays-tunis-2026), April 11, 2026 – Tunis, Tunisia
-* [AgentCon Hong Kong](https://www.communitydays.org/event/2026-04-11/agentcon-hong-kong), April 11, 2026 – Tsing Yi Island, New Territories, Hong Kong
 * [ColorCloud 2026](https://www.communitydays.org/event/2026-04-15/colorcloud-2026), April 15, 2026 – Hamburg, Germany
 * [Global Azure Tunisia 2026](https://www.communitydays.org/event/2026-04-18/global-azure-tunisia-2026), April 18, 2026 – Tunis , Tunis, Tunisia
 * [Microsoft 365 Community Conference](https://www.communitydays.org/event/2026-04-19/microsoft-365-community-conference), April 19, 2026 – Orlando, FL, United States
