@@ -69,7 +69,7 @@ Update of the newly published videos in our YouTube channel
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Who’s Using Copilot Studio? | State Farm Accelerates Translation with AI](https://www.youtube.com/watch?v=bZ7hFm7mmQE)
+* [Who's Using Copilot Studio? | State Farm Accelerates Translation with AI](https://www.youtube.com/watch?v=bZ7hFm7mmQE)
 * [Building Dynamic Agents in Microsoft Copilot Studio using Tools and Instructions](https://www.youtube.com/watch?v=Nje8ReG1tso)
 * [Agent Governance in Microsoft 365 Admin Center](https://www.youtube.com/watch?v=EGeX-ElBpi8)
 * [Real world Agent Case Studies: Tienda Cuadra + Algoritmo IT and Templafy](https://www.youtube.com/watch?v=sLcjMjYmAkg)
