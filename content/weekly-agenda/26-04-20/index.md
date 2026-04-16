@@ -29,7 +29,7 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (PiaSys) – Connected Declarative Agents for Microsoft 365 Copilot
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Connected Declarative Agents for Microsoft 365 Copilot
 * [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft) – Copilot Chat declarative agents - publishing, governance & real-world patterns
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) – Introduction to SPFx CLI for scaffolding your SPFx solutions
 
