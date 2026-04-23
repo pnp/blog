@@ -112,6 +112,6 @@ We have shared the query with the respective team. Please follow the GitHub issu
 - [Microsoft 365 Platform Community](https://aka.ms/community/home)
 - [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 - [Submit questions for next community call](https://aka.ms/officeaddinsform)
-- [Next community call – December 11th at 07:00am PT](https://aka.ms/officeaddinscommunitycall)
+- [Next community call – May 13th at 07:00am PT](https://aka.ms/officeaddinscommunitycall)
 
 {{< attachments >}}{{< /attachments >}}
