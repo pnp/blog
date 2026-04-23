@@ -6,7 +6,7 @@ author: "David Chesnut"
 githubname: davidchesnut
 categories: ["Office add in developer community call"]
 images:
-- images/office-add-ins-community-call.png
+- images/office-add-ins-community-call-2026-01-14.png
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
@@ -15,6 +15,8 @@ draft: true
 ---
 
 # Office Add-ins developer platform community call - April 2026
+
+{{< youtube EM_r3HlPkHM >}}
 
 ## This month's agenda and presenters
 
@@ -111,3 +113,5 @@ We have shared the query with the respective team. Please follow the GitHub issu
 - [Link to all Microsoft Developer Community calls](https://aka.ms/M365DevCalls)
 - [Submit questions for next community call](https://aka.ms/officeaddinsform)
 - [Next community call – December 11th at 07:00am PT](https://aka.ms/officeaddinscommunitycall)
+
+{{< attachments >}}{{< /attachments >}}
