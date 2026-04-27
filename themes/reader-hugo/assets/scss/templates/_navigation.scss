@@ -1,5 +1,5 @@
 .navigation {
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid var(--theme-border);
   background-color: $secondary-color;
   padding: 10px 0;
   &.nav-bg {

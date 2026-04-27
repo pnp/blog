@@ -1,4 +1,8 @@
 :root {
+  color-scheme: light dark;
+}
+
+:root {
   --theme-text: #171717;
   --theme-text-subtle: #505050;
   --theme-text-invert: #fff;
@@ -10,10 +14,10 @@
   --theme-overlay: rgba(0, 0, 0, 0.7);
   --theme-overlay-invert: #fff;
   --theme-body-background: #fff;
-  --theme-body-background-medium: #f2f2f2;
+  --theme-body-background-medium: #fff;
   --theme-alternate-background: #171717;
   --theme-alternate-background-medium: #2f2f2f;
-  --theme-border: #e6e6e6;
+  --theme-border: #c9c9c9;
   --theme-table-header: #e6e6e6;
   --theme-table-row: #f2f2f2;
   --theme-table-row-header: #fafafa;
@@ -113,7 +117,46 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    /* we'll add support for darkmode here */
+  :root {
+    color-scheme: dark;
+
+    --theme-body-background: #1e1e1e;
+    --theme-body-background-medium:#303030;
+    --theme-border: #5f5f5f;
+
+    /* Keep your existing values or adjust as desired */
+    --theme-text: #e6e6e6;
+    --theme-text-subtle: #d1d1d1;
+    --theme-text-invert: #000;
+
+    --theme-table-header: #1c2330;
+    --theme-table-row: #151b26;
+    --theme-table-row-header: #161d2a;
+    --theme-table-border-dark: #3a4558;
+
+    --theme-hyperlink: #4da3ff;
+
+    --theme-inline-code: #1b2230;
+    --theme-code-header: #1b2230;
+    --theme-code-block: #0f1520;
+
+    --theme-primary-background: rgba(0, 120, 212, 0.15);
+    --theme-secondary-background: rgba(255, 255, 255, 0.06);
+
+    --theme-success-background: rgba(16, 124, 16, 0.15);
+    --theme-info-background: rgba(134, 97, 197, 0.18);
+    --theme-warning-background: rgba(255, 185, 0, 0.2);
+    --theme-danger-background: rgba(168, 0, 0, 0.18);
+  }
+
+  body {
+    background: var(--theme-body-background);
+    color: var(--theme-text);
+  }
+
+  .chroma {
+    background-color: var(--theme-code-block);
+  }
 }
 
 a.navbar-brand {
@@ -123,7 +166,7 @@ a.navbar-brand {
 }
 
 .card {
-  border-radius: 2px;
+  border-radius: 5px;
   border-color: rgb(50, 49, 48);
 }
 
@@ -133,7 +176,7 @@ a.navbar-brand {
 }
 
 article {
-  background-color: #fff;
+  background-color: var(--theme-body-background-medium);
   box-shadow: 0 1.6px 3.6px 0 rgba(0, 0, 0, 0.132),
     0 0.3px 0.9px 0 rgba(0, 0, 0, 0.108);
   border-radius: 2px;
@@ -520,7 +563,7 @@ transition: opacity .1s linear;
 }
 
 .chroma {
-	background-color: #ffffff;
+	background-color: var(--theme-code-block);
 	.x {
 	}
 	.err {
