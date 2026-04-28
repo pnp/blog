@@ -34,11 +34,28 @@ And honestly: who has not stored a login password as a SecureString at least onc
 If I would not protect an admin account with “password only”, why would I accept
 the script equivalent?
 
+Here is an example you'll find all over the Internet, that will give you the bare
+minumum of password protection for user credentials. One of the main problems is
+that decryption must always take place within the context of the account that
+performed the encryption.
+
+```Powershell
+# Encrypt string
+$SecureString = "MySecret" | ConvertTo-SecureString -AsPlainText
+
+#Decrypt
+$NotSoSecure = $SecureString | ConvertFrom-SecureString -AsPlainText
+```
+As an alternative to this approach, the PnP PowerShell documentation includes an
+article that describes how to manage your passwords using
+[Credential Management](https://pnp.github.io/powershell/articles/credentialmanagement.html).
+This is definitely better than the script shown above, but it still has its drawbacks.
+
 ### Positioning App Secrets—Useful, but Context-Free
 
-An app registration separates humans from automation. Permissions
-become explicit. Shared Secret rotation becomes a defined process. In many tenants, that alone
-removes a lot of hidden risk. But even Microsoft recommends using certificates
+An app registration separates humans from automation. Shared Secret rotation
+becomes a defined process. In many tenants, that alone removes a lot of hidden risk. But
+[even Microsoft recommends using certificates](https://learn.microsoft.com/en-us/entra/identity-platform/security-best-practices-for-app-registration#credentials-including-certificates-and-secrets)
 instead of client secrets before moving an application to production.
 
 Still, a shared secret of an app registration is copyable. If it leaks through
@@ -187,6 +204,15 @@ the **smart card provider** routes key generation and signing operations to the
 external token. The private key stays on the YubiKey, and the certificate in the
 Windows store is effectively a handle to that key. In other words, the “possession”
 boundary moves from a specific device (TPM) to a removable object.
+
+Use the certificate in the Certificate Manager just like any other to sign in.
+Upload the public certificate to your app registration, and then use PnP.Powershell
+to connect to your tenant
+
+```Powershell
+Connect-PnPOnline -Url $SiteUrl -ClientId $ClientId -Tenant $TenantId -Thumbprint $ThumbprintId
+```
+
 
 The security outcome depends on where you anchor the key, who can trigger the script,
 and how you design permissions and audit.
