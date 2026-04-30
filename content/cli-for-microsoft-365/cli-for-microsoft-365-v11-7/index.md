@@ -10,7 +10,7 @@ images:
 tags:
   - CLI for Microsoft 365
   - SharePoint
-  - Microsoft Outlook
+  - Outlook
   - SPFx
   - Microsoft Teams
 type: popular
