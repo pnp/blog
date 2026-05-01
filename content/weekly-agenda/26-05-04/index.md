@@ -117,7 +117,6 @@ Here are the last week's community call recordings. You can download recurrent i
 * [People Skills and Workforce Insights Agent: Microsoft 365 Champion community call | April 2026](https://www.youtube.com/watch?v=oPljN-0D7j8)
 * [MGCI Community Call | April 2026](https://www.youtube.com/watch?v=eelLv-i18OA&pp=0gcJCd4KAYcqIYzv)
 * [Microsoft 365 & Power Platform weekly call – 28th of April, 2026](https://www.youtube.com/watch?v=GHI789JKL345)
-* [Microsoft 365 & Power Platform community call - 22nd of April 2026](https://www.youtube.com/watch?v=MNO012PQR678)
 
 
 ---
