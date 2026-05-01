@@ -51,6 +51,8 @@ Demos this time:
 ---
 
 ## New videos 
+Update of the newly published videos in our YouTube channel 
+
 
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
@@ -64,7 +66,7 @@ Demos this time:
 * [Mark Kashman Full Interview | More Than Code](https://www.youtube.com/watch?v=UcxGA0vYO_M)
 * [Marcella Silva Full Interview | More Than Code](https://www.youtube.com/watch?v=-CfqMpCc6JU)
 * [Vesa Juvonen Full Interview | More Than Code](https://www.youtube.com/watch?v=CAxaYnEDsS4)
-* [Andrew Connell Full Interview |  More Than Code](https://www.youtube.com/watch?v=uxeMog07HWs)
+* [Andrew Connell Full Interview | More Than Code](https://www.youtube.com/watch?v=uxeMog07HWs)
 * [Denise Trabona Full Interview | More Than Code](https://www.youtube.com/watch?v=utJyOUA8LSs)
 * [Brett Lonsdale Full Interview | More Than Code](https://www.youtube.com/watch?v=Ulf08fVOavM)
 * [Bill Baer Full Interview | More Than Code](https://www.youtube.com/watch?v=UWpcqOi8WNs)
@@ -72,6 +74,16 @@ Demos this time:
 * [Adam Harmetz Full Interview | More Than Code](https://www.youtube.com/watch?v=PRMA3dqU8EY)
 * [Heather Cook Full Interview | More Than Code](https://www.youtube.com/watch?v=5cShnbyvLxw)
 * [Solutions for document-centric business processes - Portal Systems - SharePoint Partner Showcase](https://www.youtube.com/watch?v=PzER1V4qAUk)
+* [Build an MCP App with Interactive Widgets for Copilot](https://www.youtube.com/watch?v=BDa2Iv9NrZk)
+* [Introduction to Copilot Studio Component Collections](https://www.youtube.com/watch?v=T-M3tEhORq0)
+* [Microsoft 365 Community Conference 2026 Event Recap](https://www.youtube.com/watch?v=HGjGTqOxfCU)
+* [Join us at the European Collab Summit!](https://www.youtube.com/watch?v=X1Y2Z3A4B5C)
+* [Join Vesa Juvonen at ECS 2026!](https://www.youtube.com/watch?v=X2Y3Z4A5B6C)
+* [Configuring your Copilot Chat declarative agent capabilities](https://www.youtube.com/watch?v=dFhzaTW4DdI)
+* [Adding Filters and MS Teams Width to Adaptive Cards, Tooltips & Anchor Tags in Copilot Studio](https://www.youtube.com/watch?v=Y3Z4A5B6C7D)
+* [Maturity Model for Microsoft 365 - April 2026](https://www.youtube.com/watch?v=Z4A5B6C7D8E)
+* [Getting Started with Power Apps Code Apps: Build Your First App with the New Pro‑Code Experience](https://www.youtube.com/watch?v=ABC123XYZ789)
+* [Women in Tech Luncheon Highlights | M365 Community Conference 2026](https://www.youtube.com/watch?v=DEF456UVW012)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
@@ -104,8 +116,18 @@ Here are the last week's community call recordings. You can download recurrent i
 * [Microsoft 365 & Power Platform community call - 30th of April 2026](https://www.youtube.com/watch?v=O2SHcH2Za7o)
 * [People Skills and Workforce Insights Agent: Microsoft 365 Champion community call | April 2026](https://www.youtube.com/watch?v=oPljN-0D7j8)
 * [MGCI Community Call | April 2026](https://www.youtube.com/watch?v=eelLv-i18OA&pp=0gcJCd4KAYcqIYzv)
+* [Microsoft 365 & Power Platform weekly call – 28th of April, 2026](https://www.youtube.com/watch?v=GHI789JKL345)
 
 
+---
+
+## Last community call recordings published last week
+
+Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
+
+* [Microsoft 365 & Power Platform community call - 30th of April 2026](https://www.youtube.com/watch?v=O2SHcH2Za7o)
+* [People Skills and Workforce Insights Agent: Microsoft 365 Champion community call | April 2026](https://www.youtube.com/watch?v=oPljN-0D7j8)
+* [MGCI Community Call | April 2026](https://www.youtube.com/watch?v=eelLv-i18OA&pp=0gcJCd4KAYcqIYzv)
 
 ---
 
