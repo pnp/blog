@@ -12,7 +12,7 @@ tags:
   - SharePoint
   - SPFx
   - Microsoft Teams
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.6 brings new commands spanning Outlook, SharePoint, and Viva Engage, along with meaningful enhancements to existing SharePoint commands. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release continues to expand coverage across the platform.
