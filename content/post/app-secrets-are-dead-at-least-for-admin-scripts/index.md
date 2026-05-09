@@ -1,6 +1,6 @@
 ---
 title: "App Secrets Are Dead—At Least for Admin Scripts"
-date: 2026-04-28T00:20:00-01:00
+date: 2026-05-08T00:20:00-01:00
 author: "Hagen Deike"
 githubname: samurai-ka
 categories: ["Community post"]
