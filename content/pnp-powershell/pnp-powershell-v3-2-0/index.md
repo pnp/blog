@@ -41,7 +41,7 @@ Through this partnership, we now have access to proper **code-signing infrastruc
 * Compliance with stricter execution policies (like `AllSigned`)
 * A sustainable path for future releases
 
-This also means that **PnP PowerShell is unblocked again**, and we can return to a more regular release cadence going forward.
+This also means that **PnP PowerShell is unblocked again**, and we can return to a more regular release cadence going forward. We are also now signing nightly builds, so if your organization previously blocked unsigned binaries, this should help.
 
 ## 🔍 What's new in 3.2.0 – Key highlights
 
@@ -67,41 +67,45 @@ These are just the top three highlights of the 3.2.0 release. You can find the f
 
 We are also excited to welcome **two new maintainers** to the PnP PowerShell project! 🎉
 
-### 🧑‍💻 Nishkalank Bezawada - [LinkedIn](https://www.linkedin.com/in/nishkalankbezawada)
+### 🧑‍💻 Nishkalank Bezawada
 
 Nish works as a Lead Developer and Microsoft 365 Solutions Architect with a deep passion for SharePoint and Microsoft 365. He has always felt that the community has given so much to developers like him, and now it's his time to give back by making meaningful contributions.
 
-### 🧑‍💻 Reshmee Auckloo - [LinkedIn](https://www.linkedin.com/in/reshmee-auckloo-98a23619)
+You can connect with him on [LinkedIn](https://www.linkedin.com/in/nishkalankbezawada) or [GitHub](https://github.com/NishkalankBezawada) here.
+
+### 🧑‍💻 Reshmee Auckloo
 
 Reshmee Auckloo is a Modern Workplace Consultant at Avanade, a Microsoft MVP, and an active contributor to the Microsoft 365 & Power Platform community. As a Core PnP Team Member, Reshmee is passionate about community-driven innovation and sharing knowledge through open source and technical advocacy.
 
-Their involvement strengthens the project and ensures we continue to grow, improve, and support the community effectively. We are thrilled to have them.
+You can connect with her on [LinkedIn](https://www.linkedin.com/in/reshmee-auckloo-98a23619) or [GitHub](https://github.com/reshmee011) here.
+
+Their involvement strengthens the project and ensures we continue to grow, improve, and support the community effectively. They have already helped us a lot with the issues list and features. We are thrilled to have them.
 
 ## 🙌 Contributors
 
 This release would not have been possible without the amazing contributions from the community members listed below (in random order) ❤️
 
-- James May [fowl2](https://github.com/fowl2)
-- Kinga [kkazala](https://github.com/kkazala)
-- Noel Tautges [NoelTautges](https://github.com/NoelTautges)
-- Nishkalank Bezawada [NishkalankBezawada](https://github.com/NishkalankBezawada)
-- Irving [irvcov](https://github.com/irvcov)
-- Koen Zomers [koenzomers](https://github.com/koenzomers)
-- Janne Holm [jhholm](https://github.com/jhholm)
-- Marc D Anderson [sympmarc](https://github.com/sympmarc)
+- [James May](https://github.com/fowl2)
+- [Kinga](https://github.com/kkazala)
+- [Noel Tautges](https://github.com/NoelTautges)
+- [Nishkalank Bezawada](https://github.com/NishkalankBezawada)
+- [Irving](https://github.com/irvcov)
+- [Koen Zomers](https://github.com/koenzomers)
+- [Janne Holm](https://github.com/jhholm)
+- [Marc D Anderson](https://github.com/sympmarc)
 - [abwlodar](https://github.com/abwlodar)
-- Reshmee Auckloo [reshmee011](https://github.com/reshmee011)
+- [Reshmee Auckloo](https://github.com/reshmee011)
 - [wuxiaojun514](https://github.com/wuxiaojun514)
 - [pajeffery](https://github.com/pajeffery)
-- Giacomo Pozzoni [jackpoz](https://github.com/jackpoz)
+- [Giacomo Pozzoni](https://github.com/jackpoz)
 - [sofbkeller](https://github.com/sofbkeller)
-- Ali Robertson [alirobe](https://github.com/alirobe)
-- Christian Veenhuis [ChVeen](https://github.com/ChVeen)
-- James Epp [jamesaepp](https://github.com/jamesaepp)
-- Sven Boll [svenboll](https://github.com/svenboll)
-- Joshua Henderson [JoshuaSHenderson](https://github.com/JoshuaSHenderson)
-- Siddharth Vaghasia [siddharth-vaghasia](https://github.com/siddharth-vaghasia)
-- David Schenk [davidschenkUPG](https://github.com/davidschenkUPG)
+- [Ali Robertson](https://github.com/alirobe)
+- [Christian Veenhuis](https://github.com/ChVeen)
+- [James Epp](https://github.com/jamesaepp)
+- [Sven Boll](https://github.com/svenboll)
+- [Joshua Henderson](https://github.com/JoshuaSHenderson)
+- [Siddharth Vaghasia](https://github.com/siddharth-vaghasia)
+- [David Schenk](https://github.com/davidschenkUPG)
 - [reusto](https://github.com/reusto)
 - [gaiking-uk](https://github.com/gaiking-uk)
 
@@ -112,7 +116,7 @@ We deeply appreciate every issue reported, PR submitted, and discussion started.
 You can install or update to the latest version using:
 
 ```powershell
-Install-Module PnP.PowerShell -Scope CurrentUser
+Install-Module PnP.PowerShell
 # or
 Update-Module PnP.PowerShell
 ```
@@ -129,8 +133,9 @@ We encourage you to:
 
 And most importantly:
 
-👉 **Report any issues or bugs you encounter**
-👉 **Share feedback and suggestions**
+* 👉 **Report any issues or bugs you encounter**
+* 👉 **Share feedback and suggestions**
+* 👉 **Raise feature requests**
 
 We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/powershell/issues). Your input directly shapes the future of this project.
 
@@ -141,6 +146,8 @@ With the release pipeline unblocked, we're excited to:
 * Return to **more frequent releases**
 * Continue improving performance and reliability
 * Add more capabilities based on your needs
+
+We will also help the PnP Framework and PnP Core projects publish newer versions in the coming days.
 
 ## Need more information?
 
