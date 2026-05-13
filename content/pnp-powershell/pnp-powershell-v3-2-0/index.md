@@ -1,7 +1,7 @@
 ---
 title: PnP PowerShell v3.2 released!
 summary: PnP PowerShell is a cross-platform PowerShell module providing 815 (and counting) cmdlets that work with Microsoft 365 environments and more specifically SharePoint Online, Microsoft Teams, Microsoft Planner, and Power Automate.
-date: 2026-05-13T09:53:00.000Z
+date: 2026-05-13T01:00:00.000Z
 author: Gautam Sheth
 githubname: gautamdsheth
 categories:
@@ -119,7 +119,7 @@ Update-Module PnP.PowerShell
 
 PnP PowerShell continues to be a **cross-platform module with 800+ cmdlets** supporting Microsoft 365 workloads, including SharePoint, Teams, and more.
 
-## 💬 Try it out and share feedback
+## 💬 Try it out, share feedback and stay connected
 
 We encourage you to:
 
@@ -132,7 +132,7 @@ And most importantly:
 👉 **Report any issues or bugs you encounter**
 👉 **Share feedback and suggestions**
 
-You can do so on GitHub — your input directly shapes the future of this project.
+We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/powershell/issues). Your input directly shapes the future of this project.
 
 ## 🚀 What's next
 
@@ -141,6 +141,10 @@ With the release pipeline unblocked, we're excited to:
 * Return to **more frequent releases**
 * Continue improving performance and reliability
 * Add more capabilities based on your needs
+
+## Need more information?
+
+For additional guidance on getting started or to explore detailed information about commands, architecture, or the project itself, visit [aka.ms/pnppowershell](https://aka.ms/pnppowershell).
 
 Thank you again for your patience, support, and contributions 🙏
 
