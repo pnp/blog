@@ -19,13 +19,13 @@ tags:
 type: trending
 ---
 
-# 🚀 PnP PowerShell 3.2.0 Released!
+## 🚀 PnP PowerShell 3.2.0 Released!
 
 After quite some time, we are excited to finally announce the release of **PnP PowerShell 3.2.0** 🎉
 
 First things first — **thank you for your patience**.
 
-It has been over a year since our last release, and we know many of you have been waiting for updates, fixes, and new capabilities. **We sincerely apologize for the delay**. The gap was not intentional — we ran into some **technical challenges around our signing process**, which blocked us from shipping a new release.
+It has been over a year since our last release, and we know many of you have been waiting for updates, fixes, and new capabilities. **We sincerely apologize for the delay**. The gap was not intentional. We ran into some **technical challenges around our signing process**, which blocked us from shipping a new release.
 
 The good news? Those challenges are now behind us.
 
@@ -35,7 +35,7 @@ One of the biggest milestones for this release is that **PnP PowerShell is now p
 
 This is a huge step forward for the project.
 
-Through this partnership, we now have access to proper **code-signing infrastructure**, which was one of the key blockers preventing releases. This ensures:
+Through this partnership, we now have access to proper **code-signing infrastructure**, which was the key blocker preventing us from shipping new releases. This ensures:
 
 * Secure and trusted distribution of the module
 * Compliance with stricter execution policies (like `AllSigned`)
@@ -43,13 +43,13 @@ Through this partnership, we now have access to proper **code-signing infrastruc
 
 This also means that **PnP PowerShell is unblocked again**, and we can return to a more regular release cadence going forward.
 
-## 🔍 What’s new in 3.2.0 – Key highlights
+## 🔍 What's new in 3.2.0 – Key highlights
 
 A lot has happened since the last release. While the full list is extensive, here are **three of the most impactful changes** in this version.
 
 ### ⚡ 1. Minimum PowerShell version
 
-We heard from Azure Automation users who were blocked from using PnP PowerShell 3.1.0 because it required PowerShell **7.4.6**. After revisiting that requirement and confirming the related security issue has been resolved, PnP PowerShell now supports PowerShell **7.4.0** and later. This does not change much for most users, but it unblocks Azure Automation scenarios.
+We heard from Azure Automation users who were blocked from using PnP PowerShell 3.1.0 because it required PowerShell **7.4.6**. After revisiting that requirement and confirming the related security issues have been resolved, PnP PowerShell now supports PowerShell **7.4.0** and later. This does not change much for most users, but it unblocks Azure Automation scenarios.
 
 ### 🛡️ 2. Federated Identity support
 
@@ -57,7 +57,7 @@ We are now pleased to announce support for federated identity using GitHub Actio
 
 ### 🤖 3. SSO in Linux/WSL
 
-As part of ongoing security improvements, we now support SSO login in Linux and WSL. When using `Connect-PnPOnline`, you can specify the `-OSLogin` parameter, which supports Conditional Access, FIDO keys, and other native OS authentication integrations.
+As part of ongoing security improvements, we now support SSO login in Linux and WSL. When using `Connect-PnPOnline`, you can specify the `-OSLogin` parameter, which supports Conditional Access, FIDO keys, and other native OS authentication integrations. This already worked on Windows. Please check the documentation before using it, as it requires some changes to your Entra ID app registration.
 
 ## Changelog
 
@@ -67,11 +67,11 @@ These are just the top three highlights of the 3.2.0 release. You can find the f
 
 We are also excited to welcome **two new maintainers** to the PnP PowerShell project! 🎉
 
-### 🧑‍💻 Nishkalank Bezawada
+### 🧑‍💻 Nishkalank Bezawada - [LinkedIn](https://www.linkedin.com/in/nishkalankbezawada)
 
 Nish works as a Lead Developer and Microsoft 365 Solutions Architect with a deep passion for SharePoint and Microsoft 365. He has always felt that the community has given so much to developers like him, and now it's his time to give back by making meaningful contributions.
 
-### 🧑‍💻 Reshmee Auckloo
+### 🧑‍💻 Reshmee Auckloo - [LinkedIn](https://www.linkedin.com/in/reshmee-auckloo-98a23619)
 
 Reshmee Auckloo is a Modern Workplace Consultant at Avanade, a Microsoft MVP, and an active contributor to the Microsoft 365 & Power Platform community. As a Core PnP Team Member, Reshmee is passionate about community-driven innovation and sharing knowledge through open source and technical advocacy.
 
@@ -99,7 +99,7 @@ This release would not have been possible without the amazing contributions from
 - Christian Veenhuis [ChVeen](https://github.com/ChVeen)
 - James Epp [jamesaepp](https://github.com/jamesaepp)
 - Sven Boll [svenboll](https://github.com/svenboll)
-- Joshua Hendersson [JoshuaSHenderson](https://github.com/JoshuaSHenderson)
+- Joshua Henderson [JoshuaSHenderson](https://github.com/JoshuaSHenderson)
 - Siddharth Vaghasia [siddharth-vaghasia](https://github.com/siddharth-vaghasia)
 - David Schenk [davidschenkUPG](https://github.com/davidschenkUPG)
 - [reusto](https://github.com/reusto)
@@ -134,13 +134,13 @@ And most importantly:
 
 You can do so on GitHub — your input directly shapes the future of this project.
 
-## 🚀 What’s next
+## 🚀 What's next
 
-With the release pipeline unblocked and strong community support, we’re excited to:
+With the release pipeline unblocked, we're excited to:
 
 * Return to **more frequent releases**
 * Continue improving performance and reliability
-* Add more capabilities aligned with the evolution of Microsoft 365
+* Add more capabilities based on your needs
 
 Thank you again for your patience, support, and contributions 🙏
 
