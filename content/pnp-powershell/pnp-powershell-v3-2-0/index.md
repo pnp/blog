@@ -41,7 +41,7 @@ Through this partnership, we now have access to proper **code-signing infrastruc
 * Compliance with stricter execution policies (like `AllSigned`)
 * A sustainable path for future releases
 
-This also means that **PnP PowerShell is unblocked again**, and we can return to a more regular release cadence going forward.
+This also means that **PnP PowerShell is unblocked again**, and we can return to a more regular release cadence going forward. We are also now signing nightly builds, so if your organization previously blocked unsigned binaries, this should help.
 
 ## 🔍 What's new in 3.2.0 – Key highlights
 
@@ -112,7 +112,7 @@ We deeply appreciate every issue reported, PR submitted, and discussion started.
 You can install or update to the latest version using:
 
 ```powershell
-Install-Module PnP.PowerShell -Scope CurrentUser
+Install-Module PnP.PowerShell
 # or
 Update-Module PnP.PowerShell
 ```
@@ -129,8 +129,9 @@ We encourage you to:
 
 And most importantly:
 
-👉 **Report any issues or bugs you encounter**
-👉 **Share feedback and suggestions**
+* 👉 **Report any issues or bugs you encounter**
+* 👉 **Share feedback and suggestions**
+* 👉 **Raise feature requests**
 
 We value your feedback and are eager to hear from you. If you have any suggestions for improvement or want to engage with our community, you can reach out to us on [GitHub](https://github.com/pnp/powershell/issues). Your input directly shapes the future of this project.
 
@@ -141,6 +142,8 @@ With the release pipeline unblocked, we're excited to:
 * Return to **more frequent releases**
 * Continue improving performance and reliability
 * Add more capabilities based on your needs
+
+We will also help the PnP Framework and PnP Core projects publish newer versions in the coming days.
 
 ## Need more information?
 
