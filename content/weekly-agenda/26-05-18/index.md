@@ -110,7 +110,6 @@ Update of the newly published videos in our YouTube channel
 ## New Microsoft 365 Developer Blog posts
 
 * [General Availability of SharePoint Framework 1.23 – Advancing the modern developer experience](https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-23-advancing-the-modern-developer-experience/)
-* [General Availability of SharePoint Framework 1.23 – Advancing the modern developer experience](https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-23-advancing-the-modern-developer-experience/)
 * [Announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool](https://devblogs.microsoft.com/microsoft365dev/announcing-the-public-preview-of-the-microsoft-365-copilot-agent-evaluations-tool/)
 * [Announcing general availability of the mailbox import and export Microsoft Graph APIs](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-the-mailbox-import-and-export-microsoft-graph-apis/)
 * [Python support for the Microsoft Teams SDK is now generally available](https://devblogs.microsoft.com/microsoft365dev/python-support-for-the-microsoft-teams-sdk-is-now-generally-available/)
@@ -129,7 +128,7 @@ Update of the newly published videos in our YouTube channel
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
 * [Microsoft 365 & Power Platform community call - 14th of May 2026](https://www.youtube.com/watch?v=VhFo6OsF160)
-* [Microsoft 365 & Power Platform weekly call – 5th of May, 2026](https://www.youtube.com/watch?v=TtZCh8p83Ws)
+* [Microsoft 365 & Power Platform weekly call – 12th of May, 2026](https://www.youtube.com/watch?v=TtZCh8p83Ws)
 
 ---
 
