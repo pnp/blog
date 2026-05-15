@@ -70,55 +70,57 @@ Demos this time:
 ## New videos 
 Update of the newly published videos in our YouTube channel 
 
-Update of the newly published videos in our YouTube channel 
-
-
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Creating a Message Center Agent for Microsoft Admin Center messages and M365 Roadmap information](https://www.youtube.com/watch?v=p548a3B4HKQ) by [Mike Francis](https://www.linkedin.com/in/mikejfrancis/) (Microsoft)
-* [Building a Delivery Platform for the Microsoft Power Platform](https://www.youtube.com/watch?v=Wi36-3WoaIQ)
-* [Keynote - From Momentum to Movement: Where Community Goes Next | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=YThS4u1IO6c&pp=0gcJCQMLAYcqIYzv)
-* [Keynote - Business Apps and Agents | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=7rorYlKFSuQ&pp=0gcJCQMLAYcqIYzv)
-* [Keynote - Securing AI: Building Trust in the Era of AI | Microsoft 365 Community Conference 1 hour,](https://www.youtube.com/watch?v=XCAWFmLKLcA)
-* [Keynote - The Future of Work | Microsoft 365 Community Conference](https://www.youtube.com/watch?v=XL3l0oer7wY)
-* [Keynote - Building for the Future: Microsoft 365, Agents, & AI | Microsoft 365 Community Conference 1 hour,](https://www.youtube.com/watch?v=X-iKAql13D4)
-* [Ed Averett Full Interview | More Than Code](https://www.youtube.com/watch?v=uPo73dOURx0)
-* [What's new in OneDrive photos | Sync Up](https://www.youtube.com/watch?v=0vJQWPoEO0M&pp=0gcJCQMLAYcqIYzv)
-* [SPFx Client-Side Provisioning with Composable Actions](https://www.youtube.com/watch?v=Ljvfh9qH5EQ)
-* [Run of Show | MGCI Event Production Training & Office Hours | April 2026](https://www.youtube.com/watch?v=YuIAtj-bCmc)
-* [Jon Fan Full Interview | More Than Code](https://www.youtube.com/watch?v=aczJldl15Zk)
-* [Susan Lennon Full Interview | More Than Code](https://www.youtube.com/watch?v=ScP2Hj0OfXA)
-* [Eric Harlan Full Interview | More Than Code](https://www.youtube.com/watch?v=UOTjX87aitA)
-* [Markdown in OneDrive and SharePoint | OneDrive Office Hours: April 2026](https://www.youtube.com/watch?v=kvbx_kSJGJg)
-* [Consuming an MCP server with OAuth 2.0 in Copilot Studio](https://www.youtube.com/watch?v=rRBfLBLS4eE) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft)
-* [Jeff Teper Full Interview | More Than Code](https://www.youtube.com/watch?v=2wReC0f2kX0)
-* [Justin Slagle Full Interview | More Than Code](https://www.youtube.com/watch?v=KGsuyLwxaxo)
-* [Derek Cash Peterson Full Interview | More Than Code](https://www.youtube.com/watch?v=2ORnE0DaLG4)
-* [Karuana Gatimu Full Interview | More Than Code](https://www.youtube.com/watch?v=V-HrPMpHLHI)
-* [Auto Language Detection & Dynamic Multilingual Responses in Copilot Studio](https://www.youtube.com/watch?v=LLZp9GN2qOc)
-* [Sam Crewdson and David Johnson Full Interview | More Than Code](https://www.youtube.com/watch?v=lVB6aRGqJOs)
-* [Dux Raymond Sy Full Interview | More Than Code](https://www.youtube.com/watch?v=H42kPNoPfb4)
-* [Dona Sarkar Full Interview | More Than Code](https://www.youtube.com/watch?v=ZdaK-qIxJXA)
+* [Implement Maintenance Jobs for SharePoint Online with Azure Container App Jobs](https://www.youtube.com/watch?v=RGOZbHkSlZc)
+* [Data Security & AI Adoption: A Leader’s Perspective (Customer Spotlight)](https://www.youtube.com/watch?v=KyGEnlL0mBM)
+* [Leadership, AI & the Future of Innovation (Fireside Chat)](https://www.youtube.com/watch?v=BLuv-b8PNPs)
+* [Configuring your Copilot Chat declarative agent capabilities](https://www.youtube.com/watch?v=4P99wI17drs&pp=0gcJCQQLAYcqIYzv) by [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) (Microsoft)
+* [NASA Case Study: Scaling Innovation with Power Platform](https://www.youtube.com/watch?v=G_4tjfUNWE0)
+* [British Airways on Copilot Adoption & Culture Change (Customer Spotlight)](https://www.youtube.com/watch?v=dHTt1FV8mbc)
+* [Proven intranet framework - Involv Intranet - SharePoint Partner Showcase](https://www.youtube.com/watch?v=OEnEd_N7hmw) by [object Object]
+* [Building AI-Powered SPFx Apps with Copilot Chat API](https://www.youtube.com/watch?v=-zeaI_A4acs)
+* [I automated my Prompt of the Week slide with one skill — Cowork is wild](https://www.youtube.com/watch?v=jd1_xuVNAcM) by [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/)
+* [Built-in Guardrails for Copilot: Data Security in Action](https://www.youtube.com/watch?v=bL8w-TJAs18)
+* [Protecting AI Agents with Microsoft Purview](https://www.youtube.com/watch?v=n8C8IewpXXw)
+* [AI Security & Admin Innovation in Microsoft 365](https://www.youtube.com/watch?v=3AdYH7YsPVU)
+* [Building Apps with AI: Agents + Power Platform in Action](https://www.youtube.com/watch?v=e8dhUsNNqrE)
+* [Agent 365: Governing AI Agents at Enterprise Scale](https://www.youtube.com/watch?v=xV4JsHcysDE)
+* [Copilot Cowork: Let AI Run Your Workflows End‑to‑End](https://www.youtube.com/watch?v=vc_OMI1dJM0)
+* [Copilot App Deep Dive: Intelligence, Context & Agents](https://www.youtube.com/watch?v=pcRbb-Hb8v0)
+* [Meeting Agent & Channel Agent: Turning Meetings into Action](https://www.youtube.com/watch?v=cgE0hT-Ei4Y)
+* [SharePoint + AI: From Content Management to Intelligent Teammate](https://www.youtube.com/watch?v=lolGt5Ws8sQ)
+* [Copilot Studio Plugin for Claude Code and GitHub Copilot](https://www.youtube.com/watch?v=LJFqZyyg3vg) by [Giorgio Ughini](https://www.linkedin.com/in/giorgio-ughini/) and [Eric Scherlinger](https://www.linkedin.com/in/ericsche/)
+* [Build and Run Your First Custom Engine Agent with Agent Framework](https://www.youtube.com/watch?v=5G0aPXP-RA4) by [Ayca Bas](https://www.linkedin.com/in/aycabas/) (Microsoft)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Agent Academy LIVE coming soon! 42 seconds](https://www.youtube.com/watch?v=wh0YL_Ltzhs)
-* [Using MCS agent flow natural language in Copilot Studio | Getting Started with Power Platform Shorts](https://www.youtube.com/watch?v=jPzTMOQOgE0)
-* [Business skills teach agents how your organization works](https://www.youtube.com/watch?v=HErVM-y9pLA)
+* [Dataverse in Microsoft 365 Copilot](https://www.youtube.com/watch?v=_gdmXhqPQ5c)
+* [Dataverse plugin for coding agents](https://www.youtube.com/watch?v=ya-MOAL08bY&pp=0gcJCQQLAYcqIYzv)
+* [Add an agent node to an agent flow | Power Platform Shorts](https://www.youtube.com/watch?v=EQi9LItZZK4)
+* [Agent Academy Live TODAY at 8.30am PT! 38 seconds](https://www.youtube.com/watch?v=ugFkR15gI0E)
+* [Dataverse Governance for AI-Powered Organizations](https://www.youtube.com/watch?v=7XPnhgnH7D8)
+* [Prompt Columns: Persisted AI Insights in Business Data](https://www.youtube.com/watch?v=YwPWYoGsBhY)
+* [500,000 Agents. One Registry.](https://www.youtube.com/watch?v=9zE1M0wuTPg&pp=0gcJCQQLAYcqIYzv)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [Dataverse and the agentic shift](https://www.youtube.com/watch?v=7FPTmv_qzZc&pp=0gcJCQMLAYcqIYzv)
+* no new videos this week
 
 ## New Microsoft 365 Developer Blog posts
 
-* no new blog posts this week
+* [General Availability of SharePoint Framework 1.23 – Advancing the modern developer experience](https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-23-advancing-the-modern-developer-experience/)
+* [General Availability of SharePoint Framework 1.23 – Advancing the modern developer experience](https://devblogs.microsoft.com/microsoft365dev/general-availability-of-sharepoint-framework-1-23-advancing-the-modern-developer-experience/)
+* [Announcing the public preview of the Microsoft 365 Copilot Agent Evaluations tool](https://devblogs.microsoft.com/microsoft365dev/announcing-the-public-preview-of-the-microsoft-365-copilot-agent-evaluations-tool/)
+* [Announcing general availability of the mailbox import and export Microsoft Graph APIs](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-the-mailbox-import-and-export-microsoft-graph-apis/)
+* [Python support for the Microsoft Teams SDK is now generally available](https://devblogs.microsoft.com/microsoft365dev/python-support-for-the-microsoft-teams-sdk-is-now-generally-available/)
+* [Sponsor group type requirements for agent identities](https://devblogs.microsoft.com/microsoft365dev/sponsor-group-type-requirements-for-agent-identities/)
+* [From prompt to production: Teams agent setup, simplified](https://devblogs.microsoft.com/microsoft365dev/from-prompt-to-production-teams-agent-setup-simplified/)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [App Secrets Are Dead—At Least for Admin Scripts](https://pnp.github.io/blog/post/app-secrets-are-dead-at-least-for-admin-scripts/) by [Hagen Deike](https://github.com/samurai-ka/)
-* [Weekly Agenda - 4th of May week](https://pnp.github.io/blog/weekly-agenda/26-05-04/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
-* [CLI for Microsoft 365 v11.7](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-7/) by [Milan Holemans](https://github.com/milanholemans/)
+* [PnP PowerShell v3.2 released!](https://pnp.github.io/blog/pnp-powershell/pnp-powershell-v3-2-0/) by [Gautam Sheth](https://github.com/gautamdsheth/)
+* [Weekly Agenda - 11th of May week](https://pnp.github.io/blog/weekly-agenda/26-05-11/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
 
@@ -126,8 +128,8 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Microsoft 365 & Power Platform community call - 7th of May 2026](https://www.youtube.com/watch?v=09ZrdDjztHI)
-* [Microsoft 365 & Power Platform weekly call – 5th of May, 2026](https://www.youtube.com/watch?v=vwmb_2UIe1M)
+* [Microsoft 365 & Power Platform community call - 14th of May 2026](https://www.youtube.com/watch?v=VhFo6OsF160)
+* [Microsoft 365 & Power Platform weekly call – 5th of May, 2026](https://www.youtube.com/watch?v=TtZCh8p83Ws)
 
 ---
 
@@ -150,10 +152,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [AICD TUNIS](https://communitydays.org/event/2026-05-09/aicd-tunis), May 9, 2026 – Tunis, Tunisia
-* [DynamicsCon 2026](https://communitydays.org/event/2026-05-12/dynamicscon-2026), May 13, 2026 – Las Vegas, NV, United States
-* [M365 Community Days DC 2026](https://communitydays.org/event/2026-05-14/m365-community-days-dc-2026), May 14, 2026 – Arlington, VA, United States
-* [MN M365 16TH BI-ANNUAL SPRING WORKSHOP DAY](https://communitydays.org/event/2026-05-15/mn-m365-16th-bi-annual-spring-workshop-day), May 15, 2026 – Edina, MN, United States
+
 * [Microsoft Azure Infra Summit 2026](https://communitydays.org/event/2026-05-19/microsoft-azure-infra-summit-2026), May 19, 2026 – United States
 * [EMEA | SWOOP Analytics SharePoint Intranet Festival 2026](https://communitydays.org/event/2026-05-20/emea-or-swoop-analytics-sharepoint-intranet-festival-2026), May 20, 2026 – Bayview, New South Wales, United Kingdom
 * [AMER | SWOOP Analytics SharePoint Intranet Festival 2026](https://communitydays.org/event/2026-05-20/amer-or-swoop-analytics-sharepoint-intranet-festival-2026), May 20, 2026 – United States
