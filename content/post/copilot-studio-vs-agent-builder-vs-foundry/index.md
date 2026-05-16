@@ -1,81 +1,114 @@
 ---
-title: "Copilot Studio vs Agent Builder vs Azure AI Foundry: Picking the Right Tool"
+title: "Agent Builder, Copilot Studio, or Azure AI Foundry: How We Decide for Every Client"
 date: 2026-05-19T08:00:00-00:00
 author: "Elliot Margot"
 githubname: emargot
 categories: ["Community post"]
 images:
   - images/three-tools.png
-tags: ["Microsoft Copilot", "Copilot Studio", "Azure AI Foundry", "Power Platform"]
+tags: ["Microsoft Copilot", "Copilot Studio", "Azure AI Foundry", "Power Platform", "Microsoft 365"]
 type: "regular"
 draft: false
 ---
 
-Every time I walk into a discovery session, someone asks the same question: "We want to build an agent - but which tool do we use?" And every time, the answer is the same: it depends on three things - your skill level, your deployment target, and how much control you actually need.
+Every discovery session I run for enterprise clients hits the same wall: someone has been told that Microsoft now has "three ways to build agents," and they want to know which one to pick. The answer is never the most powerful tool. It is always the tool that fits the project's actual constraints.
 
-Microsoft now ships three distinct tools for building agents and automations in the Copilot ecosystem. They are not competing products. They are a deliberate progression, each optimised for a different builder profile and use case. Once you see the pattern, the decision becomes straightforward.
+This post is the framework we use at Witivio to answer that question on every engagement - structured around four evaluation dimensions, with the exact specs you need to make the call.
+
+## The Four Questions That Drive the Decision
+
+Before touching any tool, we work through four dimensions:
+
+**1. Builder profile** - Who is building and owning this agent? A business analyst, a Power Platform maker, or a professional developer? The builder profile alone eliminates at least one option immediately.
+
+**2. User surface** - Where do end users interact with the agent? Inside Microsoft 365 Copilot Chat, in a Teams tab, on a public website, or embedded in a custom application? Distribution constraints are often the deciding factor.
+
+**3. Logic complexity** - Does the agent need branching conditions, approval flows, external API calls, scheduled execution, or custom ML inference? The answer maps almost perfectly to tool tier.
+
+**4. Post-go-live ownership** - Who answers the 2am support call when this breaks? If it is the business team, they need a tool they can maintain. If it is IT or a dev team, you have more options.
+
+With those four answers in hand, the tool choice becomes obvious.
 
 ## The Three Tools
 
+![Decision matrix: Agent Builder vs Copilot Studio vs Azure AI Foundry](https://res.cloudinary.com/dapoc7ekn/image/upload/v1778931857/blog/pnp/three-tools-diagram.svg)
+
 ### Agent Builder - No-Code, Inside Copilot Chat
 
-Agent Builder lives directly inside Microsoft 365 Copilot Chat. You access it from the sidebar, describe what you want your agent to do, connect it to sources like SharePoint or Graph, and you are done. No portal, no environment, no ALM pipeline.
+**Access:** Microsoft 365 Copilot Chat sidebar ("Create an agent")
+**License required:** Microsoft 365 Copilot
+**Output:** Declarative agent (JSON-based, no backend compute)
 
-It is designed for the personal productivity layer. Think: a sales rep who wants an agent that knows their account data, or a project manager who wants quick answers from a team SharePoint site. Triggers are on-demand - a user asks a question and the agent responds. There is no scheduling, no branching logic, no approval flows.
+Agent Builder is the fastest path to an agent in the M365 ecosystem. You describe what the agent does, connect it to SharePoint sites or public URLs as knowledge sources, and you are done in under an hour. No portal, no environment, no pipeline.
 
-**Best for:** Personal automations, team-level Q&A agents, quick experiments with no IT overhead.
+The key constraint is its ceiling. Agent Builder creates declarative agents - they ground answers in the sources you provide and respond on demand, but they cannot run logic, call external APIs, schedule execution, or integrate with anything outside of what Graph and SharePoint expose. There is also no ALM: no versioning, no governance policies, no environments.
 
-**Ceiling:** You will hit the limits fast if you need conditions, external APIs, scheduled runs, or anything that needs to be maintained as an enterprise solution.
+This is not a limitation to apologise for. It is by design. Agent Builder is for bounded, business-owned use cases where the value is speed and the owner is the team using it.
+
+**Typical fit:** A sales team wants an agent that knows their product catalogue and pricing FAQ. A project manager wants a quick assistant over a SharePoint site. An IT team wants to prototype before committing to a full build.
+
+**Common failure mode:** Choosing Agent Builder for a use case that requires conditions, external data, or any post-go-live IT support. The agent works in demo, then immediately hits a wall in production.
 
 ### Copilot Studio - Low-Code, Enterprise Workflows
 
-Copilot Studio (copilotstudio.microsoft.com) is where the serious work happens for most organisations. It is a low-code platform that gives you topics, conditions, variables, and Actions - all built on Power Platform. You can trigger agents on a schedule, connect to hundreds of connectors, publish to Teams or a website, and version-control your solution.
+**Access:** [copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
+**License required:** Copilot Studio standalone or Power Platform premium
+**Output:** Managed bot/agent solution (Power Platform solution artifact)
 
-This is the right tool for cross-functional workflows: HR onboarding agents, IT helpdesk bots, customer support experiences, internal knowledge assistants. It handles branching logic, escalation paths, authentication, and enterprise governance through managed environments and pipelines.
+Copilot Studio is our default recommendation for enterprise agents. It gives you the full low-code toolkit: topics with branching logic, conditions, variables, Power Automate actions, and access to 1,000+ connectors. You can publish to Teams, a website, or as a Copilot extensibility plugin. Managed environments and solution pipelines give you proper ALM, data loss prevention policies, and governance at scale.
 
-**Best for:** Enterprise chatbots and agents, Teams-first deployments, IT/HR/support automation, anything that needs versioning, testing, and ALM.
+The platform has matured significantly. Generative AI orchestration, knowledge sources, authentication flows, and adaptive cards are all first-class citizens now. For the vast majority of enterprise use cases - HR onboarding, IT helpdesk, customer support, internal knowledge assistants - Copilot Studio delivers without requiring a single line of code beyond the occasional Power Fx expression.
 
-**Ceiling:** If your use case requires custom code, advanced ML inference, or data pipelines that go beyond what connectors can handle, Copilot Studio will start to feel constrained.
+**Typical fit:** An HR team needs an onboarding agent that pulls from Workday, sends Teams messages, and triggers approval flows. An IT team needs a helpdesk bot with ticket routing. A customer-facing support agent needs to authenticate users and access CRM data.
+
+**Common failure mode:** Underestimating what Copilot Studio can do and escalating to Foundry prematurely. We see this regularly. Teams assume that "complex enough to need an API call" means they need a developer. It does not. If the connector exists or can be built as a custom connector, Copilot Studio handles it.
 
 ### Azure AI Foundry - Full-Code, Full Control
 
-Azure AI Foundry (ai.azure.com) is the developer platform. It targets engineers and data scientists who need to build custom AI solutions: orchestrated multi-agent systems, RAG pipelines over proprietary data, fine-tuned models, or AI features embedded directly in applications via API.
+**Access:** [ai.azure.com](https://ai.azure.com)
+**License required:** Azure subscription (pay-as-you-go for Azure OpenAI, AI Search, etc.)
+**Output:** AI application, Python-based agent, or deployed API endpoint
 
-You write Python, use Prompt Flow or the Azure AI SDK, integrate with Azure services, and deploy to Azure-managed infrastructure. It is not a drag-and-drop experience - it is a development environment. The payoff is complete control over models, grounding, evaluation, and deployment.
+Azure AI Foundry is the platform for professional developers building custom AI solutions. You write Python, use Prompt Flow or the Azure AI SDK, wire up Azure OpenAI and Azure AI Search, and deploy to Azure-managed infrastructure. You have complete control over models, grounding strategy, evaluation pipelines, and deployment targets. Multi-agent orchestration, fine-tuned models, RAG pipelines over proprietary data, AI features embedded in custom applications via API - all of this lives here.
 
-**Best for:** Custom model integrations, enterprise RAG solutions, data pipelines, AI features in custom applications, research and experimentation at scale.
+The investment is proportional to the control. Foundry projects require engineering support, longer timelines, and ongoing maintenance by developers. The post-go-live owner is always a tech team.
 
-**Ceiling:** This tool has no ceiling by design. The investment is developer time and Azure infrastructure.
+**Typical fit:** A consulting firm builds a document analysis tool that processes PDFs, extracts structured data, and feeds a proprietary scoring model. A product team embeds an AI assistant in a customer-facing web app. An enterprise needs a multi-agent pipeline that orchestrates across three backend systems with custom evaluation logic.
 
-## The Decision Table
+**Common failure mode:** Reaching for Foundry when Copilot Studio would have been sufficient. Premature Foundry adoption is the most expensive mistake we see - it adds months of development time and creates a maintenance burden that business teams cannot carry.
+
+## The Full Comparison
 
 | Dimension | Agent Builder | Copilot Studio | Azure AI Foundry |
 |---|---|---|---|
 | Skill required | No-code | Low-code | Full-code (Python) |
+| License | M365 Copilot | Copilot Studio / PP | Azure subscription |
+| Output | Declarative agent | Managed bot/solution | AI app / API |
 | Trigger | On-demand | Event, schedule, manual | Code-driven |
-| Deployment | Copilot Chat | Teams, web, Copilot | API, Azure, apps |
-| ALM support | None | Yes (pipelines, envs) | Yes (DevOps, CI/CD) |
-| IT governance | Low | High | High |
-| Time to first value | Minutes | Hours to days | Days to weeks |
+| Data sources | SharePoint, Graph, URLs | 1,000+ connectors, Dataverse | Azure AI Search, any API |
+| External code/APIs | None | Power Automate, HTTP, custom | Python, Prompt Flow, SDK |
+| Scheduling | None | Yes | Yes (Azure Functions) |
+| ALM / governance | None | Managed envs + DLP | DevOps, CI/CD |
+| Time to first value | Hours | Days to weeks | Weeks to months |
 
-## How to Choose in Practice
+## Where People Get It Wrong
 
-Ask three questions:
+Three failure patterns come up in almost every audit:
 
-**1. Who is building this?** A business user with no coding background reaches for Agent Builder. A Power Platform maker or consultant reaches for Copilot Studio. A developer or data engineer reaches for Foundry.
+**Premature Foundry adoption.** A team hears "AI agent" and assumes they need a developer. They budget for Foundry, spend three months building, and end up with something Copilot Studio could have delivered in two weeks. Always ask: does this actually need custom code?
 
-**2. Where does it need to live?** If the answer is "inside Teams for 500 employees with SSO and an approval flow," that is Copilot Studio. If it is "in our customer portal via API," that is Foundry. If it is "just for my team in Copilot Chat," Agent Builder is enough.
+**Underestimating Agent Builder's ceiling.** Teams prototype in Agent Builder, users love it, then requirements grow. "Can we add an approval step?" No. "Can we call our CRM?" No. The transition to Copilot Studio mid-project is painful. If the requirements might grow beyond Q&A, start in Copilot Studio.
 
-**3. What happens when the requirements grow?** Agent Builder does not scale to enterprise. Copilot Studio scales well within the Power Platform model. Foundry scales to anything. Build for where you are going, not just where you are today.
+**Ignoring the M365 Copilot distribution channel.** Agent Builder agents are natively available to every M365 Copilot user with zero deployment effort. For internal agents with simple requirements and a licensed user base, this distribution advantage often outweighs the feature ceiling.
 
 ## The Pattern They Share
 
-All three tools connect to the same underlying ecosystem: Microsoft 365, Graph, Dataverse, and Azure. You are not choosing between disconnected products. You are choosing your entry point into the same platform.
+All three tools connect to the same underlying ecosystem: Microsoft 365, Microsoft Graph, Dataverse, Azure OpenAI, and Azure AI Services. You are not choosing between disconnected products. You are choosing your entry point into the same platform.
 
-In practice, mature organisations end up using all three. Agent Builder for personal productivity. Copilot Studio for cross-functional enterprise agents. Foundry for the custom AI layer that feeds both. The tools are meant to coexist, not compete.
+In practice, mature organisations end up using all three. Agent Builder for personal productivity and quick wins. Copilot Studio as the enterprise standard for cross-functional agents. Foundry for the custom AI layer where standard connectors fall short.
 
-The question is never "which tool is best." It is "which tool is right for this problem, this team, and this moment."
+The question is never which tool is best. It is which tool fits this project, this team, and this moment - and gets the agent into users' hands before the requirements change again.
 
 ---
 
-*Elliot Margot is a Microsoft AI Specialist and Copilot Studio architect at Witivio, a Microsoft Partner. He works on enterprise Copilot deployments and Power Platform solutions across the EMEA region.*
+*Elliot Margot is Team Lead Jumpstart - Copilot and Agents at Witivio, a Microsoft Partner specialising in Copilot Studio and Power Platform deployments across EMEA. He works on enterprise agent architecture and was featured in a Microsoft Customer Story for the BuyerCompanion RFP Agent.*

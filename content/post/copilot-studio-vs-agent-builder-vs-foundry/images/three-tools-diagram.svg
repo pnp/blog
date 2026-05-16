@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 610" width="1080" height="610">
+<defs>
+
+<!-- AGENT BUILDER gradients (ab_*) -->
+<linearGradient id="ab_p0" x1="62" y1="5.5" x2="87" y2="64.5" gradientUnits="userSpaceOnUse"><stop stop-color="#1B44B1"/><stop offset="1" stop-color="#2764E7"/></linearGradient>
+<radialGradient id="ab_p1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80.5 71) rotate(-92.0166) scale(71.0441 31.9304)"><stop offset="0.539446" stop-color="#2052CB" stop-opacity="0"/><stop offset="1" stop-color="#163697"/></radialGradient>
+<linearGradient id="ab_p2" x1="96.6015" y1="96" x2="96.7128" y2="56.0003" gradientUnits="userSpaceOnUse"><stop stop-color="#367AF2"/><stop offset="1" stop-color="#BABAFF"/></linearGradient>
+<radialGradient id="ab_p3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(71 93.7778) rotate(-74.268) scale(40.9795 35.3954)"><stop offset="0.513697" stop-color="#BABAFF" stop-opacity="0"/><stop offset="1" stop-color="#FECBE6"/></radialGradient>
+<linearGradient id="ab_p4" x1="57" y1="0" x2="57" y2="96" gradientUnits="userSpaceOnUse"><stop stop-color="#BABAFF"/><stop offset="0.513233" stop-color="#4894FE"/><stop offset="1" stop-color="#2764E7"/></linearGradient>
+<linearGradient id="ab_p5" x1="51" y1="33.5" x2="51" y2="-2.21398e-06" gradientUnits="userSpaceOnUse"><stop stop-color="#BABAFF" stop-opacity="0"/><stop offset="1" stop-color="#FECBE6"/></linearGradient>
+<clipPath id="ab_c0"><rect width="96" height="96" fill="white"/></clipPath>
+<clipPath id="ab_c1"><rect width="96" height="96" fill="white"/></clipPath>
+
+<!-- COPILOT STUDIO gradients (cs_*) -->
+<linearGradient id="cs_p0" x1="53.5" y1="77" x2="80.9999" y2="9.99998" gradientUnits="userSpaceOnUse"><stop stop-color="#2764E7"/><stop offset="0.307475" stop-color="#8B52F4"/><stop offset="0.544627" stop-color="#BB45EA"/><stop offset="0.803866" stop-color="#DB56C6"/><stop offset="1" stop-color="#F462AB"/></linearGradient>
+<radialGradient id="cs_p1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(52.5 45) rotate(43.8065) scale(33.9485 21.4653)"><stop offset="0.549399" stop-color="#5B2AB5"/><stop offset="1" stop-color="#A931D8" stop-opacity="0"/></radialGradient>
+<radialGradient id="cs_p2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(44 34) rotate(17.7004) scale(49.3356 24.5964)"><stop offset="0.527929" stop-color="#9529C2"/><stop offset="1" stop-color="#DD3CE2" stop-opacity="0"/></radialGradient>
+<radialGradient id="cs_p3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(61.3922 89.3373) rotate(-124.89) scale(82.0935 82.0935)"><stop stop-color="#2764E7"/><stop offset="0.225228" stop-color="#0094F0"/><stop offset="0.443437" stop-color="#19B2CE"/><stop offset="0.6999" stop-color="#52D17C"/><stop offset="1" stop-color="#FFD638"/></radialGradient>
+<linearGradient id="cs_p4" x1="19.5444" y1="82.7096" x2="53.8452" y2="82.7096" gradientUnits="userSpaceOnUse"><stop stop-color="#16BBDA" stop-opacity="0"/><stop offset="0.535279" stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient>
+<radialGradient id="cs_p5" cx="0" cy="0" r="1" gradientTransform="matrix(23 12.9998 8.90874 -13.0499 43 67.9995)" gradientUnits="userSpaceOnUse"><stop stop-color="#1B44B1"/><stop offset="1" stop-color="#367AF2" stop-opacity="0"/></radialGradient>
+<linearGradient id="cs_p6" x1="33.5" y1="32.5" x2="34" y2="13" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9C70"/><stop offset="1" stop-color="#FFD394"/></linearGradient>
+<linearGradient id="cs_p7" x1="28.5" y1="24.5" x2="26.5" y2="33" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB357" stop-opacity="0"/><stop offset="1" stop-color="#F24A9D"/></linearGradient>
+<linearGradient id="cs_p8" x1="58" y1="20" x2="58.5" y2="64.5" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB357"/><stop offset="0.380259" stop-color="#FB6F7B"/><stop offset="0.659779" stop-color="#F24A9D"/><stop offset="1" stop-color="#DD3CE2"/></linearGradient>
+<radialGradient id="cs_p9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(40 54) rotate(12.702) scale(24.0895 24.0895)"><stop offset="0.567938" stop-color="#D7257D"/><stop offset="1" stop-color="#F462AB" stop-opacity="0"/></radialGradient>
+<linearGradient id="cs_p10" x1="50.03" y1="77.3707" x2="20" y2="25.6869" gradientUnits="userSpaceOnUse"><stop stop-color="#0FAFFF"/><stop offset="0.54828" stop-color="#2BDABE"/><stop offset="0.765945" stop-color="#88E06C"/><stop offset="1" stop-color="#FFD638"/></linearGradient>
+<linearGradient id="cs_p11" x1="36" y1="44.5" x2="53" y2="50.5" gradientUnits="userSpaceOnUse"><stop stop-color="#76EB95"/><stop offset="1" stop-color="#3BD5FF" stop-opacity="0"/></linearGradient>
+
+<!-- AZURE AI FOUNDRY gradients (aif_*) -->
+<linearGradient id="aif_g0" x1="-603.563" y1="-218.378" x2="-606.6" y2="-206.22" gradientTransform="translate(617.126 -205.758) scale(1 -1)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#712575"/><stop offset=".09" stop-color="#9a2884"/><stop offset=".18" stop-color="#bf2c92"/><stop offset=".27" stop-color="#da2e9c"/><stop offset=".34" stop-color="#eb30a2"/><stop offset=".4" stop-color="#f131a5"/><stop offset=".5" stop-color="#ec30a3"/><stop offset=".61" stop-color="#df2f9e"/><stop offset=".72" stop-color="#c92d96"/><stop offset=".83" stop-color="#aa2a8a"/><stop offset=".95" stop-color="#83267c"/><stop offset="1" stop-color="#712575"/></linearGradient>
+<linearGradient id="aif_g1" x1="-602.412" y1="-206.025" x2="-602.412" y2="-223.175" gradientTransform="translate(617.126 -205.758) scale(1 -1)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#da7ed0"/><stop offset=".08" stop-color="#b17bd5"/><stop offset=".19" stop-color="#8778db"/><stop offset=".3" stop-color="#6276e1"/><stop offset=".41" stop-color="#4574e5"/><stop offset=".54" stop-color="#2e72e8"/><stop offset=".67" stop-color="#1d71eb"/><stop offset=".81" stop-color="#1471ec"/><stop offset="1" stop-color="#1171ed"/></linearGradient>
+<linearGradient id="aif_g2" x1="-603.438" y1="-206.414" x2="-614.807" y2="-224.644" gradientTransform="translate(617.126 -205.758) scale(1 -1)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#da7ed0"/><stop offset=".05" stop-color="#b77bd4"/><stop offset=".11" stop-color="#9079da"/><stop offset=".18" stop-color="#6e77df"/><stop offset=".25" stop-color="#5175e3"/><stop offset=".33" stop-color="#3973e7"/><stop offset=".42" stop-color="#2772e9"/><stop offset=".54" stop-color="#1a71eb"/><stop offset=".68" stop-color="#1371ec"/><stop offset="1" stop-color="#1171ed"/></linearGradient>
+
+<!-- ICON SYMBOLS -->
+<symbol id="icon-agent" viewBox="0 0 96 96">
+  <g clip-path="url(#ab_c0)"><g clip-path="url(#ab_c1)">
+    <path d="M48.6273 23.9918C48.4433 16.9565 48.3514 13.4388 49.3514 10.6312C50.9152 6.24117 54.3152 2.75106 58.6629 1.07311C61.4434 0 64.9623 0 72 0C79.1102 0 85.2633 12.5109 89.4089 29.9356C91.3095 37.9241 92.2597 41.9184 89.8575 44.9592C87.4553 48 83.095 48 74.3746 48H65C55.6524 48 51.1922 50.0237 49.6213 62.0074L48.6273 23.9918Z" fill="url(#ab_p0)"/>
+    <path d="M48.6273 23.9918C48.4433 16.9565 48.3514 13.4388 49.3514 10.6312C50.9152 6.24117 54.3152 2.75106 58.6629 1.07311C61.4434 0 64.9623 0 72 0C79.1102 0 85.2633 12.5109 89.4089 29.9356C91.3095 37.9241 92.2597 41.9184 89.8575 44.9592C87.4553 48 83.095 48 74.3746 48H65C55.6524 48 51.1922 50.0237 49.6213 62.0074L48.6273 23.9918Z" fill="url(#ab_p1)"/>
+    <path d="M56 76C56 64.9543 64.9543 56 76 56C87.0457 56 96 64.9543 96 76C96 87.0457 87.0457 96 76 96C64.9543 96 56 87.0457 56 76Z" fill="url(#ab_p2)"/>
+    <path d="M56 76C56 64.9543 64.9543 56 76 56C87.0457 56 96 64.9543 96 76C96 87.0457 87.0457 96 76 96C64.9543 96 56 87.0457 56 76Z" fill="url(#ab_p3)"/>
+    <path d="M48 0C25.3343 0 6.89691 31.7119 1.56146 72.064C0.172668 82.5675 -0.52173 87.8192 3.06341 91.9096C6.64855 96 12.4324 96 24 96C35.1353 96 40.703 96 44.1613 92.7703C47.6197 89.5406 48.0198 83.6982 48.8198 72.0133C51.4763 33.214 60.3542 0 72 0H48Z" fill="url(#ab_p4)"/>
+    <path d="M48 0C25.3343 0 6.89691 31.7119 1.56146 72.064C0.172668 82.5675 -0.52173 87.8192 3.06341 91.9096C6.64855 96 12.4324 96 24 96C35.1353 96 40.703 96 44.1613 92.7703C47.6197 89.5406 48.0198 83.6982 48.8198 72.0133C51.4763 33.214 60.3542 0 72 0H48Z" fill="url(#ab_p5)"/>
+  </g></g>
+</symbol>
+
+<symbol id="icon-cs" viewBox="0 0 96 96">
+  <path d="M64.3242 4.77449C52.3121 0.77044 46.3052 -1.23042 42.1523 1.76277C38.0001 4.75619 38 11.0874 38 23.7491V33.9991L28.3242 30.7745C16.3121 26.7705 10.3052 24.7696 6.15234 27.7628C1.99998 30.7562 2 37.0874 2 49.7491V67.585C2 74.5417 1.9996 78.0209 3.88672 80.6397C5.7743 83.2586 9.07559 84.3596 15.6758 86.5596L20.002 87.9991L20 88.0011L33.8906 92.63C41.0527 95.0173 44.634 96.2117 48.2168 95.6612C51.7998 95.1105 54.8577 92.8959 60.9727 88.4678L79.5957 74.9835C84.6242 71.3421 87.5709 69.2032 89.3691 66.7569C89.551 66.5194 89.7213 66.2697 89.8789 66.005C90.0501 65.7303 90.212 65.4518 90.3594 65.1632C91.9996 61.9502 92 58.1948 92 50.6846V28.4151C92 21.4583 92.0007 17.9792 90.1133 15.3604C88.2257 12.7416 84.9244 11.6425 78.3242 9.44246L64.3242 4.77449Z" fill="url(#cs_p0)"/>
+  <path d="M64.3242 4.77449C52.3121 0.77044 46.3052 -1.23042 42.1523 1.76277C38.0001 4.75619 38 11.0874 38 23.7491V33.9991L28.3242 30.7745C16.3121 26.7705 10.3052 24.7696 6.15234 27.7628C1.99998 30.7562 2 37.0874 2 49.7491V67.585C2 74.5417 1.9996 78.0209 3.88672 80.6397C5.7743 83.2586 9.07559 84.3596 15.6758 86.5596L20.002 87.9991L20 88.0011L33.8906 92.63C41.0527 95.0173 44.634 96.2117 48.2168 95.6612C51.7998 95.1105 54.8577 92.8959 60.9727 88.4678L79.5957 74.9835C84.6242 71.3421 87.5709 69.2032 89.3691 66.7569C89.551 66.5194 89.7213 66.2697 89.8789 66.005C90.0501 65.7303 90.212 65.4518 90.3594 65.1632C91.9996 61.9502 92 58.1948 92 50.6846V28.4151C92 21.4583 92.0007 17.9792 90.1133 15.3604C88.2257 12.7416 84.9244 11.6425 78.3242 9.44246L64.3242 4.77449Z" fill="url(#cs_p1)"/>
+  <path d="M64.3242 4.77449C52.3121 0.77044 46.3052 -1.23042 42.1523 1.76277C38.0001 4.75619 38 11.0874 38 23.7491V33.9991L28.3242 30.7745C16.3121 26.7705 10.3052 24.7696 6.15234 27.7628C1.99998 30.7562 2 37.0874 2 49.7491V67.585C2 74.5417 1.9996 78.0209 3.88672 80.6397C5.7743 83.2586 9.07559 84.3596 15.6758 86.5596L20.002 87.9991L20 88.0011L33.8906 92.63C41.0527 95.0173 44.634 96.2117 48.2168 95.6612C51.7998 95.1105 54.8577 92.8959 60.9727 88.4678L79.5957 74.9835C84.6242 71.3421 87.5709 69.2032 89.3691 66.7569C89.551 66.5194 89.7213 66.2697 89.8789 66.005C90.0501 65.7303 90.212 65.4518 90.3594 65.1632C91.9996 61.9502 92 58.1948 92 50.6846V28.4151C92 21.4583 92.0007 17.9792 90.1133 15.3604C88.2257 12.7416 84.9244 11.6425 78.3242 9.44246L64.3242 4.77449Z" fill="url(#cs_p2)"/>
+  <path d="M56 54.4151C56 47.4579 56 43.9793 54.1124 41.3604C52.2248 38.7415 48.9247 37.6415 42.3246 35.4414L28.3246 30.7748C16.312 26.7706 10.3058 24.7685 6.1529 27.7617C2 30.755 2 37.0861 2 49.7484V67.5847C2 74.5419 2 78.0206 3.88758 80.6394C5.77516 83.2583 9.07525 84.3583 15.6754 86.5584L29.6754 91.2251C41.688 95.2292 47.6942 97.2313 51.8471 94.2381C56 91.2448 56 84.9137 56 72.2514V54.4151Z" fill="url(#cs_p3)"/>
+  <path d="M56 54.4151C56 47.4579 56 43.9793 54.1124 41.3604C52.2248 38.7415 48.9247 37.6415 42.3246 35.4414L28.3246 30.7748C16.312 26.7706 10.3058 24.7685 6.1529 27.7617C2 30.755 2 37.0861 2 49.7484V67.5847C2 74.5419 2 78.0206 3.88758 80.6394C5.77516 83.2583 9.07525 84.3583 15.6754 86.5584L29.6754 91.2251C41.688 95.2292 47.6942 97.2313 51.8471 94.2381C56 91.2448 56 84.9137 56 72.2514V54.4151Z" fill="url(#cs_p4)"/>
+  <path d="M92 50.6846C92 58.1947 91.9996 61.9501 90.3594 65.1631C90.212 65.4517 90.0501 65.7302 89.8789 66.0049C89.7213 66.2696 89.551 66.5193 89.3691 66.7568C87.5709 69.2031 84.6242 71.3421 79.5957 74.9834L60.9727 88.4678C54.8577 92.8959 51.7998 95.1105 48.2168 95.6611C44.634 96.2116 41.0527 95.0172 33.8906 92.6299L25.2158 89.7393L20 88L20.002 87.999L16.7822 86.9277L15.2217 86.4072C8.92337 84.3067 5.73047 83.1977 3.88672 80.6396C1.99964 78.0208 2 74.5416 2 67.585V49.749C2 48.4323 2.00119 47.1841 2.00586 46.001L56 61.501L92 35.001V50.6846Z" fill="url(#cs_p5)"/>
+  <path d="M38.0742 15.1036C31.3033 13.0668 27.2217 12.5497 24.1523 14.7618C21.0793 16.9767 20.281 21.0195 20.0732 28.1026C22.4635 28.8216 25.1889 29.7306 28.3232 30.7754L37.999 34V23.7491C37.999 20.4569 38.0012 17.5925 38.0742 15.1036Z" fill="url(#cs_p6)"/>
+  <path d="M38.0742 15.1036C31.3033 13.0668 27.2217 12.5497 24.1523 14.7618C21.0793 16.9767 20.281 21.0195 20.0732 28.1026C22.4635 28.8216 25.1889 29.7306 28.3232 30.7754L37.999 34V23.7491C37.999 20.4569 38.0012 17.5925 38.0742 15.1036Z" fill="url(#cs_p7)" fill-opacity="0.7"/>
+  <path d="M38.0742 15.1035C38.0012 17.5922 38 20.4561 38 23.748V41.585C38 48.5419 38.0002 52.0208 39.8877 54.6396C41.7753 57.2583 45.0758 58.3586 51.6758 60.5586L56 62C64.0027 64.6676 68.0041 66.0014 70.84 64.1408C71.0112 64.0284 71.1774 63.9086 71.3381 63.7817C74 61.6798 74 57.462 74 49.0263V41.415C74 34.4579 73.9999 30.9792 72.1123 28.3604C70.2247 25.7416 66.9243 24.6414 60.3242 22.4414L46.3242 17.7744C43.1901 16.7297 40.4644 15.8225 38.0742 15.1035Z" fill="url(#cs_p8)"/>
+  <path d="M38.0742 15.1035C38.0012 17.5922 38 20.4561 38 23.748V41.585C38 48.5419 38.0002 52.0208 39.8877 54.6396C41.7753 57.2583 45.0758 58.3586 51.6758 60.5586L56 62C64.0027 64.6676 68.0041 66.0014 70.84 64.1408C71.0112 64.0284 71.1774 63.9086 71.3381 63.7817C74 61.6798 74 57.462 74 49.0263V41.415C74 34.4579 73.9999 30.9792 72.1123 28.3604C70.2247 25.7416 66.9243 24.6414 60.3242 22.4414L46.3242 17.7744C43.1901 16.7297 40.4644 15.8225 38.0742 15.1035Z" fill="url(#cs_p9)"/>
+  <path d="M20.0742 28.1035C20.0012 30.5922 20 33.4561 20 36.748V54.585C20 61.5421 20.0001 65.0208 21.8877 67.6396C23.7753 70.2584 27.0757 71.3586 33.6758 73.5586L37.975 74.9917C46.0014 77.6671 50.0146 79.0049 52.855 77.1309C53.0159 77.0247 53.1724 76.9119 53.324 76.7928C56 74.6909 56 70.4606 56 62V54.415C56 47.4579 55.9999 43.9792 54.1123 41.3604C52.2247 38.7416 48.9243 37.6414 42.3242 35.4414L28.3242 30.7744C25.1901 29.7297 22.4644 28.8225 20.0742 28.1035Z" fill="url(#cs_p10)"/>
+  <path d="M38 41.585C38 48.5422 38.0001 52.0208 39.8877 54.6397C41.7753 57.2585 45.0756 58.3585 51.6758 60.5586L56 62V54.415C56 47.4581 55.9998 43.9792 54.1123 41.3604C52.2247 38.7417 48.9242 37.6414 42.3242 35.4414L38 34V41.585Z" fill="url(#cs_p11)"/>
+</symbol>
+
+<symbol id="icon-aif" viewBox="0 0 18 18">
+  <path d="m12.061.012c.534,0,1.008.401,1.178.984s1.166,4.19,1.166,4.19v7.166h-3.607l.073-12.352h1.19v.012Z" fill="url(#aif_g0)" fill-rule="evenodd" stroke-width="0"/>
+  <path d="m17.356,5.611c0-.255-.206-.449-.449-.449h-2.126c-1.494,0-2.709,1.215-2.709,2.709v4.494h2.575c1.494,0,2.709-1.215,2.709-2.709v-4.045Z" fill="url(#aif_g1)" stroke-width="0"/>
+  <path d="m12.061.012c-.413,0-.741.328-.741.741l-.073,13.64c0,1.992-1.615,3.607-3.607,3.607H1.093c-.316,0-.522-.304-.425-.595L5.915,2.429C6.425.984,7.785.012,9.316.012h2.757-.012Z" fill="url(#aif_g2)" fill-rule="evenodd" stroke-width="0"/>
+</symbol>
+
+</defs>
+
+<!-- Background -->
+<rect width="1080" height="610" fill="#F4F6FA"/>
+
+<!-- Title bar -->
+<rect width="1080" height="52" fill="#1A2B4A"/>
+<text x="540" y="34" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="17" fill="#FFFFFF" letter-spacing="0.3">Microsoft Copilot Ecosystem: Three Tools, One Platform</text>
+
+<!-- ===== COLUMN 1: AGENT BUILDER ===== -->
+<rect x="24" y="52" width="328" height="506" fill="#FFFFFF"/>
+<rect x="24" y="52" width="328" height="108" fill="#0078D4"/>
+<circle cx="84" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.18"/>
+<use href="#icon-agent" x="60" y="82" width="48" height="48"/>
+<rect x="122" y="64" width="68" height="19" fill="#FFFFFF" fill-opacity="0.22" rx="9"/>
+<text x="156" y="77" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#FFFFFF" letter-spacing="1.2">NO-CODE</text>
+<text x="122" y="101" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="17" fill="#FFFFFF">Agent Builder</text>
+<text x="122" y="118" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" fill-opacity="0.75">M365 Copilot Chat</text>
+<text x="122" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.55">m365.cloud.microsoft/copilot</text>
+
+<!-- Rows col 1 -->
+<rect x="24" y="160" width="328" height="43" fill="#EBF3FB"/>
+<text x="36" y="186" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">License</text>
+<text x="344" y="186" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Microsoft 365 Copilot</text>
+
+<rect x="24" y="203" width="328" height="43" fill="#FFFFFF"/>
+<text x="36" y="229" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Output type</text>
+<text x="344" y="229" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Declarative agent (JSON)</text>
+
+<rect x="24" y="246" width="328" height="43" fill="#EBF3FB"/>
+<text x="36" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Trigger</text>
+<text x="344" y="272" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">On-demand (user message)</text>
+
+<rect x="24" y="289" width="328" height="43" fill="#FFFFFF"/>
+<text x="36" y="315" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Data sources</text>
+<text x="344" y="315" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">SharePoint, Graph, public URLs</text>
+
+<rect x="24" y="332" width="328" height="43" fill="#EBF3FB"/>
+<text x="36" y="358" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Connectors / code</text>
+<text x="344" y="358" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#C0392B">None</text>
+
+<rect x="24" y="375" width="328" height="43" fill="#FFFFFF"/>
+<text x="36" y="401" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Scheduling</text>
+<text x="344" y="401" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#C0392B">None</text>
+
+<rect x="24" y="418" width="328" height="43" fill="#EBF3FB"/>
+<text x="36" y="444" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">ALM / governance</text>
+<text x="344" y="444" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#C0392B">None</text>
+
+<rect x="24" y="461" width="328" height="97" fill="#DDEEFA"/>
+<text x="36" y="481" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#0078D4" letter-spacing="1.2">BEST FOR</text>
+<text x="36" y="499" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">Personal productivity, team Q&amp;A</text>
+<text x="36" y="516" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">over M365 data, quick experiments</text>
+<text x="36" y="533" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">with no IT overhead</text>
+
+<!-- ===== COLUMN 2: COPILOT STUDIO ===== -->
+<rect x="376" y="52" width="328" height="506" fill="#FFFFFF"/>
+<rect x="376" y="52" width="328" height="108" fill="#7B4ADE"/>
+<circle cx="436" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.18"/>
+<use href="#icon-cs" x="412" y="82" width="48" height="48"/>
+<rect x="474" y="64" width="68" height="19" fill="#FFFFFF" fill-opacity="0.22" rx="9"/>
+<text x="508" y="77" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#FFFFFF" letter-spacing="1.2">LOW-CODE</text>
+<text x="474" y="101" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="17" fill="#FFFFFF">Copilot Studio</text>
+<text x="474" y="118" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" fill-opacity="0.75">Power Platform</text>
+<text x="474" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.55">copilotstudio.microsoft.com</text>
+
+<!-- Rows col 2 -->
+<rect x="376" y="160" width="328" height="43" fill="#F3EFFE"/>
+<text x="388" y="186" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">License</text>
+<text x="696" y="186" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Copilot Studio / Power Platform</text>
+
+<rect x="376" y="203" width="328" height="43" fill="#FFFFFF"/>
+<text x="388" y="229" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Output type</text>
+<text x="696" y="229" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Managed bot / agent solution</text>
+
+<rect x="376" y="246" width="328" height="43" fill="#F3EFFE"/>
+<text x="388" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Trigger</text>
+<text x="696" y="272" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Event, schedule, or manual</text>
+
+<rect x="376" y="289" width="328" height="43" fill="#FFFFFF"/>
+<text x="388" y="315" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Data sources</text>
+<text x="696" y="315" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">1,000+ connectors, Dataverse</text>
+
+<rect x="376" y="332" width="328" height="43" fill="#F3EFFE"/>
+<text x="388" y="358" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Connectors / code</text>
+<text x="696" y="358" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Power Automate, HTTP, custom</text>
+
+<rect x="376" y="375" width="328" height="43" fill="#FFFFFF"/>
+<text x="388" y="401" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Scheduling</text>
+<text x="696" y="401" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#27AE60">Yes (topics + Power Automate)</text>
+
+<rect x="376" y="418" width="328" height="43" fill="#F3EFFE"/>
+<text x="388" y="444" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">ALM / governance</text>
+<text x="696" y="444" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#27AE60">Managed envs + pipelines + DLP</text>
+
+<rect x="376" y="461" width="328" height="97" fill="#EDE5FC"/>
+<text x="388" y="481" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#7B4ADE" letter-spacing="1.2">BEST FOR</text>
+<text x="388" y="499" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">Enterprise chatbots, Teams-first</text>
+<text x="388" y="516" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">deployments, IT/HR/support with</text>
+<text x="388" y="533" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">branching logic and full ALM</text>
+
+<!-- ===== COLUMN 3: AZURE AI FOUNDRY ===== -->
+<rect x="728" y="52" width="328" height="506" fill="#FFFFFF"/>
+<rect x="728" y="52" width="328" height="108" fill="#1E3A5F"/>
+<circle cx="788" cy="106" r="30" fill="#FFFFFF" fill-opacity="0.18"/>
+<use href="#icon-aif" x="764" y="82" width="48" height="48"/>
+<rect x="826" y="64" width="68" height="19" fill="#FFFFFF" fill-opacity="0.22" rx="9"/>
+<text x="860" y="77" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#FFFFFF" letter-spacing="1.2">FULL-CODE</text>
+<text x="826" y="98" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="17" fill="#FFFFFF">Azure AI Foundry</text>
+<text x="826" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF" fill-opacity="0.75">Azure Developer Platform</text>
+<text x="826" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#FFFFFF" fill-opacity="0.55">ai.azure.com</text>
+
+<!-- Rows col 3 -->
+<rect x="728" y="160" width="328" height="43" fill="#E8EEF5"/>
+<text x="740" y="186" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">License</text>
+<text x="1048" y="186" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Azure subscription</text>
+
+<rect x="728" y="203" width="328" height="43" fill="#FFFFFF"/>
+<text x="740" y="229" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Output type</text>
+<text x="1048" y="229" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">AI app / Python agent / API</text>
+
+<rect x="728" y="246" width="328" height="43" fill="#E8EEF5"/>
+<text x="740" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Trigger</text>
+<text x="1048" y="272" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Code-driven, API call</text>
+
+<rect x="728" y="289" width="328" height="43" fill="#FFFFFF"/>
+<text x="740" y="315" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Data sources</text>
+<text x="1048" y="315" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Azure AI Search, any API, custom</text>
+
+<rect x="728" y="332" width="328" height="43" fill="#E8EEF5"/>
+<text x="740" y="358" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Connectors / code</text>
+<text x="1048" y="358" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#111">Python, Prompt Flow, Azure SDK</text>
+
+<rect x="728" y="375" width="328" height="43" fill="#FFFFFF"/>
+<text x="740" y="401" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">Scheduling</text>
+<text x="1048" y="401" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#27AE60">Yes (code, Azure Functions)</text>
+
+<rect x="728" y="418" width="328" height="43" fill="#E8EEF5"/>
+<text x="740" y="444" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#555">ALM / governance</text>
+<text x="1048" y="444" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#27AE60">DevOps, CI/CD, containers</text>
+
+<rect x="728" y="461" width="328" height="97" fill="#E0E8F0"/>
+<text x="740" y="481" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="9.5" fill="#1E3A5F" letter-spacing="1.2">BEST FOR</text>
+<text x="740" y="499" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">RAG pipelines, multi-agent</text>
+<text x="740" y="516" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">orchestration, custom ML and</text>
+<text x="740" y="533" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#1A2B4A">AI embedded in applications</text>
+
+<!-- Footer -->
+<rect y="558" width="1080" height="52" fill="#1A2B4A"/>
+<text x="540" y="578" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#FFFFFF" fill-opacity="0.55">All tools connect to the same ecosystem:</text>
+<text x="540" y="597" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">Microsoft 365 · Microsoft Graph · Dataverse · Azure OpenAI · Azure AI Services</text>
+
+</svg>
