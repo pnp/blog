@@ -32,9 +32,9 @@ This is the **first non-beta release** that fully supports **.NET 10**. No hacks
 
 ## 🔐 Signed builds and a new release flow
 
-We now have a proper, working signing flow. Builds are signed through the **PnP PowerShell pipeline**, which acts as the trusted environment for signing and packaging. It might not sound exciting at first glance — but this was the main blocker for a long time. Solving it unlocks the ability to release consistently again.
+We now have a proper, working signing flow. Builds are signed through the **PnP PowerShell pipeline**, which acts as the trusted environment for signing and packaging. It might not sound exciting at first glance — but this was the main blocker for a long time. Without a reliable way to sign and publish packages, nothing else could move forward. Solving it unlocks the ability to release consistently again.
 
-On top of that, the release process has been completely overhauled — automated build and signing, GitHub workflows handling packaging and publishing, and clear, maintainer-friendly guidance. No more "only one person knows how this works" situations 😄
+On top of that, the entire release process has been completely overhauled. We now have automated build and signing, GitHub workflows handling packaging and publishing, and clear, maintainer-friendly guidance that any team member can follow. The goal was to remove single points of failure — no more "only one person knows how this works" situations. Going forward, any maintainer should be able to trigger a release with confidence 😄
 
 ## 📋 What's inside the changelog
 
@@ -67,10 +67,15 @@ We're finally in a place where we can **build instead of unblock**.
 
 This release would not have been possible without the help of some really awesome folks who stepped in and kept things moving. We would like to express our huge gratitude and shout out to (in alphabetical order):
 
+- [Adam Murchison](https://github.com/A-Murchison)
 - [Adam Wójcik](https://github.com/Adam-it)
 - [Bert Jansen](https://github.com/jansenbe)
 - [Christian Zuellig](https://github.com/czullu)
+- [Ejaz Hussain](https://github.com/ejazhussain)
+- [Gautam Sheth](https://github.com/gautamdsheth)
+- [Kinga](https://github.com/kkazala)
 - [kola-tm](https://github.com/kola-tm)
+- [Luc Mo Costabella](https://github.com/lucmoco)
 - [Oliver Fast](https://github.com/tikki100)
 - [Pedro Monte](https://github.com/PedroMordeP)
 - [Per Jakobsen](https://github.com/singingknight)
