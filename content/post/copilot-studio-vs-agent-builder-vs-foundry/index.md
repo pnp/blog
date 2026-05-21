@@ -1,6 +1,6 @@
 ---
 title: "Agent Builder, Copilot Studio, or Azure AI Foundry: How We Decide for Every Client"
-date: 2026-05-19T08:00:00-00:00
+date: 2026-05-21T08:00:00-00:00
 author: "Elliot Margot"
 githubname: emargot
 categories: ["Community post"]
@@ -109,6 +109,3 @@ In practice, mature organisations end up using all three. Agent Builder for pers
 
 The question is never which tool is best. It is which tool fits this project, this team, and this moment - and gets the agent into users' hands before the requirements change again.
 
----
-
-*Elliot Margot is Team Lead Jumpstart - Copilot and Agents at Witivio, a Microsoft Partner specialising in Copilot Studio and Power Platform deployments across EMEA. He works on enterprise agent architecture and was featured in a Microsoft Customer Story for the BuyerCompanion RFP Agent.*
