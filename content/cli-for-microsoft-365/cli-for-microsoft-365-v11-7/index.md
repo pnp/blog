@@ -13,7 +13,7 @@ tags:
   - Outlook
   - SPFx
   - Microsoft Teams
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.7 is a feature-rich release centered on Outlook calendar automation, adding a full suite of commands for calendars, events, and calendar groups, alongside new SharePoint capabilities and meaningful quality improvements across the tool. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release continues to expand coverage across the platform.
