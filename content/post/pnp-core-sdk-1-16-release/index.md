@@ -1,13 +1,15 @@
 ---
 title: "PnP Core SDK v1.16.0 – Back on track with .NET 10 and a new release foundation"
-date: 2026-05-20T18:00:00Z
+date: 2026-05-20T01:00:00.000Z
 author: "Ejaz Hussain"
 githubname: ejazhussain
 categories: ["Community post"]
 images:
-- cover.png
-tags: []
+- images/cover.png
+tags: [".Net", "SDK", "PnP Core SDK", "SharePoint"]
 type: "regular"
+summary: "PnP Core SDK v1.16.0 is out — the first stable, signed release with .NET 10 support, a rebuilt release pipeline, and a new active maintainers team."
+description: "PnP Core SDK v1.16.0 is out — the first stable, signed release with .NET 10 support, a rebuilt release pipeline, and a new active maintainers team."
 ---
 
 ## 🗒️ Quick intro
@@ -28,33 +30,28 @@ Instead of rushing a quick fix, the team stepped back and rebuilt the foundation
 
 This is the **first non-beta release** that fully supports **.NET 10**. No hacks, no workarounds — just a clean, supported, forward-looking base for your projects.
 
-## 🔐 Signed builds via PnP PowerShell pipeline
+## 🔐 Signed builds and a new release flow
 
 We now have a proper, working signing flow. Builds are signed through the **PnP PowerShell pipeline**, which acts as the trusted environment for signing and packaging. It might not sound exciting at first glance — but this was the main blocker for a long time. Solving it unlocks the ability to release consistently again.
 
-## ⚙️ New release flow
-
-The release process has been completely overhauled with:
-
-- Automated build and signing
-- GitHub workflows handling packaging and publishing
-- Clear, maintainer-friendly guidance
-
-No more "only one person knows how this works" situations 😄
+On top of that, the release process has been completely overhauled — automated build and signing, GitHub workflows handling packaging and publishing, and clear, maintainer-friendly guidance. No more "only one person knows how this works" situations 😄
 
 ## 📋 What's inside the changelog
 
 For the full list of changes, check the [release notes](https://github.com/pnp/pnpcore/releases/tag/1.16.0). Here are some of the more interesting items:
 
-- **Support for .NET 10.0** — as mentioned above, a first-class, non-beta target
-- **Support for reading Alerts** — you can now work with SharePoint Alerts through the SDK [jansenbe - Bert Jansen]
-- **Configurable REST and Graph clients** — allow optional configuration of used `SharePointRestClient` and `MicrosoftGraphClient` [#1659](https://github.com/pnp/pnpcore/pull/1659) [kola-tm]
-- **Page API improvements** — continued enhancements to the modern pages API
+- **Support for .NET 10.0** — a first-class, non-beta target
+- **Support for reading Alerts** — you can now work with SharePoint Alerts through the SDK [#1688](https://github.com/pnp/pnpcore/pull/1688)
+- **Configurable REST and Graph clients** — allow optional configuration of the used `SharePointRestClient` and `MicrosoftGraphClient` [#1659](https://github.com/pnp/pnpcore/pull/1659)
+- **Page API: collapsible section header sizes** — support for setting the header size of collapsible sections [#1687](https://github.com/pnp/pnpcore/pull/1687)
+- **DisableCommenting on lists** — support for setting and getting the `DisableCommenting` property of a list [#1695](https://github.com/pnp/pnpcore/pull/1695)
+- **Improved page parsing robustness** — better handling of undefined control index values and wrongly decoded quotes
+- **Dublin timezone mapping fix** — correctly maps the Dublin timezone [#1665](https://github.com/pnp/pnpcore/pull/1665)
 - Stability improvements, dependency updates, and internal clean-ups
 
 ## 👥 New maintainers team
 
-Another big step forward — we now have an **active maintainers team**. This means faster PR reviews, better issue handling, and more predictable progress. This is a key step towards making the project truly community-driven again.
+Another big step forward — we now have an **active maintainers team**. The team is still ramping up and getting familiar with the full codebase and processes, but the overall goal is clear: faster PR reviews, better issue handling, and more predictable progress. It's early days, but having a dedicated group in place is a key step towards making the project truly community-driven again.
 
 ## 📚 What's next
 
@@ -68,11 +65,17 @@ We're finally in a place where we can **build instead of unblock**.
 
 ## 🙌 Community and contributors
 
-This release would not have been possible without the help of some really awesome folks who stepped in and kept things moving. We would like to express our huge gratitude and shout out to:
+This release would not have been possible without the help of some really awesome folks who stepped in and kept things moving. We would like to express our huge gratitude and shout out to (in alphabetical order):
 
-- [Bert Jansen](https://github.com/jansenbe)
 - [Adam Wójcik](https://github.com/Adam-it)
+- [Bert Jansen](https://github.com/jansenbe)
+- [Christian Zuellig](https://github.com/czullu)
 - [kola-tm](https://github.com/kola-tm)
+- [Oliver Fast](https://github.com/tikki100)
+- [Pedro Monte](https://github.com/PedroMordeP)
+- [Per Jakobsen](https://github.com/singingknight)
+- [Rafal Urbanski](https://github.com/RafalUrbanski)
+- [Shayne Hunsaker](https://github.com/shunsaker)
 
 And to everyone in the wider **PnP community** who raised issues, shared feedback, contributed code, and stayed patient while things were not moving as fast as we all wanted — that feedback mattered. A lot.
 
