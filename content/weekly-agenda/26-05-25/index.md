@@ -29,10 +29,9 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) & [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft) – Overriding list and library panes with SPFx
 * [Arnav Gupta](https://www.linkedin.com/in/g-arnav/) (Microsoft) – Scaling Microsoft Teams Pilots to Your Broader Frontline Organization
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) & [Alex Terentiev](https://www.linkedin.com/in/alekseiterentiev/) (Microsoft) – Overriding list and library panes with SPFx
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) (Microsoft) – Creating your own secure MCP server
-
 
 
 ### Microsoft 365 & Power Platform community call - 28th of May
@@ -58,9 +57,10 @@ Update of the newly published videos in our YouTube channel
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* 
 * [How to build a Hierarchical Quick Links Web Part with SPFx](https://www.youtube.com/watch?v=tnix-1SMt-0)
 * [Alex Snyder Interview | Community News Desk](https://www.youtube.com/watch?v=pxX69IofA9g)
-* [Introduction to Copilot in SharePoint](https://www.youtube.com/watch?v=y3PenEm9ono) by [object Object]
+* [Introduction to Copilot in SharePoint](https://www.youtube.com/watch?v=y3PenEm9ono) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)
 * [Introducing new MarkDown support in SharePoint and OneDrive](https://www.youtube.com/watch?v=nnXWKtwb0e8) by [Lesha Bhansali](https://www.linkedin.com/in/leshabhansali/)
 * [Ryan Cunningham Interview | Community News Desk](https://www.youtube.com/watch?v=rJdXG7kyrbI)
 * [What's new on the OneDrive blog 20 seconds](https://www.youtube.com/watch?v=XuWXD6Gyy84)
@@ -99,13 +99,12 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 21st of May 2026](https://www.youtube.com/watch?v=MLHHzzOtQpI)
 * [Microsoft Power Platform community call – May 2026](https://www.youtube.com/watch?v=r7RMWP3bZI8)
 * [Microsoft 365 & Power Platform weekly call – 19th of May, 2026](https://www.youtube.com/watch?v=U21OGXxP0JQ)
 * [Office add-ins community call - May 2026](https://www.youtube.com/watch?v=2ttf7pVoDA4)
 
-
 ---
-
 
 ## Upcoming events
 
@@ -116,8 +115,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
-
 
 * [DynamicsMinds 20263 Days](https://communitydays.org/event/2026-05-25/dynamicsminds-2026) - May 25, 2026
 * [NMTC & Microsoft Engage Day Oslo 2026Updated4 Days](https://communitydays.org/event/2026-05-26/nmtc-and-microsoft-engage-day-oslo-2026) - May 26, 2026
