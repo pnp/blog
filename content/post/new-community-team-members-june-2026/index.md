@@ -8,7 +8,7 @@ images:
 - images/2605-new-pnp-team-members.png
 tags: []
 type: trending
-draft: true
+draft: false
 ---
 
 We are excited to announce that we are growing our virtual [Microsoft 365 & Power Platform Community coordination team](https://aka.ms/community/team) with additional community members. This virtual community team is responsible of the different [Microsoft 365 & Power Platform Community](https://aka.ms/community/home) activities in different community channels, including our open-source work in the GitHub. 
