@@ -1,6 +1,6 @@
 ﻿---
 title: Weekly Agenda - 1st of June week
-date: 2026-05-28T08:00:00.000Z
+date: 2026-05-29T01:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -30,8 +30,8 @@ This is the agenda for the upcoming week:
 Demos this time:
 
 * [Joe Komban](https://www.linkedin.com/in/kjoefrancis/) (Microsoft) – Get inspired with SharePoint Skills - the art of possible
-* April Dunnam (Microsoft) – Introduction to Copilot Cowork
-* Sarah Sinclair (Microsoft) – What's New in Microsoft Teams Shifts App: Smart Scheduling and Usability Enhancements
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft) – Introduction to Copilot Cowork
+* [Sarah Sinclair](https://www.linkedin.com/in/sarah-sinclair-53404ba7/) (Microsoft) – What's New in Microsoft Teams Shifts App: Smart Scheduling and Usability Enhancements
 
 
 ### Microsoft 365 & Power Platform community call - 4th of June
@@ -42,9 +42,9 @@ Demos this time:
 
 Demos this time:
 
-* Mark Kashman (Sympraxis Consulting) – Use SharePoint pages and a single-source list for tracking marketing activities
-* Kenny Oduala (First Bank of Nigeria) – Building a Scalable Loan Management SPA in SharePoint with SPFx, Custom Navigation, and Workflow Automation
-* Federico Porceddu (Avanade) – Introduction to Copilot Engagement Program
+* [Mark Kashman](https://www.linkedin.com/in/mark-kashman/) (Sympraxis Consulting) – Use SharePoint pages and a single-source list for tracking marketing activities
+* [Kenny Oduala](https://www.linkedin.com/in/kenny-oduala-69878789/) (First Bank of Nigeria) – Building a Scalable Loan Management SPA in SharePoint with SPFx, Custom Navigation, and Workflow Automation
+* [Federico Porceddu](https://www.linkedin.com/in/federicoporceddu/) (Avanade) – Introduction to Copilot Engagement Program
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -53,7 +53,6 @@ Demos this time:
 ## New videos 
 
 Update of the newly published videos in our YouTube channel 
-
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
@@ -80,7 +79,7 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 Developer Blog posts
 
-* no new blog posts this week
+* [SharePoint Framework (SPFx) roadmap update – May 2026](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-may-2026//) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
@@ -94,10 +93,10 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Microsoft 365 & Power Platform community call - 28th of May 2026](https://www.youtube.com/watch?v=yCO07CBqVTE)
 * [Microsoft 365 & Power Platform weekly call – 26th of May, 2026](https://www.youtube.com/watch?v=wvFrPO7XAy8)
 * [MGCI Community Call | May 2026](https://www.youtube.com/watch?v=zZ6dq9pqn78)
 * [Microsoft 365 & Power Platform community call - 21st of May 2026](https://www.youtube.com/watch?v=MLHHzzOtQpI)
-
 
 ---
 
@@ -118,7 +117,6 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 * [ESPC 2026](https://www.sharepointeurope.com/) - November 30 - December 3, 2026 - Amsterdam, Netherlands
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
-
 
 * [Microsoft Build 2026 Watch Party + UnconferenceLive](https://communitydays.org/event/2026-05-27/microsoft-build-2026-watch-party-plus-unconference) - June 2, 2026
 * [Australian Digital Workplace ConferenceLive](https://communitydays.org/event/2026-05-28/australian-digital-workplace-conference) - May 28, 2026
