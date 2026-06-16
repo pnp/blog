@@ -1,6 +1,6 @@
 ---
 title: "PnP Framework roadmap update"
-date: 2026-06-07T01:00:00.000Z
+date: 2026-06-16T01:00:00.000Z
 author: "Adam Wójcik"
 githubname: "Adam-it"
 categories: ["Community post"]
