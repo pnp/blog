@@ -57,7 +57,7 @@ Demos this time:
 
 * [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade) - Insurance Claims Assist using AI in SharePoint with Copilot Studio
 * [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft) - No API, No Problem: Building Declarative Agents with Dev Proxy
-* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) - Powerful Animations - VS Code Extension Updates for M365 and Power Apps
+* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Warner Digital) - Powerful Animations - VS Code Extension Updates for M365 and Power Apps
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
