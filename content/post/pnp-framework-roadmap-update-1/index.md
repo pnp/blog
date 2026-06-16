@@ -5,7 +5,7 @@ author: "Adam Wójcik"
 githubname: "Adam-it"
 categories: ["Community post"]
 images:
-- images/main.png // TODO: use my paint or AI skills to generate some relevant pic
+- images/main.png
 tags: [".Net", "SDK", "PnP Core SDK", "PnP Framework"]
 type: "regular"
 summary: "The PnP Framework has served the community incredibly well, but the time has come to look ahead. We are sharing a transparent, two-phase roadmap: first migrating the Provisioning and Modernization engines to PnP Core SDK, then eventually archiving PnP Framework. Read on to understand the timeline, the reasoning, and what you should do to prepare."
@@ -26,7 +26,7 @@ With that context in mind, we want to share a **transparent, two-phase roadmap**
 
 > 🗓️ **Target: Q4 2026**
 
-The first phase focuses on moving the most widely used parts of PnP Framework into PnP Core SDK.
+The first phase focuses on copying the most widely used parts of PnP Framework into PnP Core SDK.
 
 ### What is planned
 
