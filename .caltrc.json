@@ -1,0 +1,29 @@
+{
+  "rules": {},
+  "instruction_min_length": 200,
+  "instruction_ideal_range": [
+    500,
+    4000
+  ],
+  "custom_blocked_phrases": [],
+  "require_conversation_starters_min": 2,
+  "schema_version_target": "v1.6",
+  "graph_api": {
+    "client_id": "4ab5a2de-0fcb-4b61-ab07-721b24d9b334",
+    "tenant_id": "b469e370-d6a6-45b5-928e-856ae0307a6d"
+  },
+  "dataverse": {
+    "org_urls": [
+      "https://orgb85e2da2.api.crm4.dynamics.com",
+      "https://orgfd23a710.api.crm4.dynamics.com",
+      "https://org4caa9250.api.crm4.dynamics.com",
+      "https://org32dda8c3.api.crm4.dynamics.com",
+      "https://org4fb41d74.api.crm.dynamics.com",
+      "https://orgc95360f0.api.crm4.dynamics.com",
+      "https://org873c4b41.api.crm4.dynamics.com",
+      "https://org8efac90e.api.crm4.dynamics.com",
+      "https://org0f8e42f3.api.crm4.dynamics.com"
+    ],
+    "org_url": "https://orgb85e2da2.api.crm4.dynamics.com"
+  }
+}
