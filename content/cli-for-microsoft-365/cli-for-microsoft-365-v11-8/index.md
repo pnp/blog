@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - Outlook
   - SPFx
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.8 is a focused release that rounds out Outlook calendar group management with a new remove command, and brings important SPFx improvements including support for the latest SPFx version. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this drop continues to expand coverage across the platform.
