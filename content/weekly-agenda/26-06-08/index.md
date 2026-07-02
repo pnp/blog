@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda23.PNG
 tags: []
-type: trending
+type: regular
 videos:
   - https://www.youtube.com/watch?v=OfcuhSDv2ks
 draft: false
