@@ -53,27 +53,30 @@ Demos this time:
 ## New videos 
 
 Update of the newly published videos in our YouTube channel 
+Update of the newly published videos in our YouTube channel 
 
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
+* [Vision Analysis and Policy Search in Custom Engine Agents](https://www.youtube.com/watch?v=ZYjatMM6sI0&pp=0gcJCUwLAYcqIYzv) by [Ayca Bas](https://www.linkedin.com/in/aycabas/)
+* [Manage your SharePoint Online tenant and SPFx projects using SPFx Toolkit Language Model Tools](https://www.youtube.com/watch?v=5yJZmUkSDJk) by [Adam Wójcik](https://www.linkedin.com/in/adam-w/) (Hitachi)
 * [What’s new and next in Engage: June 2026](https://www.youtube.com/watch?v=miOaf3vxkRY)
 * [How to Find and Select Speakers: MGCI event organizer training - June 2026](https://www.youtube.com/watch?v=pf78QJoBi2E)
 * [Build UX components for your Copilot agent - My Day scenario - SharePoint Copilot Apps](https://www.youtube.com/watch?v=VCkoAucaodw) by [object Object]
 * [Work together with AI using Copilot Cowork](https://www.youtube.com/watch?v=qWNizu_4HRA) by [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz/)
 * [Communication Capabilities in Custom Engine Agents](https://www.youtube.com/watch?v=UUdjpfz6FAg) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
 * [An Intro to the Power Platform ToolBox](https://www.youtube.com/watch?v=WS379Mm1olw) by [Carl Cookson](https://www.linkedin.com/in/carlcookson/) (LinkeD365 Consulting)
-* [Business Applications Built for Microsoft 365 - Cubic Logics - SharePoint Partner Showcase](https://www.youtube.com/watch?v=evI0CvuIEBE&pp=0gcJCUwLAYcqIYzv) by [object Object]
+* [Business Applications Built for Microsoft 365 - Cubic Logics - SharePoint Partner Showcase](https://www.youtube.com/watch?v=evI0CvuIEBE) by [object Object]
 * [Using coding agents to build your Copilot Chat declarative agent](https://www.youtube.com/watch?v=dnvANgnongc) by [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
 * [Proactive field service coordination with Microsoft Power Platform](https://www.youtube.com/watch?v=tAC2ID4quvo)
-* [Analyze your agent with custom metrics | Power Platform Shorts](https://www.youtube.com/watch?v=v7skRSn1ktk&pp=0gcJCUwLAYcqIYzv)
+* [Analyze your agent with custom metrics | Power Platform Shorts](https://www.youtube.com/watch?v=v7skRSn1ktk)
 * [Asado and Keeping it Real with Leon Welicki | EP03 | The Next Big Bite](https://www.youtube.com/watch?v=MtC3gePmTq8)
 * [Agents know your existing business](https://www.youtube.com/watch?v=s5kImn_UBbI)
 * [The MCP Catalog: Built for the Enterprise](https://www.youtube.com/watch?v=mLKq7hSuUD8)
-* [Building a community one level at a time | Hammed Abdulazeez | Community Spotlight](https://www.youtube.com/watch?v=TOzZ74tq35I)
+* [Building a community one level at a time | Hammed Abdulazeez | Community Spotlight](https://www.youtube.com/watch?v=TOzZ74tq35I&pp=0gcJCUwLAYcqIYzv)
 * [The Power Platform story that every CIO needs to hear | EP13 | Keeping It Real](https://www.youtube.com/watch?v=ItBkSJLt4hU)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
@@ -82,7 +85,9 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 Developer Blog posts
 
-* no new blog posts this week
+* [SharePoint Framework (SPFx) roadmap update – July 2026](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-july-2026/) by Vesa Juvonen
+* [Mailbox requirement set 1.16 now available for Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/mailbox-requirement-set-1-16-now-available-for-outlook-add-ins/) by Office Extensibility team
+* [Remote Event Receivers are retiring: move to SharePoint webhooks before July 1, 2027](https://devblogs.microsoft.com/microsoft365dev/remote-event-receivers-are-retiring-move-to-sharepoint-webhooks-before-july-1-2027/) by SharePoint team
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
@@ -94,10 +99,12 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
+* [Copilot, Microsoft 365 & Power Platform community call – 2nd of July, 2026](https://www.youtube.com/watch?v=AJgCmMk7URI)
 * [Calling Power Automate flow from declarative agent](https://www.youtube.com/watch?v=p15xw8zpBcc) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade)
 * [Copilot, Microsoft 365 & Power Platform weekly call – 30th of June, 2026](https://www.youtube.com/watch?v=JnpQ2zh-zrM)
 * [Microsoft 365 Copilot Cowork | Microsoft 365 Champion Call - June 2026](https://www.youtube.com/watch?v=arqHiu-rJnc)
 * [Copilot, Microsoft 365 & Power Platform community call – 25th of June, 2026 1 hour,](https://www.youtube.com/watch?v=V4tmvz9GdMk)
+
 
 ---
 
@@ -121,33 +128,48 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-
-* [AI Community Conference - AICO DC](https://www.communitydays.org/event/2025-07-10/ai-community-conference-aico-dc), July 10, 2025 – Reston, VA, United States
-* [DynamicsCon Regional - West Africa](https://www.communitydays.org/event/2025-07-19/dynamicscon-regional-west-africa), July 19, 2025 – Accra, Ghana, Ghana
-* [M365 Community Days NYC](https://www.communitydays.org/event/2025-07-25/m365-community-days-nyc), July 25, 2025 – New York, NY, United States
-* [TechCon 365 Atlanta 2025](https://www.communitydays.org/event/2025-08-11/techcon-365-atlanta-2025), August 11, 2025 – Atlanta, Georgia, United States
-* [DynamicsCon Regional - Rocky Mountain](https://www.communitydays.org/event/2025-08-21/dynamicscon-regional-rocky-mountain), August 21, 2025 – Denver, Colorado, United States
-* [DynamicsCon Regional - Ohio Valley](https://www.communitydays.org/event/2025-08-26/dynamicscon-regional-ohio-valley), August 26, 2025 – Dublin, Ohio, United States
-* [DynamicsCon Regional - Europe](https://www.communitydays.org/event/2025-09-04/dynamicscon-regional-europe), September 4, 2025 – Kongens, Lyngby, Denmark
-* [North American Cloud and Collaboration Summit](https://www.communitydays.org/event/2025-09-07/north-american-cloud-and-collaboration-summit), September 7, 2025 – Branson, MO, United States
-* [CollabDays Finland 2025](https://www.communitydays.org/event/2025-09-11/collabdays-finland-2025), September 11, 2025 – Vantaa, Uusimaa, Finland
-* [aMP Bordeaux 2025](https://www.communitydays.org/event/2025-09-11/amp-bordeaux-2025), September 11, 2025 – Bruges, Nouvelle-Aquitaine, France
-* [Baltic Summit 2025](https://www.communitydays.org/event/2025-09-12/baltic-summit-2025), September 12, 2025 – Gdynia, pomorskie, Poland
-* [European Microsoft Fabric Community Conference 2025](https://www.communitydays.org/event/2025-09-15/european-microsoft-fabric-community-conference-2025), September 15, 2025 – Vienna, Austria
-* [Experts Live UK](https://www.communitydays.org/event/2025-09-16/experts-live-uk), September 16, 2025 – London, United Kingdom
-* [DynamicsCon Regional - Texas](https://www.communitydays.org/event/2025-09-17/dynamicscon-regional-texas), September 17, 2025 – Grapevine, TX, United States
-* [CloudBuilt](https://www.communitydays.org/event/2025-09-18/cloudbuilt), September 18, 2025 – Schaerbeek, Brussel, Belgium
-* [M365 Twin Cities](https://www.communitydays.org/event/2025-09-19/m365-twin-cities), September 19, 2025 – Brooklyn Park, MN, United States
-* [aMP Hammamet 2025](https://www.communitydays.org/event/2025-09-21/amp-hammamet-2025), September 21, 2025 – Hammamet, Nabeul, Tunisia
-* [Microsoft 365 Ottawa 2025](https://www.communitydays.org/event/2025-10-03/microsoft-365-ottawa-2025), October 3, 2025 – Ottawa, ON, Canada
-* [CollabDays 2025 Zagreb](https://www.communitydays.org/event/2025-10-04/collabdays-2025-zagreb), October 4, 2025 – Zagreb, Croatia
-* [Experts Live US](https://www.communitydays.org/event/2025-10-10/experts-live-us), October 10, 2025 – New York, United States
-* [CollabDays New England 2025](https://www.communitydays.org/event/2025-10-17/collabdays-new-england-2025), October 17, 2025 – Burlington, MA, United States
-* [CollabDays Belgium 2025](https://www.communitydays.org/event/2025-10-18/collabdays-belgium-2025), October 18, 2025 – Edegem, Antwerp, Belgium
-* [Community Summit North America 2025](https://www.communitydays.org/event/2025-10-19/community-summit-north-america-2025), October 19, 2025 – Kissimmee, FL, United States
-* [Identity Days Paris 2025](https://www.communitydays.org/event/2025-10-21/identity-days-paris-2025), October 21, 2025 – Paris, France
-* [Experts Live Emirates 2025](https://www.communitydays.org/event/2025-11-11/experts-live-emirates-2025), November 11, 2025 – Dubai, United Arab Emirates
-* [DynUG Autumn Conference 2025](https://www.communitydays.org/event/2025-11-25/dynug-autumn-conference-2025), November 25, 2025 – Oslo, Gardermoen, Norway
-* [ESPC25](https://www.communitydays.org/event/2025-12-01/espc25), December 1, 2025 – Dublin, Dublin 1, Ireland
-* [CollabDays Oslo 2025](https://www.communitydays.org/event/2025-12-05/collabdays-oslo-2025), December 5, 2025 – Oslo, Norway
-* [Microsoft Fabric Community Conference](https://www.communitydays.org/event/2026-03-16/microsoft-fabric-community-conference), March 16, 2026 – Atlanta, GA, United States
+* [Data Days 2026Live](https://communitydays.org/event/2026-06-15/data-days-2026) - August 8, 2026
+* [M365 Community Days Montréal #2-2026 – Automatiser le travail réel5 Days](https://communitydays.org/event/2026-07-08/m365-community-days-montreal-hash2-2026-automatiser-le-travail-reel) - July 8, 2026
+* [AI Agents Bootcamp Washington DC 2026Updated](https://communitydays.org/event/2026-07-17/ai-agents-bootcamp-washington-dc-2026) - July 17, 2026
+* [AI Business Solutions Partner Executive Summit](https://communitydays.org/event/2026-07-27/ai-business-solutions-partner-executive-summit) - July 28, 2026
+* [M365 Community Days NYC](https://communitydays.org/event/2026-07-31/m365-community-days-nyc) - August 1, 2026
+* [Data Start - Comunidad LATAM 2026 Capítulo 2](https://communitydays.org/event/2026-08-01/data-start-comunidad-latam-2026-capitulo-2) - August 1, 2026
+* [Community Summit Roadshow Minneapolis](https://communitydays.org/event/2026-08-06/community-summit-roadshow-minneapolis) - August 6, 2026
+* [BI FOR HER HUB Microsoft Community](https://communitydays.org/event/2026-08-08/bi-for-her-hub-microsoft-community) - August 26, 2028
+* [Community Summit Roadshow TorontoUpdated](https://communitydays.org/event/2026-08-11/community-summit-roadshow-toronto) - August 11, 2026
+* [Microsoft Community Days Montreal](https://communitydays.org/event/2026-08-21/microsoft-community-days-montreal) - August 21, 2026
+* [Seattle TechCon 365 | DATACON | PWRCON](https://communitydays.org/event/2026-08-24/seattle-techcon-365-or-datacon-or-pwrcon) - August 24, 2026
+* [Vancouver Microsoft 365 Summit](https://communitydays.org/event/2026-09-03/vancouver-microsoft-365-summit) - September 3, 2026
+* [Shift Enter Summit 2026](https://communitydays.org/event/2026-09-04/shift-enter-summit-2026) - September 4, 2026
+* [Nashville Microsoft Community Day](https://communitydays.org/event/2026-09-11/nashville-microsoft-community-day) - September 11, 2026
+* [M365 Con - DACH](https://communitydays.org/event/2026-09-14/m365-con-dach) - September 14, 2026
+* [The AI-Native Workplace Summit 2026](https://communitydays.org/event/2026-09-16/the-ai-native-workplace-summit-2026) - September 16, 2026
+* [HELish Summit](https://communitydays.org/event/2026-09-17/helish-summit) - September 17, 2026
+* [M365 Twin Cities](https://communitydays.org/event/2026-09-18/m365-twin-cities) - September 18, 2026
+* [Partner Vibe 2.0](https://communitydays.org/event/2026-09-21/partner-vibe-20) - September 21, 2026
+* [CollabDays Bletchley Park 2026](https://communitydays.org/event/2026-09-23/collabdays-bletchley-park-2026) - September 23, 2026
+* [Baltic Summit 2026](https://communitydays.org/event/2026-09-24/baltic-summit-2026) - September 24, 2026
+* [Microsoft 365 Ottawa 2026](https://communitydays.org/event/2026-09-25/microsoft-365-ottawa-2026) - September 25, 2026
+* [European Microsoft Fabric + SQL Community Conference 2026](https://communitydays.org/event/2026-09-28/european-microsoft-fabric-plus-sql-community-conference-2026) - October 1, 2026
+* [Cloud and Datacenter Conference Germany](https://communitydays.org/event/2026-09-30/cloud-and-datacenter-conference-germany) - October 1, 2026
+* [Devoxx](https://communitydays.orghttps://devoxx.be) - October 5, 2026
+* [M365 Community Days Montréal #3-2026 – Microsoft 365 Copilot](https://communitydays.org/event/2026-10-07/m365-community-days-montreal-hash3-2026-microsoft-365-copilot) - October 7, 2026
+* [Community Summit North America 2026](https://communitydays.org/event/2026-10-11/community-summit-north-america-2026) - October 11, 2026
+* [AI Copilot Studio Agent Bootcamp](https://communitydays.org/event/2026-10-11/ai-copilot-studio-agent-bootcamp) - October 11, 2026
+* [D365 + AI Governance & Access Control Summit NA Preconference](https://communitydays.org/event/2026-10-11/d365-plus-ai-governance-and-access-control-summit-na-preconference) - October 11, 2026
+* [TechBash 2026](https://communitydays.org/event/2026-10-13/techbash-2026) - October 13, 2026
+* [Fabric Day](https://communitydays.org/event/2026-10-14/fabric-day) - October 14, 2026
+* [CognitionX Emirates 2026](https://communitydays.org/event/2026-10-14/cognitionx-emirates-2026) - October 14, 2026
+* [CollabDays Portugal 2026 - Porto Edition](https://communitydays.org/event/2026-10-16/collabdays-portugal-2026-porto-edition) - October 16, 2026
+* [CollabDays New England 2026](https://communitydays.org/event/2026-10-16/collabdays-new-england-2026) - October 16, 2026
+* [Dynamics User Group Sweden - 20 October 2026](https://communitydays.org/event/2026-10-20/dynamics-user-group-sweden-20-october-2026) - October 20, 2026
+* [CollabDays Belgium 2026](https://communitydays.org/event/2026-10-24/collabdays-belgium-2026) - October 24, 2026
+* [TechCon 365 Dallas](https://communitydays.org/event/2026-11-02/techcon-365-dallas) - November 2, 2026
+* [Update Conference Prague 2026](https://communitydays.org/event/2026-11-12/update-conference-prague-2026) - November 12, 2026
+* [Community Summit Roadshow Denver](https://communitydays.org/event/2026-11-17/community-summit-roadshow-denver) - November 17, 2026
+* [ESPC26](https://communitydays.org/event/2026-11-30/espc26) - December 3, 2026
+* [Community Summit Roadshow Ft. LauderdaleUpdated](https://communitydays.org/event/2026-12-01/community-summit-roadshow-ft-lauderdale) - December 1, 2026
+* [Workplace Ninjas US 2027](https://communitydays.org/event/2027-01-11/workplace-ninjas-us-2027) - January 11, 2027
+* [M365 Community Days Montréal #4-2026 – Sans gouvernance, pas d’IA](https://communitydays.org/event/2027-01-27/m365-community-days-montreal-hash4-2026-sans-gouvernance-pas-dia) - January 27, 2027
+* [Knoxville Microsoft Community Days](https://communitydays.org/event/2027-02-25/knoxville-microsoft-community-days) - February 25, 2027
+* [AI Agent and Copilot Summit NA 2027](https://communitydays.org/event/2027-03-30/ai-agent-and-copilot-summit-na-2027) - April 2, 2027
