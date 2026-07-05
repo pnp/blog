@@ -42,7 +42,6 @@ Demos this time:
 
 Demos this time:
 
-* [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (EY) – Awesome SharePoint — A Curated Open-Source Resource Hub for the SharePoint Community
 * [Charlie Vaughn](https://www.linkedin.com/in/charliehvaughn/) (County of Calaveras) – Breaking Free from Proprietary Systems: Power Platform in Government
 * [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) & [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Streamline presentation demos with the new Slicinator community tool
 
