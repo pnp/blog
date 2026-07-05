@@ -6,7 +6,7 @@ githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
-  - images/weeklysummary27.png
+  - images/weeklyagenda27.png
 tags: []
 type: regular
 videos:
