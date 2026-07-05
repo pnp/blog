@@ -42,9 +42,9 @@ Demos this time:
 
 Demos this time:
 
-* [Charlie Vaughn](https://www.linkedin.com/in/charliehvaughn/) (County of Calaveras) – Breaking Free from Proprietary Systems: Power Platform in Government
+* [Charlie Vaughn](https://www.linkedin.com/in/charliehvaughn/) – Breaking Free from Proprietary Systems: Power Platform in Government
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) – Create your first SharePoint Copilot App
-* [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) & [Hugo Bernier](https://www.linkedin.com/in/bernierh/) (Takeda) – Streamline presentation demos with the new Slicinator community tool
+* [David Warner](https://www.linkedin.com/in/davidwarnerii/) & [Hugo Bernier](https://www.linkedin.com/in/bernierh/) – Streamline presentation demos with the new Slicinator community tool
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
