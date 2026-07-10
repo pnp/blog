@@ -10,19 +10,19 @@ images:
 tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
-  - TBD
+  - https://youtu.be/QMImYn14FIM
 draft: true
 ---
 
 # Office Add-ins developer platform community call - July 8, 2026
 
-{{< youtube TBD >}}
+{{< youtube QMImYn14FIM >}}
 
 ## This month's agenda and presenters
 
 - **Office.js API delivery updates** — Jonah Karpman, Product Manager, Office.js API deployment pipeline. Jonah shared reliability improvements to the Office.js delivery infrastructure, including multi-provider CDN failover for Office.js endpoints. He also discussed ongoing work on an npm package for Office.js and a future unified domain for the Office.js API reference.
-- **Building Copilot skills for Excel** — Sankalp Madaan, Product Manager for Office.js in Excel, and Merry Zebro, Software Engineer for Office.js in Excel. Sankalp introduced Copilot skills in Excel as reusable packages of instructions, artifacts, workflow steps, resources, scripts, and guardrails. Merry demonstrated how a skill package works from the user markdown file, resources, and Office.js scripts.
-- **Office.js quality updates** — Akshay Dixit, Product Manager, Office Extensibility quality. Akshay shared the team's progress on Office.js issue triage and resolution, with a focus on Word and Excel issues since the open letter. He described the triage approach, recent fixes, issue-age insights, and the areas where the team is actively investing next.
+- **Building Copilot skills for Excel** — Sankalp Madaan, Product Manager for Office.js in Excel, and Merry Zebro, Software Engineer for Office.js in Excel. Sankalp introduced Copilot skills in Excel as reusable packages of instructions, artifacts, workflow steps, resources, scripts, and guardrails. Merry demonstrated how a skill package works using the user's Markdown file, resources, and Office.js scripts.
+- **Office.js quality updates** — Akshay Dixit, Product Manager, Office Extensibility quality. Akshay shared the team's progress on triaging and resolving Office.js issues, focusing on Word and Excel issues raised since the open letter. He described the triage approach, recent fixes, issue-age insights, and the areas where the team is actively investing next.
 
 ## View video segments
 
@@ -52,6 +52,9 @@ draft: true
 
 | Category | Article | Description |
 |---|---|---|
+| Developer experience | [Learn how to use the office-addin-cache tool](https://learn.microsoft.com/office/dev/add-ins/testing/clear-cache#use-the-office-addin-cache-tool) | Learn how to use the office-addin-cache tool to programmatically clear your cache. |
+| Excel | [Try out Excel JavaScript API 1.21](https://learn.microsoft.com/javascript/api/requirement-sets/excel/excel-api-1-21-requirement-set) | Try out the new APIs introduced in Excel JavaScript API 1.21, including how to programmatically load linked entity cell values. |
+| Excel | [Create custom functions in Excel](https://learn.microsoft.com/office/dev/add-ins/excel/custom-functions-overview?tabs=jsonmanifest) | Preview how to use the unified manifest with custom function add-ins. |
 | Outlook | [Try out Outlook add-in API requirement set 1.16](https://learn.microsoft.com/javascript/api/requirement-sets/outlook/outlook-requirement-set-1-16) | Try the new Mailbox requirement set 1.16 features, including how to create an encryption add-in that handles the `OnMessageDecrypt` event. See the [announcement blog post](https://devblogs.microsoft.com/microsoft365dev/mailbox-requirement-set-1-16-now-available-for-outlook-add-ins/) for more details. |
 | Outlook | [Updated blog post: Prepare your add-in for Outlook ribbon improvements](https://devblogs.microsoft.com/microsoft365dev/prepare-your-addin-for-outlook-ribbon-improvements/) | Review updated naming changes for add-in buttons on the ribbon in Outlook on the web and the new Outlook on Windows. |
 | Outlook | [Sample: Invoke an Outlook add-in from an actionable message](https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/outlook-actionable-message) | Run the sample to learn how to activate an Outlook add-in from an actionable message. |
@@ -60,7 +63,7 @@ draft: true
 
 ## Call to action
 
-- Join the [next community call](https://aka.ms/officeaddinscommunitycall) on August 12, 2026 at 7:00 AM Pacific Time/
+- Join the [next community call](https://aka.ms/officeaddinscommunitycall) on August 12, 2026 at 7:00 AM Pacific Time.
 
 ## General resources
 
