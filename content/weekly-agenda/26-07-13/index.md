@@ -10,7 +10,7 @@ images:
 tags: []
 type: regular
 videos: null
-draft: true
+draft: false
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
@@ -74,7 +74,7 @@ Update of the newly published videos in our YouTube channel
 * [Creating your first SharePoint Copilot App - Tutorial](https://www.youtube.com/watch?v=1TaK6osdvc0) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
 * [Introducing new administration capabilities for SharePoint Embedded](https://www.youtube.com/watch?v=er-Bescf6T8) by [Shreyas Saravanan](https://www.linkedin.com/in/shreyas-saravanan-b64044104/)
 * [Getting started with SharePoint Skills](https://www.youtube.com/watch?v=0fiu1EKy_cQ) by [Joe Komban](https://www.linkedin.com/in/kjoefrancis/)
-* [Streamlining business processes in the flow of work - ShareCloud - SharePoint Partner Showcase](https://www.youtube.com/watch?v=RfJibL0aXHY) by • [Anders Abel](https://www.linkedin.com/in/anders-abel-est) (ShareCloud)
+* [Streamlining business processes in the flow of work - ShareCloud - SharePoint Partner Showcase](https://www.youtube.com/watch?v=RfJibL0aXHY) by [Anders Abel](https://www.linkedin.com/in/anders-abel-est) (ShareCloud)
 * [Microsoft 365 Copilot Retrieval APIs Integration in Custom Engine Agents](https://www.youtube.com/watch?v=bVBb1KbFJ2o) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
 * [Turn any REST API into an MCP server using Azure APIM](https://www.youtube.com/watch?v=WzTMsWY54Xs)
 
@@ -103,7 +103,7 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Copilot, Microsoft 365 & Power Platform community call – 9th of July, 2026 1 hour,](https://www.youtube.com/watch?v=yczm1M-FR4Y)
+* [Copilot, Microsoft 365 & Power Platform community call – 9th of July, 2026](https://www.youtube.com/watch?v=yczm1M-FR4Y)
 * [Copilot, Microsoft 365 & Power Platform weekly call – 7th of July, 2026](https://www.youtube.com/watch?v=JXCOeuNkKF4)
 * [Office add-ins community call - July 2026](https://www.youtube.com/watch?v=QMImYn14FIM)
 
@@ -117,10 +117,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 ![Community Recognition](../images/community-recognition-2025.png)
 
 ---
-
-## Upcoming events
-
-
 ## Upcoming events
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
