@@ -1,97 +1,101 @@
 ---
-title: Weekly Agenda - 6th of July week
-date: 2026-07-03T08:00:00.000Z
+title: Weekly Agenda - 13th of July week
+date: 2026-07-10T16:55:50.740Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
-  - weekly agenda
+    - weekly agenda
 images:
-  - images/weeklysummary27.png
+    - images/weeklyagenda28.png
 tags: []
 type: regular
-videos:
-  - https://www.youtube.com/watch?v=OfcuhSDv2ks
-draft: false
+videos: null
+draft: true
 ---
 
 This is a weekly summary blog post of all the community activities such as community calls and presenters, newly uploaded videos, upcoming events and more 🚀
-Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved. 
+Get involved by joining a call! We host a variety of [community calls](https://aka.ms/community/calls) each week, where we demo solutions, announce new features and where you can connect with like-minded people. These calls are for everyone to join, simply download the recurrent invite and get involved.
 
 Want to demo on what you have created or figured out with the out-of-the-box features? - absolutely welcome. [Volunteer for a demo spot](https://aka.ms/community/request/demo).
 
 This is the agenda for the upcoming week:
 
-### Copilot, Microsoft 365 & Power Platform product updates call - 7th of July
+### Copilot, Microsoft 365 & Power Platform product updates call - 14th of July
 
-* Tuesday, 7th of July 2026, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 14th of July 2026, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/ms-speakers-call-invite) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Aimery Thomas](https://www.linkedin.com/in/aimery-thomas) (Avanade) - Creating custom Copilot integrated search results UX for enterprise search
-* [Michael Greth](https://www.linkedin.com/in/mgreth) - My SharePoint Hackathon Agent, Rebuilt with Microsoft Cowork
-* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) - Understanding Work IQ MCP and Work IQ CLI
+* [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade) - Multi Agent using Agents Toolkit to find and manage volunteering opportunities
+* [Chris McNulty](https://www.linkedin.com/in/cmcnulty/) (Reveille Software) - Building a Holidays and Birthdays Web Part with SPFx
+* [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) & [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) - Latest updates on SharePoint Embedded
 
 
-### Microsoft 365 & Power Platform community call - 9th of July
+### Microsoft Power Platform community call - 15th of July
 
-* Thursday, 9th of July 2026, 7:00 AM PT / 3:00 PM GMT
+* Wednesday, 15th of July 2026, 8:00 AM PT / 4:00 PM GMT
+* Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) we'd love to see you in the call!
+* If you can't make it this time, you can watch the recording of the call from the [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform)
+
+Demos this time:
+
+* [John Liu](https://www.linkedin.com/in/johnnliu/) (Rapid Circle) - How to easily convert markdown documents to PDF with Power Automate
+* [Ian Tweedie](https://www.linkedin.com/in/iantweedie/) (Capgemini) - Your First GitHub Repo for Power Platform (Without Becoming a Dev)
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam/) (Microsoft) - Hands-on with Copilot Agent Academy
+
+
+### Copilot, Microsoft 365 & Power Platform Community call - 16th of July
+
+* Thursday, 16th of July 2026, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Charlie Vaughn](https://www.linkedin.com/in/charliehvaughn/) – Breaking Free from Proprietary Systems: Power Platform in Government
-* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) – Create your first SharePoint Copilot App
-* [David Warner](https://www.linkedin.com/in/davidwarnerii/) & [Hugo Bernier](https://www.linkedin.com/in/bernierh/) – Streamline presentation demos with the new Slicinator community tool
+* [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (KLA) - Your SharePoint Sites Shouldn't Be This Hard to Reach - Introducing My Sites Hub
+* [John Liu](https://www.linkedin.com/in/johnnliu/) (Rapid Circle) - How to Vibe-SharePoint right now
 
-**Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
+**Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
 ---
 
-## New videos 
+## New videos
 
-Update of the newly published videos in our YouTube channel 
+
 Update of the newly published videos in our YouTube channel 
 
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Vision Analysis and Policy Search in Custom Engine Agents](https://www.youtube.com/watch?v=ZYjatMM6sI0&pp=0gcJCUwLAYcqIYzv) by [Ayca Bas](https://www.linkedin.com/in/aycabas/)
-* [Manage your SharePoint Online tenant and SPFx projects using SPFx Toolkit Language Model Tools](https://www.youtube.com/watch?v=5yJZmUkSDJk) by [Adam Wójcik](https://www.linkedin.com/in/adam-w/) (Hitachi)
-* [What’s new and next in Engage: June 2026](https://www.youtube.com/watch?v=miOaf3vxkRY)
-* [How to Find and Select Speakers: MGCI event organizer training - June 2026](https://www.youtube.com/watch?v=pf78QJoBi2E)
-* [Build UX components for your Copilot agent - My Day scenario - SharePoint Copilot Apps](https://www.youtube.com/watch?v=VCkoAucaodw) by [object Object]
-* [Work together with AI using Copilot Cowork](https://www.youtube.com/watch?v=qWNizu_4HRA) by [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz/)
-* [Communication Capabilities in Custom Engine Agents](https://www.youtube.com/watch?v=UUdjpfz6FAg) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
-* [An Intro to the Power Platform ToolBox](https://www.youtube.com/watch?v=WS379Mm1olw) by [Carl Cookson](https://www.linkedin.com/in/carlcookson/) (LinkeD365 Consulting)
-* [Business Applications Built for Microsoft 365 - Cubic Logics - SharePoint Partner Showcase](https://www.youtube.com/watch?v=evI0CvuIEBE) by [object Object]
-* [Using coding agents to build your Copilot Chat declarative agent](https://www.youtube.com/watch?v=dnvANgnongc) by [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/)
+* [Using Power Platform to automate control charts in manufacturing](https://www.youtube.com/watch?v=uvyLkqHdmFY)
+* [AI, Knowledge Agents, and the future of SharePoint | The Intrazone - July 2026](https://www.youtube.com/watch?v=ZA2ONYYU-1I)
+* [Creating your first SharePoint Copilot App - Tutorial](https://www.youtube.com/watch?v=1TaK6osdvc0) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft)
+* [Introducing new administration capabilities for SharePoint Embedded](https://www.youtube.com/watch?v=er-Bescf6T8) by [Shreyas Saravanan](https://www.linkedin.com/in/shreyas-saravanan-b64044104/)
+* [Getting started with SharePoint Skills](https://www.youtube.com/watch?v=0fiu1EKy_cQ) by [Joe Komban](https://www.linkedin.com/in/kjoefrancis/)
+* [Streamlining business processes in the flow of work - ShareCloud - SharePoint Partner Showcase](https://www.youtube.com/watch?v=RfJibL0aXHY) by • [Anders Abel](https://www.linkedin.com/in/anders-abel-est) (ShareCloud)
+* [Microsoft 365 Copilot Retrieval APIs Integration in Custom Engine Agents](https://www.youtube.com/watch?v=bVBb1KbFJ2o) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
+* [Turn any REST API into an MCP server using Azure APIM](https://www.youtube.com/watch?v=WzTMsWY54Xs)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Proactive field service coordination with Microsoft Power Platform](https://www.youtube.com/watch?v=tAC2ID4quvo)
-* [Analyze your agent with custom metrics | Power Platform Shorts](https://www.youtube.com/watch?v=v7skRSn1ktk)
-* [Asado and Keeping it Real with Leon Welicki | EP03 | The Next Big Bite](https://www.youtube.com/watch?v=MtC3gePmTq8)
-* [Agents know your existing business](https://www.youtube.com/watch?v=s5kImn_UBbI)
-* [The MCP Catalog: Built for the Enterprise](https://www.youtube.com/watch?v=mLKq7hSuUD8)
-* [Building a community one level at a time | Hammed Abdulazeez | Community Spotlight](https://www.youtube.com/watch?v=TOzZ74tq35I&pp=0gcJCUwLAYcqIYzv)
-* [The Power Platform story that every CIO needs to hear | EP13 | Keeping It Real](https://www.youtube.com/watch?v=ItBkSJLt4hU)
+* [What is zoned governance? | EP02 | Agents Under Control](https://www.youtube.com/watch?v=Ov88KbdSPIE)
+* [Streamline finance approvals with Microsoft PowerPlatform](https://www.youtube.com/watch?v=uTdQ3phDakY)
+* [External model selection | Power Platform Shorts](https://www.youtube.com/watch?v=iVPz0vO6Uio)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* no new videos this week
+* [APIs weren't built for LLMs. MCP is.](https://www.youtube.com/watch?v=I3b69W59pkA)
 
 ## New Microsoft 365 Developer Blog posts
 
-* [SharePoint Framework (SPFx) roadmap update – July 2026](https://devblogs.microsoft.com/microsoft365dev/sharepoint-framework-spfx-roadmap-update-july-2026/) by Vesa Juvonen
-* [Mailbox requirement set 1.16 now available for Outlook add-ins](https://devblogs.microsoft.com/microsoft365dev/mailbox-requirement-set-1-16-now-available-for-outlook-add-ins/) by Office Extensibility team
-* [Remote Event Receivers are retiring: move to SharePoint webhooks before July 1, 2027](https://devblogs.microsoft.com/microsoft365dev/remote-event-receivers-are-retiring-move-to-sharepoint-webhooks-before-july-1-2027/) by SharePoint team
+* [SharePoint Copilot Apps Now in Public Preview: From Intent to Action in Microsoft 365 Copilot](https://devblogs.microsoft.com/microsoft365dev/sharepoint-copilot-apps-now-in-public-preview-from-intent-to-action-in-microsoft-365-copilot/) by Vesa Juvonen
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [CLI for Microsoft 365 v11.9](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-9/) by [Adam Wójcik](https://github.com/adam-it/)
+* [PnP Core SDK v1.17.0 and PnP Framework 1.20.0 release](https://pnp.github.io/blog/post/pnp-core-sdk-1-17-pnp-framework-1-20-release/) by [Adam Wójcik](https://github.com/adam-it/)
+* [Weekly Agenda - 6th of July week](https://pnp.github.io/blog/weekly-agenda/26-07-06/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
 
 ---
 
@@ -99,22 +103,23 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Copilot, Microsoft 365 & Power Platform community call – 2nd of July, 2026](https://www.youtube.com/watch?v=AJgCmMk7URI)
-* [Calling Power Automate flow from declarative agent](https://www.youtube.com/watch?v=p15xw8zpBcc) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade)
-* [Copilot, Microsoft 365 & Power Platform weekly call – 30th of June, 2026](https://www.youtube.com/watch?v=JnpQ2zh-zrM)
-* [Microsoft 365 Copilot Cowork | Microsoft 365 Champion Call - June 2026](https://www.youtube.com/watch?v=arqHiu-rJnc)
-* [Copilot, Microsoft 365 & Power Platform community call – 25th of June, 2026 1 hour,](https://www.youtube.com/watch?v=V4tmvz9GdMk)
+* [Copilot, Microsoft 365 & Power Platform community call – 9th of July, 2026 1 hour,](https://www.youtube.com/watch?v=yczm1M-FR4Y)
+* [Copilot, Microsoft 365 & Power Platform weekly call – 7th of July, 2026](https://www.youtube.com/watch?v=JXCOeuNkKF4)
+* [Office add-ins community call - July 2026](https://www.youtube.com/watch?v=QMImYn14FIM)
 
 
 ---
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
 
 ![Community Recognition](../images/community-recognition-2025.png)
 
 ---
+
+## Upcoming events
+
 
 ## Upcoming events
 
@@ -128,13 +133,14 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [Data Days 2026Live](https://communitydays.org/event/2026-06-15/data-days-2026) - August 8, 2026
-* [M365 Community Days Montréal #2-2026 – Automatiser le travail réel5 Days](https://communitydays.org/event/2026-07-08/m365-community-days-montreal-hash2-2026-automatiser-le-travail-reel) - July 8, 2026
+m365-community-days-montreal-hash2-2026-automatiser-le-travail-reel) - July 8, 2026
 * [AI Agents Bootcamp Washington DC 2026Updated](https://communitydays.org/event/2026-07-17/ai-agents-bootcamp-washington-dc-2026) - July 17, 2026
 * [AI Business Solutions Partner Executive Summit](https://communitydays.org/event/2026-07-27/ai-business-solutions-partner-executive-summit) - July 28, 2026
 * [M365 Community Days NYC](https://communitydays.org/event/2026-07-31/m365-community-days-nyc) - August 1, 2026
 * [Data Start - Comunidad LATAM 2026 Capítulo 2](https://communitydays.org/event/2026-08-01/data-start-comunidad-latam-2026-capitulo-2) - August 1, 2026
 * [Community Summit Roadshow Minneapolis](https://communitydays.org/event/2026-08-06/community-summit-roadshow-minneapolis) - August 6, 2026
+* [Data Days 2026Live](https://communitydays.org/event/2026-06-15/data-days-2026) - August 8, 2026
+* [M365 Community Days Montréal #2-2026 – Automatiser le travail réel5 Days](https://communitydays.org/event/2026-07-08/
 * [BI FOR HER HUB Microsoft Community](https://communitydays.org/event/2026-08-08/bi-for-her-hub-microsoft-community) - August 26, 2028
 * [Community Summit Roadshow TorontoUpdated](https://communitydays.org/event/2026-08-11/community-summit-roadshow-toronto) - August 11, 2026
 * [Microsoft Community Days Montreal](https://communitydays.org/event/2026-08-21/microsoft-community-days-montreal) - August 21, 2026
@@ -173,3 +179,5 @@ Please take the opportunity to join these great conferences organized by the bes
 * [M365 Community Days Montréal #4-2026 – Sans gouvernance, pas d’IA](https://communitydays.org/event/2027-01-27/m365-community-days-montreal-hash4-2026-sans-gouvernance-pas-dia) - January 27, 2027
 * [Knoxville Microsoft Community Days](https://communitydays.org/event/2027-02-25/knoxville-microsoft-community-days) - February 25, 2027
 * [AI Agent and Copilot Summit NA 2027](https://communitydays.org/event/2027-03-30/ai-agent-and-copilot-summit-na-2027) - April 2, 2027
+
+#Sharing is Caring
