@@ -56,6 +56,7 @@ Demos this time:
 
 * [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (KLA) - Your SharePoint Sites Shouldn't Be This Hard to Reach - Introducing My Sites Hub
 * [John Liu](https://www.linkedin.com/in/johnnliu/) (Rapid Circle) - How to Vibe-SharePoint right now
+* [Hugo Bernier](hhttps://www.linkedin.com/in/bernierh/) & [David Warner](https://www.linkedin.com/in/davidwarnerii/) - Go beyond the magnifier with Zoominator, a new screen annotation & demo tool for the community
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
