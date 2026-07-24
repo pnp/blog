@@ -111,7 +111,6 @@ Every improvement in this release is driven by real-world usage and community in
 We want to extend our heartfelt appreciation to the incredible individuals who have made this release possible. Without their valuable contributions and dedication, CLI for Microsoft 365 wouldn't be where it is today. Let's give a round of applause to the following contributors (in alphabetical order):
 
 - [Adam Wójcik](https://github.com/Adam-it)
-- [Adam Wójcik](https://github.com/Adam-it)
 - [Antanina Druzhkina](https://github.com/Ateina)
 - [Brian McCullough](https://github.com/brianpmccullough)
 - [Eric Schoeller](https://github.com/eschoeller)
