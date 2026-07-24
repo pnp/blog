@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda29.PNG
 tags: []
-type: trending
+typ: regular
 videos: null
 draft: false
 ---
