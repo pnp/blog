@@ -14,7 +14,7 @@ tags:
   - SharePoint Embedded
   - Viva
   - SPFx
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.9 rounds out several command families across Outlook, SharePoint, SharePoint Embedded, and Viva Engage, while sharpening existing SharePoint Embedded commands and fixing the ability to update text web parts. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release continues to expand coverage across the platform.
