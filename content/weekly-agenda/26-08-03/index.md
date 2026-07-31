@@ -1,14 +1,14 @@
 ---
-title: Weekly Agenda - 27th of July week
-date: 2026-07-24T08:00:00.000Z
+title: Weekly Agenda - 3rd of August week
+date: 2026-07-31T08:00:00.000Z
 author: Luise Freese
-githubname: LuiseFreese
+githubname: LuiseFrees
 categories:
   - weekly agenda
 images:
-  - images/weeklyagenda30.PNG
+  - images/weeklyagenda31.PNG
 tags: []
-type: regular
+type: trending
 videos: null
 draft: false
 ---
@@ -20,28 +20,29 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Copilot, Microsoft 365 & Power Platform product updates call - 28th of July
+### Copilot, Microsoft 365 & Power Platform product updates call - 4th of August
 
-* Tuesday, 28th of July 2026, 8:00 AM PT / 4:00 PM GMT
+* Tuesday, 4th of August 2026, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/ms-speakers-call-invite) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Microsoft Community Learning YouTube channel](https://www.youtube.com/playlist?list=PLR9nK3mnD-OUQOW86tT5dkCRQAVGY7DlH)
 
 Demos this time:
 
-* [Abhijeet Jadhav](https://www.linkedin.com/in/abhijeet-jadhav/) - AI Curator - Article Recommender
-* [Bert Jansen](https://www.linkedin.com/in/bertjansen/) (Microsoft) - Building SharePoint Copilot Apps - Time Off scenario
+* Aishwarya Srinivasan - VaultSync: Master Agent Loan Origination Hub - An AI-First Orchestration Pattern
+* [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (Die Mobiliar) - Search Booster: Enhance the search experience with AI summaries
+* David Opendries - Copilot API - SharePoint Document Library AI Assisted Approval
 
 
-### Copilot, Microsoft 365 & Power Platform Community call - 30th of July
+### Copilot, Microsoft 365 & Power Platform Community call - 6th of August
 
-* Thursday, 30th of July 2026, 7:00 AM PT / 3:00 PM GMT
+* Thursday, 6th of August 2026, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
 
-* [Fabian Hutzli](https://www.linkedin.com/in/fabian-hutzli/) (Die Mobiliar) - From App Registrations to Managed Identity: Identity Patterns for Secure Automation
-* [João Ferreira](https://www.linkedin.com/in/joao12ferreira/) and Francisca Peixoto - NOXEN Intranet - A design-led SharePoint portal combining modern branding and AI-assisted knowledge
+* [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) (Atea Global Services) - Build Copilot search functionality in SharePoint using an SPFx extension
+* Carlos Miguel Silva - Awesome SharePoint Skills Gallery: Bringing AI skills into SharePoint
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -49,29 +50,29 @@ Demos this time:
 
 ## New videos
 
-Update of the newly published videos in our YouTube channel 
+Update of the newly published videos in our YouTube channel
 
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Creating Azure Maps Geospatial PCF component for Power Apps](https://www.youtube.com/watch?v=oPf7__1ttAk) by [Grayson Bishop](https://www.linkedin.com/in/grayson-bishop/) (Microsoft)
-* [Designing SharePoint site for enterprise company – Technology Lounge- SharePoint Hackathon](https://www.youtube.com/watch?v=ByW2WgLI1V8)
-* [Copilot Studio - Component Collections for Scalability and Reuse within Agents](https://www.youtube.com/watch?v=I2TwGJDuN7o) by [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Warner Digital)
-* [Hero Link Sharing | OneDrive Office Hours - July 2026](https://www.youtube.com/watch?v=D_HRLKm_RmM)
-* [Closing Keynote:  Finding Purpose and Community in the AI Era](https://www.youtube.com/watch?v=qgIjuGZFJLw)
-* [List Formatting Tips and Tricks - Using Quick Steps to Increase Productivity](https://www.youtube.com/watch?v=qiR8_tdBWMs) by [Chris Kent](https://www.linkedin.com/in/thechriskent/) (Takeda)
-* [Building a SharePoint Agent That Remembers: Combining Memory + SharePoint Grounding](https://www.youtube.com/watch?v=gMAQNit4cfc) by [Ramin Ahmadi](https://www.linkedin.com/in/ahmadiramin/) (Advania UK)
+* [AI-Powered Compliance Document Management on SharePoint- SharePoint Hackathon](https://www.youtube.com/watch?v=Z3N9lmcOmrU) by [Zanda Pemba](https://www.linkedin.com/in/alexanderpemba/) (MATANGA)
+* [Scaling Microsoft Teams Pilots to Your Broader Frontline Organization](https://www.youtube.com/watch?v=4_2wfQoHFsQ) by [Arnav Gupta](https://www.linkedin.com/in/g-arnav/)
+* [Creating your own secure MCP server](https://www.youtube.com/watch?v=ps0F-qSI-Kw) by [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/)
+* [Overriding list and library panes in SharePoint with SPFx](https://www.youtube.com/watch?v=W_fAblNYh7I) by [Alex Terentiev](https://www.linkedin.com/in/www/) and [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)
+* [Teach Your Copilot—Skills in SharePoint & OneDrive | SyncUp Podcast - July 2026](https://www.youtube.com/watch?v=NdNdyNfdFyU)
+* [Power Apps Confirm() Function: Build Modern Confirmation Dialogs Without Custom Popups](https://www.youtube.com/watch?v=TfVbNg4vrGE) by [Shiv Sharma](https://www.linkedin.com/in/shiv-sharma/) (Ameriprise)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [How Merck scaled Power Platform to 20,000 makers | EP15 | Keeping It Real](https://www.youtube.com/watch?v=ovXCetL0TIM)
-* [Transform employee onboarding with Microsoft Power Platform](https://www.youtube.com/watch?v=sj6j4oDehY8)
-* [Prompt modification for custom instructions | Power Platform Shorts](https://www.youtube.com/watch?v=HZ4wJjWAtUY)
-* [Aussie classics and starting small with Clay Wesener | EP04 | The Next Big Bite](https://www.youtube.com/watch?v=pnpeZjVxJOs)
+* [G&J Pepsi-Cola bottlers empowers frontline sales with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=KEGahzmOIvE&pp=0gcJCaMLAYcqIYzv)
+* [Agents in Copilot Studio Workflows](https://www.youtube.com/watch?v=ANec5l1moJA)
+* [AGCO accelerates manufacturing with agentic AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=6BPEWtfMlXA)
+* [How to setup link to Fabric in Dataverse](https://www.youtube.com/watch?v=gJiLSWLENgs)
+* [Business value of AI agents: ROI, impact, and real-world outcomes](https://www.youtube.com/watch?v=pJHZzoKIA-w&pp=0gcJCaMLAYcqIYzv)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
-* [The Microsoft 365 Copilot Agent's Playbook | A 4-part Microsoft Reactor livestream coming soon🤖 41 seconds](https://www.youtube.com/watch?v=hTOuTVmBHuM)
+* no new videos this week
 
 ## New Microsoft 365 Developer Blog posts
 
@@ -79,7 +80,9 @@ Update of the newly published videos in our YouTube channel
 
 ## New Microsoft 365 and Power Platform Community Blog posts
 
-* [Weekly Agenda - 20th of July week](https://pnp.github.io/blog/weekly-agenda/26-07-20/) by [Vesa Juvonen](https://github.com/VesaJuvonen/)
+* [SharePoint Framework Toolkit v4.20.0 minor release](https://pnp.github.io/blog/post/spfx-toolkit-vscode-v-4-20-release/) by [Adam Wójcik](https://github.com/Adam-it/)
+* [CLI for Microsoft 365 v11.10](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v11-10/) by [Milan Holemans](https://github.com/milanholemans/)
+* [Weekly Agenda - 27th of July week](https://pnp.github.io/blog/weekly-agenda/26-07-27/) by [Luise Freese](https://github.com/LuiseFreese/)
 
 ---
 
@@ -87,9 +90,10 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Copilot, Microsoft 365 & Power Platform community call – 23rd of July, 2026](https://www.youtube.com/watch?v=2sg9CJirM9I)
-* [MGCI Community Builders Network Call - July 2026](https://www.youtube.com/watch?v=njtaGIusZ1Y)
-* [Copilot, Microsoft 365 & Power Platform weekly call – 21st of July, 2026](https://www.youtube.com/watch?v=1AOf3dRD3Ww)
+* [Copilot, Microsoft 365 & Power Platform community call – 30th of July, 2026](https://www.youtube.com/watch?v=9lhKvy5kHYc)
+* [Microsoft Teams Meeting controls: M365 Champion Community Call | July 2026](https://www.youtube.com/watch?v=NhyUSwmJzO8)
+* [Copilot, Microsoft 365 & Power Platform weekly call – 28th of July, 2026](https://www.youtube.com/watch?v=TRaGzRXbdsc)
+
 
 
 ---
@@ -103,10 +107,6 @@ You already contributed? Great, we want to celebrate and recognize you! Opt in f
 ---
 
 ## Upcoming events
-
-These are the main big ones for this and next semester - Do not miss out, it will be epic!
-
-
 
 These are the main big ones for this and next semester - Do not miss out, it will be epic!
 
@@ -126,7 +126,6 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Global Security Bootcamp Perth 2026](https://communitydays.org/event/2026-08-01/global-security-bootcamp-perth-2026) - August 1, 2026
 * [Data Start - Comunidad LATAM 2026 Capítulo 2](https://communitydays.org/event/2026-08-01/data-start-comunidad-latam-2026-capitulo-2) - August 1, 2026
 * [Community Summit Roadshow Minneapolis](https://communitydays.org/event/2026-08-06/community-summit-roadshow-minneapolis) - August 6, 2026
-
 * [BI For Her Education Microsoft CommunityUpdated](https://communitydays.org/event/2026-08-08/bi-for-her-education-microsoft-community) - August 25, 2028
 * [Community Summit Roadshow Toronto](https://communitydays.org/event/2026-08-11/community-summit-roadshow-toronto) - August 11, 2026
 * [Microsoft Community Days Montreal](https://communitydays.org/event/2026-08-21/microsoft-community-days-montreal) - August 21, 2026
