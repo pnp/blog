@@ -38,7 +38,7 @@ After you contributed, we want to celebrate your contributions - which is why we
 
 Does your blog post contain code/script that others might find valuable and could probably serve as a sample as well? Please let us know, we want to share your sample in our sample galleries.
 
-Do you consider to demo your solution in one of our Community Calls? We would love to have you! Please reach out to [@LuiseFreese](https://twitter.com/luisefreese) - she will help to get you scheduled.
+Do you consider to demo your solution in one of our Community Calls? We would love to have you! Please reach out to [LuiseFreese]](https://www.linkedin.com/in/luisefreese/) - she will help to get you scheduled.
 
 ## What if you need help?
 
