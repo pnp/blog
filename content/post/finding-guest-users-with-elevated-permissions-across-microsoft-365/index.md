@@ -5,7 +5,7 @@ author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
 images:
-  - images/mailbox.png
+  - images/guestuserthumbnail.png
 tags: ["Microsoft 365"]
 type: "regular"
 draft: false
