@@ -28,7 +28,6 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* Muhammad Raifa - Copilot Entra ID management agent
 * [Joseph Jang](https://www.linkedin.com/in/joseph-jang-4975a5239/) - SharePointTemplates.com - One-Click SharePoint Site Provisioning with Sprocket 365
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) (Microsoft) - Building SharePoint Copilot Apps - My Day scenario
 
