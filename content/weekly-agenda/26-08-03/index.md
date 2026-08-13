@@ -2,13 +2,13 @@
 title: Weekly Agenda - 3rd of August week
 date: 2026-07-31T08:00:00.000Z
 author: Luise Freese
-githubname: LuiseFrees
+githubname: LuiseFreese
 categories:
   - weekly agenda
 images:
   - images/weeklyagenda31.PNG
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
