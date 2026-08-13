@@ -2,7 +2,7 @@
 title: Weekly Agenda - 17th of August week
 date: 2026-08-14T08:00:00.000Z
 author: Vesa Juvonen
-githubname:VesaJuvonen
+githubname: VesaJuvonen
 categories:
   - weekly agenda
 images:
