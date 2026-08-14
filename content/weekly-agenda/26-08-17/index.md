@@ -30,7 +30,7 @@ Demos this time:
 
 * [Muhammad Raifa](https://www.linkedin.com/in/matifrafiq/) - Copilot Entra ID management agent
 * [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot/) (BLIS Digital) - Creating a secure document handoff solution with SPFx and SharePoint Embedded
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) & [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) - SharePoint Embedded Monthly booking
+* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) & [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) - Latest updates on SharePoint Embedded
 
 
 ### Microsoft Power Platform community call - 19th of August
