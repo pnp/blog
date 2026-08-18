@@ -57,6 +57,8 @@ Demos this time:
 
 * [OluwaMayowa Ogbeide](https://ng.linkedin.com/in/oluwamayowa-ogbeide) - Building a Domain-Specific AI Advisor with Power Automate + SharePoint + External LLM APIs
 * [Simon Doy](https://www.linkedin.com/in/simondoy/) (iThink 365) - Cowork Plugins and Timesheets - Almost Never have to fill out a timesheet again
+* [David Warner](https://www.linkedin.com/in/davidwarnerii/) - Extending Agent Builder with Copilot Connectors
+
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
