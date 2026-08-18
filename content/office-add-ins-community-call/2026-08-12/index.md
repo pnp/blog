@@ -47,9 +47,9 @@ At the moment, we don't have plans to add a new API for listening to slide chang
 
 | Category | Article | Description |
 | -------- | ------- | ----------- |
-| General | [Request permissions for API use in add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/requesting-permissions-for-api-use-in-content-and-task-pane-add-ins) | Learn about the different permission levels you can declare in your add-in to access the Office JavaScript APIs. |
 | Copilot extensibility | [Create a Copilot skill for Excel that uses the Office JavaScript library (preview)](https://learn.microsoft.com/office/dev/add-ins/excel/excel-copilot-skill) | Preview how to create a Copilot skill for Excel that uses the Office JavaScript library. |
 | Outlook | [Preview encryption add-in improvements](https://learn.microsoft.com/office/dev/add-ins/outlook/encryption-decryption) | Preview improvements for your encryption add-in. |
+| General | [Request permissions for API use in add-ins](https://learn.microsoft.com/office/dev/add-ins/develop/requesting-permissions-for-api-use-in-content-and-task-pane-add-ins) | Learn about the different permission levels you can declare in your add-in to access the Office JavaScript APIs. |
 
 ## Call to action
 
