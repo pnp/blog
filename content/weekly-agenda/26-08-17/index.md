@@ -28,9 +28,9 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Muhammad Raifa](https://www.linkedin.com/in/matifrafiq/) - Copilot Entra ID management agent
-* [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot/) (BLIS Digital) - Creating a secure document handoff solution with SPFx and SharePoint Embedded
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) & [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) - SharePoint Embedded Monthly booking
+* [Saurabh Tripathi](https://www.linkedin.com/in/saurabh-k-tripathi/)​, [Nico De Cleyre](https://www.linkedin.com/in/nicodecleyre/) & [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) - Building a Bookmark Hub solution with SPFx for easy information tracking
+* [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot/) & [Robert Jaakke](https://www.linkedin.com/in/jaakke/) - Creating a secure document handoff solution with SPFx and SharePoint Embedded
+* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) (Microsoft) & [Marc Windle](https://www.linkedin.com/in/marcwindle/) (Microsoft) - Latest updates on SharePoint Embedded
 
 
 ### Microsoft Power Platform community call - 19th of August
@@ -43,6 +43,8 @@ Demos this time:
 
 * [Warjo Wario](https://www.linkedin.com/in/wariowario/) - Building Copilot Studio Agents with GitHub Copilot or Claude Code
 * [Seena Khan](https://bh.linkedin.com/in/seena-khan-ab1b29123) - Build an Enterprise AI Document Summarizer with Azure Blob Storage + Copilot Studio
+* [April Dunnam](https://www.linkedin.com/in/aprildunnam) - Building agents with the GitHub Copilot Harness with Agent Academy
+
 
 
 ### Copilot, Microsoft 365 & Power Platform Community call - 20th of August
@@ -55,6 +57,8 @@ Demos this time:
 
 * [OluwaMayowa Ogbeide](https://ng.linkedin.com/in/oluwamayowa-ogbeide) - Building a Domain-Specific AI Advisor with Power Automate + SharePoint + External LLM APIs
 * [Simon Doy](https://www.linkedin.com/in/simondoy/) (iThink 365) - Cowork Plugins and Timesheets - Almost Never have to fill out a timesheet again
+* [David Warner](https://www.linkedin.com/in/davidwarnerii/) - Extending Agent Builder with Copilot Connectors
+
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
