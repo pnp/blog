@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 24th of August week
-date: 2026-08-21T08:00:00.000Z
+date: 2026-08-21T07:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -31,7 +31,6 @@ Demos this time:
 * [Ed Williams](https://www.linkedin.com/in/ed-williams-44b1775/) - Bringing the physical world to Copilot Studio
 * [Adam Wójcik](https://www.linkedin.com/in/adam-wojcik-850157a/) - Setup and use PnP PowerShell with Copilot to manage your tenant without knowing it
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Building Copilot Apps with React - Employee HR Agent Scenario
-
 
 
 ### Copilot, Microsoft 365 & Power Platform Community call - 27th of August
