@@ -1,6 +1,6 @@
 ---
 title: Introducing the PnP PowerShell MCP Server
-summary: The PnP PowerShell MCP Server turns your favourite AI assistant into a PnP PowerShell co-pilot - describe what you want in plain English, and watch it run the cmdlets, write the scripts, and dig up community samples for you.
+summary: The PnP PowerShell MCP Server turns your favourite AI assistant into a PnP PowerShell copilot - describe what you want in plain English, and watch it run the cmdlets, write the scripts, and dig up community samples for you.
 date: 2026-08-24T19:09:00.000Z
 author: Nishkalank Bezawada
 githubname: NishkalankBezawada
@@ -20,7 +20,7 @@ tags:
 type: trending
 ---
 
-## 🤖 Say hello to your new PnP PowerShell co-pilot
+## 🤖 Say hello to your new PnP PowerShell MCP Server
 
 Ever wished you could just *tell* PnP PowerShell what you want, instead of hunting through 800+ cmdlets and their parameter sets? Now you can. 🎉
 
