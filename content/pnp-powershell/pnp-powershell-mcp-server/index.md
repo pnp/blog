@@ -1,6 +1,6 @@
 ---
 title: Introducing the PnP PowerShell MCP Server
-summary: The PnP PowerShell MCP Server lets you manage Microsoft 365 with natural language by turning your favourite MCP client into a PnP PowerShell co-pilot - running cmdlets, authoring scripts, and searching the community PnP Script Samples library, all from a plain-English prompt.
+summary: The PnP PowerShell MCP Server turns your favourite AI assistant into a PnP PowerShell co-pilot - describe what you want in plain English, and watch it run the cmdlets, write the scripts, and dig up community samples for you.
 date: 2026-08-24T19:09:00.000Z
 author: Nishkalank Bezawada
 githubname: NishkalankBezawada
@@ -20,65 +20,45 @@ tags:
 type: trending
 ---
 
-## 🤖 Introducing the PnP PowerShell MCP Server
+## 🤖 Say hello to your new PnP PowerShell co-pilot
 
-We are excited to introduce the **PnP PowerShell MCP Server** - a new way to work with [PnP PowerShell](https://pnp.github.io/powershell/) using **natural language**. 🎉
+Ever wished you could just *tell* PnP PowerShell what you want, instead of hunting through 800+ cmdlets and their parameter sets? Now you can. 🎉
 
-Instead of remembering the exact cmdlet, its parameter set, and the right syntax, you can now simply *describe* what you want to do, and let your MCP client (GitHub Copilot, Claude, Cursor, and more) translate that into the right chain of PnP PowerShell cmdlets - executed against your connected tenant.
-
-Think of it as a **PnP PowerShell co-pilot**: it knows the 800+ cmdlets, it can look up their documentation, it can search the community's [PnP Script Samples](https://pnp.github.io/script-samples/) library, and it can run commands for you - safely and with confirmation for anything destructive.
+The **PnP PowerShell MCP Server** turns your favourite AI assistant - GitHub Copilot, Claude, Cursor, and more - into a PnP PowerShell copilot. Type a plain-English request, and it figures out the right chain of cmdlets, runs them against your connected tenant, and hands you back the result. No more digging through docs to remember whether it's `-Identity` or `-List`, no more copy-pasting snippets from old scripts. Just describe the outcome you want.
 
 ![PnP PowerShell MCP Server](images/pnp-powershell-mcp-hero.png)
 
-## 🧩 What is an MCP server?
+It doesn't stop at running commands, either. It can search the community's [PnP Script Samples](https://pnp.github.io/script-samples/) library for you, pull up the exact cmdlet documentation you need, and it always asks before doing anything destructive - so you get the speed of natural language without giving up control.
 
-The **Model Context Protocol (MCP)** is an open standard that lets AI assistants talk to external tools in a consistent way. An **MCP server** exposes a set of *tools* and *resources* that an AI client can discover and call on your behalf.
+## 🧩 So what actually is this thing?
 
-The PnP PowerShell MCP Server is a **local (stdio) MCP server**. It shells out to the PnP PowerShell module already installed on your machine - so it reuses *your* authentication and *your* connection context. It does **not** authenticate for you and it does **not** send your tenant data anywhere; it simply lets your AI client drive PnP PowerShell in a controlled way.
+The **Model Context Protocol (MCP)** is an open standard that lets AI assistants talk to external tools in a consistent way. The PnP PowerShell MCP Server is one of those tools - a small **local (stdio) MCP server** that runs on your machine and shells out to the PnP PowerShell module you already have installed.
 
-## ✨ Why it matters
+That means it reuses *your* sign-in and *your* connection - it never authenticates on your behalf, and it never sends your tenant data anywhere else. Think of it as a thin, trustworthy layer that lets your AI client drive PnP PowerShell for you, safely.
 
-With the PnP PowerShell MCP Server you can manage many different areas of Microsoft 365 straight from your MCP client:
+## ✨ Why you'll want this in your toolbox
+
+Once it's wired up, you can manage huge chunks of Microsoft 365 without leaving your chat window:
 
 * **SharePoint Online** - sites, lists, libraries, columns, items, pages
 * **Microsoft Teams** - teams, channels, posts
 * **Entra ID**, **OneDrive**, **Planner**, **Power Platform**, **Microsoft 365 Groups**
 * **Taxonomy, search, and tenant administration**
 
-Beyond running commands, it's a great **jump-start for writing your own automation**: ask it for a community script sample, and it will find the most relevant one and adapt it to your scenario.
+And honestly, one of the best parts is how it jump-starts your own scripts. Stuck on how to automate something? Just ask - it'll find the closest community sample and adapt it to your scenario, so you start from working code instead of a blank file.
 
-## 📦 Prerequisites
+## 🚀 Get it running in minutes
 
-Before you begin, make sure you have:
-
-* [PowerShell 7.4 or above](https://aka.ms/powershell) (`pwsh`) installed and available on your `PATH`
-* The [`PnP.PowerShell`](https://www.powershellgallery.com/packages/PnP.PowerShell) module installed:
-
-  ```powershell
-  Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
-  ```
-
-* A connection established with `Connect-PnPOnline` - the MCP server reuses this same connection context.
-
-> The published tool releases are self-contained, so you only need the [.NET 10 SDK](https://dotnet.microsoft.com/download) if you want to build and run from source.
-
-## 🚀 Installation
-
-You can install the server in two ways: as a persistent .NET global tool, or on-demand through the `dnx` tool runner straight from your MCP client config.
+Setting this up is genuinely quick - you'll be chatting your way through PnP PowerShell before you know it. Pick whichever install path suits you.
 
 ### Option 1: Install as a .NET global tool
 
 ```bash
-dotnet tool install --global PnP.PowerShell.MCPServer --prerelease
+dotnet tool install --global PnP.PowerShell.MCPServer --version 0.1.4-beta
 ```
 
 This installs a self-contained, native AOT executable named `pnp-powershell-mcp-server` on your `PATH`. It supports Windows (x64, arm64), macOS (arm64, x64), and Linux (x64, arm64, musl x64).
 
-To update an existing install:
-
-```bash
-dotnet tool update --global PnP.PowerShell.MCPServer --prerelease
-```
 
 ![Installing the PnP PowerShell MCP Server as a .NET global tool](images/install-dotnet-tool.png)
 
@@ -129,39 +109,15 @@ You should end up with the following in your `.vscode/mcp.json` file:
 
 ![Registering the server in VS Code mcp.json](images/vscode-mcp-config.png)
 
-Now open GitHub Copilot chat in Agent mode, and you'll be able to select the **PnP PowerShell MCP Server** tools. Start your prompt with something like *"Using PnP PowerShell, I want you to..."* and Copilot will use the MCP server to fulfil your request.
+Now open GitHub Copilot chat in Agent mode, and you'll see the **PnP PowerShell MCP Server** tools show up. Start your prompt with something like *"Using PnP PowerShell, I want you to..."* and watch Copilot take it from there.
 
 ![PnP PowerShell MCP tools available in GitHub Copilot](images/copilot-tools-list.png)
 
-The server can also be added to **GitHub Copilot CLI**, **Claude Code**, **Claude Desktop**, and **Cursor** - see the [project README](https://github.com/pnp/pnp-powershell-mcp-server) for the exact steps for each client.
+You're not limited to VS Code, either - the server works just as well with **GitHub Copilot CLI**, **Claude Code**, **Claude Desktop**, and **Cursor**. See the [project README](https://github.com/pnp/pnp-powershell-mcp-server) for the exact steps for each client.
 
-## 🛠️ Capabilities & tools
+## 📷 What you can do with it
 
-Under the hood, the server exposes a focused set of tools. Your MCP client picks the right one automatically - you just describe what you want.
-
-| Tool | What it does |
-| --- | --- |
-| `pnp_search_commands` | Finds which cmdlet does a job by keyword, with a link to each cmdlet's help. Works offline via a vendored cmdlet index. |
-| `pnp_get_command_docs` | Returns the full reference docs for a cmdlet - syntax, parameters, parameter sets, and examples. |
-| `pnp_run_command` | Runs PnP PowerShell against your connected tenant in a persistent session. Destructive commands require confirmation first. |
-| `pnp_get_result_page` | Pages through a large result set that was summarised, without re-querying the tenant. |
-| `pnp_get_connection_status` | Reports whether you're signed in, to which site, and as which account. |
-| `pnp_diagnose_connection` | Checks everything needed before a command can run - `pwsh`, the module, and the connection - and names the exact fix for each failing check. |
-| `pnp_reset_session` | Ends a session and its connection - to sign out, switch accounts, or recover a stuck session. |
-| `pnp_get_best_practices` | Returns best practices for using PnP PowerShell through the MCP server. |
-| `pnp_search_script_samples` | Lists community [PnP Script Samples](https://pnp.github.io/script-samples/) matching a keyword. |
-| `pnp_get_script_sample` | Retrieves the full script code for a named community sample. |
-| `pnp_suggest_script` | Finds the most relevant community samples for a task and returns their code plus adaptation guidance. |
-| `pnp_ping` | Lightweight health check - server version, uptime, read-only status, and active session count. |
-| `pnp_list_sessions` | Lists all active PowerShell sessions with their status and last activity time. |
-
-Every tool declares its `readOnlyHint`, `idempotentHint`, and `openWorldHint` annotations, and the two that can change state also declare `destructiveHint` - so your client can decide what to auto-approve without guessing.
-
-The same guidance and cmdlet documentation is also exposed as MCP **resources** (`pnp://best-practices`, `pnp://best-practices/{section}`, and `pnp://cmdlet/{name}`), so a client that supports resources can browse and cache the content instead of spending a tool call on it.
-
-## 📷 Use cases
-
-Here are a few examples of what you can do - these are just a starting point; feel free to experiment.
+These are just a taste of what's possible - once you get going, you'll find yourself reaching for it constantly.
 
 ### Manage SharePoint Online
 
@@ -182,9 +138,11 @@ Here are a few examples of what you can do - these are just a starting point; fe
 > Can you check if I have a Power Automate flow called 'HoursReportingReminder' and if so disable it?
 
 
-## 🔐 Security & safety
+Imagine being able to say things like this and just having them done - that's the everyday reality with this MCP server in your corner.
 
-Security was a first-class design goal:
+## 🔐 Safe by design, so you can move fast
+
+Naturally, handing an AI assistant the keys to your tenant raises an eyebrow - so safety was baked in from day one:
 
 * **You stay in control of authentication.** The server never signs in for you - it reuses the connection you made with `Connect-PnPOnline`.
 * **Destructive commands require confirmation.** Anything that can change or delete state must be confirmed before it runs.
@@ -192,77 +150,36 @@ Security was a first-class design goal:
 
 ![A destructive command asking for confirmation before running](images/destructive-confirmation.png)
 
-## 🔁 Working with multiple tenants
+That means you get to move fast and explore freely, without worrying about an accidental `Remove-PnPTenantSite`.
+
+## 🔁 Juggling multiple tenants? No problem
 
 Commands run in a persistent `pwsh` session, so a connection made with `Connect-PnPOnline` stays alive across calls - you connect once rather than on every command.
 
-For most work you never think about sessions. If you need to work against **two tenants (or two accounts) at the same time**, you can simply *say* so, and the agent will keep each connection in its own named session:
+For most work you never think about sessions. If you need to work against **two tenants (or two accounts) at the same time**, just say so, and the agent will keep each connection in its own named session:
 
 > Connect to contoso in a session called "contoso" and to fabrikam in a session called "fabrikam", then list the site count in each and tell me which is larger.
 
-### Things worth knowing
-
-A few practical notes that will save you time once you start using sessions:
+### A few tips to make the experience smoother
 
 * **Sign out or switch account** with `pnp_reset_session`. It ends that session and discards its connection and variables; the next call starts fresh.
 * **Idle sessions end after 30 minutes.** A session busy running a command is never reclaimed, however long it takes - just reconnect if one does expire.
 * **One command at a time per session.** A second call against a busy session waits, then reports the session is busy. To genuinely run two things at once, use two different session names.
 * **Reuse the connection.** Don't re-run `Connect-PnPOnline` before every command; the agent checks `pnp_get_connection_status` first and reuses the existing connection.
 
-## ⚙️ Configuration
+## 💬 Give it a try - we'd love your feedback
 
-The server reads a handful of environment variables that let you tune its behaviour - from locking it into read-only mode to extending the command timeout for long-running tenant reports. You set these wherever your MCP client launches the server (most commonly the `env` block of your `.vscode/mcp.json`).
-
-| Environment variable | Default | Description |
-| --- | --- | --- |
-| `PNP_MCP_READONLY` | `false` | Set to `true` to refuse any command that would change Microsoft 365. Only read-style verbs (`Get-`, `Export-`, `Test-`, `Find-`, `Measure-`, ...) are allowed; change verbs (`Set-`, `Remove-`, `New-`, `Add-`, ...) are blocked. Great for letting an agent explore a production tenant safely. |
-| `PNP_MCP_CONFIRM_DESTRUCTIVE` | `true` | Set to `false` to run destructive commands (`Remove-*`, `Clear-*`, ...) without asking for confirmation. Use only in reviewed, unattended automation. |
-| `PNP_MCP_COMMAND_TIMEOUT_SECONDS` | `600` | Wall-clock limit for a single `pnp_run_command` call. On timeout the session is terminated and the connection is lost. |
-| `PNP_MCP_MAX_OUTPUT_CHARS` | `50000` | Largest tool response returned, in characters. Oversized result sets are summarised and paged rather than blindly truncated. |
-| `PNP_SCRIPT_SAMPLES_PATH` | _(unset)_ | Path to a local clone of [pnp/script-samples](https://github.com/pnp/script-samples), used when you want a catalogue newer than the one compiled into the server. |
-
-Here's how you'd set two of them in VS Code:
-
-```json
-{
-    "servers": {
-        "PnP PowerShell MCP Server": {
-            "type": "stdio",
-            "command": "pnp-powershell-mcp-server",
-            "env": {
-                "PNP_MCP_READONLY": "true",
-                "PNP_MCP_COMMAND_TIMEOUT_SECONDS": "1800"
-            }
-        }
-    }
-}
-```
-
-The client passes the environment in when it launches the server process, so after changing any of these, **restart the MCP server** (in most clients, reload the window or toggle the server off and on) - an already-running server keeps the old values.
-
-### Worked examples
-
-| Goal | Setting |
-| --- | --- |
-| Let an agent explore a production tenant without being able to change it | `PNP_MCP_READONLY=true` |
-| Tenant-wide reports that take longer than 10 minutes | `PNP_MCP_COMMAND_TIMEOUT_SECONDS=3600` |
-| Unattended automation where the commands are already reviewed | `PNP_MCP_CONFIRM_DESTRUCTIVE=false` |
-| Work against a script-samples clone newer than the vendored index | `PNP_SCRIPT_SAMPLES_PATH=C:\src\script-samples` |
-
-> ⚠️ Two cautions: `PNP_MCP_CONFIRM_DESTRUCTIVE=false` removes the only prompt standing between an agent and a command like `Remove-PnPTenantSite`, so set it only where the commands are reviewed some other way. And the booleans are matched exactly - `PNP_MCP_READONLY` enables only on the literal string `true`, and `PNP_MCP_CONFIRM_DESTRUCTIVE` disables only on `false`; anything else (including `1` and `yes`) leaves the default in place.
-
-## 💬 Try it out and share feedback
-
-The PnP PowerShell MCP Server is open source and community-driven. We'd love for you to:
+The PnP PowerShell MCP Server is open source and community-driven, and it genuinely gets better with every person who tries it. So go on:
 
 * 👉 **Try it out** and manage Microsoft 365 using natural language
 * 👉 **Report any issues or bugs** you encounter
 * 👉 **Share feedback, suggestions, and feature requests**
 
-You can find the project, full installation instructions for every client, and the source code on GitHub: [pnp/pnp-powershell-mcp-server](https://github.com/pnp/pnp-powershell-mcp-server).
+Everything you need - the project, full installation instructions for every client, and the source code - is right here on GitHub: [pnp/pnp-powershell-mcp-server](https://github.com/pnp/pnp-powershell-mcp-server). Star it, try it, and let us know what you build with it!
 
 ## Need more information?
 
 For more on PnP PowerShell itself - commands, architecture, and getting started - visit [aka.ms/pnppowershell](https://aka.ms/pnppowershell).
 
 Happy scripting with natural language! 💙
+
