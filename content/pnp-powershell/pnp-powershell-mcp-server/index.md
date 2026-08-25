@@ -137,6 +137,11 @@ I need a PnP PowerShell script that exports all SharePoint list items to a CSV f
 
 Can you check if I have a Power Automate flow called 'HoursReportingReminder' and if so disable it?
 
+### Get Connection status
+
+You can check the connection status, and even get the different sessions.
+
+![PnP PowerShell MCP tools - Get connection status](images/get-connection-status.png)
 
 Imagine being able to say things like this and just having them done. That's the everyday reality with this MCP server in your corner.
 
