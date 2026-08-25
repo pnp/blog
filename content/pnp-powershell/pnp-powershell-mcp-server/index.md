@@ -54,7 +54,7 @@ Setting this up is genuinely quick. You'll be chatting your way through PnP Powe
 ### Option 1: Install as a .NET global tool
 
 ```bash
-dotnet tool install --global PnP.PowerShell.MCPServer --version 0.1.4-beta
+dotnet tool install --global PnP.PowerShell.MCPServer --version 0.1.5-beta
 ```
 
 This installs a self-contained, native AOT executable named `pnp-powershell-mcp-server` on your `PATH`. It supports Windows (x64, arm64), macOS (arm64, x64), and Linux (x64, arm64, musl x64).
@@ -72,13 +72,13 @@ If you're on the .NET 10 SDK, you don't need to install anything up front, you c
     "PnP.PowerShell.MCPServer": {
       "type": "stdio",
       "command": "dnx",
-      "args": ["PnP.PowerShell.MCPServer@0.1.4-beta", "--yes"]
+      "args": ["PnP.PowerShell.MCPServer@0.1.5-beta", "--yes"]
     }
   }
 }
 ```
 
-This is the configuration surfaced on the [NuGet package page](https://www.nuget.org/packages/PnP.PowerShell.MCPServer). Pin the version (`@0.1.4-beta`) to a specific release, or drop it to always pull the latest prerelease.
+This is the configuration surfaced on the [NuGet package page](https://www.nuget.org/packages/PnP.PowerShell.MCPServer). Pin the version (`@0.1.5-beta`) to a specific release, or drop it to always pull the latest prerelease.
 
 ### Add to VS Code
 
@@ -121,21 +121,21 @@ These are just a taste of what's possible once you get going, you'll find yourse
 
 ### Manage SharePoint Online
 
-> Add a new list to this site with title 'awesome ducks'. Then add new columns to that list including them in the default view. The first should be a text description column and the second one should be a user column. Then add 3 items to this list with some funny jokes about ducks added in the description column and my user in the user column.
+Connect to SharePoint site and create a list with name `PnPPowerShellMCP-Rocks`. List schema and connection attributes are in the attached context. This creates a list with the given structure.
 
+![Connect to SharePoint site and create a list](images/connect-and-create-list.gif)
 
 ### Manage Microsoft Teams
 
-> Create a new Team on Teams with name 'Awesome Ducks' and in the General channel add a welcome post.
-
+Create a new Team on Teams with name 'Awesome Ducks' and in the General channel add a welcome post.
 
 ### Bootstrap a script from a community sample
 
-> I need a PnP PowerShell script that exports all SharePoint list items to a CSV file, find a community sample and adapt it for the 'Documents' list on my site.
+I need a PnP PowerShell script that exports all SharePoint list items to a CSV file, find a community sample and adapt it for the 'Documents' list on my site.
 
 ### Report on tenant state
 
-> Can you check if I have a Power Automate flow called 'HoursReportingReminder' and if so disable it?
+Can you check if I have a Power Automate flow called 'HoursReportingReminder' and if so disable it?
 
 
 Imagine being able to say things like this and just having them done. That's the everyday reality with this MCP server in your corner.
