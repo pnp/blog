@@ -1,6 +1,6 @@
 ---
 title: "When a Simple Guest Account Cleanup Script Needed More Than a Code Review"
-date: 2026-08-23T00:00:00-00:00
+date: 2026-08-27T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
