@@ -1,6 +1,6 @@
 ---
 title: Introducing the PnP PowerShell MCP Server
-summary: The PnP PowerShell MCP Server turns your favourite AI assistant into a PnP PowerShell copilot, describe what you want in plain English, and watch it run the cmdlets, write the scripts, and dig up community samples for you.
+summary: The PnP PowerShell MCP Server (super beta!) turns your favourite AI assistant into a PnP PowerShell copilot. Describe what you want in plain English, and watch it run the cmdlets, write the scripts, and dig up community samples for you. Help us shape it—we'd love your feedback!
 date: 2026-08-24T19:09:00.000Z
 author: Nishkalank Bezawada
 githubname: NishkalankBezawada
@@ -20,11 +20,13 @@ tags:
 type: trending
 ---
 
-## 🤖 Say hello to your new PnP PowerShell MCP Server
+## 🤖 Say hello to your new PnP PowerShell MCP Server (Super Beta! 🚀)
 
-Ever wished you could just *tell* PnP PowerShell what you want, instead of hunting through 800+ cmdlets and their parameter sets? Now you can. 🎉
+> ⚠️ **This is super beta and evolving.** It's not production-ready yet, but we'd love for you to try it out, push it to its limits, and help us shape what it becomes. Your feedback and ideas are what make this better.
 
-The **PnP PowerShell MCP Server** turns your favourite AI assistant like GitHub Copilot, Claude, Cursor, and more into a PnP PowerShell copilot. Type a plain english request, and it figures out the right chain of cmdlets, runs them against your connected tenant, and hands you back the result. No more digging through docs to remember whether it's `-Identity` or `-List`, no more copy-pasting snippets from old scripts. Just describe the outcome you want.
+Ever wished you could just *tell* PnP PowerShell what you want, instead of hunting through 800+ cmdlets and their parameter sets? Now you can—*experimentally*. 🎉
+
+The **PnP PowerShell MCP Server** turns your favourite AI assistant like GitHub Copilot, Claude, Cursor, and more into a PnP PowerShell copilot. Type a plain English request, and it figures out the right chain of cmdlets, runs them against your connected tenant, and hands you back the result. No more digging through docs to remember whether it's `-Identity` or `-List`, no more copy-pasting snippets from old scripts. Just describe the outcome you want.
 
 ![PnP PowerShell MCP Server](images/pnp-powershell-mcp-hero.png)
 
@@ -32,9 +34,9 @@ It doesn't stop at running commands, either. It can search the community's [PnP 
 
 ## 🧩 So what actually is this thing?
 
-The **Model Context Protocol (MCP)** is an open standard that lets AI assistants talk to external tools in a consistent way. The PnP PowerShell MCP Server is one of those tools a small **local (stdio) MCP server** that runs on your machine and shells out to the PnP PowerShell module you already have installed.
+The **Model Context Protocol (MCP)** is an open standard that lets AI assistants talk to external tools in a consistent way. The PnP PowerShell MCP Server is an **experimental implementation**, a small **local (stdio) MCP server** that runs on your machine and shells out to the PnP PowerShell module you already have installed.
 
-That means it reuses *your* sign-in and *your* connection, it never authenticates on your behalf, and it never sends your tenant data anywhere else. Think of it as a thin, trustworthy layer that lets your AI client drive PnP PowerShell for you, safely.
+That means it reuses *your* sign-in and *your* connection, it never authenticates on your behalf, and it never sends your tenant data anywhere else. Think of it as a thin, trustworthy layer that lets your AI client drive PnP PowerShell for you, safely. Just keep in mind: we're still figuring out the best way to do this, and your feedback helps us get there.
 
 ## ✨ Why you'll want this in your toolbox
 
@@ -172,15 +174,16 @@ For most work you never think about sessions. If you need to work against **two 
 * **One command at a time per session.** A second call against a busy session waits, then reports the session is busy. To genuinely run two things at once, use two different session names.
 * **Reuse the connection.** Don't re-run `Connect-PnPOnline` before every command; the agent checks `pnp_get_connection_status` first and reuses the existing connection.
 
-## 💬 Give it a try. We'd love your feedback
+## 💬 Help us shape this tool. We need your input! 🙌
 
-The PnP PowerShell MCP Server is open source and community-driven, and it genuinely gets better with every person who tries it. So go on:
+This is where your voice matters. The PnP PowerShell MCP Server is **in active development** and genuinely evolves with every piece of feedback from the community. We're learning what works, what doesn't, and what should come next—and that can only happen with people like you trying it out.
 
-* 👉 **Try it out** and manage Microsoft 365 using natural language
-* 👉 **Report any issues or bugs** you encounter
-* 👉 **Share feedback, suggestions, and feature requests**
+* 👉 **Try it out** and manage Microsoft 365 using natural language—tell us what breaks, what surprises you, and what should work differently
+* 👉 **Report bugs and edge cases** you hit (that's gold for us right now)
+* 👉 **Share ideas for features** and improvements—even half-baked ones are valuable
+* 👉 **Show us what you build** with it—proof of concept or wild experiment, we'd love to see it
 
-Everything you need, full installation instructions for every client, and the source code is right here on GitHub: [pnp/pnp-powershell-mcp-server](https://github.com/pnp/pnp-powershell-mcp-server). Star it, try it, and let us know what you build with it!
+Everything you need, full installation instructions for every client, and the source code is right here on GitHub: [pnp/pnp-powershell-mcp-server](https://github.com/pnp/pnp-powershell-mcp-server). Star it, try it, break it, and tell us how to make it better!
 
 ## Need more information?
 
