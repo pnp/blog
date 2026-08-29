@@ -28,7 +28,7 @@ This is the agenda for the upcoming week:
 
 Demos this time:
 
-* [Rémi Dyon](https://www.linkedin.com/in/remi-dyon/) - Introduction of GitHub Harness in Copilot Studio
+* [Rémi Dyon](https://www.linkedin.com/in/remidyon/) - Introduction of GitHub Harness in Copilot Studio
 * [Scott Durow](https://www.linkedin.com/in/scottdurow/) - Learn the new GitHub Copilot Harness in Copilot Studio with Agent Academy
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Surfacing your business apps in Copilot canvas - AI Project Portfolio Scenario
 
@@ -41,9 +41,9 @@ Demos this time:
 
 Demos this time:
 
-* [Ian Tweedie](https://www.linkedin.com/in/ian-tweedie/) - Sometimes a Little Code Saves a Hundred-Step Flow
-* [Katrina Frolinka](https://www.linkedin.com/in/katrina-frolinka/) - Custom Copilot Agent for Document Generation in SharePoint
-* [Elio Struyf](https://www.linkedin.com/in/elio-struyf/) - Supporting WebMCP within an SPFx extension
+* [Ian Tweedie](https://www.linkedin.com/in/iantweedie/) - Sometimes a Little Code Saves a Hundred-Step Flow
+* [Katrina Frolkina](https://www.linkedin.com/in/katrinafrolkina) - Custom Copilot Agent for Document Generation in SharePoint
+* [Elio Struyf](https://www.linkedin.com/in/estruyf/) - Supporting WebMCP within an SPFx extension
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -52,14 +52,12 @@ Demos this time:
 ## New videos
 
 Update of the newly published videos in our YouTube channel
-Update of the newly published videos in our YouTube channel 
-
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
 * [No API, No Problem: Building Declarative Agents with Dev Proxy](https://www.youtube.com/watch?v=PQZfmI0CQBI) by [Garry Trinder](https://www.linkedin.com/in/garry-trinder/) (Microsoft)
 * [Revitalizing OneDrive on Mobile | OneDrive Office Hours:  August 2026](https://www.youtube.com/watch?v=d_4U_4hI1JY)
-* [Streamlining Enterprise Collaboration - ACP - SharePoint partner spotlight](https://www.youtube.com/watch?v=3HW0qBi7tIE) by Julia [Kaufmann-Hailu](https://www.linkedin.com/in/kaufmannjulia) (ACP) and [Martin Ettl](https://www.linkedin.com/in/martin-ettl) (ACP) -   / 
+* [Streamlining Enterprise Collaboration - ACP - SharePoint partner spotlight](https://www.youtube.com/watch?v=3HW0qBi7tIE) by [Julia Kaufmann-Hailu](https://www.linkedin.com/in/kaufmannjulia) (ACP) and [Martin Ettl](https://www.linkedin.com/in/martin-ettl) (ACP) -   / 
 * [Insurance Claims Assist using AI in SharePoint with Copilot Studio](https://www.youtube.com/watch?v=8sHqtfq3uq0) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) (Avanade)
 * [Announcing Open-Source Skills for Copilot in SharePoint](https://www.youtube.com/watch?v=FcLy_32vblM) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)
 * [From Prompt to a Filled-In Word Template: Automating Customer Research with Copilot & Agent Flows](https://www.youtube.com/watch?v=vL7XI5QsrLA) by [Sailaja Mantripragada](https://www.linkedin.com/in/sailajamantripragada/) (Low Code Power)
