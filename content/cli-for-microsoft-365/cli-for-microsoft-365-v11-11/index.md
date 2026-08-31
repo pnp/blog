@@ -44,7 +44,7 @@ For additional options and response details, visit the [command documentation](h
 
 ### Fixed retrieving a SharePoint user by ID with `spo user get`
 
-The `spo user get` command failed with an `Specified id is not a number` error whenever you tried to retrieve a user by their ID, effectively making that option unusable. The validation has been corrected, so looking up a site user by ID works as expected again.
+The `spo user get` command failed with a `Specified id is not a number` error whenever you tried to retrieve a user by their ID, effectively making that option unusable. The validation has been corrected, so looking up a site user by ID works as expected again.
 
 To get a SharePoint user by ID, run:
 
@@ -91,9 +91,9 @@ We want to extend our heartfelt appreciation to the incredible individuals who h
 
 We would like to give a big shout-out and high-fives to the amazing individuals who have shared their invaluable feedback and ideas for improving CLI for Microsoft 365. We greatly appreciate your engagement and contribution to the growth of our platform. Let's celebrate the following users (in alphabetical order) for taking the time to share their insights:
 
-- [KnightyCode](https://github.com/KnightyCode)
 - [Elliot Margot](https://github.com/OwnOptic)
 - [Jasey Waegebaert](https://github.com/Jwaegebaert)
+- [KnightyCode](https://github.com/KnightyCode)
 - [Shirish Mawande](https://github.com/shirishmawande)
 - [Svyatoslav Pidgorny](https://github.com/SP3269)
 
