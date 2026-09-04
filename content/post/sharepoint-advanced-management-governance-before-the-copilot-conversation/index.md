@@ -1,6 +1,6 @@
 ---
 title: "SharePoint Advanced Management: Governance Before the Copilot Conversation"
-date: 2026-09-01T00:00:00-00:00
+date: 2026-09-04T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
