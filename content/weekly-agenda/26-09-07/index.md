@@ -47,7 +47,7 @@ Agenda this time:
 * [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) - Introducing the Work IQ Dev Tools
 * Kevin Ly - Understanding Copilot credits in Copilot Cowork and Work IQ
 
-## Copilot, Microsoft 365 & Power Platform Community call - 10th of September
+### Copilot, Microsoft 365 & Power Platform Community call - 10th of September
 
 * Thursday, 10th of September 2026, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
@@ -114,6 +114,7 @@ Videos published August 30 - September 5, 2026, including Shorts and livestream 
 ## Last community call recordings published last week
 
 Here are the last week's community call recordings. You can download recurrent invites from the [community calls page](https://aka.ms/community/calls).
+
 
 * [Copilot, Microsoft 365 & Power Platform community call – 3rd of September, 2026](https://www.youtube.com/watch?v=pJjt48qvtP0)
 * [Copilot, Microsoft 365 & Power Platform weekly call – 1st of September, 2026](https://www.youtube.com/watch?v=7BNIeQg06Tc)
