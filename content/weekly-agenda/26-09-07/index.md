@@ -20,7 +20,7 @@ Want to demo on what you have created or figured out with the out-of-the-box fea
 
 This is the agenda for the upcoming week:
 
-### Copilot, Microsoft 365 & Power Platform product updates call - 8th of September
+## Copilot, Microsoft 365 & Power Platform product updates call - 8th of September
 
 * Tuesday, 8th of September 2026, 8:00 AM PT / 4:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/ms-speakers-call-invite) or [join the call](https://aka.ms/m365-dev-call-join) we'd love to see you in the call!
@@ -32,8 +32,22 @@ Demos this time:
 * [Fabian Williams](https://www.linkedin.com/in/fabiangwilliams/) - Ask Copilot how your agents are being used - Introduction to Insights Agent
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Creating Copilot Components with SPFx: How Does It Actually Work?
 
+## Copilot Extensibility community call - 9th of September
 
-### Copilot, Microsoft 365 & Power Platform Community call - 10th of September
+* Wednesday, 9th of September 2026, 8:00 AM PT / 3:00 PM GMT / 6:00 PM EEST
+* [View the event details and RSVP on Meetup](https://www.meetup.com/global-microsoft-365-dev-meetup/events/316309710/)
+* Download the [recurring invite and join the call](https://aka.ms/community/CopilotExtensibility-call-invite) - we'd love to see you there!
+* If you can't make it this time, you can watch the recording on the [Microsoft Community Learning YouTube channel](https://aka.ms/community/youtube)
+
+Agenda this time:
+
+* News and updates from Microsoft
+* Community group photo
+* [Anthony Shaw](https://adoption.microsoft.com/en-us/sample-solution-gallery/tonybaloney/) - Personal Microsoft IQ Dashboards with the IQ APIs
+* [Sébastien Levert](https://www.linkedin.com/in/sebastienlevert/) - Introducing the Work IQ Dev Tools
+* Kevin Ly - Understanding Copilot credits in Copilot Cowork and Work IQ
+
+## Copilot, Microsoft 365 & Power Platform Community call - 10th of September
 
 * Thursday, 10th of September 2026, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
@@ -99,7 +113,7 @@ Videos published August 30 - September 5, 2026, including Shorts and livestream 
 
 ## Last community call recordings published last week
 
-Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
+Here are the last week's community call recordings. You can download recurrent invites from the [community calls page](https://aka.ms/community/calls).
 
 * [Copilot, Microsoft 365 & Power Platform community call – 3rd of September, 2026](https://www.youtube.com/watch?v=pJjt48qvtP0)
 * [Copilot, Microsoft 365 & Power Platform weekly call – 1st of September, 2026](https://www.youtube.com/watch?v=7BNIeQg06Tc)

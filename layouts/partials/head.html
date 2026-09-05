@@ -39,7 +39,24 @@
 {{ end }}
 <link rel="manifest" href="{{`manifest.webmanifest` | relURL }}">
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
-<meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
+<meta id="theme-color" name="theme-color" content="#f1f2f4">
+<script>
+  (function () {
+    var storageKey = "pnp-blog-theme";
+    var storedTheme = null;
+
+    try {
+      storedTheme = localStorage.getItem(storageKey);
+    } catch (error) {
+      storedTheme = null;
+    }
+
+    var preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    var theme = storedTheme === "light" || storedTheme === "dark" ? storedTheme : preferredTheme;
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme;
+  })();
+</script>
 
 <!-- Custom twitter implementation -->
 {{ $resources:= .Resources }}

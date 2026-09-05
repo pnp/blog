@@ -198,7 +198,7 @@
                 {{ $img:= resources.Get $imgPath }}
                 {{ $imageXS:= $img.Fill "85x85 webp" }}
                 <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imageXS.RelPermalink}}" class="card-img-sm" loading="lazy" alt="post-thumb">
-              {{{ else }}
+              {{ else }}
               {{ with $resources.GetMatch $imgPath }}
               {{ $img:= . }}
                   {{ $imageXS:= $img.Fill "85x85 webp" }}

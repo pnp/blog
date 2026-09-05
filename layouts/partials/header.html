@@ -1,0 +1,42 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="navigation fixed-top pnp-site-header">
+  <div class="pnp-spectrum" aria-hidden="true"></div>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-xl navbar-white" aria-label="Primary navigation">
+      <a class="navbar-brand pnp-brand order-1" href="{{ site.BaseURL | relLangURL }}" aria-label="Community Blog home">
+        {{ partial "logo.html" . }}
+        <span class="pnp-brand-copy">
+          <span>Community</span> <strong>Blog</strong>
+        </span>
+      </a>
+
+      <div class="pnp-header-actions order-2 order-xl-3">
+        <button class="pnp-theme-toggle" id="theme-toggle" type="button" role="switch" aria-checked="false"
+          aria-label="Switch to dark mode" title="Switch to dark mode">
+          <span class="pnp-theme-toggle__icons" aria-hidden="true">
+            <i class="fas fa-sun"></i>
+            <i class="fas fa-moon"></i>
+          </span>
+        </button>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="fas fa-bars" aria-hidden="true"></i>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse order-3 order-xl-2" id="navigation">
+        <ul class="navbar-nav ml-auto align-items-xl-center">
+          <li class="nav-item"><a class="nav-link active" href="{{ site.BaseURL | relLangURL }}" aria-current="page">Blog</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.Params.PnPHomePageUrl }}#events">Community Calls</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.Params.PnPHomePageUrl }}#guidance">Guidance</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.Params.PnPHomePageUrl }}#samples">Samples &amp; Solutions</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.Params.PnPHomePageUrl }}#sdks">SDKs</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.Params.PnPHomePageUrl }}#tools">Tools</a></li>
+          <li class="nav-item pnp-github-link">{{ partial "gh-link.html" . }}</li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}
