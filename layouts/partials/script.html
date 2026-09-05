@@ -121,6 +121,47 @@
     tag.text(text);
   }
 </script>
+<script type="application/javascript">
+  (function () {
+    var root = document.documentElement;
+    var toggle = document.getElementById("theme-toggle");
+    var themeColor = document.getElementById("theme-color");
+    var storageKey = "pnp-blog-theme";
+
+    function applyTheme(theme, persist) {
+      var isDark = theme === "dark";
+      var label = "Switch to " + (isDark ? "light" : "dark") + " mode";
+
+      root.dataset.theme = theme;
+      root.style.colorScheme = theme;
+      themeColor && themeColor.setAttribute("content", isDark ? "#0c111a" : "#f1f2f4");
+
+      if (toggle) {
+        toggle.setAttribute("aria-checked", String(isDark));
+        toggle.setAttribute("aria-label", label);
+        toggle.title = label;
+      }
+
+      if (persist) {
+        try {
+          localStorage.setItem(storageKey, theme);
+        } catch (error) {
+          // Theme still applies when storage is unavailable.
+        }
+      }
+    }
+
+    applyTheme(root.dataset.theme === "dark" ? "dark" : "light", false);
+
+    toggle && toggle.addEventListener("click", function () {
+      root.classList.add("theme-transition");
+      applyTheme(root.dataset.theme === "dark" ? "light" : "dark", true);
+      window.setTimeout(function () {
+        root.classList.remove("theme-transition");
+      }, 420);
+    });
+  })();
+</script>
 {{ if .HasShortcode "mermaid" }}
 <!-- MermaidJS support -->
 <script src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>

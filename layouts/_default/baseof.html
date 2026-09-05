@@ -22,6 +22,11 @@
 	{{ partial "header.html" . }}
 	{{ end }}
 
+	<div class="pnp-page-backdrop" aria-hidden="true">
+		<img class="pnp-page-backdrop__left" src="{{ `images/backgrounds/community-abstract-left.webp` | relURL }}" alt="">
+		<img class="pnp-page-backdrop__right" src="{{ `images/backgrounds/community-abstract-right.webp` | relURL }}" alt="">
+	</div>
+
 	<main>
 		{{ block "main" . }}{{ end }}
 	</main>

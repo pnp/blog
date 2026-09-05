@@ -1,5 +1,27 @@
 {{ define "main" }}
 
+{{ if not site.Params.banner }}
+<section class="pnp-blog-hero">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <p class="pnp-blog-hero__eyebrow">Sharing is caring</p>
+        <h1>Microsoft 365 &amp; Power Platform <span>Community Blog</span></h1>
+        <p class="pnp-blog-hero__intro">Practical guidance, community stories, and the latest news from people building on Microsoft 365 and Power Platform.</p>
+        <div class="pnp-blog-hero__actions">
+          <a class="btn btn-primary" href="#latest-posts">Explore latest posts</a>
+          <a class="btn btn-outline-primary" href="{{ site.Params.PnPHomePageUrl }}">Community home</a>
+        </div>
+      </div>
+      <div class="col-lg-4 d-none d-lg-flex justify-content-center" aria-hidden="true">
+        {{ $brandLogo := resources.Get "images/logo.svg" }}
+        {{ with $brandLogo }}<img class="pnp-blog-hero__mark" src="{{ .RelPermalink }}" alt="">{{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{ if site.Params.banner }}
 <!-- banner -->
 {{ if site.Params.background_shapes.banner_bg_image }}
@@ -89,7 +111,7 @@
 
 <!-- featured -->
 {{ if site.Params.featured_post }}
-<section class="section pb-0 {{if not site.Params.banner}}mt-5{{end}}">
+<section id="latest-posts" class="section pb-0 {{if not site.Params.banner}}pnp-featured-section{{end}}">
   <div class="container">
     <div class="row">
       <!-- editors pick -->
