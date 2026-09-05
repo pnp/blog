@@ -13,7 +13,7 @@ tags:
   - Power Platform
   - SharePoint Online
   - SPFx
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.10 expands coverage across Outlook and Power Pages with a handful of new commands, renames the SharePoint alert commands to reflect their new purpose, and keeps the codebase healthy with more Zod migrations, tighter minimal permissions, and support for the latest SPFx version. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release continues to broaden that reach.
