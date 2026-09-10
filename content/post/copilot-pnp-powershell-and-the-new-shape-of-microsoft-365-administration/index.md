@@ -1,6 +1,6 @@
 ---
 title: "Copilot, PnP PowerShell, and the New Shape of Microsoft 365 Administration"
-date: 2026-09-05T00:00:00-00:00
+date: 2026-09-10T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
