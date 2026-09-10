@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 14th of September week
-date: 2026-09-11T08:00:00.000Z
+date: 2026-09-10T08:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -29,7 +29,7 @@ This is the agenda for the upcoming week:
 Demos this time:
 
 * [Rémi Dyon](https://www.linkedin.com/in/remidyon/) - Building an Agent with GitHub Harness in Copilot Studio
-* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) & [Marc Windle](https://www.linkedin.com/in/marcwindle/) - Latest on SharePoint Embedded
+* [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) - Using the retrieval API with Custom Metadata in SharePoint Embedded
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Surfacing your business apps in Copilot canvas - IT concierge scenario
 
 ### Microsoft Power Platform & Copilot Studio community call - 16th of September
