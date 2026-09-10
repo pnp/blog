@@ -38,17 +38,11 @@ Demos this time:
 * Download the [recurring invite](https://aka.ms/powerplatformcommunitycall) we'd love to see you in the call!
 * If you can't make it this time, you can watch the recording of the call from the [Power Platform YouTube channel](https://www.youtube.com/@mspowerplatform)
 
-Community updates:
-
-* Power Platform News
-* Power Platform Updates & Events
-* Power Platform Samples
-
 Demos this time:
 
-* [Sanjiv Venkatram](https://www.linkedin.com/in/sanjivvenkatram/) - Using Azure AI video analyzer + Functions + Storage & Power Platform to analyze echocardiograms
+* [Sanjiv Venkatram](https://www.linkedin.com/in/sanjiv-venkatram/) - Using Azure AI video analyzer + Functions + Storage & Power Platform to analyze echocardiograms
 * [Billur Şamdançioğlu](https://www.linkedin.com/in/billur-samdancioglu/) - Copilot Work for Dynamics 365 Finance and Operations
-* [Elliot Margot](https://www.linkedin.com/in/eliot-margot-52742a156/) - Stop Clicking Through Run History: Build Your Own MCP to Debug Power Automate Flows
+* [Elliot Margot](https://www.linkedin.com/in/elliot-margot-52742a156/) - Stop Clicking Through Run History: Build Your Own MCP to Debug Power Automate Flows
 
 ### Copilot, Microsoft 365 & Power Platform Community call - 17th of September
 
@@ -58,9 +52,9 @@ Demos this time:
 
 Demos this time:
 
-* [Josh Bray](https://www.linkedin.com/in/josh-bray/) - Managing Power Platform Environments from SharePoint with an SPFx Web Part
-* [Yves Habersaat](https://www.linkedin.com/in/yves-habersaat/) - Agent-Driven Power Apps: Canvas Authoring MCP Server with GitHub Copilot CLI
-* [Mohammed Amer](https://www.linkedin.com/in/mohammed-amer/) - Build Interactive SharePoint Copilot app for Microsoft 365 Roadmap Features
+* [Josh Bray](https://www.linkedin.com/in/brayjosh/) - Managing Power Platform Environments from SharePoint with an SPFx Web Part
+* [Yves Habersaat](https://www.linkedin.com/in/yhabersaat/) - Agent-Driven Power Apps: Canvas Authoring MCP Server with GitHub Copilot CLI
+* [Mohammed Amer](https://www.linkedin.com/in/mohammad3mer/) - Build Interactive SharePoint Copilot app for Microsoft 365 Roadmap Features
 
 **Interested on doing a demo?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
@@ -68,19 +62,31 @@ Demos this time:
 
 ## New videos
 
-Update of the newly published videos in our YouTube channel
+Update of the newly published videos in our YouTube channel 
+
 
 [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning) - Subscribe today! ✅
 
-* [Building an Agent with GitHub Harness in Copilot Studio](https://www.youtube.com/watch?v=JvP9l2I4e7Y) by [Rémi Dyon](https://www.linkedin.com/in/remi-dyon/)
-* [Latest on SharePoint Embedded](https://www.youtube.com/watch?v=Vg3xDkYQHOs) by [Steve Pucelik](https://www.linkedin.com/in/stevepucelik/) and [Marc Windle](https://www.linkedin.com/in/marcwindle/)
-* [Surfacing your business apps in Copilot canvas - IT concierge scenario](https://www.youtube.com/watch?v=Z2v8r1vKk0Y) by [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/)
+* [Latest Updates to AI-Powered SharePoint Page Authoring with Copilot](https://www.youtube.com/watch?v=lJF6J3rRciQ) by [Sara Cummings](https://linkedin.com/in/sarasharepoint) and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen)
+* [How to improve your SharePoint Skills using out of the box skills](https://www.youtube.com/watch?v=3ed-Qf2HNas) by [Joe Komban](https://www.linkedin.com/in/kjoefrancis/)
+* [Getting started with building SharePoint Copilot Apps](https://www.youtube.com/watch?v=-gZPtfhjFSs) by [Bert Jansen](https://linkedin.com/in/bertjansen) and [Vesa Juvonen](https://linkedin.com/in/vesajuvonen)
+* [Understanding the Hero Link in OneDrive & SharePoint | Get Stuff Done](https://www.youtube.com/watch?v=Wc1ogWXEjQI&pp=0gcJCf4LAYcqIYzv)
+* [Advanced controls for sharing in OneDrive & SharePoint | Get Stuff Done](https://www.youtube.com/watch?v=ajr-iLp14-U)
+* [How to manage permissions in the new share dialog | Get Stuff Done](https://www.youtube.com/watch?v=ztdWjcXmhd0)
+* [Sharing is as simple as adding people | Get Stuff Done](https://www.youtube.com/watch?v=ZFzuYz7jzkM)
+* [The new share dialog in OneDrive & SharePoint | Get Stuff Done](https://www.youtube.com/watch?v=h0PxbVBZnro)
+* [Announcing the SharePoint Skills Community Gallery | Discover, Download & Contribute](https://www.youtube.com/watch?v=FmKk65Fhsoc) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen)
+* [Understanding Work IQ](https://www.youtube.com/watch?v=nxu_9gHTRPA) by [Paolo Pialorsi](https://linkedin.com/in/paolopialorsi)
+* [Beyond Chat: Copilot Components Bring Interactive UX to the Copilot Canvas](https://www.youtube.com/watch?v=6nZHzqmfxS8&pp=0gcJCf4LAYcqIYzv) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen)
+* [Getting started on using Agent Builder templates to kick start your agent journey](https://www.youtube.com/watch?v=zPySHQKmWA0) by [Anshul Jethwani](https://www.linkedin.com/in/ajethwani/) and [Harish Swaminathan](https://linkedin.com/in/harishswaminathan)
+* [Transform Classic SharePoint Pages with Agents | SharePoint Modernization Demo](https://www.youtube.com/watch?v=palCQ7CQ8tw)
+* [Creating a beautiful AI & Research Workspace Hub with out-of-box SharePoint](https://www.youtube.com/watch?v=UFYqLWBlRwY) by [Ezekiel Ibegbunam](https://www.linkedin.com/in/ezekiel-ibegbunam/)
+* [First Fridays AI for Communicators - How Microsoft Orchestrates Executive Social at Scale](https://www.youtube.com/watch?v=B0hNqEt0CRY)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
 
-* [Power Platform News](https://www.youtube.com/results?search_query=Power+Platform+News)
-* [Power Platform Updates & Events](https://www.youtube.com/results?search_query=Power+Platform+Updates+and+Events)
-* [Power Platform Samples](https://www.youtube.com/results?search_query=Power+Platform+Samples)
+* [Copilot Studio | Product Weeks | PPCC26](https://www.youtube.com/watch?v=aMHAiuQUYBQ)
+* [Get ready for PPCC26 with Shane Young!](https://www.youtube.com/watch?v=JxTKj0aWh8A)
 
 [Microsoft 365 Developer](https://www.youtube.com/@Microsoft365Developer) - Subscribe today! ✅
 
@@ -100,14 +106,16 @@ Update of the newly published videos in our YouTube channel
 
 Here are the last week's community call recordings. You can download recurrent invites to the community calls from https://aka.ms/community/calls.
 
-* [Copilot, Microsoft 365 & Power Platform weekly call – 8th of September, 2026](https://www.youtube.com/watch?v=8rtIWPoucAA)
-* [Copilot, Microsoft 365 & Power Platform community call – 10th of September, 2026](https://www.youtube.com/watch?v=8rtIWPoucAA)
+* [Copilot Extensibility Community Call - September 9th, 2026](https://www.youtube.com/watch?v=bxtiJ47s6io&pp=0gcJCf4LAYcqIYzv)
+* [Copilot, Microsoft 365 & Power Platform weekly call – 8th of September, 2026 1 hour,](https://www.youtube.com/watch?v=s0VoxvGzc-U)
+* [Copilot, Microsoft 365 & Power Platform community call – 3rd of September, 2026](https://www.youtube.com/watch?v=pJjt48qvtP0)
+
 
 ---
 
 ## Recognition
 
-You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives!
+You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
 ![Community Recognition](../images/community-recognition-2025.png)
 
@@ -123,10 +131,12 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [M365 Con - DACH](https://communitydays.org/event/2026-09-14/m365-con-dach) - September 14, 2026
-* [The AI-Native Workplace Summit 2026](https://communitydays.org/event/2026-09-16/the-ai-native-workplace-summit-2026) - September 16, 2026
-* [HELish Summit](https://communitydays.org/event/2026-09-17/helish-summit) - September 17, 2026
-* [M365 Twin Cities](https://communitydays.org/event/2026-09-18/m365-twin-cities) - September 18, 2026
+
+* [DynamicsCon Regional - MontrealUpdated5 Days](https://communitydays.org/event/2026-09-16/dynamicscon-regional-montreal) - September 16, 2026
+* [The AI-Native Workplace Summit 20265 Days](https://communitydays.org/event/2026-09-16/the-ai-native-workplace-summit-2026) - September 16, 2026
+* [London Tech Community Days - September 2026 In-person Skills Workshop6 DaysCancelled](https://communitydays.org/event/2026-09-16/london-tech-community-days-september-2026-in-person-skills-workshop) - September 16, 2026
+* [HELish Summit6 Days](https://communitydays.org/event/2026-09-17/helish-summit) - September 17, 2026
+* [M365 Twin Cities7 Days](https://communitydays.org/event/2026-09-18/m365-twin-cities) - September 18, 2026
 * [Partner Vibe 2.0](https://communitydays.org/event/2026-09-21/partner-vibe-20) - September 21, 2026
 * [CollabDays Bletchley Park 2026](https://communitydays.org/event/2026-09-23/collabdays-bletchley-park-2026) - September 23, 2026
 * [MCT Africa Tech Summit](https://communitydays.org/event/2026-09-24/mct-africa-tech-summit) - September 24, 2026
@@ -143,6 +153,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [North American Cloud & Collaboration Summit 2026](https://communitydays.org/event/2026-10-04/north-american-cloud-and-collaboration-summit-2026) - October 4, 2026
 * [Devoxx](https://communitydays.orghttps://devoxx.be) - October 5, 2026
 * [M365 Community Days Montréal #3-2026 – Microsoft 365 Copilot](https://communitydays.org/event/2026-10-07/m365-community-days-montreal-hash3-2026-microsoft-365-copilot) - October 7, 2026
+* [DynamicsCon Regional - Europe](https://communitydays.org/event/2026-10-07/dynamicscon-regional-europe) - October 7, 2026
 * [Community Summit North America 2026](https://communitydays.org/event/2026-10-11/community-summit-north-america-2026) - October 11, 2026
 * [AI Copilot Studio Agent Bootcamp](https://communitydays.org/event/2026-10-11/ai-copilot-studio-agent-bootcamp) - October 11, 2026
 * [D365 + AI Governance & Access Control Summit NA Preconference](https://communitydays.org/event/2026-10-11/d365-plus-ai-governance-and-access-control-summit-na-preconference) - October 11, 2026
@@ -172,6 +183,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Community Summit Roadshow Ft. Lauderdale](https://communitydays.org/event/2026-12-01/community-summit-roadshow-ft-lauderdale) - December 1, 2026
 * [Workplace Ninjas US 2027](https://communitydays.org/event/2027-01-11/workplace-ninjas-us-2027) - January 11, 2027
 * [M365 Community Days Montréal #4-2026 – Sans gouvernance, pas d’IA](https://communitydays.org/event/2027-01-27/m365-community-days-montreal-hash4-2026-sans-gouvernance-pas-dia) - January 27, 2027
+* [Cloud Tech Tallinn 2027](https://communitydays.org/event/2027-02-04/cloud-tech-tallinn-2027) - February 4, 2027
 * [Knoxville Microsoft Community Days](https://communitydays.org/event/2027-02-25/knoxville-microsoft-community-days) - February 25, 2027
 * [AI Agent and Copilot Summit NA 2027](https://communitydays.org/event/2027-03-30/ai-agent-and-copilot-summit-na-2027) - April 2, 2027
 * [Exchange & Security Summit 2027](https://communitydays.org/event/2027-04-13/exchange-and-security-summit-2027) - April 13, 2027

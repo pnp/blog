@@ -81,4 +81,4 @@ This call was hosted by [Nandeesh Swami](https://twitter.com/Nandeesh_Swami) (Mi
 * Microsoft 365 Platform Community in YouTube - <https://aka.ms/community/videos>
 * Microsoft 365 Platform Community - <https://aka.ms/community/home>
 
-{{< attachments >}}
+{{< attachments >}}{{< /attachments >}}
