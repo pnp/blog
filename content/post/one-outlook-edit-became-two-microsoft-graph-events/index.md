@@ -13,7 +13,7 @@ A user opened a recurring room booking in Outlook, chose **Edit this and all fol
 
 That produced the wrong result in the connected reservation system. The shortened series updated one reservation group. The new future series created another group. A later cancellation attempt behaved as though the booking were two separate things. That was the observed symptom. It did not establish the cause.
 
-Both Microsoft Graph event handlers worked as designed on their own. The service had no state that carried the user's intent from one handler to the other.
+Each Microsoft Graph event handler interpreted the event it received in isolation. The service had no state that carried the user's intent from one handler to the other.
 
 ![One Outlook gesture truncates the original series master and creates a new one. Both raise change notifications on the room-mailbox subscription, and the two masters carry different event IDs and different iCalUId values, so no field links them.](images/fig1_one_intent_two_objects.png)
 
@@ -113,9 +113,9 @@ The low number of active markers does not make this safe. Marker rarity actually
 
 *Figure 3. `Limit` constrains evaluated items, so a filtered scan can return an empty result while a matching row exists.*
 
-I would replace the scan with a queryable correlation record. One option uses a sparse secondary index with the room as its partition key and the truncation point plus master ID as its sort key. Only active observations enter the index. The create handler queries one room and a bounded time range, then checks expiry and ambiguity in application code.
+I would replace the scan with a key-addressable correlation record. One option uses a sparse global secondary index with the room as its partition key and the truncation point plus master ID as its sort key. Only active observations enter the index. The create handler queries one room and a bounded time range, then checks expiry and ambiguity in application code. That removes the table scan, but a global secondary index is still eventually consistent, so this option also needs a bounded retry or reconciliation path.
 
-Another option writes one dedicated correlation item per room. A conditional or transactional write can make the winner explicit when two truncations happen close together. Either design makes cost and correctness depend on candidates for one room rather than the size and physical order of the full mapping table.
+If immediate read-after-write visibility is required, a dedicated correlation table can keep active markers under a room partition key and use a strongly consistent query against the base table. A conditional or transactional write can make the winner explicit when two truncations happen close together. Either model makes cost and correctness depend on candidates for one room rather than the size and physical order of the full mapping table.
 
 ## The sibling path already checked the cancellation result
 
@@ -201,7 +201,7 @@ periodically. I did not implement that recovery path in this work.
 
 ## The failure lived between correct steps
 
-The correlation marker fixed the immediate path, and the review afterwards was worth more than the
+The correlation marker handled the reproduced path, and the review afterwards was worth more than the
 fix. It found a scan that could miss the marker it was looking for, and a cancellation whose result
 nobody read.
 
@@ -222,3 +222,4 @@ user's original intent across the boundary.
 - [Microsoft Graph: Outlook change notifications](https://learn.microsoft.com/en-us/graph/outlook-change-notifications-overview)
 - [Microsoft Graph: Track incremental changes to events in a calendar view](https://learn.microsoft.com/en-us/graph/delta-query-events)
 - [AWS: Working with scans in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html)
+- [AWS: DynamoDB read consistency](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.ReadConsistency.html)
