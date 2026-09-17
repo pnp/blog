@@ -11,11 +11,11 @@ type: "regular"
 ---
 A user opened a recurring room booking in Outlook, chose **Edit this and all following events**, and changed the future part of the series. The booking integration then handled an update and a create as two unrelated actions.
 
-That produced the wrong result in the connected reservation system. The shortened series updated one reservation group. The new future series created another group. A later attempt to cancel the booking could only see part of what the user still regarded as one series.
+That produced the wrong result in the connected reservation system. The shortened series updated one reservation group. The new future series created another group. A later cancellation attempt behaved as though the booking were two separate things. That was the observed symptom. It did not establish the cause.
 
 Both Microsoft Graph event handlers worked as designed on their own. The service had no state that carried the user's intent from one handler to the other.
 
-![One Outlook action becomes an update to one series master and a create for another series master.](images/fig1_one_intent_two_objects.png)
+![One Outlook gesture truncates the original series master and creates a new one. Both raise change notifications on the room-mailbox subscription, and the two masters carry different event IDs and different iCalUId values, so no field links them.](images/fig1_one_intent_two_objects.png)
 
 *Figure 1. One user action reached the integration as two resource changes with separate identifiers.*
 
@@ -36,7 +36,7 @@ I treat this shape as an observed integration behaviour from this incident. Micr
 
 ## The first useful test was a mutation matrix
 
-The original client report described two symptoms. Future edits did not reach the reservation platform, and a series edited that way later failed to cancel cleanly. Reading the code suggested several possible paths, but it could not establish which Graph objects Outlook had created.
+The incident had two symptoms. Future edits did not reach the reservation platform, and a series edited that way later failed to cancel cleanly. Reading the code suggested several possible paths, but it could not establish which Graph objects Outlook had created.
 
 I wrote a probe that created a fresh weekly series for each of five scenarios:
 
@@ -50,7 +50,7 @@ The fifth scenario acted as a known split. It gave the other mutations a concret
 
 The first probe inspected the organizer's calendar. Production notifications came from the room mailbox, so that result alone could not explain the integration. A second probe recorded the room calendar before the split, performed the two Graph mutations on the organizer calendar, waited for room processing, and counted the resulting room masters.
 
-This controlled probe reproduced the two-object shape through explicit Graph operations. It did not automate a click in the Outlook interface. That distinction matters. The client incident connected the user action to the failure. The probe showed how the same old-master update and new-master create propagated to the mailbox that generated notifications.
+This controlled probe reproduced the two-object shape through explicit Graph operations. It did not automate a click in the Outlook interface. That distinction matters. The incident connected the user action to the failure. The probe showed how the same old-master update and new-master create propagated to the mailbox that generated notifications.
 
 ## Event-level idempotency could not join the pair
 
@@ -64,11 +64,12 @@ The service needed correlation across messages. It also needed to distinguish a 
 
 ## A short-lived marker joined the two messages
 
-The first implementation used a 60 second marker in DynamoDB.
+The implementation that shipped used a short-lived marker in DynamoDB and a 60 second window. The
+marker carried just enough state to ask whether two messages belonged to the same user action.
 
-When the update handler found that the last cancelled occurrence ended after the last remaining occurrence, it treated the change as a possible truncation. It stored the earlier end point, the previous end point and an expiry time on the old master's mapping.
+When the update handler found that the last cancelled occurrence ended after the last remaining occurrence, it treated the change as a possible truncation. It stored two dates on the old master's mapping, and the naming matters because they are easy to invert. One is the end date the master had before the update. The other is the truncated end date it has after the update, which is the cut point a later create has to match against. An expiry time sat alongside them.
 
-When a new series arrived for the same room, the create handler looked for an unexpired marker whose truncation point fell at or before the new series start. A match connected the two messages. The handler then cancelled the old reservation group, retired its mapping rows, cleared the marker and created a clean group for the new master.
+When a new series arrived for the same room, the create handler looked for an unexpired marker whose truncation point fell at or before the new series start. A match connected the two messages. The handler then attempted to cancel the old reservation group, retired its mapping rows, cleared the marker and created a group for the new master.
 
 ```text
 on old series update
@@ -78,17 +79,17 @@ on old series update
 on new series create
   find an unexpired observation for the same room
   require the old cutoff to be at or before the new start
-  cancel the old reservation group
+  attempt to cancel the old reservation group
   retire the old mappings
   clear the observation
   create the new reservation group
 ```
 
-The expiry let a genuine shortening continue without later capturing an unrelated series. Clearing the marker stopped a retried create from cancelling the old group twice. Unit tests covered both branches: a matching candidate cancelled and retired the old group before the new create, while a create with no candidate left old groups alone.
+The expiry let a genuine shortening continue without later capturing an unrelated series. On the success path, clearing the marker kept a retried create from selecting the same candidate. Unit tests covered the match and no-match branches. The match test verified the cancellation call, retirement of the old mappings, marker clearing and the new create. The no-match test left old groups alone. The tests did not supply a partial cancellation result.
 
-![An update stages a short-lived truncation marker and a nearby create resolves the pair.](images/fig2_correlation_window.png)
+![An update path stores a short-lived truncation marker. A later create path finds the marker and selects the matching split path without assuming that cancellation succeeded.](images/fig2_correlation_window.png)
 
-*Figure 2. The marker carries user intent across two webhook handlers for a bounded time.*
+*Figure 2. The marker carries correlation state for 60 seconds. A match selects the split path but does not prove that cancellation succeeded.*
 
 ## The lookup contained a DynamoDB trap
 
@@ -116,23 +117,66 @@ I would replace the scan with a queryable correlation record. One option uses a 
 
 Another option writes one dedicated correlation item per room. A conditional or transactional write can make the winner explicit when two truncations happen close together. Either design makes cost and correctness depend on candidates for one room rather than the size and physical order of the full mapping table.
 
-## The cancellation must gate the replacement
+## The sibling path already checked the cancellation result
 
-The implementation had another unsafe edge. If cancellation of the old reservation group threw an error, the handler logged a warning and continued. It still retired the old mappings and created the replacement group.
+The implementation had a second unsafe edge. The same service already contained the check that this
+path needed.
 
-That can preserve the very duplicate the correlation logic exists to remove. The old group may remain active while the service forgets its mappings and creates a new group.
+On the split path the handler calls the cancel method and throws the answer away:
 
-A safer transition has a firm commit point:
+```ts
+try {
+  await this.reservationsClient.cancelReservationGroup(
+    candidate.reservationGroupId,
+    actingUserEmail || candidate.organizerEmail || '',
+  );
+} catch (err) {
+  log.warn({
+    oldGroupId: candidate.reservationGroupId,
+    error: err instanceof Error ? err.message : String(err),
+  });
+}
+```
 
-1. record the matched pair with an idempotency key
-2. cancel the old group
-3. confirm that cancellation reached the required state
-4. retire the old mappings and create the replacement
-5. mark the pair resolved
+A thrown error is logged and execution continues. It still retires the old mappings and creates the
+replacement group, which can preserve the exact duplicate the correlation logic exists to remove.
 
-If cancellation fails, the service keeps the old mappings and retries or sends the pair to a recovery queue. It does not move to a state that claims the old group has gone.
+A throw is not the only failure mode. That method returns a result describing partial success:
 
-The handler should also support either arrival order. The initial design assumed that the old-master update would stage the marker before the new-master create searched for it. Webhook delivery and processing can race. Storing both halves as short-lived observations lets either handler complete the match when its counterpart already exists.
+```ts
+export interface GroupCancellationResult {
+  cancelled: string[];
+  failed: NotCancellableReservation[];
+}
+```
+
+A policy rule can block individual reservations inside a group. The group cancel then returns
+normally with entries in `failed`, nothing throws, and the split path never looks.
+
+The series-extension path in the same service does look, and it is explicit about why:
+
+```ts
+const cancelResult = await this.reservationsClient.cancelReservationGroup(
+  existingGroupId,
+  actingUserEmail,
+);
+const failedCount = cancelResult?.failed?.length ?? 0;
+cancelCleanlyCompleted = failedCount === 0;
+```
+
+The sibling path uses that result to gate its recreate. If any reservation appears in `failed`, it
+skips the create. If the call throws, it also skips the create. That prevents another group from
+being created after an incomplete cancellation, although reservations that did cancel can still
+leave the original group in a partial state.
+
+The split path did not need a new design. It needed to use the return value already checked elsewhere
+in the same service. The positive extension test exercised the cancel-and-recreate path, but I found
+no focused test that supplied a nonempty `failed` array. The guard existed in code while its
+partial-failure branch lacked a direct test.
+
+That is a more useful lesson than any architecture I could propose here. Two paths in one service
+faced the same problem. One learned that a clean return is not the same as a clean outcome, and that
+knowledge stayed local to the path that learned it.
 
 ## Correlation needs an ambiguity rule
 
@@ -144,31 +188,32 @@ When several candidates remain plausible, the service should avoid a destructive
 
 That rule turns uncertainty into a visible state. A quiet false match can cancel the wrong reservation group.
 
-## Webhooks start reconciliation, they do not complete it
+## The queued notification did not carry the relationship
 
-Microsoft Graph change notifications tell the service that an event changed. The handler still needs to fetch current state and apply idempotent business rules. A short outage, expired subscription or failed handler can leave a gap even when the correlation algorithm itself works.
+In this integration, the queued notification identified the event and change type, but it did not
+contain the calendar state that changed. It also did not say that two event IDs came from one Outlook
+gesture. The worker had to fetch current state and infer the relationship.
 
-Graph calendar delta queries provide a recovery path for added, updated and deleted events within a calendar view. A production design can keep a delta watermark per room, renew subscriptions through their lifecycle notifications, and run periodic reconciliation. The webhook keeps the common path fast. Delta processing repairs missed or partially processed changes.
+The 60 second window introduced a recovery gap. A short outage, an expired subscription or a failed
+handler could leave one side unseen until the marker expired. Microsoft Graph calendar delta queries
+could support a recovery loop. I would retain one delta link for each room calendar view and reconcile
+periodically. I did not implement that recovery path in this work.
 
-For this split workflow, I would preserve these records for every decision:
+## The failure lived between correct steps
 
-- both Graph event IDs and their `iCalUId` values
-- the old and new recurrence ranges
-- room and organizer identifiers in protected logs
-- notification receive and processing times
-- the correlation candidates considered
-- the cancellation result and final reservation-group state
-- the idempotency key and resolution status
+The correlation marker fixed the immediate path, and the review afterwards was worth more than the
+fix. It found a scan that could miss the marker it was looking for, and a cancellation whose result
+nobody read.
 
-Those fields make the system explainable without storing full meeting content in routine logs.
+Both defects have the same shape as the original bug. The integration handled an updated resource
+correctly and a created resource correctly, and the failure lived in the space between them. The
+DynamoDB lookup evaluated items correctly and filtered them correctly, and the failure lived in the
+order of those two steps. The cancel call succeeded correctly and reported partial failure
+correctly, and the failure lived in nobody joining the two.
 
-## The boundary was the real bug
-
-The integration handled an updated resource and a created resource correctly. It failed because one user action crossed the boundary between them.
-
-The first correlation marker repaired the immediate path and proved the value of a bounded state machine. The later review also showed why correlation code deserves the same scrutiny as payment or deployment code. Storage access patterns, read consistency, delivery order and failure commits all affect whether two messages really become one operation.
-
-Whenever an interface offers an action over “this and all following,” inspect the objects on both sides of the integration. The visible series may split at the API boundary, and no identifier may carry the user's intent across it.
+When an interface offers an action over "this and all following", inspect the state passed from one
+handler to the next. Microsoft Graph exposed two event IDs in this incident, and neither carried the
+user's original intent across the boundary.
 
 ## References
 
