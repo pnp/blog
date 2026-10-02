@@ -5,6 +5,8 @@ author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
   - weekly agenda
+images:
+  - images/weeklyagenda39.PNG
 tags: []
 type: trending
 videos: null
@@ -30,14 +32,13 @@ Demos this time:
 
 * [Reetik Chandra](https://www.linkedin.com/in/reetik-chandra/) - Beyond the Link: Full Fidelity SharePoint News in Viva Engage
 * [Sarah Critchley](https://www.linkedin.com/in/sarahcritchley/) & [Ricky Castaneda](https://www.linkedin.com/in/castaric/) - How to use Teams Client capabilities with the Agents SDK using the new Teams extension
+* [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Building UX for Copilot – Modernizing Customer Resolution process
 
 ### Copilot, Microsoft 365 & Power Platform Community call - 1st of October
 
 * Thursday, 1st of October 2026, 7:00 AM PT / 3:00 PM GMT
 * Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
-
-
 
 Demos this time:
 
@@ -107,7 +108,7 @@ Here are the last week's community call recordings. You can download recurrent i
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
-![Community Recognition](../images/community-recognition-2025.png)
+![Community Recognition](../images/community-recognition-2026.png)
 
 ---
 
@@ -117,7 +118,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 * [Power Platform Community Conference](https://powerplatformconf.com/) - October 28-30, 2025 - Las Vegas, Nevada, USA
 * [Microsoft Ignite](https://ignite.microsoft.com/) - November 18-20, 2025 - San Francisco, California, USA
-* [ESPC 2025](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
+* [ESPC 2026](https://www.sharepointeurope.com/) - December 1-4, 2025 - Dublin, Ireland
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
