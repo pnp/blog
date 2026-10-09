@@ -66,7 +66,7 @@ Update of the newly published videos in our YouTube channel
 * [HTML/Markdown viewer in OneDrive and HTML pages in SharePoint - OneDrive Office Hours | Sept 2026](https://www.youtube.com/watch?v=fYKbxwyBJPQ)
 * [Announcing the Copilot UX Components Sample Gallery - Explore, Test and Experience](https://www.youtube.com/watch?v=nuXGCUpGscU&pp=0gcJCS4MAYcqIYzv) by [Vesa Juvonen](https://linkedin.com/in/vesajuvonen)
 * [Multi Agent using Agents Toolkit to find and manage volunteering opportunities](https://www.youtube.com/watch?v=pooNDAljkS8) by [Reshmee Auckloo](https://linkedin.com/in/reshmeeauckloo)
-* [Go beyond the magnifier with Zoominator, a new screen annotation & demo tool for the community](https://www.youtube.com/watch?v=63o1lUkQ4xY) by [Hugo Bernier](https://linkedin.com/in/hugobernier), [a new screen annotation](https://linkedin.com/in/anewscreenannotation), [David Warner](https://linkedin.com/in/davidwarner), and [a new screen annotation](https://linkedin.com/in/anewscreenannotation)
+* [Go beyond the magnifier with Zoominator, a new screen annotation & demo tool for the community](https://www.youtube.com/watch?v=63o1lUkQ4xY) by [Hugo Bernier](https://linkedin.com/in/hugobernier) and [David Warner](https://linkedin.com/in/davidwarner)
 * [Building a Holidays and Birthdays Web Part with SPFx](https://www.youtube.com/watch?v=VZ-RySc8hmw) by [Chris McNulty](https://linkedin.com/in/chrismcnulty)
 
 [Power Platform](https://www.youtube.com/@mspowerplatform) - Subscribe today! ✅
