@@ -41,9 +41,9 @@ Demos this time:
 
 Demos this time:
 
+* [Dona Sarkar](https://www.linkedin.com/in/donasarkar/) - Introducing the new Copilot with Home, Code and Autopilots
 * [Sai Deepthi Kovvuru](https://www.linkedin.com/in/saideepthik/) - Evaluate your M365 Copilot agents with natural language
 * [Rabia Williams](https://www.linkedin.com/in/rabiawilliams/) - Shipping One Plugin to Cowork and Copilot with Work IQ
-* And more...
 
 ### Copilot, Microsoft 365 & Power Platform Community call - 15th of October
 
@@ -62,8 +62,6 @@ Demos this time:
 ---
 
 ## New videos 
-
-Update of the newly published videos in our YouTube channel 
 
 Update of the newly published videos in our YouTube channel 
 
@@ -134,10 +132,8 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
-* [DevoxxJust Ended](https://communitydays.orghttps://devoxx.be) - Location: Antwerp, Belgium - Start: October 5, 2026 - End: October 9, 2026
 * [Community Summit North America 20262 Days](https://communitydays.org/event/2026-10-11/community-summit-north-america-2026) - Location: Nashville, TN, United States - Start: October 11, 2026 - End: October 15, 2026
 * [AI Copilot Studio Agent BootcampUpdated2 Days](https://communitydays.org/event/2026-10-11/ai-copilot-studio-agent-bootcamp) - Location: Nashville, TN, United States - Start: October 11, 2026 - End: October 11, 2026
-* [D365 + AI Governance & Access Control Summit NA Preconference2 Days](https://communitydays.org/event/2026-10-11/d365-plus-ai-governance-and-access-control-summit-na-preconference) - Location: Nashville, TN, United States - Start: October 11, 2026 - End: October 11, 2026
 * [TechBash 2026Updated4 Days](https://communitydays.org/event/2026-10-13/techbash-2026) - Location: Tobyhanna, PA, United States - Start: October 13, 2026 - End: October 16, 2026
 * [Fabric Day5 Days](https://communitydays.org/event/2026-10-14/fabric-day) - Location: Oslo, Norway - Start: October 14, 2026 - End: October 14, 2026
 * [CognitionX Emirates 20265 Days](https://communitydays.org/event/2026-10-14/cognitionx-emirates-2026) - Location: Dubai, United Arab Emirates - Start: October 14, 2026 - End: October 15, 2026
