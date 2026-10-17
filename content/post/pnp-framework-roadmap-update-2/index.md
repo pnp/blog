@@ -1,6 +1,6 @@
 ---
 title: "PnP.Core.Provisioning is out!"
-date: 2026-10-16T01:00:00.000Z
+date: 2026-10-17T01:00:00.000Z
 author: "Adam Wójcik"
 githubname: "Adam-it"
 categories: ["Community post"]
