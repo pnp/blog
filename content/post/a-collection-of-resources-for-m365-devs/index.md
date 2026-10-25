@@ -51,7 +51,7 @@ Keep up to date with what is moving in the community by listening to podcasts
 * [Getting started with SharePoint Framework](https://blog.mastykarz.nl/getting-started-sharepoint-framework/) (Blogpost by [Waldek Mastykarz](https://twitter.com/waldekm))
 * [Youtube video that shows the M365 developer program](https://www.youtube.com/watch?v=2JWUr6zBtwg)
 * [Set up environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) (Microsoft Docs)
-* [Understanding the difference between SharePoint generator related packages](https://www.voitanos.io/blog/understand-difference-sharepoint-framework-generator-library-packages/) (Blogpost by [Andrew Connell](https://twitter.com/andrewconnell) – voitanos.io)
+* [Understanding the difference between SharePoint generator related packages](https://www.andrewconnell.com/articles/sharepoint-framework-understand-difference-generator-library-packages/) (Blogpost by [Andrew Connell](https://twitter.com/andrewconnell) – voitanos.io)
 
 **Extensions / helpfull tools**
 
@@ -71,8 +71,8 @@ Keep up to date with what is moving in the community by listening to podcasts
 
 * [SharePoint framework documentaion github repo](https://github.com/SharePoint/sp-dev-docs)
 * [SPfx PnP Powershell cheat sheet](https://github.com/Eli-Schei/resource-sheets/blob/main/M365/spfx/spfx-pnp-powershell-cheat-sheet.md)
-* [Mastering the SharePoint Framework course](https://www.voitanos.io/course-master-sharepoint-framework) (the starter bundle is free). (Course by [Andrew Connell](https://twitter.com/andrewconnell) – – Voitanos.io)
-* [Optimize bundles by disabling IE11 support in SPfx projects](https://www.voitanos.io/blog/optimize-spfx-bundles-ditch-ie11-support/) (Blogpost by [Andrew Connell](https://twitter.com/andrewconnell)  – – Voitanos.io)
+* [Mastering the SharePoint Framework course](https://www.andrewconnell.com/courses/mastering-the-sharepoint-framework/) (the starter bundle is free). (Course by [Andrew Connell](https://twitter.com/andrewconnell) – – Voitanos.io)
+* [Optimize bundles by disabling IE11 support in SPfx projects](https://www.andrewconnell.com/articles/sharepoint-framework-optimize-spfx-bundles-ditch-ie11-support/) (Blogpost by [Andrew Connell](https://twitter.com/andrewconnell)  – – Voitanos.io)
 
 ### Microsoft Graph resources
 

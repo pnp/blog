@@ -21,11 +21,11 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["Microsoft Entra ID", "SharePoint Framework (SPFx)"]
 categories: ["Community post","SPFx"]
-canonicalURL: https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-framework-secure-spfx-solutions-post-domain-isolated-webpart-retirement/
 ---
-> This article originally appeared on Andrew Connell's site, **[Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.voitanos.io/blog/secure-spfx-solutions-post-domain-isolated-webpart-retirement/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Secure+SPFx+Solutions+in+a+Post+Isolated+Web+Part+Retirement)**.
+> This article originally appeared on Andrew Connell's site, **[Secure SPFx Solutions in a Post Isolated Web Part Retirement](https://www.andrewconnell.com/articles/sharepoint-framework-secure-spfx-solutions-post-domain-isolated-webpart-retirement/)**.
 
-In my article **[SharePoint Framework Domain Isolated Web Part Retirement](https://www.voitanos.io/blog/sharepoint-framework-domain-isolated-webpart-retirement)**, I shared that Microsoft announced the [upcoming retirement of the SharePoint Framework (SPFx) domain-isolated web parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts-retirement/?WT.mc_id=M365-MVP-21083). It appears they’re doing this to get rid of `iframes` in SharePoint pages - an unfortunate development because it was one of the ways to better secure your SPFx solutions.
+In my article **[SharePoint Framework Domain Isolated Web Part Retirement](https://www.andrewconnell.com/articles/sharepoint-framework-domain-isolated-webpart-retirement/)**, I shared that Microsoft announced the [upcoming retirement of the SharePoint Framework (SPFx) domain-isolated web parts](https://learn.microsoft.com/sharepoint/dev/spfx/web-parts/isolated-web-parts-retirement/?WT.mc_id=M365-MVP-21083). It appears they’re doing this to get rid of `iframes` in SharePoint pages - an unfortunate development because it was one of the ways to better secure your SPFx solutions.
 
 **Why?**
 
@@ -60,10 +60,10 @@ When your Microsoft Entra ID-secured endpoint receives the request from your SPF
 
 - **The received request is from a specific user you expect.** You can do this by inspecting the `oid` claim in the JWT token (which is the user’s object ID property in your Microsoft Entra ID tenant) or the `upn` claim which is the user principal name. The `oid` is preferred as it never changes for a user, whereas the `upn` can be changed in the future.
 
-You should only check the contents of the requested access token once you’ve validated it from Microsoft Entra ID, as I demonstrate in my article **[Validating Microsoft Entra ID generated OAuth tokens](https://www.voitanos.io/blog/validating-entra-id-generated-oauth-tokens)**.
+You should only check the contents of the requested access token once you’ve validated it from Microsoft Entra ID, as I demonstrate in my article **[Validating Microsoft Entra ID generated OAuth tokens](https://www.andrewconnell.com/articles/entra-id-validating-generated-oauth-tokens/)**.
 
 
-If you’re a student of my **[Mastering the SharePoint Framework](https://www.voitanos.io/course-master-sharepoint-framework)** course, I show how to do this within the following lesson in the Fundamentals bundle: [Leveraging External APIs in SPFx Solutions > Calling Existing AzureAD Secured APIs with AadHttpClient](https://courses.voitanos.io/products/mastering-the-sharepoint-framework-fundamentals/categories/1125706/posts/3735426).
+If you’re a student of my **[Mastering the SharePoint Framework](https://www.andrewconnell.com/courses/mastering-the-sharepoint-framework/)** course, I show how to do this within the following lesson in the Fundamentals bundle: [Leveraging External APIs in SPFx Solutions > Calling Existing AzureAD Secured APIs with AadHttpClient](https://courses.voitanos.io/products/mastering-the-sharepoint-framework-fundamentals/categories/1125706/posts/3735426).
 
 
 This pattern can also be used to secure calls to Microsoft Graph by using a Microsoft Entra ID-secured endpoint as a middle-man, or proxy, to call Microsoft Graph.

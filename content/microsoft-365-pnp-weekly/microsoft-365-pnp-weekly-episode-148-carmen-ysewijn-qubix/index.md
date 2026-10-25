@@ -99,7 +99,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     [April Dunnam](https://twitter.com/aprildunnam) (Microsoft)
     | @aprildunnam
 -   [Understand difference SharePoint Framework generator related
-    packages](https://www.voitanos.io/blog/understand-difference-sharepoint-framework-generator-library-packages) -
+    packages](https://www.andrewconnell.com/articles/sharepoint-framework-understand-difference-generator-library-packages/) -
     [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
     | @andrewconnell
 -   [Building PnP Provisioning notifier

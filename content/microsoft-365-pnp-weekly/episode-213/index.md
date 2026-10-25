@@ -92,7 +92,7 @@ These videos and podcasts are published each week and are intended to be roughly
 * [Weekly Update 5 May 2023 – Viva Connections in AppSource, Teams AI Library, Graph Dev Proxy v0.8, ACS Windows SDK](https://blog.thoughtstuff.co.uk/2023/06/weekly-update-5-may-2023-viva-connections-in-appsource-teams-ai-library-graph-dev-proxy-v0-8-acs-windows-sdk/) - [Tom Morgan](https://twitter.com/tomorgan) (CloudInteract) | @tomorgan
 * [Custom Result Types in Microsoft Search](https://searchexplained.com/custom-result-types-in-microsoft-search/) - [Agnes Molnar](https://twitter.com/molnaragnes) (Search Explained) | @molnaragnes
 * [OneDrive simplified sharing, Connections news notifications, Teams work hours and location - #287](https://www.messagecentershow.com/e/onedrive-simplified-sharing-287/) - [Daniel Glenn](https://twitter.com/DanielGlenn) (Creospark) | @DanielGlenn & [Darrell Webster](https://twitter.com/darrellaas) (Modern Workplace Change) | @darrellaas
-* [Microsoft 365 Developer News from Microsoft Build 2023](https://www.voitanos.io/blog/microsoft-365-developer-news-from-build-2023/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [Microsoft 365 Developer News from Microsoft Build 2023](https://www.andrewconnell.com/articles/microsoft-365-developer-news-from-build-2023/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 
 ## Upcoming events
 

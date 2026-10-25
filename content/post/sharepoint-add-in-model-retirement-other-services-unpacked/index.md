@@ -21,9 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Embedded"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-add-in-model-retirement-other-services-unpacked/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-addin-model-retirement-other-services-unpacked/
 ---
-> This article originally appeared on Andrew Connell's site, **[SharePoint Add-in model retirement + other services unpacked](https://www.voitanos.io/blog/sharepoint-add-in-model-retirement-other-services-unpacked/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Add-in%20model%20retirement%20+%20other%20services%20unpacked)**, where it's [also available as a video](https://youtu.be/MguYAPaCjdE) and podcast episode.
+> This article originally appeared on Andrew Connell's site, **[SharePoint Add-in model retirement + other services unpacked](https://www.andrewconnell.com/articles/sharepoint-addin-model-retirement-other-services-unpacked/)**, where it's [also available as a video](https://youtu.be/MguYAPaCjdE) and podcast episode.
 
 On November 27th, Microsoft made an important announcement regarding the retirement plan for both **Azure Access Control Services** and the **SharePoint Add-in model**. As a long-time SharePoint developer and customer, I understand that these announcements will have a significant impact on our work.
 

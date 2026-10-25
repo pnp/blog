@@ -81,7 +81,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 * [Managed Identity rocks with PnP.PowerShell!](https://www.scoutman.pt/managed-identity-rocks-with-pnp.powershell/) - [Rodridgo Pinto](https://twitter.com/ScoutmanPt) (Storm Tehcnologies) | @ScoutmanPt
 * [Where in the world is my Teams conversation?](https://www.enowsoftware.com/solutions-engine/m365-teams-center/where-in-the-world-is-my-teams-conversation) - [Loryan Strant](https://twitter.com/LoryanStrant) (Rapid Circle) | @LoryanStrant
-* [Register SPFx list form customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-list-form-customizers-rest-api/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [Register SPFx list form customizers with the SharePoint REST API](https://www.andrewconnell.com/articles/sharepoint-framework-register-list-form-customizers-rest-api/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [1 step to update an item in an array in Power Automate](https://sharepains.com/2022/09/21/update-an-item-array-power-automate/) - [Pieter Veenstra](https://twitter.com/PieterVeenstra) (HybrIT Services) | @PieterVeenstra
 * [Build seamless automations to boost productivity with Microsoft Graph, Azure Event Hubs and Functions](https://aycabas.com/2022/09/19/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions/) - [Ayça Baş](https://twitter.com/aycabs) (Microsoft) | @aycabs
 * [Episode #223 - Advanced SPFx Form Customizers with DynamicForm](https://www.youtube.com/watch?v=fuVrosr-NgQ) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia

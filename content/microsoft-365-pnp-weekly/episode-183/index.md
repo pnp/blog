@@ -63,7 +63,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 ## Community articles
 
 * [Community Days - New event site for all Microsoft Cloud events](https://communitydays.org/)
-* [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.voitanos.io/blog/sharepoint-framework-dynamic-property-pane-dropdown/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
+* [How to Dynamically Set SPFx Property Pane Dropdowns](https://www.andrewconnell.com/articles/sharepoint-framework-dynamic-property-pane-dropdown/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @Andrewconnell
 * [Running applications with limited SharePoint permissions](https://www.blimped.nl/running-application-with-limited-sharepoint-permissions/) - [Martin Lingstuyl](https://twitter.com/martinlingstuyl) (I4-YOU) | @martinlingstuyl
 * [PnPjs 3.8 release published](https://twitter.com/m365pnpjs/status/1580954736723124226)
 * [Episode #226 - Extending users and devices with Microsoft Graph and Extension attributes](https://www.youtube.com/watch?v=kBm-fjqg0PU) - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
