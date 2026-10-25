@@ -149,7 +149,7 @@ If you are starting your journey with SPFx development using a local workspace, 
 
 ## Resources
 
-- [Multiple Node.js Versions with Node Version Manager (NVM)](https://www.voitanos.io/blog/better-node-js-install-management-with-node-version-manager)
+- [Multiple Node.js Versions with Node Version Manager (NVM)](https://www.andrewconnell.com/articles/node-js-better-install-management-with-node-version-manager/)
 - [NVM for Windows](https://github.com/coreybutler/nvm-windows)
 - [NVS](https://github.com/jasongin/nvs)
 - [Setting up your SPFx Developer workstation without admin permissions](https://www.youtube.com/watch?v=JBCYoUNM3QY)

@@ -92,7 +92,7 @@ everyone for your contributions to the community!\
 
 
 -   [SharePoint Framework v1.12 Deprecated!!! (+ how to roll
-    back)](https://www.voitanos.io/blog/sharepoint-framework-v1-12-deprecated/) -
+    back)](https://www.andrewconnell.com/articles/sharepoint-framework-v1-12-deprecated/) -
     [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
     | @andrewconnell
 -   [How to determine web part size with SPFx

@@ -21,9 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/
 ---
-> This article originally appeared on Andrew Connell's site, **[SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.voitanos.io/blog/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Framework%20Updated%20in%20SharePoint%20Server%20Subscription%20Edition)**, where it's [also available as a video](https://youtu.be/sQhUTQkgL4s) and podcast episode.
+> This article originally appeared on Andrew Connell's site, **[SharePoint Framework Updated in SharePoint Server Subscription Edition](https://www.andrewconnell.com/articles/sharepoint-framework-updated-in-sharepoint-server-subscription-edition/)**, where it's [also available as a video](https://youtu.be/sQhUTQkgL4s) and podcast episode.
 
 Microsoft released the SharePoint Framework (SPFx) in early 2017 & followed up later that year with a Feature Pack for SharePoint Server 2016. Since then, the latest version of SPFx has been available exclusively on SharePoint Online, but the version included in the on-premises deployments of SharePoint Server was stuck to that version.
 
@@ -31,7 +31,7 @@ This meant that SharePoint Server 2016 (with Feature Pack 2) is stuck on [SPFx v
 
 > **Working with SPFx in SharePoint On-Premises?**
 >
-> Check out my series **[Definitive guides for developers to SharePoint Framework for SharePoint Server on-premises](https://www.voitanos.io/series/definitive-guide-sharepoint-framework-sharepoint-server?dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint+Framework+Updated+in+SharePoint+Server+Subscription+Edition)** for detailed steps on setting up your SPFx developer environment for all three (3) SharePoint Server on-premises deployments. All include workarounds & accompanying video demos!
+> Check out my series **[Definitive guides for developers to SharePoint Framework for SharePoint Server on-premises](https://www.andrewconnell.com/series/sharepoint-framework-definitive-guide-spfx-sharepoint-server/)** for detailed steps on setting up your SPFx developer environment for all three (3) SharePoint Server on-premises deployments. All include workarounds & accompanying video demos!
 
 Until now 😳
 
@@ -42,7 +42,7 @@ Don’t get too excited… the installed version of SPFx was only bumped up to [
 The only changes we saw in the SPFx v1.5.1 release were minor from my perspective:
 
 - Support for additional package managers, not just NPM, such as Yarn & PNPM
-- TSLint was bumped from v5.6 to v5.9.1 - *I’ve already discussed the TSLint vs. ESLint [at great length](https://www.voitanos.io/search?q=tslint+eslint&dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint+Framework+Updated+in+SharePoint+Server+Subscription+Edition)*
+- TSLint was bumped from v5.6 to v5.9.1 - *I’ve already discussed the TSLint vs. ESLint [at great length](https://www.andrewconnell.com/articles/sharepoint-framework-replace-tslint-with-eslint/)*
 
 ## What’s the point of such a minor update?
 

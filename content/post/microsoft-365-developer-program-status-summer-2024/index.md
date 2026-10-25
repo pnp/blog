@@ -21,9 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["Microsoft 365 Developer Program","Microsoft 365 "]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/microsoft-365-developer-program-status-summer-2024/
+canonicalURL: https://www.andrewconnell.com/articles/microsoft-365-developer-program-status-summer-2024/
 ---
-> This article originally appeared on Andrew Connell's site, **[What You Need to Know - Microsoft 365 Developer Program Changes in 2024](https://www.voitanos.io/blog/microsoft-365-developer-program-status-summer-2024/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=What%20You%20Need%20to%20Know%20-%20Microsoft%20365%20Developer%20Program%20Changes%20in%202024)**.
+> This article originally appeared on Andrew Connell's site, **[What You Need to Know - Microsoft 365 Developer Program Changes in 2024](https://www.andrewconnell.com/articles/microsoft-365-developer-program-status-summer-2024/)**.
 
 Lately, I've been receiving numerous inquiries from my students and other Microsoft 365 developers regarding how to access the free Microsoft 365 developer tenants referenced in various Microsoft Learning modules, Microsoft's documentation, and my classes. Since its inception, the Microsoft 365 Developer Program and these free developer tenants have been the preferred method for learning and developing custom solutions. They provide an excellent starting point for developers to build and test Microsoft 365 solutions.
 

@@ -47,4 +47,4 @@ controls with Joel Rodrigues
     Identity](https://blog.yannickreekmans.be/secretless-applications-use-azure-identity-sdk-to-access-data-with-a-managed-identity/)
 -   [Get with the times & ditch TSLint in favor of ESLint in SharePoint
     Framework
-    projects](https://www.voitanos.io/blog/spfx-replace-tslint-with-eslint/)
+    projects](https://www.andrewconnell.com/articles/sharepoint-framework-replace-tslint-with-eslint/)

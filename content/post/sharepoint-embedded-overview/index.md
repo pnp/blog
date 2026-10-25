@@ -22,9 +22,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Embedded"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-embedded-overview/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-embedded-overview/
 ---
-> This article originally appeared on Andrew Connell's site, **[SharePoint Embedded - overview and example scenarios](https://www.voitanos.io/blog/sharepoint-embedded-overview/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=SharePoint%20Embedded%20-%20overview%20and%20example%20scenarios)**, where it's [also available as a video](https://youtu.be/gEU8NxNWLCI) and podcast episode.
+> This article originally appeared on Andrew Connell's site, **[SharePoint Embedded - overview and example scenarios](https://www.andrewconnell.com/articles/sharepoint-embedded-overview/)**, where it's [also available as a video](https://youtu.be/gEU8NxNWLCI) and podcast episode.
 
 In May 2023, [Microsoft announced the private preview of a new product/service at their annual Build conference: Syntex Repository Services](https://devblogs.microsoft.com/microsoft365dev/introducing-syntex-repository-services-microsoft-365-superpowers-for-your-app?WT.mc_id=M365-MVP-21083). Then, in November 2023, [Microsoft announced the public preview and renamed it to SharePoint Embedded](https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/announcing-sharepoint-embedded-public-preview-at-espc23/ba-p/3993428?WT.mc_id=M365-MVP-21083). In the past, it's also been referred to as **Repository as a Service** (RaaS) or SharePoint's headless APIs.
 

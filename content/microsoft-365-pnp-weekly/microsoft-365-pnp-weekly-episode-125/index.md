@@ -114,7 +114,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
     [Sergei Sergeev](https://twitter.com/sergeev_srg) (Mastaq)
     | @sergeev_srg
 -   [SharePoint Framework v1.12.1 - What's in the latest Update of
-    SPFx?](https://www.voitanos.io/blog/sharepoint-framework-v1-12-1-whats-in-the-latest-update-of-spfx/?utm_sq=gq05q2ejo9&utm_source=twitter&utm_medium=social&utm_campaign=voitanos&utm_content=ownblogposts) -
+    SPFx?](https://www.andrewconnell.com/articles/sharepoint-framework-v1-12-1-whats-in-the-latest-update-of-spfx/) -
     [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos)
     | @andrewconnell
 -   [Power Platform Rewind April
