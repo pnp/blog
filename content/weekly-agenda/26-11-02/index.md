@@ -47,7 +47,7 @@ Latest news from Microsoft on Copilot, Microsoft 365 and Power Platform, followe
 
 Community demos this week:
 
-* [Vijay Kumar Gilakattula](https://www.linkedin.com/in/g-vijai-kumar/) - Content Rollup aggregate news across SharePoint sites with Microsoft Search
+* [Vijay Kumar Gilakattula](https://www.linkedin.com/in/g-vijai-kumar/) - Creating list Dashboards - turn any SharePoint list into a real dashboard, no Power BI
 * [Marc André Schröder-Zhou](https://www.linkedin.com/in/dev-schroeder/) - Creating UX component solution to manage approvals directly in Copilot canvas
 * [Adam Wójcik](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/) - Announcing new and updated PnP Provisioning engine for M365 provisioning automation
 
