@@ -37,7 +37,6 @@ Download a [recurring community call invite](https://aka.ms/community/calls) and
 
 Latest news from Microsoft on Copilot, Microsoft 365 and Power Platform, followed by these demos:
 
-* [Joe Komban](https://www.linkedin.com/in/kjoefrancis/) - Copilot in SharePoint: New Skills Management Experience and Productivity Features
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) - Building Copilot Cowork Skills and Plugins
 * [Vesa Juvonen](https://www.linkedin.com/in/vesajuvonen/) - Copilot UX Components: From AI Chat to Interactive Business Applications - Sales Pipeline in Action
 
@@ -58,8 +57,12 @@ Pacific Time changes to standard time on 1 November. The UTC times above reflect
 
 ## Latest community call recordings
 
-Both full community-call recordings published on [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning/videos) during 23-29 October are listed here. Dates below are publication dates. The 29 October call recording was not yet available when sources were checked.
+All four full community-call recordings published on [Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning/videos) during 23-30 October are listed here. Dates below are publication dates (UTC). Sources were checked on 30 October.
 
+* [Copilot, Microsoft 365 & Power Platform community call – 29th of October, 2026](https://www.youtube.com/watch?v=0faTmbe-pcY) - published 29 October.
+    * Build Power Automate flows and Power Apps from Copilot Studio, design Adaptive Cards with AI in SharePoint, and use Copilot Notebooks, with [Ranjith D](https://www.linkedin.com/in/ranjith-d-analyst/), [Marc André Schröder-Zhou](https://www.linkedin.com/in/dev-schroeder/) and [David Warner](https://www.linkedin.com/in/davidwarnerii/).
+* [Maturity Model for Microsoft 365 - Oct 2026 - Modern Compliance in Microsoft 365: Model Perspective](https://www.youtube.com/watch?v=mLk3M359RZ0) - published 29 October.
+    * The 20 October session on modern compliance through the Microsoft 365 Maturity Model, with guest [Joanne Klein](https://www.linkedin.com/in/joannecklein/).
 * [MGCI Community Builders Network Call - October 2026](https://www.youtube.com/watch?v=RCeuhgHjw9E) - published 27 October.
     * MGCI program and subcommittee updates, plus building community through teamwork, with Heather Cook and Isidora Katanić.
 * [Copilot, Microsoft 365 & Power Platform weekly call – 27th of October, 2026](https://www.youtube.com/watch?v=28lrWP7mwlI) - published 27 October.
@@ -69,12 +72,13 @@ Both full community-call recordings published on [Microsoft Community Learning](
 
 ## New videos
 
-Published 23-29 October across all three channels, newest first within each channel. Videos and Live tabs were checked; Shorts and scheduled livestreams are excluded. Full community calls appear only in the recordings section above. Presenter profiles are linked where available.
+Published 23-30 October (UTC) across all three channels, newest first within each channel. Videos and Live tabs were checked on 30 October; Shorts and scheduled livestreams are excluded. Full community calls appear only in the recordings section above. Presenter profiles are linked where available.
 
 ### Microsoft Community Learning
 
 [Subscribe to Microsoft Community Learning](https://www.youtube.com/@MicrosoftCommunityLearning/videos)
 
+* [How to get Usage metrics from the Power Platform Admin Center](https://www.youtube.com/watch?v=LDxPmyeT_fw) by [Nathalie Leenders](https://www.linkedin.com/in/nathalie-leenders-8853871b/) - 30 October
 * [Multi-agent patterns in Microsoft Copilot](https://www.youtube.com/watch?v=7YI29LcEWa8) by [Reshmee Auckloo](https://www.linkedin.com/in/reshmee-auckloo-98a23619/) and [Lee Ford](https://www.linkedin.com/in/lee-ford/) - 29 October
 * [Live AMA: How AI-powered attacks happen - Real threat scenarios and security controls that stop them](https://www.youtube.com/watch?v=v-miSCeIypo) - 28 October
 * [Hosted in your Microsoft 365 tenant, governed by you | Copilot UX components](https://www.youtube.com/watch?v=z1A_yeKBL5Y) - 28 October
@@ -91,6 +95,7 @@ Published 23-29 October across all three channels, newest first within each chan
 
 [Subscribe to Power Platform](https://www.youtube.com/@mspowerplatform/videos)
 
+* [What actually mattered at PPCC26? | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=w1AUmUdI4-g) with Tatiana and Vandana - 29 October
 * [What are people talking about at PPCC26? | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=8xZCGCwWylQ) with Tatiana and Vandana - 28 October
 * [Welcome to PPCC26! | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=JAIPIQpQ2pY) with Tatiana and Vandana - 27 October
 * [From the Theater Stage to a Tech Career | Tiffany Duppong | My Maker Journey](https://www.youtube.com/watch?v=Tb-vvs_andI) with Tiffany Duppong - 27 October
@@ -114,7 +119,7 @@ Published 23-29 October across all three channels, newest first within each chan
 
 ## New blog posts
 
-Posts published 23-29 October on both blog platforms.
+Posts published 23-30 October (UTC) on both blog platforms.
 
 ### Microsoft 365 Developer Blog
 
@@ -129,7 +134,7 @@ Posts published 23-29 October on both blog platforms.
 
 ## Upcoming events
 
-The complete [CommunityDays upcoming event listing](https://www.communitydays.org/events?when=upcoming), checked on 29 October: **38 events**, grouped by month. This includes the Power Platform Community Conference, which is in progress through 30 October. Follow each event link for registration and the latest details.
+The complete [CommunityDays upcoming event listing](https://www.communitydays.org/events?when=upcoming), checked on 30 October: **38 events**, grouped by month. This includes the Power Platform Community Conference, which is in progress through 30 October. Follow each event link for registration and the latest details.
 
 ### October 2026
 
