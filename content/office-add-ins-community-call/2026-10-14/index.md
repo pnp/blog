@@ -11,7 +11,7 @@ tags: ["Office Add-ins","Microsoft 365"]
 type: "regular"
 videos:
   - https://youtu.be/lhIj3kE0-Xk
-draft: true
+draft: false
 ---
 
 # Office Add-ins developer platform community call - October 14, 2026
@@ -20,8 +20,8 @@ draft: true
 
 ## This month's agenda and presenters
 
-- **OfficeJS Quality Updates** - Akshay Dixit, TBD. Akshay reviewed progress on the OfficeDev/office-js issue backlog, including the teams' focus areas across Word, Excel, PowerPoint, and Outlook. He also highlighted specific Word and Excel improvements and the continued effort to acknowledge and resolve community-reported issues more quickly.
-- **Community Call Update** - Mansi Agrawal, TBD, and Vesa Juvonen, TBD. Mansi and Vesa explained that the standalone monthly Office Add-ins community call is being combined with broader Microsoft 365 extensibility calls. Office Add-ins updates, demos, questions, and feedback will continue through the weekly Copilot, Microsoft 365 & Power Platform call, the monthly Copilot Extensibility call, and the OfficeDev/office-js GitHub repository.
+- **OfficeJS Quality Updates** - Akshay Dixit, Senior Product Manager. Akshay reviewed progress on the OfficeDev/office-js issue backlog, including the teams' focus areas across Word, Excel, PowerPoint, and Outlook. He also highlighted specific Word and Excel improvements and the continued effort to acknowledge and resolve community-reported issues more quickly.
+- **Community Call Update** - Mansi Agrawal, Product Manager II, and Vesa Juvonen, Principal Product Manager. Mansi and Vesa explained that the standalone monthly Office Add-ins community call is being combined with broader Microsoft 365 extensibility calls. Office Add-ins updates, demos, questions, and feedback will continue through the weekly Copilot, Microsoft 365 & Power Platform call, the monthly Copilot Extensibility call, and the OfficeDev/office-js GitHub repository.
 
 ## View video segments
 
