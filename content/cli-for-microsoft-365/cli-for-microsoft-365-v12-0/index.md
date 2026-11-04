@@ -50,20 +50,20 @@ m365 spo file remove --webUrl https://contoso.sharepoint.com/sites/project-x --u
 
 ## SharePoint Framework v1.24 support
 
-SharePoint Framework v1.24 is generally available, and CLI for Microsoft 365 v12.0 is ready for it. SPFx v1.24 is a significant release: it makes Copilot UX components (introduced in preview as SharePoint Copilot Apps) generally available, updates the React runtime to React 18.3.1, and adds support for Node.js 24 and 26. To help you move your projects forward, we've added support for SPFx v1.24.0 to our SPFx commands. You can generate upgrade guidance for your project, validate its dependencies, and check that your local environment is ready for the latest version.
+SharePoint Framework v1.24 is generally available, and CLI for Microsoft 365 v12.0 is ready for it. SPFx v1.24 is a significant release: it makes Copilot UX components (introduced in preview as SharePoint Copilot Apps) generally available, updates the React runtime to React 18.3.1, and adds support for Node.js 24 and 26. To help you move your projects forward, we've added support for SPFx v1.24.1 to our SPFx commands. You can generate upgrade guidance for your project, validate its dependencies, and check that your local environment is ready for the latest version.
 
-To get step-by-step guidance on upgrading your project to SPFx v1.24.0, run the following command in the root of your project:
+To get step-by-step guidance on upgrading your project to SPFx v1.24.1, run the following command in the root of your project:
 
 ```sh
-m365 spfx project upgrade --toVersion 1.24.0 --output md > "upgrade-report.md"
+m365 spfx project upgrade --toVersion 1.24.1 --output md > "upgrade-report.md"
 ```
 
 Since SPFx v1.24 moves React-based solutions to React 18, look beyond the package updates when you upgrade, and test your solution in every host it supports.
 
-To verify that your development environment meets the requirements of SPFx v1.24.0, run:
+To verify that your development environment meets the requirements of SPFx v1.24.1, run:
 
 ```sh
-m365 spfx doctor --spfxVersion 1.24.0 --output text
+m365 spfx doctor --spfxVersion 1.24.1 --output text
 ```
 
 For more information, see: [spfx project upgrade](https://pnp.github.io/cli-microsoft365/cmd/spfx/project/project-upgrade/) and [spfx doctor](https://pnp.github.io/cli-microsoft365/cmd/spfx/spfx-doctor/)
