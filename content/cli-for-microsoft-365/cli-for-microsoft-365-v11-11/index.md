@@ -11,7 +11,7 @@ tags:
   - CLI for Microsoft 365
   - Entra
   - SharePoint Online
-type: popular
+type: regular
 ---
 
 CLI for Microsoft 365 v11.11 opens the door to the agent era with a brand new Entra command, continues the ongoing work on minimal permissions and Zod schema validation, and fixes two SharePoint issues reported by the community. [CLI for Microsoft 365](https://aka.ms/cli-m365) remains the cross-platform tool you rely on to manage your Microsoft 365 tenant and SharePoint Framework projects, and this release keeps that foundation sharp and reliable.
