@@ -8,7 +8,7 @@ categories:
 images:
   - images/weeklyagenda42.PNG
 tags: []
-type: trending
+type: regular
 videos: null
 draft: false
 ---
@@ -118,7 +118,7 @@ Here are the last week's community call recordings. You can download recurrent i
 
 You already contributed? Great, we want to celebrate and recognize you! Opt in for our [community recognition program](https://pnp.github.io/recognitionprogram/) and earn badges from our various initiatives! 
 
-![Community Recognition](../images/community-recognition-2025.png)
+![Community Recognition](../images/community-recognition-2026.png)
 
 ---
 
