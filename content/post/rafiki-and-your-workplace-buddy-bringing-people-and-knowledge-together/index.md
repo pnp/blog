@@ -1,6 +1,6 @@
 ---
 title: "Rafiki and Your Workplace Buddy: Bringing People and Knowledge Together"
-date: 2026-10-17T00:00:00-00:00
+date: 2026-11-03T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
