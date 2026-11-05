@@ -43,7 +43,7 @@ Latest on SharePoint Framework (SPFx), Copilot prompt of the week, PnPjs, CLI fo
 
 Community demos this week:
 
-* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) - Build Power Automate Flows and Power Apps from Copilot Studio - Just by Asking
+* [Ejaz Hussain](https://www.linkedin.com/in/hussaine/) - Bringing employee recognition into the Copilot canvas with SPFx Copilot components
 * [Kurt Rolland](https://www.linkedin.com/in/krolland/) - Document Intake: filing documents from a Copilot conversation with a Copilot UX component
 * Manish Yadav - Creating a Voice Agent using Foundry SDK
 
