@@ -1,6 +1,6 @@
 ---
 title: Weekly Agenda - 9th of November week
-date: 2026-11-06T02:00:00.000Z
+date: 2026-11-05T02:00:00.000Z
 author: Vesa Juvonen
 githubname: VesaJuvonen
 categories:
@@ -12,8 +12,6 @@ type: trending
 videos: null
 draft: false
 ---
-
-
 
 Join the Microsoft 365, Copilot and Power Platform community for live demos, product updates and questions with presenters. Everyone is welcome, whether you build with no code, low code or code.
 
@@ -33,6 +31,19 @@ Latest news from Microsoft on Copilot, Microsoft 365 and Power Platform, a commu
 * [Nicole Woon](https://www.linkedin.com/in/niwoon/) - Introducing HTML Pages in SharePoint
 * [James Eccles](https://www.linkedin.com/in/ecclesjames/) - 10 Things Developers Often Get Wrong About SharePoint Embedded
 * [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) - Building Copilot Cowork Plugins with WIQD
+
+
+### Copilot Extensibility Monthly Community Call - 11 November
+
+* **Wednesday, 11 November 2026, 8:00 AM PT / 4:00 PM UTC**
+* [Join the call](https://aka.ms/community/CopilotExtensibility-call-join) | [Recurring invite](https://aka.ms/community/CopilotExtensibility-call-invite) | [Recordings](https://www.youtube.com/watch?v=Yocp96v-h7o&list=PLR9nK3mnD-OWvoIQ01EuzFCJU9r6V_ML3)
+
+Latest updates from Microsoft on Copilot related topics, a community together mode group photo, followed by these demos:
+
+* [Gargy Shekhar](https://www.linkedin.com/in/gargyshekhar/) - Introduction to Connectors in Copilot
+* [Daniel Laskewitz](https://www.linkedin.com/in/laskewitz/) - The new and improved Work IQ in Copilot Studio
+* [Paolo Pialorsi](https://www.linkedin.com/in/paolopialorsi/) - What’s new in Work IQ APIs
+
 
 ### Copilot, Microsoft 365 & Power Platform community call - 12 November
 
@@ -122,8 +133,6 @@ Posts published during 29 October-5 November (UTC) on both blog platforms.
 
 ### November 2026
 
-* [TechCon 365 Dallas](https://communitydays.org/event/2026-11-02/techcon-365-dallas) - Irving, TX, United States - 2-7 November 2026
-* [Microsoft 365 Live](https://communitydays.org/event/2026-11-04/microsoft-365-live) - Virtual · Colombia - 4-8 November 2026
 * [Azure and Github Community Day](https://communitydays.org/event/2026-11-10/azure-and-github-community-day) - Dublin, Ireland, Ireland - 10 November 2026
 * [Update Conference Prague 2026](https://communitydays.org/event/2026-11-12/update-conference-prague-2026) - Hybrid · Prague, Czechia - 12-13 November 2026
 * [AI Community Conference - Toronto 2026](https://communitydays.org/event/2026-11-13/ai-community-conference-toronto-2026) - Toronto, Ontario, Canada - 13 November 2026
