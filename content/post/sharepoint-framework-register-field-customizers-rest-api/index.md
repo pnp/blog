@@ -21,9 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-framework-register-field-customizers-rest-api/
 ---
-> This article originally appeared on Andrew Connell's site, **[How to register SPFx field customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=how+to+register+spfx+field+customizers+with+the+sharepoint+rest+api)**, where it's [also available as a video](https://youtu.be/jUW7xkPFjbA) and podcast episode.
+> This article originally appeared on Andrew Connell's site, **[How to register SPFx field customizers with the SharePoint REST API](https://www.andrewconnell.com/articles/sharepoint-framework-register-field-customizers-rest-api/)**, where it's [also available as a video](https://youtu.be/jUW7xkPFjbA) and podcast episode.
 
 The SharePoint Framework enables developers to customize the rendering of data in a SharePoint list’s column. This is done by creating a custom field customizer and associating it with column.
 
@@ -50,7 +50,7 @@ Thankfully, you can use the SharePoint REST API to do this!
 
 To demonstrate this, let me show you a little utility I created to show how this works.
 
-This web part I’m going to show you uses the SharePoint REST API to register, change, or deregister a field customizer on an existing list column. This source to this project is included in the student download of my course, [**Mastering the SharePoint Framework**](https://www.voitanos.io/course-master-sharepoint-framework?dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How+to+register+SPFx+field+customizers+with+the+SharePoint+REST+API).
+This web part I’m going to show you uses the SharePoint REST API to register, change, or deregister a field customizer on an existing list column. This source to this project is included in the student download of my course, [**Mastering the SharePoint Framework**](https://www.andrewconnell.com/courses/mastering-the-sharepoint-framework/).
 
 ### Overview of the list and field customizer
 
@@ -204,4 +204,4 @@ What do you think about about using the REST API to register a field control? Le
 
 ## Get the code!
 
-Get the code for my sample **SPFx Field Customizer Manager** web part I used in this article & the associated video from the original post on my blog: **[Voitanos: How to register SPFx field customizers with the SharePoint REST API](https://www.voitanos.io/blog/sharepoint-framework-register-field-customizers-rest-api?dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How+to+register+SPFx+field+customizers+with+the+SharePoint+REST+API)**
+Get the code for my sample **SPFx Field Customizer Manager** web part I used in this article & the associated video from the original post on my blog: **[Voitanos: How to register SPFx field customizers with the SharePoint REST API](https://www.andrewconnell.com/articles/sharepoint-framework-register-field-customizers-rest-api/)**

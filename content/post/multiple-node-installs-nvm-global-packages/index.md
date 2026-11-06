@@ -21,13 +21,13 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post","SPFx"]
-canonicalURL: https://www.voitanos.io/blog/multiple-node-installs-nvm-global-packages/
+canonicalURL: https://www.andrewconnell.com/articles/node-js-multiple-installs-nvm-global-packages/
 ---
-> This article originally appeared on Andrew Connell's site, **[Multiple Node.js Installs with NVM and Global Packages](https://www.voitanos.io/blog/multiple-node-installs-nvm-global-packages/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Multiple+Node.js+Installs+with+NVM+and+Global+Packages)**.
+> This article originally appeared on Andrew Connell's site, **[Multiple Node.js Installs with NVM and Global Packages](https://www.andrewconnell.com/articles/node-js-multiple-installs-nvm-global-packages/)**.
 
 Different SharePoint Framework (SPFx) and Microsoft Teams Toolkit (TTK) project types support various versions of Node.js. For instance, different SPFx versions require specific Node.js versions. This means you need the right version of Node.js installed on your machine to run and compile these projects.
 
-The challenge arises when you need multiple versions of Node.js on your machine. By default, Node.js doesn't support this; it allows only one installation. However, using the popular tool [Node Version Manager (NVM)](https://www.voitanos.io/blog/better-node-js-install-management-with-node-version-manager/), available for both Mac OS and Windows, you can install multiple Node.js versions on your computer. This tool also simplifies switching between versions on the fly.
+The challenge arises when you need multiple versions of Node.js on your machine. By default, Node.js doesn't support this; it allows only one installation. However, using the popular tool [Node Version Manager (NVM)](https://www.andrewconnell.com/articles/node-js-better-install-management-with-node-version-manager/), available for both Mac OS and Windows, you can install multiple Node.js versions on your computer. This tool also simplifies switching between versions on the fly.
 
 ## How NVM works
 
@@ -83,6 +83,6 @@ This will enable NVM to automate package handling after installing a new version
 
 Interested in learning more about NVM? Check out my other articles on NVM!
 
-- [Manage Multiple Node.js Version Installs with NVM](https://www.voitanos.io/blog/better-node-js-install-management-with-node-version-manager/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Multiple+Node.js+Installs+with+NVM+and+Global+Packages)
-- [Try SharePoint Framework Preview Releases with NVM](https://www.voitanos.io/blog/try-sharepoint-framework-preview-releases/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Multiple+Node.js+Installs+with+NVM+and+Global+Packages)
-- [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.voitanos.io/blog/how-to-setup-sharepoint-framework-development-environment-for-multiple-sharepoint-server-deployments/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Multiple+Node.js+Installs+with+NVM+and+Global+Packages)
+- [Manage Multiple Node.js Version Installs with NVM](https://www.andrewconnell.com/articles/node-js-better-install-management-with-node-version-manager/)
+- [Try SharePoint Framework Preview Releases with NVM](https://www.andrewconnell.com/articles/sharepoint-framework-try-preview-releases/)
+- [How to set up SPFx development environments for multiple SharePoint Server deployments](https://www.andrewconnell.com/articles/sharepoint-framework-how-to-setup-development-environment-for-multiple-sharepoint-server-deployments/)

@@ -37,4 +37,4 @@ Listen to the show here:  [Universal Actions and Adaptive Card Updates with Fab
 ## Community Links
 
 *   [Keeping up to date with the Microsoft Graph changelog (@LoryanStrant)](https://www.loryanstrant.com/2022/03/03/keeping-up-to-date-with-the-microsoft-graph-changelog/)
-*   [SharePoint Framework v1.14 - What's in the latest Update of SPFx? (@andrewconnell)](https://www.voitanos.io/blog/sharepoint-framework-v1-14-whats-in-latest-update-of-spfx)
+*   [SharePoint Framework v1.14 - What's in the latest Update of SPFx? (@andrewconnell)](https://www.andrewconnell.com/articles/sharepoint-framework-v1-14-whats-in-latest-update-of-spfx/)

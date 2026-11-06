@@ -53,7 +53,7 @@ indicating you can use *any* version of key dependencies:
     2016](https://blog.pathtosharepoint.com/2021/01/28/yes-you-can-use-modern-react-on-sharepoint-2016/)
 -   [SharePoint 2016, 2019 & SharePoint Online: Which Version of the
     SharePoint Framework Should You
-    Inst\...](https://www.voitanos.io/blog/spfx-which-version-of-spfx-generator-to-install/)
+    Inst\...](https://www.andrewconnell.com/articles/sharepoint-framework-which-version-of-spfx-generator-to-install/)
 
 That last post mentions version 1.9.1 of
 @microsoft/generator-sharepoint,

@@ -72,9 +72,9 @@ These videos and podcasts are published each week and are intended to be roughly
 
 As we recorded the previous and this episode close by, we wanted to focus on community assets in this one.
 
-* [SharePoint Embedded - overview and example scenarios](https://www.voitanos.io/blog/sharepoint-embedded-overview/) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
+* [SharePoint Embedded - overview and example scenarios](https://www.andrewconnell.com/articles/sharepoint-embedded-overview/) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
 * [Automatically generate Flow, Workflow and Business Rule Documentation](https://pnp.github.io/blog/post/automatically-generate-flow-workflow-business-rule-documentation/) - [Alex McLachlan](https://www.linkedin.com/in/alexjlmclachlan/) (Ceox Services Ltd)
-* [SharePoint Add-in model retirement + other services unpacked](https://www.voitanos.io/blog/sharepoint-add-in-model-retirement-other-services-unpacked/) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
+* [SharePoint Add-in model retirement + other services unpacked](https://www.andrewconnell.com/articles/sharepoint-addin-model-retirement-other-services-unpacked/) - [Andrew Connell](https://www.linkedin.com/in/andrewconnell/) (Voitanos)
 * [CLI for Microsoft 365 v7.3](https://pnp.github.io/blog/cli-for-microsoft-365/cli-for-microsoft-365-v7-3/) - [Martin Lingstuyl](https://www.linkedin.com/in/martinlingstuyl/) (I4-YOU)
 * [Announcing the retirement of yo teams](https://pnp.github.io/blog/post/yo-teams-retirement/) - [Wictor Wilen](https://www.linkedin.com/in/wictorwilen/) (Microsoft)
 * [Microsoft Copilot for Service Preview – First Look Admin (Copilot Maker) Experience Demo](https://www.linkedin.com/posts/mahmoudhamedhassan_microsoftcopilottips-modernworkplaceai-activity-7150077170168520705-UVI4/) - [Mahmoud Hassan](https://www.linkedin.com/in/mahmoudhamedhassan/) (Avanade)
