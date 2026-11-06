@@ -15,7 +15,7 @@ draft: false
 
 A document assistant over SharePoint rarely fails by saying nothing. The failure that hurts is a fluent answer taken from the wrong version of a procedure, from a draft that was never approved, or from a file the person asking should not have seen at all.
 
-SharePoint already records everything needed to catch that. The work is to read those records and show them next to every answer. This post walks through the four facts we attach to each answer in our own assistant, which runs over about 400,000 documents in 865 sites for a construction company, and the Graph calls behind each one.
+SharePoint already records everything needed to catch that. The work is to read those records and show them next to every answer. This post walks through the four facts we attach to each answer in our own assistant, and the Graph calls behind each one.
 
 ## 1. Which version was used
 
