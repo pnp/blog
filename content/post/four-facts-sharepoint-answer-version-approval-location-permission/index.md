@@ -1,6 +1,6 @@
 ---
 title: "Four facts a SharePoint answer needs before you can trust it: version, approval status, location and permission"
-date: 2026-10-19T00:00:00-00:00
+date: 2026-11-06T00:00:00-00:00
 author: "Kaspars Jurjāns"
 githubname: jurjans
 categories: ["Community post"]
