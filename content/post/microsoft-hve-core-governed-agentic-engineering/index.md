@@ -1,6 +1,6 @@
 ---
 title: "Who keeps the judgment when AI carries the rules? Microsoft HVE Core in practice"
-date: 2026-10-19T08:00:00.000Z
+date: 2026-11-06T08:00:00.000Z
 author: "Arindam Choudhury"
 githubname: "ari20089"
 categories: ["Community post"]
