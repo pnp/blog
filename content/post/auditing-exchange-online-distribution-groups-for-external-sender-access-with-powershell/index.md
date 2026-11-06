@@ -1,6 +1,6 @@
 ---
 title: "Auditing Exchange Online Distribution Groups for External Sender Access with PowerShell"
-date: 2026-10-17T00:00:00-00:00
+date: 2026-11-06T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
