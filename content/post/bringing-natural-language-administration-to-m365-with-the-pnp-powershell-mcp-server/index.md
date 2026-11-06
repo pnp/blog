@@ -1,6 +1,6 @@
 ---
 title: "Bringing Natural-Language Administration to Microsoft 365 with the PnP PowerShell MCP Server"
-date: 2026-10-24T00:00:00-00:00
+date: 2026-11-01T00:00:00-00:00
 author: "Josiah Opiyo"
 githubname: ojopiyo
 categories: ["Community post"]
