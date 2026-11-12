@@ -1,6 +1,6 @@
 ---
 title: "Sending mail with up to five attachments from a Copilot Studio workflow"
-date: 2026-11-11T09:00:00+01:00
+date: 2026-11-12T09:00:00+01:00
 author: "Pia Langenkrans"
 githubname: mrsbeata
 # don't change
@@ -29,11 +29,11 @@ If you only need the pattern, here it is:
 6. Pass the whole array to **Attachments** in **Send an email (V2)**. An empty array is fine.
 7. On the agent side, leave the file inputs on **Fill with Intelligence**. In the new experience that works, even though the documentation for the standard harness says it does not.
 
-The rest of this post explains why each step is there, because almost none of it was obvious from the designer.
+The rest of this post explains why each step is there.
 
 ## Background
 
-I had a working Copilot Studio agent whose escalation step called an agent flow named SendMail. The agent summarized the conversation and the flow emailed the summary to a support mailbox, with a copy to the user. When I moved the agent to a new environment and rebuilt the tool in the new workflows experience, logic that had been routine in the classic designer took most of a day. None of the problems were hard once understood. Almost none were visible in the designer itself.
+I had a working Copilot Studio agent whose escalation step called an agent flow named SendMail. The agent summarized the conversation and the flow emailed the summary to a support mailbox, with a copy to the user. When I moved the agent to a new environment and rebuilt the tool in the new workflows experience, logic that had been routine in the classic designer took most of a day. None of the problems were hard once I understood them. The hard part was that the designer showed almost none of them.
 
 ## The requirement
 
@@ -63,7 +63,7 @@ The append values, entered in Expression mode:
 | attachment4 | `file_3` | `triggerBody()?['file_3']` |
 | attachment5 | `file_4` | `triggerBody()?['file_4']` |
 
-Tested with zero, one, two and five files, first from the workflow's own test runs and then from the agent in the chat. Every run delivered the right attachments with correct names and sizes. Run details estimated a five-file run at 0.13 Copilot Credits.
+I tested with zero, one, two and five files, first from the workflow's own test runs and then from the agent in the chat. Every run delivered the right attachments with correct names and sizes. Run details estimated a five-file run at 0.13 Copilot Credits.
 
 ## What I learned
 
@@ -157,4 +157,4 @@ The user's address worked the same way. `System.User.Email` could not be selecte
 
 ## Summary
 
-The working pattern is short once known: optional File inputs on the trigger, an array variable, one If/Else per file on *Name is not empty*, *Append to array* with the raw file reference from Expression mode, and the array passed whole to *Send an email (V2)*. On the agent side, file inputs worked with *Fill with Intelligence* and no formulas. Most of the time went into discovering behaviour the designer did not explain, which is why the suggestions matter as much as the solution.
+The working pattern is short once you know it: optional File inputs on the trigger, an array variable, one If/Else per file on *Name is not empty*, *Append to array* with the raw file reference from Expression mode, and the array passed whole to *Send an email (V2)*. On the agent side, file inputs worked with *Fill with Intelligence* and no formulas. Most of my time went into discovering behaviour the designer did not explain, which is why the suggestions matter as much as the solution.
