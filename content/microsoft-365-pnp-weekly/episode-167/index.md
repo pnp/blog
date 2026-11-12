@@ -60,7 +60,7 @@ Here are all the links and people mentioned in this recording. Thanks, everyone 
 
 ## Community articles
 
-* [SPFx Basics: Configure NPM for a coporate web proxy](https://www.voitanos.io/blog/node-npm-fix-proxy-config/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
+* [SPFx Basics: Configure NPM for a coporate web proxy](https://www.andrewconnell.com/articles/node-js-npm-fix-proxy-config/) - [Andrew Connell](https://twitter.com/andrewconnell) (Voitanos) | @andrewconnell
 * [Microsoft, you are breaking my heart: the Embed Web Part and Feedback Links](https://emilymancini.com/2022/05/17/microsoft-you-are-breaking-my-heart-the-embed-web-part-and-feedback-links/) - [Emily Mancini](https://twitter.com/EEMancini) (Sympraxis Consulting) | @EEMancini
 * [Episode #206 - Using the PnP Pagination control in SPFx solutions](https://www.youtube.com/watch?v=vvv0xvfW9oU)  - [Paolo Pialorsi](https://twitter.com/PaoloPia) (PiaSys) | @PaoloPia
 * [Power Apps: Mapping Plot Points](https://www.youtube.com/watch?v=iw1ACuJB9cY) - [April Dunnam](https://twitter.com/aprildunnam) (Microsoft) | @aprildunnam

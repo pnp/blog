@@ -21,9 +21,9 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-framework-how-to-use-react-hooks-with-spfx-projects/
 ---
-> This article originally appeared on Andrew Connell's site, **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How%20to%20use%20React%20hooks%20with%20the%20SharePoint%20Framework%20(SPFx))**, where it's [also available as a video](https://youtu.be/EzI-k5lqIng) and podcast episode. You can also download the code from the project used in this article from the original article
+> This article originally appeared on Andrew Connell's site, **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.andrewconnell.com/articles/sharepoint-framework-how-to-use-react-hooks-with-spfx-projects/))**, where it's [also available as a video](https://youtu.be/EzI-k5lqIng) and podcast episode. You can also download the code from the project used in this article from the original article
 
 The current version of the Yeoman generator for the SPFx still uses the older-style React class components. Because that’s what you get by default, that’s what most developers end up using.
 
@@ -331,7 +331,7 @@ So, to tell React that I only want it to run when the component is mounted & unm
 
 ## Get the code
 
-Pretty easy right? It’s a simple project, but if you want a copy of the code, head over to my site to request a copy: **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.voitanos.io/blog/how-to-use-react-hooks-with-sharepoint-framework-spfx-projects?dst=pnpblog&utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=How+to+use+React+hooks+with+the+SharePoint+Framework+(SPFx))**
+Pretty easy right? It’s a simple project, but if you want a copy of the code, head over to my site to request a copy: **[How to use React hooks with the SharePoint Framework (SPFx)](https://www.andrewconnell.com/articles/sharepoint-framework-how-to-use-react-hooks-with-spfx-projects/))**
 
 ## What do you think about React hooks?
 

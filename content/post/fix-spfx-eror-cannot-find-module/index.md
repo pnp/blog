@@ -21,11 +21,11 @@ images:
 # Community posts should always use "Community post" as the categories
 tags: ["SharePoint Framework (SPFx)"]
 categories: ["Community post"]
-canonicalURL: https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/
+canonicalURL: https://www.andrewconnell.com/articles/sharepoint-framework-fix-spfx-error-cannot-find-module/
 ---
-> This article originally appeared on Andrew Connell's site, **[How to Fix the SPFx Error: 'Cannot find module node:os'](https://www.voitanos.io/blog/fix-spfx-eror-cannot-find-module/?utm_medium=website&utm_source=pnpblog&utm_campaign=How+to+Fix+the+SPFx+Error%3A+%27Cannot+find+module+node%3Aos%27)**.
+> This article originally appeared on Andrew Connell's site, **[How to Fix the SPFx Error: 'Cannot find module node:os'](https://www.andrewconnell.com/articles/sharepoint-framework-fix-spfx-error-cannot-find-module/)**.
 
-From time to time, I see similar questions come up from students in my [SharePoint Framework courses](https://www.voitanos.io/courses-sharepoint-framework/). One that's come up a bunch recently is the first-run experience with a new project or one that you've recently acquired.
+From time to time, I see similar questions come up from students in my [SharePoint Framework courses](https://www.andrewconnell.com/courses/). One that's come up a bunch recently is the first-run experience with a new project or one that you've recently acquired.
 
 When you run any of the gulp tasks, like **gulp serve**, you get the following error: `Error: Cannot find module 'node:os'`, or something similar to it.
 
@@ -81,7 +81,7 @@ This obviously is the case when you create a brand new project.
 
 But it's also applies when you acquire a project by cloning it from a repository such as one in Azure DevOps, GitHub, or other source code repository hosters.
 
-Lacking the project's dependencies also applies when you download the project from some other resource, for example, like the [PnP SPFx sample repos](https://pnp.github.io/#samples) or as one of the samples from my [SharePoint Framework courses](https://www.voitanos.io/courses-sharepoint-framework/) that students have access to.
+Lacking the project's dependencies also applies when you download the project from some other resource, for example, like the [PnP SPFx sample repos](https://pnp.github.io/#samples) or as one of the samples from my [SharePoint Framework courses](https://www.andrewconnell.com/courses/) that students have access to.
 
 ## What's triggering the error?
 

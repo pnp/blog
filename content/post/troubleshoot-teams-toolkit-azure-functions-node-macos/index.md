@@ -27,9 +27,9 @@ tags:
   - Teams Toolkit
   - VS Code
 categories: ["Microsoft Teams development"]
-canonicalURL: https://www.voitanos.io/blog/troubleshoot-teams-toolkit-azure-functions-node-macos/
+canonicalURL: https://www.andrewconnell.com/articles/microsoft-teams-toolkit-troubleshoot-azure-functions-node-macos/
 ---
-> This article originally appeared on Andrew Connell's site, **[Troubleshoot TTK issues with Node, Azure Functions, & macOS](https://www.voitanos.io/blog/troubleshoot-teams-toolkit-azure-functions-node-macos/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Troubleshoot%20TTK%20issues%20with%20Node%2C%20Azure%20Functions%2C%20%26%20macOS)**.
+> This article originally appeared on Andrew Connell's site, **[Troubleshoot TTK issues with Node, Azure Functions, & macOS](https://www.andrewconnell.com/articles/microsoft-teams-toolkit-troubleshoot-azure-functions-node-macos/)**.
 
 I recently ran into an issue related to a node version manager (NVM) when working on a Microsoft Teams app using the Visual Studio Code (VSC) Teams Toolkit (TTK) using macOS that wasn't easy to figure out.
 
@@ -72,7 +72,7 @@ That's strange because I'm certain that I didn't install Node.js v22, but that m
 
 ![NVM configuration - set to default to Node.js v18.20.1](./images/nvm-config.png)
 
-Modern Node.js developers frequently use an NVM to manage multiple node environments on their workstations. [I've written about NVMs multiple times on this site](https://www.voitanos.io/blog/better-node-js-install-management-with-node-version-manager/?utm_medium=website&utm_source=pnpblog&utm_campaign=blog&utm_content=Troubleshoot%20TTK%20issues%20with%20Node%2C%20Azure%20Functions%2C%20%26%20macOS) so I'll spare you from repeating why I think they're so great.
+Modern Node.js developers frequently use an NVM to manage multiple node environments on their workstations. [I've written about NVMs multiple times on this site](https://www.andrewconnell.com/articles/node-js-better-install-management-with-node-version-manager/) so I'll spare you from repeating why I think they're so great.
 
 Confirmed... it's Node.js v18.
 
