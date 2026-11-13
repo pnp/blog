@@ -29,7 +29,9 @@ Download a [recurring community call invite](https://aka.ms/community/calls) and
 Latest news from Microsoft on Copilot, Microsoft 365 and Power Platform, a community together mode group photo, followed by these demos:
 
 * [Nicole Woon](https://www.linkedin.com/in/niwoon/) - Getting started with HTML pages in SharePoint: Create, edit and publish
+
 * [Joe Komban](https://www.linkedin.com/in/kjoefrancis/) - Copilot in SharePoint: New Skills Management Experience
+
 
 ### Copilot Studio & Power Platform community call - 18 November
 
