@@ -5,7 +5,7 @@ author: "Sujin Nelladath"
 githubname: nelladath
 categories: ["Community post"]
 images:
-- images/Reports2.png
+- images/connect-mggraph.03.png
 tags: ["PowerShell", "Microsoft Graph API", "Graph SDK", "Microsoft 365"]
 type: "regular"
 ---
