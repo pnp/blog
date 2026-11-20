@@ -40,7 +40,7 @@ Latest on SharePoint Framework (SPFx), Copilot prompt of the week, PnPjs, CLI fo
 
 Community demos this week:
 
-* Mohammed Hamed - The Self-Healing Voice Agent: When AI Detects a Broken Customer Journey
+* [Mohammed Hamed](https://www.linkedin.com/in/mohammed-hamed-89398913/) - The Self-Healing Voice Agent: When AI Detects a Broken Customer Journey
 * [Harminder Singh](https://www.linkedin.com/in/harmindersinghsethi/) - Planning for the Holidays with a Copilot UX component
 * [Eliott Margot](https://www.linkedin.com/in/elliot-margot-52742a156/) - Your Agent Passed Yesterday: Run Copilot Studio Evaluations From a Pipeline
 
