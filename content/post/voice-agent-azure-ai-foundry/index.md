@@ -16,7 +16,7 @@ images:
 tags: []
 # Don't change
 type: "regular"
-draft: true
+draft: false
 ---
 
 A hands-on account of building a voice-first wine pricing assistant on Azure AI Foundry: the architecture, the honest limitations, and the wall I hit at deployment.
