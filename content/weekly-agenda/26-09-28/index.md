@@ -127,7 +127,7 @@ Please take the opportunity to join these great conferences organized by the bes
 * [Cloud and Datacenter Conference Germany4 Days](https://communitydays.org/event/2026-09-30/cloud-and-datacenter-conference-germany) - October 1, 2026
 * [M365 TORONTO 20266 Days](https://communitydays.org/event/2026-10-02/m365-toronto-2026) - October 2, 2026
 * [North American Cloud & Collaboration Summit 2026](https://communitydays.org/event/2026-10-04/north-american-cloud-and-collaboration-summit-2026) - October 4, 2026
-* [Devoxx](https://communitydays.orghttps://devoxx.be) - October 5, 2026
+* [Devoxx](https://devoxx.be) - October 5, 2026
 * [M365 Community Days Montréal #3-2026 – Microsoft 365 Copilot](https://communitydays.org/event/2026-10-07/m365-community-days-montreal-hash3-2026-microsoft-365-copilot) - October 7, 2026
 * [DynamicsCon Regional - Europe](https://communitydays.org/event/2026-10-07/dynamicscon-regional-europe) - October 7, 2026
 * [Community Summit North America 2026](https://communitydays.org/event/2026-10-11/community-summit-north-america-2026) - October 11, 2026
