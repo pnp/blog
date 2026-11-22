@@ -121,7 +121,7 @@ These are the main big ones for this and next semester - Do not miss out, it wil
 Please take the opportunity to join these great conferences organized by the best community in tech across the world. There are online and in-person options. See more from [CommunityDays.org](https://www.communitydays.org/).
 
 
-* [Devoxx3 Days](https://communitydays.orghttps://devoxx.be) - Location: Antwerp, Belgium - Start: October 5, 2026 - End: October 9, 2026
+* [Devoxx3 Days](https://devoxx.be) - Location: Antwerp, Belgium - Start: October 5, 2026 - End: October 9, 2026
 * [M365 Community Days Montréal #3-2026 – Microsoft 365 Copilot5 Days](https://communitydays.org/event/2026-10-07/m365-community-days-montreal-hash3-2026-microsoft-365-copilot) - Location: Montreal, QC, Canada - Start: October 7, 2026 - End: October 7, 2026
 * [DynamicsCon Regional - Europe5 Days](https://communitydays.org/event/2026-10-07/dynamicscon-regional-europe) - Location: Frankfurt am Main, Hesse, Germany - Start: October 7, 2026 - End: October 7, 2026
 * [Community Summit North America 2026](https://communitydays.org/event/2026-10-11/community-summit-north-america-2026) - Location: Nashville, TN, United States - Start: October 11, 2026 - End: October 15, 2026
