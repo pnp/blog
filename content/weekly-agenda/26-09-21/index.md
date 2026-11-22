@@ -35,7 +35,7 @@ Demos this time:
 ### Copilot, Microsoft 365 & Power Platform Community call - 24th of September
 
 * Thursday, 24th of September 2026, 7:00 AM PT / 3:00 PM GMT
-* Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/sp-sig-call-join) we'd love to see you in the call!
+* Download the [recurring invite](https://aka.ms/community/m365-powerplat-call-invite) or [join the call](https://aka.ms/spdev-sig-call-join) we'd love to see you in the call!
 * If you can't make it this time, you see the recording of the call from the [Microsoft 365 & Power Platform Community YouTube channel](https://www.youtube.com/watch?v=gAqUr9wa2_0&list=PLR9nK3mnD-OURfm5Ypu-wK52cxBv_gXCA)
 
 Demos this time:
